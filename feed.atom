@@ -2,20 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cod3crash.github.io/sec/index.html</id>
     <title>security feed</title>
-    <updated>2021-12-23T02:50:47.778Z</updated>
+    <updated>2021-12-23T03:02:40.120Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://cod3crash.github.io/sec/index.html"/>
     <link rel="self" href="https://cod3crash.github.io/sec/feed.atom"/>
-    <entry>
-        <title type="html"><![CDATA[ReentrantLock可重入锁——源码详解 - 酒冽]]></title>
-        <id>http://www.cnblogs.com/frankiedyz/p/15719681.html</id>
-        <link href="http://www.cnblogs.com/frankiedyz/p/15719681.html"/>
-        <updated>2021-12-23T02:38:00.000Z</updated>
-        <summary type="html"><![CDATA[结合AQS，解析JUC可重入锁——ReentrantLock源码]]></summary>
-        <author>
-            <name>博客园_首页</name>
-        </author>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Beyond Long4j: A Twitter Spaces Summary]]></title>
         <id>https://medium.com/p/f7aed6a60dcf</id>
@@ -28,36 +18,6 @@ Continue reading on Medium »]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Amazing！！CSS 也能实现极光？ - ChokCoco]]></title>
-        <id>http://www.cnblogs.com/coco1s/p/15722286.html</id>
-        <link href="http://www.cnblogs.com/coco1s/p/15722286.html"/>
-        <updated>2021-12-23T02:22:00.000Z</updated>
-        <summary type="html"><![CDATA[在上次写完这篇文章 -- 巧用渐变实现高级感拉满的背景光动画 之后，文章下面的评论有同学留言，使用 CSS 可以实现极光吗？ 像是这样： emmm，这有点难为人了。不过，最近我也尝试着去试了下，虽然不可能模拟出那么真实的效果，但是使用 CSS 还是可以作出类似的一些特效的，今天我们就一起来尝试下。]]></summary>
-        <author>
-            <name>博客园_首页</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TensorFlow.NET机器学习入门【2】线性回归 - seabluescn]]></title>
-        <id>http://www.cnblogs.com/seabluescn/p/15543388.html</id>
-        <link href="http://www.cnblogs.com/seabluescn/p/15543388.html"/>
-        <updated>2021-12-23T01:38:00.000Z</updated>
-        <summary type="html"><![CDATA[回归分析用于分析输入变量和输出变量之间的一种关系，其中线性回归是最简单的一种。 设： Y=wX+b，现已知一组X（输入）和Y（输出）的值，要求出w和b的值。 举个例子：快年底了，销售部门要发年终奖了，销售员小王想知道今年能拿多少年终奖，目前他大抵知道年终奖是和销售额（特征量）挂钩的，具体什么规则不清]]></summary>
-        <author>
-            <name>博客园_首页</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Java 中接口和抽象类的 7 大区别！ - Java中文社群]]></title>
-        <id>http://www.cnblogs.com/vipstone/p/15722044.html</id>
-        <link href="http://www.cnblogs.com/vipstone/p/15722044.html"/>
-        <updated>2021-12-23T01:22:00.000Z</updated>
-        <summary type="html"><![CDATA[本文已收录《Java常见面试题》：https://gitee.com/mydb/interview ​ Java 是一门面向对象的编程语言，面向对象的编程语言有四大特征：抽象、封装、继承和多态。 而本文介绍的接口和抽象类就是面向对象编程中“抽象”的具体实现，也就是说接口和抽象类都是用来定义实体类的公]]></summary>
-        <author>
-            <name>博客园_首页</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[AppSec Series 0x04: Crowdsourcing Security]]></title>
         <id>https://medium.com/p/a8f72faca352</id>
         <link href="https://medium.com/swlh/appsec-series-0x04-crowdsourcing-security-a8f72faca352?source=rss------bugbounty-5"/>
@@ -66,66 +26,6 @@ Continue reading on Medium »]]></summary>
 Continue reading on The Startup »]]></summary>
         <author>
             <name>Alejandro Iacobelli</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Java Record 的一些思考 - 默认方法使用以及基于预编译生成相关字节码的底层实现 - 干货满满张哈希]]></title>
-        <id>http://www.cnblogs.com/zhxdick/p/15722008.html</id>
-        <link href="http://www.cnblogs.com/zhxdick/p/15722008.html"/>
-        <updated>2021-12-23T01:12:00.000Z</updated>
-        <summary type="html"><![CDATA[快速上手 Record 类 我们先举一个简单例子，声明一个用户 Record。 public record User(long id, String name, int age) {} 这样编写代码之后，Record 类默认包含的元素和方法实现包括： record 头指定的组成元素（int id,]]></summary>
-        <author>
-            <name>博客园_首页</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CG Kit探索移动端高性能渲染 - 华为开发者论坛]]></title>
-        <id>http://www.cnblogs.com/developer-huawei/p/15721980.html</id>
-        <link href="http://www.cnblogs.com/developer-huawei/p/15721980.html"/>
-        <updated>2021-12-23T00:59:00.000Z</updated>
-        <summary type="html"><![CDATA[内容来源：华为开发者大会2021 HMS Core 6 Graphics技术论坛，主题演讲《CG Kit探索移动端高性能渲染》 演讲嘉宾：华为海思麒麟GPU团队工程师 大家好，我来自华为海思麒麟团队的一名GPU研发工程师，今天给大家带来的主题是“CG Kit探索移动端高性能渲染”。 华为图形计算服务]]></summary>
-        <author>
-            <name>博客园_首页</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WebRTC本地插入多个转发节点，模拟多节点转发，造成延迟 - AnRFDev]]></title>
-        <id>http://www.cnblogs.com/rustfisher/p/15721972.html</id>
-        <link href="http://www.cnblogs.com/rustfisher/p/15721972.html"/>
-        <updated>2021-12-23T00:56:00.000Z</updated>
-        <summary type="html"><![CDATA[网络延迟是一种比较常见的情况。在本地网页上，我们可以建立多个RTCPeerConnection，增加转发次数，来模拟出网络延迟的效果。 建立通话后，再往后面增加本地转发节点。 准备 页面准备，方便我们后面调试 <div id="container"> <h1><a href="https://an.]]></summary>
-        <author>
-            <name>博客园_首页</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【死磕Java并发】-----内存模型之happens-before - chenssy]]></title>
-        <id>http://www.cnblogs.com/chenssy/p/15721969.html</id>
-        <link href="http://www.cnblogs.com/chenssy/p/15721969.html"/>
-        <updated>2021-12-23T00:53:00.000Z</updated>
-        <summary type="html"><![CDATA[在上篇博客（【死磕Java并发】 深入分析volatile的实现原理）LZ提到过由于存在线程本地内存和主内存的原因，再加上重排序，会导致多线程环境下存在可见性的问题。那么我们正确使用同步、锁的情况下，线程A修改了变量a何时对线程B可见？ 我们无法就所有场景来规定某个线程修改的变量何时对其他线程可见，]]></summary>
-        <author>
-            <name>博客园_首页</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[今年我经历了裸辞，自由职业，再就业 - Java3y]]></title>
-        <id>http://www.cnblogs.com/Java3y/p/15721962.html</id>
-        <link href="http://www.cnblogs.com/Java3y/p/15721962.html"/>
-        <updated>2021-12-23T00:46:00.000Z</updated>
-        <summary type="html"><![CDATA[大家好，我是3y 这是一篇我对2021年的总结文章，记得上一次写这种类型文章的我还是在2019年。没错，2020年我并没有写年终总结。 今天突发奇想，想记录下自己2021年做了些什么，于是产出了这篇文章。 了解我的老读者可能会知道我是一个比较佛系的人，我并不会去总结我哪些做得好或者并不好的地方，以及]]></summary>
-        <author>
-            <name>博客园_首页</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[k8s daemonset controller源码分析 - 良凯尔]]></title>
-        <id>http://www.cnblogs.com/lianngkyle/p/15706803.html</id>
-        <link href="http://www.cnblogs.com/lianngkyle/p/15706803.html"/>
-        <updated>2021-12-23T00:44:00.000Z</updated>
-        <summary type="html"><![CDATA[daemonset controller是kube-controller-manager组件中众多控制器中的一个，是 daemonset 资源对象的控制器，其通过对daemonset、pod、node、ControllerRevision四种资源的监听，当这四种资源发生变化时会触发 daemonse...]]></summary>
-        <author>
-            <name>博客园_首页</name>
         </author>
     </entry>
     <entry>
@@ -214,16 +114,6 @@ Continue reading on Medium »]]></summary>
  [link]   [comments]]]></summary>
         <author>
             <name>Computer Forensics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jaeger知识点补充 - 程序员欣宸]]></title>
-        <id>http://www.cnblogs.com/bolingcavalry/p/15721841.html</id>
-        <link href="http://www.cnblogs.com/bolingcavalry/p/15721841.html"/>
-        <updated>2021-12-22T22:47:00.000Z</updated>
-        <summary type="html"><![CDATA[欢迎访问我的GitHub https://github.com/zq2599/blog_demos 内容：所有原创文章分类汇总及配套源码，涉及Java、Docker、Kubernetes、DevOPS等； 《Jaeger实战(Java版)》系列全文 《分布式调用链跟踪工具Jaeger？两分钟极速体验]]></summary>
-        <author>
-            <name>博客园_首页</name>
         </author>
     </entry>
     <entry>
@@ -470,16 +360,6 @@ However, there wasn't a great deal of insight i…]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ViewModel的创建 - 圣骑士wind]]></title>
-        <id>http://www.cnblogs.com/mengdd/p/android-creation-of-viewmodel.html</id>
-        <link href="http://www.cnblogs.com/mengdd/p/android-creation-of-viewmodel.html"/>
-        <updated>2021-12-22T17:10:00.000Z</updated>
-        <summary type="html"><![CDATA[ViewModel的创建很关键, 关系到它的生命周期. 手动创建比较麻烦, 很多样板代码.本文总结了几种常见的创建方式, 希望读者看完后能有更清晰的理解, 每种方式都是怎么回事, 那些方便的工具替我们做了什么.]]></summary>
-        <author>
-            <name>博客园_首页</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Bug bounty platforms handling thousands of Log4j vulnerability reports]]></title>
         <id>https://news.ycombinator.com/item?id=29651771</id>
         <link href="https://portswigger.net/daily-swig/bug-bounty-platforms-handling-thousands-of-log4j-vulnerability-reports"/>
@@ -526,33 +406,14 @@ Continue reading on Medium »]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【科普】.NET 泛型 - sogeisetsu]]></title>
-        <id>http://www.cnblogs.com/sogeisetsu/p/15721731.html</id>
-        <link href="http://www.cnblogs.com/sogeisetsu/p/15721731.html"/>
-        <updated>2021-12-22T16:09:00.000Z</updated>
-        <summary type="html"><![CDATA[本文内容来自我写的开源电子书《WoW C#》，现在正在编写中，可以去WOW-Csharp/学习路径总结.md at master · sogeisetsu/WOW-Csharp (github.com)来查看编写进度。预计2021年年底会完成编写，2022年2月之前会完成所有的校对和转制电子书工作，]]></summary>
+        <title type="html"><![CDATA[SecWiki News 2021-12-22 Review]]></title>
+        <id>http://www.sec-wiki.com/?2021-12-22</id>
+        <link href="http://www.sec-wiki.com/?2021-12-22"/>
+        <updated>2021-12-22T15:58:20.000Z</updated>
+        <summary type="html"><![CDATA[今日暂未更新资讯~
+更多最新文章，请访问SecWiki]]></summary>
         <author>
-            <name>博客园_首页</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Asp.Net Core基础篇之：白话管道中间件 - 畅饮无绪]]></title>
-        <id>http://www.cnblogs.com/cool-net/p/15721699.html</id>
-        <link href="http://www.cnblogs.com/cool-net/p/15721699.html"/>
-        <updated>2021-12-22T15:53:00.000Z</updated>
-        <summary type="html"><![CDATA[在Asp.Net Core中，管道往往伴随着请求一起出现。客户端发起Http请求，服务端去响应这个请求，之间的过程都在管道内进行。 举一个生活中比较常见的例子：旅游景区。 我们都知道，有些景区大门离景区很远，我们需要经过层层关卡才能到达景区。 我的请求最终就是去到景区，去到景区的整个过程就是管道，景]]></summary>
-        <author>
-            <name>博客园_首页</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SpringCloud Alibaba实战（12：引入Dubbo实现RPC调用） - 三分恶]]></title>
-        <id>http://www.cnblogs.com/three-fighter/p/15721685.html</id>
-        <link href="http://www.cnblogs.com/three-fighter/p/15721685.html"/>
-        <updated>2021-12-22T15:46:00.000Z</updated>
-        <summary type="html"><![CDATA[源码地址：https://gitee.com/fighter3/eshop-project.git 持续更新中…… 大家好，我是老三，断更了半年，我又滚回来继续写这个系列了，还有人看吗…… 在前面的章节中，我们使用Fegin完成了服务间的远程调用，实际上，在更加注重性能的互联网公司中，一般都会使用R]]></summary>
-        <author>
-            <name>博客园_首页</name>
+            <name>SecWiki News</name>
         </author>
     </entry>
     <entry>
@@ -575,46 +436,6 @@ Continue reading on Medium »]]></summary>
  [link]   [comments]]]></summary>
         <author>
             <name>/r/netsec - Information Security News &amp; Discussion</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Go语言核心36讲（Go语言实战与应用二十七）--学习笔记 - MingsonZheng]]></title>
-        <id>http://www.cnblogs.com/MingsonZheng/p/15721637.html</id>
-        <link href="http://www.cnblogs.com/MingsonZheng/p/15721637.html"/>
-        <updated>2021-12-22T15:25:00.000Z</updated>
-        <summary type="html"><![CDATA[49 | 程序性能分析基础（下） 在上一篇文章中，我们围绕着“怎样让程序对 CPU 概要信息进行采样”这一问题进行了探讨，今天，我们再来一起看看它的拓展问题。 知识扩展 问题 1：怎样设定内存概要信息的采样频率？ 针对内存概要信息的采样会按照一定比例收集 Go 程序在运行期间的堆内存使用情况。设定内]]></summary>
-        <author>
-            <name>博客园_首页</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[『学了就忘』Linux系统定时任务 — 89、任务调度工具anacron - 繁华似锦Fighting]]></title>
-        <id>http://www.cnblogs.com/liuyuelinfighting/p/15721568.html</id>
-        <link href="http://www.cnblogs.com/liuyuelinfighting/p/15721568.html"/>
-        <updated>2021-12-22T15:01:00.000Z</updated>
-        <summary type="html"><![CDATA[在Linxu系统中，有三种用于任务调度的工具 at命令调用atd服务 crontab命令调用cron（crond）服务。 anacron工具。 1、任务调度工具anacron介绍 （1）anacron工具是用来干什么的呢？ 如果Linux服务器不是24小时开机的，那么刚好在关机的时间段之内有系统定时]]></summary>
-        <author>
-            <name>博客园_首页</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Redis缓存穿透、击穿、雪崩，数据库与缓存一致性 - 雨点的名字]]></title>
-        <id>http://www.cnblogs.com/qdhxhz/p/15721525.html</id>
-        <link href="http://www.cnblogs.com/qdhxhz/p/15721525.html"/>
-        <updated>2021-12-22T14:47:00.000Z</updated>
-        <summary type="html"><![CDATA[Redis作为高性能非关系型（NoSQL）的键值对数据库，受到了广大用户的喜爱和使用,大家在项目中都用到了Redis来做数据缓存，但有些问题我们在使用中不得不考虑，其中典型的问题就是：缓存穿透、缓存雪崩、缓存击穿和与关系型数据库的一致性。 一、缓存穿透 1、概念 缓存穿透是指查询一个缓存和数据库不存]]></summary>
-        <author>
-            <name>博客园_首页</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021年终总结：人类跌落梦境 - Dragonir]]></title>
-        <id>http://www.cnblogs.com/dragonir/p/15721456.html</id>
-        <link href="http://www.cnblogs.com/dragonir/p/15721456.html"/>
-        <updated>2021-12-22T14:32:00.000Z</updated>
-        <summary type="html"><![CDATA[为什么说是跌落梦境呢？小时候的梦想是成为科学家、成为宇航员、成为政界精英......但是随着成长，逐渐步入社会，成为朝五晚九的打工人，失去父母和学校的庇护...]]></summary>
-        <author>
-            <name>博客园_首页</name>
         </author>
     </entry>
     <entry>
@@ -651,16 +472,6 @@ Continue reading on Medium »]]></summary>
 Continue reading on BusyTechnology »]]></summary>
         <author>
             <name>Ing. Robert Michálek</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux中磁盘管理与三剑客之awk初识 - Deity_JGX]]></title>
-        <id>http://www.cnblogs.com/jgx0/p/15720370.html</id>
-        <link href="http://www.cnblogs.com/jgx0/p/15720370.html"/>
-        <updated>2021-12-22T14:22:00.000Z</updated>
-        <summary type="html"><![CDATA[昨日内容回顾 1.用两种方法实现 将文件中以 # 开头的行 把 # 去掉 sed -r 's/^ *#//g' /etc/fstab cat /etc/fstab | tr -d '^#' 2.将文件中的Hello World 替换成 World Hello sed -r 's/Hello Worl]]></summary>
-        <author>
-            <name>博客园_首页</name>
         </author>
     </entry>
     <entry>
@@ -1119,6 +930,16 @@ Points: 3
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[【安全通报】Apache HTTP Server 更新多个安全漏洞（CVE-20...]]></title>
+        <id>https://nosec.org/home/detail/4925.html</id>
+        <link href="https://nosec.org/home/detail/4925.html"/>
+        <updated>2021-12-21T23:29:52.000Z</updated>
+        <summary type="html"><![CDATA[近日，Apache HTTP Server 发布安全更新，修复了 Apache HTTP Server 中的服务端请求伪造（SSRF）和缓冲区...]]></summary>
+        <author>
+            <name>fmbd</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Ansible Red Hat detector Remote Code Execution – Log4j (CVE-2021-44228)]]></title>
         <id>https://news.ycombinator.com/item?id=29643144</id>
         <link href="https://github.com/lucab85/log4j-cve-2021-44228"/>
@@ -1260,6 +1081,18 @@ Points: 1
 # Comments: 0]]></summary>
         <author>
             <name>nanitor01</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SecWiki News 2021-12-21 Review]]></title>
+        <id>http://www.sec-wiki.com/?2021-12-21</id>
+        <link href="http://www.sec-wiki.com/?2021-12-21"/>
+        <updated>2021-12-21T15:58:20.000Z</updated>
+        <summary type="html"><![CDATA[国外网络演习思考  by ourren
+CaptfEncoder: 一款跨平台网络安全工具套件  by guyoung
+更多最新文章，请访问SecWiki]]></summary>
+        <author>
+            <name>SecWiki News</name>
         </author>
     </entry>
     <entry>
@@ -1775,6 +1608,18 @@ Continue reading on Medium »]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[SecWiki News 2021-12-20 Review]]></title>
+        <id>http://www.sec-wiki.com/?2021-12-20</id>
+        <link href="http://www.sec-wiki.com/?2021-12-20"/>
+        <updated>2021-12-20T15:58:20.000Z</updated>
+        <summary type="html"><![CDATA[SecWiki周刊（第407期)  by ourren
+CIS 介绍（下)-CIS Benchmark&CIS 社区防御模型2.0  by ourren
+更多最新文章，请访问SecWiki]]></summary>
+        <author>
+            <name>SecWiki News</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Shellcode Generation with The Radare2 Framework]]></title>
         <id>https://www.reddit.com/r/redteamsec/comments/rkp6nv/shellcode_generation_with_the_radare2_framework/</id>
         <link href="https://www.reddit.com/r/redteamsec/comments/rkp6nv/shellcode_generation_with_the_radare2_framework/"/>
@@ -2045,6 +1890,37 @@ Continue reading on Medium »]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[SecWiki News 2021-12-19 Review]]></title>
+        <id>http://www.sec-wiki.com/?2021-12-19</id>
+        <link href="http://www.sec-wiki.com/?2021-12-19"/>
+        <updated>2021-12-19T15:58:20.000Z</updated>
+        <summary type="html"><![CDATA[SPEL表达式注入漏洞深入分析   by ourren
+基于异常行为检测CobaltStrike  by ourren
+基于规则向量化的HTTP资产识别方法探索  by ourren
+浅谈被动式IAST产品与技术实现-代码实现Demo篇  by ourren
+浅谈被动式IAST产品与技术实现-基础篇  by ourren
+Codeql 挖洞？  by ourren
+应急响应：没有痕迹该如何进行攻击溯源  by ourren
+几款小众而实用的远控软件  by ourren
+iMessage 零点击漏洞利用细节公开  by ourren
+ACSAC 2021 论文录用列表  by ourren
+更多最新文章，请访问SecWiki]]></summary>
+        <author>
+            <name>SecWiki News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[digital world.local: Vengeance Vulnhub Walkthrough]]></title>
+        <id>https://www.hackingarticles.in/?p=27428</id>
+        <link href="https://www.hackingarticles.in/digital-world-local-vengeance-vulnhub-walkthrough/"/>
+        <updated>2021-12-19T15:24:09.000Z</updated>
+        <summary type="html"><![CDATA[Donavan’s VENGEANCE (digitalworld.local: VENGEANCE) is a medium level machine designed for Vulnhub. This lab includes a difficult exploitation procedure that is suitable for those experienced
+The post digital world.local: Vengeance Vulnhub Walkthrough appeared first on Hacking Articles.]]></summary>
+        <author>
+            <name>Raj Chandel</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Unauthorized access to choice.av.ru control panel]]></title>
         <id>https://hackerone.com/reports/963161</id>
         <link href="https://hackerone.com/reports/963161"/>
@@ -2234,6 +2110,28 @@ The Windows Registry holds a g…]]></summary>
  [link]   [comments]]]></summary>
         <author>
             <name>Computer Forensics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Detailed Guide on Log4J Penetration Testing]]></title>
+        <id>https://www.hackingarticles.in/?p=27420</id>
+        <link href="https://www.hackingarticles.in/a-detailed-guide-on-log4j-penetration-testing/"/>
+        <updated>2021-12-18T20:50:36.000Z</updated>
+        <summary type="html"><![CDATA[In this article, we are going to discuss and demonstrate in our lab setup, the exploitation of the new vulnerability identified as CVE-2021-44228 affecting the
+The post A Detailed Guide on Log4J Penetration Testing appeared first on Hacking Articles.]]></summary>
+        <author>
+            <name>Raj Chandel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SecWiki News 2021-12-18 Review]]></title>
+        <id>http://www.sec-wiki.com/?2021-12-18</id>
+        <link href="http://www.sec-wiki.com/?2021-12-18"/>
+        <updated>2021-12-18T15:58:20.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2016-7124反序列化漏洞复现  by SecIN社区
+更多最新文章，请访问SecWiki]]></summary>
+        <author>
+            <name>SecWiki News</name>
         </author>
     </entry>
     <entry>
@@ -2478,6 +2376,17 @@ Points: 1
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[SecWiki News 2021-12-17 Review]]></title>
+        <id>http://www.sec-wiki.com/?2021-12-17</id>
+        <link href="http://www.sec-wiki.com/?2021-12-17"/>
+        <updated>2021-12-17T15:58:20.000Z</updated>
+        <summary type="html"><![CDATA[今日暂未更新资讯~
+更多最新文章，请访问SecWiki]]></summary>
+        <author>
+            <name>SecWiki News</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Fail2ban / Regexp rule against LOG4J vuln]]></title>
         <id>https://www.reddit.com/r/netsec/comments/rihm4c/fail2ban_regexp_rule_against_log4j_vuln/</id>
         <link href="https://www.reddit.com/r/netsec/comments/rihm4c/fail2ban_regexp_rule_against_log4j_vuln/"/>
@@ -2600,6 +2509,17 @@ Points: 1
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[digital world.local: FALL Vulnhub Walkthrough]]></title>
+        <id>https://www.hackingarticles.in/?p=27416</id>
+        <link href="https://www.hackingarticles.in/digital-world-local-fall-vulnhub-walkthrough/"/>
+        <updated>2021-12-16T21:35:48.000Z</updated>
+        <summary type="html"><![CDATA[FALL (digitalworld.local: FALL) is a medium level machine created by Donavan for Vulnhub. This lab is appropriate for some experienced CTF players who wish to
+The post digital world.local: FALL Vulnhub Walkthrough appeared first on Hacking Articles.]]></summary>
+        <author>
+            <name>Raj Chandel</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Forgiveness]]></title>
         <id>https://medium.com/p/8d8c25f5a71b</id>
         <link href="https://medium.com/@pradewitch/forgiveness-8d8c25f5a71b?source=rss------xss-5"/>
@@ -2648,6 +2568,17 @@ Points: 2
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[SecWiki News 2021-12-16 Review]]></title>
+        <id>http://www.sec-wiki.com/?2021-12-16</id>
+        <link href="http://www.sec-wiki.com/?2021-12-16"/>
+        <updated>2021-12-16T15:58:20.000Z</updated>
+        <summary type="html"><![CDATA[Log4j2远程代码执行漏洞检测和防护策略研究  by ourren
+更多最新文章，请访问SecWiki]]></summary>
+        <author>
+            <name>SecWiki News</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Nighthawk 0.1 - New Beginnings - @MDSecLabs]]></title>
         <id>https://www.reddit.com/r/redteamsec/comments/rhtle6/nighthawk_01_new_beginnings_mdseclabs/</id>
         <link href="https://www.reddit.com/r/redteamsec/comments/rhtle6/nighthawk_01_new_beginnings_mdseclabs/"/>
@@ -2691,6 +2622,17 @@ Points: 2
  [link]   [comments]]]></summary>
         <author>
             <name>Computer Forensics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thales1 Vulnhub Walkthrough]]></title>
+        <id>https://www.hackingarticles.in/?p=27413</id>
+        <link href="https://www.hackingarticles.in/thales1-vulnhub-walkthrough/"/>
+        <updated>2021-12-16T08:00:05.000Z</updated>
+        <summary type="html"><![CDATA[“Thales” is a Capture the Flag challenge available on Vulnhub. MachineBoy deserves credit for developing this box. In this box, we will learn how to
+The post Thales1 Vulnhub Walkthrough appeared first on Hacking Articles.]]></summary>
+        <author>
+            <name>Raj Chandel</name>
         </author>
     </entry>
     <entry>
@@ -2830,6 +2772,18 @@ Points: 3
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[SecWiki News 2021-12-15 Review]]></title>
+        <id>http://www.sec-wiki.com/?2021-12-15</id>
+        <link href="http://www.sec-wiki.com/?2021-12-15"/>
+        <updated>2021-12-15T15:58:20.000Z</updated>
+        <summary type="html"><![CDATA[《软件分析》完整版课程视频  by ourren
+从Log4shell事件看资产风险运营工程化的困局与盲点  by ourren
+更多最新文章，请访问SecWiki]]></summary>
+        <author>
+            <name>SecWiki News</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Intro to Bitcoin investigation and wallet seizure - types of wallets, seeds, keys, and transactions]]></title>
         <id>https://www.reddit.com/r/computerforensics/comments/rh19o8/intro_to_bitcoin_investigation_and_wallet_seizure/</id>
         <link href="https://www.reddit.com/r/computerforensics/comments/rh19o8/intro_to_bitcoin_investigation_and_wallet_seizure/"/>
@@ -2890,6 +2844,16 @@ Points: 3
 Continue reading on Medium »]]></summary>
         <author>
             <name>d4t4s3c</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【安全通报】微软12月漏洞补丁日修复多个高危漏洞]]></title>
+        <id>https://nosec.org/home/detail/4919.html</id>
+        <link href="https://nosec.org/home/detail/4919.html"/>
+        <updated>2021-12-15T11:30:43.000Z</updated>
+        <summary type="html"><![CDATA[近日，微软发布 12 月份安全补丁，共修复了 67 个针对微软产品的CVE漏洞，其中 7个严重漏洞，60个高危漏洞。涉及 Windows 和 Windows 组件、ASP.NET Core 和 Vis...]]></summary>
+        <author>
+            <name>fmbd</name>
         </author>
     </entry>
     <entry>
@@ -2964,6 +2928,17 @@ Points: 2
 # Comments: 0]]></summary>
         <author>
             <name>janvdberg</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows Privilege Escalation: Scheduled Task/Job (T1573.005)]]></title>
+        <id>https://www.hackingarticles.in/?p=27409</id>
+        <link href="https://www.hackingarticles.in/windows-privilege-escalation-scheduled-task-job-t1573-005/"/>
+        <updated>2021-12-14T20:34:58.000Z</updated>
+        <summary type="html"><![CDATA[An attacker may exploit the Windows Task Scheduler to schedule malicious programmes for initial or recurrent execution. For persistence purposes, an attacker may utilise Windows
+The post Windows Privilege Escalation: Scheduled Task/Job (T1573.005) appeared first on Hacking Articles.]]></summary>
+        <author>
+            <name>Raj Chandel</name>
         </author>
     </entry>
     <entry>
@@ -3058,6 +3033,28 @@ Points: 10
 # Comments: 1]]></summary>
         <author>
             <name>weeha</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DarkHole: 2 Vulnhub Walkthrough]]></title>
+        <id>https://www.hackingarticles.in/?p=27404</id>
+        <link href="https://www.hackingarticles.in/darkhole-2-vulnhub-walkthrough/"/>
+        <updated>2021-12-14T16:29:07.000Z</updated>
+        <summary type="html"><![CDATA[DarkHole: 2 is a medium-hard machine created by Jihad Alqurashi for Vulnhub. This system is also put through its paces in VirtualBox. This lab is
+The post DarkHole: 2 Vulnhub Walkthrough appeared first on Hacking Articles.]]></summary>
+        <author>
+            <name>Raj Chandel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SecWiki News 2021-12-14 Review]]></title>
+        <id>http://www.sec-wiki.com/?2021-12-14</id>
+        <link href="http://www.sec-wiki.com/?2021-12-14"/>
+        <updated>2021-12-14T15:58:20.000Z</updated>
+        <summary type="html"><![CDATA[浅谈被动式IAST产品与技术实现  by ourren
+更多最新文章，请访问SecWiki]]></summary>
+        <author>
+            <name>SecWiki News</name>
         </author>
     </entry>
     <entry>
@@ -3219,6 +3216,17 @@ http://159.69.132.234/
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Seal HackTheBox Walkthrough]]></title>
+        <id>https://www.hackingarticles.in/?p=27400</id>
+        <link href="https://www.hackingarticles.in/seal-hackthebox-walkthrough/"/>
+        <updated>2021-12-13T20:45:23.000Z</updated>
+        <summary type="html"><![CDATA[Seal is a CTF Linux machine rated as medium difficulty on Hack the Box platform. So let get started and deep dive into breaking down
+The post Seal HackTheBox Walkthrough appeared first on Hacking Articles.]]></summary>
+        <author>
+            <name>Raj Chandel</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Vulnerabilities in exported activity WebView]]></title>
         <id>https://hackerone.com/reports/414101</id>
         <link href="https://hackerone.com/reports/414101"/>
@@ -3261,6 +3269,28 @@ Points: 1
 # Comments: 1]]></summary>
         <author>
             <name>lrngjcb</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SecWiki News 2021-12-13 Review]]></title>
+        <id>http://www.sec-wiki.com/?2021-12-13</id>
+        <link href="http://www.sec-wiki.com/?2021-12-13"/>
+        <updated>2021-12-13T15:58:20.000Z</updated>
+        <summary type="html"><![CDATA[SecWiki周刊（第406期)  by ourren
+从一例挖矿木马看 Log4Shell 的在野传播  by Avenger
+更多最新文章，请访问SecWiki]]></summary>
+        <author>
+            <name>SecWiki News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【安全通报】Apache Log4j2 远程代码执行漏洞]]></title>
+        <id>https://nosec.org/home/detail/4917.html</id>
+        <link href="https://nosec.org/home/detail/4917.html"/>
+        <updated>2021-12-13T15:58:06.000Z</updated>
+        <summary type="html"><![CDATA[近日，网络上出现 Apache Log4j2 远程代码执行漏洞。攻击者可利用该漏洞构造特殊的数据请求包，最终触发远程代码执行。由于该漏洞影响范围极广，建议广大用户及...]]></summary>
+        <author>
+            <name>fmbd</name>
         </author>
     </entry>
     <entry>
@@ -3507,6 +3537,17 @@ http://75.86.210.23/archive/ANIMU/
         <summary type="html"><![CDATA[Mail.ru disclosed a bug submitted by mrirfan__07: https://hackerone.com/reports/1215179]]></summary>
         <author>
             <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chronos Vulnhub Walkthrough]]></title>
+        <id>https://www.hackingarticles.in/?p=27395</id>
+        <link href="https://www.hackingarticles.in/chronos-vulnhub-walkthrough/"/>
+        <updated>2021-12-11T22:31:05.000Z</updated>
+        <summary type="html"><![CDATA[Chronos is an easy/medium machine from Vulnhub by AL1ENUM. This machine is also tested in VirtualBox. This lab is suitable for novices because it has
+The post Chronos Vulnhub Walkthrough appeared first on Hacking Articles.]]></summary>
+        <author>
+            <name>Raj Chandel</name>
         </author>
     </entry>
     <entry>
@@ -4050,6 +4091,17 @@ State of the subreddit posts will most likely continue once every quarter (3 mon
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Explore Hackthebox Walkthrough]]></title>
+        <id>https://www.hackingarticles.in/?p=27388</id>
+        <link href="https://www.hackingarticles.in/explore-hackthebox-walkthrough/"/>
+        <updated>2021-12-07T20:58:46.000Z</updated>
+        <summary type="html"><![CDATA[“Explore” is a Capture the Flag challenge that we’ll be solving today. (HTB) Hack the Box is where you can get your hands on one,
+The post Explore Hackthebox Walkthrough appeared first on Hacking Articles.]]></summary>
+        <author>
+            <name>Raj Chandel</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[CORS origin validation failure]]></title>
         <id>https://hackerone.com/reports/1404986</id>
         <link href="https://hackerone.com/reports/1404986"/>
@@ -4067,6 +4119,16 @@ State of the subreddit posts will most likely continue once every quarter (3 mon
         <summary type="html"><![CDATA[UPchieve disclosed a bug submitted by anas_44: https://hackerone.com/reports/1406471]]></summary>
         <author>
             <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【安全通报】Grafana 未授权任意文件读取 0day 漏洞]]></title>
+        <id>https://nosec.org/home/detail/4914.html</id>
+        <link href="https://nosec.org/home/detail/4914.html"/>
+        <updated>2021-12-07T15:01:35.000Z</updated>
+        <summary type="html"><![CDATA[近日，网络上出现 Grafana 未授权任意文件读取的 0day 漏洞，漏洞细节暂未公开。攻击者可通过该漏洞在未经身份验证的情况下读取主机上的任意文件。]]></summary>
+        <author>
+            <name>fmbd</name>
         </author>
     </entry>
     <entry>
@@ -4347,6 +4409,17 @@ Continue reading on Medium »]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[PowerShell for Pentester: Windows Reverse Shell]]></title>
+        <id>https://www.hackingarticles.in/?p=27377</id>
+        <link href="https://www.hackingarticles.in/powershell-for-pentester-windows-reverse-shell/"/>
+        <updated>2021-12-03T13:45:26.000Z</updated>
+        <summary type="html"><![CDATA[Today, we’ll explore how to acquire a reverse shell using Powershell scripts on the Windows platform. Table of Content Powercat Invoke-PowerShellTcp (Nishang) ConPtyShell Mini-reverse PowerShell
+The post PowerShell for Pentester: Windows Reverse Shell appeared first on Hacking Articles.]]></summary>
+        <author>
+            <name>Raj Chandel</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Ability to add address without being an admin or staff in the store via wholesale store]]></title>
         <id>https://hackerone.com/reports/1279322</id>
         <link href="https://hackerone.com/reports/1279322"/>
@@ -4449,6 +4522,16 @@ Continue reading on Medium »]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[【安全通报】惠普多功能打印机多个高危漏洞（CVE-2021-3923...]]></title>
+        <id>https://nosec.org/home/detail/4911.html</id>
+        <link href="https://nosec.org/home/detail/4911.html"/>
+        <updated>2021-12-01T18:24:42.000Z</updated>
+        <summary type="html"><![CDATA[近日，惠普多功能打印机多个高危漏洞（CVE-2021-39237&CVE-2021-39238）细节公开，惠普官方曾于11月1日发布安全公告。攻击者可利用这些漏洞获取敏感信息、进行远...]]></summary>
+        <author>
+            <name>fmbd</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Welley Christ is trending as the world’s perfect man and he needs a deal for a record label and…]]></title>
         <id>https://medium.com/p/97e450a93e75</id>
         <link href="https://medium.com/@model.org/welley-christ-is-trending-as-the-worlds-perfect-man-and-he-needs-a-deal-for-a-record-label-and-97e450a93e75?source=rss------xss-5"/>
@@ -4541,6 +4624,16 @@ Continue reading on Medium »]]></summary>
         <summary type="html"><![CDATA[VK.com disclosed a bug submitted by executor: https://hackerone.com/reports/505336 - Bounty: $200]]></summary>
         <author>
             <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【安全通报】泛微E-Office文件上传漏洞（CNVD-2021-49104）]]></title>
+        <id>https://nosec.org/home/detail/4910.html</id>
+        <link href="https://nosec.org/home/detail/4910.html"/>
+        <updated>2021-11-27T19:44:46.000Z</updated>
+        <summary type="html"><![CDATA[近日，网络上出现 泛微E-Office 文件上传漏洞（CNVD-2021-49104）在野利用事件，攻击者可通过该漏洞在影响...]]></summary>
+        <author>
+            <name>fmbd</name>
         </author>
     </entry>
     <entry>
@@ -4758,6 +4851,16 @@ Continue reading on Medium »]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[【安全通报】Metabase 敏感信息泄露漏洞（CVE-2021-41277）]]></title>
+        <id>https://nosec.org/home/detail/4909.html</id>
+        <link href="https://nosec.org/home/detail/4909.html"/>
+        <updated>2021-11-20T13:38:58.000Z</updated>
+        <summary type="html"><![CDATA[近日，metabase 爆出敏感信息泄露漏洞，该漏洞 CVSS3 评分高达 9.9。攻击者可在未经身份验证的情况下获取系统敏感信息。]]></summary>
+        <author>
+            <name>fmbd</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[The secret to getting results, not noise, from your DAST solution]]></title>
         <id>https://www.netsparker.com/blog/9e0b726b-d28b-4b2d-981f-e356323a69f3/</id>
         <link href="https://www.netsparker.com/blog/web-security/getting-results-not-noise-from-your-dast-solution/"/>
@@ -4815,6 +4918,16 @@ Continue reading on Medium »]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[【安全通报】Apache ShenYu Admin 身份验证绕过漏洞（CVE-2...]]></title>
+        <id>https://nosec.org/home/detail/4906.html</id>
+        <link href="https://nosec.org/home/detail/4906.html"/>
+        <updated>2021-11-17T16:22:14.000Z</updated>
+        <summary type="html"><![CDATA[近日，Apache ShenYu Admin爆出身份验证绕过漏洞，攻击者可通过该漏洞绕过JSON Web Token (JWT)安全认证，直接进入系统后台。]]></summary>
+        <author>
+            <name>fmbd</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Burp Suite certification prices hacked for Black Friday]]></title>
         <id>burp-suite-certification-prices-hacked-for-black-friday</id>
         <link href="https://portswigger.net/blog/burp-suite-certification-prices-hacked-for-black-friday"/>
@@ -4822,6 +4935,16 @@ Continue reading on Medium »]]></summary>
         <summary type="html"><![CDATA[For the very first time, we've decided to join the rest of the world and run a Black Friday offer. Between 16 November 2021 and 30 November 2021, you can buy our Burp Suite Certified Practitioner exam]]></summary>
         <author>
             <name>PortSwigger Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【安全通报】Hadoop Yarn RPC服务未授权访问漏洞]]></title>
+        <id>https://nosec.org/home/detail/4905.html</id>
+        <link href="https://nosec.org/home/detail/4905.html"/>
+        <updated>2021-11-16T17:50:28.000Z</updated>
+        <summary type="html"><![CDATA[近日，网络上出现 Hadoop Yarn RPC 服务未授权访问漏洞的在野利用事件，攻击者可在未经过身份验证的情况下通过该漏洞在影响主机执行任意命令。]]></summary>
+        <author>
+            <name>fmbd</name>
         </author>
     </entry>
     <entry>
@@ -4939,6 +5062,16 @@ Points: 15
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[【安全通报】PAN GlobalProtect Portal 内存损坏漏洞（CVE-...]]></title>
+        <id>https://nosec.org/home/detail/4902.html</id>
+        <link href="https://nosec.org/home/detail/4902.html"/>
+        <updated>2021-11-11T12:31:57.000Z</updated>
+        <summary type="html"><![CDATA[近日，Palo Alto Networks (PAN) 发布安全公告，修复了Palo Alto Networks GlobalProtect portal 和 gateway interfaces 中的内存损坏漏洞。未经身份验证的攻击...]]></summary>
+        <author>
+            <name>fmbd</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Asking Github Copilot to write Fuzzers & Hacking code for me - Hacking with AI]]></title>
         <id>https://www.reddit.com/r/ExploitDev/comments/qq5ghk/asking_github_copilot_to_write_fuzzers_hacking/</id>
         <link href="https://www.reddit.com/r/ExploitDev/comments/qq5ghk/asking_github_copilot_to_write_fuzzers_hacking/"/>
@@ -4960,6 +5093,17 @@ Points: 2
 # Comments: 0]]></summary>
         <author>
             <name>todsacerdoti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Decrypt As If Your Security Depends on It]]></title>
+        <id>https://securityweekly.com/?p=39061</id>
+        <link href="https://securityweekly.com/2021/11/02/decrypt-as-if-your-security-depends-on-it/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=decrypt-as-if-your-security-depends-on-it"/>
+        <updated>2021-11-02T17:35:01.000Z</updated>
+        <summary type="html"><![CDATA[Encryption has reached near-full adoption by internal teams hoping to implement stronger security and privacy practices. Simultaneously, attackers are using the same mechanisms to hide their malicious activity from the defender’s line of sight. According to the Ponemon Institute’s 2021 Global Encryption Trends Study, 50% of organizations have an encryption plan consistently applied across their […]
+The post Decrypt As If Your Security Depends on It appeared first on Security Weekly.]]></summary>
+        <author>
+            <name>Bill Brenner</name>
         </author>
     </entry>
     <entry>
@@ -4995,6 +5139,17 @@ Points: 3
 # Comments: 1]]></summary>
         <author>
             <name>fhenneke</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DevSecOps Scanning Challenges & Tips]]></title>
+        <id>https://securityweekly.com/?p=39010</id>
+        <link href="https://securityweekly.com/2021/10/26/devsecops-scanning-challenges-tips/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=devsecops-scanning-challenges-tips"/>
+        <updated>2021-10-26T15:57:38.000Z</updated>
+        <summary type="html"><![CDATA[There are many ways to do DevSecOps, and each organization — each security team, even — uses a different approach. Questions such as how many environments you have and the frequency of deployment of those environments are important in understanding how to integrate a security scanner into your DevSecOps machinery. The ultimate goal is speed […]
+The post DevSecOps Scanning Challenges & Tips appeared first on Security Weekly.]]></summary>
+        <author>
+            <name>Bill Brenner</name>
         </author>
     </entry>
     <entry>
@@ -5058,6 +5213,17 @@ Points: 4
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[It Should Be ‘Cybersecurity Culture Month’]]></title>
+        <id>https://securityweekly.com/?p=38945</id>
+        <link href="https://securityweekly.com/2021/10/19/it-should-be-cybersecurity-culture-month/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=it-should-be-cybersecurity-culture-month"/>
+        <updated>2021-10-19T16:41:20.000Z</updated>
+        <summary type="html"><![CDATA[It’s Cybersecurity Awareness Month, but security awareness is about much more than just dedicating a month to a few activities. Security awareness is a journey, requiring motivation along the way. And culture. Especially culture.That’s the point Proofpoint Cybersecurity Evangelist Brian Reed drove home in a recent appearance on Business Security Weekly.“If your security awareness program […]
+The post It Should Be ‘Cybersecurity Culture Month’ appeared first on Security Weekly.]]></summary>
+        <author>
+            <name>Bill Brenner</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[The Challenges of Fuzzing 5G Protocols]]></title>
         <id>https://news.ycombinator.com/item?id=28917943</id>
         <link href="https://research.nccgroup.com/2021/10/11/the-challenges-of-fuzzing-5g-protocols/"/>
@@ -5118,6 +5284,17 @@ Points: 11
 Continue reading → Resource Based Constrained Delegation]]></summary>
         <author>
             <name>Administrator</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Power of Developer-First Security]]></title>
+        <id>https://securityweekly.com/?p=38847</id>
+        <link href="https://securityweekly.com/2021/10/11/the-power-of-developer-first-security/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=the-power-of-developer-first-security"/>
+        <updated>2021-10-11T17:26:28.000Z</updated>
+        <summary type="html"><![CDATA[Developers want to write good code. Secure code. Tools that optimize developer workflows for handling security issues can take a large burden off security practitioners and make triaging, understanding, prioritizing, and resolving vulnerabilities much easier and faster for the developer. That’s what DevSecOps is all about. One company that has developed such tools is GitLab. […]
+The post The Power of Developer-First Security appeared first on Security Weekly.]]></summary>
+        <author>
+            <name>Bill Brenner</name>
         </author>
     </entry>
     <entry>
@@ -5306,6 +5483,17 @@ Points: 1
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Building a More Secure AppDev Process]]></title>
+        <id>https://securityweekly.com/?p=38701</id>
+        <link href="https://securityweekly.com/2021/09/20/building-a-more-secure-appdev-process/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=building-a-more-secure-appdev-process"/>
+        <updated>2021-09-20T20:52:45.000Z</updated>
+        <summary type="html"><![CDATA[Enterprises that integrate security testing into their CI/CD pipeline fix 91.4 percent of new issues, according to a progress report from ShiftLeft. Recent software supply chain attacks illustrate the growing risks businesses, their partners, and customers face. But a recent report suggests better outcomes for those who put security at the heart of app development. Data from […]
+The post Building a More Secure AppDev Process appeared first on Security Weekly.]]></summary>
+        <author>
+            <name>Bill Brenner</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Software Fuzzing: What, Why, What next?]]></title>
         <id>https://medium.com/p/59d92c03675c</id>
         <link href="https://medium.com/@shach_m/software-fuzzing-what-why-what-next-59d92c03675c?source=rss------fuzzing-5"/>
@@ -5431,6 +5619,17 @@ Continue reading on Medium »]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Web App and API Security Needs to Be Modernized: Here’s How]]></title>
+        <id>https://securityweekly.com/?p=38584</id>
+        <link href="https://securityweekly.com/2021/08/31/web-app-and-api-security-needs-to-be-modernized-heres-how/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=web-app-and-api-security-needs-to-be-modernized-heres-how"/>
+        <updated>2021-08-31T22:25:39.000Z</updated>
+        <summary type="html"><![CDATA[Applications are critical for doing business. They are also the weakest links in many an organization’s security chain. Many APIs continue to expose the personally identifiable information of customers, employees and contractors. As OWASP (Open Web Application Security Project) notes on its API Security Project homepage: “By nature, APIs expose application logic and sensitive data […]
+The post Web App and API Security Needs to Be Modernized: Here’s How appeared first on Security Weekly.]]></summary>
+        <author>
+            <name>Bill Brenner</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Building a Career in CyberSecurity]]></title>
         <id>tag:blogger.com,1999:blog-9518042.post-60713791600424062</id>
         <link href="http://windowsir.blogspot.com/2021/08/building-career-in-cybersecurity.html"/>
@@ -5531,6 +5730,17 @@ Continue reading on Medium »]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[How The Best Defense Gets Better: Part 2]]></title>
+        <id>https://securityweekly.com/?p=38387</id>
+        <link href="https://securityweekly.com/2021/08/05/how-the-best-defense-gets-better-part-2/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=how-the-best-defense-gets-better-part-2"/>
+        <updated>2021-08-05T19:21:00.000Z</updated>
+        <summary type="html"><![CDATA[For many enterprises, incident response is an exercise in chaos. Security teams scramble to figure out how a data breach happened and crash into brick walls as they try to collect information from different departments that are often siloed from everyone else. It doesn’t have to be that way. Advanced security teams have learned that […]
+The post How The Best Defense Gets Better: Part 2 appeared first on Security Weekly.]]></summary>
+        <author>
+            <name>Bill Brenner</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Posting limits have been enabled on r/opendirectories.]]></title>
         <id>https://www.reddit.com/r/opendirectories/comments/oxs2kz/posting_limits_have_been_enabled_on/</id>
         <link href="https://www.reddit.com/r/opendirectories/comments/oxs2kz/posting_limits_have_been_enabled_on/"/>
@@ -5591,6 +5801,17 @@ Continue reading → Universal Privilege Escalation and Persistence – Printer
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Diversifying Cybersecurity Talent Through Aptitude Testing]]></title>
+        <id>https://securityweekly.com/?p=38148</id>
+        <link href="https://securityweekly.com/2021/07/20/diversifying-cybersecurity-talent-through-aptitude-testing/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=diversifying-cybersecurity-talent-through-aptitude-testing"/>
+        <updated>2021-07-20T21:38:00.000Z</updated>
+        <summary type="html"><![CDATA[With a shortage of four million cybersecurity workers, we need to get more creative in identifying non-technical skills among potential candidates that can be applied to the cybersecurity realm. One way is to test them for aptitude and personality traits, like the career planning tests I took in college.That’s what the University of Maryland did […]
+The post Diversifying Cybersecurity Talent Through Aptitude Testing appeared first on Security Weekly.]]></summary>
+        <author>
+            <name>Deb Radcliff</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Burp Suite roadmap update: July 2021]]></title>
         <id>burp-suite-roadmap-update-july-2021</id>
         <link href="https://portswigger.net/blog/burp-suite-roadmap-update-july-2021"/>
@@ -5621,6 +5842,28 @@ Continue reading → Universal Privilege Escalation and Persistence – Printer
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Preventing Criminals from Using Cloud Applications to Inject Chaos Into Work Environments]]></title>
+        <id>https://securityweekly.com/?p=38019</id>
+        <link href="https://securityweekly.com/2021/06/30/preventing-criminals-from-using-cloud-applications-to-inject-chaos-into-work-environments/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=preventing-criminals-from-using-cloud-applications-to-inject-chaos-into-work-environments"/>
+        <updated>2021-06-30T15:02:18.000Z</updated>
+        <summary type="html"><![CDATA[In 2020, cyber criminals used cloud applications, the cover of a pandemic, and a newly embraced work-from-home culture to serve up ransomware, steal data, and disrupt how companies do business. The year is over, but the challenges and risks remain.  How do we prevent these criminals from injecting chaos into our hybrid work environments? As […]
+The post Preventing Criminals from Using Cloud Applications to Inject Chaos Into Work Environments appeared first on Security Weekly.]]></summary>
+        <author>
+            <name>Matt Alderman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How the Best Defense Gets Better]]></title>
+        <id>https://securityweekly.com/?p=37980</id>
+        <link href="https://securityweekly.com/2021/06/28/how-the-best-defense-gets-better/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=how-the-best-defense-gets-better"/>
+        <updated>2021-06-28T15:29:53.000Z</updated>
+        <summary type="html"><![CDATA[Security starts before detection and response, but many organizations focus there first. Mature security teams understand the importance of identification and protection.  Establishing good cyber hygiene and taking proactive measures to secure themselves against the ever-increasing threat landscape is a critical first step in a holistic security program.  How should organizations build a holistic security […]
+The post How the Best Defense Gets Better appeared first on Security Weekly.]]></summary>
+        <author>
+            <name>Matt Alderman</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[What We Know About The Ransomware Economy]]></title>
         <id>tag:blogger.com,1999:blog-9518042.post-6123420465742337023</id>
         <link href="http://windowsir.blogspot.com/2021/06/what-we-know-about-ransomware-economy.html"/>
@@ -5642,6 +5885,17 @@ Okay, so at this point, I'm looking for something juicy, some information regard
 This ransomware has a defense evasion feature …]]></summary>
         <author>
             <name>noreply@blogger.com (Unknown)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Making the Case for Supply Chain Behavior Transparency]]></title>
+        <id>https://securityweekly.com/?p=37936</id>
+        <link href="https://securityweekly.com/2021/06/23/making-the-case-for-supply-chain-behavior-transparency/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=making-the-case-for-supply-chain-behavior-transparency"/>
+        <updated>2021-06-23T13:27:58.000Z</updated>
+        <summary type="html"><![CDATA[The Biden Administration’s Cyber Executive Order includes a Software Bill of Materials (SBOM), an electronically readable format designed to provide an inventory of third-party components that make up software components.  It is a critical and necessary first measure for protecting the software supply chain, but is it enough?One of the biggest challenges to supply chain transparency […]
+The post Making the Case for Supply Chain Behavior Transparency appeared first on Security Weekly.]]></summary>
+        <author>
+            <name>Matt Alderman</name>
         </author>
     </entry>
     <entry>

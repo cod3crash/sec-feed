@@ -1792,193 +1792,6 @@
       ]
     },
     {
-      "title": "博客园_首页",
-      "feedUrl": "http://feed.cnblogs.com/blog/sitehome/rss",
-      "siteUrl": null,
-      "articles": [
-        {
-          "id": "http://www.cnblogs.com/frankiedyz/p/15719681.html",
-          "author": null,
-          "description": "结合AQS，解析JUC可重入锁——ReentrantLock源码",
-          "link": "http://www.cnblogs.com/frankiedyz/p/15719681.html",
-          "publishedOn": "2021-12-23T02:38:00.000Z",
-          "wordCount": 687,
-          "title": "ReentrantLock可重入锁——源码详解 - 酒冽"
-        },
-        {
-          "id": "http://www.cnblogs.com/coco1s/p/15722286.html",
-          "author": null,
-          "description": "在上次写完这篇文章 -- 巧用渐变实现高级感拉满的背景光动画 之后，文章下面的评论有同学留言，使用 CSS 可以实现极光吗？ 像是这样： emmm，这有点难为人了。不过，最近我也尝试着去试了下，虽然不可能模拟出那么真实的效果，但是使用 CSS 还是可以作出类似的一些特效的，今天我们就一起来尝试下。",
-          "link": "http://www.cnblogs.com/coco1s/p/15722286.html",
-          "publishedOn": "2021-12-23T02:22:00.000Z",
-          "wordCount": 410,
-          "title": "Amazing！！CSS 也能实现极光？ - ChokCoco"
-        },
-        {
-          "id": "http://www.cnblogs.com/seabluescn/p/15543388.html",
-          "author": null,
-          "description": "回归分析用于分析输入变量和输出变量之间的一种关系，其中线性回归是最简单的一种。 设： Y=wX+b，现已知一组X（输入）和Y（输出）的值，要求出w和b的值。 举个例子：快年底了，销售部门要发年终奖了，销售员小王想知道今年能拿多少年终奖，目前他大抵知道年终奖是和销售额（特征量）挂钩的，具体什么规则不清",
-          "link": "http://www.cnblogs.com/seabluescn/p/15543388.html",
-          "publishedOn": "2021-12-23T01:38:00.000Z",
-          "wordCount": 234,
-          "title": "TensorFlow.NET机器学习入门【2】线性回归 - seabluescn"
-        },
-        {
-          "id": "http://www.cnblogs.com/vipstone/p/15722044.html",
-          "author": null,
-          "description": "本文已收录《Java常见面试题》：https://gitee.com/mydb/interview ​ Java 是一门面向对象的编程语言，面向对象的编程语言有四大特征：抽象、封装、继承和多态。 而本文介绍的接口和抽象类就是面向对象编程中“抽象”的具体实现，也就是说接口和抽象类都是用来定义实体类的公",
-          "link": "http://www.cnblogs.com/vipstone/p/15722044.html",
-          "publishedOn": "2021-12-23T01:22:00.000Z",
-          "wordCount": 359,
-          "title": "Java 中接口和抽象类的 7 大区别！ - Java中文社群"
-        },
-        {
-          "id": "http://www.cnblogs.com/zhxdick/p/15722008.html",
-          "author": null,
-          "description": "快速上手 Record 类 我们先举一个简单例子，声明一个用户 Record。 public record User(long id, String name, int age) {} 这样编写代码之后，Record 类默认包含的元素和方法实现包括： record 头指定的组成元素（int id,",
-          "link": "http://www.cnblogs.com/zhxdick/p/15722008.html",
-          "publishedOn": "2021-12-23T01:12:00.000Z",
-          "wordCount": 1203,
-          "title": "Java Record 的一些思考 - 默认方法使用以及基于预编译生成相关字节码的底层实现 - 干货满满张哈希"
-        },
-        {
-          "id": "http://www.cnblogs.com/developer-huawei/p/15721980.html",
-          "author": null,
-          "description": "内容来源：华为开发者大会2021 HMS Core 6 Graphics技术论坛，主题演讲《CG Kit探索移动端高性能渲染》 演讲嘉宾：华为海思麒麟GPU团队工程师 大家好，我来自华为海思麒麟团队的一名GPU研发工程师，今天给大家带来的主题是“CG Kit探索移动端高性能渲染”。 华为图形计算服务",
-          "link": "http://www.cnblogs.com/developer-huawei/p/15721980.html",
-          "publishedOn": "2021-12-23T00:59:00.000Z",
-          "wordCount": 115,
-          "title": "CG Kit探索移动端高性能渲染 - 华为开发者论坛"
-        },
-        {
-          "id": "http://www.cnblogs.com/rustfisher/p/15721972.html",
-          "author": null,
-          "description": "网络延迟是一种比较常见的情况。在本地网页上，我们可以建立多个RTCPeerConnection，增加转发次数，来模拟出网络延迟的效果。 建立通话后，再往后面增加本地转发节点。 准备 页面准备，方便我们后面调试 <div id=\"container\"> <h1><a href=\"https://an.",
-          "link": "http://www.cnblogs.com/rustfisher/p/15721972.html",
-          "publishedOn": "2021-12-23T00:56:00.000Z",
-          "wordCount": 415,
-          "title": "WebRTC本地插入多个转发节点，模拟多节点转发，造成延迟 - AnRFDev"
-        },
-        {
-          "id": "http://www.cnblogs.com/chenssy/p/15721969.html",
-          "author": null,
-          "description": "在上篇博客（【死磕Java并发】 深入分析volatile的实现原理）LZ提到过由于存在线程本地内存和主内存的原因，再加上重排序，会导致多线程环境下存在可见性的问题。那么我们正确使用同步、锁的情况下，线程A修改了变量a何时对线程B可见？ 我们无法就所有场景来规定某个线程修改的变量何时对其他线程可见，",
-          "link": "http://www.cnblogs.com/chenssy/p/15721969.html",
-          "publishedOn": "2021-12-23T00:53:00.000Z",
-          "wordCount": 183,
-          "title": "【死磕Java并发】-----内存模型之happens-before - chenssy"
-        },
-        {
-          "id": "http://www.cnblogs.com/Java3y/p/15721962.html",
-          "author": null,
-          "description": "大家好，我是3y 这是一篇我对2021年的总结文章，记得上一次写这种类型文章的我还是在2019年。没错，2020年我并没有写年终总结。 今天突发奇想，想记录下自己2021年做了些什么，于是产出了这篇文章。 了解我的老读者可能会知道我是一个比较佛系的人，我并不会去总结我哪些做得好或者并不好的地方，以及",
-          "link": "http://www.cnblogs.com/Java3y/p/15721962.html",
-          "publishedOn": "2021-12-23T00:46:00.000Z",
-          "wordCount": 111,
-          "title": "今年我经历了裸辞，自由职业，再就业 - Java3y"
-        },
-        {
-          "id": "http://www.cnblogs.com/lianngkyle/p/15706803.html",
-          "author": null,
-          "description": "daemonset controller是kube-controller-manager组件中众多控制器中的一个，是 daemonset 资源对象的控制器，其通过对daemonset、pod、node、ControllerRevision四种资源的监听，当这四种资源发生变化时会触发 daemonse...",
-          "link": "http://www.cnblogs.com/lianngkyle/p/15706803.html",
-          "publishedOn": "2021-12-23T00:44:00.000Z",
-          "wordCount": 2387,
-          "title": "k8s daemonset controller源码分析 - 良凯尔"
-        },
-        {
-          "id": "http://www.cnblogs.com/bolingcavalry/p/15721841.html",
-          "author": null,
-          "description": "欢迎访问我的GitHub https://github.com/zq2599/blog_demos 内容：所有原创文章分类汇总及配套源码，涉及Java、Docker、Kubernetes、DevOPS等； 《Jaeger实战(Java版)》系列全文 《分布式调用链跟踪工具Jaeger？两分钟极速体验",
-          "link": "http://www.cnblogs.com/bolingcavalry/p/15721841.html",
-          "publishedOn": "2021-12-22T22:47:00.000Z",
-          "wordCount": 317,
-          "title": "Jaeger知识点补充 - 程序员欣宸"
-        },
-        {
-          "id": "http://www.cnblogs.com/mengdd/p/android-creation-of-viewmodel.html",
-          "author": null,
-          "description": "ViewModel的创建很关键, 关系到它的生命周期. 手动创建比较麻烦, 很多样板代码.本文总结了几种常见的创建方式, 希望读者看完后能有更清晰的理解, 每种方式都是怎么回事, 那些方便的工具替我们做了什么.",
-          "link": "http://www.cnblogs.com/mengdd/p/android-creation-of-viewmodel.html",
-          "publishedOn": "2021-12-22T17:10:00.000Z",
-          "wordCount": 520,
-          "title": "ViewModel的创建 - 圣骑士wind"
-        },
-        {
-          "id": "http://www.cnblogs.com/sogeisetsu/p/15721731.html",
-          "author": null,
-          "description": "本文内容来自我写的开源电子书《WoW C#》，现在正在编写中，可以去WOW-Csharp/学习路径总结.md at master · sogeisetsu/WOW-Csharp (github.com)来查看编写进度。预计2021年年底会完成编写，2022年2月之前会完成所有的校对和转制电子书工作，",
-          "link": "http://www.cnblogs.com/sogeisetsu/p/15721731.html",
-          "publishedOn": "2021-12-22T16:09:00.000Z",
-          "wordCount": 736,
-          "title": "【科普】.NET 泛型 - sogeisetsu"
-        },
-        {
-          "id": "http://www.cnblogs.com/cool-net/p/15721699.html",
-          "author": null,
-          "description": "在Asp.Net Core中，管道往往伴随着请求一起出现。客户端发起Http请求，服务端去响应这个请求，之间的过程都在管道内进行。 举一个生活中比较常见的例子：旅游景区。 我们都知道，有些景区大门离景区很远，我们需要经过层层关卡才能到达景区。 我的请求最终就是去到景区，去到景区的整个过程就是管道，景",
-          "link": "http://www.cnblogs.com/cool-net/p/15721699.html",
-          "publishedOn": "2021-12-22T15:53:00.000Z",
-          "wordCount": 328,
-          "title": "Asp.Net Core基础篇之：白话管道中间件 - 畅饮无绪"
-        },
-        {
-          "id": "http://www.cnblogs.com/three-fighter/p/15721685.html",
-          "author": null,
-          "description": "源码地址：https://gitee.com/fighter3/eshop-project.git 持续更新中…… 大家好，我是老三，断更了半年，我又滚回来继续写这个系列了，还有人看吗…… 在前面的章节中，我们使用Fegin完成了服务间的远程调用，实际上，在更加注重性能的互联网公司中，一般都会使用R",
-          "link": "http://www.cnblogs.com/three-fighter/p/15721685.html",
-          "publishedOn": "2021-12-22T15:46:00.000Z",
-          "wordCount": 621,
-          "title": "SpringCloud Alibaba实战（12：引入Dubbo实现RPC调用） - 三分恶"
-        },
-        {
-          "id": "http://www.cnblogs.com/MingsonZheng/p/15721637.html",
-          "author": null,
-          "description": "49 | 程序性能分析基础（下） 在上一篇文章中，我们围绕着“怎样让程序对 CPU 概要信息进行采样”这一问题进行了探讨，今天，我们再来一起看看它的拓展问题。 知识扩展 问题 1：怎样设定内存概要信息的采样频率？ 针对内存概要信息的采样会按照一定比例收集 Go 程序在运行期间的堆内存使用情况。设定内",
-          "link": "http://www.cnblogs.com/MingsonZheng/p/15721637.html",
-          "publishedOn": "2021-12-22T15:25:00.000Z",
-          "wordCount": 793,
-          "title": "Go语言核心36讲（Go语言实战与应用二十七）--学习笔记 - MingsonZheng"
-        },
-        {
-          "id": "http://www.cnblogs.com/liuyuelinfighting/p/15721568.html",
-          "author": null,
-          "description": "在Linxu系统中，有三种用于任务调度的工具 at命令调用atd服务 crontab命令调用cron（crond）服务。 anacron工具。 1、任务调度工具anacron介绍 （1）anacron工具是用来干什么的呢？ 如果Linux服务器不是24小时开机的，那么刚好在关机的时间段之内有系统定时",
-          "link": "http://www.cnblogs.com/liuyuelinfighting/p/15721568.html",
-          "publishedOn": "2021-12-22T15:01:00.000Z",
-          "wordCount": 240,
-          "title": "『学了就忘』Linux系统定时任务 — 89、任务调度工具anacron - 繁华似锦Fighting"
-        },
-        {
-          "id": "http://www.cnblogs.com/qdhxhz/p/15721525.html",
-          "author": null,
-          "description": "Redis作为高性能非关系型（NoSQL）的键值对数据库，受到了广大用户的喜爱和使用,大家在项目中都用到了Redis来做数据缓存，但有些问题我们在使用中不得不考虑，其中典型的问题就是：缓存穿透、缓存雪崩、缓存击穿和与关系型数据库的一致性。 一、缓存穿透 1、概念 缓存穿透是指查询一个缓存和数据库不存",
-          "link": "http://www.cnblogs.com/qdhxhz/p/15721525.html",
-          "publishedOn": "2021-12-22T14:47:00.000Z",
-          "wordCount": 198,
-          "title": "Redis缓存穿透、击穿、雪崩，数据库与缓存一致性 - 雨点的名字"
-        },
-        {
-          "id": "http://www.cnblogs.com/dragonir/p/15721456.html",
-          "author": null,
-          "description": "为什么说是跌落梦境呢？小时候的梦想是成为科学家、成为宇航员、成为政界精英......但是随着成长，逐渐步入社会，成为朝五晚九的打工人，失去父母和学校的庇护...",
-          "link": "http://www.cnblogs.com/dragonir/p/15721456.html",
-          "publishedOn": "2021-12-22T14:32:00.000Z",
-          "wordCount": 254,
-          "title": "2021年终总结：人类跌落梦境 - Dragonir"
-        },
-        {
-          "id": "http://www.cnblogs.com/jgx0/p/15720370.html",
-          "author": null,
-          "description": "昨日内容回顾 1.用两种方法实现 将文件中以 # 开头的行 把 # 去掉 sed -r 's/^ *#//g' /etc/fstab cat /etc/fstab | tr -d '^#' 2.将文件中的Hello World 替换成 World Hello sed -r 's/Hello Worl",
-          "link": "http://www.cnblogs.com/jgx0/p/15720370.html",
-          "publishedOn": "2021-12-22T14:22:00.000Z",
-          "wordCount": 860,
-          "title": "Linux中磁盘管理与三剑客之awk初识 - Deity_JGX"
-        }
-      ]
-    },
-    {
       "title": "Hacker News - Newest: \"Fuzzing\"",
       "feedUrl": "https://hnrss.org/newest?q=Fuzzing",
       "siteUrl": "https://news.ycombinator.com/newest",
@@ -2723,6 +2536,200 @@
           "publishedOn": "2021-12-21T03:26:10.000Z",
           "wordCount": null,
           "title": "Meta对网络钓鱼攻击提起诉讼"
+        }
+      ]
+    },
+    {
+      "title": "NOSEC 安全讯息平台 - 漏洞预警",
+      "feedUrl": "https://rsshub.app/nosec/hole",
+      "siteUrl": "https://nosec.org/home/index/hole.html",
+      "articles": [
+        {
+          "id": "https://nosec.org/home/detail/4925.html",
+          "author": "fmbd",
+          "description": "近日，Apache HTTP Server 发布安全更新，修复了 Apache HTTP Server 中的服务端请求伪造（SSRF）和缓冲区...",
+          "link": "https://nosec.org/home/detail/4925.html",
+          "publishedOn": "2021-12-21T23:29:52.000Z",
+          "wordCount": 161,
+          "title": "【安全通报】Apache HTTP Server 更新多个安全漏洞（CVE-20..."
+        },
+        {
+          "id": "https://nosec.org/home/detail/4919.html",
+          "author": "fmbd",
+          "description": "近日，微软发布 12 月份安全补丁，共修复了 67 个针对微软产品的CVE漏洞，其中 7个严重漏洞，60个高危漏洞。涉及 Windows 和 Windows 组件、ASP.NET Core 和 Vis...",
+          "link": "https://nosec.org/home/detail/4919.html",
+          "publishedOn": "2021-12-15T11:30:43.000Z",
+          "wordCount": 509,
+          "title": "【安全通报】微软12月漏洞补丁日修复多个高危漏洞"
+        },
+        {
+          "id": "https://nosec.org/home/detail/4917.html",
+          "author": "fmbd",
+          "description": "近日，网络上出现 Apache Log4j2 远程代码执行漏洞。攻击者可利用该漏洞构造特殊的数据请求包，最终触发远程代码执行。由于该漏洞影响范围极广，建议广大用户及...",
+          "link": "https://nosec.org/home/detail/4917.html",
+          "publishedOn": "2021-12-13T15:58:06.000Z",
+          "wordCount": 1119,
+          "title": "【安全通报】Apache Log4j2 远程代码执行漏洞"
+        },
+        {
+          "id": "https://nosec.org/home/detail/4914.html",
+          "author": "fmbd",
+          "description": "近日，网络上出现 Grafana 未授权任意文件读取的 0day 漏洞，漏洞细节暂未公开。攻击者可通过该漏洞在未经身份验证的情况下读取主机上的任意文件。",
+          "link": "https://nosec.org/home/detail/4914.html",
+          "publishedOn": "2021-12-07T15:01:35.000Z",
+          "wordCount": 222,
+          "title": "【安全通报】Grafana 未授权任意文件读取 0day 漏洞"
+        },
+        {
+          "id": "https://nosec.org/home/detail/4911.html",
+          "author": "fmbd",
+          "description": "近日，惠普多功能打印机多个高危漏洞（CVE-2021-39237&CVE-2021-39238）细节公开，惠普官方曾于11月1日发布安全公告。攻击者可利用这些漏洞获取敏感信息、进行远...",
+          "link": "https://nosec.org/home/detail/4911.html",
+          "publishedOn": "2021-12-01T18:24:42.000Z",
+          "wordCount": 128,
+          "title": "【安全通报】惠普多功能打印机多个高危漏洞（CVE-2021-3923..."
+        },
+        {
+          "id": "https://nosec.org/home/detail/4910.html",
+          "author": "fmbd",
+          "description": "近日，网络上出现 泛微E-Office 文件上传漏洞（CNVD-2021-49104）在野利用事件，攻击者可通过该漏洞在影响...",
+          "link": "https://nosec.org/home/detail/4910.html",
+          "publishedOn": "2021-11-27T19:44:46.000Z",
+          "wordCount": 117,
+          "title": "【安全通报】泛微E-Office文件上传漏洞（CNVD-2021-49104）"
+        },
+        {
+          "id": "https://nosec.org/home/detail/4909.html",
+          "author": "fmbd",
+          "description": "近日，metabase 爆出敏感信息泄露漏洞，该漏洞 CVSS3 评分高达 9.9。攻击者可在未经身份验证的情况下获取系统敏感信息。",
+          "link": "https://nosec.org/home/detail/4909.html",
+          "publishedOn": "2021-11-20T13:38:58.000Z",
+          "wordCount": 147,
+          "title": "【安全通报】Metabase 敏感信息泄露漏洞（CVE-2021-41277）"
+        },
+        {
+          "id": "https://nosec.org/home/detail/4906.html",
+          "author": "fmbd",
+          "description": "近日，Apache ShenYu Admin爆出身份验证绕过漏洞，攻击者可通过该漏洞绕过JSON Web Token (JWT)安全认证，直接进入系统后台。",
+          "link": "https://nosec.org/home/detail/4906.html",
+          "publishedOn": "2021-11-17T16:22:14.000Z",
+          "wordCount": 155,
+          "title": "【安全通报】Apache ShenYu Admin 身份验证绕过漏洞（CVE-2..."
+        },
+        {
+          "id": "https://nosec.org/home/detail/4905.html",
+          "author": "fmbd",
+          "description": "近日，网络上出现 Hadoop Yarn RPC 服务未授权访问漏洞的在野利用事件，攻击者可在未经过身份验证的情况下通过该漏洞在影响主机执行任意命令。",
+          "link": "https://nosec.org/home/detail/4905.html",
+          "publishedOn": "2021-11-16T17:50:28.000Z",
+          "wordCount": 148,
+          "title": "【安全通报】Hadoop Yarn RPC服务未授权访问漏洞"
+        },
+        {
+          "id": "https://nosec.org/home/detail/4902.html",
+          "author": "fmbd",
+          "description": "近日，Palo Alto Networks (PAN) 发布安全公告，修复了Palo Alto Networks GlobalProtect portal 和 gateway interfaces 中的内存损坏漏洞。未经身份验证的攻击...",
+          "link": "https://nosec.org/home/detail/4902.html",
+          "publishedOn": "2021-11-11T12:31:57.000Z",
+          "wordCount": 155,
+          "title": "【安全通报】PAN GlobalProtect Portal 内存损坏漏洞（CVE-..."
+        }
+      ]
+    },
+    {
+      "title": "SecWiki News",
+      "feedUrl": "https://www.sec-wiki.com/news/rss",
+      "siteUrl": "http://www.sec-wiki.com/",
+      "articles": [
+        {
+          "id": "http://www.sec-wiki.com/?2021-12-22",
+          "author": null,
+          "description": "今日暂未更新资讯~\n更多最新文章，请访问SecWiki",
+          "link": "http://www.sec-wiki.com/?2021-12-22",
+          "publishedOn": "2021-12-22T15:58:20.000Z",
+          "wordCount": 588,
+          "title": "SecWiki News 2021-12-22 Review"
+        },
+        {
+          "id": "http://www.sec-wiki.com/?2021-12-21",
+          "author": null,
+          "description": "国外网络演习思考  by ourren\nCaptfEncoder: 一款跨平台网络安全工具套件  by guyoung\n更多最新文章，请访问SecWiki",
+          "link": "http://www.sec-wiki.com/?2021-12-21",
+          "publishedOn": "2021-12-21T15:58:20.000Z",
+          "wordCount": 588,
+          "title": "SecWiki News 2021-12-21 Review"
+        },
+        {
+          "id": "http://www.sec-wiki.com/?2021-12-20",
+          "author": null,
+          "description": "SecWiki周刊（第407期)  by ourren\nCIS 介绍（下)-CIS Benchmark&CIS 社区防御模型2.0  by ourren\n更多最新文章，请访问SecWiki",
+          "link": "http://www.sec-wiki.com/?2021-12-20",
+          "publishedOn": "2021-12-20T15:58:20.000Z",
+          "wordCount": 588,
+          "title": "SecWiki News 2021-12-20 Review"
+        },
+        {
+          "id": "http://www.sec-wiki.com/?2021-12-19",
+          "author": null,
+          "description": "SPEL表达式注入漏洞深入分析   by ourren\n基于异常行为检测CobaltStrike  by ourren\n基于规则向量化的HTTP资产识别方法探索  by ourren\n浅谈被动式IAST产品与技术实现-代码实现Demo篇  by ourren\n浅谈被动式IAST产品与技术实现-基础篇  by ourren\nCodeql 挖洞？  by ourren\n应急响应：没有痕迹该如何进行攻击溯源  by ourren\n几款小众而实用的远控软件  by ourren\niMessage 零点击漏洞利用细节公开  by ourren\nACSAC 2021 论文录用列表  by ourren\n更多最新文章，请访问SecWiki",
+          "link": "http://www.sec-wiki.com/?2021-12-19",
+          "publishedOn": "2021-12-19T15:58:20.000Z",
+          "wordCount": 588,
+          "title": "SecWiki News 2021-12-19 Review"
+        },
+        {
+          "id": "http://www.sec-wiki.com/?2021-12-18",
+          "author": null,
+          "description": "CVE-2016-7124反序列化漏洞复现  by SecIN社区\n更多最新文章，请访问SecWiki",
+          "link": "http://www.sec-wiki.com/?2021-12-18",
+          "publishedOn": "2021-12-18T15:58:20.000Z",
+          "wordCount": 588,
+          "title": "SecWiki News 2021-12-18 Review"
+        },
+        {
+          "id": "http://www.sec-wiki.com/?2021-12-17",
+          "author": null,
+          "description": "今日暂未更新资讯~\n更多最新文章，请访问SecWiki",
+          "link": "http://www.sec-wiki.com/?2021-12-17",
+          "publishedOn": "2021-12-17T15:58:20.000Z",
+          "wordCount": 588,
+          "title": "SecWiki News 2021-12-17 Review"
+        },
+        {
+          "id": "http://www.sec-wiki.com/?2021-12-16",
+          "author": null,
+          "description": "Log4j2远程代码执行漏洞检测和防护策略研究  by ourren\n更多最新文章，请访问SecWiki",
+          "link": "http://www.sec-wiki.com/?2021-12-16",
+          "publishedOn": "2021-12-16T15:58:20.000Z",
+          "wordCount": 588,
+          "title": "SecWiki News 2021-12-16 Review"
+        },
+        {
+          "id": "http://www.sec-wiki.com/?2021-12-15",
+          "author": null,
+          "description": "《软件分析》完整版课程视频  by ourren\n从Log4shell事件看资产风险运营工程化的困局与盲点  by ourren\n更多最新文章，请访问SecWiki",
+          "link": "http://www.sec-wiki.com/?2021-12-15",
+          "publishedOn": "2021-12-15T15:58:20.000Z",
+          "wordCount": 588,
+          "title": "SecWiki News 2021-12-15 Review"
+        },
+        {
+          "id": "http://www.sec-wiki.com/?2021-12-14",
+          "author": null,
+          "description": "浅谈被动式IAST产品与技术实现  by ourren\n更多最新文章，请访问SecWiki",
+          "link": "http://www.sec-wiki.com/?2021-12-14",
+          "publishedOn": "2021-12-14T15:58:20.000Z",
+          "wordCount": 588,
+          "title": "SecWiki News 2021-12-14 Review"
+        },
+        {
+          "id": "http://www.sec-wiki.com/?2021-12-13",
+          "author": null,
+          "description": "SecWiki周刊（第406期)  by ourren\n从一例挖矿木马看 Log4Shell 的在野传播  by Avenger\n更多最新文章，请访问SecWiki",
+          "link": "http://www.sec-wiki.com/?2021-12-13",
+          "publishedOn": "2021-12-13T15:58:20.000Z",
+          "wordCount": 588,
+          "title": "SecWiki News 2021-12-13 Review"
         }
       ]
     },
@@ -4556,6 +4563,109 @@
       ]
     },
     {
+      "title": "Hacking Articles",
+      "feedUrl": "https://www.hackingarticles.in/feed/",
+      "siteUrl": "https://www.hackingarticles.in",
+      "articles": [
+        {
+          "id": "https://www.hackingarticles.in/?p=27428",
+          "author": "Raj Chandel",
+          "description": "Donavan’s VENGEANCE (digitalworld.local: VENGEANCE) is a medium level machine designed for Vulnhub. This lab includes a difficult exploitation procedure that is suitable for those experienced\nThe post digital world.local: Vengeance Vulnhub Walkthrough appeared first on Hacking Articles.",
+          "link": "https://www.hackingarticles.in/digital-world-local-vengeance-vulnhub-walkthrough/",
+          "publishedOn": "2021-12-19T15:24:09.000Z",
+          "wordCount": 2077,
+          "title": "digital world.local: Vengeance Vulnhub Walkthrough"
+        },
+        {
+          "id": "https://www.hackingarticles.in/?p=27420",
+          "author": "Raj Chandel",
+          "description": "In this article, we are going to discuss and demonstrate in our lab setup, the exploitation of the new vulnerability identified as CVE-2021-44228 affecting the\nThe post A Detailed Guide on Log4J Penetration Testing appeared first on Hacking Articles.",
+          "link": "https://www.hackingarticles.in/a-detailed-guide-on-log4j-penetration-testing/",
+          "publishedOn": "2021-12-18T20:50:36.000Z",
+          "wordCount": 2459,
+          "title": "A Detailed Guide on Log4J Penetration Testing"
+        },
+        {
+          "id": "https://www.hackingarticles.in/?p=27416",
+          "author": "Raj Chandel",
+          "description": "FALL (digitalworld.local: FALL) is a medium level machine created by Donavan for Vulnhub. This lab is appropriate for some experienced CTF players who wish to\nThe post digital world.local: FALL Vulnhub Walkthrough appeared first on Hacking Articles.",
+          "link": "https://www.hackingarticles.in/digital-world-local-fall-vulnhub-walkthrough/",
+          "publishedOn": "2021-12-16T21:35:48.000Z",
+          "wordCount": 1575,
+          "title": "digital world.local: FALL Vulnhub Walkthrough"
+        },
+        {
+          "id": "https://www.hackingarticles.in/?p=27413",
+          "author": "Raj Chandel",
+          "description": "“Thales” is a Capture the Flag challenge available on Vulnhub. MachineBoy deserves credit for developing this box. In this box, we will learn how to\nThe post Thales1 Vulnhub Walkthrough appeared first on Hacking Articles.",
+          "link": "https://www.hackingarticles.in/thales1-vulnhub-walkthrough/",
+          "publishedOn": "2021-12-16T08:00:05.000Z",
+          "wordCount": 1704,
+          "title": "Thales1 Vulnhub Walkthrough"
+        },
+        {
+          "id": "https://www.hackingarticles.in/?p=27409",
+          "author": "Raj Chandel",
+          "description": "An attacker may exploit the Windows Task Scheduler to schedule malicious programmes for initial or recurrent execution. For persistence purposes, an attacker may utilise Windows\nThe post Windows Privilege Escalation: Scheduled Task/Job (T1573.005) appeared first on Hacking Articles.",
+          "link": "https://www.hackingarticles.in/windows-privilege-escalation-scheduled-task-job-t1573-005/",
+          "publishedOn": "2021-12-14T20:34:58.000Z",
+          "wordCount": 1670,
+          "title": "Windows Privilege Escalation: Scheduled Task/Job (T1573.005)"
+        },
+        {
+          "id": "https://www.hackingarticles.in/?p=27404",
+          "author": "Raj Chandel",
+          "description": "DarkHole: 2 is a medium-hard machine created by Jihad Alqurashi for Vulnhub. This system is also put through its paces in VirtualBox. This lab is\nThe post DarkHole: 2 Vulnhub Walkthrough appeared first on Hacking Articles.",
+          "link": "https://www.hackingarticles.in/darkhole-2-vulnhub-walkthrough/",
+          "publishedOn": "2021-12-14T16:29:07.000Z",
+          "wordCount": 1907,
+          "title": "DarkHole: 2 Vulnhub Walkthrough"
+        },
+        {
+          "id": "https://www.hackingarticles.in/?p=27400",
+          "author": "Raj Chandel",
+          "description": "Seal is a CTF Linux machine rated as medium difficulty on Hack the Box platform. So let get started and deep dive into breaking down\nThe post Seal HackTheBox Walkthrough appeared first on Hacking Articles.",
+          "link": "https://www.hackingarticles.in/seal-hackthebox-walkthrough/",
+          "publishedOn": "2021-12-13T20:45:23.000Z",
+          "wordCount": 2128,
+          "title": "Seal HackTheBox Walkthrough"
+        },
+        {
+          "id": "https://www.hackingarticles.in/?p=27395",
+          "author": "Raj Chandel",
+          "description": "Chronos is an easy/medium machine from Vulnhub by AL1ENUM. This machine is also tested in VirtualBox. This lab is suitable for novices because it has\nThe post Chronos Vulnhub Walkthrough appeared first on Hacking Articles.",
+          "link": "https://www.hackingarticles.in/chronos-vulnhub-walkthrough/",
+          "publishedOn": "2021-12-11T22:31:05.000Z",
+          "wordCount": 1907,
+          "title": "Chronos Vulnhub Walkthrough"
+        },
+        {
+          "id": "https://www.hackingarticles.in/?p=27388",
+          "author": "Raj Chandel",
+          "description": "“Explore” is a Capture the Flag challenge that we’ll be solving today. (HTB) Hack the Box is where you can get your hands on one,\nThe post Explore Hackthebox Walkthrough appeared first on Hacking Articles.",
+          "link": "https://www.hackingarticles.in/explore-hackthebox-walkthrough/",
+          "publishedOn": "2021-12-07T20:58:46.000Z",
+          "wordCount": 1313,
+          "title": "Explore Hackthebox Walkthrough"
+        },
+        {
+          "id": "https://www.hackingarticles.in/?p=27377",
+          "author": "Raj Chandel",
+          "description": "Today, we’ll explore how to acquire a reverse shell using Powershell scripts on the Windows platform. Table of Content Powercat Invoke-PowerShellTcp (Nishang) ConPtyShell Mini-reverse PowerShell\nThe post PowerShell for Pentester: Windows Reverse Shell appeared first on Hacking Articles.",
+          "link": "https://www.hackingarticles.in/powershell-for-pentester-windows-reverse-shell/",
+          "publishedOn": "2021-12-03T13:45:26.000Z",
+          "wordCount": 2084,
+          "title": "PowerShell for Pentester: Windows Reverse Shell"
+        }
+      ]
+    },
+    {
+      "title": "The Exploit Laboratory",
+      "feedUrl": "https://blog.exploitlab.net/feeds/posts/default",
+      "siteUrl": "https://blog.exploitlab.net/",
+      "articles": []
+    },
+    {
       "title": "Netsparker, Web Application Security Scanner",
       "feedUrl": "https://www.netsparker.com/blog/rss/",
       "siteUrl": "https://www.netsparker.com/blog/",
@@ -4746,6 +4856,112 @@
           "publishedOn": "2021-08-02T16:41:55.000Z",
           "wordCount": 2522,
           "title": "HYBRID HACKER SUMMER CAMP 2021 GUIDE — Part Five: FuzzCON"
+        }
+      ]
+    },
+    {
+      "title": "Security Weekly",
+      "feedUrl": "https://securityweekly.com/feed/",
+      "siteUrl": "https://securityweekly.com",
+      "articles": [
+        {
+          "id": "https://securityweekly.com/?p=39061",
+          "author": "Bill Brenner",
+          "description": "Encryption has reached near-full adoption by internal teams hoping to implement stronger security and privacy practices. Simultaneously, attackers are using the same mechanisms to hide their malicious activity from the defender’s line of sight. According to the Ponemon Institute’s 2021 Global Encryption Trends Study, 50% of organizations have an encryption plan consistently applied across their […]\nThe post Decrypt As If Your Security Depends on It appeared first on Security Weekly.",
+          "link": "https://securityweekly.com/2021/11/02/decrypt-as-if-your-security-depends-on-it/?utm_source=rss&utm_medium=rss&utm_campaign=decrypt-as-if-your-security-depends-on-it",
+          "publishedOn": "2021-11-02T17:35:01.000Z",
+          "wordCount": 521,
+          "title": "Decrypt As If Your Security Depends on It"
+        },
+        {
+          "id": "https://securityweekly.com/?p=39010",
+          "author": "Bill Brenner",
+          "description": "There are many ways to do DevSecOps, and each organization — each security team, even — uses a different approach. Questions such as how many environments you have and the frequency of deployment of those environments are important in understanding how to integrate a security scanner into your DevSecOps machinery. The ultimate goal is speed […]\nThe post DevSecOps Scanning Challenges & Tips appeared first on Security Weekly.",
+          "link": "https://securityweekly.com/2021/10/26/devsecops-scanning-challenges-tips/?utm_source=rss&utm_medium=rss&utm_campaign=devsecops-scanning-challenges-tips",
+          "publishedOn": "2021-10-26T15:57:38.000Z",
+          "wordCount": 520,
+          "title": "DevSecOps Scanning Challenges & Tips"
+        },
+        {
+          "id": "https://securityweekly.com/?p=38945",
+          "author": "Bill Brenner",
+          "description": "It’s Cybersecurity Awareness Month, but security awareness is about much more than just dedicating a month to a few activities. Security awareness is a journey, requiring motivation along the way. And culture. Especially culture.That’s the point Proofpoint Cybersecurity Evangelist Brian Reed drove home in a recent appearance on Business Security Weekly.“If your security awareness program […]\nThe post It Should Be ‘Cybersecurity Culture Month’ appeared first on Security Weekly.",
+          "link": "https://securityweekly.com/2021/10/19/it-should-be-cybersecurity-culture-month/?utm_source=rss&utm_medium=rss&utm_campaign=it-should-be-cybersecurity-culture-month",
+          "publishedOn": "2021-10-19T16:41:20.000Z",
+          "wordCount": 674,
+          "title": "It Should Be ‘Cybersecurity Culture Month’"
+        },
+        {
+          "id": "https://securityweekly.com/?p=38847",
+          "author": "Bill Brenner",
+          "description": "Developers want to write good code. Secure code. Tools that optimize developer workflows for handling security issues can take a large burden off security practitioners and make triaging, understanding, prioritizing, and resolving vulnerabilities much easier and faster for the developer. That’s what DevSecOps is all about. One company that has developed such tools is GitLab. […]\nThe post The Power of Developer-First Security appeared first on Security Weekly.",
+          "link": "https://securityweekly.com/2021/10/11/the-power-of-developer-first-security/?utm_source=rss&utm_medium=rss&utm_campaign=the-power-of-developer-first-security",
+          "publishedOn": "2021-10-11T17:26:28.000Z",
+          "wordCount": 709,
+          "title": "The Power of Developer-First Security"
+        },
+        {
+          "id": "https://securityweekly.com/?p=38701",
+          "author": "Bill Brenner",
+          "description": "Enterprises that integrate security testing into their CI/CD pipeline fix 91.4 percent of new issues, according to a progress report from ShiftLeft. Recent software supply chain attacks illustrate the growing risks businesses, their partners, and customers face. But a recent report suggests better outcomes for those who put security at the heart of app development. Data from […]\nThe post Building a More Secure AppDev Process appeared first on Security Weekly.",
+          "link": "https://securityweekly.com/2021/09/20/building-a-more-secure-appdev-process/?utm_source=rss&utm_medium=rss&utm_campaign=building-a-more-secure-appdev-process",
+          "publishedOn": "2021-09-20T20:52:45.000Z",
+          "wordCount": 640,
+          "title": "Building a More Secure AppDev Process"
+        },
+        {
+          "id": "https://securityweekly.com/?p=38584",
+          "author": "Bill Brenner",
+          "description": "Applications are critical for doing business. They are also the weakest links in many an organization’s security chain. Many APIs continue to expose the personally identifiable information of customers, employees and contractors. As OWASP (Open Web Application Security Project) notes on its API Security Project homepage: “By nature, APIs expose application logic and sensitive data […]\nThe post Web App and API Security Needs to Be Modernized: Here’s How appeared first on Security Weekly.",
+          "link": "https://securityweekly.com/2021/08/31/web-app-and-api-security-needs-to-be-modernized-heres-how/?utm_source=rss&utm_medium=rss&utm_campaign=web-app-and-api-security-needs-to-be-modernized-heres-how",
+          "publishedOn": "2021-08-31T22:25:39.000Z",
+          "wordCount": 695,
+          "title": "Web App and API Security Needs to Be Modernized: Here’s How"
+        },
+        {
+          "id": "https://securityweekly.com/?p=38387",
+          "author": "Bill Brenner",
+          "description": "For many enterprises, incident response is an exercise in chaos. Security teams scramble to figure out how a data breach happened and crash into brick walls as they try to collect information from different departments that are often siloed from everyone else. It doesn’t have to be that way. Advanced security teams have learned that […]\nThe post How The Best Defense Gets Better: Part 2 appeared first on Security Weekly.",
+          "link": "https://securityweekly.com/2021/08/05/how-the-best-defense-gets-better-part-2/?utm_source=rss&utm_medium=rss&utm_campaign=how-the-best-defense-gets-better-part-2",
+          "publishedOn": "2021-08-05T19:21:00.000Z",
+          "wordCount": 697,
+          "title": "How The Best Defense Gets Better: Part 2"
+        },
+        {
+          "id": "https://securityweekly.com/?p=38148",
+          "author": "Deb Radcliff",
+          "description": "With a shortage of four million cybersecurity workers, we need to get more creative in identifying non-technical skills among potential candidates that can be applied to the cybersecurity realm. One way is to test them for aptitude and personality traits, like the career planning tests I took in college.That’s what the University of Maryland did […]\nThe post Diversifying Cybersecurity Talent Through Aptitude Testing appeared first on Security Weekly.",
+          "link": "https://securityweekly.com/2021/07/20/diversifying-cybersecurity-talent-through-aptitude-testing/?utm_source=rss&utm_medium=rss&utm_campaign=diversifying-cybersecurity-talent-through-aptitude-testing",
+          "publishedOn": "2021-07-20T21:38:00.000Z",
+          "wordCount": 608,
+          "title": "Diversifying Cybersecurity Talent Through Aptitude Testing"
+        },
+        {
+          "id": "https://securityweekly.com/?p=38019",
+          "author": "Matt Alderman",
+          "description": "In 2020, cyber criminals used cloud applications, the cover of a pandemic, and a newly embraced work-from-home culture to serve up ransomware, steal data, and disrupt how companies do business. The year is over, but the challenges and risks remain.  How do we prevent these criminals from injecting chaos into our hybrid work environments? As […]\nThe post Preventing Criminals from Using Cloud Applications to Inject Chaos Into Work Environments appeared first on Security Weekly.",
+          "link": "https://securityweekly.com/2021/06/30/preventing-criminals-from-using-cloud-applications-to-inject-chaos-into-work-environments/?utm_source=rss&utm_medium=rss&utm_campaign=preventing-criminals-from-using-cloud-applications-to-inject-chaos-into-work-environments",
+          "publishedOn": "2021-06-30T15:02:18.000Z",
+          "wordCount": 646,
+          "title": "Preventing Criminals from Using Cloud Applications to Inject Chaos Into Work Environments"
+        },
+        {
+          "id": "https://securityweekly.com/?p=37980",
+          "author": "Matt Alderman",
+          "description": "Security starts before detection and response, but many organizations focus there first. Mature security teams understand the importance of identification and protection.  Establishing good cyber hygiene and taking proactive measures to secure themselves against the ever-increasing threat landscape is a critical first step in a holistic security program.  How should organizations build a holistic security […]\nThe post How the Best Defense Gets Better appeared first on Security Weekly.",
+          "link": "https://securityweekly.com/2021/06/28/how-the-best-defense-gets-better/?utm_source=rss&utm_medium=rss&utm_campaign=how-the-best-defense-gets-better",
+          "publishedOn": "2021-06-28T15:29:53.000Z",
+          "wordCount": 634,
+          "title": "How the Best Defense Gets Better"
+        },
+        {
+          "id": "https://securityweekly.com/?p=37936",
+          "author": "Matt Alderman",
+          "description": "The Biden Administration’s Cyber Executive Order includes a Software Bill of Materials (SBOM), an electronically readable format designed to provide an inventory of third-party components that make up software components.  It is a critical and necessary first measure for protecting the software supply chain, but is it enough?One of the biggest challenges to supply chain transparency […]\nThe post Making the Case for Supply Chain Behavior Transparency appeared first on Security Weekly.",
+          "link": "https://securityweekly.com/2021/06/23/making-the-case-for-supply-chain-behavior-transparency/?utm_source=rss&utm_medium=rss&utm_campaign=making-the-case-for-supply-chain-behavior-transparency",
+          "publishedOn": "2021-06-23T13:27:58.000Z",
+          "wordCount": 618,
+          "title": "Making the Case for Supply Chain Behavior Transparency"
         }
       ]
     }
