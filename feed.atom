@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-12-23T02:47:33.383Z</id>
-    <title>osmos::feed</title>
-    <updated>2021-12-23T02:47:33.383Z</updated>
+    <id>https://cod3crash.github.io/sec/index.html</id>
+    <title>security feed</title>
+    <updated>2021-12-23T02:50:47.778Z</updated>
     <generator>osmosfeed 1.11.3</generator>
-    <link rel="alternate" href="index.html"/>
+    <link rel="alternate" href="https://cod3crash.github.io/sec/index.html"/>
+    <link rel="self" href="https://cod3crash.github.io/sec/feed.atom"/>
     <entry>
         <title type="html"><![CDATA[ReentrantLock可重入锁——源码详解 - 酒冽]]></title>
         <id>http://www.cnblogs.com/frankiedyz/p/15719681.html</id>
@@ -4690,6 +4691,1287 @@ Analysis occurs when an analyst applies their knowledge and experience to data, 
  [link]   [comments]]]></summary>
         <author>
             <name>Exploit Development</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Explaining Basic DOM Clobbering And The <a> Tag]]></title>
+        <id>https://medium.com/p/ef10405464a8</id>
+        <link href="https://medium.com/@lai.glorison/explaining-basic-dom-clobbering-and-the-a-tag-ef10405464a8?source=rss------xss-5"/>
+        <updated>2021-11-22T12:26:00.000Z</updated>
+        <summary type="html"><![CDATA[Or if you’re stuck on PortSwigger’s DOM Clobbering labs
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Glorison Lai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intigriti’s November XSS challenge
+By @IvarsVids]]></title>
+        <id>https://medium.com/p/5880118ec7e7</id>
+        <link href="https://stnv.medium.com/intigritis-november-xss-challenge-by-ivarsvids-5880118ec7e7?source=rss------xss-5"/>
+        <updated>2021-11-22T09:32:46.000Z</updated>
+        <summary type="html"><![CDATA[This one is by far one of the hardest challenges that I’ve done. The solution is not as intended but it does include some pretty nice…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Martin Stoynov</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Source code audit or methodology to find potential Memory corruption in low level language in c/c++ and Assembly.]]></title>
+        <id>https://www.reddit.com/r/ExploitDev/comments/qzf4g0/source_code_audit_or_methodology_to_find/</id>
+        <link href="https://www.reddit.com/r/ExploitDev/comments/qzf4g0/source_code_audit_or_methodology_to_find/"/>
+        <updated>2021-11-22T06:36:47.000Z</updated>
+        <summary type="html"><![CDATA[Hi , I am beginner to Vulnerability research. Have some experience in ctf and exploit challenges.
+ The problem that I am facing challenges while auditing code either in c/c++ or Assembly manually. I missed many points while searching potential candidates for memory corruption or other logical vulnerabilities.
+ Let’s say I am analysing c++ developed binary in IDA . 
+ So I want to know some advice or any tutorials or books to achieve them . Also in windbg crash let’s say there is a crash happened. How to determine which classes of vulnerability it is. .please let me know guys . 
+ Thanks.
+    submitted by    /u/crypt3r  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Exploit Development</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The "serial offender" #sexually assaulted an innocent minor girl and fled the scene.]]></title>
+        <id>https://medium.com/p/4be791737554</id>
+        <link href="https://medium.com/@zeshanheiderzeshanheider/the-serial-offender-sexually-assaulted-an-innocent-minor-girl-and-fled-the-scene-4be791737554?source=rss------xss-5"/>
+        <updated>2021-11-21T12:35:23.000Z</updated>
+        <summary type="html"><![CDATA[#Sexually assaulted an innocent minor #girl
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Zeeshan Sheikh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A bit confused about the jmpcall function in PEDA w/ ASLR but no PIE (x64/Linux)]]></title>
+        <id>https://www.reddit.com/r/ExploitDev/comments/qy7q2p/a_bit_confused_about_the_jmpcall_function_in_peda/</id>
+        <link href="https://www.reddit.com/r/ExploitDev/comments/qy7q2p/a_bit_confused_about_the_jmpcall_function_in_peda/"/>
+        <updated>2021-11-20T15:21:45.000Z</updated>
+        <summary type="html"><![CDATA[Brushing up on some x64 exploitation, and going through some exercises, I am confused by this: When I find jmp esp in a non-PIE enabled binary (using gdb-peda), the location does not seem to change, and is only 3 bytes (with ASLR on). This works fine to execute my shellcode if I pad it out with nulls.
+ What I am confused about is, why is it only 3 bytes? And why is it constant? Is ASLR only randomizing buffer space and not where the .code is loaded? Is an ASLR enabled binary in Windows then the equivalent of Linux ASLR + PIE? Are the 3 bytes just a relative offset?
+  gdb-peda$ jmp esp 0x40061e : jmp rsp 0x400743 : call rsp 0x60061e : jmp rsp 0x600743 : call rsp 
+    submitted by    /u/Bahariasaurus  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Exploit Development</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The secret to getting results, not noise, from your DAST solution]]></title>
+        <id>https://www.netsparker.com/blog/9e0b726b-d28b-4b2d-981f-e356323a69f3/</id>
+        <link href="https://www.netsparker.com/blog/web-security/getting-results-not-noise-from-your-dast-solution/"/>
+        <updated>2021-11-19T13:16:29.000Z</updated>
+        <summary type="html"><![CDATA[Products for dynamic application security testing (DAST) vary widely in quality and capabilities. A low-quality tool that merely ticks a box will do little to improve security and may generate more work than it saves. But a mature, high-quality solution can bring measurable security improvements and serve as a solid foundation for your entire AppSec program, as our infographic shows. READ MORE]]></summary>
+        <author>
+            <name>Zbigniew Banach</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Exploiting Predictable PRNG Seeds (with PwnTools, incl binary patching)]]></title>
+        <id>https://www.reddit.com/r/ExploitDev/comments/qxesy2/exploiting_predictable_prng_seeds_with_pwntools/</id>
+        <link href="https://www.reddit.com/r/ExploitDev/comments/qxesy2/exploiting_predictable_prng_seeds_with_pwntools/"/>
+        <updated>2021-11-19T12:03:50.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/_CryptoCat23  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Exploit Development</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[security researcher assistant]]></title>
+        <id>https://www.reddit.com/r/ExploitDev/comments/qx0hik/security_researcher_assistant/</id>
+        <link href="https://www.reddit.com/r/ExploitDev/comments/qx0hik/security_researcher_assistant/"/>
+        <updated>2021-11-18T21:46:56.000Z</updated>
+        <summary type="html"><![CDATA[Hello folks,
+ I am looking for an internship in exploitdev or vulnerability research. I am not looking for any revenue I just need a practical experience. Is there a way to find an internship in such a field as non-american?
+    submitted by    /u/botta633  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Exploit Development</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Is it still worth it to read The Shellcoder’s Handbook?]]></title>
+        <id>https://www.reddit.com/r/ExploitDev/comments/qwsoil/is_it_still_worth_it_to_read_the_shellcoders/</id>
+        <link href="https://www.reddit.com/r/ExploitDev/comments/qwsoil/is_it_still_worth_it_to_read_the_shellcoders/"/>
+        <updated>2021-11-18T15:52:01.000Z</updated>
+        <summary type="html"><![CDATA[I've been meaning to get into exploit dev and i know that The Shellcoder’s Handbook is recommended but does it still hold up in 2021?
+    submitted by    /u/milkshakemahn  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Exploit Development</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Threat actors offer millions for zero-days, developers talk of exploit-as-a-service]]></title>
+        <id>https://www.reddit.com/r/ExploitDev/comments/qw41eu/threat_actors_offer_millions_for_zerodays/</id>
+        <link href="https://www.reddit.com/r/ExploitDev/comments/qw41eu/threat_actors_offer_millions_for_zerodays/"/>
+        <updated>2021-11-17T17:15:45.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/soupcreamychicken  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Exploit Development</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Burp Suite certification prices hacked for Black Friday]]></title>
+        <id>burp-suite-certification-prices-hacked-for-black-friday</id>
+        <link href="https://portswigger.net/blog/burp-suite-certification-prices-hacked-for-black-friday"/>
+        <updated>2021-11-17T16:13:56.000Z</updated>
+        <summary type="html"><![CDATA[For the very first time, we've decided to join the rest of the world and run a Black Friday offer. Between 16 November 2021 and 30 November 2021, you can buy our Burp Suite Certified Practitioner exam]]></summary>
+        <author>
+            <name>PortSwigger Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to generate millions of files using grammar-based fuzzing (FormatFuzzer)]]></title>
+        <id>https://www.reddit.com/r/ExploitDev/comments/qvco49/how_to_generate_millions_of_files_using/</id>
+        <link href="https://www.reddit.com/r/ExploitDev/comments/qvco49/how_to_generate_millions_of_files_using/"/>
+        <updated>2021-11-16T17:11:24.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/pat_ventuzelo  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Exploit Development</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vulnerability scanning with PAM in zero trust environments]]></title>
+        <id>https://www.netsparker.com/blog/496d5b74-0866-4584-903c-b9dc926344ed/</id>
+        <link href="https://www.netsparker.com/blog/docs-and-faqs/vulnerability-scanning-privileged-access-management-zero-trust-environments/"/>
+        <updated>2021-11-16T14:21:37.000Z</updated>
+        <summary type="html"><![CDATA[Never trust, always check – that’s the zero trust motto. Enterprises and government agencies alike are rushing to implement at least some zero trust technologies, notably privileged access management (PAM), but this may have a knock-on effect on application security testing. Learn how modern AppSec solutions integrate with PAM platforms to ensure accurate testing even in locked-down environments. READ MORE]]></summary>
+        <author>
+            <name>Zbigniew Banach</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: OpenAPI fuzzer – fuzzing APIs based on OpenAPI specification]]></title>
+        <id>https://news.ycombinator.com/item?id=29231804</id>
+        <link href="https://github.com/matusf/openapi-fuzzer"/>
+        <updated>2021-11-15T19:50:09.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/matusf/openapi-fuzzer
+Comments URL: https://news.ycombinator.com/item?id=29231804
+Points: 76
+# Comments: 22]]></summary>
+        <author>
+            <name>matusf</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Golden Certificate]]></title>
+        <id>http://pentestlab.blog/?p=29805</id>
+        <link href="https://pentestlab.blog/2021/11/15/golden-certificate/"/>
+        <updated>2021-11-15T12:12:51.000Z</updated>
+        <summary type="html"><![CDATA[Domain persistence techniques enable red teams that have compromised the domain to operate with the highest level of privileges in a large period. One of… 
+Continue reading → Golden Certificate]]></summary>
+        <author>
+            <name>Administrator</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[picoCTF - Here's a Libc Writeup]]></title>
+        <id>https://www.reddit.com/r/ExploitDev/comments/qsyuz8/picoctf_heres_a_libc_writeup/</id>
+        <link href="https://www.reddit.com/r/ExploitDev/comments/qsyuz8/picoctf_heres_a_libc_writeup/"/>
+        <updated>2021-11-13T10:51:17.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/YioUio  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Exploit Development</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Breaking into exploit dev]]></title>
+        <id>https://www.reddit.com/r/ExploitDev/comments/qsodtv/breaking_into_exploit_dev/</id>
+        <link href="https://www.reddit.com/r/ExploitDev/comments/qsodtv/breaking_into_exploit_dev/"/>
+        <updated>2021-11-12T23:59:16.000Z</updated>
+        <summary type="html"><![CDATA[I am a security engineer looking to break into exploit dev. 
+ Background: I do not have a CS degree, although I went to school for CS. 
+ While in school I was captain of our collegiate hacking team. I held sessions where we practiced (beginner) buffer overflows. 
+ While in school I had done research on hardware reverse engineering, focused on medical devices. 
+ That got me to present with my peers at our local bsides. I then was able to present at IEEE southeastcon, which got me a job as a security engineer before graduating. 
+ -----‐
+ 1) Is it possible to get into exploit dev without a degree or is it absolutely necessary?
+ 2) should I go the pentester route and then exploit dev?
+ 3) do you see security engineers break into this field or does it tend to be developers? I don't do any software engineering, but I do a lot of tooling in powershell, python, and recently, go. I know C but hardly. 
+ 4) should I just shaddup and start learning? I'd assume that's get a better grip on primitives, RoP and C.
+    submitted by    /u/xnrkl  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Exploit Development</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fuzzware: Using Precise MMIO Modeling for Effective Firmware Fuzzing – Usenix]]></title>
+        <id>https://news.ycombinator.com/item?id=29198875</id>
+        <link href="https://www.usenix.org/conference/usenixsecurity22/presentation/scharnowski"/>
+        <updated>2021-11-12T13:03:47.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.usenix.org/conference/usenixsecurity22/presentation/scharnowski
+Comments URL: https://news.ycombinator.com/item?id=29198875
+Points: 2
+# Comments: 0]]></summary>
+        <author>
+            <name>todsacerdoti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Binary Exploitation (Pwn) Challenge Walkthroughs - HackTheBox x Synack #RedTeamFive CTF]]></title>
+        <id>https://www.reddit.com/r/ExploitDev/comments/qs9zpd/binary_exploitation_pwn_challenge_walkthroughs/</id>
+        <link href="https://www.reddit.com/r/ExploitDev/comments/qs9zpd/binary_exploitation_pwn_challenge_walkthroughs/"/>
+        <updated>2021-11-12T12:19:04.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/_CryptoCat23  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Exploit Development</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ClusterFuzzLite: Continuous Fuzzing for All]]></title>
+        <id>https://news.ycombinator.com/item?id=29188664</id>
+        <link href="https://security.googleblog.com/2021/11/clusterfuzzlite-continuous-fuzzing-for.html"/>
+        <updated>2021-11-11T15:12:24.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://security.googleblog.com/2021/11/clusterfuzzlite-continuous-fuzzing-for.html
+Comments URL: https://news.ycombinator.com/item?id=29188664
+Points: 15
+# Comments: 3]]></summary>
+        <author>
+            <name>metzmanj</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Asking Github Copilot to write Fuzzers & Hacking code for me - Hacking with AI]]></title>
+        <id>https://www.reddit.com/r/ExploitDev/comments/qq5ghk/asking_github_copilot_to_write_fuzzers_hacking/</id>
+        <link href="https://www.reddit.com/r/ExploitDev/comments/qq5ghk/asking_github_copilot_to_write_fuzzers_hacking/"/>
+        <updated>2021-11-09T14:58:00.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/pat_ventuzelo  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Exploit Development</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nyx-Net: Network Fuzzing with Incremental Snapshots]]></title>
+        <id>https://news.ycombinator.com/item?id=29116464</id>
+        <link href="https://arxiv.org/abs/2111.03013"/>
+        <updated>2021-11-05T07:53:40.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://arxiv.org/abs/2111.03013
+Comments URL: https://news.ycombinator.com/item?id=29116464
+Points: 2
+# Comments: 0]]></summary>
+        <author>
+            <name>todsacerdoti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tips for DFIR Analysts, pt IV]]></title>
+        <id>tag:blogger.com,1999:blog-9518042.post-1185574188632948228</id>
+        <link href="http://windowsir.blogspot.com/2021/11/tips-for-dfir-analysts-pt-iv.html"/>
+        <updated>2021-11-01T16:07:00.000Z</updated>
+        <summary type="html"><![CDATA[Context is king, it makes all the difference. You may see something run in EDR telemetry, or in logs, but the context of when it ran in relation to other activities is often critical. Did it occur immediately following a system reboot or a user login? Does it occur repeatedly? Does it occur on other systems? Did it occur in rapid succession with other commands, indicating that perhaps it was scripted? The how and when of the context then leads to attribution.
+Andy Piazza brings the same thoughts to CTI in his article, "CTI is Better Served with Context".
+Automation can be a wonderful thing, if you use it, and use it to your advantage. The bad guys do it all the time. Automation means you don't have to remember steps (because you will forget), and it drives consistency and efficiency. Even …]]></summary>
+        <author>
+            <name>noreply@blogger.com (Unknown)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Improvements to Burp Suite authenticated scanning]]></title>
+        <id>improvements-to-burp-suite-authenticated-scanning</id>
+        <link href="https://portswigger.net/blog/improvements-to-burp-suite-authenticated-scanning"/>
+        <updated>2021-10-29T12:22:37.000Z</updated>
+        <summary type="html"><![CDATA[Burp Suite's authenticated scanning feature enables users to scan privileged areas of target web applications even when a complex login sequence is required. This leverages Burp's browser - using the]]></summary>
+        <author>
+            <name>PortSwigger Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Autofuzz – Fuzzing Java Without Writing Fuzz Targets]]></title>
+        <id>https://news.ycombinator.com/item?id=29013958</id>
+        <link href="https://fuzz.ci/jazzer/update/2.0"/>
+        <updated>2021-10-27T14:45:02.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://fuzz.ci/jazzer/update/2.0
+Comments URL: https://news.ycombinator.com/item?id=29013958
+Points: 3
+# Comments: 1]]></summary>
+        <author>
+            <name>fhenneke</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An Intro to Fuzzing (a.k.a. Fuzz Testing)]]></title>
+        <id>https://news.ycombinator.com/item?id=28988478</id>
+        <link href="https://labs.bishopfox.com/tech-blog/an-intro-to-fuzzing-aka-fuzz-testing"/>
+        <updated>2021-10-25T14:53:46.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://labs.bishopfox.com/tech-blog/an-intro-to-fuzzing-aka-fuzz-testing
+Comments URL: https://news.ycombinator.com/item?id=28988478
+Points: 4
+# Comments: 0]]></summary>
+        <author>
+            <name>historynops</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Security Fuzzing Podcast Episode]]></title>
+        <id>https://news.ycombinator.com/item?id=28977322</id>
+        <link href="https://anchor.fm/firo-solutions/episodes/Fuzzing-with-Patrick-Ventuzelo-e197t6c"/>
+        <updated>2021-10-24T12:36:07.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://anchor.fm/firo-solutions/episodes/Fuzzing-with-Patrick-Ventuzelo-e197t6c
+Comments URL: https://news.ycombinator.com/item?id=28977322
+Points: 4
+# Comments: 0]]></summary>
+        <author>
+            <name>FiroSolutions</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Get Burp Suite certified for free...&nbsp;]]></title>
+        <id>get-burp-suite-certified-for-free</id>
+        <link href="https://portswigger.net/blog/get-burp-suite-certified-for-free"/>
+        <updated>2021-10-21T13:44:37.000Z</updated>
+        <summary type="html"><![CDATA[Ready for the challenge? Buy your certification exam now... Burp Suite Certified Practitioner accreditation to enable our users to validate their self-taught skills as web security prac]]></summary>
+        <author>
+            <name>PortSwigger Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lateral Movement – WebClient]]></title>
+        <id>http://pentestlab.blog/?p=29714</id>
+        <link href="https://pentestlab.blog/2021/10/20/lateral-movement-webclient/"/>
+        <updated>2021-10-20T08:03:10.000Z</updated>
+        <summary type="html"><![CDATA[Coercing elevated accounts such as machine accounts to authenticate to a host under the control of an attacker can provide an opportunity for privilege escalation… 
+Continue reading → Lateral Movement – WebClient]]></summary>
+        <author>
+            <name>Administrator</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fuzzing-101: learn how to fuzz like a real expert]]></title>
+        <id>https://news.ycombinator.com/item?id=28923466</id>
+        <link href="https://github.com/antonio-morales/Fuzzing101"/>
+        <updated>2021-10-19T20:39:43.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/antonio-morales/Fuzzing101
+Comments URL: https://news.ycombinator.com/item?id=28923466
+Points: 4
+# Comments: 0]]></summary>
+        <author>
+            <name>homarp</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Challenges of Fuzzing 5G Protocols]]></title>
+        <id>https://news.ycombinator.com/item?id=28917943</id>
+        <link href="https://research.nccgroup.com/2021/10/11/the-challenges-of-fuzzing-5g-protocols/"/>
+        <updated>2021-10-19T13:37:29.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://research.nccgroup.com/2021/10/11/the-challenges-of-fuzzing-5g-protocols/
+Comments URL: https://news.ycombinator.com/item?id=28917943
+Points: 5
+# Comments: 0]]></summary>
+        <author>
+            <name>todsacerdoti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SiliFuzz: Fuzzing CPUs by Proxy [pdf]]]></title>
+        <id>https://news.ycombinator.com/item?id=28916409</id>
+        <link href="https://github.com/google/fuzzing/blob/master/docs/silifuzz.pdf"/>
+        <updated>2021-10-19T09:43:28.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/google/fuzzing/blob/master/docs/silifuzz.pdf
+Comments URL: https://news.ycombinator.com/item?id=28916409
+Points: 1
+# Comments: 0]]></summary>
+        <author>
+            <name>pabs3</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Autofuzz – Java fuzzing without writing fuzz targets]]></title>
+        <id>https://news.ycombinator.com/item?id=28915778</id>
+        <link href="https://blog.code-intelligence.com/autofuzz"/>
+        <updated>2021-10-19T07:44:34.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://blog.code-intelligence.com/autofuzz
+Comments URL: https://news.ycombinator.com/item?id=28915778
+Points: 3
+# Comments: 1]]></summary>
+        <author>
+            <name>Hacman123</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SiliFuzz: Fuzzing CPUs by Proxy [pdf]]]></title>
+        <id>https://news.ycombinator.com/item?id=28909004</id>
+        <link href="https://raw.githubusercontent.com/google/fuzzing/master/docs/silifuzz.pdf"/>
+        <updated>2021-10-18T18:13:34.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://raw.githubusercontent.com/google/fuzzing/master/docs/silifuzz.pdf
+Comments URL: https://news.ycombinator.com/item?id=28909004
+Points: 11
+# Comments: 0]]></summary>
+        <author>
+            <name>matt_d</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Resource Based Constrained Delegation]]></title>
+        <id>http://pentestlab.blog/?p=29565</id>
+        <link href="https://pentestlab.blog/2021/10/18/resource-based-constrained-delegation/"/>
+        <updated>2021-10-18T08:15:00.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft in an attempt to provide more flexibility to domain users enabled owner of resources to configure which accounts are trusted and allowed to delegate… 
+Continue reading → Resource Based Constrained Delegation]]></summary>
+        <author>
+            <name>Administrator</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Data Exfiltration, Revisited]]></title>
+        <id>tag:blogger.com,1999:blog-9518042.post-8471049902008910510</id>
+        <link href="http://windowsir.blogspot.com/2021/10/data-exfiltration-revisited.html"/>
+        <updated>2021-10-10T20:04:00.000Z</updated>
+        <summary type="html"><![CDATA[I've posted on the topic of data exfiltration before (here, etc.) but often it's a good idea to revisit the topic. After all, it was almost two years ago that we saw the first instance of ransomware threat actors stating publicly that they'd exfiltrated data from systems, using this a secondary means of extortion. Since then, we've continued to see this tactic used, along with other tertiary means of extortion based on data exfiltration. We've also seen several instances where the threat actor ransom notes have stated that data was exfiltrated but the public "shaming" sites were noticeably empty.
+As long as I've been involved in what was first referred to as "information security" (later referred to as "cyber security"), data exfiltration has been a concern to one degree or another, even i…]]></summary>
+        <author>
+            <name>noreply@blogger.com (Unknown)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Prebuilt gotip releases for quickly trying out Go 1.18 fuzzing/generics]]></title>
+        <id>https://news.ycombinator.com/item?id=28810470</id>
+        <link href="https://github.com/clean8s/gotip-built"/>
+        <updated>2021-10-09T15:05:24.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/clean8s/gotip-built
+Comments URL: https://news.ycombinator.com/item?id=28810470
+Points: 4
+# Comments: 0]]></summary>
+        <author>
+            <name>pyentropy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tips for DFIR Analysts, pt III]]></title>
+        <id>tag:blogger.com,1999:blog-9518042.post-1382132341997797991</id>
+        <link href="http://windowsir.blogspot.com/2021/10/tips-for-dfir-analysts-pt-iii.html"/>
+        <updated>2021-10-08T20:51:00.000Z</updated>
+        <summary type="html"><![CDATA[Learn to think critically. Don't take what someone says as gospel, just because they say it. Support findings with data, and clearly communicate the value or significance of something.
+
+
+Be sure to validate your findings, and never rest your findings on a single artifact. Find an entry for a file in the AmCache? Great. But does that mean it was executed on the system? No, it does not...you need to validate execution with other artifacts in the constellation (EDR telemetry, host-based effects such as an application prefetch file, Registry modifications, etc.).
+
+
+Have a thorough process, one that you can add to and extend. Why? Because things are always changing, and there's always something new. If you can automate your process, then so much the better...you're not loosing time and enabling…]]></summary>
+        <author>
+            <name>noreply@blogger.com (Unknown)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EDR Bypasses]]></title>
+        <id>tag:blogger.com,1999:blog-9518042.post-4152719416121017941</id>
+        <link href="http://windowsir.blogspot.com/2021/10/edr-bypasses.html"/>
+        <updated>2021-10-08T12:59:00.000Z</updated>
+        <summary type="html"><![CDATA[During my time in the industry, I've been blessed to have opportunities to engage with a number of different EDR tools/frameworks at different levels. Mike Tanji offered me a look at Carbon Black before carbonblack.com existed, while it still used an on-prem database. I spent a very good deal of time working directly with Secureworks Red Cloak, and I've seen CrowdStrike Falcon and Digital Guardian's framework up close. I've seen the birth and growth of Sysmon, as well as MS's "internal" Process Tracking (which requires an additional Registry modification to record full command lines). I've also seen Nuix Adaptive Security up close (including seeing it used specifically for threat hunting), which rounds out my exposure. So, I haven't seen all tools by any stretch of the imagination, but mor…]]></summary>
+        <author>
+            <name>noreply@blogger.com (Unknown)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fuzzing with Postman]]></title>
+        <id>https://medium.com/p/599dce6317c7</id>
+        <link href="https://medium.com/@Magii/fuzzing-with-postman-599dce6317c7?source=rss------fuzzing-5"/>
+        <updated>2021-10-05T17:17:54.000Z</updated>
+        <summary type="html"><![CDATA[For the ones who have never heard about fuzzing, here goes the short explanation:
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Margarit Holm</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fuzzing with Postman]]></title>
+        <id>https://medium.com/p/599dce6317c7</id>
+        <link href="https://medium.com/@Magii/fuzzing-with-postman-599dce6317c7?source=rss------fuzzing-5"/>
+        <updated>2021-10-05T17:17:54.000Z</updated>
+        <summary type="html"><![CDATA[For the ones who have never heard about fuzzing, here goes the short explanation:
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Margarit Holm</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript Test Case Generator Based on Branch Coverage and Fuzzing]]></title>
+        <id>https://news.ycombinator.com/item?id=28745108</id>
+        <link href="https://slashdot.org/submission/14707493/javascript-test-case-generator-based-on-branch-coverage-and-fuzzing"/>
+        <updated>2021-10-04T10:44:12.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://slashdot.org/submission/14707493/javascript-test-case-generator-based-on-branch-coverage-and-fuzzing
+Comments URL: https://news.ycombinator.com/item?id=28745108
+Points: 1
+# Comments: 1]]></summary>
+        <author>
+            <name>Mr_Stark_OS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[/r/netsec's Q4 2021 Information Security Hiring Thread]]></title>
+        <id>https://www.reddit.com/r/netsec/comments/q0quoi/rnetsecs_q4_2021_information_security_hiring/</id>
+        <link href="https://www.reddit.com/r/netsec/comments/q0quoi/rnetsecs_q4_2021_information_security_hiring/"/>
+        <updated>2021-10-03T21:09:12.000Z</updated>
+        <summary type="html"><![CDATA[Overview
+ If you have open positions at your company for information security professionals and would like to hire from the /r/netsec user base, please leave a comment detailing any open job listings at your company.
+ We would also like to encourage you to post internship positions as well. Many of our readers are currently in school or are just finishing their education.
+ Please reserve top level comments for those posting open positions.
+ Rules & Guidelines
+ Include the company name in the post. If you want to be topsykret, go recruit elsewhere. Include the geographic location of the position along with the availability of relocation assistance or remote work.
+  
+If you are a third party recruiter, you must disclose this in your posting.
+ Please be thorough and upfront with the position details.
+ Use of non-hr'd (realistic) requirements is encouraged.
+ While it's fine to link to the position on your companies website, provide the important details in the comment.
+ Mention if applicants should apply officially through HR, or directly through you.
+ Please clearly list citizenship, visa, and security clearance requirements.
+  
+You can see an example of acceptable posts by perusing past hiring threads.
+ Feedback
+ Feedback and suggestions are welcome, but please don't hijack this thread (use moderator mail instead.)
+    submitted by    /u/ranok  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>/r/netsec - Information Security News &amp; Discussion</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[<span>Burp Suite Professional: feature roundup</span>]]></title>
+        <id>burp-suite-professional-feature-roundup</id>
+        <link href="https://portswigger.net/blog/burp-suite-professional-feature-roundup"/>
+        <updated>2021-09-30T13:39:04.000Z</updated>
+        <summary type="html"><![CDATA[The modern web is an increasingly complex beast. Each passing year brings with it new frameworks, technologies, and design trends - not to mention vulnerabilities. All of this adds to your testing wor]]></summary>
+        <author>
+            <name>PortSwigger Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FUZZING: Automating Bug Detection]]></title>
+        <id>https://medium.com/p/8d3efae89ddf</id>
+        <link href="https://medium.owaspvit.com/fuzzing-automating-bug-detection-8d3efae89ddf?source=rss------fuzzing-5"/>
+        <updated>2021-09-27T13:41:27.000Z</updated>
+        <summary type="html"><![CDATA[Sometimes hacking isn’t about taking a program apart: It’s about throwing random objects at it to see what breaks.
+Continue reading on OWASP VITCC »]]></summary>
+        <author>
+            <name>Tanmay Deshpande</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FUZZING: Automating Bug Detection]]></title>
+        <id>https://medium.com/p/8d3efae89ddf</id>
+        <link href="https://medium.owaspvit.com/fuzzing-automating-bug-detection-8d3efae89ddf?source=rss------fuzzing-5"/>
+        <updated>2021-09-27T13:41:27.000Z</updated>
+        <summary type="html"><![CDATA[Sometimes hacking isn’t about taking a program apart: It’s about throwing random objects at it to see what breaks.
+Continue reading on OWASP VITCC »]]></summary>
+        <author>
+            <name>Tanmay Deshpande</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Imposter Syndrome]]></title>
+        <id>tag:blogger.com,1999:blog-9518042.post-9097718944287197628</id>
+        <link href="http://windowsir.blogspot.com/2021/09/imposter-syndrome.html"/>
+        <updated>2021-09-24T00:47:00.000Z</updated>
+        <summary type="html"><![CDATA[Imposter Syndrome. 
+This is something many of us have experienced to one degree or another, at various times. Many have experienced, some have overcome it, others may not be able to and wonder why.
+HealthLine tells us, "Imposter feelings represent a conflict between your own self-perception and the way others perceive you." I would modify that slight to, "...the way we believe others perceive us." Imposter syndrome is something internalized, and has very little to do with the outside world.
+I wanted to take the opportunity to share with you, the reader, what I've learned over the years about what's really happening in the world when we're having those feelings of imposter syndrome.
+Perception: I don't want to present at a conference, or ask a question at a conference, because everyone know…]]></summary>
+        <author>
+            <name>noreply@blogger.com (Unknown)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dev.fuzz (fuzzing) merged in Golang tip]]></title>
+        <id>https://news.ycombinator.com/item?id=28604475</id>
+        <link href="https://github.com/golang/go/commit/6e81f78c0f1653ea140e6c8d008700ddad1fa0a5"/>
+        <updated>2021-09-21T12:42:45.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/golang/go/commit/6e81f78c0f1653ea140e6c8d008700ddad1fa0a5
+Comments URL: https://news.ycombinator.com/item?id=28604475
+Points: 2
+# Comments: 0]]></summary>
+        <author>
+            <name>mfrw</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Native fuzzing will be in Go 1.18]]></title>
+        <id>https://news.ycombinator.com/item?id=28602233</id>
+        <link href="https://twitter.com/katie_hockman/status/1440082486692773897"/>
+        <updated>2021-09-21T05:17:16.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://twitter.com/katie_hockman/status/1440082486692773897
+Comments URL: https://news.ycombinator.com/item?id=28602233
+Points: 1
+# Comments: 0]]></summary>
+        <author>
+            <name>todsacerdoti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Software Fuzzing: What, Why, What next?]]></title>
+        <id>https://medium.com/p/59d92c03675c</id>
+        <link href="https://medium.com/@shach_m/software-fuzzing-what-why-what-next-59d92c03675c?source=rss------fuzzing-5"/>
+        <updated>2021-09-20T07:19:25.000Z</updated>
+        <summary type="html"><![CDATA[Software development is a manual process and, more often than not, is the work of one or more developers with varied expertise and…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Shachee M</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Software Fuzzing: What, Why, What next?]]></title>
+        <id>https://medium.com/p/59d92c03675c</id>
+        <link href="https://medium.com/@shach_m/software-fuzzing-what-why-what-next-59d92c03675c?source=rss------fuzzing-5"/>
+        <updated>2021-09-20T07:19:25.000Z</updated>
+        <summary type="html"><![CDATA[Software development is a manual process and, more often than not, is the work of one or more developers with varied expertise and…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Shachee M</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Distros and RegRipper]]></title>
+        <id>tag:blogger.com,1999:blog-9518042.post-3173781681248962936</id>
+        <link href="http://windowsir.blogspot.com/2021/09/distros-and-regripper.html"/>
+        <updated>2021-09-19T14:48:00.000Z</updated>
+        <summary type="html"><![CDATA[Over the years, every now and then I've taken a look around to try to see where RegRipper is used. I noticed early on that it's included in several security-oriented Linux distros. So, I took the opportunity to compile some of the links I'd found, and I then extended those a bit with some Googling. I will admit, I was a little surprised to see how, over time, how far RegRipper has gone, from a "here, look at this" perspective.
+Not all of the below links are current, some are several years old. As such, they are not the latest and greatest; however, they may still apply and they may still be useful/valuable.
+RegRipper on Linux (Distros) 
+Kali, Kali GitLab 
+SANS SIFT 
+CAINE  
+Installing RegRipper on Linux 
+Install RRv2.8 on Ubuntu 
+CentOS RegRipper package 
+Arch Linux  
+RegRipper Docker Imag…]]></summary>
+        <author>
+            <name>noreply@blogger.com (Unknown)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[On Writing DFIR Books, pt II]]></title>
+        <id>tag:blogger.com,1999:blog-9518042.post-2283338136572059061</id>
+        <link href="http://windowsir.blogspot.com/2021/09/on-writing-dfir-books-pt-ii.html"/>
+        <updated>2021-09-19T11:19:00.000Z</updated>
+        <summary type="html"><![CDATA[Part I of this series kicked things off for us, and honestly I have no idea how long this series will be...I'm just writing the posts without a specific plan or outline for the series. In this case, I opted to take an organic approach, and wanted to see where it would go.
+Content
+Okay, so you have an idea for a book, but about...what? You may have a title or general idea, but what's the actual content you intend to write about? Is it more than a couple of paragraphs; can you actually create several solid chapters without having to use a lot of filler and fluff? Back when I was actively writing books, this was something on the forefront of my mind, not only because I was writing books, but later I got a question or two from others along these lines.
+In short, I write about stuff I know, or …]]></summary>
+        <author>
+            <name>noreply@blogger.com (Unknown)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PetitPotam – NTLM Relay to AD CS]]></title>
+        <id>http://pentestlab.blog/?p=29462</id>
+        <link href="https://pentestlab.blog/2021/09/14/petitpotam-ntlm-relay-to-ad-cs/"/>
+        <updated>2021-09-14T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Deployment of an Active Directory Certificate Services (AD CS) on a corporate environment could allow system administrators to utilize it for establishing trust between different… 
+Continue reading → PetitPotam – NTLM Relay to AD CS]]></summary>
+        <author>
+            <name>Administrator</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Account Persistence – Certificates]]></title>
+        <id>http://pentestlab.blog/?p=29340</id>
+        <link href="https://pentestlab.blog/2021/09/13/account-persistence-certificates/"/>
+        <updated>2021-09-13T18:35:00.000Z</updated>
+        <summary type="html"><![CDATA[It is not uncommon organizations to implement an internal certification authority in order to establish trust between entities (users, computers etc.) or utilize it for… 
+Continue reading → Account Persistence – Certificates]]></summary>
+        <author>
+            <name>Administrator</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tips for DFIR Analysts, pt II]]></title>
+        <id>tag:blogger.com,1999:blog-9518042.post-1650255714843835880</id>
+        <link href="http://windowsir.blogspot.com/2021/09/tips-for-dfir-analysts-pt-ii.html"/>
+        <updated>2021-09-06T14:30:00.000Z</updated>
+        <summary type="html"><![CDATA[On the heels of my first post with this subject, I thought I'd continue adding tips as they came to mind...
+I've been engaged with EDR frameworks for some time now. I first became aware of Carbon Black before it was "version 1.0", and before "carbonblack.com" existed. Since then, I've worked for several organizations that developed EDR frameworks (Secureworks, Nuix, CrowdStrike, Digital Guardian), and others that made use of frameworks created by others. I've also been very happy to see the development and growth of Sysmon, and used it in my own testing.
+One thing I've been acutely aware of is the visibility afforded by EDR frameworks, as well as the extent of that visibility. This is not a knock against these tools...not at all. EDR frameworks and tools are incredibly powerful, but they a…]]></summary>
+        <author>
+            <name>noreply@blogger.com (Unknown)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[On Writing DFIR Books, pt I]]></title>
+        <id>tag:blogger.com,1999:blog-9518042.post-1795387396670083680</id>
+        <link href="http://windowsir.blogspot.com/2021/09/on-writing-dfir-books-pt-i.html"/>
+        <updated>2021-09-06T14:29:00.000Z</updated>
+        <summary type="html"><![CDATA[During my time in the industry, I've authored 9 books under three imprints, and co-authored a tenth.
+There, I said it. The first step in addressing a problem is admitting you have one. ;-)
+Seriously, though, this is simply to say that I have some experience, nothing more. During the latter part of my book writing experience, I saw others who wanted to do the same thing, but ran into a variety of roadblocks, roadblocks I'd long since navigated. As a result, I tried to work with the publisher to create a non-paid liaison role that would help new authors overcome many of those issues, so that a greater portfolio of quality books became available to the industry. By the time I convinced one editor of the viability and benefit of such a program, they had decided to leave their profession, and I…]]></summary>
+        <author>
+            <name>noreply@blogger.com (Unknown)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kiterunner API Fuzzer (Windows Installation)]]></title>
+        <id>https://medium.com/p/b6e524b93ad9</id>
+        <link href="https://ryn0f1sh.medium.com/kiterunner-api-fuzzer-windows-installation-b6e524b93ad9?source=rss------fuzzing-5"/>
+        <updated>2021-09-03T18:32:30.000Z</updated>
+        <summary type="html"><![CDATA[Hello Friends,
+This post to tell you about an API scanner called Kiterunner, I heard about it through Ms. Alissa Knight’s white paper “Go…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>[ ryn0f1sh ]</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kiterunner API Fuzzer (Windows Installation)]]></title>
+        <id>https://medium.com/p/b6e524b93ad9</id>
+        <link href="https://ryn0f1sh.medium.com/kiterunner-api-fuzzer-windows-installation-b6e524b93ad9?source=rss------fuzzing-5"/>
+        <updated>2021-09-03T18:32:30.000Z</updated>
+        <summary type="html"><![CDATA[Hello Friends,
+This post to tell you about an API scanner called Kiterunner, I heard about it through Ms. Alissa Knight’s white paper “Go…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>[ ryn0f1sh ]</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building a Career in CyberSecurity]]></title>
+        <id>tag:blogger.com,1999:blog-9518042.post-60713791600424062</id>
+        <link href="http://windowsir.blogspot.com/2021/08/building-career-in-cybersecurity.html"/>
+        <updated>2021-08-27T13:55:00.000Z</updated>
+        <summary type="html"><![CDATA[There's been a lot of discussion on social media around how to "break into" the cybersecurity field, not only for folks just starting out but also for those looking for a career change. This is not unusual, given what we've seen in the public news media around cyber attacks and ransomware; the idea is that cybersecurity is an exploding career field that is completely "green fields", with an incredible amount of opportunity.
+Jax Scott recently shared a YouTube video (be sure to comment and subscribe!) where she provides five steps to level up any career, based on her "must read for anyone seeking a career in cybersecurity" blog post. Jax makes a lot of great points, and rather than running through each one and giving my perspective, I thought I'd elaborate a bit on one in particular.
+Jax's …]]></summary>
+        <author>
+            <name>noreply@blogger.com (Unknown)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tips for DFIR Analysts]]></title>
+        <id>tag:blogger.com,1999:blog-9518042.post-4227979134981559140</id>
+        <link href="http://windowsir.blogspot.com/2021/08/tips-for-dfir-analysts.html"/>
+        <updated>2021-08-26T18:39:00.000Z</updated>
+        <summary type="html"><![CDATA[Over the years as a DFIR analyst...first doing digital forensics analysis, and then incorporating that analysis as a component of IR activity...there have been some stunningly simple truths that I've learned, truths that I thought I'd share. Many of these "tips" are truisms that I've seen time and time again, and recognized that they made much more sense and had more value when they were "named".
+Tips, Thought, and Stuff to Think About
+
+
+Computer systems are a finite, deterministic space. The adversary can only go so far, within memory or on the hard drive. When monitoring computer systems and writing detections, the goal is not write the perfect detection, but rather to force the adversary into a corner, so that no matter what they do, they will trigger something. So, it's a good thing to…]]></summary>
+        <author>
+            <name>noreply@blogger.com (Unknown)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Burp extensions added to Burp Suite Enterprise Edition]]></title>
+        <id>burp-extensions-added-to-burp-suite-enterprise-edition</id>
+        <link href="https://portswigger.net/blog/burp-extensions-added-to-burp-suite-enterprise-edition"/>
+        <updated>2021-08-26T13:56:00.000Z</updated>
+        <summary type="html"><![CDATA[Burp Extensions (and your own custom extensions) will now be supported by Burp Suite Enterprise Edition, brand new for the 2021.8 release. If you've had much experience with Burp Suite Professional, i]]></summary>
+        <author>
+            <name>PortSwigger Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[It's now easier than ever to scan at scale with Burp Suite Enterprise Edition]]></title>
+        <id>its-now-easier-than-ever-to-scan-at-scale-with-burp-suite-enterprise-edition</id>
+        <link href="https://portswigger.net/blog/its-now-easier-than-ever-to-scan-at-scale-with-burp-suite-enterprise-edition"/>
+        <updated>2021-08-25T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[774 organizations in 68 countries are now using Burp Suite Enterprise Edition to improve and scale security across their web portfolios. As we pass the three-year anniversary of development on Burp Su]]></summary>
+        <author>
+            <name>PortSwigger Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The history of OAST in Burp Suite]]></title>
+        <id>the-history-of-oast-in-burp-suite</id>
+        <link href="https://portswigger.net/blog/the-history-of-oast-in-burp-suite"/>
+        <updated>2021-08-17T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[At PortSwigger, we pride ourselves on pushing the boundaries of web security. Just take a peek at some of our researchers' recent and upcoming talks from the likes of Black Hat and DEF CON if you'd li]]></summary>
+        <author>
+            <name>PortSwigger Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Domain Escalation – PrintNightmare]]></title>
+        <id>http://pentestlab.blog/?p=29267</id>
+        <link href="https://pentestlab.blog/2021/08/17/domain-escalation-printnightmare/"/>
+        <updated>2021-08-17T06:25:00.000Z</updated>
+        <summary type="html"><![CDATA[Printers are part of every corporate infrastructure therefore Windows environments they have a number of embedded drivers installed. The Print Spooler (spoolsv.exe) service is responsible… 
+Continue reading → Domain Escalation – PrintNightmare]]></summary>
+        <author>
+            <name>Administrator</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HiveNightmare]]></title>
+        <id>http://pentestlab.blog/?p=29196</id>
+        <link href="https://pentestlab.blog/2021/08/16/hivenightmare/"/>
+        <updated>2021-08-16T06:33:00.000Z</updated>
+        <summary type="html"><![CDATA[The security account manager (SAM) file contains the password hashes of the users on a Windows system. Since it is considered a sensitive file SYSTEM… 
+Continue reading → HiveNightmare]]></summary>
+        <author>
+            <name>Administrator</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“En-pass” — TryHackme Walkthrough (Medium Level CTF)]]></title>
+        <id>https://medium.com/p/c989f243f848</id>
+        <link href="https://eminxs.medium.com/en-pass-tryhackme-walkthrough-medium-level-ctf-c989f243f848?source=rss------fuzzing-5"/>
+        <updated>2021-08-09T14:46:17.000Z</updated>
+        <summary type="html"><![CDATA[Bu odada bizden web sitesi içerisinde gizlenmiş Path’i bulmamız isteniyor. Bulduğumuz pathlerden edindiğimiz bilgilerle makineyi çözmemiz…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Muhammed Emin Ünal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“En-pass” — TryHackme Walkthrough (Medium Level CTF)]]></title>
+        <id>https://medium.com/p/c989f243f848</id>
+        <link href="https://eminxs.medium.com/en-pass-tryhackme-walkthrough-medium-level-ctf-c989f243f848?source=rss------fuzzing-5"/>
+        <updated>2021-08-09T14:46:17.000Z</updated>
+        <summary type="html"><![CDATA[Bu odada bizden web sitesi içerisinde gizlenmiş Path’i bulmamız isteniyor. Bulduğumuz pathlerden edindiğimiz bilgilerle makineyi çözmemiz…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Muhammed Emin Ünal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Posting limits have been enabled on r/opendirectories.]]></title>
+        <id>https://www.reddit.com/r/opendirectories/comments/oxs2kz/posting_limits_have_been_enabled_on/</id>
+        <link href="https://www.reddit.com/r/opendirectories/comments/oxs2kz/posting_limits_have_been_enabled_on/"/>
+        <updated>2021-08-04T12:54:37.000Z</updated>
+        <summary type="html"><![CDATA[I'm not going to name any names, but because of many complaints of too many threads being created in a short time period by one user, we have set a limit of 2 5 posts per hour for any one user. 
+ This is not for comments, just new posts. 
+ Let us know if the limit is set too high or too low and we can adjust it if enough people agree.
+ thanks,
+ Your Loving Mods.
+ edit: after reading the comments, the posting rate has been adjusted to 5 posts per user per hour.
+    submitted by    /u/MrDorkESQ  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Open Directories</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HYBRID HACKER SUMMER CAMP 2021 GUIDE — Part Five: FuzzCON]]></title>
+        <id>https://medium.com/p/b0ba21704b49</id>
+        <link href="https://defcon201.medium.com/hybrid-hacker-summer-camp-2021-guide-part-five-fuzzcon-b0ba21704b49?source=rss------fuzzing-5"/>
+        <updated>2021-08-02T16:41:55.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to the DEFCON 201 guide to Hybrid Hacker Summer Camp! This is part of a series where we are going to cover all the various hacker…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>DCG 201</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HYBRID HACKER SUMMER CAMP 2021 GUIDE — Part Five: FuzzCON]]></title>
+        <id>https://medium.com/p/b0ba21704b49</id>
+        <link href="https://defcon201.medium.com/hybrid-hacker-summer-camp-2021-guide-part-five-fuzzcon-b0ba21704b49?source=rss------fuzzing-5"/>
+        <updated>2021-08-02T16:41:55.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to the DEFCON 201 guide to Hybrid Hacker Summer Camp! This is part of a series where we are going to cover all the various hacker…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>DCG 201</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Universal Privilege Escalation and Persistence – Printer]]></title>
+        <id>http://pentestlab.blog/?p=29133</id>
+        <link href="https://pentestlab.blog/2021/08/02/universal-privilege-escalation-and-persistence-printer/"/>
+        <updated>2021-08-02T06:35:25.000Z</updated>
+        <summary type="html"><![CDATA[The Print Spooler is responsible to manage and process printer jobs. It runs as a service with SYSTEM level privileges on windows environments. Abuse of… 
+Continue reading → Universal Privilege Escalation and Persistence – Printer]]></summary>
+        <author>
+            <name>Administrator</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Introducing the Burp Suite Certified Practitioner accreditation]]></title>
+        <id>introducing-the-burp-suite-certified-practitioner-accreditation</id>
+        <link href="https://portswigger.net/blog/introducing-the-burp-suite-certified-practitioner-accreditation"/>
+        <updated>2021-07-27T16:02:30.000Z</updated>
+        <summary type="html"><![CDATA[We launched the Web Security Academy in April 2019, as a means of providing free training and learning materials for security professionals. We now have 200 labs, and last year the Web Security Academ]]></summary>
+        <author>
+            <name>PortSwigger Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Burp Suite roadmap update: July 2021]]></title>
+        <id>burp-suite-roadmap-update-july-2021</id>
+        <link href="https://portswigger.net/blog/burp-suite-roadmap-update-july-2021"/>
+        <updated>2021-07-09T10:50:56.000Z</updated>
+        <summary type="html"><![CDATA[Apparently we're halfway through 2021 already (where does the time go?). Here's an update on what we've added to our products so far this year, as well as some exciting new features we're adding to ou]]></summary>
+        <author>
+            <name>PortSwigger Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Black Hat USA 2021: PortSwigger's latest research to be unveiled]]></title>
+        <id>black-hat-usa-2021-portswiggers-latest-research-to-be-unveiled</id>
+        <link href="https://portswigger.net/blog/black-hat-usa-2021-portswiggers-latest-research-to-be-unveiled"/>
+        <updated>2021-07-06T12:11:10.000Z</updated>
+        <summary type="html"><![CDATA[Two years ago, PortSwigger's director of research James Kettle presented "HTTP Desync Attacks" on-stage at BlackHat USA and kicked off a wave of request smuggling, but at that time HTTP/2 escaped seri]]></summary>
+        <author>
+            <name>PortSwigger Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Introducing DOM Invader: DOM XSS just got a whole lot easier to find]]></title>
+        <id>introducing-dom-invader</id>
+        <link href="https://portswigger.net/blog/introducing-dom-invader"/>
+        <updated>2021-06-30T16:47:00.000Z</updated>
+        <summary type="html"><![CDATA[Of the three main types of XSS, DOM-based XSS is by far the most difficult to find and exploit. But we come bearing good news! PortSwigger just released a new tool for Burp Suite Professional and Burp]]></summary>
+        <author>
+            <name>PortSwigger Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What We Know About The Ransomware Economy]]></title>
+        <id>tag:blogger.com,1999:blog-9518042.post-6123420465742337023</id>
+        <link href="http://windowsir.blogspot.com/2021/06/what-we-know-about-ransomware-economy.html"/>
+        <updated>2021-06-25T21:59:00.000Z</updated>
+        <summary type="html"><![CDATA[Okay, I think that we can all admit that ransomware has consumed the news cycle of late, thanks to high visibility attacks such as Colonial Pipeline and JBS. Interestingly enough, there wasn't this sort of reaction the second time the City of Baltimore got attacked, which (IMHO) belies the news cycle more than anything else.
+However, while the focus is on ransomware, for the moment, it's a good time to point out that there's more to this than just the attacks that get blasted across news feeds. That is, ransomware itself is an economy, an eco-system, which is a moniker that goes a long way to toward describing why victims of these attacks are impacted to the extent that they are. What I mean by this is that everything...EVERYTHING...about what goes into a ransomware attack is directed at t…]]></summary>
+        <author>
+            <name>noreply@blogger.com (Unknown)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thoughts on Assessing Threat Actor Intent & Sophistication]]></title>
+        <id>tag:blogger.com,1999:blog-9518042.post-898369953438981564</id>
+        <link href="http://windowsir.blogspot.com/2021/06/thoughts-on-assessing-threat-actor.html"/>
+        <updated>2021-06-25T21:17:00.000Z</updated>
+        <summary type="html"><![CDATA[I was reading this Splunk blog post recently, and I have to say up front, I was disappointed by the fact that the promise of the title (i.e., "Detecting Cl0p Ransomware") was not delivered on by the remaining content of the post. Very early on in the blog post is the statement:
+Ransomware is by nature a post-exploitation tool, so before deploying it they must infiltrate the victim's infrastructure. 
+Okay, so at this point, I'm looking for something juicy, some information regarding the TTPs used to "infiltrate the victim's infrastructure" and to locate files of interest for staging and exfil, but instead, the author(s) dove right into analyzing the malware itself, through reverse engineering. Early in that malware RE exercise is the statement:
+This ransomware has a defense evasion feature …]]></summary>
+        <author>
+            <name>noreply@blogger.com (Unknown)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Toolmarks: LNK Files in the news again]]></title>
+        <id>tag:blogger.com,1999:blog-9518042.post-935735601870355993</id>
+        <link href="http://windowsir.blogspot.com/2021/06/toolmarks-lnk-files-in-news-again.html"/>
+        <updated>2021-06-06T11:30:00.000Z</updated>
+        <summary type="html"><![CDATA[As most regular readers of this blog can tell you, I'm a bit of a fan of LNK files...a LNK-o-phile, if you will. I'm not only fascinated by the richness of the structure, but as I began writing a parser for LNK files, I began too see some interesting aspects of intelligence that can be gleaned from LNK files, in particular, those created within a threat actors development environment, and deployed to targets/infrastructures. First, there are different ways to create LNK files using the Windows API, and what's really cool is that each method has it's own unique #toolmarks associated with it!  
+Second, most often there is a pretty good amount of metadata embedded in the LNK file structure. There are file system time stamps, and often we'll see a NetBIOS system name, a volume S/N, a SID, or o…]]></summary>
+        <author>
+            <name>noreply@blogger.com (Unknown)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Testing, and taking DFIR a step further]]></title>
+        <id>tag:blogger.com,1999:blog-9518042.post-4301501895890958007</id>
+        <link href="http://windowsir.blogspot.com/2021/06/testing-and-taking-dfir-step-further.html"/>
+        <updated>2021-06-06T11:29:00.000Z</updated>
+        <summary type="html"><![CDATA[One of Shakespeare's lines from Hamlet I remember from high school is, "...there are more things on heaven and earth, Horatio, than are dreamt of in your philosophy." And that's one of the great things about the #DFIR industry...there's always something new. I do not for a moment think that I've seen everything, and I, for one, find it fascinating when we find something that is either new, or that has been talked about but is being seen "in the wild" for the first time.
+Someone mentioned recently that Microsoft's Antimalware Scan Interface (i.e., AMSI) could be used for persistence, and that got me very interested.  This isn't something specifically or explicitly covered by the MTRE ATT&CK framework, and I wanted to dig into this a bit more to understand it. As it can be used for persisten…]]></summary>
+        <author>
+            <name>noreply@blogger.com (Unknown)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[20 Burp Suite tips from the Burp user community]]></title>
+        <id>20-burp-suite-tips-from-the-burp-user-community</id>
+        <link href="https://portswigger.net/blog/20-burp-suite-tips-from-the-burp-user-community"/>
+        <updated>2021-06-02T11:23:28.000Z</updated>
+        <summary type="html"><![CDATA[The Burp Suite user community can easily be described as passionate, dedicated, and highly invested in the development of our product. That's why we love it when our users take it upon themselves to q]]></summary>
+        <author>
+            <name>PortSwigger Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Some of the best Burp extensions - as chosen by you]]></title>
+        <id>some-of-the-best-burp-extensions-as-chosen-by-you</id>
+        <link href="https://portswigger.net/blog/some-of-the-best-burp-extensions-as-chosen-by-you"/>
+        <updated>2021-05-27T15:30:11.000Z</updated>
+        <summary type="html"><![CDATA[As we mentioned in our recent blog post on good resources for new Burp Suite Professional users, the BApp Store is one of the largest repositories of community-created user content you're likely to fi]]></summary>
+        <author>
+            <name>PortSwigger Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dumping RDP Credentials]]></title>
+        <id>http://pentestlab.blog/?p=29014</id>
+        <link href="https://pentestlab.blog/2021/05/24/dumping-rdp-credentials/"/>
+        <updated>2021-05-24T11:45:02.000Z</updated>
+        <summary type="html"><![CDATA[Administrators typically use Remote Desktop Protocol (RDP) in order to manage Windows environments remotely. It is also typical RDP to be enabled in systems that… 
+Continue reading → Dumping RDP Credentials]]></summary>
+        <author>
+            <name>Administrator</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A few tips for the newcomers on this sub !]]></title>
+        <id>https://www.reddit.com/r/opendirectories/comments/ninfs3/a_few_tips_for_the_newcomers_on_this_sub/</id>
+        <link href="https://www.reddit.com/r/opendirectories/comments/ninfs3/a_few_tips_for_the_newcomers_on_this_sub/"/>
+        <updated>2021-05-22T17:20:51.000Z</updated>
+        <summary type="html"><![CDATA[This post is mainly intended to help the people who discover this sub to start with. It could also be useful for the other folks, who knows ?
+ What is an open directory ?
+ Open directories (aka ODs or opendirs) are just unprotected websites that you can browse recursively, without any required authentication. You can freely download individual files from them. They're organised in a folder structure, as a local directory tree on your computer. This is really convenient as you can also download several files in a bunch recursively (See below).
+ These sites are sometimes deliberately let open and, sometimes, inadvertently (seedboxes, personal websites with some dirs bad protected, ...). For these last ones, often, after someone has posted them here, they're hammered by many concurrent downlo…]]></summary>
+        <author>
+            <name>Open Directories</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Great getting started resources for new users of Burp Suite Professional]]></title>
+        <id>great-getting-started-resources-for-new-users-of-burp-suite-professional</id>
+        <link href="https://portswigger.net/blog/great-getting-started-resources-for-new-users-of-burp-suite-professional"/>
+        <updated>2021-05-21T12:37:00.000Z</updated>
+        <summary type="html"><![CDATA[If you're new to Burp Suite Professional, then congratulations. Not only have you just bought into the world's leading toolkit for web security testing - you've also joined a massive worldwide communi]]></summary>
+        <author>
+            <name>PortSwigger Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Persistence – AMSI]]></title>
+        <id>http://pentestlab.blog/?p=28981</id>
+        <link href="https://pentestlab.blog/2021/05/17/persistence-amsi/"/>
+        <updated>2021-05-17T07:53:08.000Z</updated>
+        <summary type="html"><![CDATA[AMSI (Antimalware Scan Interface) is a vendor agnostic interface which can communicate with the endpoint in order to prevent execution of malware. The scan performed… 
+Continue reading → Persistence – AMSI]]></summary>
+        <author>
+            <name>Administrator</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[<span>Experience Burp Suite Enterprise Edition in a new live demo</span>]]></title>
+        <id>experience-burp-suite-enterprise-edition-in-a-new-live-demo</id>
+        <link href="https://portswigger.net/blog/experience-burp-suite-enterprise-edition-in-a-new-live-demo"/>
+        <updated>2021-05-07T13:31:17.000Z</updated>
+        <summary type="html"><![CDATA[Quick link: Burp Suite Enterprise Edition live demo. Deploying enterprise-grade software isn't always easy. We wanted a quick way for people to see the core features of Burp Suite Enterprise Edition w]]></summary>
+        <author>
+            <name>PortSwigger Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Recorded logins in Burp Scanner]]></title>
+        <id>recorded-logins-in-burp-scanner</id>
+        <link href="https://portswigger.net/blog/recorded-logins-in-burp-scanner"/>
+        <updated>2021-04-22T13:32:00.000Z</updated>
+        <summary type="html"><![CDATA[If you’re using Burp Suite to test your website, it’s probably got some way for users to log in - and chances are it’s more complicated than filling in a username and password and hitting submit. Burp]]></summary>
+        <author>
+            <name>PortSwigger Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[On #DFIR Analysis, pt III - Benefits of a Structured Model]]></title>
+        <id>tag:blogger.com,1999:blog-9518042.post-7852007255868085520</id>
+        <link href="http://windowsir.blogspot.com/2021/04/on-dfir-analysis-pt-iii-benefits-of.html"/>
+        <updated>2021-04-12T19:51:00.000Z</updated>
+        <summary type="html"><![CDATA[In my previous post, I presented some of the basic design elements for a structured approach to describing artifact constellations, and leveraging them to further DFIR analysis. As much of this is new, I'm sure that this all sounds like a lot of work, and if you've read the other posts on this topic, you're probably wondering about the benefits to all this work. In this post, I'll take shot at netting out some of the more obvious benefits.
+Maintaining Corporate Knowledge
+Regardless of whether you're talking about an internal corporate position or a consulting role, analysts are going to see and learn new things based on their analysis. You're going to see new applications or techniques used, and perhaps even see the same threat actor making small changes to their TTPs due to some "stimulus…]]></summary>
+        <author>
+            <name>noreply@blogger.com (Unknown)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[On #DFIR Analysis, pt II - Describing Artifact Constellations]]></title>
+        <id>tag:blogger.com,1999:blog-9518042.post-1006113104680235229</id>
+        <link href="http://windowsir.blogspot.com/2021/04/on-dfir-analysis-pt-ii-describing.html"/>
+        <updated>2021-04-10T11:27:00.000Z</updated>
+        <summary type="html"><![CDATA[I've been putting some serious thought into the topic of a new #DFIR model, and in an effort to extend and expand upon my previous post a bit, I wanted to take the opportunity to document and share some of my latest thoughts.
+I've discussed toolmarks and artifact constellations previously in this blog, and how they apply to attribution. In discussing a new #DFIR model, the question that arises is, how do we describe an artifact or toolmark constellation in a structured manner, so that it can be communicated and shared?  
+Of course, the next step after that, once we have a structured format for describing these constellations, is automating the sharing and "machine ingestion" of these constellation descriptions. But before we get ahead of ourselves, let's discuss a possible structure a bit …]]></summary>
+        <author>
+            <name>noreply@blogger.com (Unknown)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AppSec experts share Burp Suite automation secrets and best practices]]></title>
+        <id>appsec-experts-share-burp-suite-automation-secrets-and-best-practices</id>
+        <link href="https://portswigger.net/blog/appsec-experts-share-burp-suite-automation-secrets-and-best-practices"/>
+        <updated>2021-04-08T15:04:08.000Z</updated>
+        <summary type="html"><![CDATA[Webinar recording: How to Perform Effective Web Application Security Assessments On 6 April, PortSwigger teamed up with HackerOne to bring you AppSec insights from industry expert Burp Suite users. Le]]></summary>
+        <author>
+            <name>PortSwigger Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LNK Files, Again]]></title>
+        <id>tag:blogger.com,1999:blog-9518042.post-1111497676596881095</id>
+        <link href="http://windowsir.blogspot.com/2021/04/lnk-files-again.html"/>
+        <updated>2021-04-01T19:28:00.000Z</updated>
+        <summary type="html"><![CDATA[I ran across SharpWebServer via Twitter recently...the first line of the readme.md file states, "A Red Team oriented simple HTTP & WebDAV server written in C# with functionality to capture Net-NTLM hashes." I thought this was fascinating because it ties directly to a technique MITRE refers to as "Forced Authentication".  What this means is that a threat actor can (and has...we'll get to that shortly) modify Windows shortcut/LNK files such that the iconfilename field points to an external resource. What happens is that when LNK file is launched, Explorer will reach out to the external resource and attempt to authenticate, sending NTLM hashes across the wire.  As such, SharpWebServer is built to capture those hashes.
+What this means is that a threat actor can gain access to an infrastructure, and as has been observed, use various means to maintain persistence...drop backdoors or RATs, create accounts on Internet-facing systems, etc.  However, many (albeit not all) of these means of persistence can be overcome via the judicious use of AV, EDR monitoring, and a universal password change.
+Modifying the iconfilename field of an LNK file is a means of persisting beyond password changes, because even after passwords are change, the updated hashes will be sent across the wire.
+Now, I did say earlier that this has been used before, and it has.  CISA Alert TA18-074A includes a section named "Persistence through LNK file manipulation". 
+Note that from the alert, when looking at the "Contents of enu.cmd", "Persistence through LNK file manipulation", and "Registry Modification" sections, we can see a pretty comprehensive set of toolmarks associated with this threat actor.  This is excellent intrusion intelligence, and should be incorporated into any and all #DFIR parsing, enrichment and decoration, as well as threat hunting.
+However, things are even better! This tweet from bohops illustrates how to apply this technique to MSWord docs.]]></summary>
+        <author>
+            <name>noreply@blogger.com (Unknown)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[On #DFIR Analysis]]></title>
+        <id>tag:blogger.com,1999:blog-9518042.post-242811767398453233</id>
+        <link href="http://windowsir.blogspot.com/2021/04/on-dfir-analysis.html"/>
+        <updated>2021-04-01T19:27:00.000Z</updated>
+        <summary type="html"><![CDATA[I wanted to take the opportunity to discuss DFIR analysis; when discussing #DFIR analysis, we have to ask the question, "what _is_ "analysis"?"
+In most cases, what we call analysis is really just parsing some data source (or sources) and either viewing the output of the tools, or running keyword searches.  When this is the entire process, it is not analysis...it's running keyword searches. Don't get me wrong, there is nothing wrong with keyword searches, as they're a great way to orient yourself to the data and provide pivot points into further analysis.  However, these searches should not be considered the end of your analysis; rather, they are simply be beginning, or at least early stages of the analysis. The issue is that parsing data sources in isolation from each other and just runnin…]]></summary>
+        <author>
+            <name>noreply@blogger.com (Unknown)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Simplified cloud deployment for Burp Suite Enterprise Edition]]></title>
+        <id>simplified-cloud-deployment-for-burp-suite-enterprise-edition</id>
+        <link href="https://portswigger.net/blog/simplified-cloud-deployment-for-burp-suite-enterprise-edition"/>
+        <updated>2021-03-26T14:40:00.000Z</updated>
+        <summary type="html"><![CDATA[Last year, we made Burp Suite Enterprise Edition cloud-friendly. Organizations migrating to the cloud, or taking a cloud-first approach, are able to deploy Burp Suite Enterprise Edition to AWS or Azur]]></summary>
+        <author>
+            <name>PortSwigger Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PortSwigger teams up with HackerOne for AppSec workshop - 6 April]]></title>
+        <id>portswigger-teams-up-with-hackerone-for-appsec-workshop-6-april</id>
+        <link href="https://portswigger.net/blog/portswigger-teams-up-with-hackerone-for-appsec-workshop-6-april"/>
+        <updated>2021-03-25T14:37:11.000Z</updated>
+        <summary type="html"><![CDATA[Tuesday 6 April, 2021 | 10 AM PT / 1 PM ET / 6 PM GMT Update: this webinar can now be viewed on HackerOne's site, here. AppSec is a tricky business. While expertise remains scarce, threats are only ge]]></summary>
+        <author>
+            <name>PortSwigger Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Extracting Toolmarks from Open Source Reporting, pt II]]></title>
+        <id>tag:blogger.com,1999:blog-9518042.post-5235803145482219615</id>
+        <link href="http://windowsir.blogspot.com/2021/03/extracting-toolmarks-from-open-source.html"/>
+        <updated>2021-03-23T16:05:00.000Z</updated>
+        <summary type="html"><![CDATA[On the heels of my previous post on this subject, I ran across this little gem from Microsoft regarding the print spooler EOP exploitation. I like articles like this because they illustrate threat actor activities outside the "norm", or what we usually tend to see in open reporting, if such things are illustrated in detail.
+Fig 4 (in step 1) in the article illustrates a new printer port being added to a Windows system as a step toward privilege escalation. This serves as one of the more-than-a-few interesting EDR-style tidbits from the article (i.e., detect the Powershell commandline), and also results in a fantastic toolmark that can be applied to DFIR "threat hunting". 
+The article illustrates, via fig 4, Powershell being used to add a printer port to the system, and that command results…]]></summary>
+        <author>
+            <name>noreply@blogger.com (Unknown)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Improved CI/CD integrations in Burp Suite Enterprise Edition]]></title>
+        <id>improved-ci-cd-integrations-in-burp-suite-enterprise-edition</id>
+        <link href="https://portswigger.net/blog/improved-ci-cd-integrations-in-burp-suite-enterprise-edition"/>
+        <updated>2021-03-23T15:15:00.000Z</updated>
+        <summary type="html"><![CDATA[Burp Suite Enterprise Edition was designed to support your DevSecOps needs. One of the ways it does this is via our pre-built and generic CI/CD driver. This allows users to integrate with tooling of t]]></summary>
+        <author>
+            <name>PortSwigger Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Browser powered scanning in Burp Suite]]></title>
+        <id>browser-powered-scanning-in-burp-suite</id>
+        <link href="https://portswigger.net/blog/browser-powered-scanning-in-burp-suite"/>
+        <updated>2021-03-22T14:29:00.000Z</updated>
+        <summary type="html"><![CDATA[Since the release of Browser powered scanning back in Burp Suite Professional 2020.8.1 we have had a lot of customers asking us about our motivation for choosing to integrate with Chromium and fo]]></summary>
+        <author>
+            <name>PortSwigger Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[<span>API Scanning with Burp Suite</span>]]></title>
+        <id>api-scanning-with-burp-suite</id>
+        <link href="https://portswigger.net/blog/api-scanning-with-burp-suite"/>
+        <updated>2021-03-11T16:08:00.000Z</updated>
+        <summary type="html"><![CDATA[Both Burp Suite Professional and Burp Suite Enterprise Edition contain Burp Scanner - allowing users to easily scan web applications for vulnerabilities. Other blog posts cover how Burp Scanner’s craw]]></summary>
+        <author>
+            <name>PortSwigger Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web application cartography: mapping out Burp Suite’s crawler]]></title>
+        <id>web-application-cartography-mapping-out-burp-suites-crawler</id>
+        <link href="https://portswigger.net/blog/web-application-cartography-mapping-out-burp-suites-crawler"/>
+        <updated>2021-03-05T15:07:00.000Z</updated>
+        <summary type="html"><![CDATA[At the core of Burp Suite is Burp Scanner - a powerful tool designed to reduce the number of manual steps users have to take to discover vulnerabilities in their targets. Burp Scanner was first releas]]></summary>
+        <author>
+            <name>PortSwigger Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[<span>7 Burp Suite Professional-exclusive features to help you test smarter</span>]]></title>
+        <id>7-burp-suite-professional-exclusive-features-to-help-you-test-smarter</id>
+        <link href="https://portswigger.net/blog/7-burp-suite-professional-exclusive-features-to-help-you-test-smarter"/>
+        <updated>2021-02-26T15:25:00.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to the Pro user community So, you've downloaded Burp Suite Professional. What now? It's a big piece of software, and there's a lot of functionality you're probably not aware of - even if you'v]]></summary>
+        <author>
+            <name>PortSwigger Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Burp Suite Professional: become an early adopter]]></title>
+        <id>burp-suite-professional-become-an-early-adopter</id>
+        <link href="https://portswigger.net/blog/burp-suite-professional-become-an-early-adopter"/>
+        <updated>2021-02-19T14:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Are you a creative and experimental user of Burp Suite Professional, who wants to see the newest features and improvements before most users? Now you can. With the release of v2021.2.1, you can become]]></summary>
+        <author>
+            <name>PortSwigger Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What are AppSec leaders prioritizing in 2021? The survey results are in]]></title>
+        <id>what-are-appsec-leaders-prioritizing-in-2021-the-survey-results-are-in</id>
+        <link href="https://portswigger.net/blog/what-are-appsec-leaders-prioritizing-in-2021-the-survey-results-are-in"/>
+        <updated>2021-02-18T15:28:00.000Z</updated>
+        <summary type="html"><![CDATA[The events of 2020 created a catalyst for technology adoption at every level of business. From accelerating digital transformations, growing online web application estates, to increasing reliance on r]]></summary>
+        <author>
+            <name>PortSwigger Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Flying high in the Web Security Academy]]></title>
+        <id>flying-high-in-the-web-security-academy</id>
+        <link href="https://portswigger.net/blog/flying-high-in-the-web-security-academy"/>
+        <updated>2021-02-10T15:46:59.000Z</updated>
+        <summary type="html"><![CDATA[We caught up with three high-flyers in our Web Security Academy - at the time of interview, they were ranked 2nd, 4th, and 6th out of thousands of users. If you want the full story, including some ins]]></summary>
+        <author>
+            <name>PortSwigger Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Getting Started with Exploit Development]]></title>
+        <id>https://www.reddit.com/r/ExploitDev/comments/lbsh3z/getting_started_with_exploit_development/</id>
+        <link href="https://www.reddit.com/r/ExploitDev/comments/lbsh3z/getting_started_with_exploit_development/"/>
+        <updated>2021-02-03T17:12:06.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/PM_ME_YOUR_SHELLCODE  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Exploit Development</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to enable dark mode in Burp Suite]]></title>
+        <id>how-to-enable-dark-mode-in-burp-suite</id>
+        <link href="https://portswigger.net/blog/how-to-enable-dark-mode-in-burp-suite"/>
+        <updated>2021-02-01T10:06:21.000Z</updated>
+        <summary type="html"><![CDATA[To enable dark mode in Burp Suite, go to the "User options" > "Display" tab. In the "User Interface" section, you can select either the light or dark theme from a drop-down menu. This option is ava]]></summary>
+        <author>
+            <name>PortSwigger Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Get started with DevSecOps: insights from Aleksandr Krasnov - Product Security Engineer]]></title>
+        <id>get-started-with-devsecops-insights-from-aleksandr-krasnov-product-security-engineer</id>
+        <link href="https://portswigger.net/blog/get-started-with-devsecops-insights-from-aleksandr-krasnov-product-security-engineer"/>
+        <updated>2021-01-28T15:27:00.000Z</updated>
+        <summary type="html"><![CDATA[Recently, we caught up with Aleksandr Krasnov - who is a product security engineer at Dropbox, and an all-round DevSecOps expert. Having worked on multiple Silicon Valley DevSecOps implementations, Al]]></summary>
+        <author>
+            <name>PortSwigger Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Burp Suite roadmap for 2021]]></title>
+        <id>burp-suite-roadmap-for-2021</id>
+        <link href="https://portswigger.net/blog/burp-suite-roadmap-for-2021"/>
+        <updated>2021-01-25T14:23:50.000Z</updated>
+        <summary type="html"><![CDATA[This roadmap has now been updated. Please see our July 2021 roadmap update. We’re all hoping that 2021 will prove to be a better year for humanity. And we’re also planning a great year for Burp Suite!]]></summary>
+        <author>
+            <name>PortSwigger Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hack your APIs: interview with Corey Ball - API security expert]]></title>
+        <id>hack-your-apis-interview-with-corey-ball-api-security-expert</id>
+        <link href="https://portswigger.net/blog/hack-your-apis-interview-with-corey-ball-api-security-expert"/>
+        <updated>2021-01-04T16:52:18.000Z</updated>
+        <summary type="html"><![CDATA[Corey Ball is a Cybersecurity Consulting Manager, and author of the forthcoming book Hacking APIs (working title - No Starch Press). As well as being a long-time API hacking enthusiast, Corey’s role g]]></summary>
+        <author>
+            <name>PortSwigger Blog</name>
         </author>
     </entry>
 </feed>
