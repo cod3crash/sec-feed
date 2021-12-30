@@ -6,6 +6,24 @@
       "siteUrl": "http://h1.nobbd.de/",
       "articles": [
         {
+          "id": "https://hackerone.com/reports/1431624",
+          "author": null,
+          "description": "Krisp disclosed a bug submitted by karthik86: https://hackerone.com/reports/1431624",
+          "link": "https://hackerone.com/reports/1431624",
+          "publishedOn": "2021-12-29T18:47:24.000Z",
+          "wordCount": 25,
+          "title": "Log4j CVE-202144228"
+        },
+        {
+          "id": "https://hackerone.com/reports/1002641",
+          "author": null,
+          "description": "BlockDev Sp. Z o.o disclosed a bug submitted by u-itachi: https://hackerone.com/reports/1002641",
+          "link": "https://hackerone.com/reports/1002641",
+          "publishedOn": "2021-12-29T14:28:56.000Z",
+          "wordCount": 25,
+          "title": "SQL Injection leads to retrieve the contents of an entire database."
+        },
+        {
           "id": "https://hackerone.com/reports/1300583",
           "author": null,
           "description": "VK.com disclosed a bug submitted by azimoff: https://hackerone.com/reports/1300583 - Bounty: $300",
@@ -1030,6 +1048,69 @@
       "siteUrl": "https://infosecwriteups.com?source=rss----7b722bfd1b8d---4",
       "articles": [
         {
+          "id": "https://medium.com/p/579cb8d6c050",
+          "author": "dh0ck",
+          "description": "CTF challenge available at ctf-mystiko.com.",
+          "link": "https://infosecwriteups.com/ctf-creation-shiftpocalypse-579cb8d6c050?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2021-12-29T10:30:15.000Z",
+          "wordCount": 784,
+          "title": "CTF Write-Up: Shiftpocalypse"
+        },
+        {
+          "id": "https://medium.com/p/6d774aecad8f",
+          "author": "dh0ck",
+          "description": "CTF challenge available at ctf-mystiko.com.",
+          "link": "https://infosecwriteups.com/ctf-creation-hell-yeah-6d774aecad8f?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2021-12-29T10:30:05.000Z",
+          "wordCount": 658,
+          "title": "CTF Write-Up: Hell Yeah!"
+        },
+        {
+          "id": "https://medium.com/p/bde1129c106e",
+          "author": "Sudhanshu Rajbhar",
+          "description": "Heyyy Everyoneeee,",
+          "link": "https://infosecwriteups.com/story-of-a-weird-csrf-bug-bde1129c106e?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2021-12-29T10:25:49.000Z",
+          "wordCount": 1466,
+          "title": "Story of a weird CSRF bug"
+        },
+        {
+          "id": "https://medium.com/p/6f2b9e859765",
+          "author": "Hacktivities",
+          "description": "Recently, I’ve been learning more about memory forensics and the volatility memory analysis tool. To get some more practice, I decided to…",
+          "link": "https://infosecwriteups.com/forensics-memory-analysis-with-volatility-6f2b9e859765?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2021-12-29T10:24:11.000Z",
+          "wordCount": 1732,
+          "title": "Forensics — Memory Analysis with Volatility"
+        },
+        {
+          "id": "https://medium.com/p/3c70d59c307a",
+          "author": "Nishith K",
+          "description": "Collection of all the required details to understand Log4shell (CVE-2021–44228 ) vulnerability",
+          "link": "https://infosecwriteups.com/log4shell-simplified-all-you-need-to-know-about-cve-2021-44228-3c70d59c307a?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2021-12-29T10:23:50.000Z",
+          "wordCount": 1265,
+          "title": "Log4Shell Simplified : All you need to know about CVE-2021-44228"
+        },
+        {
+          "id": "https://medium.com/p/e24893895c69",
+          "author": "Mukilan Baskaran",
+          "description": "CTF",
+          "link": "https://infosecwriteups.com/tryhackme-introduction-to-django-e24893895c69?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2021-12-29T10:23:06.000Z",
+          "wordCount": 634,
+          "title": "TryHackme — Introduction to Django"
+        },
+        {
+          "id": "https://medium.com/p/32262271f1e4",
+          "author": "CyberBruhArmy",
+          "description": "Bug Bounty Tool List Which are useful for Hunting",
+          "link": "https://infosecwriteups.com/bug-bounty-tool-list-32262271f1e4?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2021-12-29T10:21:16.000Z",
+          "wordCount": 186,
+          "title": "Bug Bounty Tool List"
+        },
+        {
           "id": "https://medium.com/p/43901be1307c",
           "author": "Krishnadev P Melevila",
           "description": "Hi hackers,",
@@ -1207,6 +1288,69 @@
       "feedUrl": "https://medium.com/feed/tag/bugbounty",
       "siteUrl": "https://medium.com/tag/bugbounty/latest?source=rss------bugbounty-5",
       "articles": [
+        {
+          "id": "https://medium.com/p/a12563cc8d79",
+          "author": "Sam",
+          "description": "Hi, Hope you guyz are doing well, Here is the story of how i am able to crash anyone’s mozilla firefox by just sending a single email…\nContinue reading on Medium »",
+          "link": "https://medium.com/@sam0-0/how-i-am-able-to-crash-anyones-mozilla-firefox-browser-by-sending-an-email-a12563cc8d79?source=rss------bugbounty-5",
+          "publishedOn": "2021-12-29T19:08:13.000Z",
+          "wordCount": 369,
+          "title": "HOW I AM ABLE TO CRASH ANYONE’S MOZILLA FIREFOX BROWSER BY SENDING AN EMAIL"
+        },
+        {
+          "id": "https://medium.com/p/75f51563309c",
+          "author": "Sam",
+          "description": "Hi,\nContinue reading on Medium »",
+          "link": "https://medium.com/@sam0-0/how-i-got-my-first-rce-while-learning-python-75f51563309c?source=rss------bugbounty-5",
+          "publishedOn": "2021-12-29T18:25:40.000Z",
+          "wordCount": 270,
+          "title": "HOW I GOT MY FIRST RCE WHILE LEARNING PYTHON"
+        },
+        {
+          "id": "https://medium.com/p/6eb74cf7149",
+          "author": "Wil Barnes",
+          "description": "On Dec 21st, we performed an ad hoc upgrade to our mainnet program that introduced a critical vulnerability that was quickly discovered…\nContinue reading on Jet Protocol »",
+          "link": "https://medium.com/jetprotocol/jet-protocol-upgrade-bug-patch-disclosure-6eb74cf7149?source=rss------bugbounty-5",
+          "publishedOn": "2021-12-29T17:29:51.000Z",
+          "wordCount": 426,
+          "title": "Jet Protocol Upgrade Bug Patch Disclosure"
+        },
+        {
+          "id": "https://medium.com/p/c08daec978f6",
+          "author": "Niveet Palan",
+          "description": "[PART -3 Exploiting Trust]\nContinue reading on System Weakness »",
+          "link": "https://systemweakness.com/how-to-hack-any-website-c08daec978f6?source=rss------bugbounty-5",
+          "publishedOn": "2021-12-29T06:25:45.000Z",
+          "wordCount": 3674,
+          "title": "How To Hack Any Website"
+        },
+        {
+          "id": "https://medium.com/p/2542c22115c9",
+          "author": "Amit Kumar",
+          "description": "Hello Hackers!!\nContinue reading on Medium »",
+          "link": "https://amit-lt.medium.com/lenovo-open-redirection-2542c22115c9?source=rss------bugbounty-5",
+          "publishedOn": "2021-12-29T04:25:20.000Z",
+          "wordCount": 322,
+          "title": "LENOVO OPEN REDIRECTION"
+        },
+        {
+          "id": "https://medium.com/p/ab17f5985c8",
+          "author": "Jan Jeffrie Salloman",
+          "description": "Hello everyone I’m Jan Jeffrie Salloman, I started bug hunting 1 year ago. This writeup is about an OTP bypass using response manipulation…\nContinue reading on Medium »",
+          "link": "https://janjeffrie.medium.com/otp-bypass-via-response-manipulation-ab17f5985c8?source=rss------bugbounty-5",
+          "publishedOn": "2021-12-29T02:51:12.000Z",
+          "wordCount": 427,
+          "title": "OTP bypass via response manipulation"
+        },
+        {
+          "id": "https://medium.com/p/64ec66c24c7d",
+          "author": "Immunefi",
+          "description": "Whitehat Leon Spacewalker reported a critical vulnerability in Polygon on December 3.\nContinue reading on Immunefi »",
+          "link": "https://medium.com/immunefi/polygon-lack-of-balance-check-bugfix-postmortem-2-2m-bounty-64ec66c24c7d?source=rss------bugbounty-5",
+          "publishedOn": "2021-12-29T02:02:54.000Z",
+          "wordCount": 1174,
+          "title": "Polygon Lack Of Balance Check Bugfix Postmortem — $2.2m Bounty"
+        },
         {
           "id": "https://medium.com/p/ac6547165a22",
           "author": "revault.network",
@@ -1771,6 +1915,69 @@
       "siteUrl": "https://infosecwriteups.com?source=rss----7b722bfd1b8d---4",
       "articles": [
         {
+          "id": "https://medium.com/p/579cb8d6c050",
+          "author": "dh0ck",
+          "description": "CTF challenge available at ctf-mystiko.com.",
+          "link": "https://infosecwriteups.com/ctf-creation-shiftpocalypse-579cb8d6c050?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2021-12-29T10:30:15.000Z",
+          "wordCount": 784,
+          "title": "CTF Write-Up: Shiftpocalypse"
+        },
+        {
+          "id": "https://medium.com/p/6d774aecad8f",
+          "author": "dh0ck",
+          "description": "CTF challenge available at ctf-mystiko.com.",
+          "link": "https://infosecwriteups.com/ctf-creation-hell-yeah-6d774aecad8f?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2021-12-29T10:30:05.000Z",
+          "wordCount": 658,
+          "title": "CTF Write-Up: Hell Yeah!"
+        },
+        {
+          "id": "https://medium.com/p/bde1129c106e",
+          "author": "Sudhanshu Rajbhar",
+          "description": "Heyyy Everyoneeee,",
+          "link": "https://infosecwriteups.com/story-of-a-weird-csrf-bug-bde1129c106e?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2021-12-29T10:25:49.000Z",
+          "wordCount": 1466,
+          "title": "Story of a weird CSRF bug"
+        },
+        {
+          "id": "https://medium.com/p/6f2b9e859765",
+          "author": "Hacktivities",
+          "description": "Recently, I’ve been learning more about memory forensics and the volatility memory analysis tool. To get some more practice, I decided to…",
+          "link": "https://infosecwriteups.com/forensics-memory-analysis-with-volatility-6f2b9e859765?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2021-12-29T10:24:11.000Z",
+          "wordCount": 1732,
+          "title": "Forensics — Memory Analysis with Volatility"
+        },
+        {
+          "id": "https://medium.com/p/3c70d59c307a",
+          "author": "Nishith K",
+          "description": "Collection of all the required details to understand Log4shell (CVE-2021–44228 ) vulnerability",
+          "link": "https://infosecwriteups.com/log4shell-simplified-all-you-need-to-know-about-cve-2021-44228-3c70d59c307a?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2021-12-29T10:23:50.000Z",
+          "wordCount": 1265,
+          "title": "Log4Shell Simplified : All you need to know about CVE-2021-44228"
+        },
+        {
+          "id": "https://medium.com/p/e24893895c69",
+          "author": "Mukilan Baskaran",
+          "description": "CTF",
+          "link": "https://infosecwriteups.com/tryhackme-introduction-to-django-e24893895c69?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2021-12-29T10:23:06.000Z",
+          "wordCount": 634,
+          "title": "TryHackme — Introduction to Django"
+        },
+        {
+          "id": "https://medium.com/p/32262271f1e4",
+          "author": "CyberBruhArmy",
+          "description": "Bug Bounty Tool List Which are useful for Hunting",
+          "link": "https://infosecwriteups.com/bug-bounty-tool-list-32262271f1e4?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2021-12-29T10:21:16.000Z",
+          "wordCount": 186,
+          "title": "Bug Bounty Tool List"
+        },
+        {
           "id": "https://medium.com/p/43901be1307c",
           "author": "Krishnadev P Melevila",
           "description": "Hi hackers,",
@@ -1948,6 +2155,15 @@
       "feedUrl": "https://medium.com/feed/tag/osint",
       "siteUrl": "https://medium.com/tag/osint/latest?source=rss------osint-5",
       "articles": [
+        {
+          "id": "https://medium.com/p/c95ccc1c56ce",
+          "author": "CyberRaya",
+          "description": "This is a guest post by Steve Hall (https://twitter.com/shall_1)\nContinue reading on Medium »",
+          "link": "https://medium.com/@CyberRaya/osint-cheatsheet-a-mindmap-for-your-investigation-c95ccc1c56ce?source=rss------osint-5",
+          "publishedOn": "2021-12-29T02:15:28.000Z",
+          "wordCount": 49,
+          "title": "OSINT Cheatsheet: A Mindmap for Your Investigation"
+        },
         {
           "id": "https://medium.com/p/dcb82f2bdc8a",
           "author": "Renan Leite",
@@ -2963,6 +3179,15 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=29723953",
+          "author": "r721",
+          "description": "Article URL: https://github.com/google/log4jscanner\nComments URL: https://news.ycombinator.com/item?id=29723953\nPoints: 3\n# Comments: 0",
+          "link": "https://github.com/google/log4jscanner",
+          "publishedOn": "2021-12-29T11:38:06.000Z",
+          "wordCount": 919,
+          "title": "Log4jscanner: A Log4j vulnerability filesystem scanner and Go package"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=29718845",
           "author": "xaner4",
           "description": "Article URL: https://nvd.nist.gov/vuln/detail/CVE-2021-44832\nComments URL: https://news.ycombinator.com/item?id=29718845\nPoints: 97\n# Comments: 41",
@@ -3231,6 +3456,87 @@
       "siteUrl": "https://www.freebuf.com",
       "articles": [
         {
+          "id": "https://www.freebuf.com/news/317836.html",
+          "author": null,
+          "description": "全球动态1. Log4j 2.17.1 现已发布，修复了新的远程代码执行错误Apache 发布了 Log4j 版本 2.17.1，修复了 2.17.0 中新发现的远程代码执行 (RCE) 漏洞，编号为 CVE-2021-44832。[外刊-阅读原文]2. 好购App未经许可读取用户手机剪贴板内容，法院认定侵害隐私权手机用户小林（化名）在使用好购App时发现，该App未经同意，擅自监测、收集其手机剪",
+          "link": "https://www.freebuf.com/news/317836.html",
+          "publishedOn": "2021-12-29T12:18:37.000Z",
+          "wordCount": 259,
+          "title": "FreeBuf早报 | 在线密码管理器LastPass被大规模撞库；好购App被法院认定侵害隐私权"
+        },
+        {
+          "id": "https://www.freebuf.com/news/317826.html",
+          "author": null,
+          "description": "《征求意见稿》提出了信息系统密码应用方案设计技术的建议，为开展信息系统密码应用方案设计提供指导参考。",
+          "link": "https://www.freebuf.com/news/317826.html",
+          "publishedOn": "2021-12-29T10:21:07.000Z",
+          "wordCount": 146,
+          "title": "《信息安全技术 信息系统密码应用设计技术要求》（征求意见稿）发布"
+        },
+        {
+          "id": "https://www.freebuf.com/news/317818.html",
+          "author": null,
+          "description": "这些软件伪装成已停止运营的盗版影视应用程序——ShowBox，目前已在多个用户设备上触发了Play Protect安全警告。",
+          "link": "https://www.freebuf.com/news/317818.html",
+          "publishedOn": "2021-12-29T09:42:04.000Z",
+          "wordCount": 148,
+          "title": "既存安全风险又涉及侵权，三星应用商店现风险流媒体应用"
+        },
+        {
+          "id": "https://www.freebuf.com/news/317805.html",
+          "author": null,
+          "description": "进入等级保护2.0时代，根据信息技术发展应用和网络安全态势，不断丰富了制度内涵、拓展保护范围、完善监管措施，逐步健全网络安全等级保护制度政策、标准和支撑体系。",
+          "link": "https://www.freebuf.com/news/317805.html",
+          "publishedOn": "2021-12-29T07:49:05.000Z",
+          "wordCount": 159,
+          "title": "等保2.0与商密应用产品相关的48个问题合集（中）"
+        },
+        {
+          "id": "https://www.freebuf.com/articles/neopoints/317798.html",
+          "author": null,
+          "description": "上云时代，企业应结合自身安全合规要求与公有云特性，制定云安全审计检查项；并有效利用公有云配置审计服务，提升云上审计自动化水平。",
+          "link": "https://www.freebuf.com/articles/neopoints/317798.html",
+          "publishedOn": "2021-12-29T07:37:31.000Z",
+          "wordCount": 151,
+          "title": "上云时代，企业云安全审计可以这么做！"
+        },
+        {
+          "id": "https://www.freebuf.com/articles/paper/317785.html",
+          "author": null,
+          "description": "未来白帽子应该多多尝试过往不熟知、不擅长的漏洞领域，更新挖洞知识与技能。",
+          "link": "https://www.freebuf.com/articles/paper/317785.html",
+          "publishedOn": "2021-12-29T06:52:20.000Z",
+          "wordCount": 162,
+          "title": "重磅 | 【 2021中国白帽子调查报告】正式发布"
+        },
+        {
+          "id": "https://www.freebuf.com/vuls/317773.html",
+          "author": null,
+          "description": "综上所述，这个洞刚开始叫nopac其实就是针对跨域时的攻击，实战意义不大。",
+          "link": "https://www.freebuf.com/vuls/317773.html",
+          "publishedOn": "2021-12-29T05:37:08.000Z",
+          "wordCount": 967,
+          "title": "域内提权漏洞CVE-2021-42287与CVE-2021-42278原理分析"
+        },
+        {
+          "id": "https://www.freebuf.com/news/317772.html",
+          "author": null,
+          "description": "在线密码管理器LastPass承认，攻击者对其用户进行了大规模的撞库攻击，试图访问他们的云托管密码库。",
+          "link": "https://www.freebuf.com/news/317772.html",
+          "publishedOn": "2021-12-29T05:16:42.000Z",
+          "wordCount": 145,
+          "title": "线密码管理器LastPass被大规模撞库"
+        },
+        {
+          "id": "https://www.freebuf.com/sectool/317723.html",
+          "author": null,
+          "description": "有幸从HFish产品小姐姐那儿获得了内测资格，和大家分享一下个人使用心得，以及部分落地方法。结尾有彩蛋哟。",
+          "link": "https://www.freebuf.com/sectool/317723.html",
+          "publishedOn": "2021-12-28T10:42:35.000Z",
+          "wordCount": 153,
+          "title": "企业级国产免费蜜罐HFish内测版先览"
+        },
+        {
           "id": "https://www.freebuf.com/vuls/317697.html",
           "author": null,
           "description": "首期系列课程主要分享关于java安全相关内容",
@@ -3256,6 +3562,15 @@
           "publishedOn": "2021-12-28T08:22:54.000Z",
           "wordCount": 156,
           "title": "全球最大图片服务公司遭勒索攻击、《蜘蛛侠》新片盗版包含挖矿木马｜12月28日全球网络安全热点"
+        },
+        {
+          "id": "https://www.freebuf.com/news/317659.html",
+          "author": null,
+          "description": "在数十万阿尔巴尼亚公民的个人数据在互联网上泄露后，阿尔巴尼亚总理就此事公开道歉。",
+          "link": "https://www.freebuf.com/news/317659.html",
+          "publishedOn": "2021-12-28T07:25:02.000Z",
+          "wordCount": 143,
+          "title": "阿尔巴尼亚总理就数据泄露致歉"
         },
         {
           "id": "https://www.freebuf.com/news/317654.html",
@@ -3301,6 +3616,15 @@
           "publishedOn": "2021-12-28T06:23:10.000Z",
           "wordCount": 159,
           "title": "全球最大图片服务公司Shutterfly遭Conti 勒索软件攻击"
+        },
+        {
+          "id": "https://www.freebuf.com/articles/game/317615.html",
+          "author": null,
+          "description": "本文将重点围绕“反破解”讲述这些安全风险以及如何对unity游戏进行全方位的矩阵化保护升级。",
+          "link": "https://www.freebuf.com/articles/game/317615.html",
+          "publishedOn": "2021-12-28T02:47:45.000Z",
+          "wordCount": 174,
+          "title": "Unity游戏反破解之道：代码破解与资源窃取，从攻击风险入手"
         },
         {
           "id": "https://www.freebuf.com/articles/network/317613.html",
@@ -4091,6 +4415,15 @@
       "siteUrl": "http://www.sec-wiki.com/",
       "articles": [
         {
+          "id": "http://www.sec-wiki.com/?2021-12-29",
+          "author": null,
+          "description": "业务安全发展洞察报告 2021  by ourren\n消费级物联网安全基线  by ourren\n更多最新文章，请访问SecWiki",
+          "link": "http://www.sec-wiki.com/?2021-12-29",
+          "publishedOn": "2021-12-29T15:58:20.000Z",
+          "wordCount": 586,
+          "title": "SecWiki News 2021-12-29 Review"
+        },
+        {
           "id": "http://www.sec-wiki.com/?2021-12-28",
           "author": null,
           "description": "连载：演化的高级威胁治理（四）  by ourren\n连载：演化的高级威胁治理（三）  by ourren\n连载：演化的高级威胁治理（二）  by ourren\n连载：演化的高级威胁治理（一）  by ourren\nSecWiki周刊（第408期)  by ourren\n透明度PK国家安全？美国的VEP政策改革呼声再起  by ourren\n漏洞披露是一个抗解问题--协同漏洞披露（CVD）简述  by ourren\nTHINE：针对时序异质信息网络的表示学习  by ourren\n更多最新文章，请访问SecWiki",
@@ -4241,6 +4574,87 @@
       "feedUrl": "https://www.reddit.com/r/asknetsec/.rss",
       "siteUrl": "https://www.reddit.com/r/asknetsec/",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/rrnt37/phone_tapping_call_forwarding_unconditionally_but/",
+          "author": null,
+          "description": "So I checked my dad's phone for tapping.\n This is what the system message said:\n Call forwarding unconditionally.\n Voice: Not forwarded\n Data: Not forwarded\n FAX: Not forwarded\n SMS: Not forwarded\n Sync: Not forwarded\n Async: Not forwarded\n Packet: Not forwarded\n PAD: Not forwarded OK\n Given the info above, is he still being phone tapped?\n Last time, he was and I saw the number.\n Now I didn't.\n    submitted by    /u/Then-Mathematician76  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/rrnt37/phone_tapping_call_forwarding_unconditionally_but/",
+          "publishedOn": "2021-12-30T00:45:54.000Z",
+          "wordCount": 208,
+          "title": "Phone Tapping -- Call Forwarding UNconditionally, but everything else is NOT forwarded"
+        },
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/rrn8h5/are_you_running_linux_as_your_main_workstation/",
+          "author": null,
+          "description": "Are you running Linux as your main workstation? What do the professionals run as their main operating system?\n    submitted by    /u/No_Secret6425  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/rrn8h5/are_you_running_linux_as_your_main_workstation/",
+          "publishedOn": "2021-12-30T00:19:42.000Z",
+          "wordCount": 452,
+          "title": "Are You Running Linux As Your Main Workstation?"
+        },
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/rrn80g/offsec_discontinue_kali_on_azure/",
+          "author": null,
+          "description": "Did Offensive Security discontinue support for Kali on the Azure cloud? \n https://github.com/Azure/azure-cli/issues/17469\n Found this thread and can’t find Kali in the azure marketplace or on their site anymore.\n    submitted by    /u/DeadbeatHoneyBadger  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/rrn80g/offsec_discontinue_kali_on_azure/",
+          "publishedOn": "2021-12-30T00:19:06.000Z",
+          "wordCount": 132,
+          "title": "Offsec Discontinue Kali on Azure?"
+        },
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/rrkmrl/why_havent_african_countries_invested_much_in_the/",
+          "author": null,
+          "description": "Most of the African countries don't know what Cybersecurity is!. Some know it but they have not yet faced a serious risk!. This is the main reason why countries like Uganda don't embrace Cybersecurity and Technology at large and this causes a serious threat to a country shortly because technology is becoming unavoidable!\n    submitted by    /u/Cyber_Catalyzer  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/rrkmrl/why_havent_african_countries_invested_much_in_the/",
+          "publishedOn": "2021-12-29T22:25:34.000Z",
+          "wordCount": 205,
+          "title": "Why haven't African countries invested much in the Cybersecurity Industry?"
+        },
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/rrjofm/question_about_java_deobfuscation_htb_module/",
+          "author": null,
+          "description": "hi all, I am doing the \"Javascript deObfuscation\" module on hackthebox platform (very very nice!)\n I read this:\n  \nAs previously mentioned, the above-used method of obfuscation is packing. Another way of unpacking such code is to find the return value at the end and use console.log to print it instead of executing it.\n  \nCan anyone explain me this? Possibly with an example? Thankyou\n    submitted by    /u/g-simon  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/rrjofm/question_about_java_deobfuscation_htb_module/",
+          "publishedOn": "2021-12-29T21:45:53.000Z",
+          "wordCount": 265,
+          "title": "Question about java deobfuscation HTB module"
+        },
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/rrhlh3/nessus_says_ipmi_hashes_are_disclosed_but/",
+          "author": null,
+          "description": "I see this fairly frequently during pentests where Nessus raises an issue about IPMI Hash Disclosure, but of course doesn't show any hashes. When using ipmi_dumphashes I get nothing in response.\n Does anyone know any other utilities to check for IPMI hash disclosure and confirm if Nessus is giving me a false positive?\n    submitted by    /u/security_intern  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/rrhlh3/nessus_says_ipmi_hashes_are_disclosed_but/",
+          "publishedOn": "2021-12-29T20:18:48.000Z",
+          "wordCount": 224,
+          "title": "Nessus says IPMI hashes are disclosed, but metasploit's ipmi_dumphashes returns nothing?"
+        },
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/rrg8h2/someone_is_trying_to_access_my_accountswhat_to_do/",
+          "author": null,
+          "description": "I believe someone is in possession of my personal information and is trying to access my accounts. Over the last few days I have been prompted to confirm my identity in Venmo and Paypal. I also just received notice that someone is trying to access my Twitter account in Ecuador.\n ​\n I have changed my Google password and all of my financial passwords. I have not detected any fraudulent activity on any of my cards, but am at a loss what to do next. Should I simply change every password I have? Is there a better course of action?\n ​\n The only way I can think they may have gotten my information was is that I pirate tv shows on my personal computer. It recently blue screened and I had to wipe everything. \n ​\n Pretty much at a loss for what to do at this step as it seems someone is attempting to access my account, but at this point hasn't been able to bypass 2fa or basic security questions.\n    submitted by    /u/LechronJames  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/rrg8h2/someone_is_trying_to_access_my_accountswhat_to_do/",
+          "publishedOn": "2021-12-29T19:22:12.000Z",
+          "wordCount": 547,
+          "title": "Someone is trying to access my accounts...what to do?"
+        },
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/rrfus7/looking_for_advice_and_recommendations_for_rmm/",
+          "author": null,
+          "description": "We're dealing with sensitive and juicy data, protected by strict regulations, in an environment in an environment where we could be targeted for being a little start up with access to some very interesting things. I'm of two minds. . . \n On the one hand, just the presence of RMM is a potential vuln (especially giving some cloud service admin access to my devices). On the other hand, I want to be able to keep track of stuff (and audit my users, who are scattered around the country, at least quarterly).\n I need an RMM solution for MacOS and Windows both that has a good track record and (hopefully) a reasonably open audit history. I'd feel more comfortable with something where I can host my own server, not have it call home somewhere in the cloud (I realise that's probably a nonstarter, at least as far as MacOS is concerned). I was moderately excited about Tactical RMM, but after what just happened with them, I'm a \"hell no!\" on that one. \n Any thoughts on this?\n    submitted by    /u/thebardingreen  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/rrfus7/looking_for_advice_and_recommendations_for_rmm/",
+          "publishedOn": "2021-12-29T19:06:20.000Z",
+          "wordCount": 287,
+          "title": "Looking for advice and recommendations for RMM software."
+        },
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/rrenqk/best_password_manager/",
+          "author": null,
+          "description": "Hey security folks help me out to choose best password manager.\n Let me know which password manager you are using and why?\n What's the best password manager betweens 1password vs dashlane vs bitWarden?\n    submitted by    /u/noob_bug_hunter  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/rrenqk/best_password_manager/",
+          "publishedOn": "2021-12-29T18:16:58.000Z",
+          "wordCount": 1194,
+          "title": "Best password manager?"
+        },
         {
           "id": "https://www.reddit.com/r/AskNetsec/comments/rqsam1/third_log4j_rce_vulnerability_discovered_in/",
           "author": null,
@@ -4716,6 +5130,15 @@
       "feedUrl": "https://www.reddit.com/r/redteamsec/.rss",
       "siteUrl": "https://www.reddit.com/r/redteamsec/",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/redteamsec/comments/rr3tvy/implantarmilobleeda_padvish_threats_database/",
+          "author": null,
+          "description": "submitted by    /u/dmchell  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/redteamsec/comments/rr3tvy/implantarmilobleeda_padvish_threats_database/",
+          "publishedOn": "2021-12-29T09:03:42.000Z",
+          "wordCount": 105,
+          "title": "Implant.ARM.iLOBleed.a | Padvish Threats Database"
+        },
         {
           "id": "https://www.reddit.com/r/redteamsec/comments/rqsz7k/red_blueteam_quick_reference_gitbooks/",
           "author": null,
@@ -5289,6 +5712,33 @@
       "siteUrl": "https://www.reddit.com/r/computerforensics/",
       "articles": [
         {
+          "id": "https://www.reddit.com/r/computerforensics/comments/rrdzfz/help_with_installing_autopsy/",
+          "author": null,
+          "description": "submitted by    /u/UserNo007  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/computerforensics/comments/rrdzfz/help_with_installing_autopsy/",
+          "publishedOn": "2021-12-29T17:49:16.000Z",
+          "wordCount": 400,
+          "title": "Help with installing Autopsy"
+        },
+        {
+          "id": "https://www.reddit.com/r/computerforensics/comments/rrbieq/forensic_analysis_of_usb_tripwire_that_shreds/",
+          "author": null,
+          "description": "submitted by    /u/maltfield  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/computerforensics/comments/rrbieq/forensic_analysis_of_usb_tripwire_that_shreds/",
+          "publishedOn": "2021-12-29T16:04:06.000Z",
+          "wordCount": 183,
+          "title": "Forensic Analysis of USB tripwire that shreds your LUKS Header"
+        },
+        {
+          "id": "https://www.reddit.com/r/computerforensics/comments/rr86st/tips_on_gcfa_sans_for508_certification/",
+          "author": null,
+          "description": "Hello everyone, \n I've just registered for GCFA (SANS FOR508). What is the major tips that anyone can share for this certification? One feedback that I heard from my colleagues that took it couple of months back was that the practice papers doesn't have much similarity to the actual exam. \n Which is kind of a concern as I have a GCIH (SANS SEC504) and my practice papers are very similar to the actual exam. \n Appreciate any feedback from anyone who has recently attempted the certification, thanks!\n    submitted by    /u/Writtensine6  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/computerforensics/comments/rr86st/tips_on_gcfa_sans_for508_certification/",
+          "publishedOn": "2021-12-29T13:28:09.000Z",
+          "wordCount": 913,
+          "title": "Tips on GCFA (SANS FOR508) certification"
+        },
+        {
           "id": "https://www.reddit.com/r/computerforensics/comments/rpti33/help_with_autopsy_on_mac/",
           "author": null,
           "description": "Hi,\n I need to use Autopsy to analyse an E01 image for my project but am struggling to get in set up on my Mac (running Mojave). I downloaded the .zip file from autopsy and have all the files but can't seem to get the GUI running. I installed it via 'brew' but at the end of the install it said error Xcode version too low. So I don't know if it has installed properly. Any help would be appreciated.\n ​\n Thanks\n    submitted by    /u/UserNo007  \n [link]   [comments]",
@@ -5610,6 +6060,33 @@
       "feedUrl": "https://www.reddit.com/r/netsec/.rss",
       "siteUrl": "https://www.reddit.com/r/netsec/",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/netsec/comments/rri4z6/printnightmare_and_ssh_tunnels/",
+          "author": null,
+          "description": "submitted by    /u/m_edmondson  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/netsec/comments/rri4z6/printnightmare_and_ssh_tunnels/",
+          "publishedOn": "2021-12-29T20:41:12.000Z",
+          "wordCount": 104,
+          "title": "PrintNightmare and SSH Tunnels"
+        },
+        {
+          "id": "https://www.reddit.com/r/netsec/comments/rrazjx/flagpro_malware_is_threatening_enterprises_and_is/",
+          "author": null,
+          "description": "submitted by    /u/Gengar-boy  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/netsec/comments/rrazjx/flagpro_malware_is_threatening_enterprises_and_is/",
+          "publishedOn": "2021-12-29T15:41:11.000Z",
+          "wordCount": 243,
+          "title": "Flagpro malware is threatening enterprises and is backed by Chinese hackers"
+        },
+        {
+          "id": "https://www.reddit.com/r/netsec/comments/rr9xzh/how_i_built_the_poc_for_the_log4j_zeroday/",
+          "author": null,
+          "description": "submitted by    /u/melbadry9  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/netsec/comments/rr9xzh/how_i_built_the_poc_for_the_log4j_zeroday/",
+          "publishedOn": "2021-12-29T14:54:31.000Z",
+          "wordCount": 125,
+          "title": "How I built the PoC for the Log4j zero-day security vulnerability"
+        },
         {
           "id": "https://www.reddit.com/r/netsec/comments/rqqimc/new_log4j_cve_cve202144832_another_jndi_rce_fixed/",
           "author": null,
@@ -6040,6 +6517,105 @@
       "feedUrl": "https://www.reddit.com/r/opendirectories/.rss",
       "siteUrl": "https://www.reddit.com/r/opendirectories/",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/opendirectories/comments/rrnq68/indian_im_assuming_music/",
+          "author": null,
+          "description": "submitted by    /u/International_Milk_1  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/opendirectories/comments/rrnq68/indian_im_assuming_music/",
+          "publishedOn": "2021-12-30T00:42:12.000Z",
+          "wordCount": 99,
+          "title": "Indian (I'm assuming) music"
+        },
+        {
+          "id": "https://www.reddit.com/r/opendirectories/comments/rrh4jy/open_directories_containing_music_4/",
+          "author": null,
+          "description": "01 - Original Sound Track Tokusatsus - ddl.tokusatsu-fansub.fr > Musiques > Tokusatsus Collection MP3 OST e BGM > 01 - Original Sound Track Tokusatsus \n Index of /criticalmasscatania/data/media (inventati.org) \n Index of /mp3 (pinballnirvana.com) \n Index of /tunes (syer.net) \n Index of /Music \n Index of /ftp/MP3 (bahiabeachtenerife.com)\n    submitted by    /u/International_Milk_1  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/opendirectories/comments/rrh4jy/open_directories_containing_music_4/",
+          "publishedOn": "2021-12-29T19:59:25.000Z",
+          "wordCount": 296,
+          "title": "open directories containing music (4)"
+        },
+        {
+          "id": "https://www.reddit.com/r/opendirectories/comments/rrghpr/open_directories_containing_music_3/",
+          "author": null,
+          "description": "http://wrobradio.com/mp3s/\n http://www.crypthome.com/members/Belle/vwavvv/\n http://www.ibiblio.org/pha/dawk/Audio/\n http://www.crescentmoon.club/All%20Music/\n http://files.sfenyc.com/Music/?C=M;O=A\n http://woodrosepsp.com/judy/MUSIC/\n    submitted by    /u/International_Milk_1  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/opendirectories/comments/rrghpr/open_directories_containing_music_3/",
+          "publishedOn": "2021-12-29T19:32:49.000Z",
+          "wordCount": 241,
+          "title": "open directories containing music (3)"
+        },
+        {
+          "id": "https://www.reddit.com/r/opendirectories/comments/rrgd46/open_directories_containing_music_2/",
+          "author": null,
+          "description": "http://www.captainspud.com/stuff/music/\n http://cvltnation.com/wp-content/audio/\n https://anorg.chem.uu.nl/people/staff/FrankdeGroot/woXS/\n https://dl.msbmusic.ir/d1/1398/Music/09/\n http://tka4.org/tka4/articles/Music%20Listening/sound/\n https://www.iutbayonne.univ-pau.fr/~lopis/BBand/Divers/\n    submitted by    /u/International_Milk_1  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/opendirectories/comments/rrgd46/open_directories_containing_music_2/",
+          "publishedOn": "2021-12-29T19:27:40.000Z",
+          "wordCount": 245,
+          "title": "open directories containing music (2)"
+        },
+        {
+          "id": "https://www.reddit.com/r/opendirectories/comments/rrg98l/open_directories_containing_music_1/",
+          "author": null,
+          "description": "https://www.acroche2.com/mid_jazz/\n http://148.72.150.188/archive/access/audio/\n http://91.121.145.85/panel/136/henk/Blue%20Note%20The%20Ultimate%20Jazz%20Collection/Blue%20Note%20-%20The%20Ultimate%20Jazz%20Collection%20-%20CD1/\n http://pix.klunch.com:555/mp3/\n http://www.doctorwhofanshop.com/mov/\n https://ia801002.us.archive.org/27/items/tntvillage_381703/John%20Coltrane%20-%20Legacy%20%28Impulse%21%29%20%281955-67%29%20%28Disc%201%20-%20Harmonic%20%26%20Melodic%29/\n    submitted by    /u/International_Milk_1  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/opendirectories/comments/rrg98l/open_directories_containing_music_1/",
+          "publishedOn": "2021-12-29T19:23:05.000Z",
+          "wordCount": 237,
+          "title": "open directories containing music (1)"
+        },
+        {
+          "id": "https://www.reddit.com/r/opendirectories/comments/rrf8jb/archives_of_internet_radio_shows_music_and/",
+          "author": null,
+          "description": "submitted by    /u/International_Milk_1  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/opendirectories/comments/rrf8jb/archives_of_internet_radio_shows_music_and/",
+          "publishedOn": "2021-12-29T18:40:47.000Z",
+          "wordCount": 224,
+          "title": "ARCHIVES OF INTERNET RADIO SHOWS. Music and interviews seemingly. Might be easier to check parent directory first."
+        },
+        {
+          "id": "https://www.reddit.com/r/opendirectories/comments/rrevu3/various_operating_system_isos/",
+          "author": null,
+          "description": "submitted by    /u/Plastic_Preparation1  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/opendirectories/comments/rrevu3/various_operating_system_isos/",
+          "publishedOn": "2021-12-29T18:26:15.000Z",
+          "wordCount": 145,
+          "title": "Various operating system ISOs"
+        },
+        {
+          "id": "https://www.reddit.com/r/opendirectories/comments/rrcvoe/an_audiobook_for_every_novel_in_the_nero_wolfe/",
+          "author": null,
+          "description": "submitted by    /u/HGMIV926  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/opendirectories/comments/rrcvoe/an_audiobook_for_every_novel_in_the_nero_wolfe/",
+          "publishedOn": "2021-12-29T17:02:33.000Z",
+          "wordCount": 179,
+          "title": "An Audiobook for every novel in the Nero Wolfe detective series by Rex Stout"
+        },
+        {
+          "id": "https://www.reddit.com/r/opendirectories/comments/rrb7cx/music_hmm_some_of_it_is_the_original_artists_at/",
+          "author": null,
+          "description": "submitted by    /u/International_Milk_1  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/opendirectories/comments/rrb7cx/music_hmm_some_of_it_is_the_original_artists_at/",
+          "publishedOn": "2021-12-29T15:50:57.000Z",
+          "wordCount": 271,
+          "title": "Music. Hmm. Some of it is the original artists at least in the first directory. The rest seems to be covers and maybe original material by some french band. There is a trio mentioned in parent folder. But in open directory folders which have people's names, there are more than 3 folders. Whew."
+        },
+        {
+          "id": "https://www.reddit.com/r/opendirectories/comments/rrb2r7/classical_music_in_some_of_the_directories/",
+          "author": null,
+          "description": "submitted by    /u/International_Milk_1  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/opendirectories/comments/rrb2r7/classical_music_in_some_of_the_directories/",
+          "publishedOn": "2021-12-29T15:45:14.000Z",
+          "wordCount": 133,
+          "title": "classical music in some of the directories."
+        },
+        {
+          "id": "https://www.reddit.com/r/opendirectories/comments/rraet9/telegram_botod_downloader/",
+          "author": null,
+          "description": "I am thinking of creating a telegram bot that crawls and downloads OD, is that already done? Is it a good idea? And could I be legally accused with anything?\n    submitted by    /u/_NullPointerEx  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/opendirectories/comments/rraet9/telegram_botod_downloader/",
+          "publishedOn": "2021-12-29T15:15:18.000Z",
+          "wordCount": 808,
+          "title": "Telegram bot-OD downloader"
+        },
         {
           "id": "https://www.reddit.com/r/opendirectories/comments/rq3xfn/google_drive_movie_link/",
           "author": null,
@@ -6979,6 +7555,15 @@
       "feedUrl": "https://www.hackingarticles.in/feed/",
       "siteUrl": "https://www.hackingarticles.in",
       "articles": [
+        {
+          "id": "https://www.hackingarticles.in/?p=27450",
+          "author": "Raj Chandel",
+          "description": "Bounty hunter is a CTF Linux machine with an Easy difficulty rating on the Hack the Box platform. So let’s get started and take a\nThe post BountyHunter HackTheBox Walkthrough appeared first on Hacking Articles.",
+          "link": "https://www.hackingarticles.in/bounty-hunter-hackthebox-walkthrough/",
+          "publishedOn": "2021-12-29T13:03:09.000Z",
+          "wordCount": 1823,
+          "title": "BountyHunter HackTheBox Walkthrough"
+        },
         {
           "id": "https://www.hackingarticles.in/?p=27435",
           "author": "Raj Chandel",
