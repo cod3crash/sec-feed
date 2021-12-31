@@ -6,6 +6,42 @@
       "siteUrl": "http://h1.nobbd.de/",
       "articles": [
         {
+          "id": "https://hackerone.com/reports/1277753",
+          "author": null,
+          "description": "Mail.ru disclosed a bug submitted by astates: https://hackerone.com/reports/1277753",
+          "link": "https://hackerone.com/reports/1277753",
+          "publishedOn": "2021-12-30T18:28:24.000Z",
+          "wordCount": 25,
+          "title": "Read-only user can edit user segments."
+        },
+        {
+          "id": "https://hackerone.com/reports/1437942",
+          "author": null,
+          "description": "Monero disclosed a bug submitted by fukuyama: https://hackerone.com/reports/1437942",
+          "link": "https://hackerone.com/reports/1437942",
+          "publishedOn": "2021-12-30T17:08:50.000Z",
+          "wordCount": 25,
+          "title": "DLL hijacking in Monero GUI for Windows 0.17.3.0 would allow an attacker to perform remote command execution"
+        },
+        {
+          "id": "https://hackerone.com/reports/1354452",
+          "author": null,
+          "description": "VK.com disclosed a bug submitted by executor: https://hackerone.com/reports/1354452",
+          "link": "https://hackerone.com/reports/1354452",
+          "publishedOn": "2021-12-30T10:26:00.000Z",
+          "wordCount": 25,
+          "title": "API-   /"
+        },
+        {
+          "id": "https://hackerone.com/reports/1086781",
+          "author": null,
+          "description": "GitLab disclosed a bug submitted by s4nderdevelopment: https://hackerone.com/reports/1086781 - Bounty: $1370",
+          "link": "https://hackerone.com/reports/1086781",
+          "publishedOn": "2021-12-30T01:28:59.000Z",
+          "wordCount": 25,
+          "title": "Change project visibility to a restricted option"
+        },
+        {
           "id": "https://hackerone.com/reports/1431624",
           "author": null,
           "description": "Krisp disclosed a bug submitted by karthik86: https://hackerone.com/reports/1431624",
@@ -1048,6 +1084,60 @@
       "siteUrl": "https://infosecwriteups.com?source=rss----7b722bfd1b8d---4",
       "articles": [
         {
+          "id": "https://medium.com/p/da01b3380a35",
+          "author": "Mukilan Baskaran",
+          "description": "Writeup",
+          "link": "https://infosecwriteups.com/ffuf-tryhackme-par-da01b3380a35?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2021-12-30T18:57:50.000Z",
+          "wordCount": 615,
+          "title": "Ffuf TryHackMe par"
+        },
+        {
+          "id": "https://medium.com/p/619d325ab66",
+          "author": "Anurag__Verma",
+          "description": "Hey infosec Geeks ✌,",
+          "link": "https://infosecwriteups.com/easy-premium-account-access-and-admin-role-escalation-via-object-manipulation-in-the-server-619d325ab66?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2021-12-30T07:32:55.000Z",
+          "wordCount": 715,
+          "title": "Easy Premium Account Access and Admin role escalation via Object manipulation in the server…"
+        },
+        {
+          "id": "https://medium.com/p/3028f8ad6991",
+          "author": "Anurag__Verma",
+          "description": "Hello Awesome readers 👨‍💻✌✌,",
+          "link": "https://infosecwriteups.com/hacktoberfest2k21-vulnerability-how-users-metadata-can-be-changed-via-auth-jwt-tokens-leaking-from-3028f8ad6991?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2021-12-30T07:32:49.000Z",
+          "wordCount": 763,
+          "title": "HacktoberFest2k21 vulnerability: How users metadata can be changed via Auth JWT tokens leaking from…"
+        },
+        {
+          "id": "https://medium.com/p/ff6f4ac1c18b",
+          "author": "Anurag__Verma",
+          "description": "Hello 👋 infosec geeks 👨‍💻 this is my 4th blog post,",
+          "link": "https://infosecwriteups.com/cookie-stealing-via-clickjacking-using-burp-collaborator-ff6f4ac1c18b?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2021-12-30T07:27:57.000Z",
+          "wordCount": 603,
+          "title": "Cookie Stealing via Clickjacking using Burp collaborator"
+        },
+        {
+          "id": "https://medium.com/p/ea4e1b6407d2",
+          "author": "Anurag__Verma",
+          "description": "Hello hunters 👋✌ this is my 7th writeup 🧾,",
+          "link": "https://infosecwriteups.com/massive-users-account-takeovers-chaining-vulnerabilities-to-idor-ea4e1b6407d2?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2021-12-30T07:21:20.000Z",
+          "wordCount": 916,
+          "title": "Massive Users Account Takeovers(Chaining Vulnerabilities to IDOR)"
+        },
+        {
+          "id": "https://medium.com/p/293f2f66c004",
+          "author": "dh0ck",
+          "description": "CTF challenge available at ctf-mystiko.com.",
+          "link": "https://infosecwriteups.com/ctf-write-up-kryptonite-293f2f66c004?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2021-12-30T07:19:47.000Z",
+          "wordCount": 1561,
+          "title": "CTF Write-Up: Kryptonite"
+        },
+        {
           "id": "https://medium.com/p/579cb8d6c050",
           "author": "dh0ck",
           "description": "CTF challenge available at ctf-mystiko.com.",
@@ -1288,6 +1378,60 @@
       "feedUrl": "https://medium.com/feed/tag/bugbounty",
       "siteUrl": "https://medium.com/tag/bugbounty/latest?source=rss------bugbounty-5",
       "articles": [
+        {
+          "id": "https://medium.com/p/28459943b898",
+          "author": "Faizan Ahmad Wani",
+          "description": "Hello, My name is Faizan. I’m a security researcher. Hope you like this blog. If you’ve any questions please feel free to reach out .\nContinue reading on Medium »",
+          "link": "https://faizanwrites.medium.com/heres-how-i-could-read-anyone-s-iphone-metrics-remotely-28459943b898?source=rss------bugbounty-5",
+          "publishedOn": "2021-12-30T16:40:38.000Z",
+          "wordCount": 589,
+          "title": "Here’s How I Could Read Anyone’s Iphone Metrics Remotely."
+        },
+        {
+          "id": "https://medium.com/p/7d263842349e",
+          "author": "Fardeen Ahmed",
+          "description": "Hi there,\nContinue reading on Medium »",
+          "link": "https://fardeen-ahmed.medium.com/tryhackme-writeup-solar-exploiting-log4j-7d263842349e?source=rss------bugbounty-5",
+          "publishedOn": "2021-12-30T16:04:04.000Z",
+          "wordCount": 1840,
+          "title": "TryHackMe Writeup : Solar, exploiting Log4J"
+        },
+        {
+          "id": "https://medium.com/p/e91906ecddcc",
+          "author": "Melih Turhanlar",
+          "description": "Before reading this, you can look at Javascript 101 — Arithmetic Operators, Code Editors, Functions, Objects, and Arrays — 02.\nContinue reading on Medium »",
+          "link": "https://mturhanlar.medium.com/javascript-101-embedding-objects-arrays-03-e91906ecddcc?source=rss------bugbounty-5",
+          "publishedOn": "2021-12-30T14:21:28.000Z",
+          "wordCount": 979,
+          "title": "Javascript 101 - Embedding objects & Arrays — 03"
+        },
+        {
+          "id": "https://medium.com/p/df9a81c9858c",
+          "author": "Caduceus",
+          "description": "Caduceus has just entered its public testing phase and is launching this hackathon to identify bugs.\nContinue reading on Medium »",
+          "link": "https://caduceusmetaverseprotocol.medium.com/caduceus-bug-bounty-challenge-df9a81c9858c?source=rss------bugbounty-5",
+          "publishedOn": "2021-12-30T14:02:32.000Z",
+          "wordCount": 656,
+          "title": "Caduceus Bug Bounty Challenge"
+        },
+        {
+          "id": "https://medium.com/p/147a1e57dca9",
+          "author": "Immunefi",
+          "description": "Summary\nContinue reading on Immunefi »",
+          "link": "https://medium.com/immunefi/bitswift-unlimited-mint-bugfix-postmortem-147a1e57dca9?source=rss------bugbounty-5",
+          "publishedOn": "2021-12-30T12:36:17.000Z",
+          "wordCount": 1198,
+          "title": "Bitswift Unlimited Mint Bugfix Postmortem"
+        },
+        {
+          "id": "https://medium.com/p/9aefa7e3a9dd",
+          "author": "Saransh Saraf",
+          "description": "Hola Hackers, I’m Saransh Saraf aka MR23R0\nContinue reading on Medium »",
+          "link": "https://medium.com/@sarafsaransh321/the-password-bypass-leads-to-full-account-takeover-9aefa7e3a9dd?source=rss------bugbounty-5",
+          "publishedOn": "2021-12-30T12:14:40.000Z",
+          "wordCount": 343,
+          "title": "The Password Bypass Leads to Full-Account-Takeover"
+        },
         {
           "id": "https://medium.com/p/a12563cc8d79",
           "author": "Sam",
@@ -1791,6 +1935,15 @@
       "siteUrl": "https://medium.com/tag/redteam/latest?source=rss------redteam-5",
       "articles": [
         {
+          "id": "https://medium.com/p/5fc489beea1d",
+          "author": "Kapish Kuchroo",
+          "description": "Checkout this virtual machine on TryHackMe. LogIn on TryHackMe, go to rooms → raven1he. Link: https://tryhackme.com/room/raven1he\nContinue reading on Medium »",
+          "link": "https://kapishkuchroo.medium.com/tryhackme-ctf-walkthrough-raven-5fc489beea1d?source=rss------redteam-5",
+          "publishedOn": "2021-12-30T13:42:13.000Z",
+          "wordCount": 773,
+          "title": "TryHackMe | CTF | Walkthrough | Raven"
+        },
+        {
           "id": "https://medium.com/p/b028f6be7097",
           "author": "Rabbit",
           "description": "To gain initial access during a Red Team Engagement, Phishing might be a valid option.\nContinue reading on Medium »",
@@ -1914,6 +2067,60 @@
       "feedUrl": "https://medium.com/feed/bugbountywriteup",
       "siteUrl": "https://infosecwriteups.com?source=rss----7b722bfd1b8d---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/da01b3380a35",
+          "author": "Mukilan Baskaran",
+          "description": "Writeup",
+          "link": "https://infosecwriteups.com/ffuf-tryhackme-par-da01b3380a35?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2021-12-30T18:57:50.000Z",
+          "wordCount": 608,
+          "title": "Ffuf TryHackMe par"
+        },
+        {
+          "id": "https://medium.com/p/619d325ab66",
+          "author": "Anurag__Verma",
+          "description": "Hey infosec Geeks ✌,",
+          "link": "https://infosecwriteups.com/easy-premium-account-access-and-admin-role-escalation-via-object-manipulation-in-the-server-619d325ab66?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2021-12-30T07:32:55.000Z",
+          "wordCount": 715,
+          "title": "Easy Premium Account Access and Admin role escalation via Object manipulation in the server…"
+        },
+        {
+          "id": "https://medium.com/p/3028f8ad6991",
+          "author": "Anurag__Verma",
+          "description": "Hello Awesome readers 👨‍💻✌✌,",
+          "link": "https://infosecwriteups.com/hacktoberfest2k21-vulnerability-how-users-metadata-can-be-changed-via-auth-jwt-tokens-leaking-from-3028f8ad6991?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2021-12-30T07:32:49.000Z",
+          "wordCount": 763,
+          "title": "HacktoberFest2k21 vulnerability: How users metadata can be changed via Auth JWT tokens leaking from…"
+        },
+        {
+          "id": "https://medium.com/p/ff6f4ac1c18b",
+          "author": "Anurag__Verma",
+          "description": "Hello 👋 infosec geeks 👨‍💻 this is my 4th blog post,",
+          "link": "https://infosecwriteups.com/cookie-stealing-via-clickjacking-using-burp-collaborator-ff6f4ac1c18b?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2021-12-30T07:27:57.000Z",
+          "wordCount": 603,
+          "title": "Cookie Stealing via Clickjacking using Burp collaborator"
+        },
+        {
+          "id": "https://medium.com/p/ea4e1b6407d2",
+          "author": "Anurag__Verma",
+          "description": "Hello hunters 👋✌ this is my 7th writeup 🧾,",
+          "link": "https://infosecwriteups.com/massive-users-account-takeovers-chaining-vulnerabilities-to-idor-ea4e1b6407d2?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2021-12-30T07:21:20.000Z",
+          "wordCount": 916,
+          "title": "Massive Users Account Takeovers(Chaining Vulnerabilities to IDOR)"
+        },
+        {
+          "id": "https://medium.com/p/293f2f66c004",
+          "author": "dh0ck",
+          "description": "CTF challenge available at ctf-mystiko.com.",
+          "link": "https://infosecwriteups.com/ctf-write-up-kryptonite-293f2f66c004?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2021-12-30T07:19:47.000Z",
+          "wordCount": 1561,
+          "title": "CTF Write-Up: Kryptonite"
+        },
         {
           "id": "https://medium.com/p/579cb8d6c050",
           "author": "dh0ck",
@@ -2155,6 +2362,24 @@
       "feedUrl": "https://medium.com/feed/tag/osint",
       "siteUrl": "https://medium.com/tag/osint/latest?source=rss------osint-5",
       "articles": [
+        {
+          "id": "https://medium.com/p/5c734f4b39c",
+          "author": "Aaron Perkins",
+          "description": "What is Maltego anyway?\nContinue reading on Medium »",
+          "link": "https://aaronwperkins.medium.com/upgrade-your-osint-investigations-with-maltego-5c734f4b39c?source=rss------osint-5",
+          "publishedOn": "2021-12-30T13:18:21.000Z",
+          "wordCount": 383,
+          "title": "Upgrade your OSINT investigations with Maltego"
+        },
+        {
+          "id": "https://medium.com/p/22c6f87c955c",
+          "author": "w01f",
+          "description": "The OSINT Dojo recently found themselves the victim of a cyber attack. It seems that there is no major damage, and there does not appear…\nContinue reading on Medium »",
+          "link": "https://medium.com/@0xw01f/osint-sakura-tryhackme-walktrough-22c6f87c955c?source=rss------osint-5",
+          "publishedOn": "2021-12-30T06:45:24.000Z",
+          "wordCount": 692,
+          "title": "OSINT — Sakura (TryHackMe walktrough)"
+        },
         {
           "id": "https://medium.com/p/c95ccc1c56ce",
           "author": "CyberRaya",
@@ -3456,6 +3681,78 @@
       "siteUrl": "https://www.freebuf.com",
       "articles": [
         {
+          "id": "https://www.freebuf.com/news/317994.html",
+          "author": null,
+          "description": "2022年2月21日起，小程序访问蓝牙、通讯录，以及添加日历事件，必须经过用户授权。",
+          "link": "https://www.freebuf.com/news/317994.html",
+          "publishedOn": "2021-12-30T12:13:40.000Z",
+          "wordCount": 281,
+          "title": "FreeBuf早报 | 微信小程序调用个人信息需授权；亚马逊 Alexa 语音助手越界"
+        },
+        {
+          "id": "https://www.freebuf.com/news/317980.html",
+          "author": null,
+          "description": "美国电信运营商T-Mobile发生了一起数据泄露事件，有不明数量的客户遭受了SIM交换攻击。",
+          "link": "https://www.freebuf.com/news/317980.html",
+          "publishedOn": "2021-12-30T10:19:41.000Z",
+          "wordCount": 147,
+          "title": "T-Mobile称:用户数据泄露由SIM卡交换攻击引起"
+        },
+        {
+          "id": "https://www.freebuf.com/articles/es/317975.html",
+          "author": null,
+          "description": "探索一款既能够满足企业内部自动化审计需求、又能够辅助白帽子日常快速挖掘漏洞的工具。",
+          "link": "https://www.freebuf.com/articles/es/317975.html",
+          "publishedOn": "2021-12-30T10:01:18.000Z",
+          "wordCount": 1058,
+          "title": "DevSecOps建设之白盒续篇"
+        },
+        {
+          "id": "https://www.freebuf.com/articles/network/317908.html",
+          "author": null,
+          "description": "蜜罐历来被用作诱饵设备，帮助研究人员更好地了解网络上威胁的动态及其影响。",
+          "link": "https://www.freebuf.com/articles/network/317908.html",
+          "publishedOn": "2021-12-30T08:10:16.000Z",
+          "wordCount": 166,
+          "title": "IoT蜜罐展示物联网设备存在的网络威胁"
+        },
+        {
+          "id": "https://www.freebuf.com/news/317900.html",
+          "author": null,
+          "description": "中间人网络钓鱼工具包是不需要人工操作的实时网络钓鱼工具包，因为一切都是通过反向代理自动完成。",
+          "link": "https://www.freebuf.com/news/317900.html",
+          "publishedOn": "2021-12-30T07:49:01.000Z",
+          "wordCount": 219,
+          "title": "超1200个网站使用MitM钓鱼工具包，允许网络犯罪分子绕过 2FA 身份验证"
+        },
+        {
+          "id": "https://www.freebuf.com/news/317879.html",
+          "author": null,
+          "description": "这些漏洞可能允许远程攻击者绕过身份验证要求、篡改金属探测器配置，甚至在设备上执行任意代码。",
+          "link": "https://www.freebuf.com/news/317879.html",
+          "publishedOn": "2021-12-30T06:20:36.000Z",
+          "wordCount": 160,
+          "title": "地铁安防门被曝存在多个严重的安全漏洞"
+        },
+        {
+          "id": "https://www.freebuf.com/articles/es/317866.html",
+          "author": null,
+          "description": "大型甲方企业如何做资产盘点",
+          "link": "https://www.freebuf.com/articles/es/317866.html",
+          "publishedOn": "2021-12-30T03:27:41.000Z",
+          "wordCount": 149,
+          "title": "大型车企隐秘接口连续被泄露 我们该如何盘点公司资产"
+        },
+        {
+          "id": "https://www.freebuf.com/articles/paper/317855.html",
+          "author": null,
+          "description": "从被动转主动，企业安全运营体系已牢牢抓住主动权。",
+          "link": "https://www.freebuf.com/articles/paper/317855.html",
+          "publishedOn": "2021-12-30T02:49:21.000Z",
+          "wordCount": 167,
+          "title": "《2021企业安全运营实践报告》发布：从被动防御到主动出击"
+        },
+        {
           "id": "https://www.freebuf.com/news/317836.html",
           "author": null,
           "description": "全球动态1. Log4j 2.17.1 现已发布，修复了新的远程代码执行错误Apache 发布了 Log4j 版本 2.17.1，修复了 2.17.0 中新发现的远程代码执行 (RCE) 漏洞，编号为 CVE-2021-44832。[外刊-阅读原文]2. 好购App未经许可读取用户手机剪贴板内容，法院认定侵害隐私权手机用户小林（化名）在使用好购App时发现，该App未经同意，擅自监测、收集其手机剪",
@@ -3472,6 +3769,15 @@
           "publishedOn": "2021-12-29T10:21:07.000Z",
           "wordCount": 146,
           "title": "《信息安全技术 信息系统密码应用设计技术要求》（征求意见稿）发布"
+        },
+        {
+          "id": "https://www.freebuf.com/news/317819.html",
+          "author": null,
+          "description": "2026年，数据丢失防护市场规模将达到62.65亿美元。",
+          "link": "https://www.freebuf.com/news/317819.html",
+          "publishedOn": "2021-12-29T10:09:06.000Z",
+          "wordCount": 174,
+          "title": "2026年，数据丢失防护市场规模将达到 62.65 亿美元"
         },
         {
           "id": "https://www.freebuf.com/news/317818.html",
@@ -4415,6 +4721,15 @@
       "siteUrl": "http://www.sec-wiki.com/",
       "articles": [
         {
+          "id": "http://www.sec-wiki.com/?2021-12-30",
+          "author": null,
+          "description": "ZN600电信光猫分析 —— 初识  by ourren\n写给研发同学的富文本安全过滤方案  by ourren\nTenda AX12路由器设备分析（二）之UPnP协议  by ourren\n一款通过污点追踪发现Jsp webshell的工具  by ourren\n快速探测目标防火墙出网端口的工具化实现  by ourren\n聊聊配置文件 RCE 这件事  by ourren\n扫描器性能分析案例  by ourren\n内核态eBPF程序实现容器逃逸与隐藏账号rootkit  by ourren\n软件供应链安全发展洞察报告（2021年）  by ourren\n更多最新文章，请访问SecWiki",
+          "link": "http://www.sec-wiki.com/?2021-12-30",
+          "publishedOn": "2021-12-30T15:58:20.000Z",
+          "wordCount": 587,
+          "title": "SecWiki News 2021-12-30 Review"
+        },
+        {
           "id": "http://www.sec-wiki.com/?2021-12-29",
           "author": null,
           "description": "业务安全发展洞察报告 2021  by ourren\n消费级物联网安全基线  by ourren\n更多最新文章，请访问SecWiki",
@@ -4574,6 +4889,51 @@
       "feedUrl": "https://www.reddit.com/r/asknetsec/.rss",
       "siteUrl": "https://www.reddit.com/r/asknetsec/",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/rsdh2g/not_only_cybersecurity/",
+          "author": null,
+          "description": "Hi, I really love cybersecurity stuff, but as I practice with TryHackMe/HackTheBox labs, I feel that some programming knowledge is also required. What are your studying topics, besides offensive/defensive techniques?\n Can you recommend some good resources for PHP, assembler, javascript and so on?\n Thankyou!!\n    submitted by    /u/g-simon  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/rsdh2g/not_only_cybersecurity/",
+          "publishedOn": "2021-12-30T22:01:04.000Z",
+          "wordCount": 236,
+          "title": "Not only cybersecurity"
+        },
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/rsa4a7/dnssec_with_unsigned_records_set/",
+          "author": null,
+          "description": "Hello everyone,\n I'm currently implementing a DNSSEC validator (at https://github.com/qdm12/dns). It's working so far, but most zones aren't signed (even google.com it seems). How is a DNSSEC validator meant to handle unsigned cases?\n Should it just let it through without any validation? Or should it check somewhere else if a zone is meant to be signed? Or should we patiently wait for DNSSEC to be more widely adopted?\n I'm wondering for example in the case an attacker hacks an authoritative nameserver like Cloudflare's 1.1.1.1 and returns bad records without their previously existing RRSIG signatures. A DNSSEC validator (without caching or on a cold boot) will not detect the bad records from Cloudflare right?\n Thanks in advance!\n    submitted by    /u/dowitex  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/rsa4a7/dnssec_with_unsigned_records_set/",
+          "publishedOn": "2021-12-30T19:36:07.000Z",
+          "wordCount": 218,
+          "title": "DNSSEC with unsigned records set"
+        },
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/rs5yks/are_server_cloud_and_linux_certifications_useful/",
+          "author": null,
+          "description": "submitted by    /u/Connect_Estate_8617  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/rs5yks/are_server_cloud_and_linux_certifications_useful/",
+          "publishedOn": "2021-12-30T16:39:23.000Z",
+          "wordCount": 251,
+          "title": "Are Server+, Cloud+, and Linux+ certifications useful for InfoSec?"
+        },
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/rs5406/i_accessed_someone_elses_yahoo_mail_by_mistake/",
+          "author": null,
+          "description": "hello everyone\n I got a new phone number, and something really unbelievable happened to me: I was able to access someone else's Yahoo! mail account - the previous user of that phone number.\n I Googled it to see if anyone else has experienced this, and cybersecurity expert Brian Krebs reports that has in this article: https://krebsonsecurity.com/2019/03/why-phone-numbers-stink-as-identity-proof/\n From the article itself :\n \"\n This is exactly what happened recently to a reader who shared this account:\n  \nA while ago I bought a new phone number. I went on Yahoo! mail and typed in the phone number in the login. It asked me if I wanted to receive an SMS to gain access. I said yes, and it sent me a verification key or access code via SMS. I typed the code I received. I was surprised that I didn’…",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/rs5406/i_accessed_someone_elses_yahoo_mail_by_mistake/",
+          "publishedOn": "2021-12-30T16:02:08.000Z",
+          "wordCount": 1189,
+          "title": "I accessed someone else's Yahoo mail by mistake. This needs to get fixed ASAP"
+        },
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/rrojlq/is_it_experience_a_requirement_for_soc_analyst/",
+          "author": null,
+          "description": "Is it required that you worked in the help desk or be a sysadmin? If so, how many years? Or is home experience enough for the roll(example: homelab, ctfs, github projects)\n    submitted by    /u/RaZdoT  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/rrojlq/is_it_experience_a_requirement_for_soc_analyst/",
+          "publishedOn": "2021-12-30T01:19:37.000Z",
+          "wordCount": 528,
+          "title": "Is IT experience a requirement for SOC Analyst?"
+        },
         {
           "id": "https://www.reddit.com/r/AskNetsec/comments/rrnt37/phone_tapping_call_forwarding_unconditionally_but/",
           "author": null,
@@ -5712,6 +6072,15 @@
       "siteUrl": "https://www.reddit.com/r/computerforensics/",
       "articles": [
         {
+          "id": "https://www.reddit.com/r/computerforensics/comments/rs54nc/cellebrite_physical_analyzer_basic_usage_question/",
+          "author": null,
+          "description": "Just started working with this program. I understand how to open and browse extractions, but I can't figure out if there's a better way to pick up where I left off after closing the program, I end up having to open/import all the extractions one by one again.\n For most programs that I'm familiar with, a \"case\" contains one or more extractions that I imported and \"opening a case\" tends to be a convenient way to bring up all the extractions in one \"click\". However, based on how little experience I have with PA, \"opening a case\" seems to just be a prompt to import extractions all over again. I thought about using \"project sessions\", but it seems to be something that you open after all the extractions are open that remembers what analysis you've done, not necessarily what devices you were working on.\n Can anyone speak to this? Am I oblivious to a basic function that lets me easily open all the extractions I had open? Maybe I'm supposed to create a portable case (UFDX?) or something?\n    submitted by    /u/PieWithIceCreamCrust  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/computerforensics/comments/rs54nc/cellebrite_physical_analyzer_basic_usage_question/",
+          "publishedOn": "2021-12-30T16:02:53.000Z",
+          "wordCount": 742,
+          "title": "[Cellebrite Physical Analyzer] Basic usage question, easily resuming a session/case with multiple extractions"
+        },
+        {
           "id": "https://www.reddit.com/r/computerforensics/comments/rrdzfz/help_with_installing_autopsy/",
           "author": null,
           "description": "submitted by    /u/UserNo007  \n [link]   [comments]",
@@ -6060,6 +6429,24 @@
       "feedUrl": "https://www.reddit.com/r/netsec/.rss",
       "siteUrl": "https://www.reddit.com/r/netsec/",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/netsec/comments/rs3n0w/i_wrote_a_replacement_for_pyrasite_to_inject_code/",
+          "author": null,
+          "description": "submitted by    /u/nyellin  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/netsec/comments/rs3n0w/i_wrote_a_replacement_for_pyrasite_to_inject_code/",
+          "publishedOn": "2021-12-30T14:56:35.000Z",
+          "wordCount": 244,
+          "title": "I wrote a replacement for Pyrasite to inject code into Python processes on Kubernetes"
+        },
+        {
+          "id": "https://www.reddit.com/r/netsec/comments/rrxmr1/bootkit_samples/",
+          "author": null,
+          "description": "submitted by    /u/hardenedvault  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/netsec/comments/rrxmr1/bootkit_samples/",
+          "publishedOn": "2021-12-30T09:23:57.000Z",
+          "wordCount": 120,
+          "title": "Bootkit samples"
+        },
         {
           "id": "https://www.reddit.com/r/netsec/comments/rri4z6/printnightmare_and_ssh_tunnels/",
           "author": null,
@@ -6517,6 +6904,114 @@
       "feedUrl": "https://www.reddit.com/r/opendirectories/.rss",
       "siteUrl": "https://www.reddit.com/r/opendirectories/",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/opendirectories/comments/rsfzs4/movies_and_tv_but_not_sure_how_much_in_english/",
+          "author": null,
+          "description": "submitted by    /u/International_Milk_1  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/opendirectories/comments/rsfzs4/movies_and_tv_but_not_sure_how_much_in_english/",
+          "publishedOn": "2021-12-30T23:55:38.000Z",
+          "wordCount": 134,
+          "title": "Movies and tv, but not sure how much in english. Seems to be vey slow."
+        },
+        {
+          "id": "https://www.reddit.com/r/opendirectories/comments/rsf72i/racer_x_stuff/",
+          "author": null,
+          "description": "submitted by    /u/International_Milk_1  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/opendirectories/comments/rsf72i/racer_x_stuff/",
+          "publishedOn": "2021-12-30T23:18:12.000Z",
+          "wordCount": 96,
+          "title": "Racer X stuff"
+        },
+        {
+          "id": "https://www.reddit.com/r/opendirectories/comments/rsebo2/creating_your_own_flair/",
+          "author": null,
+          "description": "So you want to share a link to top secret documents. You want to call the Flair \"Could get you killed\"\n Just pick any of the default flairs, enter it in document, highlight it, and write \"could get you killed\" instead.\n    submitted by    /u/International_Milk_1  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/opendirectories/comments/rsebo2/creating_your_own_flair/",
+          "publishedOn": "2021-12-30T22:38:53.000Z",
+          "wordCount": 138,
+          "title": "Creating your own flair"
+        },
+        {
+          "id": "https://www.reddit.com/r/opendirectories/comments/rse7qa/comics_and_ebooks/",
+          "author": null,
+          "description": "submitted by    /u/International_Milk_1  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/opendirectories/comments/rse7qa/comics_and_ebooks/",
+          "publishedOn": "2021-12-30T22:34:05.000Z",
+          "wordCount": 116,
+          "title": "comics, and Ebooks"
+        },
+        {
+          "id": "https://www.reddit.com/r/opendirectories/comments/rs3qlg/kamen_rider_build_bd_box_complete_series/",
+          "author": null,
+          "description": "submitted by    /u/International_Milk_1  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/opendirectories/comments/rs3qlg/kamen_rider_build_bd_box_complete_series/",
+          "publishedOn": "2021-12-30T15:00:58.000Z",
+          "wordCount": 132,
+          "title": "]Kamen Rider Build BD Box Complete Series [1080p]-english subs"
+        },
+        {
+          "id": "https://www.reddit.com/r/opendirectories/comments/rs3d3a/star_tek_films_movies_comics_etc_etc/",
+          "author": null,
+          "description": "submitted by    /u/International_Milk_1  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/opendirectories/comments/rs3d3a/star_tek_films_movies_comics_etc_etc/",
+          "publishedOn": "2021-12-30T14:43:13.000Z",
+          "wordCount": 151,
+          "title": "Star tek films, movies. comics. etc etc"
+        },
+        {
+          "id": "https://www.reddit.com/r/opendirectories/comments/rs31w8/ghiblis_films_google_drive/",
+          "author": null,
+          "description": "submitted by    /u/International_Milk_1  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/opendirectories/comments/rs31w8/ghiblis_films_google_drive/",
+          "publishedOn": "2021-12-30T14:28:37.000Z",
+          "wordCount": 123,
+          "title": "Ghibli's Films - Google Drive"
+        },
+        {
+          "id": "https://www.reddit.com/r/opendirectories/comments/rs1i98/bond_movies_note_sure_if_this_is_correct_linksee/",
+          "author": null,
+          "description": "submitted by    /u/International_Milk_1  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/opendirectories/comments/rs1i98/bond_movies_note_sure_if_this_is_correct_linksee/",
+          "publishedOn": "2021-12-30T13:13:00.000Z",
+          "wordCount": 181,
+          "title": "Bond movies (Note sure, if this is correct link)-see comment"
+        },
+        {
+          "id": "https://www.reddit.com/r/opendirectories/comments/rs0cjk/games_dont_know_if_links_work/",
+          "author": null,
+          "description": "submitted by    /u/International_Milk_1  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/opendirectories/comments/rs0cjk/games_dont_know_if_links_work/",
+          "publishedOn": "2021-12-30T12:08:55.000Z",
+          "wordCount": 161,
+          "title": "Games (don't know if link's work)"
+        },
+        {
+          "id": "https://www.reddit.com/r/opendirectories/comments/rs08n3/tom_and_jerry_cartoons/",
+          "author": null,
+          "description": "submitted by    /u/International_Milk_1  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/opendirectories/comments/rs08n3/tom_and_jerry_cartoons/",
+          "publishedOn": "2021-12-30T12:02:27.000Z",
+          "wordCount": 217,
+          "title": "Tom and Jerry cartoons"
+        },
+        {
+          "id": "https://www.reddit.com/r/opendirectories/comments/rs04hd/comics/",
+          "author": null,
+          "description": "submitted by    /u/International_Milk_1  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/opendirectories/comments/rs04hd/comics/",
+          "publishedOn": "2021-12-30T11:56:12.000Z",
+          "wordCount": 108,
+          "title": "comics"
+        },
+        {
+          "id": "https://www.reddit.com/r/opendirectories/comments/rrpa2m/movies/",
+          "author": null,
+          "description": "http://167.114.174.132:9092/movies/\n Haven't looked too far thru this yet but good amount of movies.\n    submitted by    /u/Prhymus  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/opendirectories/comments/rrpa2m/movies/",
+          "publishedOn": "2021-12-30T01:54:14.000Z",
+          "wordCount": 143,
+          "title": "Movies"
+        },
         {
           "id": "https://www.reddit.com/r/opendirectories/comments/rrnq68/indian_im_assuming_music/",
           "author": null,
@@ -7555,6 +8050,15 @@
       "feedUrl": "https://www.hackingarticles.in/feed/",
       "siteUrl": "https://www.hackingarticles.in",
       "articles": [
+        {
+          "id": "https://www.hackingarticles.in/?p=27459",
+          "author": "Raj Chandel",
+          "description": "As this series was dedicated to Windows Privilege escalation thus I’m writing this Post to explain command practice for kernel-mode exploitation. Table of Content What\nThe post Windows Privilege Escalation: Kernel Exploit appeared first on Hacking Articles.",
+          "link": "https://www.hackingarticles.in/windows-privilege-escalation-kernel-exploit/",
+          "publishedOn": "2021-12-30T17:41:33.000Z",
+          "wordCount": 1596,
+          "title": "Windows Privilege Escalation: Kernel Exploit"
+        },
         {
           "id": "https://www.hackingarticles.in/?p=27450",
           "author": "Raj Chandel",

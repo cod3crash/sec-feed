@@ -2,10 +2,621 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cod3crash.github.io/sec-feed/index.html</id>
     <title>security feed</title>
-    <updated>2021-12-30T01:07:31.072Z</updated>
+    <updated>2021-12-31T01:09:33.792Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://cod3crash.github.io/sec-feed/index.html"/>
     <link rel="self" href="https://cod3crash.github.io/sec-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Movies and tv, but not sure how much in english. Seems to be vey slow.]]></title>
+        <id>https://www.reddit.com/r/opendirectories/comments/rsfzs4/movies_and_tv_but_not_sure_how_much_in_english/</id>
+        <link href="https://www.reddit.com/r/opendirectories/comments/rsfzs4/movies_and_tv_but_not_sure_how_much_in_english/"/>
+        <updated>2021-12-30T23:55:38.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/International_Milk_1  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Open Directories</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Racer X stuff]]></title>
+        <id>https://www.reddit.com/r/opendirectories/comments/rsf72i/racer_x_stuff/</id>
+        <link href="https://www.reddit.com/r/opendirectories/comments/rsf72i/racer_x_stuff/"/>
+        <updated>2021-12-30T23:18:12.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/International_Milk_1  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Open Directories</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Creating your own flair]]></title>
+        <id>https://www.reddit.com/r/opendirectories/comments/rsebo2/creating_your_own_flair/</id>
+        <link href="https://www.reddit.com/r/opendirectories/comments/rsebo2/creating_your_own_flair/"/>
+        <updated>2021-12-30T22:38:53.000Z</updated>
+        <summary type="html"><![CDATA[So you want to share a link to top secret documents. You want to call the Flair "Could get you killed"
+ Just pick any of the default flairs, enter it in document, highlight it, and write "could get you killed" instead.
+    submitted by    /u/International_Milk_1  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Open Directories</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[comics, and Ebooks]]></title>
+        <id>https://www.reddit.com/r/opendirectories/comments/rse7qa/comics_and_ebooks/</id>
+        <link href="https://www.reddit.com/r/opendirectories/comments/rse7qa/comics_and_ebooks/"/>
+        <updated>2021-12-30T22:34:05.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/International_Milk_1  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Open Directories</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Not only cybersecurity]]></title>
+        <id>https://www.reddit.com/r/AskNetsec/comments/rsdh2g/not_only_cybersecurity/</id>
+        <link href="https://www.reddit.com/r/AskNetsec/comments/rsdh2g/not_only_cybersecurity/"/>
+        <updated>2021-12-30T22:01:04.000Z</updated>
+        <summary type="html"><![CDATA[Hi, I really love cybersecurity stuff, but as I practice with TryHackMe/HackTheBox labs, I feel that some programming knowledge is also required. What are your studying topics, besides offensive/defensive techniques?
+ Can you recommend some good resources for PHP, assembler, javascript and so on?
+ Thankyou!!
+    submitted by    /u/g-simon  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>AskNetsec</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DNSSEC with unsigned records set]]></title>
+        <id>https://www.reddit.com/r/AskNetsec/comments/rsa4a7/dnssec_with_unsigned_records_set/</id>
+        <link href="https://www.reddit.com/r/AskNetsec/comments/rsa4a7/dnssec_with_unsigned_records_set/"/>
+        <updated>2021-12-30T19:36:07.000Z</updated>
+        <summary type="html"><![CDATA[Hello everyone,
+ I'm currently implementing a DNSSEC validator (at https://github.com/qdm12/dns). It's working so far, but most zones aren't signed (even google.com it seems). How is a DNSSEC validator meant to handle unsigned cases?
+ Should it just let it through without any validation? Or should it check somewhere else if a zone is meant to be signed? Or should we patiently wait for DNSSEC to be more widely adopted?
+ I'm wondering for example in the case an attacker hacks an authoritative nameserver like Cloudflare's 1.1.1.1 and returns bad records without their previously existing RRSIG signatures. A DNSSEC validator (without caching or on a cold boot) will not detect the bad records from Cloudflare right?
+ Thanks in advance!
+    submitted by    /u/dowitex  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>AskNetsec</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ffuf TryHackMe par]]></title>
+        <id>https://medium.com/p/da01b3380a35</id>
+        <link href="https://infosecwriteups.com/ffuf-tryhackme-par-da01b3380a35?source=rss----7b722bfd1b8d---4"/>
+        <updated>2021-12-30T18:57:50.000Z</updated>
+        <summary type="html"><![CDATA[Writeup]]></summary>
+        <author>
+            <name>Mukilan Baskaran</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ffuf TryHackMe par]]></title>
+        <id>https://medium.com/p/da01b3380a35</id>
+        <link href="https://infosecwriteups.com/ffuf-tryhackme-par-da01b3380a35?source=rss----7b722bfd1b8d---4"/>
+        <updated>2021-12-30T18:57:50.000Z</updated>
+        <summary type="html"><![CDATA[Writeup]]></summary>
+        <author>
+            <name>Mukilan Baskaran</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Read-only user can edit user segments.]]></title>
+        <id>https://hackerone.com/reports/1277753</id>
+        <link href="https://hackerone.com/reports/1277753"/>
+        <updated>2021-12-30T18:28:24.000Z</updated>
+        <summary type="html"><![CDATA[Mail.ru disclosed a bug submitted by astates: https://hackerone.com/reports/1277753]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows Privilege Escalation: Kernel Exploit]]></title>
+        <id>https://www.hackingarticles.in/?p=27459</id>
+        <link href="https://www.hackingarticles.in/windows-privilege-escalation-kernel-exploit/"/>
+        <updated>2021-12-30T17:41:33.000Z</updated>
+        <summary type="html"><![CDATA[As this series was dedicated to Windows Privilege escalation thus I’m writing this Post to explain command practice for kernel-mode exploitation. Table of Content What
+The post Windows Privilege Escalation: Kernel Exploit appeared first on Hacking Articles.]]></summary>
+        <author>
+            <name>Raj Chandel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DLL hijacking in Monero GUI for Windows 0.17.3.0 would allow an attacker to perform remote command execution]]></title>
+        <id>https://hackerone.com/reports/1437942</id>
+        <link href="https://hackerone.com/reports/1437942"/>
+        <updated>2021-12-30T17:08:50.000Z</updated>
+        <summary type="html"><![CDATA[Monero disclosed a bug submitted by fukuyama: https://hackerone.com/reports/1437942]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Here’s How I Could Read Anyone’s Iphone Metrics Remotely.]]></title>
+        <id>https://medium.com/p/28459943b898</id>
+        <link href="https://faizanwrites.medium.com/heres-how-i-could-read-anyone-s-iphone-metrics-remotely-28459943b898?source=rss------bugbounty-5"/>
+        <updated>2021-12-30T16:40:38.000Z</updated>
+        <summary type="html"><![CDATA[Hello, My name is Faizan. I’m a security researcher. Hope you like this blog. If you’ve any questions please feel free to reach out .
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Faizan Ahmad Wani</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Are Server+, Cloud+, and Linux+ certifications useful for InfoSec?]]></title>
+        <id>https://www.reddit.com/r/AskNetsec/comments/rs5yks/are_server_cloud_and_linux_certifications_useful/</id>
+        <link href="https://www.reddit.com/r/AskNetsec/comments/rs5yks/are_server_cloud_and_linux_certifications_useful/"/>
+        <updated>2021-12-30T16:39:23.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/Connect_Estate_8617  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>AskNetsec</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TryHackMe Writeup : Solar, exploiting Log4J]]></title>
+        <id>https://medium.com/p/7d263842349e</id>
+        <link href="https://fardeen-ahmed.medium.com/tryhackme-writeup-solar-exploiting-log4j-7d263842349e?source=rss------bugbounty-5"/>
+        <updated>2021-12-30T16:04:04.000Z</updated>
+        <summary type="html"><![CDATA[Hi there,
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Fardeen Ahmed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Cellebrite Physical Analyzer] Basic usage question, easily resuming a session/case with multiple extractions]]></title>
+        <id>https://www.reddit.com/r/computerforensics/comments/rs54nc/cellebrite_physical_analyzer_basic_usage_question/</id>
+        <link href="https://www.reddit.com/r/computerforensics/comments/rs54nc/cellebrite_physical_analyzer_basic_usage_question/"/>
+        <updated>2021-12-30T16:02:53.000Z</updated>
+        <summary type="html"><![CDATA[Just started working with this program. I understand how to open and browse extractions, but I can't figure out if there's a better way to pick up where I left off after closing the program, I end up having to open/import all the extractions one by one again.
+ For most programs that I'm familiar with, a "case" contains one or more extractions that I imported and "opening a case" tends to be a convenient way to bring up all the extractions in one "click". However, based on how little experience I have with PA, "opening a case" seems to just be a prompt to import extractions all over again. I thought about using "project sessions", but it seems to be something that you open after all the extractions are open that remembers what analysis you've done, not necessarily what devices you were working on.
+ Can anyone speak to this? Am I oblivious to a basic function that lets me easily open all the extractions I had open? Maybe I'm supposed to create a portable case (UFDX?) or something?
+    submitted by    /u/PieWithIceCreamCrust  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Computer Forensics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I accessed someone else's Yahoo mail by mistake. This needs to get fixed ASAP]]></title>
+        <id>https://www.reddit.com/r/AskNetsec/comments/rs5406/i_accessed_someone_elses_yahoo_mail_by_mistake/</id>
+        <link href="https://www.reddit.com/r/AskNetsec/comments/rs5406/i_accessed_someone_elses_yahoo_mail_by_mistake/"/>
+        <updated>2021-12-30T16:02:08.000Z</updated>
+        <summary type="html"><![CDATA[hello everyone
+ I got a new phone number, and something really unbelievable happened to me: I was able to access someone else's Yahoo! mail account - the previous user of that phone number.
+ I Googled it to see if anyone else has experienced this, and cybersecurity expert Brian Krebs reports that has in this article: https://krebsonsecurity.com/2019/03/why-phone-numbers-stink-as-identity-proof/
+ From the article itself :
+ "
+ This is exactly what happened recently to a reader who shared this account:
+  
+A while ago I bought a new phone number. I went on Yahoo! mail and typed in the phone number in the login. It asked me if I wanted to receive an SMS to gain access. I said yes, and it sent me a verification key or access code via SMS. I typed the code I received. I was surprised that I didn’…]]></summary>
+        <author>
+            <name>AskNetsec</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SecWiki News 2021-12-30 Review]]></title>
+        <id>http://www.sec-wiki.com/?2021-12-30</id>
+        <link href="http://www.sec-wiki.com/?2021-12-30"/>
+        <updated>2021-12-30T15:58:20.000Z</updated>
+        <summary type="html"><![CDATA[ZN600电信光猫分析 —— 初识  by ourren
+写给研发同学的富文本安全过滤方案  by ourren
+Tenda AX12路由器设备分析（二）之UPnP协议  by ourren
+一款通过污点追踪发现Jsp webshell的工具  by ourren
+快速探测目标防火墙出网端口的工具化实现  by ourren
+聊聊配置文件 RCE 这件事  by ourren
+扫描器性能分析案例  by ourren
+内核态eBPF程序实现容器逃逸与隐藏账号rootkit  by ourren
+软件供应链安全发展洞察报告（2021年）  by ourren
+更多最新文章，请访问SecWiki]]></summary>
+        <author>
+            <name>SecWiki News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[]Kamen Rider Build BD Box Complete Series [1080p]-english subs]]></title>
+        <id>https://www.reddit.com/r/opendirectories/comments/rs3qlg/kamen_rider_build_bd_box_complete_series/</id>
+        <link href="https://www.reddit.com/r/opendirectories/comments/rs3qlg/kamen_rider_build_bd_box_complete_series/"/>
+        <updated>2021-12-30T15:00:58.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/International_Milk_1  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Open Directories</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I wrote a replacement for Pyrasite to inject code into Python processes on Kubernetes]]></title>
+        <id>https://www.reddit.com/r/netsec/comments/rs3n0w/i_wrote_a_replacement_for_pyrasite_to_inject_code/</id>
+        <link href="https://www.reddit.com/r/netsec/comments/rs3n0w/i_wrote_a_replacement_for_pyrasite_to_inject_code/"/>
+        <updated>2021-12-30T14:56:35.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/nyellin  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>/r/netsec - Information Security News &amp; Discussion</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Star tek films, movies. comics. etc etc]]></title>
+        <id>https://www.reddit.com/r/opendirectories/comments/rs3d3a/star_tek_films_movies_comics_etc_etc/</id>
+        <link href="https://www.reddit.com/r/opendirectories/comments/rs3d3a/star_tek_films_movies_comics_etc_etc/"/>
+        <updated>2021-12-30T14:43:13.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/International_Milk_1  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Open Directories</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ghibli's Films - Google Drive]]></title>
+        <id>https://www.reddit.com/r/opendirectories/comments/rs31w8/ghiblis_films_google_drive/</id>
+        <link href="https://www.reddit.com/r/opendirectories/comments/rs31w8/ghiblis_films_google_drive/"/>
+        <updated>2021-12-30T14:28:37.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/International_Milk_1  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Open Directories</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Javascript 101 - Embedding objects & Arrays — 03]]></title>
+        <id>https://medium.com/p/e91906ecddcc</id>
+        <link href="https://mturhanlar.medium.com/javascript-101-embedding-objects-arrays-03-e91906ecddcc?source=rss------bugbounty-5"/>
+        <updated>2021-12-30T14:21:28.000Z</updated>
+        <summary type="html"><![CDATA[Before reading this, you can look at Javascript 101 — Arithmetic Operators, Code Editors, Functions, Objects, and Arrays — 02.
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Melih Turhanlar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Caduceus Bug Bounty Challenge]]></title>
+        <id>https://medium.com/p/df9a81c9858c</id>
+        <link href="https://caduceusmetaverseprotocol.medium.com/caduceus-bug-bounty-challenge-df9a81c9858c?source=rss------bugbounty-5"/>
+        <updated>2021-12-30T14:02:32.000Z</updated>
+        <summary type="html"><![CDATA[Caduceus has just entered its public testing phase and is launching this hackathon to identify bugs.
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Caduceus</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TryHackMe | CTF | Walkthrough | Raven]]></title>
+        <id>https://medium.com/p/5fc489beea1d</id>
+        <link href="https://kapishkuchroo.medium.com/tryhackme-ctf-walkthrough-raven-5fc489beea1d?source=rss------redteam-5"/>
+        <updated>2021-12-30T13:42:13.000Z</updated>
+        <summary type="html"><![CDATA[Checkout this virtual machine on TryHackMe. LogIn on TryHackMe, go to rooms → raven1he. Link: https://tryhackme.com/room/raven1he
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Kapish Kuchroo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Upgrade your OSINT investigations with Maltego]]></title>
+        <id>https://medium.com/p/5c734f4b39c</id>
+        <link href="https://aaronwperkins.medium.com/upgrade-your-osint-investigations-with-maltego-5c734f4b39c?source=rss------osint-5"/>
+        <updated>2021-12-30T13:18:21.000Z</updated>
+        <summary type="html"><![CDATA[What is Maltego anyway?
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Aaron Perkins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bond movies (Note sure, if this is correct link)-see comment]]></title>
+        <id>https://www.reddit.com/r/opendirectories/comments/rs1i98/bond_movies_note_sure_if_this_is_correct_linksee/</id>
+        <link href="https://www.reddit.com/r/opendirectories/comments/rs1i98/bond_movies_note_sure_if_this_is_correct_linksee/"/>
+        <updated>2021-12-30T13:13:00.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/International_Milk_1  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Open Directories</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bitswift Unlimited Mint Bugfix Postmortem]]></title>
+        <id>https://medium.com/p/147a1e57dca9</id>
+        <link href="https://medium.com/immunefi/bitswift-unlimited-mint-bugfix-postmortem-147a1e57dca9?source=rss------bugbounty-5"/>
+        <updated>2021-12-30T12:36:17.000Z</updated>
+        <summary type="html"><![CDATA[Summary
+Continue reading on Immunefi »]]></summary>
+        <author>
+            <name>Immunefi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Password Bypass Leads to Full-Account-Takeover]]></title>
+        <id>https://medium.com/p/9aefa7e3a9dd</id>
+        <link href="https://medium.com/@sarafsaransh321/the-password-bypass-leads-to-full-account-takeover-9aefa7e3a9dd?source=rss------bugbounty-5"/>
+        <updated>2021-12-30T12:14:40.000Z</updated>
+        <summary type="html"><![CDATA[Hola Hackers, I’m Saransh Saraf aka MR23R0
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Saransh Saraf</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FreeBuf早报 | 微信小程序调用个人信息需授权；亚马逊 Alexa 语音助手越界]]></title>
+        <id>https://www.freebuf.com/news/317994.html</id>
+        <link href="https://www.freebuf.com/news/317994.html"/>
+        <updated>2021-12-30T12:13:40.000Z</updated>
+        <summary type="html"><![CDATA[2022年2月21日起，小程序访问蓝牙、通讯录，以及添加日历事件，必须经过用户授权。]]></summary>
+        <author>
+            <name>FreeBuf网络安全行业门户</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Games (don't know if link's work)]]></title>
+        <id>https://www.reddit.com/r/opendirectories/comments/rs0cjk/games_dont_know_if_links_work/</id>
+        <link href="https://www.reddit.com/r/opendirectories/comments/rs0cjk/games_dont_know_if_links_work/"/>
+        <updated>2021-12-30T12:08:55.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/International_Milk_1  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Open Directories</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tom and Jerry cartoons]]></title>
+        <id>https://www.reddit.com/r/opendirectories/comments/rs08n3/tom_and_jerry_cartoons/</id>
+        <link href="https://www.reddit.com/r/opendirectories/comments/rs08n3/tom_and_jerry_cartoons/"/>
+        <updated>2021-12-30T12:02:27.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/International_Milk_1  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Open Directories</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[comics]]></title>
+        <id>https://www.reddit.com/r/opendirectories/comments/rs04hd/comics/</id>
+        <link href="https://www.reddit.com/r/opendirectories/comments/rs04hd/comics/"/>
+        <updated>2021-12-30T11:56:12.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/International_Milk_1  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Open Directories</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[API-   /]]></title>
+        <id>https://hackerone.com/reports/1354452</id>
+        <link href="https://hackerone.com/reports/1354452"/>
+        <updated>2021-12-30T10:26:00.000Z</updated>
+        <summary type="html"><![CDATA[VK.com disclosed a bug submitted by executor: https://hackerone.com/reports/1354452]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[T-Mobile称:用户数据泄露由SIM卡交换攻击引起]]></title>
+        <id>https://www.freebuf.com/news/317980.html</id>
+        <link href="https://www.freebuf.com/news/317980.html"/>
+        <updated>2021-12-30T10:19:41.000Z</updated>
+        <summary type="html"><![CDATA[美国电信运营商T-Mobile发生了一起数据泄露事件，有不明数量的客户遭受了SIM交换攻击。]]></summary>
+        <author>
+            <name>FreeBuf网络安全行业门户</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DevSecOps建设之白盒续篇]]></title>
+        <id>https://www.freebuf.com/articles/es/317975.html</id>
+        <link href="https://www.freebuf.com/articles/es/317975.html"/>
+        <updated>2021-12-30T10:01:18.000Z</updated>
+        <summary type="html"><![CDATA[探索一款既能够满足企业内部自动化审计需求、又能够辅助白帽子日常快速挖掘漏洞的工具。]]></summary>
+        <author>
+            <name>FreeBuf网络安全行业门户</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bootkit samples]]></title>
+        <id>https://www.reddit.com/r/netsec/comments/rrxmr1/bootkit_samples/</id>
+        <link href="https://www.reddit.com/r/netsec/comments/rrxmr1/bootkit_samples/"/>
+        <updated>2021-12-30T09:23:57.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/hardenedvault  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>/r/netsec - Information Security News &amp; Discussion</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IoT蜜罐展示物联网设备存在的网络威胁]]></title>
+        <id>https://www.freebuf.com/articles/network/317908.html</id>
+        <link href="https://www.freebuf.com/articles/network/317908.html"/>
+        <updated>2021-12-30T08:10:16.000Z</updated>
+        <summary type="html"><![CDATA[蜜罐历来被用作诱饵设备，帮助研究人员更好地了解网络上威胁的动态及其影响。]]></summary>
+        <author>
+            <name>FreeBuf网络安全行业门户</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[超1200个网站使用MitM钓鱼工具包，允许网络犯罪分子绕过 2FA 身份验证]]></title>
+        <id>https://www.freebuf.com/news/317900.html</id>
+        <link href="https://www.freebuf.com/news/317900.html"/>
+        <updated>2021-12-30T07:49:01.000Z</updated>
+        <summary type="html"><![CDATA[中间人网络钓鱼工具包是不需要人工操作的实时网络钓鱼工具包，因为一切都是通过反向代理自动完成。]]></summary>
+        <author>
+            <name>FreeBuf网络安全行业门户</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Easy Premium Account Access and Admin role escalation via Object manipulation in the server…]]></title>
+        <id>https://medium.com/p/619d325ab66</id>
+        <link href="https://infosecwriteups.com/easy-premium-account-access-and-admin-role-escalation-via-object-manipulation-in-the-server-619d325ab66?source=rss----7b722bfd1b8d---4"/>
+        <updated>2021-12-30T07:32:55.000Z</updated>
+        <summary type="html"><![CDATA[Hey infosec Geeks ✌,]]></summary>
+        <author>
+            <name>Anurag__Verma</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Easy Premium Account Access and Admin role escalation via Object manipulation in the server…]]></title>
+        <id>https://medium.com/p/619d325ab66</id>
+        <link href="https://infosecwriteups.com/easy-premium-account-access-and-admin-role-escalation-via-object-manipulation-in-the-server-619d325ab66?source=rss----7b722bfd1b8d---4"/>
+        <updated>2021-12-30T07:32:55.000Z</updated>
+        <summary type="html"><![CDATA[Hey infosec Geeks ✌,]]></summary>
+        <author>
+            <name>Anurag__Verma</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HacktoberFest2k21 vulnerability: How users metadata can be changed via Auth JWT tokens leaking from…]]></title>
+        <id>https://medium.com/p/3028f8ad6991</id>
+        <link href="https://infosecwriteups.com/hacktoberfest2k21-vulnerability-how-users-metadata-can-be-changed-via-auth-jwt-tokens-leaking-from-3028f8ad6991?source=rss----7b722bfd1b8d---4"/>
+        <updated>2021-12-30T07:32:49.000Z</updated>
+        <summary type="html"><![CDATA[Hello Awesome readers 👨‍💻✌✌,]]></summary>
+        <author>
+            <name>Anurag__Verma</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HacktoberFest2k21 vulnerability: How users metadata can be changed via Auth JWT tokens leaking from…]]></title>
+        <id>https://medium.com/p/3028f8ad6991</id>
+        <link href="https://infosecwriteups.com/hacktoberfest2k21-vulnerability-how-users-metadata-can-be-changed-via-auth-jwt-tokens-leaking-from-3028f8ad6991?source=rss----7b722bfd1b8d---4"/>
+        <updated>2021-12-30T07:32:49.000Z</updated>
+        <summary type="html"><![CDATA[Hello Awesome readers 👨‍💻✌✌,]]></summary>
+        <author>
+            <name>Anurag__Verma</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cookie Stealing via Clickjacking using Burp collaborator]]></title>
+        <id>https://medium.com/p/ff6f4ac1c18b</id>
+        <link href="https://infosecwriteups.com/cookie-stealing-via-clickjacking-using-burp-collaborator-ff6f4ac1c18b?source=rss----7b722bfd1b8d---4"/>
+        <updated>2021-12-30T07:27:57.000Z</updated>
+        <summary type="html"><![CDATA[Hello 👋 infosec geeks 👨‍💻 this is my 4th blog post,]]></summary>
+        <author>
+            <name>Anurag__Verma</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cookie Stealing via Clickjacking using Burp collaborator]]></title>
+        <id>https://medium.com/p/ff6f4ac1c18b</id>
+        <link href="https://infosecwriteups.com/cookie-stealing-via-clickjacking-using-burp-collaborator-ff6f4ac1c18b?source=rss----7b722bfd1b8d---4"/>
+        <updated>2021-12-30T07:27:57.000Z</updated>
+        <summary type="html"><![CDATA[Hello 👋 infosec geeks 👨‍💻 this is my 4th blog post,]]></summary>
+        <author>
+            <name>Anurag__Verma</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Massive Users Account Takeovers(Chaining Vulnerabilities to IDOR)]]></title>
+        <id>https://medium.com/p/ea4e1b6407d2</id>
+        <link href="https://infosecwriteups.com/massive-users-account-takeovers-chaining-vulnerabilities-to-idor-ea4e1b6407d2?source=rss----7b722bfd1b8d---4"/>
+        <updated>2021-12-30T07:21:20.000Z</updated>
+        <summary type="html"><![CDATA[Hello hunters 👋✌ this is my 7th writeup 🧾,]]></summary>
+        <author>
+            <name>Anurag__Verma</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Massive Users Account Takeovers(Chaining Vulnerabilities to IDOR)]]></title>
+        <id>https://medium.com/p/ea4e1b6407d2</id>
+        <link href="https://infosecwriteups.com/massive-users-account-takeovers-chaining-vulnerabilities-to-idor-ea4e1b6407d2?source=rss----7b722bfd1b8d---4"/>
+        <updated>2021-12-30T07:21:20.000Z</updated>
+        <summary type="html"><![CDATA[Hello hunters 👋✌ this is my 7th writeup 🧾,]]></summary>
+        <author>
+            <name>Anurag__Verma</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CTF Write-Up: Kryptonite]]></title>
+        <id>https://medium.com/p/293f2f66c004</id>
+        <link href="https://infosecwriteups.com/ctf-write-up-kryptonite-293f2f66c004?source=rss----7b722bfd1b8d---4"/>
+        <updated>2021-12-30T07:19:47.000Z</updated>
+        <summary type="html"><![CDATA[CTF challenge available at ctf-mystiko.com.]]></summary>
+        <author>
+            <name>dh0ck</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CTF Write-Up: Kryptonite]]></title>
+        <id>https://medium.com/p/293f2f66c004</id>
+        <link href="https://infosecwriteups.com/ctf-write-up-kryptonite-293f2f66c004?source=rss----7b722bfd1b8d---4"/>
+        <updated>2021-12-30T07:19:47.000Z</updated>
+        <summary type="html"><![CDATA[CTF challenge available at ctf-mystiko.com.]]></summary>
+        <author>
+            <name>dh0ck</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OSINT — Sakura (TryHackMe walktrough)]]></title>
+        <id>https://medium.com/p/22c6f87c955c</id>
+        <link href="https://medium.com/@0xw01f/osint-sakura-tryhackme-walktrough-22c6f87c955c?source=rss------osint-5"/>
+        <updated>2021-12-30T06:45:24.000Z</updated>
+        <summary type="html"><![CDATA[The OSINT Dojo recently found themselves the victim of a cyber attack. It seems that there is no major damage, and there does not appear…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>w01f</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[地铁安防门被曝存在多个严重的安全漏洞]]></title>
+        <id>https://www.freebuf.com/news/317879.html</id>
+        <link href="https://www.freebuf.com/news/317879.html"/>
+        <updated>2021-12-30T06:20:36.000Z</updated>
+        <summary type="html"><![CDATA[这些漏洞可能允许远程攻击者绕过身份验证要求、篡改金属探测器配置，甚至在设备上执行任意代码。]]></summary>
+        <author>
+            <name>FreeBuf网络安全行业门户</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[大型车企隐秘接口连续被泄露 我们该如何盘点公司资产]]></title>
+        <id>https://www.freebuf.com/articles/es/317866.html</id>
+        <link href="https://www.freebuf.com/articles/es/317866.html"/>
+        <updated>2021-12-30T03:27:41.000Z</updated>
+        <summary type="html"><![CDATA[大型甲方企业如何做资产盘点]]></summary>
+        <author>
+            <name>FreeBuf网络安全行业门户</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《2021企业安全运营实践报告》发布：从被动防御到主动出击]]></title>
+        <id>https://www.freebuf.com/articles/paper/317855.html</id>
+        <link href="https://www.freebuf.com/articles/paper/317855.html"/>
+        <updated>2021-12-30T02:49:21.000Z</updated>
+        <summary type="html"><![CDATA[从被动转主动，企业安全运营体系已牢牢抓住主动权。]]></summary>
+        <author>
+            <name>FreeBuf网络安全行业门户</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Movies]]></title>
+        <id>https://www.reddit.com/r/opendirectories/comments/rrpa2m/movies/</id>
+        <link href="https://www.reddit.com/r/opendirectories/comments/rrpa2m/movies/"/>
+        <updated>2021-12-30T01:54:14.000Z</updated>
+        <summary type="html"><![CDATA[http://167.114.174.132:9092/movies/
+ Haven't looked too far thru this yet but good amount of movies.
+    submitted by    /u/Prhymus  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Open Directories</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Change project visibility to a restricted option]]></title>
+        <id>https://hackerone.com/reports/1086781</id>
+        <link href="https://hackerone.com/reports/1086781"/>
+        <updated>2021-12-30T01:28:59.000Z</updated>
+        <summary type="html"><![CDATA[GitLab disclosed a bug submitted by s4nderdevelopment: https://hackerone.com/reports/1086781 - Bounty: $1370]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Is IT experience a requirement for SOC Analyst?]]></title>
+        <id>https://www.reddit.com/r/AskNetsec/comments/rrojlq/is_it_experience_a_requirement_for_soc_analyst/</id>
+        <link href="https://www.reddit.com/r/AskNetsec/comments/rrojlq/is_it_experience_a_requirement_for_soc_analyst/"/>
+        <updated>2021-12-30T01:19:37.000Z</updated>
+        <summary type="html"><![CDATA[Is it required that you worked in the help desk or be a sysadmin? If so, how many years? Or is home experience enough for the roll(example: homelab, ctfs, github projects)
+    submitted by    /u/RaZdoT  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>AskNetsec</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Phone Tapping -- Call Forwarding UNconditionally, but everything else is NOT forwarded]]></title>
         <id>https://www.reddit.com/r/AskNetsec/comments/rrnt37/phone_tapping_call_forwarding_unconditionally_but/</id>
@@ -607,6 +1218,16 @@ Points: 3
         <link href="https://www.freebuf.com/news/317826.html"/>
         <updated>2021-12-29T10:21:07.000Z</updated>
         <summary type="html"><![CDATA[《征求意见稿》提出了信息系统密码应用方案设计技术的建议，为开展信息系统密码应用方案设计提供指导参考。]]></summary>
+        <author>
+            <name>FreeBuf网络安全行业门户</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2026年，数据丢失防护市场规模将达到 62.65 亿美元]]></title>
+        <id>https://www.freebuf.com/news/317819.html</id>
+        <link href="https://www.freebuf.com/news/317819.html"/>
+        <updated>2021-12-29T10:09:06.000Z</updated>
+        <summary type="html"><![CDATA[2026年，数据丢失防护市场规模将达到62.65亿美元。]]></summary>
         <author>
             <name>FreeBuf网络安全行业门户</name>
         </author>
