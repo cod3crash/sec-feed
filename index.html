@@ -16,6 +16,968 @@
 <body>
 <!-- %after-body-begin.html% -->
   <section class="daily-content">
+    <h2 class="daily-heading"><time datatime="2022-01-04">2022-01-04</time></h2>
+    <ul class="sources card">
+      <li class="source">
+        <section>
+          <h3 class="source-name"><a class="source-name__link" href="https://www.reddit.com/r/asknetsec/">AskNetsec</a></h3>
+          <section class="articles-per-source">
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">Phishing email sent from own mail? Email spoofed or hacked?</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://www.reddit.com/r/AskNetsec/comments/rvgydl/phishing_email_sent_from_own_mail_email_spoofed/">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(1 min)</span>
+                    <span>So, I received one those threat emails where they say my device is compromised, and the sender is myself. Phone is fine, no signs of viruses, I&#x27;m careful as well, have Adblock, have HTTPS everywhere. Google lists no suspicious activity, no traces that my mail was hacked. I changed passwords anyway, but can&#x27;t help but be paranoid. I know it&#x27;s possible to spoof an email address, and Google itself says the sender may not be the address shown. I was trying to see the original header with the help of a howtogeek guide, but there&#x27;s no email address other than my own. Mail says it&#x27;s a zero click vulnerability, that I was hacked through a website, but it all seems very unlikely. Can anyone please elaborate on this? My mail was not hacked? I&#x27;m not on have I been pwned, which is why I was extra concerned: how the heck do they have my email?
+    submitted by    /u/Unluckyclover_  
+ [link]   [comments]</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">Do integer overflows also buffer overflow?</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://www.reddit.com/r/AskNetsec/comments/rvggyx/do_integer_overflows_also_buffer_overflow/">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(2 min)</span>
+                    <span>Hi, I&#x27;m currently learning about c and the classic vulnerabilities that arise. Right now buffer overflows
+ ​
+ So, just to sum up my understanding, an example like this will overflow because &#x27;ab&#x27; is of two bytes is too big to store in the last byte of &quot;buff&quot;:
+ char buff[10]; 
+ buff[9] &#x3D; &#x27;ab&#x27;;
+ The wiki article about buffer overflows define them as follows:
+  
+&quot;while writing data) to a buffer, overruns the buffer&#x27;s boundary&quot;
+  
+This got me thinking that this sounds a lot like integer overflows. Trying to put something into a container that it cannot contain.
+ But let&#x27;s take the following example of a integer overflow (I use unsigned char for having most simple case):
+ unsigned char c &#x3D; 255; 
+ unsigned char cc &#x3D; c + 1;
+ Ok, so the single byte of the char cannot contain a value higher than 255, and thus it does modulo.
+ And my understanding of integer overflow is that internally, the computer tries to put a 1 to the left of the current numbe, such that if 255 looks like this:
+ 11111111 
+ then it simply assumes that there exists a place that represents 256, and tries to create this binary number:
+ 100000000 
+ But there is no such bit, and therefore the number just becomes 00000000.
+ But the single 1 that is lost doesnt that go somewhere in memory?
+ For that reason, my thought was that integer overflows had have to also contain buffer overflows. 
+ Is this true?
+ ​
+ Further thoughts
+ At the core of the issue is a question of what actually constitutes a buffer in c.
+ You could maybe argue that this problem would have been better suited for r/learnprogramming.
+ But yeah, my guess is that it depends on whether or not a certain variable counts as buffers.
+ is a int a buffer? is a char[]? etc?
+    submitted by    /u/GarseBo  
+ [link]   [comments]</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">What position would be most qualified for hacking?</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://www.reddit.com/r/AskNetsec/comments/rvg3b9/what_position_would_be_most_qualified_for_hacking/">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(0 min)</span>
+                    <span>From reading this I&#x27;m thinking Security Analyst would be closest https://www.cs.seas.gwu.edu/cybersecurity-roles-and-job-titles
+    submitted by    /u/cookred  
+ [link]   [comments]</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+        </section>
+      </li>
+      <li class="source">
+        <section>
+          <h3 class="source-name"><a class="source-name__link" href="https://www.reddit.com/r/opendirectories/">Open Directories</a></h3>
+          <section class="articles-per-source">
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">Anime Fansubs</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://www.reddit.com/r/opendirectories/comments/rvhddg/anime_fansubs/">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(0 min)</span>
+                    <span>submitted by    /u/International_Milk_1  
+ [link]   [comments]</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">David Bowie Bootlegs</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://www.reddit.com/r/opendirectories/comments/rvgwrx/david_bowie_bootlegs/">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(0 min)</span>
+                    <span>submitted by    /u/International_Milk_1  
+ [link]   [comments]</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+        </section>
+      </li>
+    </ul>
+  </section>
+  <section class="daily-content">
+    <h2 class="daily-heading"><time datatime="2022-01-03">2022-01-03</time></h2>
+    <ul class="sources card">
+      <li class="source">
+        <section>
+          <h3 class="source-name"><a class="source-name__link" href="http://h1.nobbd.de/">The unofficial HackerOne disclosure timeline</a></h3>
+          <section class="articles-per-source">
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">Log4Shell: RCE 0-day exploit on</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://hackerone.com/reports/1429014">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(0 min)</span>
+                    <span>U.S. Dept Of Defense disclosed a bug submitted by mr_x_strange: https://hackerone.com/reports/1429014</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+        </section>
+      </li>
+      <li class="source">
+        <section>
+          <h3 class="source-name"><a class="source-name__link" href="https://news.ycombinator.com/newest">Hacker News - Newest: &quot;vulnerability&quot;</a></h3>
+          <section class="articles-per-source">
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">Vulnerability in Log4j 2.17.0 more hype than substance</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://www.lunasec.io/docs/blog/log4j-hype-train/">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(6 min)</span>
+                    <span>Article URL: https://www.lunasec.io/docs/blog/log4j-hype-train/
+Comments URL: https://news.ycombinator.com/item?id&#x3D;29782471
+Points: 2
+# Comments: 0</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+        </section>
+      </li>
+      <li class="source">
+        <section>
+          <h3 class="source-name"><a class="source-name__link" href="https://infosecwriteups.com?source&#x3D;rss----7b722bfd1b8d---4">InfoSec Write-ups - Medium</a></h3>
+          <section class="articles-per-source">
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">NOTE: I assume that the keys have been exchanged using any key exchange protocol.</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://infosecwriteups.com/proposed-scheme-to-achieve-the-cia-triad-5dd97152e8b1?source&#x3D;rss----7b722bfd1b8d---4">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(4 min)</span>
+                    <span>Features:</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">REvil — Incident Response with Redline</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://infosecwriteups.com/revil-incident-response-with-redline-fe7853699216?source&#x3D;rss----7b722bfd1b8d---4">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(7 min)</span>
+                    <span>Recently, I’ve been doing some more study around incident response. To get some more practice, I decided to attempt the free TryHackMe…</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">Yogosha Christmas 2021 CTF</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://infosecwriteups.com/yogosha-christmas-2021-ctf-96166d508808?source&#x3D;rss----7b722bfd1b8d---4">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(5 min)</span>
+                    <span>Hello security enthusiasts this Christmas i played “Yogosha CTF 2021” challenge as i got a mail from their team on 28th December, and i…</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">Day 1, Installing Kali Linux — 100DaysofHacking</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://infosecwriteups.com/day-1-installing-kali-linux-100daysofhacking-eeb5954e0837?source&#x3D;rss----7b722bfd1b8d---4">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(3 min)</span>
+                    <span>Hello everyone , this is Ayush and from today 01–01–2022 , I’m going to start 100daysofhacking challenge to improve my hacking skills . So…</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">Mirai from Hackthebox</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://infosecwriteups.com/mirai-from-hackthebox-9729e648acbf?source&#x3D;rss----7b722bfd1b8d---4">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(4 min)</span>
+                    <span>Pi hole Default Credentials and File System Forensics</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">How I found Clickjacking bug</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://infosecwriteups.com/finding-of-clickjacking-bug-f086bcf5f2fd?source&#x3D;rss----7b722bfd1b8d---4">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(2 min)</span>
+                    <span>Bug Bounty Writeup</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">TryHackme-Vulnversity PART 1</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://infosecwriteups.com/tryhackme-vulnversity-part-1-5b232c888f90?source&#x3D;rss----7b722bfd1b8d---4">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(2 min)</span>
+                    <span>CTF Writeup</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">Bug Hunting Journey of 2021</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://infosecwriteups.com/bug-hunting-journey-of-2021-1fa60b28d949?source&#x3D;rss----7b722bfd1b8d---4">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(22 min)</span>
+                    <span>Heyy Everyoneeee,</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">IDOR leads to leak Private Details</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://infosecwriteups.com/idor-leads-to-leak-private-details-866563365490?source&#x3D;rss----7b722bfd1b8d---4">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(2 min)</span>
+                    <span>I Wish you Merry Christmas &amp; happy new year to you readers. May this year bring us nothing more than love, joy, happiness, P1,P2…</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">Year in review 2021: Top 5 things that happened in cyber security</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://infosecwriteups.com/year-in-review-2021-top-5-things-that-happened-in-cyber-security-4c6d364993be?source&#x3D;rss----7b722bfd1b8d---4">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(3 min)</span>
+                    <span>Hello Hackers, Yuvaraj here. Hope you are all doing good; 2021 is likely to be the year of a data breach because many big tech companies…</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+        </section>
+      </li>
+      <li class="source">
+        <section>
+          <h3 class="source-name"><a class="source-name__link" href="https://infosecwriteups.com?source&#x3D;rss----7b722bfd1b8d---4">InfoSec Write-ups - Medium</a></h3>
+          <section class="articles-per-source">
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">NOTE: I assume that the keys have been exchanged using any key exchange protocol.</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://infosecwriteups.com/proposed-scheme-to-achieve-the-cia-triad-5dd97152e8b1?source&#x3D;rss----7b722bfd1b8d---4">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(4 min)</span>
+                    <span>Features:</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">REvil — Incident Response with Redline</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://infosecwriteups.com/revil-incident-response-with-redline-fe7853699216?source&#x3D;rss----7b722bfd1b8d---4">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(7 min)</span>
+                    <span>Recently, I’ve been doing some more study around incident response. To get some more practice, I decided to attempt the free TryHackMe…</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">Yogosha Christmas 2021 CTF</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://infosecwriteups.com/yogosha-christmas-2021-ctf-96166d508808?source&#x3D;rss----7b722bfd1b8d---4">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(5 min)</span>
+                    <span>Hello security enthusiasts this Christmas i played “Yogosha CTF 2021” challenge as i got a mail from their team on 28th December, and i…</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">Day 1, Installing Kali Linux — 100DaysofHacking</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://infosecwriteups.com/day-1-installing-kali-linux-100daysofhacking-eeb5954e0837?source&#x3D;rss----7b722bfd1b8d---4">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(3 min)</span>
+                    <span>Hello everyone , this is Ayush and from today 01–01–2022 , I’m going to start 100daysofhacking challenge to improve my hacking skills . So…</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">Mirai from Hackthebox</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://infosecwriteups.com/mirai-from-hackthebox-9729e648acbf?source&#x3D;rss----7b722bfd1b8d---4">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(4 min)</span>
+                    <span>Pi hole Default Credentials and File System Forensics</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">How I found Clickjacking bug</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://infosecwriteups.com/finding-of-clickjacking-bug-f086bcf5f2fd?source&#x3D;rss----7b722bfd1b8d---4">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(2 min)</span>
+                    <span>Bug Bounty Writeup</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">TryHackme-Vulnversity PART 1</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://infosecwriteups.com/tryhackme-vulnversity-part-1-5b232c888f90?source&#x3D;rss----7b722bfd1b8d---4">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(2 min)</span>
+                    <span>CTF Writeup</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">Bug Hunting Journey of 2021</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://infosecwriteups.com/bug-hunting-journey-of-2021-1fa60b28d949?source&#x3D;rss----7b722bfd1b8d---4">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(22 min)</span>
+                    <span>Heyy Everyoneeee,</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">IDOR leads to leak Private Details</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://infosecwriteups.com/idor-leads-to-leak-private-details-866563365490?source&#x3D;rss----7b722bfd1b8d---4">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(2 min)</span>
+                    <span>I Wish you Merry Christmas &amp; happy new year to you readers. May this year bring us nothing more than love, joy, happiness, P1,P2…</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">Year in review 2021: Top 5 things that happened in cyber security</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://infosecwriteups.com/year-in-review-2021-top-5-things-that-happened-in-cyber-security-4c6d364993be?source&#x3D;rss----7b722bfd1b8d---4">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(3 min)</span>
+                    <span>Hello Hackers, Yuvaraj here. Hope you are all doing good; 2021 is likely to be the year of a data breach because many big tech companies…</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+        </section>
+      </li>
+      <li class="source">
+        <section>
+          <h3 class="source-name"><a class="source-name__link" href="https://medium.com/tag/bugbounty/latest?source&#x3D;rss------bugbounty-5">Bugbounty on Medium</a></h3>
+          <section class="articles-per-source">
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">Module-1 | Introduction -Pentesting &amp; Bypassing Cloud Web Application Firewall of Major Clouds</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://medium.com/@themistocle5/module-1-introduction-pentesting-bypassing-cloud-web-application-firewall-of-major-clouds-2f89cc9669a2?source&#x3D;rss------bugbounty-5">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(3 min)</span>
+                    <span>Why you should not trust the cloud WAF?
+Continue reading on Medium »</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">100%OFF | Pentesters Practical Approach for Bug Hunting and Bug Bounty</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://online-courses-deals.medium.com/100-off-pentesters-practical-approach-for-bug-hunting-and-bug-bounty-4a04a70f101a?source&#x3D;rss------bugbounty-5">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(1 min)</span>
+                    <span>Welcome to this course on Pentesters Practical Approach for Bug Hunting and Bug Bounty. To enjoy this course, you need a positive attitude
+Continue reading on Medium »</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">Bug Report Update</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://covercompared.medium.com/bug-report-update-60527f50df98?source&#x3D;rss------bugbounty-5">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(1 min)</span>
+                    <span>As our testnet and bugbounty continues to thrive, we are very grateful for the active participation of our community to fix any and every…
+Continue reading on Medium »</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">Story of YouTube’s Unfixable Ads Bypass</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://medium.com/@mrmax4o4/story-of-youtubes-unfixable-ads-bypass-b3bb7016c14e?source&#x3D;rss------bugbounty-5">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(3 min)</span>
+                    <span>Hello there!
+I hope everything is going well with you; today I will talk about my YouTube Ads bypass.
+Continue reading on Medium »</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">P5 to P1: Intresting Account Takeover</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://medium.com/@tushar.tilak.sharma/p5-to-p1-intresting-account-takeover-6e59b879494b?source&#x3D;rss------bugbounty-5">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(2 min)</span>
+                    <span>Hello Guys,
+Continue reading on Medium »</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">IDOR leads to leak Private Details</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://infosecwriteups.com/idor-leads-to-leak-private-details-866563365490?source&#x3D;rss------bugbounty-5">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(2 min)</span>
+                    <span>I Wish you Merry Christmas &amp; happy new year to you readers. May this year bring us nothing more than love, joy, happiness, P1,P2…
+Continue reading on InfoSec Write-ups »</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+        </section>
+      </li>
+      <li class="source">
+        <section>
+          <h3 class="source-name"><a class="source-name__link" href="https://medium.com/tag/redteam/latest?source&#x3D;rss------redteam-5">Redteam on Medium</a></h3>
+          <section class="articles-per-source">
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">Basic Overview: Active Directory Hacking</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://medium.com/@arkendemon/basic-overview-active-directory-hacking-885689ef3ab0?source&#x3D;rss------redteam-5">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(3 min)</span>
+                    <span>Introduction
+Continue reading on Medium »</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">TryHackMe — Advent of Cyber 3 (2021) WriteUp</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://r4bb1t.medium.com/tryhackme-advent-of-cyber-3-2021-writeup-fd5f4fb3931?source&#x3D;rss------redteam-5">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(16 min)</span>
+                    <span>WriteUp for all Challenges in THM Advent of Cyber 3
+Continue reading on Medium »</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+        </section>
+      </li>
+      <li class="source">
+        <section>
+          <h3 class="source-name"><a class="source-name__link" href="https://www.reddit.com/r/asknetsec/">AskNetsec</a></h3>
+          <section class="articles-per-source">
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">What was 2021 like for your SOC?</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://www.reddit.com/r/AskNetsec/comments/rvc6e5/what_was_2021_like_for_your_soc/">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(0 min)</span>
+                    <span>What was 2021 like for your SOC? Any workflow or tool changes that made an impact? Did your team handle more or less incidents?
+    submitted by    /u/wowneatlookatthat  
+ [link]   [comments]</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">Phone camera related question</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://www.reddit.com/r/AskNetsec/comments/rv8117/phone_camera_related_question/">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(1 min)</span>
+                    <span>How do I find out whether my phone&#x27;s camera is turned on or off? I don&#x27;t have any sort of LED indicator next to my phone&#x27;s camera. Is there any other way? To see whether camera is being used or not?
+ 
+If I&#x27;m using (for example: Snapchat) to take a picture/video, then can other camera apps on my phone like Tiktok/Kiradroid/WhatsApp camera also be turned on simultaneously ? Is it possible for other camera apps to see what I&#x27;m recording on Snapchat?
+ 
+ note- On Tiktok&#x27;s permission : run foreground service is mentioned.
+    submitted by    /u/hamza_37  
+ [link]   [comments]</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">Is it safe to hide insecure servers in intranet?</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://www.reddit.com/r/AskNetsec/comments/rv5gzl/is_it_safe_to_hide_insecure_servers_in_intranet/">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(2 min)</span>
+                    <span>Is it generally safe to hide insecure servers(like a REST API server without authentication, no JWT no basic Auth) in intranet(or docker network without publishing the port)? What kind of risk will I be exposed to? 
+ Let say I have server A, B and C, and I will publish and expose server A to public, and I only want server B and C to be reached by server A. Is it safe to keep server B and C in intranet(server A will be in that intranet as well, but exposed to public)?
+    submitted by    /u/hksparrowboy  
+ [link]   [comments]</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">Call listening symptoms, spy tech, dual sim or cloning ? How can one get proof of this that is admissible as evidence ?</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://www.reddit.com/r/AskNetsec/comments/rv4a18/call_listening_symptoms_spy_tech_dual_sim_or/">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(4 min)</span>
+                    <span>I am being stalked by my ex pretty sure she has screwed herself a army of tec savy individuals to help her. It’s been almost 2 years I just want to get proof or get her to leave me alone.
+ So if someone was spoofing my phone listening to my calls is it a possibility that if they hung up before I was off the phone I could get a incoming call from the person I was talking to currently and there phone would suddenly start ringing like they called me again ? 
+ This phenomena has happened 3-5 times to me before I realized it has only happened sense my ex moved out she somehow had my phone cloned and was following me all over the internet as she could see where I was posting. I don’t think she could modify things on the phone like screen shots but someone else handles package delivery. I got a new Samsung phone and within three days I had four apps that had been sideloaded on there one of them the Verizon app that allows you to supposedly hack a phone I of course deleted them. I watched the Google family app appear miraculously onto my phone screen at a concert while Trying to discern if that was my ex standing approximately 40 yards away who should’ve been home with our daughter. I moved into see if it was her and she hid behind her hair while walking 20 yards ahead and exited the concert.
+ Pretty sure she has contacted clients and told them outlandish lies to create problems, women I was talking to, follows me all over the internet posting where I post creating accounts where I have accounts all in the name of narc psychopath bs it was bad enough all the cheating that came to light and the mental abuse when we lived together now this shit. 
+ Any help would be great thanks.
+    submitted by    /u/itwasEMOTIONALmurder  
+ [link]   [comments]</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">ELI5: Why can a message not be decrypted with the public key in in PKI?</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://www.reddit.com/r/AskNetsec/comments/ruy6cp/eli5_why_can_a_message_not_be_decrypted_with_the/">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(3 min)</span>
+                    <span>Apologies if this is the incorrect sub for this, but this is the only one I found that I thought would fit. 
+ I’m studying for Sec+, and currently trying to understand the PKI and asymmetric encryption protocols. 
+ Say for example I encrypt a message using google’s public key to Google.com, and a MITM intercepts it. Why can’t the MITM decrypt the message using the public key when it was encrypted using the public key in the first place? Why does it have to be decrypted using the private key?
+ Thank you for the help!
+    submitted by    /u/bookandrelease  
+ [link]   [comments]</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+        </section>
+      </li>
+      <li class="source">
+        <section>
+          <h3 class="source-name"><a class="source-name__link" href="https://www.reddit.com/r/computerforensics/">Computer Forensics</a></h3>
+          <section class="articles-per-source">
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">Best free utility to take an image of an iOS device?</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://www.reddit.com/r/computerforensics/comments/rv93om/best_free_utility_to_take_an_image_of_an_ios/">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(1 min)</span>
+                    <span>Hi there,
+ I’m learning how to use Autopsy, and it has an iOS ingest module (iLEAPP). iLEAPP will accept a compressed .tar/.zip file or an iTunes backup. 
+ What’s the best way to capture an image of an iOS device? Would an iTunes backup encompass almost everything (excluding Health data, etc.), or is there a better utility?
+ Thanks!
+    submitted by    /u/hamsterbilly  
+ [link]   [comments]</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+        </section>
+      </li>
+      <li class="source">
+        <section>
+          <h3 class="source-name"><a class="source-name__link" href="https://www.reddit.com/r/exploitdev/">Exploit Development</a></h3>
+          <section class="articles-per-source">
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">ASK: What should I look in a Masters Program before opting it</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://www.reddit.com/r/ExploitDev/comments/rvep5g/ask_what_should_i_look_in_a_masters_program/">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(1 min)</span>
+                    <span>Hey everyone, I have been thinking of pursuing a masters in cybersecurity. I love tinkering with low level stuff, especially embedded systems and exploit development. But I don&#x27;t know if the universities offer courses targeting them. Can the community suggest me some good unis that I can apply too based on my inclination.
+ PS: Can someone also take a look at my SOP, I don&#x27;t have anyone who can proofread my SOP.
+    submitted by    /u/sidhu97ss  
+ [link]   [comments]</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+        </section>
+      </li>
+      <li class="source">
+        <section>
+          <h3 class="source-name"><a class="source-name__link" href="https://www.reddit.com/r/netsec/">/r/netsec - Information Security News &amp; Discussion</a></h3>
+          <section class="articles-per-source">
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">One of my better-documented exploits, CVE-2017-5816 whitepaper</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://www.reddit.com/r/netsec/comments/rv89n8/one_of_my_betterdocumented_exploits_cve20175816/">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(0 min)</span>
+                    <span>submitted by    /u/oxagast  
+ [link]   [comments]</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">Vulnerability in log4j 2.17.0 more hype than substance | LunaSec</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://www.reddit.com/r/netsec/comments/rv5l62/vulnerability_in_log4j_2170_more_hype_than/">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(1 min)</span>
+                    <span>submitted by    /u/breadchris  
+ [link]   [comments]</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">/r/netsec&#x27;s Q1 2022 Information Security Hiring Thread</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://www.reddit.com/r/netsec/comments/rv3x4r/rnetsecs_q1_2022_information_security_hiring/">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(2 min)</span>
+                    <span>Overview
+ If you have open positions at your company for information security professionals and would like to hire from the /r/netsec user base, please leave a comment detailing any open job listings at your company.
+ We would also like to encourage you to post internship positions as well. Many of our readers are currently in school or are just finishing their education.
+ Please reserve top level comments for those posting open positions.
+ Rules &amp; Guidelines
+ Include the company name in the post. If you want to be topsykret, go recruit elsewhere. Include the geographic location of the position along with the availability of relocation assistance or remote work.
+  
+If you are a third party recruiter, you must disclose this in your posting.
+ Please be thorough and upfront with the position details.
+ Use of non-hr&#x27;d (realistic) requirements is encouraged.
+ While it&#x27;s fine to link to the position on your companies website, provide the important details in the comment.
+ Mention if applicants should apply officially through HR, or directly through you.
+ Please clearly list citizenship, visa, and security clearance requirements.
+  
+You can see an example of acceptable posts by perusing past hiring threads.
+ Feedback
+ Feedback and suggestions are welcome, but please don&#x27;t hijack this thread (use moderator mail instead.)
+    submitted by    /u/ranok  
+ [link]   [comments]</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">Malicious Telegram Installer Drops Purple Fox Rootkit</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://www.reddit.com/r/netsec/comments/rv34ua/malicious_telegram_installer_drops_purple_fox/">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(1 min)</span>
+                    <span>submitted by    /u/woja111  
+ [link]   [comments]</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">google/log4jscanner: A log4j vulnerability filesystem scanner and Go package for analyzing JAR files.</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://www.reddit.com/r/netsec/comments/ruwnbk/googlelog4jscanner_a_log4j_vulnerability/">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(0 min)</span>
+                    <span>submitted by    /u/maryetan  
+ [link]   [comments]</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">C++ Memory Corruption (std::vector) - part 2</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://www.reddit.com/r/netsec/comments/ruu7z6/c_memory_corruption_stdvector_part_2/">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(1 min)</span>
+                    <span>submitted by    /u/Gallus  
+ [link]   [comments]</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+        </section>
+      </li>
+      <li class="source">
+        <section>
+          <h3 class="source-name"><a class="source-name__link" href="https://www.reddit.com/r/opendirectories/">Open Directories</a></h3>
+          <section class="articles-per-source">
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">Disney Channel Stuff+</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://www.reddit.com/r/opendirectories/comments/rvcwqr/disney_channel_stuff/">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(0 min)</span>
+                    <span>submitted by    /u/International_Milk_1  
+ [link]   [comments]</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">Dr Who (The original series) Seasons 1-8.</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://www.reddit.com/r/opendirectories/comments/rvcslz/dr_who_the_original_series_seasons_18/">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(0 min)</span>
+                    <span>submitted by    /u/International_Milk_1  
+ [link]   [comments]</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">Some old movies and Tv series</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://www.reddit.com/r/opendirectories/comments/rvcfha/some_old_movies_and_tv_series/">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(0 min)</span>
+                    <span>submitted by    /u/International_Milk_1  
+ [link]   [comments]</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">Columbo episodes</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://www.reddit.com/r/opendirectories/comments/rvc0ml/columbo_episodes/">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(0 min)</span>
+                    <span>submitted by    /u/International_Milk_1  
+ [link]   [comments]</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">Mixture off BBC Radio stuff. Fact and Fiction.</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://www.reddit.com/r/opendirectories/comments/rvbmhb/mixture_off_bbc_radio_stuff_fact_and_fiction/">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(0 min)</span>
+                    <span>submitted by    /u/International_Milk_1  
+ [link]   [comments]</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">movies for the film buff</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://www.reddit.com/r/opendirectories/comments/rv9bx3/movies_for_the_film_buff/">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(0 min)</span>
+                    <span>submitted by    /u/International_Milk_1  
+ [link]   [comments]</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">archive.org link to Japanese movies, tv series with english subtitles filtered by title.</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://www.reddit.com/r/opendirectories/comments/rv6zkq/archiveorg_link_to_japanese_movies_tv_series_with/">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(0 min)</span>
+                    <span>submitted by    /u/International_Milk_1  
+ [link]   [comments]</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">large dex</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://www.reddit.com/r/opendirectories/comments/rv6bfv/large_dex/">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(0 min)</span>
+                    <span>http://90.146.184.46/
+    submitted by    /u/Dagad0s  
+ [link]   [comments]</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">Musikk (FLAC + MP3)</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://www.reddit.com/r/opendirectories/comments/rv5ldf/musikk_flac_mp3/">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(0 min)</span>
+                    <span>https://85.166.158.78/RaidNAS/Lyd/Musikk/
+ [DIR] Atreyu/ 11-Oct-2019 23:56 - [DIR] Avenged.Sevenfold/ 08-Nov-2019 23:46 - [DIR] Bullet.For.My.Valentine/ 08-Nov-2019 23:52 - [DIR] Metallica/ 12-Oct-2019 00:06 - [DIR] Nirvana/ 12-Oct-2019 00:06 - [DIR] Papa.Roach/ 12-Oct-2019 00:08 - [DIR] Pink.Floyd/ 12-Oct-2019 00:13 - 
+    submitted by    /u/Dagad0s  
+ [link]   [comments]</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">mostly Metallica / Nightwish (largely FLAC 24/96)</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://www.reddit.com/r/opendirectories/comments/rv5fhu/mostly_metallica_nightwish_largely_flac_2496/">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(1 min)</span>
+                    <span>https://seisho.us/swap/
+    submitted by    /u/Dagad0s  
+ [link]   [comments]</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">Sheetmusic for (wind)band</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://www.reddit.com/r/opendirectories/comments/rv5aak/sheetmusic_for_windband/">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(1 min)</span>
+                    <span>Nice collection of sheetmusic (scores and parts) for (wind)band
+ https://camdencommunityband.org.au/wp-content/uploads/2019/07/
+    submitted by    /u/notmcgvien  
+ [link]   [comments]</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">nice selection (FLAC \ MP3)</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://www.reddit.com/r/opendirectories/comments/rv53zy/nice_selection_flac_mp3/">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(0 min)</span>
+                    <span>http://51.198.90.160/resources/Music/
+    submitted by    /u/Dagad0s  
+ [link]   [comments]</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">I made an OD browser with IMDB ratings built in</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://www.reddit.com/r/opendirectories/comments/ruuwbo/i_made_an_od_browser_with_imdb_ratings_built_in/">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(3 min)</span>
+                    <span>Hey r/opendirectories!
+ ​
+ I made a web app that helps me identify poorly rated movies in open directories so I can avoid them. This post isn&#x27;t to promote my project or anything -- which is why I am not disclosing the name or sharing the link to the git repo -- I am writing to gather feedback and to see if people would be interested in using it when it becomes mature enough one day.
+ ​
+ ​
+ https://i.redd.it/nblwcs660f981.gif
+ ​
+ First off, why I made this tool and what the tool does:
+ ​
+ I am a casual OD user who downloads just a couple movies at a time. It&#x27;s not difficult to guess that I do a lot of Google searches to decide on what I want to download -- sometimes you can go through 20+ poorly reviewed movies before seeing something decent. I wanted something I can use to rule out bad mov…</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">An MSX site that links to a bunch of directories.</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://www.reddit.com/r/opendirectories/comments/ruud2t/an_msx_site_that_links_to_a_bunch_of_directories/">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(0 min)</span>
+                    <span>Just scroll down to enjoy this neat little rabbithole.
+ https://www.file-hunter.com
+    submitted by    /u/EmuAnon34  
+ [link]   [comments]</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">&quot;New Wave Theatre&quot; - Episodes 1 through 25: Internet Archive. Live music from the early 1980s on Night Flight</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://www.reddit.com/r/opendirectories/comments/ruqtl0/new_wave_theatre_episodes_1_through_25_internet/">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(0 min)</span>
+                    <span>submitted by    /u/FireHole  
+ [link]   [comments]</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+        </section>
+      </li>
+      <li class="source">
+        <section>
+          <h3 class="source-name"><a class="source-name__link" href="https://www.reddit.com/r/redteamsec/">Red Team Security</a></h3>
+          <section class="articles-per-source">
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">Optimizing Windows Function Resolving: A Case Study Into GetProcAddress - phasetw0</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://www.reddit.com/r/redteamsec/comments/rv2hn0/optimizing_windows_function_resolving_a_case/">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(0 min)</span>
+                    <span>submitted by    /u/dmchell  
+ [link]   [comments]</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">airbus-cert/Invoke-Bof: Load any Beacon Object File using Powershell!</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://www.reddit.com/r/redteamsec/comments/ruxbl4/airbuscertinvokebof_load_any_beacon_object_file/">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(0 min)</span>
+                    <span>submitted by    /u/dmchell  
+ [link]   [comments]</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+        </section>
+      </li>
+      <li class="source">
+        <section>
+          <h3 class="source-name"><a class="source-name__link" href="http://www.sec-wiki.com/">SecWiki News</a></h3>
+          <section class="articles-per-source">
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">SecWiki News 2022-01-03 Review</summary>
+                <a class="article-summary-link article-summary-box-outer" href="http://www.sec-wiki.com/?2022-01-03">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(2 min)</span>
+                    <span>SecWiki周刊（第409期)  by ourren
+QingScan: 漏洞扫描器粘合剂  by ourren
+更多最新文章，请访问SecWiki</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+        </section>
+      </li>
+    </ul>
+  </section>
+  <section class="daily-content">
     <h2 class="daily-heading"><time datatime="2022-01-02">2022-01-02</time></h2>
     <ul class="sources card">
       <li class="source">
@@ -1047,6 +2009,17 @@ Continue reading on Medium »</span>
           <section class="articles-per-source">
             <article>
               <details class="article-expander">
+                <summary class="article-expander__title">FreeBuf早报 | 京都大学77TB数据被误删；2022 年值得关注的5大网络安全趋势</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://www.freebuf.com/news/318107.html">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(1 min)</span>
+                    <span>日本京都大学在网站发布公告，由于惠普超级计算机的备份系统出现错误，学校丢失了大约 77TB的研究数据。</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
                 <summary class="article-expander__title">FreeBuf甲方群讨论 | 年度总结，甲方网安人的2021</summary>
                 <a class="article-summary-link article-summary-box-outer" href="https://www.freebuf.com/articles/neopoints/318045.html">
                   <div class="article-summary-box-inner">
@@ -1824,6 +2797,17 @@ Continue reading on Medium »</span>
                   <div class="article-summary-box-inner">
                     <span class="article-reading-time">(1 min)</span>
                     <span>中间人网络钓鱼工具包是不需要人工操作的实时网络钓鱼工具包，因为一切都是通过反向代理自动完成。</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">ThinkPHP5反序列化利用链总结与分析</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://www.freebuf.com/vuls/317886.html">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(6 min)</span>
+                    <span>本文将总结分析ThinkPHP5.0和5.1中的反序列化利用链，一方面以备不时之需，另一方面算是对php反序列化的深入学习。</span>
                   </div>
                 </a>
               </details>
@@ -16032,7 +17016,7 @@ The article illustrates, via fig 4, Powershell being used to add a printer port 
   </section>
 
   <footer>
-    <time id="build-timestamp" datetime="2022-01-03T01:08:19.014Z">2022-01-03T01:08:19.014Z</time>
+    <time id="build-timestamp" datetime="2022-01-04T01:09:13.545Z">2022-01-04T01:09:13.545Z</time>
     <span><a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.11.3</a></span>
   </footer>
   <script src="index.js"></script>
