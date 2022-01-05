@@ -2,10 +2,657 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cod3crash.github.io/sec-feed/index.html</id>
     <title>security feed</title>
-    <updated>2022-01-04T01:09:13.615Z</updated>
+    <updated>2022-01-05T01:11:14.097Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://cod3crash.github.io/sec-feed/index.html"/>
     <link rel="self" href="https://cod3crash.github.io/sec-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Investigating an employee]]></title>
+        <id>https://www.reddit.com/r/computerforensics/comments/rw9srq/investigating_an_employee/</id>
+        <link href="https://www.reddit.com/r/computerforensics/comments/rw9srq/investigating_an_employee/"/>
+        <updated>2022-01-05T00:59:06.000Z</updated>
+        <summary type="html"><![CDATA[Hello, Not sure if this is the correct location. If I'm to investigate an employee for not working during work hours, or someone with suspicious login activities, what common places will you be investigating?
+ E.g. checking browser histories. Physical security (login/logout time) Docs created on DMS (files opened, accessed, etc. Recently printed docs?
+ In other words, to know what a person is doing at work, what activities (or logs) should I be searching?
+    submitted by    /u/ram3nboy  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Computer Forensics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to change my public ip manually]]></title>
+        <id>https://www.reddit.com/r/AskNetsec/comments/rw8640/how_to_change_my_public_ip_manually/</id>
+        <link href="https://www.reddit.com/r/AskNetsec/comments/rw8640/how_to_change_my_public_ip_manually/"/>
+        <updated>2022-01-04T23:40:24.000Z</updated>
+        <summary type="html"><![CDATA[I already checked that my ip is dynamic but it seems to change every long time, does anyone know how to make it change manually?
+ I have already spent about 1 month and tried restarting the router but it did not work
+    submitted by    /u/Shark233F  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>AskNetsec</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Was I DDOS attacked?]]></title>
+        <id>https://www.reddit.com/r/AskNetsec/comments/rw81f0/was_i_ddos_attacked/</id>
+        <link href="https://www.reddit.com/r/AskNetsec/comments/rw81f0/was_i_ddos_attacked/"/>
+        <updated>2022-01-04T23:33:47.000Z</updated>
+        <summary type="html"><![CDATA[I was browsing the PHP files on a website and kept getting remote force disconnected, and after reconnecting a few times suddenly nothing would load, not even other sites like Google.
+ Switching over to a different network and going back to the site, it worked fine. Can't confirm but it also looked like the load on the entire previous network went up.
+ The acronyms start to run together with trying to differentiate DOS, DDOS, and DNS, DNS Flood, Ipv4, IPv6, and DDNS, so I'm wondering if this was a DDOS attack on my specific DNS. Did they try to flood the IP with traffic to stop connectivity to the internet, or was something else going on?
+ The website was public and anyone could see the stuff, but they must have been monitoring the traffic somehow and decided to disconnect what I was looking at, but after changing over networks everything was still up in the exact same place.
+ The network I was on was probably bigger than theirs, being some random site, and it didn't look like they brought down the whole network, so it's strange that even other sites wouldn't load.
+ I ran a WHOIS on the site and it turned out to be some Namecheap domain running on Cloudfare server registered under a fake address, and's only been up for about 14 months.
+    submitted by    /u/NoFilterr  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>AskNetsec</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Story Of How I Bypass MAC Filter]]></title>
+        <id>https://medium.com/p/fb7940feafd6</id>
+        <link href="https://medium.com/@zer0d/the-story-of-how-i-bypass-mac-filter-fb7940feafd6?source=rss------bugbounty-5"/>
+        <updated>2022-01-04T21:40:39.000Z</updated>
+        <summary type="html"><![CDATA[Hello everyone,
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>zer0d</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Day3, Computer Networks — 100DaysofHacking]]></title>
+        <id>https://medium.com/p/1f9734b80313</id>
+        <link href="https://infosecwriteups.com/day3-computer-networks-100daysofhacking-1f9734b80313?source=rss------bugbounty-5"/>
+        <updated>2022-01-04T21:32:51.000Z</updated>
+        <summary type="html"><![CDATA[Day1 : Installing Kali Linux
+Continue reading on InfoSec Write-ups »]]></summary>
+        <author>
+            <name>Ayush Verma</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[State-of-the-art models or techniques applies to InfoSec?]]></title>
+        <id>https://www.reddit.com/r/AskNetsec/comments/rw21o3/stateoftheart_models_or_techniques_applies_to/</id>
+        <link href="https://www.reddit.com/r/AskNetsec/comments/rw21o3/stateoftheart_models_or_techniques_applies_to/"/>
+        <updated>2022-01-04T19:08:15.000Z</updated>
+        <summary type="html"><![CDATA[Hello, I'd like to know about some good and innovative practices that you can't find in standard guidelines like the ISO 27001 for example.
+ The thing is, my company is stuck in the early 2000s with a Zero Trust policy for everything(which can be bypassed easily) and this is just a pain in the ass, no efficient at all considering it just makes workers being 100% dependent to IT for any requeriment
+ So I want to ask for your advice
+    submitted by    /u/Key-Clothes-152  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>AskNetsec</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[British Tv-Episodes of The Avengers, Bergerac, TOTP, The Professionals, Coronation Street, Dr Who. (1 seri Doomwatch, Dr Who (inferno)]]></title>
+        <id>https://www.reddit.com/r/opendirectories/comments/rw0nfq/british_tvepisodes_of_the_avengers_bergerac_totp/</id>
+        <link href="https://www.reddit.com/r/opendirectories/comments/rw0nfq/british_tvepisodes_of_the_avengers_bergerac_totp/"/>
+        <updated>2022-01-04T18:07:38.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/International_Milk_1  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Open Directories</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Accessing GoDaddy internal instance through an email logic bug.]]></title>
+        <id>https://medium.com/p/fdbea7b23542</id>
+        <link href="https://hector0x.medium.com/accessing-godaddy-internal-instance-through-an-email-logic-bug-fdbea7b23542?source=rss------bugbounty-5"/>
+        <updated>2022-01-04T17:28:50.000Z</updated>
+        <summary type="html"><![CDATA[Hey All,
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Mostafa Mamdoh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zscaler's Cloud Workload Communications protection]]></title>
+        <id>https://www.reddit.com/r/AskNetsec/comments/rvyunh/zscalers_cloud_workload_communications_protection/</id>
+        <link href="https://www.reddit.com/r/AskNetsec/comments/rvyunh/zscalers_cloud_workload_communications_protection/"/>
+        <updated>2022-01-04T16:50:24.000Z</updated>
+        <summary type="html"><![CDATA[Happy new Year everyone,
+ Wonder if anyone had any experience with this so far?
+ https://www.zscaler.com/press/zscaler-extends-its-proven-zero-trust-exchange-platform-deliver-zero-trust-workloads
+    submitted by    /u/killb0p  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>AskNetsec</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OPEN REDIRECT]]></title>
+        <id>https://hackerone.com/reports/1369806</id>
+        <link href="https://hackerone.com/reports/1369806"/>
+        <updated>2022-01-04T16:14:08.000Z</updated>
+        <summary type="html"><![CDATA[Nutanix disclosed a bug submitted by kauenavarro: https://hackerone.com/reports/1369806]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sears Garage Door Signal Reverse Engineering]]></title>
+        <id>https://www.reddit.com/r/netsec/comments/rvxpcm/sears_garage_door_signal_reverse_engineering/</id>
+        <link href="https://www.reddit.com/r/netsec/comments/rvxpcm/sears_garage_door_signal_reverse_engineering/"/>
+        <updated>2022-01-04T16:00:29.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/mdulin2  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>/r/netsec - Information Security News &amp; Discussion</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SecWiki News 2022-01-04 Review]]></title>
+        <id>http://www.sec-wiki.com/?2022-01-04</id>
+        <link href="http://www.sec-wiki.com/?2022-01-04"/>
+        <updated>2022-01-04T15:58:20.000Z</updated>
+        <summary type="html"><![CDATA[CodeAnalysis: 腾讯 Static Code Analysis   by ourren
+网络安全标准实践指南——网络数据分类分级指引  by ourren
+扛住100亿次红包请求的后端架构设计  by ourren
+更多最新文章，请访问SecWiki]]></summary>
+        <author>
+            <name>SecWiki News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top books to learn Android Hacking & Security]]></title>
+        <id>https://www.reddit.com/r/ExploitDev/comments/rvx8g0/top_books_to_learn_android_hacking_security/</id>
+        <link href="https://www.reddit.com/r/ExploitDev/comments/rvx8g0/top_books_to_learn_android_hacking_security/"/>
+        <updated>2022-01-04T15:40:17.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/pat_ventuzelo  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Exploit Development</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Buffer overflow in req_parsebody method in lua_request.c]]></title>
+        <id>https://hackerone.com/reports/1434056</id>
+        <link href="https://hackerone.com/reports/1434056"/>
+        <updated>2022-01-04T15:31:01.000Z</updated>
+        <summary type="html"><![CDATA[Internet Bug Bounty disclosed a bug submitted by chamal: https://hackerone.com/reports/1434056 - Bounty: $2000]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dr who literature]]></title>
+        <id>https://www.reddit.com/r/opendirectories/comments/rvvwka/dr_who_literature/</id>
+        <link href="https://www.reddit.com/r/opendirectories/comments/rvvwka/dr_who_literature/"/>
+        <updated>2022-01-04T14:41:21.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/International_Milk_1  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Open Directories</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Domain Persistence - AdminSDHolder]]></title>
+        <id>https://www.reddit.com/r/netsec/comments/rvtzc4/domain_persistence_adminsdholder/</id>
+        <link href="https://www.reddit.com/r/netsec/comments/rvtzc4/domain_persistence_adminsdholder/"/>
+        <updated>2022-01-04T13:07:11.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/netbiosX  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>/r/netsec - Information Security News &amp; Discussion</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to freely borrow all the TVL from the Jet Protocol]]></title>
+        <id>https://medium.com/p/25d40e35920e</id>
+        <link href="https://medium.com/@0xjayne/how-to-freely-borrow-all-the-tvl-from-the-jet-protocol-25d40e35920e?source=rss------bugbounty-5"/>
+        <updated>2022-01-04T13:04:34.000Z</updated>
+        <summary type="html"><![CDATA[Recently I discovered a critical vulnerability that could possibly lead to the loss of funds in the smart contract of Jet Protocol, a…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>jayne</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cache Poisoning at Scale]]></title>
+        <id>https://www.reddit.com/r/netsec/comments/rvtx65/cache_poisoning_at_scale/</id>
+        <link href="https://www.reddit.com/r/netsec/comments/rvtx65/cache_poisoning_at_scale/"/>
+        <updated>2022-01-04T13:03:54.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/albinowax  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>/r/netsec - Information Security News &amp; Discussion</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Channel for old british tv stuff, mostly it would seem for kids. eg Paddinngton bear, but also dads army, one foot in the grave, etc etc.]]></title>
+        <id>https://www.reddit.com/r/opendirectories/comments/rvtfk9/channel_for_old_british_tv_stuff_mostly_it_would/</id>
+        <link href="https://www.reddit.com/r/opendirectories/comments/rvtfk9/channel_for_old_british_tv_stuff_mostly_it_would/"/>
+        <updated>2022-01-04T12:36:41.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/International_Milk_1  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Open Directories</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Domain Persistence – AdminSDHolder]]></title>
+        <id>http://pentestlab.blog/?p=30104</id>
+        <link href="https://pentestlab.blog/2022/01/04/domain-persistence-adminsdholder/"/>
+        <updated>2022-01-04T12:33:00.000Z</updated>
+        <summary type="html"><![CDATA[Utilizing existing Microsoft features for offensive operations is very common during red team assessments as it provides the opportunity to blend in with the environment… 
+Continue reading → Domain Persistence – AdminSDHolder]]></summary>
+        <author>
+            <name>Administrator</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I have hundreds of *credible* books on corruption, parapolitics, economic warfare, propaganda, and state crimes. I’d like to share them but they are on an iCloud folder and too large to download. Is there anyway to transfer directly to Mega, please?]]></title>
+        <id>https://www.reddit.com/r/opendirectories/comments/rvt8jp/i_have_hundreds_of_credible_books_on_corruption/</id>
+        <link href="https://www.reddit.com/r/opendirectories/comments/rvt8jp/i_have_hundreds_of_credible_books_on_corruption/"/>
+        <updated>2022-01-04T12:25:46.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/Few_Tumbleweed7151  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Open Directories</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Smallish list of mostly Japanese movie and tv stuff. Some raw, some with english subs, some english dubs.]]></title>
+        <id>https://www.reddit.com/r/opendirectories/comments/rvt7vn/smallish_list_of_mostly_japanese_movie_and_tv/</id>
+        <link href="https://www.reddit.com/r/opendirectories/comments/rvt7vn/smallish_list_of_mostly_japanese_movie_and_tv/"/>
+        <updated>2022-01-04T12:24:42.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/International_Milk_1  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Open Directories</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Solving OSINT Dojo’s 2022’s first quiz]]></title>
+        <id>https://medium.com/p/c3b4d84e7433</id>
+        <link href="https://medium.com/@PretendNotToBe/solving-osint-dojos-2022-s-first-quiz-c3b4d84e7433?source=rss------osint-5"/>
+        <updated>2022-01-04T12:07:46.000Z</updated>
+        <summary type="html"><![CDATA[Today I am solving first 2022 quiz post by #OSINTDojo
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>PretendNotToBe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Claim: China operated black jail in Dubai — Open Source Analysis]]></title>
+        <id>https://medium.com/p/2bfa8c9be24a</id>
+        <link href="https://tompatrickjarvis.medium.com/claim-china-operated-black-jail-in-dubai-open-source-analysis-2bfa8c9be24a?source=rss------osint-5"/>
+        <updated>2022-01-04T12:01:25.000Z</updated>
+        <summary type="html"><![CDATA[In August 2021 Associated Press (AP) reported a claim that a Chinese woman was held at a “Chinese-run secret detention facility ” in Dubai
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Tom Jarvis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Misconfiguration OAuth Lead Account Takeover]]></title>
+        <id>https://medium.com/p/f695c6f44d6e</id>
+        <link href="https://human-error.medium.com/misconfiguration-oauth-lead-account-takeover-f695c6f44d6e?source=rss------bugbounty-5"/>
+        <updated>2022-01-04T11:38:00.000Z</updated>
+        <summary type="html"><![CDATA[Assalamuallaikum Wr.Wb Hello friends I want to explain about the bug bounty that I got in 2020, this vulnerability lies in the weak OAuth
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Galuh Muhammad Iman Akbar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Misconfiguration OAuth Lead Account Takeover]]></title>
+        <id>https://medium.com/p/f695c6f44d6e</id>
+        <link href="https://human-error.medium.com/misconfiguration-oauth-lead-account-takeover-f695c6f44d6e?source=rss------redteam-5"/>
+        <updated>2022-01-04T11:38:00.000Z</updated>
+        <summary type="html"><![CDATA[Assalamuallaikum Wr.Wb Hello friends I want to explain about the bug bounty that I got in 2020, this vulnerability lies in the weak OAuth
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Galuh Muhammad Iman Akbar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SQL Injection - The File Upload Playground]]></title>
+        <id>https://medium.com/p/6580b089d013</id>
+        <link href="https://shahjerry33.medium.com/sql-injection-the-file-upload-playground-6580b089d013?source=rss------bugbounty-5"/>
+        <updated>2022-01-04T11:31:04.000Z</updated>
+        <summary type="html"><![CDATA[Summary :
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Jerry Shah (Jerry)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Spotlight: Earn Bitcoin While Browsing The Web On Desktop And Mobile]]></title>
+        <id>https://medium.com/p/6512636addd3</id>
+        <link href="https://medium.com/@daniel.j.hunt/spotlight-earn-bitcoin-while-browsing-the-web-on-desktop-and-mobile-6512636addd3?source=rss------bugbounty-5"/>
+        <updated>2022-01-04T11:24:33.000Z</updated>
+        <summary type="html"><![CDATA[Is it too good to be true? Well, join me on my quest to find out.
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Daniel Hunt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[December 2021 update for Netsparker Standard 6.3]]></title>
+        <id>https://www.netsparker.com/blog/d5a2c7e2-813b-4031-97bc-eaaa52666fcc/</id>
+        <link href="https://www.netsparker.com/blog/releases/netsparker-standard-december-2021-update/"/>
+        <updated>2022-01-04T10:58:52.000Z</updated>
+        <summary type="html"><![CDATA[We’re delighted to announce the December 2021 update for Netsparker Standard 6.3. The highlights of this release are software composition analysis (SCA), the OWASP Top Ten 2021 Report, and support for scanning GraphQL APIs. READ MORE]]></summary>
+        <author>
+            <name>Tuncay Kayaoglu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FTP: Misc IBM software, marketing & training materials, annual reports, etc from 1994 to present]]></title>
+        <id>https://www.reddit.com/r/opendirectories/comments/rvroj8/ftp_misc_ibm_software_marketing_training/</id>
+        <link href="https://www.reddit.com/r/opendirectories/comments/rvroj8/ftp_misc_ibm_software_marketing_training/"/>
+        <updated>2022-01-04T10:53:46.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/xuvatilavv  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Open Directories</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FreeBuf 早报 | 葡萄牙最大媒体集团遭勒索攻击；以色列媒体在苏莱曼尼遇害纪念日遭攻击]]></title>
+        <id>https://www.freebuf.com/news/318407.html</id>
+        <link href="https://www.freebuf.com/news/318407.html"/>
+        <updated>2022-01-04T10:45:51.000Z</updated>
+        <summary type="html"><![CDATA[全球动态1.以色列媒体在苏莱曼尼遇害周年纪念日遭到黑客攻击在伊朗伊斯兰革命卫队指挥官苏莱曼尼遇害周年纪念日，威胁行为者入侵了以色列媒体《耶路撒冷邮报》英文网站和《晚祷报》 （Maariv）的推特帐户。 [外刊-阅读原文]2.希腊黑客“攻陷”NASA局长社交账号美国宇航局（NASA）局长 Parimal Kopardekar 个人 Twitter 账户遭遇希腊黑客入侵。黑客组织的一位发言人称，此次把]]></summary>
+        <author>
+            <name>FreeBuf网络安全行业门户</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[We all love MFA - is it a good idea to keep Google Authenticator addon in Chrome / Web Browser?]]></title>
+        <id>https://www.reddit.com/r/AskNetsec/comments/rvrjbt/we_all_love_mfa_is_it_a_good_idea_to_keep_google/</id>
+        <link href="https://www.reddit.com/r/AskNetsec/comments/rvrjbt/we_all_love_mfa_is_it_a_good_idea_to_keep_google/"/>
+        <updated>2022-01-04T10:44:23.000Z</updated>
+        <summary type="html"><![CDATA[I'm always thinking twice before installing any addon in my web browser. Very often removed it after I used it. However, there are addons designed to stay for longer. Like, google authenticator addon and alike.
+ Q: For sake of security, is it a good idea to keep Google Authenticator addon in chrome or just forget about it and stick to the smartphone / pass-manager?
+    submitted by    /u/bitsailor  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>AskNetsec</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Simple DLL that creates and adds an user to the local Administrators group]]></title>
+        <id>https://www.reddit.com/r/redteamsec/comments/rvr9ak/simple_dll_that_creates_and_adds_an_user_to_the/</id>
+        <link href="https://www.reddit.com/r/redteamsec/comments/rvr9ak/simple_dll_that_creates_and_adds_an_user_to_the/"/>
+        <updated>2022-01-04T10:26:02.000Z</updated>
+        <summary type="html"><![CDATA[A simple C++ DLL that creates and add a user to the Local #Administrator group. Useful when dealing with privilege escalation on Windows to gain local administrator access and do not care of opsec.
+ Repo: https://github.com/notdodo/adduser-dll
+    submitted by    /u/d_o_d_o_  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Red Team Security</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[doorLock: HomeKit DoS/semi-bricking Vulnerability (Via Home Invitation)]]></title>
+        <id>https://news.ycombinator.com/item?id=29793176</id>
+        <link href="https://twitter.com/trevorspiniolas/status/1477185285784051712"/>
+        <updated>2022-01-04T10:02:39.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://twitter.com/trevorspiniolas/status/1477185285784051712
+Comments URL: https://news.ycombinator.com/item?id=29793176
+Points: 2
+# Comments: 1]]></summary>
+        <author>
+            <name>jbverschoor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[%0A (New line) and limitness URL leads to DoS at all system [Main adress (https://www.acronis.com/)]]]></title>
+        <id>https://hackerone.com/reports/1382448</id>
+        <link href="https://hackerone.com/reports/1382448"/>
+        <updated>2022-01-04T09:47:15.000Z</updated>
+        <summary type="html"><![CDATA[Acronis disclosed a bug submitted by plantos: https://hackerone.com/reports/1382448]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2021年最值得关注的五大安全话题：你关心的均有上榜]]></title>
+        <id>https://www.freebuf.com/news/318387.html</id>
+        <link href="https://www.freebuf.com/news/318387.html"/>
+        <updated>2022-01-04T09:20:45.000Z</updated>
+        <summary type="html"><![CDATA[这或许表明在新的工作方式趋于“常态化”后，外界更热衷于关注网络犯罪的创新。]]></summary>
+        <author>
+            <name>FreeBuf网络安全行业门户</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Proxy scanning(xpost r/hacking)]]></title>
+        <id>https://www.reddit.com/r/AskNetsec/comments/rvq9ly/proxy_scanningxpost_rhacking/</id>
+        <link href="https://www.reddit.com/r/AskNetsec/comments/rvq9ly/proxy_scanningxpost_rhacking/"/>
+        <updated>2022-01-04T09:17:11.000Z</updated>
+        <summary type="html"><![CDATA[so i just started looking into 0.0.0.0/0 scanning and it has shown a lot of potential so far with application like zmap and zgrab, had a lot of fun joining random minecraft server, but i would like to explore a more practical, usefull you might say, approach. when i think of scanning the internet other than vulnerable DNS servers, i think about those looooong ass free proxy lists sitting there in the open. I know, i know those are not anonymous, but i was wondering, how the duck do they get those lists, they are obviously not their servers, and to add to that proxies often have random ports, how do you scan for a service that has random ports, even then if you find a server with a port 80 or 8080 it could just be an http server out there, how do you identify it is an actual proxy, banner perhaps?
+ ps: pls do not point out proprietary software or any if you can, i'm trying to learn here
+ (TL;DR) i want a proxy list, made by me, and im struggling, pls help
+    submitted by    /u/filippobob  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>AskNetsec</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[安全态势感知的前世今生]]></title>
+        <id>https://www.freebuf.com/articles/security-management/318288.html</id>
+        <link href="https://www.freebuf.com/articles/security-management/318288.html"/>
+        <updated>2022-01-04T08:24:20.000Z</updated>
+        <summary type="html"><![CDATA[安全态势感知的出现是国家安全战略发展的必然。]]></summary>
+        <author>
+            <name>FreeBuf网络安全行业门户</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DNS重绑定攻击研究]]></title>
+        <id>https://www.freebuf.com/articles/web/318273.html</id>
+        <link href="https://www.freebuf.com/articles/web/318273.html"/>
+        <updated>2022-01-04T08:05:24.000Z</updated>
+        <summary type="html"><![CDATA[每点击一个可疑的链接，DNS重绑定攻击除了利用存在DNS重绑定漏洞的应用外，甚至可能会导致攻击者瞬间控制你连接家庭网络的其它互联设备。]]></summary>
+        <author>
+            <name>FreeBuf网络安全行业门户</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Broward Health 披露影响 130 多万人的数据泄露事件]]></title>
+        <id>https://www.freebuf.com/articles/318268.html</id>
+        <link href="https://www.freebuf.com/articles/318268.html"/>
+        <updated>2022-01-04T07:55:02.000Z</updated>
+        <summary type="html"><![CDATA[值得注意的是，入侵点被确定为第三方医疗提供商，该提供商通过接入医疗系统提供服务，因此拥有一定的访问权限。]]></summary>
+        <author>
+            <name>FreeBuf网络安全行业门户</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Suricata: anomaly-based detection?]]></title>
+        <id>https://www.reddit.com/r/AskNetsec/comments/rvojo3/suricata_anomalybased_detection/</id>
+        <link href="https://www.reddit.com/r/AskNetsec/comments/rvojo3/suricata_anomalybased_detection/"/>
+        <updated>2022-01-04T07:18:59.000Z</updated>
+        <summary type="html"><![CDATA[i tried Googling this, but am getting mixed messaging. It's signature based, but can detect anomalies?
+    submitted by    /u/albertcuy  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>AskNetsec</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[tcpdump: how to keep packets that contain a substring only]]></title>
+        <id>https://www.reddit.com/r/AskNetsec/comments/rvo8jb/tcpdump_how_to_keep_packets_that_contain_a/</id>
+        <link href="https://www.reddit.com/r/AskNetsec/comments/rvo8jb/tcpdump_how_to_keep_packets_that_contain_a/"/>
+        <updated>2022-01-04T06:59:17.000Z</updated>
+        <summary type="html"><![CDATA[I have the following tcpdump command: sudo tcpdump -i eth0 -nn -A -s 65535 -w somepackets2.cap "(port not 443) && (less 15) && (tcp) && (greater 30)", but I want to add on another "and" condition that keeps only packets that contain "mysubstring". How can I do that?
+    submitted by    /u/social-bleach  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>AskNetsec</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[希腊黑客“攻陷”NASA局长社交账号]]></title>
+        <id>https://www.freebuf.com/news/318227.html</id>
+        <link href="https://www.freebuf.com/news/318227.html"/>
+        <updated>2022-01-04T06:34:10.000Z</updated>
+        <summary type="html"><![CDATA[美国宇航局（NASA）局长Parimal Kopardekar的Twitter账户遭遇希腊黑客入侵。]]></summary>
+        <author>
+            <name>FreeBuf网络安全行业门户</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Previse from HackTheBox — Detailed Walkthrough]]></title>
+        <id>https://medium.com/p/97ece9bba884</id>
+        <link href="https://infosecwriteups.com/previse-from-hackthebox-detailed-walkthrough-97ece9bba884?source=rss----7b722bfd1b8d---4"/>
+        <updated>2022-01-04T06:14:50.000Z</updated>
+        <summary type="html"><![CDATA[Showing all the tools and techniques needed to complete the box.
+Continue reading on InfoSec Write-ups »]]></summary>
+        <author>
+            <name>Pencer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Previse from HackTheBox — Detailed Walkthrough]]></title>
+        <id>https://medium.com/p/97ece9bba884</id>
+        <link href="https://infosecwriteups.com/previse-from-hackthebox-detailed-walkthrough-97ece9bba884?source=rss----7b722bfd1b8d---4"/>
+        <updated>2022-01-04T06:14:50.000Z</updated>
+        <summary type="html"><![CDATA[Showing all the tools and techniques needed to complete the box.
+Continue reading on InfoSec Write-ups »]]></summary>
+        <author>
+            <name>Pencer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TryHackme — Cross-Site Scripting]]></title>
+        <id>https://medium.com/p/bcb7c876ae6a</id>
+        <link href="https://infosecwriteups.com/tryhackme-cross-site-scripting-bcb7c876ae6a?source=rss----7b722bfd1b8d---4"/>
+        <updated>2022-01-04T06:13:38.000Z</updated>
+        <summary type="html"><![CDATA[Malicious Script Injection]]></summary>
+        <author>
+            <name>Mukilan Baskaran</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TryHackme — Cross-Site Scripting]]></title>
+        <id>https://medium.com/p/bcb7c876ae6a</id>
+        <link href="https://infosecwriteups.com/tryhackme-cross-site-scripting-bcb7c876ae6a?source=rss----7b722bfd1b8d---4"/>
+        <updated>2022-01-04T06:13:38.000Z</updated>
+        <summary type="html"><![CDATA[Malicious Script Injection]]></summary>
+        <author>
+            <name>Mukilan Baskaran</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Proof of concept: zero-day- log4j RCE]]></title>
+        <id>https://medium.com/p/fb9e1364fe92</id>
+        <link href="https://infosecwriteups.com/proof-of-concept-zero-day-log4j-rce-fb9e1364fe92?source=rss----7b722bfd1b8d---4"/>
+        <updated>2022-01-04T06:12:33.000Z</updated>
+        <summary type="html"><![CDATA[What is log4j?]]></summary>
+        <author>
+            <name>Yuvarajan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Proof of concept: zero-day- log4j RCE]]></title>
+        <id>https://medium.com/p/fb9e1364fe92</id>
+        <link href="https://infosecwriteups.com/proof-of-concept-zero-day-log4j-rce-fb9e1364fe92?source=rss----7b722bfd1b8d---4"/>
+        <updated>2022-01-04T06:12:33.000Z</updated>
+        <summary type="html"><![CDATA[What is log4j?]]></summary>
+        <author>
+            <name>Yuvarajan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OWASP-Access Control Vulnerability]]></title>
+        <id>https://medium.com/p/611278b0d401</id>
+        <link href="https://infosecwriteups.com/owasp-access-control-vulnerability-611278b0d401?source=rss----7b722bfd1b8d---4"/>
+        <updated>2022-01-04T06:12:25.000Z</updated>
+        <summary type="html"><![CDATA[This article is going to focus on Access control security and Broken Access control, it will summarize the thoughts, procedures and…]]></summary>
+        <author>
+            <name>Sagar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OWASP-Access Control Vulnerability]]></title>
+        <id>https://medium.com/p/611278b0d401</id>
+        <link href="https://infosecwriteups.com/owasp-access-control-vulnerability-611278b0d401?source=rss----7b722bfd1b8d---4"/>
+        <updated>2022-01-04T06:12:25.000Z</updated>
+        <summary type="html"><![CDATA[This article is going to focus on Access control security and Broken Access control, it will summarize the thoughts, procedures and…]]></summary>
+        <author>
+            <name>Sagar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[应急响应之外联请求分析]]></title>
+        <id>https://www.freebuf.com/articles/system/318210.html</id>
+        <link href="https://www.freebuf.com/articles/system/318210.html"/>
+        <updated>2022-01-04T03:49:17.000Z</updated>
+        <summary type="html"><![CDATA[针对DNS恶意请求解析事件进行处理分析]]></summary>
+        <author>
+            <name>FreeBuf网络安全行业门户</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[苹果iOS曝doorLock漏洞，能让手机“变砖”]]></title>
+        <id>https://www.freebuf.com/articles/318193.html</id>
+        <link href="https://www.freebuf.com/articles/318193.html"/>
+        <updated>2022-01-04T03:05:45.000Z</updated>
+        <summary type="html"><![CDATA[在Apple HomeKit 中发现了一个名为“doorLock”的新型持续拒绝服务漏洞，影响的系统版本从IOS14.7到IOS15.2。]]></summary>
+        <author>
+            <name>FreeBuf网络安全行业门户</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[网信办等四部门发布《互联网信息服务算法推荐管理规定》]]></title>
+        <id>https://www.freebuf.com/news/318192.html</id>
+        <link href="https://www.freebuf.com/news/318192.html"/>
+        <updated>2022-01-04T03:00:34.000Z</updated>
+        <summary type="html"><![CDATA[《规定》明确“应用算法推荐技术”，是指利用生成合成类、个性化推送类、排序精选类、检索过滤类、调度决策类等算法技术向用户提供信息。]]></summary>
+        <author>
+            <name>FreeBuf网络安全行业门户</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BSG Battlestar Galactica 720p Complete 2003-2012 Extras Subs]]></title>
+        <id>https://www.reddit.com/r/opendirectories/comments/rvjjys/bsg_battlestar_galactica_720p_complete_20032012/</id>
+        <link href="https://www.reddit.com/r/opendirectories/comments/rvjjys/bsg_battlestar_galactica_720p_complete_20032012/"/>
+        <updated>2022-01-04T02:47:52.000Z</updated>
+        <summary type="html"><![CDATA[http://37.187.18.191/tv/BSG%20Battlestar%20Galactica%20720p%20Complete%202003-2012%20Extras%20Subs/
+    submitted by    /u/SeniorAlbatross  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Open Directories</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[十三部门修订发布《网络安全审查办法》，2022年2月15日施行]]></title>
+        <id>https://www.freebuf.com/news/318187.html</id>
+        <link href="https://www.freebuf.com/news/318187.html"/>
+        <updated>2022-01-04T02:26:23.000Z</updated>
+        <summary type="html"><![CDATA[《办法》明确掌握超过100万用户个人信息的网络平台运营者赴国外上市必须向网络安全审查办公室申报网络安全审查。]]></summary>
+        <author>
+            <name>FreeBuf网络安全行业门户</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2021勒索病毒大盘点]]></title>
+        <id>https://www.freebuf.com/news/318183.html</id>
+        <link href="https://www.freebuf.com/news/318183.html"/>
+        <updated>2022-01-04T02:08:42.000Z</updated>
+        <summary type="html"><![CDATA[勒索病毒为何有这么大的能量，让所有行业“谈虎色变”？面对勒索病毒，难道只能“躺平”？]]></summary>
+        <author>
+            <name>FreeBuf网络安全行业门户</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[实战中的越权攻击总结]]></title>
+        <id>https://www.freebuf.com/vuls/313396.html</id>
+        <link href="https://www.freebuf.com/vuls/313396.html"/>
+        <updated>2022-01-04T01:37:36.000Z</updated>
+        <summary type="html"><![CDATA[本篇是对今年渗透测试遇到的越权攻击进行一下总结，各位师傅共同学习，若有不足或建议，也望大家及时提出。]]></summary>
+        <author>
+            <name>FreeBuf网络安全行业门户</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Anime Fansubs]]></title>
         <id>https://www.reddit.com/r/opendirectories/comments/rvhddg/anime_fansubs/</id>
@@ -238,6 +885,17 @@ Continue reading on Medium »]]></summary>
  [link]   [comments]]]></summary>
         <author>
             <name>Computer Forensics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Beginner's Story on How a Cheapo Standard Issue Router was hacked.]]></title>
+        <id>https://www.reddit.com/r/netsec/comments/rv8e72/a_beginners_story_on_how_a_cheapo_standard_issue/</id>
+        <link href="https://www.reddit.com/r/netsec/comments/rv8e72/a_beginners_story_on_how_a_cheapo_standard_issue/"/>
+        <updated>2022-01-03T18:28:52.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/secnigma  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>/r/netsec - Information Security News &amp; Discussion</name>
         </author>
     </entry>
     <entry>
@@ -544,6 +1202,16 @@ Continue reading on Medium »]]></summary>
  [link]   [comments]]]></summary>
         <author>
             <name>/r/netsec - Information Security News &amp; Discussion</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[跨平台网络安全工具套件CaptfEncoder v3.0.1]]></title>
+        <id>https://www.freebuf.com/sectool/316922.html</id>
+        <link href="https://www.freebuf.com/sectool/316922.html"/>
+        <updated>2022-01-03T07:59:35.000Z</updated>
+        <summary type="html"><![CDATA[CaptfEncoder 是一款跨平台网络安全工具套件，V3 版本使用Rust开发，可执行程序体积小，速度更快、性能更优、功能更强。]]></summary>
+        <author>
+            <name>FreeBuf网络安全行业门户</name>
         </author>
     </entry>
     <entry>
@@ -1435,6 +2103,16 @@ Continue reading on Pentester Nepal »]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[如何使用ChopChop扫描终端并识别暴露的敏感内容]]></title>
+        <id>https://www.freebuf.com/articles/endpoint/318125.html</id>
+        <link href="https://www.freebuf.com/articles/endpoint/318125.html"/>
+        <updated>2022-01-01T01:34:41.000Z</updated>
+        <summary type="html"><![CDATA[帮助广大研究人员针对Web应用程序进行动态应用程序测试。]]></summary>
+        <author>
+            <name>FreeBuf网络安全行业门户</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[iron maiden alnums zipped -(SEE COMMENT for content.) Happy new year everybody]]></title>
         <id>https://www.reddit.com/r/opendirectories/comments/rt7f8g/iron_maiden_alnums_zipped_see_comment_for_content/</id>
         <link href="https://www.reddit.com/r/opendirectories/comments/rt7f8g/iron_maiden_alnums_zipped_see_comment_for_content/"/>
@@ -1869,6 +2547,16 @@ Continue reading on Towards AWS »]]></summary>
         <link href="https://www.freebuf.com/articles/neopoints/318030.html"/>
         <updated>2021-12-31T05:14:45.000Z</updated>
         <summary type="html"><![CDATA[与其将安全性推迟到以后，不如让它成为开发过程的核心部分。]]></summary>
+        <author>
+            <name>FreeBuf网络安全行业门户</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[渗透测试之地基服务篇：服务攻防之框架Struts2（上）]]></title>
+        <id>https://www.freebuf.com/articles/web/318028.html</id>
+        <link href="https://www.freebuf.com/articles/web/318028.html"/>
+        <updated>2021-12-31T05:09:01.000Z</updated>
+        <summary type="html"><![CDATA[Struts2是apache项目下的一个web 框架，普遍应用于阿里巴巴、京东等互联网、政府、企业门户网站。]]></summary>
         <author>
             <name>FreeBuf网络安全行业门户</name>
         </author>
@@ -12721,16 +13409,6 @@ The article illustrates, via fig 4, Powershell being used to add a printer port 
         <link href="https://portswigger.net/blog/burp-suite-roadmap-for-2021"/>
         <updated>2021-01-25T14:23:50.000Z</updated>
         <summary type="html"><![CDATA[This roadmap has now been updated. Please see our July 2021 roadmap update. We’re all hoping that 2021 will prove to be a better year for humanity. And we’re also planning a great year for Burp Suite!]]></summary>
-        <author>
-            <name>PortSwigger Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hack your APIs: interview with Corey Ball - API security expert]]></title>
-        <id>hack-your-apis-interview-with-corey-ball-api-security-expert</id>
-        <link href="https://portswigger.net/blog/hack-your-apis-interview-with-corey-ball-api-security-expert"/>
-        <updated>2021-01-04T16:52:18.000Z</updated>
-        <summary type="html"><![CDATA[Corey Ball is a Cybersecurity Consulting Manager, and author of the forthcoming book Hacking APIs (working title - No Starch Press). As well as being a long-time API hacking enthusiast, Corey’s role g]]></summary>
         <author>
             <name>PortSwigger Blog</name>
         </author>

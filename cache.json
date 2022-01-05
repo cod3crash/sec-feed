@@ -6,6 +6,33 @@
       "siteUrl": "http://h1.nobbd.de/",
       "articles": [
         {
+          "id": "https://hackerone.com/reports/1369806",
+          "author": null,
+          "description": "Nutanix disclosed a bug submitted by kauenavarro: https://hackerone.com/reports/1369806",
+          "link": "https://hackerone.com/reports/1369806",
+          "publishedOn": "2022-01-04T16:14:08.000Z",
+          "wordCount": 25,
+          "title": "OPEN REDIRECT"
+        },
+        {
+          "id": "https://hackerone.com/reports/1434056",
+          "author": null,
+          "description": "Internet Bug Bounty disclosed a bug submitted by chamal: https://hackerone.com/reports/1434056 - Bounty: $2000",
+          "link": "https://hackerone.com/reports/1434056",
+          "publishedOn": "2022-01-04T15:31:01.000Z",
+          "wordCount": 25,
+          "title": "Buffer overflow in req_parsebody method in lua_request.c"
+        },
+        {
+          "id": "https://hackerone.com/reports/1382448",
+          "author": null,
+          "description": "Acronis disclosed a bug submitted by plantos: https://hackerone.com/reports/1382448",
+          "link": "https://hackerone.com/reports/1382448",
+          "publishedOn": "2022-01-04T09:47:15.000Z",
+          "wordCount": 25,
+          "title": "%0A (New line) and limitness URL leads to DoS at all system [Main adress (https://www.acronis.com/)]"
+        },
+        {
           "id": "https://hackerone.com/reports/1429014",
           "author": null,
           "description": "U.S. Dept Of Defense disclosed a bug submitted by mr_x_strange: https://hackerone.com/reports/1429014",
@@ -1129,6 +1156,42 @@
       "siteUrl": "https://infosecwriteups.com?source=rss----7b722bfd1b8d---4",
       "articles": [
         {
+          "id": "https://medium.com/p/97ece9bba884",
+          "author": "Pencer",
+          "description": "Showing all the tools and techniques needed to complete the box.\nContinue reading on InfoSec Write-ups »",
+          "link": "https://infosecwriteups.com/previse-from-hackthebox-detailed-walkthrough-97ece9bba884?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2022-01-04T06:14:50.000Z",
+          "wordCount": 1525,
+          "title": "Previse from HackTheBox — Detailed Walkthrough"
+        },
+        {
+          "id": "https://medium.com/p/bcb7c876ae6a",
+          "author": "Mukilan Baskaran",
+          "description": "Malicious Script Injection",
+          "link": "https://infosecwriteups.com/tryhackme-cross-site-scripting-bcb7c876ae6a?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2022-01-04T06:13:38.000Z",
+          "wordCount": 843,
+          "title": "TryHackme — Cross-Site Scripting"
+        },
+        {
+          "id": "https://medium.com/p/fb9e1364fe92",
+          "author": "Yuvarajan",
+          "description": "What is log4j?",
+          "link": "https://infosecwriteups.com/proof-of-concept-zero-day-log4j-rce-fb9e1364fe92?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2022-01-04T06:12:33.000Z",
+          "wordCount": 904,
+          "title": "Proof of concept: zero-day- log4j RCE"
+        },
+        {
+          "id": "https://medium.com/p/611278b0d401",
+          "author": "Sagar",
+          "description": "This article is going to focus on Access control security and Broken Access control, it will summarize the thoughts, procedures and…",
+          "link": "https://infosecwriteups.com/owasp-access-control-vulnerability-611278b0d401?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2022-01-04T06:12:25.000Z",
+          "wordCount": 1671,
+          "title": "OWASP-Access Control Vulnerability"
+        },
+        {
           "id": "https://medium.com/p/5dd97152e8b1",
           "author": "Mohamed Mostafa",
           "description": "Features:",
@@ -1513,6 +1576,69 @@
       "feedUrl": "https://medium.com/feed/tag/bugbounty",
       "siteUrl": "https://medium.com/tag/bugbounty/latest?source=rss------bugbounty-5",
       "articles": [
+        {
+          "id": "https://medium.com/p/fb7940feafd6",
+          "author": "zer0d",
+          "description": "Hello everyone,\nContinue reading on Medium »",
+          "link": "https://medium.com/@zer0d/the-story-of-how-i-bypass-mac-filter-fb7940feafd6?source=rss------bugbounty-5",
+          "publishedOn": "2022-01-04T21:40:39.000Z",
+          "wordCount": 689,
+          "title": "The Story Of How I Bypass MAC Filter"
+        },
+        {
+          "id": "https://medium.com/p/1f9734b80313",
+          "author": "Ayush Verma",
+          "description": "Day1 : Installing Kali Linux\nContinue reading on InfoSec Write-ups »",
+          "link": "https://infosecwriteups.com/day3-computer-networks-100daysofhacking-1f9734b80313?source=rss------bugbounty-5",
+          "publishedOn": "2022-01-04T21:32:51.000Z",
+          "wordCount": 958,
+          "title": "Day3, Computer Networks — 100DaysofHacking"
+        },
+        {
+          "id": "https://medium.com/p/fdbea7b23542",
+          "author": "Mostafa Mamdoh",
+          "description": "Hey All,\nContinue reading on Medium »",
+          "link": "https://hector0x.medium.com/accessing-godaddy-internal-instance-through-an-email-logic-bug-fdbea7b23542?source=rss------bugbounty-5",
+          "publishedOn": "2022-01-04T17:28:50.000Z",
+          "wordCount": 565,
+          "title": "Accessing GoDaddy internal instance through an email logic bug."
+        },
+        {
+          "id": "https://medium.com/p/25d40e35920e",
+          "author": "jayne",
+          "description": "Recently I discovered a critical vulnerability that could possibly lead to the loss of funds in the smart contract of Jet Protocol, a…\nContinue reading on Medium »",
+          "link": "https://medium.com/@0xjayne/how-to-freely-borrow-all-the-tvl-from-the-jet-protocol-25d40e35920e?source=rss------bugbounty-5",
+          "publishedOn": "2022-01-04T13:04:34.000Z",
+          "wordCount": 833,
+          "title": "How to freely borrow all the TVL from the Jet Protocol"
+        },
+        {
+          "id": "https://medium.com/p/f695c6f44d6e",
+          "author": "Galuh Muhammad Iman Akbar",
+          "description": "Assalamuallaikum Wr.Wb Hello friends I want to explain about the bug bounty that I got in 2020, this vulnerability lies in the weak OAuth\nContinue reading on Medium »",
+          "link": "https://human-error.medium.com/misconfiguration-oauth-lead-account-takeover-f695c6f44d6e?source=rss------bugbounty-5",
+          "publishedOn": "2022-01-04T11:38:00.000Z",
+          "wordCount": 339,
+          "title": "Misconfiguration OAuth Lead Account Takeover"
+        },
+        {
+          "id": "https://medium.com/p/6580b089d013",
+          "author": "Jerry Shah (Jerry)",
+          "description": "Summary :\nContinue reading on Medium »",
+          "link": "https://shahjerry33.medium.com/sql-injection-the-file-upload-playground-6580b089d013?source=rss------bugbounty-5",
+          "publishedOn": "2022-01-04T11:31:04.000Z",
+          "wordCount": 1020,
+          "title": "SQL Injection - The File Upload Playground"
+        },
+        {
+          "id": "https://medium.com/p/6512636addd3",
+          "author": "Daniel Hunt",
+          "description": "Is it too good to be true? Well, join me on my quest to find out.\nContinue reading on Medium »",
+          "link": "https://medium.com/@daniel.j.hunt/spotlight-earn-bitcoin-while-browsing-the-web-on-desktop-and-mobile-6512636addd3?source=rss------bugbounty-5",
+          "publishedOn": "2022-01-04T11:24:33.000Z",
+          "wordCount": 107,
+          "title": "Spotlight: Earn Bitcoin While Browsing The Web On Desktop And Mobile"
+        },
         {
           "id": "https://medium.com/p/2f89cc9669a2",
           "author": "Themistocles",
@@ -2250,6 +2376,15 @@
       "siteUrl": "https://medium.com/tag/redteam/latest?source=rss------redteam-5",
       "articles": [
         {
+          "id": "https://medium.com/p/f695c6f44d6e",
+          "author": "Galuh Muhammad Iman Akbar",
+          "description": "Assalamuallaikum Wr.Wb Hello friends I want to explain about the bug bounty that I got in 2020, this vulnerability lies in the weak OAuth\nContinue reading on Medium »",
+          "link": "https://human-error.medium.com/misconfiguration-oauth-lead-account-takeover-f695c6f44d6e?source=rss------redteam-5",
+          "publishedOn": "2022-01-04T11:38:00.000Z",
+          "wordCount": 336,
+          "title": "Misconfiguration OAuth Lead Account Takeover"
+        },
+        {
           "id": "https://medium.com/p/885689ef3ab0",
           "author": "arkendemon",
           "description": "Introduction\nContinue reading on Medium »",
@@ -2409,6 +2544,42 @@
       "feedUrl": "https://medium.com/feed/bugbountywriteup",
       "siteUrl": "https://infosecwriteups.com?source=rss----7b722bfd1b8d---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/97ece9bba884",
+          "author": "Pencer",
+          "description": "Showing all the tools and techniques needed to complete the box.\nContinue reading on InfoSec Write-ups »",
+          "link": "https://infosecwriteups.com/previse-from-hackthebox-detailed-walkthrough-97ece9bba884?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2022-01-04T06:14:50.000Z",
+          "wordCount": 1525,
+          "title": "Previse from HackTheBox — Detailed Walkthrough"
+        },
+        {
+          "id": "https://medium.com/p/bcb7c876ae6a",
+          "author": "Mukilan Baskaran",
+          "description": "Malicious Script Injection",
+          "link": "https://infosecwriteups.com/tryhackme-cross-site-scripting-bcb7c876ae6a?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2022-01-04T06:13:38.000Z",
+          "wordCount": 843,
+          "title": "TryHackme — Cross-Site Scripting"
+        },
+        {
+          "id": "https://medium.com/p/fb9e1364fe92",
+          "author": "Yuvarajan",
+          "description": "What is log4j?",
+          "link": "https://infosecwriteups.com/proof-of-concept-zero-day-log4j-rce-fb9e1364fe92?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2022-01-04T06:12:33.000Z",
+          "wordCount": 904,
+          "title": "Proof of concept: zero-day- log4j RCE"
+        },
+        {
+          "id": "https://medium.com/p/611278b0d401",
+          "author": "Sagar",
+          "description": "This article is going to focus on Access control security and Broken Access control, it will summarize the thoughts, procedures and…",
+          "link": "https://infosecwriteups.com/owasp-access-control-vulnerability-611278b0d401?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2022-01-04T06:12:25.000Z",
+          "wordCount": 1671,
+          "title": "OWASP-Access Control Vulnerability"
+        },
         {
           "id": "https://medium.com/p/5dd97152e8b1",
           "author": "Mohamed Mostafa",
@@ -2794,6 +2965,24 @@
       "feedUrl": "https://medium.com/feed/tag/osint",
       "siteUrl": "https://medium.com/tag/osint/latest?source=rss------osint-5",
       "articles": [
+        {
+          "id": "https://medium.com/p/c3b4d84e7433",
+          "author": "PretendNotToBe",
+          "description": "Today I am solving first 2022 quiz post by #OSINTDojo\nContinue reading on Medium »",
+          "link": "https://medium.com/@PretendNotToBe/solving-osint-dojos-2022-s-first-quiz-c3b4d84e7433?source=rss------osint-5",
+          "publishedOn": "2022-01-04T12:07:46.000Z",
+          "wordCount": 462,
+          "title": "Solving OSINT Dojo’s 2022’s first quiz"
+        },
+        {
+          "id": "https://medium.com/p/2bfa8c9be24a",
+          "author": "Tom Jarvis",
+          "description": "In August 2021 Associated Press (AP) reported a claim that a Chinese woman was held at a “Chinese-run secret detention facility ” in Dubai\nContinue reading on Medium »",
+          "link": "https://tompatrickjarvis.medium.com/claim-china-operated-black-jail-in-dubai-open-source-analysis-2bfa8c9be24a?source=rss------osint-5",
+          "publishedOn": "2022-01-04T12:01:25.000Z",
+          "wordCount": 1186,
+          "title": "Claim: China operated black jail in Dubai — Open Source Analysis"
+        },
         {
           "id": "https://medium.com/p/d9d418ad115d",
           "author": "Jasmine Jackson",
@@ -3935,6 +4124,15 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=29793176",
+          "author": "jbverschoor",
+          "description": "Article URL: https://twitter.com/trevorspiniolas/status/1477185285784051712\nComments URL: https://news.ycombinator.com/item?id=29793176\nPoints: 2\n# Comments: 1",
+          "link": "https://twitter.com/trevorspiniolas/status/1477185285784051712",
+          "publishedOn": "2022-01-04T10:02:39.000Z",
+          "wordCount": 196,
+          "title": "doorLock: HomeKit DoS/semi-bricking Vulnerability (Via Home Invitation)"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=29782471",
           "author": "breadchris",
           "description": "Article URL: https://www.lunasec.io/docs/blog/log4j-hype-train/\nComments URL: https://news.ycombinator.com/item?id=29782471\nPoints: 2\n# Comments: 0",
@@ -4230,6 +4428,132 @@
       "siteUrl": "https://www.freebuf.com",
       "articles": [
         {
+          "id": "https://www.freebuf.com/news/318407.html",
+          "author": null,
+          "description": "全球动态1.以色列媒体在苏莱曼尼遇害周年纪念日遭到黑客攻击在伊朗伊斯兰革命卫队指挥官苏莱曼尼遇害周年纪念日，威胁行为者入侵了以色列媒体《耶路撒冷邮报》英文网站和《晚祷报》 （Maariv）的推特帐户。 [外刊-阅读原文]2.希腊黑客“攻陷”NASA局长社交账号美国宇航局（NASA）局长 Parimal Kopardekar 个人 Twitter 账户遭遇希腊黑客入侵。黑客组织的一位发言人称，此次把",
+          "link": "https://www.freebuf.com/news/318407.html",
+          "publishedOn": "2022-01-04T10:45:51.000Z",
+          "wordCount": 190,
+          "title": "FreeBuf 早报 | 葡萄牙最大媒体集团遭勒索攻击；以色列媒体在苏莱曼尼遇害纪念日遭攻击"
+        },
+        {
+          "id": "https://www.freebuf.com/news/318387.html",
+          "author": null,
+          "description": "这或许表明在新的工作方式趋于“常态化”后，外界更热衷于关注网络犯罪的创新。",
+          "link": "https://www.freebuf.com/news/318387.html",
+          "publishedOn": "2022-01-04T09:20:45.000Z",
+          "wordCount": 366,
+          "title": "2021年最值得关注的五大安全话题：你关心的均有上榜"
+        },
+        {
+          "id": "https://www.freebuf.com/articles/security-management/318288.html",
+          "author": null,
+          "description": "安全态势感知的出现是国家安全战略发展的必然。",
+          "link": "https://www.freebuf.com/articles/security-management/318288.html",
+          "publishedOn": "2022-01-04T08:24:20.000Z",
+          "wordCount": 159,
+          "title": "安全态势感知的前世今生"
+        },
+        {
+          "id": "https://www.freebuf.com/articles/web/318273.html",
+          "author": null,
+          "description": "每点击一个可疑的链接，DNS重绑定攻击除了利用存在DNS重绑定漏洞的应用外，甚至可能会导致攻击者瞬间控制你连接家庭网络的其它互联设备。",
+          "link": "https://www.freebuf.com/articles/web/318273.html",
+          "publishedOn": "2022-01-04T08:05:24.000Z",
+          "wordCount": 169,
+          "title": "DNS重绑定攻击研究"
+        },
+        {
+          "id": "https://www.freebuf.com/articles/318268.html",
+          "author": null,
+          "description": "值得注意的是，入侵点被确定为第三方医疗提供商，该提供商通过接入医疗系统提供服务，因此拥有一定的访问权限。",
+          "link": "https://www.freebuf.com/articles/318268.html",
+          "publishedOn": "2022-01-04T07:55:02.000Z",
+          "wordCount": 175,
+          "title": "Broward Health 披露影响 130 多万人的数据泄露事件"
+        },
+        {
+          "id": "https://www.freebuf.com/news/318227.html",
+          "author": null,
+          "description": "美国宇航局（NASA）局长Parimal Kopardekar的Twitter账户遭遇希腊黑客入侵。",
+          "link": "https://www.freebuf.com/news/318227.html",
+          "publishedOn": "2022-01-04T06:34:10.000Z",
+          "wordCount": 155,
+          "title": "希腊黑客“攻陷”NASA局长社交账号"
+        },
+        {
+          "id": "https://www.freebuf.com/articles/system/318210.html",
+          "author": null,
+          "description": "针对DNS恶意请求解析事件进行处理分析",
+          "link": "https://www.freebuf.com/articles/system/318210.html",
+          "publishedOn": "2022-01-04T03:49:17.000Z",
+          "wordCount": 178,
+          "title": "应急响应之外联请求分析"
+        },
+        {
+          "id": "https://www.freebuf.com/articles/318193.html",
+          "author": null,
+          "description": "在Apple HomeKit 中发现了一个名为“doorLock”的新型持续拒绝服务漏洞，影响的系统版本从IOS14.7到IOS15.2。",
+          "link": "https://www.freebuf.com/articles/318193.html",
+          "publishedOn": "2022-01-04T03:05:45.000Z",
+          "wordCount": 178,
+          "title": "苹果iOS曝doorLock漏洞，能让手机“变砖”"
+        },
+        {
+          "id": "https://www.freebuf.com/news/318192.html",
+          "author": null,
+          "description": "《规定》明确“应用算法推荐技术”，是指利用生成合成类、个性化推送类、排序精选类、检索过滤类、调度决策类等算法技术向用户提供信息。",
+          "link": "https://www.freebuf.com/news/318192.html",
+          "publishedOn": "2022-01-04T03:00:34.000Z",
+          "wordCount": 138,
+          "title": "网信办等四部门发布《互联网信息服务算法推荐管理规定》"
+        },
+        {
+          "id": "https://www.freebuf.com/news/318187.html",
+          "author": null,
+          "description": "《办法》明确掌握超过100万用户个人信息的网络平台运营者赴国外上市必须向网络安全审查办公室申报网络安全审查。",
+          "link": "https://www.freebuf.com/news/318187.html",
+          "publishedOn": "2022-01-04T02:26:23.000Z",
+          "wordCount": 138,
+          "title": "十三部门修订发布《网络安全审查办法》，2022年2月15日施行"
+        },
+        {
+          "id": "https://www.freebuf.com/news/318183.html",
+          "author": null,
+          "description": "勒索病毒为何有这么大的能量，让所有行业“谈虎色变”？面对勒索病毒，难道只能“躺平”？",
+          "link": "https://www.freebuf.com/news/318183.html",
+          "publishedOn": "2022-01-04T02:08:42.000Z",
+          "wordCount": 161,
+          "title": "2021勒索病毒大盘点"
+        },
+        {
+          "id": "https://www.freebuf.com/vuls/313396.html",
+          "author": null,
+          "description": "本篇是对今年渗透测试遇到的越权攻击进行一下总结，各位师傅共同学习，若有不足或建议，也望大家及时提出。",
+          "link": "https://www.freebuf.com/vuls/313396.html",
+          "publishedOn": "2022-01-04T01:37:36.000Z",
+          "wordCount": 167,
+          "title": "实战中的越权攻击总结"
+        },
+        {
+          "id": "https://www.freebuf.com/sectool/316922.html",
+          "author": null,
+          "description": "CaptfEncoder 是一款跨平台网络安全工具套件，V3 版本使用Rust开发，可执行程序体积小，速度更快、性能更优、功能更强。",
+          "link": "https://www.freebuf.com/sectool/316922.html",
+          "publishedOn": "2022-01-03T07:59:35.000Z",
+          "wordCount": 210,
+          "title": "跨平台网络安全工具套件CaptfEncoder v3.0.1"
+        },
+        {
+          "id": "https://www.freebuf.com/articles/endpoint/318125.html",
+          "author": null,
+          "description": "帮助广大研究人员针对Web应用程序进行动态应用程序测试。",
+          "link": "https://www.freebuf.com/articles/endpoint/318125.html",
+          "publishedOn": "2022-01-01T01:34:41.000Z",
+          "wordCount": 237,
+          "title": "如何使用ChopChop扫描终端并识别暴露的敏感内容"
+        },
+        {
           "id": "https://www.freebuf.com/news/318107.html",
           "author": null,
           "description": "日本京都大学在网站发布公告，由于惠普超级计算机的备份系统出现错误，学校丢失了大约 77TB的研究数据。",
@@ -4273,6 +4597,15 @@
           "publishedOn": "2021-12-31T05:14:45.000Z",
           "wordCount": 147,
           "title": "为什么说减少开发人员和安全团队之间摩擦有助提高软件安全性"
+        },
+        {
+          "id": "https://www.freebuf.com/articles/web/318028.html",
+          "author": null,
+          "description": "Struts2是apache项目下的一个web 框架，普遍应用于阿里巴巴、京东等互联网、政府、企业门户网站。",
+          "link": "https://www.freebuf.com/articles/web/318028.html",
+          "publishedOn": "2021-12-31T05:09:01.000Z",
+          "wordCount": 216,
+          "title": "渗透测试之地基服务篇：服务攻防之框架Struts2（上）"
         },
         {
           "id": "https://www.freebuf.com/articles/318026.html",
@@ -5378,6 +5711,15 @@
       "siteUrl": "http://www.sec-wiki.com/",
       "articles": [
         {
+          "id": "http://www.sec-wiki.com/?2022-01-04",
+          "author": null,
+          "description": "CodeAnalysis: 腾讯 Static Code Analysis   by ourren\n网络安全标准实践指南——网络数据分类分级指引  by ourren\n扛住100亿次红包请求的后端架构设计  by ourren\n更多最新文章，请访问SecWiki",
+          "link": "http://www.sec-wiki.com/?2022-01-04",
+          "publishedOn": "2022-01-04T15:58:20.000Z",
+          "wordCount": 602,
+          "title": "SecWiki News 2022-01-04 Review"
+        },
+        {
           "id": "http://www.sec-wiki.com/?2022-01-03",
           "author": null,
           "description": "SecWiki周刊（第409期)  by ourren\nQingScan: 漏洞扫描器粘合剂  by ourren\n更多最新文章，请访问SecWiki",
@@ -5582,6 +5924,78 @@
       "feedUrl": "https://www.reddit.com/r/asknetsec/.rss",
       "siteUrl": "https://www.reddit.com/r/asknetsec/",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/rw8640/how_to_change_my_public_ip_manually/",
+          "author": null,
+          "description": "I already checked that my ip is dynamic but it seems to change every long time, does anyone know how to make it change manually?\n I have already spent about 1 month and tried restarting the router but it did not work\n    submitted by    /u/Shark233F  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/rw8640/how_to_change_my_public_ip_manually/",
+          "publishedOn": "2022-01-04T23:40:24.000Z",
+          "wordCount": 383,
+          "title": "How to change my public ip manually"
+        },
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/rw81f0/was_i_ddos_attacked/",
+          "author": null,
+          "description": "I was browsing the PHP files on a website and kept getting remote force disconnected, and after reconnecting a few times suddenly nothing would load, not even other sites like Google.\n Switching over to a different network and going back to the site, it worked fine. Can't confirm but it also looked like the load on the entire previous network went up.\n The acronyms start to run together with trying to differentiate DOS, DDOS, and DNS, DNS Flood, Ipv4, IPv6, and DDNS, so I'm wondering if this was a DDOS attack on my specific DNS. Did they try to flood the IP with traffic to stop connectivity to the internet, or was something else going on?\n The website was public and anyone could see the stuff, but they must have been monitoring the traffic somehow and decided to disconnect what I was looking at, but after changing over networks everything was still up in the exact same place.\n The network I was on was probably bigger than theirs, being some random site, and it didn't look like they brought down the whole network, so it's strange that even other sites wouldn't load.\n I ran a WHOIS on the site and it turned out to be some Namecheap domain running on Cloudfare server registered under a fake address, and's only been up for about 14 months.\n    submitted by    /u/NoFilterr  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/rw81f0/was_i_ddos_attacked/",
+          "publishedOn": "2022-01-04T23:33:47.000Z",
+          "wordCount": 390,
+          "title": "Was I DDOS attacked?"
+        },
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/rw21o3/stateoftheart_models_or_techniques_applies_to/",
+          "author": null,
+          "description": "Hello, I'd like to know about some good and innovative practices that you can't find in standard guidelines like the ISO 27001 for example.\n The thing is, my company is stuck in the early 2000s with a Zero Trust policy for everything(which can be bypassed easily) and this is just a pain in the ass, no efficient at all considering it just makes workers being 100% dependent to IT for any requeriment\n So I want to ask for your advice\n    submitted by    /u/Key-Clothes-152  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/rw21o3/stateoftheart_models_or_techniques_applies_to/",
+          "publishedOn": "2022-01-04T19:08:15.000Z",
+          "wordCount": 219,
+          "title": "State-of-the-art models or techniques applies to InfoSec?"
+        },
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/rvyunh/zscalers_cloud_workload_communications_protection/",
+          "author": null,
+          "description": "Happy new Year everyone,\n Wonder if anyone had any experience with this so far?\n https://www.zscaler.com/press/zscaler-extends-its-proven-zero-trust-exchange-platform-deliver-zero-trust-workloads\n    submitted by    /u/killb0p  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/rvyunh/zscalers_cloud_workload_communications_protection/",
+          "publishedOn": "2022-01-04T16:50:24.000Z",
+          "wordCount": 137,
+          "title": "Zscaler's Cloud Workload Communications protection"
+        },
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/rvrjbt/we_all_love_mfa_is_it_a_good_idea_to_keep_google/",
+          "author": null,
+          "description": "I'm always thinking twice before installing any addon in my web browser. Very often removed it after I used it. However, there are addons designed to stay for longer. Like, google authenticator addon and alike.\n Q: For sake of security, is it a good idea to keep Google Authenticator addon in chrome or just forget about it and stick to the smartphone / pass-manager?\n    submitted by    /u/bitsailor  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/rvrjbt/we_all_love_mfa_is_it_a_good_idea_to_keep_google/",
+          "publishedOn": "2022-01-04T10:44:23.000Z",
+          "wordCount": 646,
+          "title": "We all love MFA - is it a good idea to keep Google Authenticator addon in Chrome / Web Browser?"
+        },
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/rvq9ly/proxy_scanningxpost_rhacking/",
+          "author": null,
+          "description": "so i just started looking into 0.0.0.0/0 scanning and it has shown a lot of potential so far with application like zmap and zgrab, had a lot of fun joining random minecraft server, but i would like to explore a more practical, usefull you might say, approach. when i think of scanning the internet other than vulnerable DNS servers, i think about those looooong ass free proxy lists sitting there in the open. I know, i know those are not anonymous, but i was wondering, how the duck do they get those lists, they are obviously not their servers, and to add to that proxies often have random ports, how do you scan for a service that has random ports, even then if you find a server with a port 80 or 8080 it could just be an http server out there, how do you identify it is an actual proxy, banner perhaps?\n ps: pls do not point out proprietary software or any if you can, i'm trying to learn here\n (TL;DR) i want a proxy list, made by me, and im struggling, pls help\n    submitted by    /u/filippobob  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/rvq9ly/proxy_scanningxpost_rhacking/",
+          "publishedOn": "2022-01-04T09:17:11.000Z",
+          "wordCount": 283,
+          "title": "Proxy scanning(xpost r/hacking)"
+        },
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/rvojo3/suricata_anomalybased_detection/",
+          "author": null,
+          "description": "i tried Googling this, but am getting mixed messaging. It's signature based, but can detect anomalies?\n    submitted by    /u/albertcuy  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/rvojo3/suricata_anomalybased_detection/",
+          "publishedOn": "2022-01-04T07:18:59.000Z",
+          "wordCount": 165,
+          "title": "Suricata: anomaly-based detection?"
+        },
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/rvo8jb/tcpdump_how_to_keep_packets_that_contain_a/",
+          "author": null,
+          "description": "I have the following tcpdump command: sudo tcpdump -i eth0 -nn -A -s 65535 -w somepackets2.cap \"(port not 443) && (less 15) && (tcp) && (greater 30)\", but I want to add on another \"and\" condition that keeps only packets that contain \"mysubstring\". How can I do that?\n    submitted by    /u/social-bleach  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/rvo8jb/tcpdump_how_to_keep_packets_that_contain_a/",
+          "publishedOn": "2022-01-04T06:59:17.000Z",
+          "wordCount": 384,
+          "title": "tcpdump: how to keep packets that contain a substring only"
+        },
         {
           "id": "https://www.reddit.com/r/AskNetsec/comments/rvgydl/phishing_email_sent_from_own_mail_email_spoofed/",
           "author": null,
@@ -6337,6 +6751,15 @@
       "siteUrl": "https://www.reddit.com/r/redteamsec/",
       "articles": [
         {
+          "id": "https://www.reddit.com/r/redteamsec/comments/rvr9ak/simple_dll_that_creates_and_adds_an_user_to_the/",
+          "author": null,
+          "description": "A simple C++ DLL that creates and add a user to the Local #Administrator group. Useful when dealing with privilege escalation on Windows to gain local administrator access and do not care of opsec.\n Repo: https://github.com/notdodo/adduser-dll\n    submitted by    /u/d_o_d_o_  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/redteamsec/comments/rvr9ak/simple_dll_that_creates_and_adds_an_user_to_the/",
+          "publishedOn": "2022-01-04T10:26:02.000Z",
+          "wordCount": 158,
+          "title": "Simple DLL that creates and adds an user to the local Administrators group"
+        },
+        {
           "id": "https://www.reddit.com/r/redteamsec/comments/rv2hn0/optimizing_windows_function_resolving_a_case/",
           "author": null,
           "description": "submitted by    /u/dmchell  \n [link]   [comments]",
@@ -6731,6 +7154,15 @@
       "siteUrl": "https://www.reddit.com/r/exploitdev/",
       "articles": [
         {
+          "id": "https://www.reddit.com/r/ExploitDev/comments/rvx8g0/top_books_to_learn_android_hacking_security/",
+          "author": null,
+          "description": "submitted by    /u/pat_ventuzelo  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/ExploitDev/comments/rvx8g0/top_books_to_learn_android_hacking_security/",
+          "publishedOn": "2022-01-04T15:40:17.000Z",
+          "wordCount": 129,
+          "title": "Top books to learn Android Hacking & Security"
+        },
+        {
           "id": "https://www.reddit.com/r/ExploitDev/comments/rvep5g/ask_what_should_i_look_in_a_masters_program/",
           "author": null,
           "description": "Hey everyone, I have been thinking of pursuing a masters in cybersecurity. I love tinkering with low level stuff, especially embedded systems and exploit development. But I don't know if the universities offer courses targeting them. Can the community suggest me some good unis that I can apply too based on my inclination.\n PS: Can someone also take a look at my SOP, I don't have anyone who can proofread my SOP.\n    submitted by    /u/sidhu97ss  \n [link]   [comments]",
@@ -6998,6 +7430,15 @@
       "feedUrl": "https://www.reddit.com/r/computerforensics/.rss",
       "siteUrl": "https://www.reddit.com/r/computerforensics/",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/computerforensics/comments/rw9srq/investigating_an_employee/",
+          "author": null,
+          "description": "Hello, Not sure if this is the correct location. If I'm to investigate an employee for not working during work hours, or someone with suspicious login activities, what common places will you be investigating?\n E.g. checking browser histories. Physical security (login/logout time) Docs created on DMS (files opened, accessed, etc. Recently printed docs?\n In other words, to know what a person is doing at work, what activities (or logs) should I be searching?\n    submitted by    /u/ram3nboy  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/computerforensics/comments/rw9srq/investigating_an_employee/",
+          "publishedOn": "2022-01-05T00:59:06.000Z",
+          "wordCount": 296,
+          "title": "Investigating an employee"
+        },
         {
           "id": "https://www.reddit.com/r/computerforensics/comments/rv93om/best_free_utility_to_take_an_image_of_an_ios/",
           "author": null,
@@ -7383,6 +7824,42 @@
       "feedUrl": "https://www.reddit.com/r/netsec/.rss",
       "siteUrl": "https://www.reddit.com/r/netsec/",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/netsec/comments/rvxpcm/sears_garage_door_signal_reverse_engineering/",
+          "author": null,
+          "description": "submitted by    /u/mdulin2  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/netsec/comments/rvxpcm/sears_garage_door_signal_reverse_engineering/",
+          "publishedOn": "2022-01-04T16:00:29.000Z",
+          "wordCount": 226,
+          "title": "Sears Garage Door Signal Reverse Engineering"
+        },
+        {
+          "id": "https://www.reddit.com/r/netsec/comments/rvtzc4/domain_persistence_adminsdholder/",
+          "author": null,
+          "description": "submitted by    /u/netbiosX  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/netsec/comments/rvtzc4/domain_persistence_adminsdholder/",
+          "publishedOn": "2022-01-04T13:07:11.000Z",
+          "wordCount": 104,
+          "title": "Domain Persistence - AdminSDHolder"
+        },
+        {
+          "id": "https://www.reddit.com/r/netsec/comments/rvtx65/cache_poisoning_at_scale/",
+          "author": null,
+          "description": "submitted by    /u/albinowax  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/netsec/comments/rvtx65/cache_poisoning_at_scale/",
+          "publishedOn": "2022-01-04T13:03:54.000Z",
+          "wordCount": 122,
+          "title": "Cache Poisoning at Scale"
+        },
+        {
+          "id": "https://www.reddit.com/r/netsec/comments/rv8e72/a_beginners_story_on_how_a_cheapo_standard_issue/",
+          "author": null,
+          "description": "submitted by    /u/secnigma  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/netsec/comments/rv8e72/a_beginners_story_on_how_a_cheapo_standard_issue/",
+          "publishedOn": "2022-01-03T18:28:52.000Z",
+          "wordCount": 210,
+          "title": "A Beginner's Story on How a Cheapo Standard Issue Router was hacked."
+        },
         {
           "id": "https://www.reddit.com/r/netsec/comments/rv89n8/one_of_my_betterdocumented_exploits_cve20175816/",
           "author": null,
@@ -7993,6 +8470,69 @@
       "feedUrl": "https://www.reddit.com/r/opendirectories/.rss",
       "siteUrl": "https://www.reddit.com/r/opendirectories/",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/opendirectories/comments/rw0nfq/british_tvepisodes_of_the_avengers_bergerac_totp/",
+          "author": null,
+          "description": "submitted by    /u/International_Milk_1  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/opendirectories/comments/rw0nfq/british_tvepisodes_of_the_avengers_bergerac_totp/",
+          "publishedOn": "2022-01-04T18:07:38.000Z",
+          "wordCount": 193,
+          "title": "British Tv-Episodes of The Avengers, Bergerac, TOTP, The Professionals, Coronation Street, Dr Who. (1 seri Doomwatch, Dr Who (inferno)"
+        },
+        {
+          "id": "https://www.reddit.com/r/opendirectories/comments/rvvwka/dr_who_literature/",
+          "author": null,
+          "description": "submitted by    /u/International_Milk_1  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/opendirectories/comments/rvvwka/dr_who_literature/",
+          "publishedOn": "2022-01-04T14:41:21.000Z",
+          "wordCount": 93,
+          "title": "Dr who literature"
+        },
+        {
+          "id": "https://www.reddit.com/r/opendirectories/comments/rvtfk9/channel_for_old_british_tv_stuff_mostly_it_would/",
+          "author": null,
+          "description": "submitted by    /u/International_Milk_1  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/opendirectories/comments/rvtfk9/channel_for_old_british_tv_stuff_mostly_it_would/",
+          "publishedOn": "2022-01-04T12:36:41.000Z",
+          "wordCount": 382,
+          "title": "Channel for old british tv stuff, mostly it would seem for kids. eg Paddinngton bear, but also dads army, one foot in the grave, etc etc."
+        },
+        {
+          "id": "https://www.reddit.com/r/opendirectories/comments/rvt8jp/i_have_hundreds_of_credible_books_on_corruption/",
+          "author": null,
+          "description": "submitted by    /u/Few_Tumbleweed7151  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/opendirectories/comments/rvt8jp/i_have_hundreds_of_credible_books_on_corruption/",
+          "publishedOn": "2022-01-04T12:25:46.000Z",
+          "wordCount": 479,
+          "title": "I have hundreds of *credible* books on corruption, parapolitics, economic warfare, propaganda, and state crimes. I’d like to share them but they are on an iCloud folder and too large to download. Is there anyway to transfer directly to Mega, please?"
+        },
+        {
+          "id": "https://www.reddit.com/r/opendirectories/comments/rvt7vn/smallish_list_of_mostly_japanese_movie_and_tv/",
+          "author": null,
+          "description": "submitted by    /u/International_Milk_1  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/opendirectories/comments/rvt7vn/smallish_list_of_mostly_japanese_movie_and_tv/",
+          "publishedOn": "2022-01-04T12:24:42.000Z",
+          "wordCount": 179,
+          "title": "Smallish list of mostly Japanese movie and tv stuff. Some raw, some with english subs, some english dubs."
+        },
+        {
+          "id": "https://www.reddit.com/r/opendirectories/comments/rvroj8/ftp_misc_ibm_software_marketing_training/",
+          "author": null,
+          "description": "submitted by    /u/xuvatilavv  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/opendirectories/comments/rvroj8/ftp_misc_ibm_software_marketing_training/",
+          "publishedOn": "2022-01-04T10:53:46.000Z",
+          "wordCount": 140,
+          "title": "FTP: Misc IBM software, marketing & training materials, annual reports, etc from 1994 to present"
+        },
+        {
+          "id": "https://www.reddit.com/r/opendirectories/comments/rvjjys/bsg_battlestar_galactica_720p_complete_20032012/",
+          "author": null,
+          "description": "http://37.187.18.191/tv/BSG%20Battlestar%20Galactica%20720p%20Complete%202003-2012%20Extras%20Subs/\n    submitted by    /u/SeniorAlbatross  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/opendirectories/comments/rvjjys/bsg_battlestar_galactica_720p_complete_20032012/",
+          "publishedOn": "2022-01-04T02:47:52.000Z",
+          "wordCount": 136,
+          "title": "BSG Battlestar Galactica 720p Complete 2003-2012 Extras Subs"
+        },
         {
           "id": "https://www.reddit.com/r/opendirectories/comments/rvhddg/anime_fansubs/",
           "author": null,
@@ -9108,6 +9648,15 @@
       "siteUrl": "https://pentestlab.blog",
       "articles": [
         {
+          "id": "http://pentestlab.blog/?p=30104",
+          "author": "Administrator",
+          "description": "Utilizing existing Microsoft features for offensive operations is very common during red team assessments as it provides the opportunity to blend in with the environment… \nContinue reading → Domain Persistence – AdminSDHolder",
+          "link": "https://pentestlab.blog/2022/01/04/domain-persistence-adminsdholder/",
+          "publishedOn": "2022-01-04T12:33:00.000Z",
+          "wordCount": 1044,
+          "title": "Domain Persistence – AdminSDHolder"
+        },
+        {
           "id": "http://pentestlab.blog/?p=29805",
           "author": "Administrator",
           "description": "Domain persistence techniques enable red teams that have compromised the domain to operate with the highest level of privileges in a large period. One of… \nContinue reading → Golden Certificate",
@@ -9482,15 +10031,6 @@
           "publishedOn": "2021-01-25T14:23:50.000Z",
           "wordCount": 1270,
           "title": "Burp Suite roadmap for 2021"
-        },
-        {
-          "id": "hack-your-apis-interview-with-corey-ball-api-security-expert",
-          "author": null,
-          "description": "Corey Ball is a Cybersecurity Consulting Manager, and author of the forthcoming book Hacking APIs (working title - No Starch Press). As well as being a long-time API hacking enthusiast, Corey’s role g",
-          "link": "https://portswigger.net/blog/hack-your-apis-interview-with-corey-ball-api-security-expert",
-          "publishedOn": "2021-01-04T16:52:18.000Z",
-          "wordCount": 1730,
-          "title": "Hack your APIs: interview with Corey Ball - API security expert"
         }
       ]
     },
@@ -9638,6 +10178,15 @@
       "feedUrl": "https://www.netsparker.com/blog/rss/",
       "siteUrl": "https://www.netsparker.com/blog/",
       "articles": [
+        {
+          "id": "https://www.netsparker.com/blog/d5a2c7e2-813b-4031-97bc-eaaa52666fcc/",
+          "author": "Tuncay Kayaoglu",
+          "description": "We’re delighted to announce the December 2021 update for Netsparker Standard 6.3. The highlights of this release are software composition analysis (SCA), the OWASP Top Ten 2021 Report, and support for scanning GraphQL APIs. READ MORE",
+          "link": "https://www.netsparker.com/blog/releases/netsparker-standard-december-2021-update/",
+          "publishedOn": "2022-01-04T10:58:52.000Z",
+          "wordCount": 638,
+          "title": "December 2021 update for Netsparker Standard 6.3"
+        },
         {
           "id": "https://www.netsparker.com/blog/2128508c-b3b6-45cd-a447-45e90c159542/",
           "author": "Zbigniew Banach",
