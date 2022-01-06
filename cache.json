@@ -6,6 +6,33 @@
       "siteUrl": "http://h1.nobbd.de/",
       "articles": [
         {
+          "id": "https://hackerone.com/reports/1406335",
+          "author": null,
+          "description": "Twitter disclosed a bug submitted by ian: https://hackerone.com/reports/1406335",
+          "link": "https://hackerone.com/reports/1406335",
+          "publishedOn": "2022-01-05T19:58:27.000Z",
+          "wordCount": 25,
+          "title": "Subdomain takeover of images.crossinstall.com"
+        },
+        {
+          "id": "https://hackerone.com/reports/1357013",
+          "author": null,
+          "description": "Mattermost disclosed a bug submitted by at11zt00: https://hackerone.com/reports/1357013 - Bounty: $150",
+          "link": "https://hackerone.com/reports/1357013",
+          "publishedOn": "2022-01-05T05:15:51.000Z",
+          "wordCount": 25,
+          "title": "ABLE TO TRICK THE VICTIM INTO USING A CRAFTED EMAIL ADDRESS FOR A PARTICULAR  SESSION AND THEN LATER TAKE BACK THE ACCOUNT"
+        },
+        {
+          "id": "https://hackerone.com/reports/1440161",
+          "author": null,
+          "description": "8x8 disclosed a bug submitted by n1had: https://hackerone.com/reports/1440161",
+          "link": "https://hackerone.com/reports/1440161",
+          "publishedOn": "2022-01-05T02:44:23.000Z",
+          "wordCount": 25,
+          "title": "Improper Neutralization of Script-Related HTML Tags in a Web Page (Basic XSS)"
+        },
+        {
           "id": "https://hackerone.com/reports/1369806",
           "author": null,
           "description": "Nutanix disclosed a bug submitted by kauenavarro: https://hackerone.com/reports/1369806",
@@ -1156,6 +1183,42 @@
       "siteUrl": "https://infosecwriteups.com?source=rss----7b722bfd1b8d---4",
       "articles": [
         {
+          "id": "https://medium.com/p/f377584229e",
+          "author": "InfoSec Write-ups",
+          "description": "And we want you to be a part!",
+          "link": "https://infosecwriteups.com/were-organizing-our-first-virtual-conference-cum-networking-event-f377584229e?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2022-01-05T18:36:52.000Z",
+          "wordCount": 716,
+          "title": "We’re Organizing Our First Virtual Conference cum Networking Event"
+        },
+        {
+          "id": "https://medium.com/p/1f9734b80313",
+          "author": "Ayush Verma",
+          "description": "Day1 : Installing Kali Linux",
+          "link": "https://infosecwriteups.com/day3-computer-networks-100daysofhacking-1f9734b80313?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2022-01-05T05:55:09.000Z",
+          "wordCount": 1269,
+          "title": "Day3, Computer Networks — 100DaysofHacking"
+        },
+        {
+          "id": "https://medium.com/p/dda550b07443",
+          "author": "hosein vita",
+          "description": "In the name of God.",
+          "link": "https://infosecwriteups.com/implementing-django-rest-api-throttling-and-unauthenticated-bypass-dda550b07443?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2022-01-05T05:54:23.000Z",
+          "wordCount": 1338,
+          "title": "Implementing Django-rest API Throttling and Unauthenticated bypass"
+        },
+        {
+          "id": "https://medium.com/p/44130f5983bf",
+          "author": "Ayush Verma",
+          "description": "Day1 : Installing Kali Linux",
+          "link": "https://infosecwriteups.com/day2-navigating-linux-100daysofhacking-44130f5983bf?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2022-01-05T05:54:00.000Z",
+          "wordCount": 1455,
+          "title": "Day2, Navigating Linux — 100DaysofHacking"
+        },
+        {
           "id": "https://medium.com/p/97ece9bba884",
           "author": "Pencer",
           "description": "Showing all the tools and techniques needed to complete the box.\nContinue reading on InfoSec Write-ups »",
@@ -1577,6 +1640,51 @@
       "siteUrl": "https://medium.com/tag/bugbounty/latest?source=rss------bugbounty-5",
       "articles": [
         {
+          "id": "https://medium.com/p/78f9d32e795",
+          "author": "Eagle_92",
+          "description": "Recon-Ng is a great tool for automating your recon workflow and is one of the must have tool for Bug bounties\nContinue reading on Medium »",
+          "link": "https://medium.com/@jowin.sathianesan/using-recon-ng-for-recon-for-bug-bounty-78f9d32e795?source=rss------bugbounty-5",
+          "publishedOn": "2022-01-05T19:42:27.000Z",
+          "wordCount": 391,
+          "title": "Using Recon-Ng for Recon for Bug Bounty"
+        },
+        {
+          "id": "https://medium.com/p/b4d6abdb474a",
+          "author": "Nawaf Alkhaldi",
+          "description": "Summary: i discovered that i can spoof any Instagram username on Instagram shop, with this bug scammers can trick people into thinking…\nContinue reading on Medium »",
+          "link": "https://medium.com/@nvmeeet/how-i-was-able-to-spoof-any-instagram-username-on-instagram-shop-b4d6abdb474a?source=rss------bugbounty-5",
+          "publishedOn": "2022-01-05T10:56:01.000Z",
+          "wordCount": 432,
+          "title": "How I was able to spoof any Instagram username on Instagram shop"
+        },
+        {
+          "id": "https://medium.com/p/7cc34ab3a2a6",
+          "author": "Mukundkumarjha",
+          "description": "I clear this topic in 2 points\n1.As a hacking or penteration testing.\n2.use in bug bounty.\n1. As a Hacker-\nWe know that nmap is network…\nContinue reading on Medium »",
+          "link": "https://medium.com/@mukundkumarjha2005/why-we-use-nmap-7cc34ab3a2a6?source=rss------bugbounty-5",
+          "publishedOn": "2022-01-05T07:07:34.000Z",
+          "wordCount": 378,
+          "title": "Why we use Nmap?"
+        },
+        {
+          "id": "https://medium.com/p/dda550b07443",
+          "author": "hosein vita",
+          "description": "In the name of God.\nContinue reading on InfoSec Write-ups »",
+          "link": "https://infosecwriteups.com/implementing-django-rest-api-throttling-and-unauthenticated-bypass-dda550b07443?source=rss------bugbounty-5",
+          "publishedOn": "2022-01-05T05:54:23.000Z",
+          "wordCount": 1338,
+          "title": "Implementing Django-rest API Throttling and Unauthenticated bypass"
+        },
+        {
+          "id": "https://medium.com/p/14bc1d58011f",
+          "author": "Rahul Kankrale",
+          "description": "For detail information read blog below:\nContinue reading on InfoSec Write-ups »",
+          "link": "https://infosecwriteups.com/facebook-android-webview-vulnerability-execute-arbitrary-javascript-xss-and-load-arbitrary-14bc1d58011f?source=rss------bugbounty-5",
+          "publishedOn": "2022-01-05T04:49:30.000Z",
+          "wordCount": 62,
+          "title": "Facebook android webview vulnerability : Execute arbitrary javascript (xss) and load arbitrary…"
+        },
+        {
           "id": "https://medium.com/p/fb7940feafd6",
           "author": "zer0d",
           "description": "Hello everyone,\nContinue reading on Medium »",
@@ -1593,6 +1701,15 @@
           "publishedOn": "2022-01-04T21:32:51.000Z",
           "wordCount": 958,
           "title": "Day3, Computer Networks — 100DaysofHacking"
+        },
+        {
+          "id": "https://medium.com/p/fdbea7b23542",
+          "author": "Mostafa Mamdoh",
+          "description": "Hey All,\nContinue reading on System Weakness »",
+          "link": "https://systemweakness.com/accessing-godaddy-internal-instance-through-an-email-logic-bug-fdbea7b23542?source=rss------bugbounty-5",
+          "publishedOn": "2022-01-04T17:28:50.000Z",
+          "wordCount": 806,
+          "title": "Accessing GoDaddy internal instance through an email logic bug."
         },
         {
           "id": "https://medium.com/p/fdbea7b23542",
@@ -2545,6 +2662,42 @@
       "siteUrl": "https://infosecwriteups.com?source=rss----7b722bfd1b8d---4",
       "articles": [
         {
+          "id": "https://medium.com/p/f377584229e",
+          "author": "InfoSec Write-ups",
+          "description": "And we want you to be a part!",
+          "link": "https://infosecwriteups.com/were-organizing-our-first-virtual-conference-cum-networking-event-f377584229e?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2022-01-05T18:36:52.000Z",
+          "wordCount": 716,
+          "title": "We’re Organizing Our First Virtual Conference cum Networking Event"
+        },
+        {
+          "id": "https://medium.com/p/1f9734b80313",
+          "author": "Ayush Verma",
+          "description": "Day1 : Installing Kali Linux",
+          "link": "https://infosecwriteups.com/day3-computer-networks-100daysofhacking-1f9734b80313?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2022-01-05T05:55:09.000Z",
+          "wordCount": 1269,
+          "title": "Day3, Computer Networks — 100DaysofHacking"
+        },
+        {
+          "id": "https://medium.com/p/dda550b07443",
+          "author": "hosein vita",
+          "description": "In the name of God.",
+          "link": "https://infosecwriteups.com/implementing-django-rest-api-throttling-and-unauthenticated-bypass-dda550b07443?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2022-01-05T05:54:23.000Z",
+          "wordCount": 1338,
+          "title": "Implementing Django-rest API Throttling and Unauthenticated bypass"
+        },
+        {
+          "id": "https://medium.com/p/44130f5983bf",
+          "author": "Ayush Verma",
+          "description": "Day1 : Installing Kali Linux",
+          "link": "https://infosecwriteups.com/day2-navigating-linux-100daysofhacking-44130f5983bf?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2022-01-05T05:54:00.000Z",
+          "wordCount": 1455,
+          "title": "Day2, Navigating Linux — 100DaysofHacking"
+        },
+        {
           "id": "https://medium.com/p/97ece9bba884",
           "author": "Pencer",
           "description": "Showing all the tools and techniques needed to complete the box.\nContinue reading on InfoSec Write-ups »",
@@ -2965,6 +3118,33 @@
       "feedUrl": "https://medium.com/feed/tag/osint",
       "siteUrl": "https://medium.com/tag/osint/latest?source=rss------osint-5",
       "articles": [
+        {
+          "id": "https://medium.com/p/95ad00c834d9",
+          "author": "Debojyoti",
+          "description": "As part of OSINT learning, I am working to complete all the Try_Hack_Me rooms which are linked to OSINT research.\nContinue reading on Medium »",
+          "link": "https://debojyoti.medium.com/writeup-tryhackme-searchlight-imint-95ad00c834d9?source=rss------osint-5",
+          "publishedOn": "2022-01-06T01:04:44.000Z",
+          "wordCount": 84,
+          "title": "Writeup_TryHackMe_Searchlight — IMINT"
+        },
+        {
+          "id": "https://medium.com/p/7d66eb30172d",
+          "author": "Joshua O. Berkoh",
+          "description": "Day in and day out people sign up for services and fast forward loose tracks of these services because they don’t use them. It will be…\nContinue reading on Medium »",
+          "link": "https://medium.com/@unseeable06/know-your-public-presence-online-7d66eb30172d?source=rss------osint-5",
+          "publishedOn": "2022-01-05T12:21:46.000Z",
+          "wordCount": 470,
+          "title": "KNOW YOUR PUBLIC PRESENCE ONLINE"
+        },
+        {
+          "id": "https://medium.com/p/c24a2aa0e2ff",
+          "author": "z3r0trust",
+          "description": "*Note: This article was originally published by the author on March 11, 2019.\nContinue reading on Medium »",
+          "link": "https://z3r0trust.medium.com/the-osint-ification-of-isis-on-the-dark-web-c24a2aa0e2ff?source=rss------osint-5",
+          "publishedOn": "2022-01-05T01:37:33.000Z",
+          "wordCount": 3222,
+          "title": "The OSINT-ification of ISIS on the Dark Web"
+        },
         {
           "id": "https://medium.com/p/c3b4d84e7433",
           "author": "PretendNotToBe",
@@ -3714,6 +3894,15 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=29811302",
+          "author": "ingve",
+          "description": "Article URL: https://tiemoko.com/blog/diff-fuzz/\nComments URL: https://news.ycombinator.com/item?id=29811302\nPoints: 2\n# Comments: 0",
+          "link": "https://tiemoko.com/blog/diff-fuzz/",
+          "publishedOn": "2022-01-05T16:44:34.000Z",
+          "wordCount": 4200,
+          "title": "Beyond the Borrow Checker: Differential Fuzzing"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=29761092",
           "author": "0xedb",
           "description": "Article URL: https://tip.golang.org/doc/fuzz/\nComments URL: https://news.ycombinator.com/item?id=29761092\nPoints: 175\n# Comments: 49",
@@ -4124,6 +4313,15 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=29806997",
+          "author": "afrcnc",
+          "description": "Article URL: https://www.ftc.gov/news-events/blogs/techftc/2022/01/ftc-warns-companies-remediate-log4j-security-vulnerability\nComments URL: https://news.ycombinator.com/item?id=29806997\nPoints: 2\n# Comments: 1",
+          "link": "https://www.ftc.gov/news-events/blogs/techftc/2022/01/ftc-warns-companies-remediate-log4j-security-vulnerability",
+          "publishedOn": "2022-01-05T09:38:44.000Z",
+          "wordCount": 1637,
+          "title": "FTC warns companies to remediate Log4j security vulnerability"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=29793176",
           "author": "jbverschoor",
           "description": "Article URL: https://twitter.com/trevorspiniolas/status/1477185285784051712\nComments URL: https://news.ycombinator.com/item?id=29793176\nPoints: 2\n# Comments: 1",
@@ -4428,6 +4626,60 @@
       "siteUrl": "https://www.freebuf.com",
       "articles": [
         {
+          "id": "https://www.freebuf.com/news/318517.html",
+          "author": null,
+          "description": "2022年1月5日，国家互联网信息办公室对2016年8月1日正式施行的《移动互联网应用程序信息服务管理规定》进行了修订。",
+          "link": "https://www.freebuf.com/news/318517.html",
+          "publishedOn": "2022-01-05T09:24:46.000Z",
+          "wordCount": 138,
+          "title": "国家网信办拟修订《移动互联网应用程序信息服务管理规定》"
+        },
+        {
+          "id": "https://www.freebuf.com/news/318514.html",
+          "author": null,
+          "description": "国家互联网信息办公室拟对已施行的《移动互联网应用程序信息服务管理规定》进行了修订，现向社会公开征求意见。",
+          "link": "https://www.freebuf.com/news/318514.html",
+          "publishedOn": "2022-01-05T09:04:46.000Z",
+          "wordCount": 290,
+          "title": "FreeBuf 早报 | DatPiff 数据泄露影响数百万人；提高反诈意识，别让共享屏幕骗局得手"
+        },
+        {
+          "id": "https://www.freebuf.com/articles/318509.html",
+          "author": null,
+          "description": "与其他恶意软件的传播方式不同，Purple Fox采用的新传播方式，使得其隐匿性进一步提高。",
+          "link": "https://www.freebuf.com/articles/318509.html",
+          "publishedOn": "2022-01-05T08:47:02.000Z",
+          "wordCount": 228,
+          "title": "恶意软件Purple Fox 伪装成 Telegram 安装程序传播"
+        },
+        {
+          "id": "https://www.freebuf.com/news/318492.html",
+          "author": null,
+          "description": "盘点一下2021年全球部分实体遭受的网络攻击事件。",
+          "link": "https://www.freebuf.com/news/318492.html",
+          "publishedOn": "2022-01-05T07:48:52.000Z",
+          "wordCount": 235,
+          "title": "盘点 2021 年严重的网络攻击事件"
+        },
+        {
+          "id": "https://www.freebuf.com/news/318458.html",
+          "author": null,
+          "description": "美国最大的无线运营商之一——UScellular披露了一起发生在去年12月份的数据泄露事件。",
+          "link": "https://www.freebuf.com/news/318458.html",
+          "publishedOn": "2022-01-05T03:04:02.000Z",
+          "wordCount": 146,
+          "title": "美国无线运营商 UScellular批露了发生在年末的数据泄露事件"
+        },
+        {
+          "id": "https://www.freebuf.com/news/318422.html",
+          "author": null,
+          "description": "《网络安全审查办法》发布，这些要点请尽快了解。",
+          "link": "https://www.freebuf.com/news/318422.html",
+          "publishedOn": "2022-01-04T15:22:37.000Z",
+          "wordCount": 159,
+          "title": "《网络安全审查办法》17项要点速读"
+        },
+        {
           "id": "https://www.freebuf.com/news/318407.html",
           "author": null,
           "description": "全球动态1.以色列媒体在苏莱曼尼遇害周年纪念日遭到黑客攻击在伊朗伊斯兰革命卫队指挥官苏莱曼尼遇害周年纪念日，威胁行为者入侵了以色列媒体《耶路撒冷邮报》英文网站和《晚祷报》 （Maariv）的推特帐户。 [外刊-阅读原文]2.希腊黑客“攻陷”NASA局长社交账号美国宇航局（NASA）局长 Parimal Kopardekar 个人 Twitter 账户遭遇希腊黑客入侵。黑客组织的一位发言人称，此次把",
@@ -4435,6 +4687,15 @@
           "publishedOn": "2022-01-04T10:45:51.000Z",
           "wordCount": 190,
           "title": "FreeBuf 早报 | 葡萄牙最大媒体集团遭勒索攻击；以色列媒体在苏莱曼尼遇害纪念日遭攻击"
+        },
+        {
+          "id": "https://www.freebuf.com/articles/people/318390.html",
+          "author": null,
+          "description": "云舒，默安科技联合创始人、CTO，16年以上安全从业经验、行业大V，欺骗防御理念的重要布道者。",
+          "link": "https://www.freebuf.com/articles/people/318390.html",
+          "publishedOn": "2022-01-04T09:30:09.000Z",
+          "wordCount": 170,
+          "title": "专访默安科技云舒：将安全融入开发，如春雨润物细无声"
         },
         {
           "id": "https://www.freebuf.com/news/318387.html",
@@ -4473,6 +4734,15 @@
           "title": "Broward Health 披露影响 130 多万人的数据泄露事件"
         },
         {
+          "id": "https://www.freebuf.com/news/318263.html",
+          "author": null,
+          "description": "新年伊始，万象更新，但在2022年的第一天，微软却给大家开了一个不大不小的“玩笑”。",
+          "link": "https://www.freebuf.com/news/318263.html",
+          "publishedOn": "2022-01-04T07:46:19.000Z",
+          "wordCount": 200,
+          "title": "2022年第一天，微软Exchange无法发送电子邮件"
+        },
+        {
           "id": "https://www.freebuf.com/news/318227.html",
           "author": null,
           "description": "美国宇航局（NASA）局长Parimal Kopardekar的Twitter账户遭遇希腊黑客入侵。",
@@ -4489,6 +4759,15 @@
           "publishedOn": "2022-01-04T03:49:17.000Z",
           "wordCount": 178,
           "title": "应急响应之外联请求分析"
+        },
+        {
+          "id": "https://www.freebuf.com/articles/paper/318195.html",
+          "author": null,
+          "description": "2021年全球制造业、服务业、建筑、金融、能源、医疗、工控和政府组织机构等频遭勒索软件攻击，给全球产业产值造成严重损失。",
+          "link": "https://www.freebuf.com/articles/paper/318195.html",
+          "publishedOn": "2022-01-04T03:08:25.000Z",
+          "wordCount": 376,
+          "title": "2021年流行勒索软件盘点"
         },
         {
           "id": "https://www.freebuf.com/articles/318193.html",
@@ -5711,6 +5990,15 @@
       "siteUrl": "http://www.sec-wiki.com/",
       "articles": [
         {
+          "id": "http://www.sec-wiki.com/?2022-01-05",
+          "author": null,
+          "description": "聚焦算法推荐乱象问题 构建算法安全治理体系  by ourren\n好的工作想法从哪里来  by ourren\n开源情报及其在下一代网络安全中的应用---文献综述  by ourren\n商品图谱构建与实体对齐  by ourren\n网络爬虫公司可能触犯哪些罪名  by ourren\n更多最新文章，请访问SecWiki",
+          "link": "http://www.sec-wiki.com/?2022-01-05",
+          "publishedOn": "2022-01-05T15:58:20.000Z",
+          "wordCount": 598,
+          "title": "SecWiki News 2022-01-05 Review"
+        },
+        {
           "id": "http://www.sec-wiki.com/?2022-01-04",
           "author": null,
           "description": "CodeAnalysis: 腾讯 Static Code Analysis   by ourren\n网络安全标准实践指南——网络数据分类分级指引  by ourren\n扛住100亿次红包请求的后端架构设计  by ourren\n更多最新文章，请访问SecWiki",
@@ -5924,6 +6212,69 @@
       "feedUrl": "https://www.reddit.com/r/asknetsec/.rss",
       "siteUrl": "https://www.reddit.com/r/asknetsec/",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/rwx7r7/is_to_late_to_change_path/",
+          "author": null,
+          "description": "Hi, I am a sysadmin from 8 years now i am thinking to change my career path in network & security. Because i see my colleagues in the security field and started to like more and more. So my question is where to start?\n    submitted by    /u/lisi_dx  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/rwx7r7/is_to_late_to_change_path/",
+          "publishedOn": "2022-01-05T21:24:23.000Z",
+          "wordCount": 190,
+          "title": "Is to late to change path?"
+        },
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/rwwu6f/is_there_any_valid_reason_to_disallow_special/",
+          "author": null,
+          "description": "Was helping my partner’s parents set up a password manager and they found that their bank does not allow special characters in their password. None. \n To me this is a red flag that indicates they aren’t sanitizing their database inputs and could be vulnerable to SQL injection. But is that overly paranoid? Is there a legitimate reason to disallow special characters? \n (For the record I recommended they use a long passphrase)\n    submitted by    /u/furikakebabe  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/rwwu6f/is_there_any_valid_reason_to_disallow_special/",
+          "publishedOn": "2022-01-05T21:04:58.000Z",
+          "wordCount": 1121,
+          "title": "Is there any valid reason to disallow special characters from a password?"
+        },
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/rwrggw/a_random_user_on_omegle_said_my_name/",
+          "author": null,
+          "description": "Honestly a lil freaked out rn cause a random user on omegle guessed my name within 10 seconds of getting matched there. He was like “i know everything about you” and i thought he was just trolling. But then dude proceeded to say my name.He got my age wrong. I got freaked out and immediately disconnected. I don’t know much about these things. Should i be worried? Am i hacked?\n    submitted by    /u/Indecisive-blahblah  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/rwrggw/a_random_user_on_omegle_said_my_name/",
+          "publishedOn": "2022-01-05T16:59:08.000Z",
+          "wordCount": 763,
+          "title": "A random user on omegle said my name"
+        },
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/rwr0cq/can_anyone_track_a_deleted_gmail_account/",
+          "author": null,
+          "description": "The police are already involved in this manner, and they’ve told me it’s okay to seek outside help from any individual or a cyber forensic PI company. At my job there’s an anonymous individual that’s been sending harmful misinformation about several of my colleagues. They made a Gmail account, sent emails out to many people, and deleted the account. These emails have ruined many lives. Unfortunately the police can’t do anything, but they said once we get a positive ID we can proceed with charging them with stalking, harassment, and defamation. Just to reiterate, law enforcement is involved, and they’ve given me permission to go this route in apprehending the suspect. Could anyone assist in helping me track down the user so that I may forward the information to the police? I’ll pay.\n    submitted by    /u/deathbygoat  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/rwr0cq/can_anyone_track_a_deleted_gmail_account/",
+          "publishedOn": "2022-01-05T16:39:04.000Z",
+          "wordCount": 1745,
+          "title": "Can anyone track a deleted gmail account?"
+        },
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/rwptjv/could_malware_listen_for_cryptocurrency_mnemonics/",
+          "author": null,
+          "description": "Cryptocurrencies are often secured by a \"mnemonic\" which is a list of words selected from a set of 2048 standard words. If this mnemonic is compromised, all the funds can be stolen.\n Hypothetically, malware could listen for these 2048 keywords through the microphones on our laptops and mobile phones. Upon detecting these keywords, it could send a recording to the hacker.\n I'm asking this because personally I was writing down my mnemonic and then realised I had spoken the words as I was writing. My phone and laptop were in my room with me. There is no way to change my mnemonic currently, so I am hoping it has not been compromised.\n Do you think this kind of hack is plausible, or likely, or is it a slim possibility? Please be honest. Thank you for your time.\n    submitted by    /u/netsec-microphone-Q  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/rwptjv/could_malware_listen_for_cryptocurrency_mnemonics/",
+          "publishedOn": "2022-01-05T15:46:38.000Z",
+          "wordCount": 603,
+          "title": "Could malware listen for cryptocurrency mnemonics through our devices - and what is the likelihood?"
+        },
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/rwj6i6/which_fw_brand_model_do_you_respect_or_even/",
+          "author": null,
+          "description": "Hi,\n The background is that I recently found out that my old Mikrotik RB750GL at home went out of support over a year ago. Since I just botched the PAN PA-200 I got for free from a friend it hit me:\n I have no idea what brands to avoid and what brands have a sound strategy and nice customer support for non enterprise customers.\n While I appreciate model recommendations my curiousity is more about a discussion about brands / models that are positioned for non commercial envirnment and the power user market... the why and why nots. Is there some functionality that you are surprised still isn't implemented in FWs far below the enterpris market? Is there a brand that you will do almost anything to avoid? Is there model that should be crowned as the Bernie Madoff of firewalls?\n I am thinking about SOHO applicance box that \n  \nIs below / around $200\n Is not \"compile OpenBSD on it and use VI to....\"\n as close to set and forget as you dare\n Handles at least 100Mbps internet connectivity (and gigabit routing on the internal net if there's multiple ports)\n Netflix, Gmail etc etc needs to work without configuring every client\n Deal with 2-4 users that thinks \"port\" has something to do with ships\n VLAN capability\n Simple to use VPN like Wireguard\n Smart addon services that might be on a yearly / monthly basis that really is worth it?\n  \n   submitted by    /u/mindlight  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/rwj6i6/which_fw_brand_model_do_you_respect_or_even/",
+          "publishedOn": "2022-01-05T09:45:30.000Z",
+          "wordCount": 1085,
+          "title": "Which FW brand / model do you respect or even impress you?"
+        },
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/rwapy5/what_is_a_good_cvevuln_management_tool/",
+          "author": null,
+          "description": "I have put MANAGEMENT in caps for a reason. We already have some scanners (a couple of big names) but nothing to really help MANAGE the vulns.\n ​\n Ideally things I'd like to be able to do:\n  \nHave workflows based on CVSS eg scores of 7 and greater must be reviewed by X\n \nCVE comments\n \nAdjusted CVSS for local env\n \nmark/detect affected products/components\n \njira integration\n \nIngestion from qualys/other scanners etc\n \nIntegration with threat intel\n \n Sort of like a CVE/vuln/risk specific ticketing system? \n ​\n At the moment we have things in a few different systems/spreadsheets and it's making things a little tough to manage, I'd really like to be able to pull everything together to be able to manage things properly. Should ideally be scanner agnostic.\n    submitted by    /u/paracausalhorse  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/rwapy5/what_is_a_good_cvevuln_management_tool/",
+          "publishedOn": "2022-01-05T01:43:48.000Z",
+          "wordCount": 1151,
+          "title": "What is a good CVE/Vuln MANAGEMENT Tool?"
+        },
         {
           "id": "https://www.reddit.com/r/AskNetsec/comments/rw8640/how_to_change_my_public_ip_manually/",
           "author": null,
@@ -6751,6 +7102,42 @@
       "siteUrl": "https://www.reddit.com/r/redteamsec/",
       "articles": [
         {
+          "id": "https://www.reddit.com/r/redteamsec/comments/rwzwig/staging_cobalt_strike_with_mtls_using_caddy/",
+          "author": null,
+          "description": "submitted by    /u/dmchell  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/redteamsec/comments/rwzwig/staging_cobalt_strike_with_mtls_using_caddy/",
+          "publishedOn": "2022-01-05T23:24:24.000Z",
+          "wordCount": 126,
+          "title": "Staging Cobalt Strike with mTLS using Caddy — Improsec | improving security"
+        },
+        {
+          "id": "https://www.reddit.com/r/redteamsec/comments/rwzu9a/can_you_trust_a_files_digital_signature_new/",
+          "author": null,
+          "description": "submitted by    /u/dmchell  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/redteamsec/comments/rwzu9a/can_you_trust_a_files_digital_signature_new/",
+          "publishedOn": "2022-01-05T23:21:38.000Z",
+          "wordCount": 156,
+          "title": "Can You Trust a File’s Digital Signature? New Zloader Campaign exploits Microsoft’s Signature Verification putting users at risk - Check Point Research"
+        },
+        {
+          "id": "https://www.reddit.com/r/redteamsec/comments/rwkrnl/which_protocols_allow_authentication_with_ad/",
+          "author": null,
+          "description": "SMB - 445. WINRM - 5985/6. RDP - 3389. WMI - 135/9. RPC - 5001. Ldap - 389\n What more?\n    submitted by    /u/henadar  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/redteamsec/comments/rwkrnl/which_protocols_allow_authentication_with_ad/",
+          "publishedOn": "2022-01-05T11:27:08.000Z",
+          "wordCount": 147,
+          "title": "Which protocols allow authentication with AD passwords?"
+        },
+        {
+          "id": "https://www.reddit.com/r/redteamsec/comments/rwimm9/metasploit_payloads_dont_work_with_custom_loaders/",
+          "author": null,
+          "description": "Hello, im taking a course by Sektor7. i have the problem that, no matter in which way i try, i cant get a metasploit payload executed correctly by any loader (cpp) in the course. The program run, but there was no meterpreter session opened no more What I tried:\n  \nSimple xor encryption and decryption\n Simple AES encryption and decryption\n Even base64 encoding doesnt work for me\n  \nI also tried to research the root of the problem with no success. The source I used already was fixed for all problems any debugger gave me:\n The python script for aes encryption: https://pastebin.com/Qyxa3Zrr\n The cpp loader that decrypts and runs the payload in memory: https://pastebin.com/MfVynd45\n the compiler (a custom batch): https://pastebin.com/rn6zXfqi\n I already tried to generate a PE with msfvenom and run it through the python, did not work. I tried to generate the raw payload with msfvenom, then encrypt it manually and put in aes key and payload into the cpp, didnt work. I tried to generate with -f raw -o 1.bin, then run the .bin through the python, didnt work.\n Note: Only the provided shellcodes by Sektor7 seem to work flawlessly. These have no other function besides executing the calc.exe from the System32 folder or showing basic messages. Maybe the sheer size of metasploit generated payloads or its custom functions make them going broken during the cryption and compilation process? If yes, why and how to design the loaders they dont break the payload?\n    submitted by    /u/janameyers2002  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/redteamsec/comments/rwimm9/metasploit_payloads_dont_work_with_custom_loaders/",
+          "publishedOn": "2022-01-05T09:09:09.000Z",
+          "wordCount": 486,
+          "title": "Metasploit payloads dont work with custom loaders"
+        },
+        {
           "id": "https://www.reddit.com/r/redteamsec/comments/rvr9ak/simple_dll_that_creates_and_adds_an_user_to_the/",
           "author": null,
           "description": "A simple C++ DLL that creates and add a user to the Local #Administrator group. Useful when dealing with privilege escalation on Windows to gain local administrator access and do not care of opsec.\n Repo: https://github.com/notdodo/adduser-dll\n    submitted by    /u/d_o_d_o_  \n [link]   [comments]",
@@ -7154,6 +7541,15 @@
       "siteUrl": "https://www.reddit.com/r/exploitdev/",
       "articles": [
         {
+          "id": "https://www.reddit.com/r/ExploitDev/comments/rws0ff/fuzzing_and_exploiting_map_parser_in_teeworlds/",
+          "author": null,
+          "description": "submitted by    /u/mmmds  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/ExploitDev/comments/rws0ff/fuzzing_and_exploiting_map_parser_in_teeworlds/",
+          "publishedOn": "2022-01-05T17:23:36.000Z",
+          "wordCount": 107,
+          "title": "Fuzzing and exploiting map parser in Teeworlds"
+        },
+        {
           "id": "https://www.reddit.com/r/ExploitDev/comments/rvx8g0/top_books_to_learn_android_hacking_security/",
           "author": null,
           "description": "submitted by    /u/pat_ventuzelo  \n [link]   [comments]",
@@ -7430,6 +7826,24 @@
       "feedUrl": "https://www.reddit.com/r/computerforensics/.rss",
       "siteUrl": "https://www.reddit.com/r/computerforensics/",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/computerforensics/comments/rx037o/anyone_use_x1_to_capture_facebook_and_are_you/",
+          "author": null,
+          "description": "Just wondering if it's just me. It's only capturing images on the first page, the rest are blank. I've tried 4 times today\n    submitted by    /u/ShadowsWandering  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/computerforensics/comments/rx037o/anyone_use_x1_to_capture_facebook_and_are_you/",
+          "publishedOn": "2022-01-05T23:32:37.000Z",
+          "wordCount": 213,
+          "title": "Anyone use X1 to capture Facebook and are you having issues with it right now?"
+        },
+        {
+          "id": "https://www.reddit.com/r/computerforensics/comments/rwt95m/automated_approach_to_memory_analysis/",
+          "author": null,
+          "description": "Hello all, So we’re on a Project and being the sole one to do the task, I was wondering if there’s to some extent we can automate the Memory Analysis part!\n Currently, I do it using Volatility Framework! I came across Volatility Bot, but saw it was last pushed 5 years back, so step aside! \n Any leads could really help me in!\n Thanks\n    submitted by    /u/GloryHunter9  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/computerforensics/comments/rwt95m/automated_approach_to_memory_analysis/",
+          "publishedOn": "2022-01-05T18:17:30.000Z",
+          "wordCount": 407,
+          "title": "Automated approach to Memory Analysis"
+        },
         {
           "id": "https://www.reddit.com/r/computerforensics/comments/rw9srq/investigating_an_employee/",
           "author": null,
@@ -7824,6 +8238,24 @@
       "feedUrl": "https://www.reddit.com/r/netsec/.rss",
       "siteUrl": "https://www.reddit.com/r/netsec/",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/netsec/comments/rwwfhh/pptshots_unintentionally_shared_data_in/",
+          "author": null,
+          "description": "submitted by    /u/df_works  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/netsec/comments/rwwfhh/pptshots_unintentionally_shared_data_in/",
+          "publishedOn": "2022-01-05T20:43:58.000Z",
+          "wordCount": 306,
+          "title": "PPTShots - Unintentionally shared data in PowerPoint presentations"
+        },
+        {
+          "id": "https://www.reddit.com/r/netsec/comments/rwoeqn/we_desperately_need_a_way_to_rapidly_notify/",
+          "author": null,
+          "description": "submitted by    /u/sullivanmatt  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/netsec/comments/rwoeqn/we_desperately_need_a_way_to_rapidly_notify/",
+          "publishedOn": "2022-01-05T14:39:38.000Z",
+          "wordCount": 1604,
+          "title": "We desperately need a way to rapidly notify people of high-impact vulnerabilities, so I built one"
+        },
         {
           "id": "https://www.reddit.com/r/netsec/comments/rvxpcm/sears_garage_door_signal_reverse_engineering/",
           "author": null,
@@ -8470,6 +8902,42 @@
       "feedUrl": "https://www.reddit.com/r/opendirectories/.rss",
       "siteUrl": "https://www.reddit.com/r/opendirectories/",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/opendirectories/comments/rwstvy/my_new_discoveries/",
+          "author": null,
+          "description": "http://www4.co.black-hawk.ia.us/engineer/ - Road Establishment Records, County Aerials, Road Establishment Records\n https://www.ndbc.noaa.gov/data/ - So much data!\n http://167.114.174.132:9092/ - Movies, Series, Music, etc \n http://162.12.215.254/ - Movies, Android Apps and Games, Software, Tv Series\n    submitted by    /u/ManaHoney504  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/opendirectories/comments/rwstvy/my_new_discoveries/",
+          "publishedOn": "2022-01-05T17:59:41.000Z",
+          "wordCount": 183,
+          "title": "My new discoveries...."
+        },
+        {
+          "id": "https://www.reddit.com/r/opendirectories/comments/rwj4vo/archiveorg_9th_time_jim/",
+          "author": null,
+          "description": "Is not an open directory. C’mon, mods, help us out here?\n edit/ apparently archive.org is technically an open directory. Thanks mod for addressing this and making the community an even better place for us pirates. Rrrrrrrr, matey.\n edit2/ PEACE AND LOVE, this is not a post directed to anyone in specific. PEACE AND LOVE.\n    submitted by    /u/martusfine  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/opendirectories/comments/rwj4vo/archiveorg_9th_time_jim/",
+          "publishedOn": "2022-01-05T09:42:34.000Z",
+          "wordCount": 615,
+          "title": "Archive.org (9th Time, Jim!)"
+        },
+        {
+          "id": "https://www.reddit.com/r/opendirectories/comments/rwhb1e/lots_of_books/",
+          "author": null,
+          "description": "submitted by    /u/PM_ME_TO_PLAY_A_GAME  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/opendirectories/comments/rwhb1e/lots_of_books/",
+          "publishedOn": "2022-01-05T07:38:57.000Z",
+          "wordCount": 211,
+          "title": "lots of books"
+        },
+        {
+          "id": "https://www.reddit.com/r/opendirectories/comments/rway73/is_there_a_better_alternative_for_mega_and_google/",
+          "author": null,
+          "description": "Please recommend a file sharing service that is better than the two aformentioned. I am uploading books and PDFs concerning translations and machine learning. Something quite unknown to most and not too hassle. Not to keen on bans and removals\n    submitted by    /u/Burlack  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/opendirectories/comments/rway73/is_there_a_better_alternative_for_mega_and_google/",
+          "publishedOn": "2022-01-05T01:54:49.000Z",
+          "wordCount": 726,
+          "title": "Is there a better alternative for Mega and Google Drive?"
+        },
         {
           "id": "https://www.reddit.com/r/opendirectories/comments/rw0nfq/british_tvepisodes_of_the_avengers_bergerac_totp/",
           "author": null,
