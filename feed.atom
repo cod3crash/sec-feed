@@ -2,10 +2,288 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cod3crash.github.io/sec-feed/index.html</id>
     <title>security feed</title>
-    <updated>2022-01-09T01:13:56.839Z</updated>
+    <updated>2022-01-10T01:08:09.509Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://cod3crash.github.io/sec-feed/index.html"/>
     <link rel="self" href="https://cod3crash.github.io/sec-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Exploiting Execute After Redirect (EAR) vulnerability in HTB Previse]]></title>
+        <id>https://medium.com/p/92ea3f1dbf3d</id>
+        <link href="https://infosecwriteups.com/exploiting-execute-after-redirect-ear-vulnerability-in-htb-previse-92ea3f1dbf3d?source=rss------bugbounty-5"/>
+        <updated>2022-01-10T00:07:57.000Z</updated>
+        <summary type="html"><![CDATA[Exploiting Execute After Redirect for fun and profit??
+Continue reading on InfoSec Write-ups »]]></summary>
+        <author>
+            <name>Manash</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[searchsploit vs msfconsole exploit names]]></title>
+        <id>https://www.reddit.com/r/AskNetsec/comments/s028oj/searchsploit_vs_msfconsole_exploit_names/</id>
+        <link href="https://www.reddit.com/r/AskNetsec/comments/s028oj/searchsploit_vs_msfconsole_exploit_names/"/>
+        <updated>2022-01-09T21:35:51.000Z</updated>
+        <summary type="html"><![CDATA[Hi! Let's say I am looking for some webmin exploit through searchsploit:
+  searchsploit webmin ---------------------------------------------------------------------------------------------------------------------------- --------------------------------- Exploit Title | Path ---------------------------------------------------------------------------------------------------------------------------- --------------------------------- DansGuardian Webmin Module 0.x - 'edit.cgi' Directory Traversal | cgi/webapps/23535.txt phpMyWebmin 1.0 - 'target' Remote File Inclusion | php/webapps/2462.txt phpMyWebmin 1.0 - 'window.php' Remote File Inclusion | php/webapps/2451.txt Webmin - Brute Force / Command Execution | multiple/remote/705.pl webmin 0.91 - Directory Traversal | cgi/remote/21183.txt Webmin …]]></summary>
+        <author>
+            <name>AskNetsec</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scanning millions of domains and compromising the email supply chain of Australia's most respected institutions]]></title>
+        <id>https://www.reddit.com/r/redteamsec/comments/s0155r/scanning_millions_of_domains_and_compromising_the/</id>
+        <link href="https://www.reddit.com/r/redteamsec/comments/s0155r/scanning_millions_of_domains_and_compromising_the/"/>
+        <updated>2022-01-09T20:48:25.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/Jumpy_Resolution3089  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Red Team Security</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scanning millions of domains and compromising the email supply chain of Australia's most respected institutions]]></title>
+        <id>https://www.reddit.com/r/netsec/comments/s00mxk/scanning_millions_of_domains_and_compromising_the/</id>
+        <link href="https://www.reddit.com/r/netsec/comments/s00mxk/scanning_millions_of_domains_and_compromising_the/"/>
+        <updated>2022-01-09T20:25:37.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/Jumpy_Resolution3089  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>/r/netsec - Information Security News &amp; Discussion</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Authentication Bypass & ATO]]></title>
+        <id>https://medium.com/p/ebdc5da62c46</id>
+        <link href="https://medium.com/@86karthikkarthik/authentication-bypass-ato-ebdc5da62c46?source=rss------bugbounty-5"/>
+        <updated>2022-01-09T19:33:43.000Z</updated>
+        <summary type="html"><![CDATA[Hi guys this is Karthik. I hope you all are doing good. I’m back with another interesting write-up “Authentication Bypass which leads to…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Karthik</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[blog/wp-json/wp/v2/users FILE is enable it will used for bruteforce attack the admin panel at   blog/wp-login.php]]></title>
+        <id>https://hackerone.com/reports/1403302</id>
+        <link href="https://hackerone.com/reports/1403302"/>
+        <updated>2022-01-09T18:28:36.000Z</updated>
+        <summary type="html"><![CDATA[Mail.ru disclosed a bug submitted by kassem_s94: https://hackerone.com/reports/1403302]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Subpoenaed iPhone and delay in turning it over to police--general outline of what can be lost in this delay?]]></title>
+        <id>https://www.reddit.com/r/computerforensics/comments/rzxvy8/subpoenaed_iphone_and_delay_in_turning_it_over_to/</id>
+        <link href="https://www.reddit.com/r/computerforensics/comments/rzxvy8/subpoenaed_iphone_and_delay_in_turning_it_over_to/"/>
+        <updated>2022-01-09T18:24:46.000Z</updated>
+        <summary type="html"><![CDATA[Ongoing case with Alec Baldwin and on set shooting that resulted in death. Phone was subpoenaed in mid December, still hasn't been turned over.
+ Link to subpoena in comments. Cell carrier is Verizon.
+ By delaying, I would think anything he has deleted will be much harder to recover, since the memory will be overwritten?
+ Any general information or thoughts would be appreciated.
+    submitted by    /u/bbsittrr  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Computer Forensics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hear No Evil: An Introduction to Audio File Analysis for OSINT]]></title>
+        <id>https://medium.com/p/f545c8623377</id>
+        <link href="https://medium.com/@aleksanderrr_/hear-no-evil-an-introduction-to-audio-file-analysis-for-osint-f545c8623377?source=rss------osint-5"/>
+        <updated>2022-01-09T17:57:56.000Z</updated>
+        <summary type="html"><![CDATA[It’s a new year, and that also means new blog posts about all things OSINT and Digital Forensics. In this one, we’re going to dive into…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>aleksander</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I've read about IMSI catchers being a security threat, but I'm not sure I should actually be worried about them. If someone grabbed an IMSI# with an IMSI catcher, how would they get any usable information about me? Is my personal information at risk or is this just a random unusable string to most?]]></title>
+        <id>https://www.reddit.com/r/AskNetsec/comments/rzwehp/ive_read_about_imsi_catchers_being_a_security/</id>
+        <link href="https://www.reddit.com/r/AskNetsec/comments/rzwehp/ive_read_about_imsi_catchers_being_a_security/"/>
+        <updated>2022-01-09T17:18:07.000Z</updated>
+        <summary type="html"><![CDATA[The paper that drew this to my attention: https://arxiv.org/pdf/1510.07563.pdf
+ Corresponding article: https://arstechnica.com/information-technology/2015/10/low-cost-imsi-catcher-for-4glte-networks-track-phones-precise-locations/
+ In the paper, it claims that they can pull IMSI and IMEI off of smartphones, but I see no claim of knowing what the number or name of the phone is. If all they have is an IMSI and IMEI, am I really at risk? Is is usable information to have these numbers to a person who is undefined.
+ Like, if someone stole my gmail password without knowing who I was or my account name, they could try it in every gmail account starting at a@gmail.com, but that might take a long time. Right?
+ So the question is basically, is there actually a danger present in having my IMSI and IMEI accessed due to either the release of the information itself or in that there might be a way to connect it to me that I'm not aware of?
+ I tried looking through Wikipedia for an answer. It's either not there or I'm too dumb. Either way I'd appreciate help in my paranoid quest for knowledge if any Redditors would be kind enough to offer it.
+ 
+ tl;dr:
+ What can an IMSI catcher know?
+ &
+ What can the operator do with that information?
+    submitted by    /u/iExtrapolate314  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>AskNetsec</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Looking for resources on detection engineering]]></title>
+        <id>https://www.reddit.com/r/AskNetsec/comments/rzvc3a/looking_for_resources_on_detection_engineering/</id>
+        <link href="https://www.reddit.com/r/AskNetsec/comments/rzvc3a/looking_for_resources_on_detection_engineering/"/>
+        <updated>2022-01-09T16:29:18.000Z</updated>
+        <summary type="html"><![CDATA[Hi there,
+ I am trying to develop myself in detection engineering, have you got any interesting resources on the topic?
+ Cheers
+    submitted by    /u/zakibros  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>AskNetsec</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Get your own Hacking VPS for free in 2022!!]]></title>
+        <id>https://medium.com/p/89f5cc678758</id>
+        <link href="https://medium.com/@blackstorm.hacker777/get-your-own-hacking-vps-for-free-in-2022-89f5cc678758?source=rss------bugbounty-5"/>
+        <updated>2022-01-09T16:28:29.000Z</updated>
+        <summary type="html"><![CDATA[Introduction
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Blackstorm Hacker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SecWiki News 2022-01-09 Review]]></title>
+        <id>http://www.sec-wiki.com/?2022-01-09</id>
+        <link href="http://www.sec-wiki.com/?2022-01-09"/>
+        <updated>2022-01-09T15:58:20.000Z</updated>
+        <summary type="html"><![CDATA[今日暂未更新资讯~
+更多最新文章，请访问SecWiki]]></summary>
+        <author>
+            <name>SecWiki News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Host Header Injection Lead To Account Takeover]]></title>
+        <id>https://medium.com/p/2f025a645d13</id>
+        <link href="https://m7-arman.medium.com/host-header-injection-lead-to-account-takeover-2f025a645d13?source=rss------bugbounty-5"/>
+        <updated>2022-01-09T15:41:47.000Z</updated>
+        <summary type="html"><![CDATA[Hello amazing hacker, Today, I want to talk about one of my finding in private pentest program that lead me takeover other user account by…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>M7.Arman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PHP Type Juggling Vulnerability]]></title>
+        <id>https://medium.com/p/a92a89894aa4</id>
+        <link href="https://medium.com/@ibnualam/php-type-juggling-vulnerability-a92a89894aa4?source=rss------bugbounty-5"/>
+        <updated>2022-01-09T15:15:19.000Z</updated>
+        <summary type="html"><![CDATA[بِسْمِ ٱللَّٰهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Ibnu Alam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I know that Stingrays can capture IMSI #s from nearby smartphones. Can they also capture phone numbers and personal data too or is it just the serial number?]]></title>
+        <id>https://www.reddit.com/r/AskNetsec/comments/rzsnul/i_know_that_stingrays_can_capture_imsi_s_from/</id>
+        <link href="https://www.reddit.com/r/AskNetsec/comments/rzsnul/i_know_that_stingrays_can_capture_imsi_s_from/"/>
+        <updated>2022-01-09T14:19:16.000Z</updated>
+        <summary type="html"><![CDATA[I know the authorities might have a database, but let's say a hacker picked up my smartphone with an IMSI catcher. They really know nothing right? Because they can't extract anything useful from that, right? Is that true or am I being naive.
+ I read a paper that claimed that the extraction of IMSIs from smartphones was a security threat, but without a phone number, it doesn't seem all that useful to them.
+ Article: https://arstechnica.com/information-technology/2015/10/low-cost-imsi-catcher-for-4glte-networks-track-phones-precise-locations/
+ Paper: http://go.redirectingat.com/?id=100098X1555750&xs=1&url=http%3A%2F%2Farxiv.org%2Fabs%2F1510.07563&sref=rss
+    submitted by    /u/anon314159265358p  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>AskNetsec</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[how does a malware call back using DGA DNS?]]></title>
+        <id>https://www.reddit.com/r/AskNetsec/comments/rzqmid/how_does_a_malware_call_back_using_dga_dns/</id>
+        <link href="https://www.reddit.com/r/AskNetsec/comments/rzqmid/how_does_a_malware_call_back_using_dga_dns/"/>
+        <updated>2022-01-09T12:26:15.000Z</updated>
+        <summary type="html"><![CDATA[I was reading more into solarwinds hack and I noticed that the malware called back home using a DHA DNS algorithm, but I'm struggling to understnad how did they hackers know which domain to buy/use for their malware?
+ based on the article: https://en.wikipedia.org/wiki/Domain_generation_algorithm
+ I can understand how the malware generates the domain names but how does c2 and malware meet at a certain domain name? Especially if the malware generates 50k domains ?
+    submitted by    /u/ak_z  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>AskNetsec</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Attacktive Directory — Exploitation of Vulnerable Domain controller [TryHackMe]]]></title>
+        <id>https://medium.com/p/90465c2d48ea</id>
+        <link href="https://surya-dev.medium.com/attacktive-directory-tryhackme-90465c2d48ea?source=rss------redteam-5"/>
+        <updated>2022-01-09T11:01:02.000Z</updated>
+        <summary type="html"><![CDATA[99% of Corporate networks run off of AD. But can you exploit a vulnerable Domain Controller?
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Surya Dev Singh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[potato journal articles]]></title>
+        <id>https://www.reddit.com/r/opendirectories/comments/rzp4yu/potato_journal_articles/</id>
+        <link href="https://www.reddit.com/r/opendirectories/comments/rzp4yu/potato_journal_articles/"/>
+        <updated>2022-01-09T10:49:37.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/PM_ME_TO_PLAY_A_GAME  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Open Directories</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[STORED XSS]]></title>
+        <id>https://medium.com/p/8a17b088bb9a</id>
+        <link href="https://pullakarthik5.medium.com/stored-xss-8a17b088bb9a?source=rss------bugbounty-5"/>
+        <updated>2022-01-09T09:07:34.000Z</updated>
+        <summary type="html"><![CDATA[Hello Everyone,
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>@pullakarthik</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2FA bypass by reading the documentation]]></title>
+        <id>https://medium.com/p/3260a372d8a8</id>
+        <link href="https://noob3xploiter.medium.com/2fa-bypass-by-reading-the-documentation-3260a372d8a8?source=rss------bugbounty-5"/>
+        <updated>2022-01-09T07:52:25.000Z</updated>
+        <summary type="html"><![CDATA[This is a fairly simple and short writeup, but i think is worth sharing, so lets get started.
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Brandon Roldan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Certified in Open Source Intelligence (C|OSINT) Review]]></title>
+        <id>https://medium.com/p/cdd7325286ba</id>
+        <link href="https://medium.com/@CyberRaya/certified-in-open-source-intelligence-c-osint-review-cdd7325286ba?source=rss------osint-5"/>
+        <updated>2022-01-09T05:14:01.000Z</updated>
+        <summary type="html"><![CDATA[Certification for OSINT Professional
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>CyberRaya</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unpacking CVE-2021-40444: A Deep Technical Analysis of an Office RCE Exploit]]></title>
+        <id>https://www.reddit.com/r/ExploitDev/comments/rzk1rq/unpacking_cve202140444_a_deep_technical_analysis/</id>
+        <link href="https://www.reddit.com/r/ExploitDev/comments/rzk1rq/unpacking_cve202140444_a_deep_technical_analysis/"/>
+        <updated>2022-01-09T05:07:46.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/soupcreamychicken  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Exploit Development</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Forensic computers]]></title>
+        <id>https://www.reddit.com/r/computerforensics/comments/rzi1xd/forensic_computers/</id>
+        <link href="https://www.reddit.com/r/computerforensics/comments/rzi1xd/forensic_computers/"/>
+        <updated>2022-01-09T03:19:04.000Z</updated>
+        <summary type="html"><![CDATA[Does anyone have experience with Siforce forensic workstations? How do they compare to Sumuri Talinos?
+    submitted by    /u/HorseAdministrative7  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Computer Forensics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[OK what’s the Reddit hack to wear you can’t send a private message because it thinks you have over 100 letters of tax this is currently going on I was banned for some thing I have no clue of why trying to figure this out]]></title>
         <id>https://www.reddit.com/r/AskNetsec/comments/rzf7zu/ok_whats_the_reddit_hack_to_wear_you_cant_send_a/</id>
@@ -663,6 +941,16 @@ Continue reading on 100security »]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[预计 2025 年，反病毒软件市场规模将达到 45.4 亿美元]]></title>
+        <id>https://www.freebuf.com/news/319019.html</id>
+        <link href="https://www.freebuf.com/news/319019.html"/>
+        <updated>2022-01-07T11:20:28.000Z</updated>
+        <summary type="html"><![CDATA[2025年，反病毒软件市场规模预计将达到45.4亿美元。]]></summary>
+        <author>
+            <name>FreeBuf网络安全行业门户</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[How i got financial advisor by simply hack into their membership plan !]]></title>
         <id>https://medium.com/p/58f5b1f7425</id>
         <link href="https://aadeshnamdev.medium.com/how-i-got-financial-advisor-by-simply-hack-into-their-membership-plan-58f5b1f7425?source=rss------bugbounty-5"/>
@@ -674,6 +962,16 @@ Continue reading on Medium »]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[FreeBuf早报 | 上海首笔数字人民币就业补贴落地；VMware 解决产品中堆溢出漏洞]]></title>
+        <id>https://www.freebuf.com/news/319003.html</id>
+        <link href="https://www.freebuf.com/news/319003.html"/>
+        <updated>2022-01-07T09:46:17.000Z</updated>
+        <summary type="html"><![CDATA[能将相应的数据验证和交叉比对，为打击违法犯罪提供信息支持。]]></summary>
+        <author>
+            <name>FreeBuf网络安全行业门户</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[A TALE OF 5250$ : HOW I ACCESSED MILLIONS OF USER’S DATA INCLUDING THEIR NATIONAL ID’S]]></title>
         <id>https://medium.com/p/fd48ca7ca0bf</id>
         <link href="https://infosecwriteups.com/a-tale-of-5250-how-i-accessed-millions-of-users-data-including-their-national-id-s-fd48ca7ca0bf?source=rss------bugbounty-5"/>
@@ -682,6 +980,16 @@ Continue reading on Medium »]]></summary>
 Continue reading on InfoSec Write-ups »]]></summary>
         <author>
             <name>Sam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bandit通关记录【linux基础命令学习】]]></title>
+        <id>https://www.freebuf.com/articles/others-articles/317400.html</id>
+        <link href="https://www.freebuf.com/articles/others-articles/317400.html"/>
+        <updated>2022-01-07T08:56:19.000Z</updated>
+        <summary type="html"><![CDATA[Bandit是一个学习Linux的网站，它采用游戏通关的方式来帮助我们学习linux基本使用的命令，十分适合没有基础或基础较弱的同学学习，本篇通关了所有关卡并对相关知识进行了记录和收集。]]></summary>
+        <author>
+            <name>FreeBuf网络安全行业门户</name>
         </author>
     </entry>
     <entry>

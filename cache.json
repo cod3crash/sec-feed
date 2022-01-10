@@ -6,6 +6,15 @@
       "siteUrl": "http://h1.nobbd.de/",
       "articles": [
         {
+          "id": "https://hackerone.com/reports/1403302",
+          "author": null,
+          "description": "Mail.ru disclosed a bug submitted by kassem_s94: https://hackerone.com/reports/1403302",
+          "link": "https://hackerone.com/reports/1403302",
+          "publishedOn": "2022-01-09T18:28:36.000Z",
+          "wordCount": 25,
+          "title": "blog/wp-json/wp/v2/users FILE is enable it will used for bruteforce attack the admin panel at   blog/wp-login.php"
+        },
+        {
           "id": "https://hackerone.com/reports/1419213",
           "author": null,
           "description": "MariaDB disclosed a bug submitted by realtess: https://hackerone.com/reports/1419213",
@@ -1739,6 +1748,69 @@
       "siteUrl": "https://medium.com/tag/bugbounty/latest?source=rss------bugbounty-5",
       "articles": [
         {
+          "id": "https://medium.com/p/92ea3f1dbf3d",
+          "author": "Manash",
+          "description": "Exploiting Execute After Redirect for fun and profit??\nContinue reading on InfoSec Write-ups »",
+          "link": "https://infosecwriteups.com/exploiting-execute-after-redirect-ear-vulnerability-in-htb-previse-92ea3f1dbf3d?source=rss------bugbounty-5",
+          "publishedOn": "2022-01-10T00:07:57.000Z",
+          "wordCount": 571,
+          "title": "Exploiting Execute After Redirect (EAR) vulnerability in HTB Previse"
+        },
+        {
+          "id": "https://medium.com/p/ebdc5da62c46",
+          "author": "Karthik",
+          "description": "Hi guys this is Karthik. I hope you all are doing good. I’m back with another interesting write-up “Authentication Bypass which leads to…\nContinue reading on Medium »",
+          "link": "https://medium.com/@86karthikkarthik/authentication-bypass-ato-ebdc5da62c46?source=rss------bugbounty-5",
+          "publishedOn": "2022-01-09T19:33:43.000Z",
+          "wordCount": 409,
+          "title": "Authentication Bypass & ATO"
+        },
+        {
+          "id": "https://medium.com/p/89f5cc678758",
+          "author": "Blackstorm Hacker",
+          "description": "Introduction\nContinue reading on Medium »",
+          "link": "https://medium.com/@blackstorm.hacker777/get-your-own-hacking-vps-for-free-in-2022-89f5cc678758?source=rss------bugbounty-5",
+          "publishedOn": "2022-01-09T16:28:29.000Z",
+          "wordCount": 969,
+          "title": "Get your own Hacking VPS for free in 2022!!"
+        },
+        {
+          "id": "https://medium.com/p/2f025a645d13",
+          "author": "M7.Arman",
+          "description": "Hello amazing hacker, Today, I want to talk about one of my finding in private pentest program that lead me takeover other user account by…\nContinue reading on Medium »",
+          "link": "https://m7-arman.medium.com/host-header-injection-lead-to-account-takeover-2f025a645d13?source=rss------bugbounty-5",
+          "publishedOn": "2022-01-09T15:41:47.000Z",
+          "wordCount": 495,
+          "title": "Host Header Injection Lead To Account Takeover"
+        },
+        {
+          "id": "https://medium.com/p/a92a89894aa4",
+          "author": "Ibnu Alam",
+          "description": "بِسْمِ ٱللَّٰهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ\nContinue reading on Medium »",
+          "link": "https://medium.com/@ibnualam/php-type-juggling-vulnerability-a92a89894aa4?source=rss------bugbounty-5",
+          "publishedOn": "2022-01-09T15:15:19.000Z",
+          "wordCount": 118,
+          "title": "PHP Type Juggling Vulnerability"
+        },
+        {
+          "id": "https://medium.com/p/8a17b088bb9a",
+          "author": "@pullakarthik",
+          "description": "Hello Everyone,\nContinue reading on Medium »",
+          "link": "https://pullakarthik5.medium.com/stored-xss-8a17b088bb9a?source=rss------bugbounty-5",
+          "publishedOn": "2022-01-09T09:07:34.000Z",
+          "wordCount": 606,
+          "title": "STORED XSS"
+        },
+        {
+          "id": "https://medium.com/p/3260a372d8a8",
+          "author": "Brandon Roldan",
+          "description": "This is a fairly simple and short writeup, but i think is worth sharing, so lets get started.\nContinue reading on Medium »",
+          "link": "https://noob3xploiter.medium.com/2fa-bypass-by-reading-the-documentation-3260a372d8a8?source=rss------bugbounty-5",
+          "publishedOn": "2022-01-09T07:52:25.000Z",
+          "wordCount": 263,
+          "title": "2FA bypass by reading the documentation"
+        },
+        {
           "id": "https://medium.com/p/ff47773bb79f",
           "author": "Sumon Nath",
           "description": "Hi everyone, \nIt was 7 January 2022 when I woke up from sleep I saw an email from MSRC i thought it must be related to the vulnerability…\nContinue reading on Medium »",
@@ -2763,6 +2835,15 @@
       "siteUrl": "https://medium.com/tag/redteam/latest?source=rss------redteam-5",
       "articles": [
         {
+          "id": "https://medium.com/p/90465c2d48ea",
+          "author": "Surya Dev Singh",
+          "description": "99% of Corporate networks run off of AD. But can you exploit a vulnerable Domain Controller?\nContinue reading on Medium »",
+          "link": "https://surya-dev.medium.com/attacktive-directory-tryhackme-90465c2d48ea?source=rss------redteam-5",
+          "publishedOn": "2022-01-09T11:01:02.000Z",
+          "wordCount": 2033,
+          "title": "Attacktive Directory — Exploitation of Vulnerable Domain controller [TryHackMe]"
+        },
+        {
           "id": "https://medium.com/p/badb5dc88b2d",
           "author": "Edoardo Rosa",
           "description": "On of the most known authentication protocol in Windows environment is Kerberos (RFC 1510 for the V5).\nContinue reading on Medium »",
@@ -3505,6 +3586,24 @@
       "feedUrl": "https://medium.com/feed/tag/osint",
       "siteUrl": "https://medium.com/tag/osint/latest?source=rss------osint-5",
       "articles": [
+        {
+          "id": "https://medium.com/p/f545c8623377",
+          "author": "aleksander",
+          "description": "It’s a new year, and that also means new blog posts about all things OSINT and Digital Forensics. In this one, we’re going to dive into…\nContinue reading on Medium »",
+          "link": "https://medium.com/@aleksanderrr_/hear-no-evil-an-introduction-to-audio-file-analysis-for-osint-f545c8623377?source=rss------osint-5",
+          "publishedOn": "2022-01-09T17:57:56.000Z",
+          "wordCount": 1489,
+          "title": "Hear No Evil: An Introduction to Audio File Analysis for OSINT"
+        },
+        {
+          "id": "https://medium.com/p/cdd7325286ba",
+          "author": "CyberRaya",
+          "description": "Certification for OSINT Professional\nContinue reading on Medium »",
+          "link": "https://medium.com/@CyberRaya/certified-in-open-source-intelligence-c-osint-review-cdd7325286ba?source=rss------osint-5",
+          "publishedOn": "2022-01-09T05:14:01.000Z",
+          "wordCount": 350,
+          "title": "Certified in Open Source Intelligence (C|OSINT) Review"
+        },
         {
           "id": "https://medium.com/p/bc2248499d7",
           "author": "h51un6",
@@ -5130,6 +5229,33 @@
       "siteUrl": "https://www.freebuf.com",
       "articles": [
         {
+          "id": "https://www.freebuf.com/news/319019.html",
+          "author": null,
+          "description": "2025年，反病毒软件市场规模预计将达到45.4亿美元。",
+          "link": "https://www.freebuf.com/news/319019.html",
+          "publishedOn": "2022-01-07T11:20:28.000Z",
+          "wordCount": 181,
+          "title": "预计 2025 年，反病毒软件市场规模将达到 45.4 亿美元"
+        },
+        {
+          "id": "https://www.freebuf.com/news/319003.html",
+          "author": null,
+          "description": "能将相应的数据验证和交叉比对，为打击违法犯罪提供信息支持。",
+          "link": "https://www.freebuf.com/news/319003.html",
+          "publishedOn": "2022-01-07T09:46:17.000Z",
+          "wordCount": 265,
+          "title": "FreeBuf早报 | 上海首笔数字人民币就业补贴落地；VMware 解决产品中堆溢出漏洞"
+        },
+        {
+          "id": "https://www.freebuf.com/articles/others-articles/317400.html",
+          "author": null,
+          "description": "Bandit是一个学习Linux的网站，它采用游戏通关的方式来帮助我们学习linux基本使用的命令，十分适合没有基础或基础较弱的同学学习，本篇通关了所有关卡并对相关知识进行了记录和收集。",
+          "link": "https://www.freebuf.com/articles/others-articles/317400.html",
+          "publishedOn": "2022-01-07T08:56:19.000Z",
+          "wordCount": 367,
+          "title": "Bandit通关记录【linux基础命令学习】"
+        },
+        {
           "id": "https://www.freebuf.com/fevents/318987.html",
           "author": null,
           "description": "大会已正式定档于3月2日至3日在上海宝华万豪酒店举办。",
@@ -6728,6 +6854,15 @@
       "siteUrl": "http://www.sec-wiki.com/",
       "articles": [
         {
+          "id": "http://www.sec-wiki.com/?2022-01-09",
+          "author": null,
+          "description": "今日暂未更新资讯~\n更多最新文章，请访问SecWiki",
+          "link": "http://www.sec-wiki.com/?2022-01-09",
+          "publishedOn": "2022-01-09T15:58:20.000Z",
+          "wordCount": 585,
+          "title": "SecWiki News 2022-01-09 Review"
+        },
+        {
           "id": "http://www.sec-wiki.com/?2022-01-08",
           "author": null,
           "description": "有用的无用模型：网络安全中复杂问题的建模方法   by ourren\nAPT新趋势：战略性休眠域名利用率提升，检测困难  by ourren\n2021年网络安全产业态势总结  by ourren\n2021 年全球主要网络安全威胁发展态势  by ourren\n更多最新文章，请访问SecWiki",
@@ -6977,6 +7112,51 @@
       "feedUrl": "https://www.reddit.com/r/asknetsec/.rss",
       "siteUrl": "https://www.reddit.com/r/asknetsec/",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/s028oj/searchsploit_vs_msfconsole_exploit_names/",
+          "author": null,
+          "description": "Hi! Let's say I am looking for some webmin exploit through searchsploit:\n  searchsploit webmin ---------------------------------------------------------------------------------------------------------------------------- --------------------------------- Exploit Title | Path ---------------------------------------------------------------------------------------------------------------------------- --------------------------------- DansGuardian Webmin Module 0.x - 'edit.cgi' Directory Traversal | cgi/webapps/23535.txt phpMyWebmin 1.0 - 'target' Remote File Inclusion | php/webapps/2462.txt phpMyWebmin 1.0 - 'window.php' Remote File Inclusion | php/webapps/2451.txt Webmin - Brute Force / Command Execution | multiple/remote/705.pl webmin 0.91 - Directory Traversal | cgi/remote/21183.txt Webmin …",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/s028oj/searchsploit_vs_msfconsole_exploit_names/",
+          "publishedOn": "2022-01-09T21:35:51.000Z",
+          "wordCount": 533,
+          "title": "searchsploit vs msfconsole exploit names"
+        },
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/rzwehp/ive_read_about_imsi_catchers_being_a_security/",
+          "author": null,
+          "description": "The paper that drew this to my attention: https://arxiv.org/pdf/1510.07563.pdf\n Corresponding article: https://arstechnica.com/information-technology/2015/10/low-cost-imsi-catcher-for-4glte-networks-track-phones-precise-locations/\n In the paper, it claims that they can pull IMSI and IMEI off of smartphones, but I see no claim of knowing what the number or name of the phone is. If all they have is an IMSI and IMEI, am I really at risk? Is is usable information to have these numbers to a person who is undefined.\n Like, if someone stole my gmail password without knowing who I was or my account name, they could try it in every gmail account starting at a@gmail.com, but that might take a long time. Right?\n So the question is basically, is there actually a danger present in having my IMSI and IMEI accessed due to either the release of the information itself or in that there might be a way to connect it to me that I'm not aware of?\n I tried looking through Wikipedia for an answer. It's either not there or I'm too dumb. Either way I'd appreciate help in my paranoid quest for knowledge if any Redditors would be kind enough to offer it.\n \n tl;dr:\n What can an IMSI catcher know?\n &\n What can the operator do with that information?\n    submitted by    /u/iExtrapolate314  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/rzwehp/ive_read_about_imsi_catchers_being_a_security/",
+          "publishedOn": "2022-01-09T17:18:07.000Z",
+          "wordCount": 512,
+          "title": "I've read about IMSI catchers being a security threat, but I'm not sure I should actually be worried about them. If someone grabbed an IMSI# with an IMSI catcher, how would they get any usable information about me? Is my personal information at risk or is this just a random unusable string to most?"
+        },
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/rzvc3a/looking_for_resources_on_detection_engineering/",
+          "author": null,
+          "description": "Hi there,\n I am trying to develop myself in detection engineering, have you got any interesting resources on the topic?\n Cheers\n    submitted by    /u/zakibros  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/rzvc3a/looking_for_resources_on_detection_engineering/",
+          "publishedOn": "2022-01-09T16:29:18.000Z",
+          "wordCount": 227,
+          "title": "Looking for resources on detection engineering"
+        },
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/rzsnul/i_know_that_stingrays_can_capture_imsi_s_from/",
+          "author": null,
+          "description": "I know the authorities might have a database, but let's say a hacker picked up my smartphone with an IMSI catcher. They really know nothing right? Because they can't extract anything useful from that, right? Is that true or am I being naive.\n I read a paper that claimed that the extraction of IMSIs from smartphones was a security threat, but without a phone number, it doesn't seem all that useful to them.\n Article: https://arstechnica.com/information-technology/2015/10/low-cost-imsi-catcher-for-4glte-networks-track-phones-precise-locations/\n Paper: http://go.redirectingat.com/?id=100098X1555750&xs=1&url=http%3A%2F%2Farxiv.org%2Fabs%2F1510.07563&sref=rss\n    submitted by    /u/anon314159265358p  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/rzsnul/i_know_that_stingrays_can_capture_imsi_s_from/",
+          "publishedOn": "2022-01-09T14:19:16.000Z",
+          "wordCount": 815,
+          "title": "I know that Stingrays can capture IMSI #s from nearby smartphones. Can they also capture phone numbers and personal data too or is it just the serial number?"
+        },
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/rzqmid/how_does_a_malware_call_back_using_dga_dns/",
+          "author": null,
+          "description": "I was reading more into solarwinds hack and I noticed that the malware called back home using a DHA DNS algorithm, but I'm struggling to understnad how did they hackers know which domain to buy/use for their malware?\n based on the article: https://en.wikipedia.org/wiki/Domain_generation_algorithm\n I can understand how the malware generates the domain names but how does c2 and malware meet at a certain domain name? Especially if the malware generates 50k domains ?\n    submitted by    /u/ak_z  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/rzqmid/how_does_a_malware_call_back_using_dga_dns/",
+          "publishedOn": "2022-01-09T12:26:15.000Z",
+          "wordCount": 903,
+          "title": "how does a malware call back using DGA DNS?"
+        },
         {
           "id": "https://www.reddit.com/r/AskNetsec/comments/rzf7zu/ok_whats_the_reddit_hack_to_wear_you_cant_send_a/",
           "author": null,
@@ -8002,6 +8182,15 @@
       "siteUrl": "https://www.reddit.com/r/redteamsec/",
       "articles": [
         {
+          "id": "https://www.reddit.com/r/redteamsec/comments/s0155r/scanning_millions_of_domains_and_compromising_the/",
+          "author": null,
+          "description": "submitted by    /u/Jumpy_Resolution3089  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/redteamsec/comments/s0155r/scanning_millions_of_domains_and_compromising_the/",
+          "publishedOn": "2022-01-09T20:48:25.000Z",
+          "wordCount": 386,
+          "title": "Scanning millions of domains and compromising the email supply chain of Australia's most respected institutions"
+        },
+        {
           "id": "https://www.reddit.com/r/redteamsec/comments/rz7zou/unpacking_cve202140444_a_deep_technical_analysis/",
           "author": null,
           "description": "submitted by    /u/dmchell  \n [link]   [comments]",
@@ -8531,6 +8720,15 @@
       "siteUrl": "https://www.reddit.com/r/exploitdev/",
       "articles": [
         {
+          "id": "https://www.reddit.com/r/ExploitDev/comments/rzk1rq/unpacking_cve202140444_a_deep_technical_analysis/",
+          "author": null,
+          "description": "submitted by    /u/soupcreamychicken  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/ExploitDev/comments/rzk1rq/unpacking_cve202140444_a_deep_technical_analysis/",
+          "publishedOn": "2022-01-09T05:07:46.000Z",
+          "wordCount": 119,
+          "title": "Unpacking CVE-2021-40444: A Deep Technical Analysis of an Office RCE Exploit"
+        },
+        {
           "id": "https://www.reddit.com/r/ExploitDev/comments/rws0ff/fuzzing_and_exploiting_map_parser_in_teeworlds/",
           "author": null,
           "description": "submitted by    /u/mmmds  \n [link]   [comments]",
@@ -8816,6 +9014,24 @@
       "feedUrl": "https://www.reddit.com/r/computerforensics/.rss",
       "siteUrl": "https://www.reddit.com/r/computerforensics/",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/computerforensics/comments/rzxvy8/subpoenaed_iphone_and_delay_in_turning_it_over_to/",
+          "author": null,
+          "description": "Ongoing case with Alec Baldwin and on set shooting that resulted in death. Phone was subpoenaed in mid December, still hasn't been turned over.\n Link to subpoena in comments. Cell carrier is Verizon.\n By delaying, I would think anything he has deleted will be much harder to recover, since the memory will be overwritten?\n Any general information or thoughts would be appreciated.\n    submitted by    /u/bbsittrr  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/computerforensics/comments/rzxvy8/subpoenaed_iphone_and_delay_in_turning_it_over_to/",
+          "publishedOn": "2022-01-09T18:24:46.000Z",
+          "wordCount": 839,
+          "title": "Subpoenaed iPhone and delay in turning it over to police--general outline of what can be lost in this delay?"
+        },
+        {
+          "id": "https://www.reddit.com/r/computerforensics/comments/rzi1xd/forensic_computers/",
+          "author": null,
+          "description": "Does anyone have experience with Siforce forensic workstations? How do they compare to Sumuri Talinos?\n    submitted by    /u/HorseAdministrative7  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/computerforensics/comments/rzi1xd/forensic_computers/",
+          "publishedOn": "2022-01-09T03:19:04.000Z",
+          "wordCount": 565,
+          "title": "Forensic computers"
+        },
         {
           "id": "https://www.reddit.com/r/computerforensics/comments/rxsxfi/is_it_possible_to_extract_whatsapp_data_from_this/",
           "author": null,
@@ -9255,6 +9471,15 @@
       "feedUrl": "https://www.reddit.com/r/netsec/.rss",
       "siteUrl": "https://www.reddit.com/r/netsec/",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/netsec/comments/s00mxk/scanning_millions_of_domains_and_compromising_the/",
+          "author": null,
+          "description": "submitted by    /u/Jumpy_Resolution3089  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/netsec/comments/s00mxk/scanning_millions_of_domains_and_compromising_the/",
+          "publishedOn": "2022-01-09T20:25:37.000Z",
+          "wordCount": 528,
+          "title": "Scanning millions of domains and compromising the email supply chain of Australia's most respected institutions"
+        },
         {
           "id": "https://www.reddit.com/r/netsec/comments/rz0ybf/project_to_regularly_and_automatically_update/",
           "author": null,
@@ -10000,6 +10225,15 @@
       "feedUrl": "https://www.reddit.com/r/opendirectories/.rss",
       "siteUrl": "https://www.reddit.com/r/opendirectories/",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/opendirectories/comments/rzp4yu/potato_journal_articles/",
+          "author": null,
+          "description": "submitted by    /u/PM_ME_TO_PLAY_A_GAME  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/opendirectories/comments/rzp4yu/potato_journal_articles/",
+          "publishedOn": "2022-01-09T10:49:37.000Z",
+          "wordCount": 175,
+          "title": "potato journal articles"
+        },
         {
           "id": "https://www.reddit.com/r/opendirectories/comments/rz8y6l/my_od_full_of_japanese_music_and_more/",
           "author": null,
