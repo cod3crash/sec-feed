@@ -2,10 +2,388 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cod3crash.github.io/sec-feed/index.html</id>
     <title>security feed</title>
-    <updated>2022-01-10T01:08:09.509Z</updated>
-    <generator>osmosfeed 1.11.3</generator>
+    <updated>2022-01-11T01:11:18.851Z</updated>
+    <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://cod3crash.github.io/sec-feed/index.html"/>
     <link rel="self" href="https://cod3crash.github.io/sec-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to remove root certificates from work]]></title>
+        <id>https://www.reddit.com/r/AskNetsec/comments/s0zgwl/how_to_remove_root_certificates_from_work/</id>
+        <link href="https://www.reddit.com/r/AskNetsec/comments/s0zgwl/how_to_remove_root_certificates_from_work/"/>
+        <updated>2022-01-11T00:37:21.000Z</updated>
+        <summary type="html"><![CDATA[I recently started a new job at a government facility with a BYOD policy at work. Without thinking, I used my personal phone and logged in to the wifi which required me to accept root certificates. I am now aware that all my traffic can be decrypted and anything on my personal phone can be monitored on any network. I wish to keep my personal privacy and use a separate device for work now. How can I reset my phone to remove the root certificates? As I understand it, a standard factory reset may not work if the cert provided superuser permissions. Would a stock ROM install remove the root cert?
+    submitted by    /u/lloptty774  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>AskNetsec</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trying to find a way to see when a user account that is now deleted, was first created. Is that possible?]]></title>
+        <id>https://www.reddit.com/r/computerforensics/comments/s0wkbg/trying_to_find_a_way_to_see_when_a_user_account/</id>
+        <link href="https://www.reddit.com/r/computerforensics/comments/s0wkbg/trying_to_find_a_way_to_see_when_a_user_account/"/>
+        <updated>2022-01-10T22:29:38.000Z</updated>
+        <summary type="html"><![CDATA[So the HDD , which ran XP, doesn’t boot anymore. I can access the files however. 
+ I’m trying to find a when a specific account was created on this drive. It was created from the original admin account , which also was deleted and replaced later on. 
+ . The user account files of the first admin account were saved , but nothing of the account that I’m looking for. 
+ The guest account is still the same guest account with files from when it used to be mine. So it wasn’t factory reset or anything. 
+ Am I out of luck for figuring out when the deleted account I’m looking for was created?
+    submitted by    /u/Pubh12  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Computer Forensics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Active Directory Privilege Escalation (CVE-2021–42278)]]></title>
+        <id>https://www.hackingarticles.in/?p=27483</id>
+        <link href="https://www.hackingarticles.in/active-directory-privilege-escalation-cve-2021-42278/"/>
+        <updated>2022-01-10T21:13:03.000Z</updated>
+        <summary type="html"><![CDATA[This post discusses how CVE-2021-42287 allows potential attackers to gain high privileged user access (domain controllers Administrator level access) via a low privileged user (any
+The post Active Directory Privilege Escalation (CVE-2021–42278) appeared first on Hacking Articles.]]></summary>
+        <author>
+            <name>Raj Chandel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is an SS7 attack and how does it work?]]></title>
+        <id>https://www.reddit.com/r/AskNetsec/comments/s0t5za/what_is_an_ss7_attack_and_how_does_it_work/</id>
+        <link href="https://www.reddit.com/r/AskNetsec/comments/s0t5za/what_is_an_ss7_attack_and_how_does_it_work/"/>
+        <updated>2022-01-10T20:07:58.000Z</updated>
+        <summary type="html"><![CDATA[I made the post about the IMSI Catchers and someone brought this up.
+    submitted by    /u/anon314159265358p  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>AskNetsec</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Another MSX directory.]]></title>
+        <id>https://www.reddit.com/r/opendirectories/comments/s0rwv3/another_msx_directory/</id>
+        <link href="https://www.reddit.com/r/opendirectories/comments/s0rwv3/another_msx_directory/"/>
+        <updated>2022-01-10T19:14:13.000Z</updated>
+        <summary type="html"><![CDATA[http://www.msxarchive.nl/pub/msx/
+    submitted by    /u/EmuAnon34  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Open Directories</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Abusing terminal emulators with ANSI escape characters can lead to remote DDoS, character injection and more.]]></title>
+        <id>https://www.reddit.com/r/netsec/comments/s0qyv0/abusing_terminal_emulators_with_ansi_escape/</id>
+        <link href="https://www.reddit.com/r/netsec/comments/s0qyv0/abusing_terminal_emulators_with_ansi_escape/"/>
+        <updated>2022-01-10T18:34:43.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/jat0369  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>/r/netsec - Information Security News &amp; Discussion</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Domain Escalation – sAMAccountName Spoofing]]></title>
+        <id>https://www.reddit.com/r/redteamsec/comments/s0qvq6/domain_escalation_samaccountname_spoofing/</id>
+        <link href="https://www.reddit.com/r/redteamsec/comments/s0qvq6/domain_escalation_samaccountname_spoofing/"/>
+        <updated>2022-01-10T18:31:09.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/netbiosX  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Red Team Security</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FTC Says Fix Log4j Security Vulnerability or Face Its Wrath]]></title>
+        <id>https://news.ycombinator.com/item?id=29879106</id>
+        <link href="https://thenewstack.io/ftc-says-fix-log4j-security-vulnerability-or-face-its-wrath/"/>
+        <updated>2022-01-10T18:22:49.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://thenewstack.io/ftc-says-fix-log4j-security-vulnerability-or-face-its-wrath/
+Comments URL: https://news.ycombinator.com/item?id=29879106
+Points: 3
+# Comments: 0]]></summary>
+        <author>
+            <name>CrankyBear</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New macOS vulnerability, “powerdir,” could lead to unauthorized user data access]]></title>
+        <id>https://news.ycombinator.com/item?id=29879030</id>
+        <link href="https://www.microsoft.com/security/blog/2022/01/10/new-macos-vulnerability-powerdir-could-lead-to-unauthorized-user-data-access/"/>
+        <updated>2022-01-10T18:17:19.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.microsoft.com/security/blog/2022/01/10/new-macos-vulnerability-powerdir-could-lead-to-unauthorized-user-data-access/
+Comments URL: https://news.ycombinator.com/item?id=29879030
+Points: 5
+# Comments: 0]]></summary>
+        <author>
+            <name>headalgorithm</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Domain Escalation – sAMAccountName Spoofing]]></title>
+        <id>https://www.reddit.com/r/netsec/comments/s0qj3i/domain_escalation_samaccountname_spoofing/</id>
+        <link href="https://www.reddit.com/r/netsec/comments/s0qj3i/domain_escalation_samaccountname_spoofing/"/>
+        <updated>2022-01-10T18:16:11.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/netbiosX  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>/r/netsec - Information Security News &amp; Discussion</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deleted texts in an iTunes backup]]></title>
+        <id>https://www.reddit.com/r/computerforensics/comments/s0olvu/deleted_texts_in_an_itunes_backup/</id>
+        <link href="https://www.reddit.com/r/computerforensics/comments/s0olvu/deleted_texts_in_an_itunes_backup/"/>
+        <updated>2022-01-10T16:56:01.000Z</updated>
+        <summary type="html"><![CDATA[Hi all,
+ I believe I already know the answer to a hypothetical scenario but I wanted some clarity on deleted texts via an iTunes backup. 
+ From a general perspective, say a user has a modern iPhone and deleted hundreds of text messages then backed up their iPhone using iTunes. Would some or even most of those deleted texts be found in the backup? 
+ I realize time and usage of the iPhone would effect what may get backed up, but let’s say they deleted a bunch of texts then created the iTunes backup right after. I imagine since the entire sms.db is getting backed up, the texts marked for deletion would still reside in the database / get backed up.
+ Thanks in advance.
+    submitted by    /u/hotsausce01  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Computer Forensics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FTC words of warning: Remediate recent Log4j vulnerabilities or face consequences]]></title>
+        <id>https://www.netsparker.com/blog/b21bb758-96d5-4693-b64b-5b0de0bcfd88/</id>
+        <link href="https://www.netsparker.com/blog/web-security/ftc-warns-remediate-log4j-vulnerabilities-or-face-consequences/"/>
+        <updated>2022-01-10T16:19:04.000Z</updated>
+        <summary type="html"><![CDATA[The FTC has issued a warning to companies straggling behind on Log4j: remediate this flaw or face legal consequences. Here’s what you need to know. READ MORE]]></summary>
+        <author>
+            <name>Kelly Davis-Felner</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SecWiki News 2022-01-10 Review]]></title>
+        <id>http://www.sec-wiki.com/?2022-01-10</id>
+        <link href="http://www.sec-wiki.com/?2022-01-10"/>
+        <updated>2022-01-10T15:58:20.000Z</updated>
+        <summary type="html"><![CDATA[SecWiki周刊（第410期)  by ourren
+Rootkit 系列研究-Windows平台的高隐匿、高持久化威胁  by ourren
+2021年侵犯个人信息十大典型案例  by ourren
+更多最新文章，请访问SecWiki]]></summary>
+        <author>
+            <name>SecWiki News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I clicked a phishing scam link.. can I get rid of the program it downloaded on my iPhone?]]></title>
+        <id>https://www.reddit.com/r/AskNetsec/comments/s0mi1u/i_clicked_a_phishing_scam_link_can_i_get_rid_of/</id>
+        <link href="https://www.reddit.com/r/AskNetsec/comments/s0mi1u/i_clicked_a_phishing_scam_link_can_i_get_rid_of/"/>
+        <updated>2022-01-10T15:24:52.000Z</updated>
+        <summary type="html"><![CDATA[I clicked a link in a text it downloaded something on my phone that I can’t find. 
+ My iPhone can’t make calls now.. 
+ I double clicked my home button during a call and something glitched.. I saw an app open that is not showing on my phone, it was transparent and said “screen sharing”. I wasn’t able to go into the app then it disappeared. I’m 99% sure someone can see everything I do on my iPhone. 
+ Do I need to go to T-Mobile and get a new phone?
+ Edit: every time I make a call it fails and the speaker/audio button is always not able to be selected. But the speaker button will turn on then call fails. 
+ Here is a picture of the screen sharing: https://imgur.com/a/HjsY767
+    submitted by    /u/Acrobatic-Path2242  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>AskNetsec</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Must-Have Tools For Hacking]]></title>
+        <id>https://www.reddit.com/r/redteamsec/comments/s0lpta/musthave_tools_for_hacking/</id>
+        <link href="https://www.reddit.com/r/redteamsec/comments/s0lpta/musthave_tools_for_hacking/"/>
+        <updated>2022-01-10T14:49:23.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/banginpadr  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Red Team Security</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ProtonVPN TCP Accleration SYN+ACK Spoofing Analysis]]></title>
+        <id>https://www.reddit.com/r/netsec/comments/s0lpm1/protonvpn_tcp_accleration_synack_spoofing_analysis/</id>
+        <link href="https://www.reddit.com/r/netsec/comments/s0lpm1/protonvpn_tcp_accleration_synack_spoofing_analysis/"/>
+        <updated>2022-01-10T14:49:08.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/netsecfriends  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>/r/netsec - Information Security News &amp; Discussion</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[remote network pentest connectivity]]></title>
+        <id>https://www.reddit.com/r/AskNetsec/comments/s0jgal/remote_network_pentest_connectivity/</id>
+        <link href="https://www.reddit.com/r/AskNetsec/comments/s0jgal/remote_network_pentest_connectivity/"/>
+        <updated>2022-01-10T12:57:32.000Z</updated>
+        <summary type="html"><![CDATA[Hello Netsec engineers,
+ ​
+ I have an 'internal' remote pentest coming up for a client who doesn't have a spare computer in their office or a virtual computer. They would like to simulate an attack as if someone walked into the office and dropped a raspberry pi. 
+ ​
+ I have a laptop ready for deployment that will be connected via lan in the clients office, what would be the best way for me to remote into the laptop? 
+ In the past I've used Team viewer but that hasnt been great display wise, the reliability never dropped though which is the most important. 
+ ​
+ Would it be worth getting a VPS and configuring my own VPN using openvpn for tests like this?
+    submitted by    /u/HotHeadStayingCold  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>AskNetsec</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「网安知识大陆」1.0正式上线！]]></title>
+        <id>https://www.freebuf.com/articles/319255.html</id>
+        <link href="https://www.freebuf.com/articles/319255.html"/>
+        <updated>2022-01-10T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[能将优质内容聚集成一站式的「网安知识大陆」1.0正式版应运而生。]]></summary>
+        <author>
+            <name>FreeBuf网络安全行业门户</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Domain Escalation – sAMAccountName Spoofing]]></title>
+        <id>http://pentestlab.blog/?p=29960</id>
+        <link href="https://pentestlab.blog/2022/01/10/domain-escalation-samaccountname-spoofing/"/>
+        <updated>2022-01-10T11:11:00.000Z</updated>
+        <summary type="html"><![CDATA[Computer accounts have the $ sign appended at the end of their names in contrast with standard user accounts. By default Microsoft operating systems lack… 
+Continue reading → Domain Escalation – sAMAccountName Spoofing]]></summary>
+        <author>
+            <name>Administrator</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FreeBuf早报 | 公安部公布个人信息犯罪十大典型案例；Facebook 推出隐私中心]]></title>
+        <id>https://www.freebuf.com/news/319244.html</id>
+        <link href="https://www.freebuf.com/news/319244.html"/>
+        <updated>2022-01-10T10:57:32.000Z</updated>
+        <summary type="html"><![CDATA[全国公安机关全年共破获侵犯公民个人信息案件9800余起，抓获犯罪嫌疑人1.7万名，并公布了2021年侵犯公民个人信息犯罪十大典型案例。]]></summary>
+        <author>
+            <name>FreeBuf网络安全行业门户</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「收藏版」大盘点：2021年政策法规、国标、报告白皮书]]></title>
+        <id>https://www.freebuf.com/news/319227.html</id>
+        <link href="https://www.freebuf.com/news/319227.html"/>
+        <updated>2022-01-10T08:56:10.000Z</updated>
+        <summary type="html"><![CDATA[本文全面整理了2021年出台的国内主要政策法规、部分国家标准以及主要机构的研究报告、白皮书等。]]></summary>
+        <author>
+            <name>FreeBuf网络安全行业门户</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[micro bikini oil dance collection]]></title>
+        <id>https://www.reddit.com/r/opendirectories/comments/s0f2j4/micro_bikini_oil_dance_collection/</id>
+        <link href="https://www.reddit.com/r/opendirectories/comments/s0f2j4/micro_bikini_oil_dance_collection/"/>
+        <updated>2022-01-10T08:20:47.000Z</updated>
+        <summary type="html"><![CDATA[http://www.wo-fd.xyz/?/Microbikini%20Oily%20Dance%20Ultimate%20Collection%20%5BOmega%20P%5D/
+ ​
+ And a butt load more xxx up 1 directory
+ https://preview.redd.it/446vp7vpkta81.png?width=1920&format=png&auto=webp&s=964e053e72ab80490463e4acdb150f24b59acfec
+    submitted by    /u/Hyp3rionX  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Open Directories</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[xxx od]]></title>
+        <id>https://www.reddit.com/r/opendirectories/comments/s0etix/xxx_od/</id>
+        <link href="https://www.reddit.com/r/opendirectories/comments/s0etix/xxx_od/"/>
+        <updated>2022-01-10T08:03:25.000Z</updated>
+        <summary type="html"><![CDATA[http://107.178.111.146:9999/
+ gay porn
+    submitted by    /u/Hyp3rionX  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Open Directories</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《上海市反间谍安全防范条例》发布，2022年1月1日正式施行]]></title>
+        <id>https://www.freebuf.com/news/319209.html</id>
+        <link href="https://www.freebuf.com/news/319209.html"/>
+        <updated>2022-01-10T07:54:51.000Z</updated>
+        <summary type="html"><![CDATA[《上海市反间谍安全防范条例》共七章三十五条，进一步完善了反间谍安全防范法律体系，依法维护国家安全。]]></summary>
+        <author>
+            <name>FreeBuf网络安全行业门户</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Night Sky，一种针对企业的新型勒索软件]]></title>
+        <id>https://www.freebuf.com/news/319201.html</id>
+        <link href="https://www.freebuf.com/news/319201.html"/>
+        <updated>2022-01-10T07:22:17.000Z</updated>
+        <summary type="html"><![CDATA[近日，安全研究人员发布警告称，一个名为“Night Sky”的新型勒索软件正再活跃，它以企业网络为目标，并在双重勒索攻击中窃取数据。]]></summary>
+        <author>
+            <name>FreeBuf网络安全行业门户</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在线预订服务平台 FlexBooker超370万账户数据遭泄露]]></title>
+        <id>https://www.freebuf.com/news/319183.html</id>
+        <link href="https://www.freebuf.com/news/319183.html"/>
+        <updated>2022-01-10T05:40:33.000Z</updated>
+        <summary type="html"><![CDATA[FlexBooker 建议用户保持警惕，并审查账户报表和信用报告中的可疑交易。]]></summary>
+        <author>
+            <name>FreeBuf网络安全行业门户</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gin-Vue-admin垂直越权漏洞与代码分析-CVE-2022-21660]]></title>
+        <id>https://www.freebuf.com/articles/network/319175.html</id>
+        <link href="https://www.freebuf.com/articles/network/319175.html"/>
+        <updated>2022-01-10T05:22:07.000Z</updated>
+        <summary type="html"><![CDATA[用户之所以有机会越权，最终还是在代码上存在逻辑问题。]]></summary>
+        <author>
+            <name>FreeBuf网络安全行业门户</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SANS SEC560 (Network Penetration Testing and Ethical Hacking) Preparation?]]></title>
+        <id>https://www.reddit.com/r/AskNetsec/comments/s0afj3/sans_sec560_network_penetration_testing_and/</id>
+        <link href="https://www.reddit.com/r/AskNetsec/comments/s0afj3/sans_sec560_network_penetration_testing_and/"/>
+        <updated>2022-01-10T03:57:39.000Z</updated>
+        <summary type="html"><![CDATA[My job is offering to pay for a SANS training of my choice. I passed the SEC401 earlier this year but I have no experience with penetration testing or anything of the sort. 
+ I realize I'll have to fill some information gaps myself to get the most out of this course. Where should I start? Thanks in advance.
+    submitted by    /u/Lorian-onii-chan  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>AskNetsec</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Another Microsoft account has established ownership of number message?]]></title>
+        <id>https://www.reddit.com/r/AskNetsec/comments/s0abb0/another_microsoft_account_has_established/</id>
+        <link href="https://www.reddit.com/r/AskNetsec/comments/s0abb0/another_microsoft_account_has_established/"/>
+        <updated>2022-01-10T03:51:42.000Z</updated>
+        <summary type="html"><![CDATA[got this message was I hacked? or is there something I am missing
+ Another Microsoft account has established ownership of 12176. If you no longer own 121176, we can help you set up another sign-in name the next time you sign in to your Microsoft account. If 12176 still belongs to you, we can help you reclaim it.
+ I cut out the number just in case I actually had this number at one point but what does this mean. I already suspect my brother is behind this because we are at war and he has accessed my Gmail constantly, and I just removed a few devices from my Gmail because it said I had a MacBook which I don't and he's in the IT field, and has google nest in our house he bought for our mother I'm thinking he's manipulating that to steal my credentials as well but I'm not sure.
+ So long story short I cleaned up all possible security breaches my chump brother might have had control over and this happens I'm thinking he was on my Microsoft account because he jumps in my online COD Lobbys with lame attempts to insult me lol
+    submitted by    /u/TheGoodJosh  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>AskNetsec</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[因违反隐私规则，法国向谷歌和脸书开出2.1亿欧元巨额罚单]]></title>
+        <id>https://www.freebuf.com/news/319078.html</id>
+        <link href="https://www.freebuf.com/news/319078.html"/>
+        <updated>2022-01-10T02:49:40.000Z</updated>
+        <summary type="html"><![CDATA[法国分别对Facebook和谷歌处以1.5亿欧元和6000万欧元的罚款，理由是它们没有向用户提供拒绝cookie跟踪技术的简单选项。]]></summary>
+        <author>
+            <name>FreeBuf网络安全行业门户</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Best way to inspect IoT device traffic?]]></title>
+        <id>https://www.reddit.com/r/AskNetsec/comments/s07ipp/best_way_to_inspect_iot_device_traffic/</id>
+        <link href="https://www.reddit.com/r/AskNetsec/comments/s07ipp/best_way_to_inspect_iot_device_traffic/"/>
+        <updated>2022-01-10T01:35:54.000Z</updated>
+        <summary type="html"><![CDATA[I also suppose the biggest challenge would be getting the devices to trust a self signed certificate.
+    submitted by    /u/earthlyaeon  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>AskNetsec</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Exploiting Execute After Redirect (EAR) vulnerability in HTB Previse]]></title>
         <id>https://medium.com/p/92ea3f1dbf3d</id>
@@ -469,6 +847,16 @@ Continue reading on Medium »]]></summary>
  [link]   [comments]]]></summary>
         <author>
             <name>Red Team Security</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[被忽视的NTP安全]]></title>
+        <id>https://www.freebuf.com/articles/network/319055.html</id>
+        <link href="https://www.freebuf.com/articles/network/319055.html"/>
+        <updated>2022-01-08T13:30:08.000Z</updated>
+        <summary type="html"><![CDATA[时间是我们平时最关注，而最有不关注的问题，但是针对时间NTP协议的攻击所带来的危害是非常巨大的，需要引起我们的关注。]]></summary>
+        <author>
+            <name>FreeBuf网络安全行业门户</name>
         </author>
     </entry>
     <entry>
@@ -998,6 +1386,16 @@ Continue reading on InfoSec Write-ups »]]></summary>
         <link href="https://www.freebuf.com/fevents/318987.html"/>
         <updated>2022-01-07T08:24:48.000Z</updated>
         <summary type="html"><![CDATA[大会已正式定档于3月2日至3日在上海宝华万豪酒店举办。]]></summary>
+        <author>
+            <name>FreeBuf网络安全行业门户</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新人必看！关于dom型xss和反射型xss的区别]]></title>
+        <id>https://www.freebuf.com/articles/web/318982.html</id>
+        <link href="https://www.freebuf.com/articles/web/318982.html"/>
+        <updated>2022-01-07T07:58:14.000Z</updated>
+        <summary type="html"><![CDATA[这篇文章可以给新入坑的小白更好的理解xss漏洞，也通过这篇文章巩固一下我对xss的理解，如有不正确的地方欢迎各位师傅斧正。]]></summary>
         <author>
             <name>FreeBuf网络安全行业门户</name>
         </author>
