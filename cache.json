@@ -6,6 +6,15 @@
       "siteUrl": "http://h1.nobbd.de/",
       "articles": [
         {
+          "id": "https://hackerone.com/reports/1431042",
+          "author": null,
+          "description": "Node.js disclosed a bug submitted by rugvip: https://hackerone.com/reports/1431042",
+          "link": "https://hackerone.com/reports/1431042",
+          "publishedOn": "2022-01-11T17:23:04.000Z",
+          "wordCount": 25,
+          "title": "Prototype pollution via console.table properties"
+        },
+        {
           "id": "https://hackerone.com/reports/1403302",
           "author": null,
           "description": "Mail.ru disclosed a bug submitted by kassem_s94: https://hackerone.com/reports/1403302",
@@ -1201,6 +1210,96 @@
       "siteUrl": "https://infosecwriteups.com?source=rss----7b722bfd1b8d---4",
       "articles": [
         {
+          "id": "https://medium.com/p/8f2333576f48",
+          "author": "Yuvarajan",
+          "description": "Hello Hackers!!! I am back with another forensic write-up this time. InCTF professionals finals 2021 happened this week. Challenges were…",
+          "link": "https://infosecwriteups.com/inctf-pro-finals-2021-look-deeper-writeup-8f2333576f48?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2022-01-11T07:09:45.000Z",
+          "wordCount": 1023,
+          "title": "InCTF pro finals 2021: Look deeper writeup"
+        },
+        {
+          "id": "https://medium.com/p/800602bedba",
+          "author": "Febi Mudiyanto",
+          "description": "Very excited for Advent of Cyber 3, because I have trouble with Advent of Cyber 2, lol.",
+          "link": "https://infosecwriteups.com/advent-of-cyber-3-2021-day-1-web-exploitation-save-the-gifts-800602bedba?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2022-01-11T05:16:33.000Z",
+          "wordCount": 640,
+          "title": "[Day 1] Web Exploitation Save The Gifts | Advent of Cyber 3 (2021)"
+        },
+        {
+          "id": "https://medium.com/p/fa72dac9e4de",
+          "author": "Febi Mudiyanto",
+          "description": "USB Rubber Ducky is like USB flash drive, but it’s different. Because it will inject keystrokes with some payload to hack your computer…",
+          "link": "https://infosecwriteups.com/make-usb-rubber-ducky-with-less-than-3-fa72dac9e4de?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2022-01-11T05:14:11.000Z",
+          "wordCount": 976,
+          "title": "Make a USB Rubber Ducky with less than $3"
+        },
+        {
+          "id": "https://medium.com/p/f883a6afa6db",
+          "author": "Febi Mudiyanto",
+          "description": "Software developers use the Log4j framework to record user activity and the behavior of applications for subsequent review. Here is how…",
+          "link": "https://infosecwriteups.com/log4j-exploitation-walkthrough-cve-2021-44228-ine-labs-f883a6afa6db?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2022-01-11T05:13:57.000Z",
+          "wordCount": 941,
+          "title": "Log4j Exploitation Walkthrough(CVE-2021–44228) — INE Labs"
+        },
+        {
+          "id": "https://medium.com/p/2584322871b1",
+          "author": "Ayush Verma",
+          "description": "Day1 : Installing Kali Linux",
+          "link": "https://infosecwriteups.com/day-8-cn-tcp-udp-100daysofhacking-2584322871b1?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2022-01-11T05:13:32.000Z",
+          "wordCount": 1097,
+          "title": "Day 8 CN- TCP/UDP #100DaysofHacking"
+        },
+        {
+          "id": "https://medium.com/p/e7146b8221c2",
+          "author": "dh0ck",
+          "description": "CTF challenge available at ctf-mystiko.com.",
+          "link": "https://infosecwriteups.com/ctf-write-up-stackoverflow-e7146b8221c2?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2022-01-10T04:49:32.000Z",
+          "wordCount": 513,
+          "title": "CTF Write-Up: StackOverflow"
+        },
+        {
+          "id": "https://medium.com/p/75f51563309c",
+          "author": "Sam",
+          "description": "Hi,",
+          "link": "https://infosecwriteups.com/how-i-got-my-first-rce-while-learning-python-75f51563309c?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2022-01-10T04:38:22.000Z",
+          "wordCount": 577,
+          "title": "HOW I GOT MY FIRST RCE WHILE LEARNING PYTHON"
+        },
+        {
+          "id": "https://medium.com/p/a12563cc8d79",
+          "author": "Sam",
+          "description": "Hi, Hope you guys are doing well, Here is the story of how I am able to crash anyone’s Mozilla firefox by just sending a single email…",
+          "link": "https://infosecwriteups.com/how-i-am-able-to-crash-anyones-mozilla-firefox-browser-by-sending-an-email-a12563cc8d79?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2022-01-10T04:36:04.000Z",
+          "wordCount": 679,
+          "title": "HOW I AM ABLE TO CRASH ANYONE’S MOZILLA FIREFOX BROWSER BY SENDING AN EMAIL"
+        },
+        {
+          "id": "https://medium.com/p/fd48ca7ca0bf",
+          "author": "Sam",
+          "description": "Hi, Hope you guys are doing well, And a Happy New Year, YAY! ✨, Let’s start the blog without wasting more time.",
+          "link": "https://infosecwriteups.com/a-tale-of-5250-how-i-accessed-millions-of-users-data-including-their-national-id-s-fd48ca7ca0bf?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2022-01-10T04:33:18.000Z",
+          "wordCount": 857,
+          "title": "A TALE OF 5250$ : HOW I ACCESSED MILLIONS OF USER’S DATA INCLUDING THEIR NATIONAL ID’S"
+        },
+        {
+          "id": "https://medium.com/p/893346306e0d",
+          "author": "Ayush Verma",
+          "description": "Day1 : Installing Kali Linux",
+          "link": "https://infosecwriteups.com/day5-cn-subnetting-100daysofhacking-893346306e0d?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2022-01-10T04:30:20.000Z",
+          "wordCount": 1069,
+          "title": "Day5 CN-Subnetting #100DaysofHacking"
+        },
+        {
           "id": "https://medium.com/p/c778c73e2e2a",
           "author": "David Schiff",
           "description": "Introduction",
@@ -1747,6 +1846,96 @@
       "feedUrl": "https://medium.com/feed/tag/bugbounty",
       "siteUrl": "https://medium.com/tag/bugbounty/latest?source=rss------bugbounty-5",
       "articles": [
+        {
+          "id": "https://medium.com/p/a563bcdb563d",
+          "author": "Ugroon",
+          "description": "Hi bug hunters!!\nContinue reading on Medium »",
+          "link": "https://medium.com/@veletisleri/how-i-downed-acronis-com-in-2-minutes-lucky-bug-write-up-a563bcdb563d?source=rss------bugbounty-5",
+          "publishedOn": "2022-01-11T18:41:30.000Z",
+          "wordCount": 260,
+          "title": "How I downed acronis.com in 2 minutes — Lucky bug write up"
+        },
+        {
+          "id": "https://medium.com/p/22c726a998e",
+          "author": "omi korekar",
+          "description": "hey, guys, ’s I hope you doing well. Today I share some Linux priv esc resources That help you in solving CTF and in web-pentesting and…\nContinue reading on Medium »",
+          "link": "https://omikorekar96k.medium.com/linux-privilege-escalation-resources-22c726a998e?source=rss------bugbounty-5",
+          "publishedOn": "2022-01-11T18:28:13.000Z",
+          "wordCount": 349,
+          "title": "Linux Privilege Escalation Resources"
+        },
+        {
+          "id": "https://medium.com/p/1e6fef0b6db1",
+          "author": "Web3 Airdrops",
+          "description": "Oddz Finance’s Options V1 Already Live On Binance Smart Chain Mainnet And Completed Testnet On Polygon Matic Chain.\nContinue reading on Medium »",
+          "link": "https://web3airdrops.medium.com/oddz-incentivized-testnet-airdrop-and-bug-bounty-program-1e6fef0b6db1?source=rss------bugbounty-5",
+          "publishedOn": "2022-01-11T17:59:37.000Z",
+          "wordCount": 384,
+          "title": "ODDZ Incentivized Testnet : Airdrop And Bug Bounty Program"
+        },
+        {
+          "id": "https://medium.com/p/1fbfdf76cb6b",
+          "author": "Sudarshan Sangameswaran",
+          "description": "Cookies are tiny pieces of data or information that are locally stored on your computer that are sent to the server when you make a request\nContinue reading on Medium »",
+          "link": "https://medium.com/@sudarshan-s/cookies-an-eye-opening-guide-1fbfdf76cb6b?source=rss------bugbounty-5",
+          "publishedOn": "2022-01-11T16:38:46.000Z",
+          "wordCount": 678,
+          "title": "COOKIES: AN EYE-OPENING GUIDE"
+        },
+        {
+          "id": "https://medium.com/p/92823b28b1d",
+          "author": "Mukilan Baskaran",
+          "description": "Writeup on Access Control\nContinue reading on InfoSec Write-ups »",
+          "link": "https://infosecwriteups.com/idor-tryhackme-92823b28b1d?source=rss------bugbounty-5",
+          "publishedOn": "2022-01-11T13:32:31.000Z",
+          "wordCount": 633,
+          "title": "IDOR — TryHackme"
+        },
+        {
+          "id": "https://medium.com/p/43b500de65f1",
+          "author": "Mintverse",
+          "description": "Dear Mintverse community,\nContinue reading on Mintverse »",
+          "link": "https://medium.com/mintverse/mintverse-beta-2-0-bug-bounty-program-43b500de65f1?source=rss------bugbounty-5",
+          "publishedOn": "2022-01-11T12:03:58.000Z",
+          "wordCount": 454,
+          "title": "Mintverse Beta 2.0 Bug Bounty Program"
+        },
+        {
+          "id": "https://medium.com/p/86175dd29987",
+          "author": "Aaryan",
+          "description": "Hello guys, it’s me again. I know malware analysis might be boring because of debugging and code analysis especially for the people who…\nContinue reading on Medium »",
+          "link": "https://aaryanapex.medium.com/bug-bounty-methodology-web-vulnerabilities-checklist-86175dd29987?source=rss------bugbounty-5",
+          "publishedOn": "2022-01-11T11:30:43.000Z",
+          "wordCount": 562,
+          "title": "Bug Bounty Methodology - Web Vulnerabilities Checklist"
+        },
+        {
+          "id": "https://medium.com/p/94804c6bfce",
+          "author": "Bug University",
+          "description": "Hi Welcome to Bug University, I welcome you all to my blog site…\nContinue reading on Medium »",
+          "link": "https://buguniversity.medium.com/starting-my-journey-94804c6bfce?source=rss------bugbounty-5",
+          "publishedOn": "2022-01-11T11:15:46.000Z",
+          "wordCount": 106,
+          "title": "Starting My Journey"
+        },
+        {
+          "id": "https://medium.com/p/1bd47e9998bd",
+          "author": "Hamit CİBO",
+          "description": "Greetings from Constantinople to all,\nContinue reading on Medium »",
+          "link": "https://hcibo.medium.com/my-pentest-log-1-1bd47e9998bd?source=rss------bugbounty-5",
+          "publishedOn": "2022-01-11T09:09:01.000Z",
+          "wordCount": 573,
+          "title": "My Pentest Log -1 -"
+        },
+        {
+          "id": "https://medium.com/p/adc8a18ea197",
+          "author": "A.R shukla",
+          "description": "Hello readers I am Aditya , Recently hunting around in a coaching site I found a critical bug at…\nContinue reading on Medium »",
+          "link": "https://a-rshukla.medium.com/admin-login-bypass-in-a-coaching-system-adc8a18ea197?source=rss------bugbounty-5",
+          "publishedOn": "2022-01-11T07:15:00.000Z",
+          "wordCount": 401,
+          "title": "Admin Login Bypass in a Coaching system"
+        },
         {
           "id": "https://medium.com/p/92ea3f1dbf3d",
           "author": "Manash",
@@ -2835,6 +3024,33 @@
       "siteUrl": "https://medium.com/tag/redteam/latest?source=rss------redteam-5",
       "articles": [
         {
+          "id": "https://medium.com/p/51dd933ba046",
+          "author": "Yaman Tecnologia",
+          "description": "Como em um time de futebol, temos o ataque e a defesa, em cibersegurança a ideia é parecida.\nContinue reading on Yaman Tecnologia »",
+          "link": "https://medium.com/yaman-tecnologia/red-team-vs-blue-team-entenda-a-diferen%C3%A7a-51dd933ba046?source=rss------redteam-5",
+          "publishedOn": "2022-01-11T18:27:10.000Z",
+          "wordCount": 570,
+          "title": "Red Team vs Blue Team: entenda a diferença"
+        },
+        {
+          "id": "https://medium.com/p/9f5833103842",
+          "author": "Rey Bango",
+          "description": "Every so often I post a tweet on Twitter asking for people’s arsenal of different tools whether for security, coding or whatever.\nContinue reading on Medium »",
+          "link": "https://reybango.medium.com/offensive-security-tools-for-pentesting-red-team-operations-9f5833103842?source=rss------redteam-5",
+          "publishedOn": "2022-01-11T18:24:19.000Z",
+          "wordCount": 183,
+          "title": "OFFENSIVE SECURITY TOOLS FOR PENTESTING & RED TEAM OPERATIONS"
+        },
+        {
+          "id": "https://medium.com/p/90465c2d48ea",
+          "author": "Surya Dev Singh",
+          "description": "99% of Corporate networks run off of AD. But can you exploit a vulnerable Domain Controller?\nContinue reading on System Weakness »",
+          "link": "https://systemweakness.com/attacktive-directory-tryhackme-90465c2d48ea?source=rss------redteam-5",
+          "publishedOn": "2022-01-09T11:01:02.000Z",
+          "wordCount": 2279,
+          "title": "Attacktive Directory — Exploitation of Vulnerable Domain controller [TryHackMe]"
+        },
+        {
           "id": "https://medium.com/p/90465c2d48ea",
           "author": "Surya Dev Singh",
           "description": "99% of Corporate networks run off of AD. But can you exploit a vulnerable Domain Controller?\nContinue reading on Medium »",
@@ -2842,6 +3058,15 @@
           "publishedOn": "2022-01-09T11:01:02.000Z",
           "wordCount": 2033,
           "title": "Attacktive Directory — Exploitation of Vulnerable Domain controller [TryHackMe]"
+        },
+        {
+          "id": "https://medium.com/p/56521612b000",
+          "author": "WeSecureApp",
+          "description": "The growing cyberthreat landscape has brought a storm in the online marketplace. From the online studies and research, there were around…\nContinue reading on Medium »",
+          "link": "https://wesecureapp-smm.medium.com/7-major-reasons-to-hire-a-red-team-to-harden-your-app-sec-56521612b000?source=rss------redteam-5",
+          "publishedOn": "2022-01-07T07:39:29.000Z",
+          "wordCount": 1259,
+          "title": "7+ Major Reasons to Hire a Red Team to Harden Your App Sec"
         },
         {
           "id": "https://medium.com/p/badb5dc88b2d",
@@ -3039,6 +3264,96 @@
       "feedUrl": "https://medium.com/feed/bugbountywriteup",
       "siteUrl": "https://infosecwriteups.com?source=rss----7b722bfd1b8d---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/8f2333576f48",
+          "author": "Yuvarajan",
+          "description": "Hello Hackers!!! I am back with another forensic write-up this time. InCTF professionals finals 2021 happened this week. Challenges were…",
+          "link": "https://infosecwriteups.com/inctf-pro-finals-2021-look-deeper-writeup-8f2333576f48?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2022-01-11T07:09:45.000Z",
+          "wordCount": 1023,
+          "title": "InCTF pro finals 2021: Look deeper writeup"
+        },
+        {
+          "id": "https://medium.com/p/800602bedba",
+          "author": "Febi Mudiyanto",
+          "description": "Very excited for Advent of Cyber 3, because I have trouble with Advent of Cyber 2, lol.",
+          "link": "https://infosecwriteups.com/advent-of-cyber-3-2021-day-1-web-exploitation-save-the-gifts-800602bedba?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2022-01-11T05:16:33.000Z",
+          "wordCount": 640,
+          "title": "[Day 1] Web Exploitation Save The Gifts | Advent of Cyber 3 (2021)"
+        },
+        {
+          "id": "https://medium.com/p/fa72dac9e4de",
+          "author": "Febi Mudiyanto",
+          "description": "USB Rubber Ducky is like USB flash drive, but it’s different. Because it will inject keystrokes with some payload to hack your computer…",
+          "link": "https://infosecwriteups.com/make-usb-rubber-ducky-with-less-than-3-fa72dac9e4de?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2022-01-11T05:14:11.000Z",
+          "wordCount": 976,
+          "title": "Make a USB Rubber Ducky with less than $3"
+        },
+        {
+          "id": "https://medium.com/p/f883a6afa6db",
+          "author": "Febi Mudiyanto",
+          "description": "Software developers use the Log4j framework to record user activity and the behavior of applications for subsequent review. Here is how…",
+          "link": "https://infosecwriteups.com/log4j-exploitation-walkthrough-cve-2021-44228-ine-labs-f883a6afa6db?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2022-01-11T05:13:57.000Z",
+          "wordCount": 941,
+          "title": "Log4j Exploitation Walkthrough(CVE-2021–44228) — INE Labs"
+        },
+        {
+          "id": "https://medium.com/p/2584322871b1",
+          "author": "Ayush Verma",
+          "description": "Day1 : Installing Kali Linux",
+          "link": "https://infosecwriteups.com/day-8-cn-tcp-udp-100daysofhacking-2584322871b1?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2022-01-11T05:13:32.000Z",
+          "wordCount": 1097,
+          "title": "Day 8 CN- TCP/UDP #100DaysofHacking"
+        },
+        {
+          "id": "https://medium.com/p/e7146b8221c2",
+          "author": "dh0ck",
+          "description": "CTF challenge available at ctf-mystiko.com.",
+          "link": "https://infosecwriteups.com/ctf-write-up-stackoverflow-e7146b8221c2?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2022-01-10T04:49:32.000Z",
+          "wordCount": 513,
+          "title": "CTF Write-Up: StackOverflow"
+        },
+        {
+          "id": "https://medium.com/p/75f51563309c",
+          "author": "Sam",
+          "description": "Hi,",
+          "link": "https://infosecwriteups.com/how-i-got-my-first-rce-while-learning-python-75f51563309c?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2022-01-10T04:38:22.000Z",
+          "wordCount": 577,
+          "title": "HOW I GOT MY FIRST RCE WHILE LEARNING PYTHON"
+        },
+        {
+          "id": "https://medium.com/p/a12563cc8d79",
+          "author": "Sam",
+          "description": "Hi, Hope you guys are doing well, Here is the story of how I am able to crash anyone’s Mozilla firefox by just sending a single email…",
+          "link": "https://infosecwriteups.com/how-i-am-able-to-crash-anyones-mozilla-firefox-browser-by-sending-an-email-a12563cc8d79?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2022-01-10T04:36:04.000Z",
+          "wordCount": 679,
+          "title": "HOW I AM ABLE TO CRASH ANYONE’S MOZILLA FIREFOX BROWSER BY SENDING AN EMAIL"
+        },
+        {
+          "id": "https://medium.com/p/fd48ca7ca0bf",
+          "author": "Sam",
+          "description": "Hi, Hope you guys are doing well, And a Happy New Year, YAY! ✨, Let’s start the blog without wasting more time.",
+          "link": "https://infosecwriteups.com/a-tale-of-5250-how-i-accessed-millions-of-users-data-including-their-national-id-s-fd48ca7ca0bf?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2022-01-10T04:33:18.000Z",
+          "wordCount": 857,
+          "title": "A TALE OF 5250$ : HOW I ACCESSED MILLIONS OF USER’S DATA INCLUDING THEIR NATIONAL ID’S"
+        },
+        {
+          "id": "https://medium.com/p/893346306e0d",
+          "author": "Ayush Verma",
+          "description": "Day1 : Installing Kali Linux",
+          "link": "https://infosecwriteups.com/day5-cn-subnetting-100daysofhacking-893346306e0d?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2022-01-10T04:30:20.000Z",
+          "wordCount": 1069,
+          "title": "Day5 CN-Subnetting #100DaysofHacking"
+        },
         {
           "id": "https://medium.com/p/c778c73e2e2a",
           "author": "David Schiff",
@@ -3587,6 +3902,69 @@
       "siteUrl": "https://medium.com/tag/osint/latest?source=rss------osint-5",
       "articles": [
         {
+          "id": "https://medium.com/p/a27d08c5e0a4",
+          "author": "Febi Mudiyanto",
+          "description": "The OSINT write-ups\nContinue reading on InfoSec Write-ups »",
+          "link": "https://infosecwriteups.com/cyberdefenders-lespion-a27d08c5e0a4?source=rss------osint-5",
+          "publishedOn": "2022-01-11T23:45:02.000Z",
+          "wordCount": 880,
+          "title": "CyberDefenders | L’espion"
+        },
+        {
+          "id": "https://medium.com/p/3c2399ee78b4",
+          "author": "Abhinav Pathak",
+          "description": "Have you been trying to find someone online, specifically perhaps by using an email addresses, or username?\nContinue reading on Medium »",
+          "link": "https://pathakabhi24.medium.com/what-is-osint-3c2399ee78b4?source=rss------osint-5",
+          "publishedOn": "2022-01-11T18:19:28.000Z",
+          "wordCount": 2240,
+          "title": "What is OSINT"
+        },
+        {
+          "id": "https://medium.com/p/2ed85bb04c86",
+          "author": "Mattia Vicenzi",
+          "description": "The smartwatches and fitness trackers we wear know a myriad of information about us…\nFrom the places we visit, our coordinates, our health…\nContinue reading on Medium »",
+          "link": "https://mattia-vicenzi.medium.com/using-fitness-tracker-apps-for-osint-purposes-2ed85bb04c86?source=rss------osint-5",
+          "publishedOn": "2022-01-11T13:53:36.000Z",
+          "wordCount": 1510,
+          "title": "Using fitness tracker apps for OSINT purposes"
+        },
+        {
+          "id": "https://medium.com/p/74fd2cfceb45",
+          "author": "TheFourSec",
+          "description": "If you’ve heard the name but are wondering what it means, OSINT stands for open source intelligence, which refers to any information that…\nContinue reading on Medium »",
+          "link": "https://medium.com/@thefoursec/osint-open-source-intelligence-74fd2cfceb45?source=rss------osint-5",
+          "publishedOn": "2022-01-11T09:28:44.000Z",
+          "wordCount": 943,
+          "title": "OSINT: Open Source Intelligence"
+        },
+        {
+          "id": "https://medium.com/p/f336cc8faefa",
+          "author": "Ann Rotich",
+          "description": "If you’ve heard the name but are wondering what it means, OSINT stands for open source intelligence, which refers to any information that…\nContinue reading on Medium »",
+          "link": "https://annrotich.medium.com/osint-open-source-intelligence-f336cc8faefa?source=rss------osint-5",
+          "publishedOn": "2022-01-11T08:56:28.000Z",
+          "wordCount": 911,
+          "title": "OSINT: Open Source Intelligence"
+        },
+        {
+          "id": "https://medium.com/p/6f8c6a893622",
+          "author": "Timo",
+          "description": "I have stumbled upon the Twitter account of OSINTDojo and their challenge to find a certain mural along with the respective artist…\nContinue reading on Medium »",
+          "link": "https://medium.com/@timosablowski/osint-challenge-find-the-mural-6f8c6a893622?source=rss------osint-5",
+          "publishedOn": "2022-01-10T16:34:49.000Z",
+          "wordCount": 745,
+          "title": "OSINT Challenge — find the mural"
+        },
+        {
+          "id": "https://medium.com/p/dd0d397e861c",
+          "author": "v1ntage",
+          "description": "OhSINT is a free room on the TryHackMe platform. The objective of this challenge is to use open-source intelligence techniques to obtain…\nContinue reading on Medium »",
+          "link": "https://medium.com/@v1ntagesec/tryhackme-ohsint-walkthrough-dd0d397e861c?source=rss------osint-5",
+          "publishedOn": "2022-01-10T12:47:26.000Z",
+          "wordCount": 630,
+          "title": "TryHackMe — OhSINT Walkthrough"
+        },
+        {
           "id": "https://medium.com/p/f545c8623377",
           "author": "aleksander",
           "description": "It’s a new year, and that also means new blog posts about all things OSINT and Digital Forensics. In this one, we’re going to dive into…\nContinue reading on Medium »",
@@ -3998,6 +4376,15 @@
       "feedUrl": "https://medium.com/feed/tag/fuzzing",
       "siteUrl": "https://medium.com/tag/fuzzing/latest?source=rss------fuzzing-5",
       "articles": [
+        {
+          "id": "https://medium.com/p/1bd47e9998bd",
+          "author": "Hamit CİBO",
+          "description": "Greetings from Constantinople to all,\nContinue reading on Medium »",
+          "link": "https://hcibo.medium.com/my-pentest-log-1-1bd47e9998bd?source=rss------fuzzing-5",
+          "publishedOn": "2022-01-11T09:09:01.000Z",
+          "wordCount": 573,
+          "title": "My Pentest Log -1 -"
+        },
         {
           "id": "https://medium.com/p/3a65b3ef5a76",
           "author": "TheXerr0r",
@@ -4684,6 +5071,33 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=29897289",
+          "author": "mzs",
+          "description": "Article URL: https://www.sentinelone.com/labs/cve-2021-45608-netusb-rce-flaw-in-millions-of-end-user-routers/\nComments URL: https://news.ycombinator.com/item?id=29897289\nPoints: 3\n# Comments: 0",
+          "link": "https://www.sentinelone.com/labs/cve-2021-45608-netusb-rce-flaw-in-millions-of-end-user-routers/",
+          "publishedOn": "2022-01-11T20:22:57.000Z",
+          "wordCount": 1701,
+          "title": "CVE-2021-45608 – NetUSB RCE Flaw in Millions of End User Routers"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=29896565",
+          "author": "bwblabs",
+          "description": "Article URL: https://msrc.microsoft.com/update-guide/en-US/vulnerability/CVE-2022-21907\nComments URL: https://news.ycombinator.com/item?id=29896565\nPoints: 3\n# Comments: 2",
+          "link": "https://msrc.microsoft.com/update-guide/en-US/vulnerability/CVE-2022-21907",
+          "publishedOn": "2022-01-11T19:31:50.000Z",
+          "wordCount": 16,
+          "title": "Windows HTTP Protocol Stack RCE Vulnerability (CVE-2022-21907)"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=29891670",
+          "author": "albinolobster",
+          "description": "Article URL: https://attackerkb.com/topics/QyXRC1wbvC/cve-2021-20038\nComments URL: https://news.ycombinator.com/item?id=29891670\nPoints: 1\n# Comments: 0",
+          "link": "https://attackerkb.com/topics/QyXRC1wbvC/cve-2021-20038",
+          "publishedOn": "2022-01-11T14:17:16.000Z",
+          "wordCount": 7306,
+          "title": "Writing an Exploit for CVE-2021-20038 (SonicWall SSL VPN)"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=29834624",
           "author": "arkadiyt",
           "description": "Article URL: https://ian.sh/redash\nComments URL: https://news.ycombinator.com/item?id=29834624\nPoints: 1\n# Comments: 0",
@@ -4906,6 +5320,15 @@
       "feedUrl": "https://hnrss.org/newest?q=vulnerability",
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
+        {
+          "id": "https://news.ycombinator.com/item?id=29896565",
+          "author": "bwblabs",
+          "description": "Article URL: https://msrc.microsoft.com/update-guide/en-US/vulnerability/CVE-2022-21907\nComments URL: https://news.ycombinator.com/item?id=29896565\nPoints: 3\n# Comments: 2",
+          "link": "https://msrc.microsoft.com/update-guide/en-US/vulnerability/CVE-2022-21907",
+          "publishedOn": "2022-01-11T19:31:50.000Z",
+          "wordCount": 16,
+          "title": "Windows HTTP Protocol Stack RCE Vulnerability (CVE-2022-21907)"
+        },
         {
           "id": "https://news.ycombinator.com/item?id=29879106",
           "author": "CrankyBear",
@@ -5247,6 +5670,69 @@
       "siteUrl": "https://www.freebuf.com",
       "articles": [
         {
+          "id": "https://www.freebuf.com/articles/web/319358.html",
+          "author": null,
+          "description": "一篇关于php反序列的文章",
+          "link": "https://www.freebuf.com/articles/web/319358.html",
+          "publishedOn": "2022-01-11T09:58:47.000Z",
+          "wordCount": 396,
+          "title": "一篇关于PHP反序列化的文章"
+        },
+        {
+          "id": "https://www.freebuf.com/news/319359.html",
+          "author": null,
+          "description": "几名EA Sports FIFA 22的玩家疑似遭受黑客攻击，声称失去了对其个人EA和电子邮件账户的访问权限。",
+          "link": "https://www.freebuf.com/news/319359.html",
+          "publishedOn": "2022-01-11T09:26:51.000Z",
+          "wordCount": 262,
+          "title": "FreeBuf 早报 | 多名 EA Sports FIFA 22玩家被黑；电子垃圾也是网络安全问题"
+        },
+        {
+          "id": "https://www.freebuf.com/articles/319327.html",
+          "author": null,
+          "description": "1月3日，欧洲数据保护监督机构要求欧洲刑警组织删除所存储的与刑事调查无显著关联的大量个人数据信息。",
+          "link": "https://www.freebuf.com/articles/319327.html",
+          "publishedOn": "2022-01-11T07:17:56.000Z",
+          "wordCount": 138,
+          "title": "欧洲刑警组织被勒令删除与犯罪调查无关的数据"
+        },
+        {
+          "id": "https://www.freebuf.com/news/319326.html",
+          "author": null,
+          "description": "越来越多的EA Sports FIFA 22玩家报告称他们的 EA 帐户被黑，无法访问他们的个人EA和电子邮件帐户，其中包括知名主播。",
+          "link": "https://www.freebuf.com/news/319326.html",
+          "publishedOn": "2022-01-11T07:11:51.000Z",
+          "wordCount": 187,
+          "title": "多名EA Sports FIFA 22玩家被攻击"
+        },
+        {
+          "id": "https://www.freebuf.com/news/319325.html",
+          "author": null,
+          "description": "迷宫般的菜单和晦涩的措辞，使人们不得不怀疑其在用户数据保护方面的有效性。",
+          "link": "https://www.freebuf.com/news/319325.html",
+          "publishedOn": "2022-01-11T07:11:41.000Z",
+          "wordCount": 150,
+          "title": "Facebook推出“隐私中心”，教育用户了解数据收集和隐私选项"
+        },
+        {
+          "id": "https://www.freebuf.com/articles/database/319292.html",
+          "author": null,
+          "description": "和快速奔跑的车联网产业相比，车联网安全显然是一个水磨工夫的活，车企必须学会慢下来，沉下去，方能真正解决车联网的安全问题。",
+          "link": "https://www.freebuf.com/articles/database/319292.html",
+          "publishedOn": "2022-01-11T02:55:09.000Z",
+          "wordCount": 178,
+          "title": "“脆弱”的车联网"
+        },
+        {
+          "id": "https://www.freebuf.com/articles/neopoints/319273.html",
+          "author": null,
+          "description": "2021年结束了，年底回忆了一下这一年来自己做了些什么，印象最深的应该就是数据安全这个词。",
+          "link": "https://www.freebuf.com/articles/neopoints/319273.html",
+          "publishedOn": "2022-01-11T02:03:47.000Z",
+          "wordCount": 160,
+          "title": "从我国现有法律法规谈重要数据定义"
+        },
+        {
           "id": "https://www.freebuf.com/articles/319255.html",
           "author": null,
           "description": "能将优质内容聚集成一站式的「网安知识大陆」1.0正式版应运而生。",
@@ -5265,6 +5751,15 @@
           "title": "FreeBuf早报 | 公安部公布个人信息犯罪十大典型案例；Facebook 推出隐私中心"
         },
         {
+          "id": "https://www.freebuf.com/articles/network/319234.html",
+          "author": null,
+          "description": "交换机安全配置中的SNMP服务",
+          "link": "https://www.freebuf.com/articles/network/319234.html",
+          "publishedOn": "2022-01-10T09:33:41.000Z",
+          "wordCount": 239,
+          "title": "实战SNMP服务攻击"
+        },
+        {
           "id": "https://www.freebuf.com/news/319227.html",
           "author": null,
           "description": "本文全面整理了2021年出台的国内主要政策法规、部分国家标准以及主要机构的研究报告、白皮书等。",
@@ -5272,6 +5767,15 @@
           "publishedOn": "2022-01-10T08:56:10.000Z",
           "wordCount": 166,
           "title": "「收藏版」大盘点：2021年政策法规、国标、报告白皮书"
+        },
+        {
+          "id": "https://www.freebuf.com/articles/network/317310.html",
+          "author": null,
+          "description": "系统管理员、审计管理员、安全管理员不能集于一人之身，最好是三人分别担任。",
+          "link": "https://www.freebuf.com/articles/network/317310.html",
+          "publishedOn": "2022-01-10T08:48:20.000Z",
+          "wordCount": 141,
+          "title": "漫话：等级保护之三员管理"
         },
         {
           "id": "https://www.freebuf.com/news/319209.html",
@@ -5317,6 +5821,24 @@
           "publishedOn": "2022-01-10T02:49:40.000Z",
           "wordCount": 152,
           "title": "因违反隐私规则，法国向谷歌和脸书开出2.1亿欧元巨额罚单"
+        },
+        {
+          "id": "https://www.freebuf.com/articles/system/317496.html",
+          "author": null,
+          "description": "调试代码的时候，main()函数并不是直接位于可执行文件的EP位置上，出现在此的是开发工具（Visual C++）生成的启动函数。",
+          "link": "https://www.freebuf.com/articles/system/317496.html",
+          "publishedOn": "2022-01-10T01:33:53.000Z",
+          "wordCount": 220,
+          "title": "逆向分析教程（三）——快速查找指定代码的四种方法"
+        },
+        {
+          "id": "https://www.freebuf.com/articles/system/316425.html",
+          "author": null,
+          "description": "该系列文章以准备入门逆向的小伙伴为对象进行总结。快来一起学习吧！",
+          "link": "https://www.freebuf.com/articles/system/316425.html",
+          "publishedOn": "2022-01-10T01:32:57.000Z",
+          "wordCount": 199,
+          "title": "逆向分析教程（一）——调试代码"
         },
         {
           "id": "https://www.freebuf.com/articles/network/319055.html",
@@ -6962,6 +7484,15 @@
       "siteUrl": "http://www.sec-wiki.com/",
       "articles": [
         {
+          "id": "http://www.sec-wiki.com/?2022-01-11",
+          "author": null,
+          "description": "基于跨站跳转和文本数据异构图的GCN模型实现恶意网站识别  by ourren\n在互联网交换中心检测反射放大 DDoS 攻击  by Avenger\n更多最新文章，请访问SecWiki",
+          "link": "http://www.sec-wiki.com/?2022-01-11",
+          "publishedOn": "2022-01-11T15:58:20.000Z",
+          "wordCount": 588,
+          "title": "SecWiki News 2022-01-11 Review"
+        },
+        {
           "id": "http://www.sec-wiki.com/?2022-01-10",
           "author": null,
           "description": "SecWiki周刊（第410期)  by ourren\nRootkit 系列研究-Windows平台的高隐匿、高持久化威胁  by ourren\n2021年侵犯个人信息十大典型案例  by ourren\n更多最新文章，请访问SecWiki",
@@ -7229,6 +7760,33 @@
       "feedUrl": "https://www.reddit.com/r/asknetsec/.rss",
       "siteUrl": "https://www.reddit.com/r/asknetsec/",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/s1fnmq/career_growth_and_related_certification/",
+          "author": null,
+          "description": "I've been working as a security tester (pentester) for about a year. I've done CEH V10 and this year I really want to be improved bling on my resume tbh. I am currently doing web mobile pos testing. Your help would be really appreciated in suggesting good value for money and information certificates. I know OSCP is there but I need more hands on for that which I am working on but in the mean time don't want to lose time. I have a potential interest in cloud security but also open to other fields and certification.\n    submitted by    /u/light_striker12  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/s1fnmq/career_growth_and_related_certification/",
+          "publishedOn": "2022-01-11T15:34:53.000Z",
+          "wordCount": 510,
+          "title": "Career growth and related certification"
+        },
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/s18m3m/tips_for_making_malware_lab_for_school_project/",
+          "author": null,
+          "description": "Going to use https://github.com/ytisf/theZoo malwares. Maybe use Splunk to write alerts, queries etc to identify the malwares. (Problem is that it only got 60 days trial, need at least for 6 months)\n Should I be worried for VM escape, if I run these malware in a secure VM environment? \n What should be the main focus of this project. Run the malware then just identify them with alerts and write writeups? \n Would this idea be great for a university project for 6 months?\n    submitted by    /u/PapiPoseidon  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/s18m3m/tips_for_making_malware_lab_for_school_project/",
+          "publishedOn": "2022-01-11T08:57:08.000Z",
+          "wordCount": 913,
+          "title": "Tips for making malware lab for school project"
+        },
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/s126wj/strange_log_activity/",
+          "author": null,
+          "description": "Has anyone ever seen windows event 1102 (The audit log was cleared) activity on a windows server that was performed by SYSTEM? It happened on a test vm I built and I can't figure out why that would happen. I have backups of the logs and compared the logs on the server with the backup and a few 100 logs were deleted but they were future dated logs (which doesn't make sense). I'm sure the it's not a timezone issue, the logs were dated 15 hours into the future. Almost like they were a mistake and the system fixed it? I have basically nothing running on the server (something I built for testing) but would love to understand what happened. \n Thanks!\n    submitted by    /u/forthebeer2000  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/s126wj/strange_log_activity/",
+          "publishedOn": "2022-01-11T02:49:02.000Z",
+          "wordCount": 345,
+          "title": "Strange log activity"
+        },
         {
           "id": "https://www.reddit.com/r/AskNetsec/comments/s0zgwl/how_to_remove_root_certificates_from_work/",
           "author": null,
@@ -8362,6 +8920,24 @@
       "siteUrl": "https://www.reddit.com/r/redteamsec/",
       "articles": [
         {
+          "id": "https://www.reddit.com/r/redteamsec/comments/s1bh7z/domain_escalation_shadowcoerce_msfsrvp/",
+          "author": null,
+          "description": "submitted by    /u/netbiosX  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/redteamsec/comments/s1bh7z/domain_escalation_shadowcoerce_msfsrvp/",
+          "publishedOn": "2022-01-11T12:09:44.000Z",
+          "wordCount": 107,
+          "title": "Domain Escalation - ShadowCoerce [MS-FSRVP]"
+        },
+        {
+          "id": "https://www.reddit.com/r/redteamsec/comments/s129op/generating_analyzing_shellcode_with_radare2/",
+          "author": null,
+          "description": "submitted by    /u/DLLCoolJ  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/redteamsec/comments/s129op/generating_analyzing_shellcode_with_radare2/",
+          "publishedOn": "2022-01-11T02:52:44.000Z",
+          "wordCount": 235,
+          "title": "Generating & Analyzing Shellcode with Radare2"
+        },
+        {
           "id": "https://www.reddit.com/r/redteamsec/comments/s0qvq6/domain_escalation_samaccountname_spoofing/",
           "author": null,
           "description": "submitted by    /u/netbiosX  \n [link]   [comments]",
@@ -8917,6 +9493,24 @@
       "feedUrl": "https://www.reddit.com/r/exploitdev/.rss",
       "siteUrl": "https://www.reddit.com/r/exploitdev/",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/ExploitDev/comments/s1gutc/kernel_rop_gadgets_arm/",
+          "author": null,
+          "description": "Hello guys,\n I am trying to port a kernel exploit and i need to find rop gadgets from vmlinux. This is not accessible in the target and as far as i understand uboot loads the vmlinux on boot, but this restricts me from easily finding the gadgets i need.\n Is there any resource you can suggest as I'm clearly missing something and my resesrch till now didn't give me clear answers.\n Thanks :D\n    submitted by    /u/Cr0wTom  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/ExploitDev/comments/s1gutc/kernel_rop_gadgets_arm/",
+          "publishedOn": "2022-01-11T16:26:15.000Z",
+          "wordCount": 162,
+          "title": "Kernel ROP gadgets ARM"
+        },
+        {
+          "id": "https://www.reddit.com/r/ExploitDev/comments/s1f10y/wfuzz_vs_ffuf_which_one_is_the_faster_web_fuzzing/",
+          "author": null,
+          "description": "submitted by    /u/pat_ventuzelo  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/ExploitDev/comments/s1f10y/wfuzz_vs_ffuf_which_one_is_the_faster_web_fuzzing/",
+          "publishedOn": "2022-01-11T15:07:33.000Z",
+          "wordCount": 152,
+          "title": "Wfuzz VS ffuf - Which one is the faster web fuzzing tool? [Web Security #1]"
+        },
         {
           "id": "https://www.reddit.com/r/ExploitDev/comments/rzk1rq/unpacking_cve202140444_a_deep_technical_analysis/",
           "author": null,
@@ -9687,6 +10281,69 @@
       "feedUrl": "https://www.reddit.com/r/netsec/.rss",
       "siteUrl": "https://www.reddit.com/r/netsec/",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/netsec/comments/s1kbdh/finding_vulnerabiities_in_lorawans_protocol/",
+          "author": null,
+          "description": "submitted by    /u/sebazzen  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/netsec/comments/s1kbdh/finding_vulnerabiities_in_lorawans_protocol/",
+          "publishedOn": "2022-01-11T18:49:31.000Z",
+          "wordCount": 156,
+          "title": "Finding vulnerabiities in LoRaWAN's Protocol Stacks: Emulation with Qiling/Unicorn, P-Code emulation with Ghidra and AFL++ Fuzzing (Quick summary + complete 40 pages paper)"
+        },
+        {
+          "id": "https://www.reddit.com/r/netsec/comments/s1jsvt/how_we_abused_named_pipes_for_smartcard_hijacking/",
+          "author": null,
+          "description": "submitted by    /u/jat0369  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/netsec/comments/s1jsvt/how_we_abused_named_pipes_for_smartcard_hijacking/",
+          "publishedOn": "2022-01-11T18:28:21.000Z",
+          "wordCount": 143,
+          "title": "How we abused named pipes for smart-card hijacking, unauthorized file system access to client machines and more."
+        },
+        {
+          "id": "https://www.reddit.com/r/netsec/comments/s1idvq/riskaware_applications/",
+          "author": null,
+          "description": "submitted by    /u/TolgaDevSec  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/netsec/comments/s1idvq/riskaware_applications/",
+          "publishedOn": "2022-01-11T17:29:37.000Z",
+          "wordCount": 93,
+          "title": "Risk-aware applications"
+        },
+        {
+          "id": "https://www.reddit.com/r/netsec/comments/s1hiwe/ivy_is_a_payload_creation_framework_for_the/",
+          "author": null,
+          "description": "submitted by    /u/tylous  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/netsec/comments/s1hiwe/ivy_is_a_payload_creation_framework_for_the/",
+          "publishedOn": "2022-01-11T16:54:12.000Z",
+          "wordCount": 203,
+          "title": "Ivy is a payload creation framework for the execution of arbitrary VBA (macro) source code directly in memory. Ivy’s loader does this by utilizing programmatical access in the VBA object environment to load, decrypt and execute shellcode."
+        },
+        {
+          "id": "https://www.reddit.com/r/netsec/comments/s1h6uc/cve202141577_mitm_to_rce_in_evga_precision_x1/",
+          "author": null,
+          "description": "submitted by    /u/hackers_and_builders  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/netsec/comments/s1h6uc/cve202141577_mitm_to_rce_in_evga_precision_x1/",
+          "publishedOn": "2022-01-11T16:40:14.000Z",
+          "wordCount": 281,
+          "title": "CVE-2021-41577: MITM to RCE in EVGA Precision X1"
+        },
+        {
+          "id": "https://www.reddit.com/r/netsec/comments/s1dtx2/writing_an_exploit_for_cve202120038_sonicwall_ssl/",
+          "author": null,
+          "description": "submitted by    /u/chicksdigthelongrun  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/netsec/comments/s1dtx2/writing_an_exploit_for_cve202120038_sonicwall_ssl/",
+          "publishedOn": "2022-01-11T14:14:01.000Z",
+          "wordCount": 111,
+          "title": "Writing an Exploit for CVE-2021-20038 (SonicWall SSL VPN)"
+        },
+        {
+          "id": "https://www.reddit.com/r/netsec/comments/s1bgni/domain_escalation_shadowcoerce_msfsrvp/",
+          "author": null,
+          "description": "submitted by    /u/netbiosX  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/netsec/comments/s1bgni/domain_escalation_shadowcoerce_msfsrvp/",
+          "publishedOn": "2022-01-11T12:08:41.000Z",
+          "wordCount": 107,
+          "title": "Domain Escalation - ShadowCoerce [MS-FSRVP]"
+        },
         {
           "id": "https://www.reddit.com/r/netsec/comments/s0qyv0/abusing_terminal_emulators_with_ansi_escape/",
           "author": null,
@@ -10468,6 +11125,15 @@
       "feedUrl": "https://www.reddit.com/r/opendirectories/.rss",
       "siteUrl": "https://www.reddit.com/r/opendirectories/",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/opendirectories/comments/s14zmy/lot_of_itrelated_books/",
+          "author": null,
+          "description": "https://doc.lagout.org/\n    submitted by    /u/AdministrativeDig391  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/opendirectories/comments/s14zmy/lot_of_itrelated_books/",
+          "publishedOn": "2022-01-11T05:13:38.000Z",
+          "wordCount": 159,
+          "title": "Lot Of IT-Related Books."
+        },
         {
           "id": "https://www.reddit.com/r/opendirectories/comments/s0rwv3/another_msx_directory/",
           "author": null,
@@ -12411,6 +13077,15 @@
       "siteUrl": "https://www.netsparker.com/blog/",
       "articles": [
         {
+          "id": "https://www.netsparker.com/blog/60077e81-bfbc-4903-9245-72fee8d67f5b/",
+          "author": "Ariel Miller",
+          "description": "Invicti Security today announced seasoned financial executive Jeff Bray has joined the company as Chief Financial Officer. Bray brings decades of experience leading world-class finance teams in both private and public software companies and will lead all aspects of Invicti’s financial operations. READ MORE",
+          "link": "https://www.netsparker.com/blog/news/invicti-security-names-jeff-bray-chief-financial-officer/",
+          "publishedOn": "2022-01-11T14:30:54.000Z",
+          "wordCount": 690,
+          "title": "Invicti Security Names Jeff Bray Chief Financial Officer"
+        },
+        {
           "id": "https://www.netsparker.com/blog/b21bb758-96d5-4693-b64b-5b0de0bcfd88/",
           "author": "Kelly Davis-Felner",
           "description": "The FTC has issued a warning to companies straggling behind on Log4j: remediate this flaw or face legal consequences. Here’s what you need to know. READ MORE",
@@ -12543,6 +13218,15 @@
       "feedUrl": "https://medium.com/feed/tag/fuzzing",
       "siteUrl": "https://medium.com/tag/fuzzing/latest?source=rss------fuzzing-5",
       "articles": [
+        {
+          "id": "https://medium.com/p/1bd47e9998bd",
+          "author": "Hamit CİBO",
+          "description": "Greetings from Constantinople to all,\nContinue reading on Medium »",
+          "link": "https://hcibo.medium.com/my-pentest-log-1-1bd47e9998bd?source=rss------fuzzing-5",
+          "publishedOn": "2022-01-11T09:09:01.000Z",
+          "wordCount": 573,
+          "title": "My Pentest Log -1 -"
+        },
         {
           "id": "https://medium.com/p/3a65b3ef5a76",
           "author": "TheXerr0r",
