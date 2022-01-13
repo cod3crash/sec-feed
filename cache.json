@@ -6,6 +6,60 @@
       "siteUrl": "http://h1.nobbd.de/",
       "articles": [
         {
+          "id": "https://hackerone.com/reports/955606",
+          "author": null,
+          "description": "Lark Technologies disclosed a bug submitted by imran_nisar: https://hackerone.com/reports/955606 - Bounty: $500",
+          "link": "https://hackerone.com/reports/955606",
+          "publishedOn": "2022-01-13T00:24:40.000Z",
+          "wordCount": 25,
+          "title": "Reflected xss and open redirect on larksuite.com using /?back_uri= parameter."
+        },
+        {
+          "id": "https://hackerone.com/reports/946323",
+          "author": null,
+          "description": "Lark Technologies disclosed a bug submitted by imran_nisar: https://hackerone.com/reports/946323 - Bounty: $500",
+          "link": "https://hackerone.com/reports/946323",
+          "publishedOn": "2022-01-13T00:21:29.000Z",
+          "wordCount": 25,
+          "title": "[IDOR] Modify other team's reminders via reminderId parameter"
+        },
+        {
+          "id": "https://hackerone.com/reports/1245741",
+          "author": null,
+          "description": "Zenly disclosed a bug submitted by yetanotherhacker: https://hackerone.com/reports/1245741 - Bounty: $750",
+          "link": "https://hackerone.com/reports/1245741",
+          "publishedOn": "2022-01-12T10:25:58.000Z",
+          "wordCount": 25,
+          "title": "Friend Request Flow Exposes User Data"
+        },
+        {
+          "id": "https://hackerone.com/reports/1245762",
+          "author": null,
+          "description": "Zenly disclosed a bug submitted by yetanotherhacker: https://hackerone.com/reports/1245762 - Bounty: $1750",
+          "link": "https://hackerone.com/reports/1245762",
+          "publishedOn": "2022-01-12T10:08:30.000Z",
+          "wordCount": 25,
+          "title": "Account Takeover via SMS Authentication Flow"
+        },
+        {
+          "id": "https://hackerone.com/reports/204703",
+          "author": null,
+          "description": "Nord Security disclosed a bug submitted by paramdham: https://hackerone.com/reports/204703 - Bounty: $300",
+          "link": "https://hackerone.com/reports/204703",
+          "publishedOn": "2022-01-12T08:33:48.000Z",
+          "wordCount": 25,
+          "title": "CSRF to change password"
+        },
+        {
+          "id": "https://hackerone.com/reports/783191",
+          "author": null,
+          "description": "Gener8 disclosed a bug submitted by paramdham: https://hackerone.com/reports/783191",
+          "link": "https://hackerone.com/reports/783191",
+          "publishedOn": "2022-01-12T08:33:43.000Z",
+          "wordCount": 25,
+          "title": "Clickjacking to change email address"
+        },
+        {
           "id": "https://hackerone.com/reports/1431042",
           "author": null,
           "description": "Node.js disclosed a bug submitted by rugvip: https://hackerone.com/reports/1431042",
@@ -1210,6 +1264,69 @@
       "siteUrl": "https://infosecwriteups.com?source=rss----7b722bfd1b8d---4",
       "articles": [
         {
+          "id": "https://medium.com/p/ea7abcc68a18",
+          "author": "Hacktivities",
+          "description": "This article provides my approach for solving the EscapeRoom CTF created by The Honeynet Project on the CyberDefenders website, a blue…",
+          "link": "https://infosecwriteups.com/escaperoom-pcap-analysis-with-wireshark-ea7abcc68a18?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2022-01-12T16:27:16.000Z",
+          "wordCount": 2362,
+          "title": "EscapeRoom — PCAP Analysis with Wireshark"
+        },
+        {
+          "id": "https://medium.com/p/dae031011a4e",
+          "author": "karan bamal",
+          "description": "What are handles?\nAs per MSDN, Objects are data structures that represent a system resource, this can be a file, process, thread, etc. \nHowever, we cannot interact with them directly, to access the…",
+          "link": "https://infosecwriteups.com/windows-application-exploitation-series-part-1-leaky-handles-dae031011a4e?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2022-01-12T16:07:05.000Z",
+          "wordCount": 787,
+          "title": "Windows application exploitation series PART 1 — Leaky Handles"
+        },
+        {
+          "id": "https://medium.com/p/b856b5ab092d",
+          "author": "Ayush Verma",
+          "description": "Day1 : Installing Kali Linux",
+          "link": "https://infosecwriteups.com/day-9-cn-network-security-devices-100daysofhacking-b856b5ab092d?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2022-01-12T16:06:27.000Z",
+          "wordCount": 1089,
+          "title": "Day 9 CN- Network Security Devices #100DaysofHacking"
+        },
+        {
+          "id": "https://medium.com/p/a27d08c5e0a4",
+          "author": "Febi Mudiyanto",
+          "description": "The OSINT write-ups",
+          "link": "https://infosecwriteups.com/cyberdefenders-lespion-a27d08c5e0a4?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2022-01-12T16:06:16.000Z",
+          "wordCount": 1171,
+          "title": "CyberDefenders | L’espion"
+        },
+        {
+          "id": "https://medium.com/p/daeeaf71dd10",
+          "author": "Febi Mudiyanto",
+          "description": "The second day, we will be learning about Authentication Bypass.",
+          "link": "https://infosecwriteups.com/day-2-web-exploitation-elf-hr-problems-advent-of-cyber-3-2021-daeeaf71dd10?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2022-01-12T16:02:28.000Z",
+          "wordCount": 731,
+          "title": "[Day 2] Web Exploitation Elf HR Problems | Advent of Cyber 3 (2021)"
+        },
+        {
+          "id": "https://medium.com/p/92823b28b1d",
+          "author": "Mukilan Baskaran",
+          "description": "Writeup on Access Control",
+          "link": "https://infosecwriteups.com/idor-tryhackme-92823b28b1d?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2022-01-12T16:02:01.000Z",
+          "wordCount": 934,
+          "title": "IDOR — TryHackme"
+        },
+        {
+          "id": "https://medium.com/p/488cbfcf4fe8",
+          "author": "Vicente Aceituno Canal",
+          "description": "When developing new applications, a particularly web based or mobile applications, software development teams often find themselves fixing…",
+          "link": "https://infosecwriteups.com/secure-development-principles-488cbfcf4fe8?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2022-01-12T16:01:22.000Z",
+          "wordCount": 2226,
+          "title": "Secure Development Principles"
+        },
+        {
           "id": "https://medium.com/p/8f2333576f48",
           "author": "Yuvarajan",
           "description": "Hello Hackers!!! I am back with another forensic write-up this time. InCTF professionals finals 2021 happened this week. Challenges were…",
@@ -1847,6 +1964,60 @@
       "siteUrl": "https://medium.com/tag/bugbounty/latest?source=rss------bugbounty-5",
       "articles": [
         {
+          "id": "https://medium.com/p/e1aca380ebfe",
+          "author": "Cristian Cornea",
+          "description": "In this article, we will discuss about one of the toughest exams from Offensive Security, the web expert one (OSWE).\nContinue reading on Medium »",
+          "link": "https://corneacristian.medium.com/how-to-attack-offensive-security-web-expert-oswe-e1aca380ebfe?source=rss------bugbounty-5",
+          "publishedOn": "2022-01-12T13:28:50.000Z",
+          "wordCount": 80,
+          "title": "How to attack Offensive Security Web Expert (OSWE)"
+        },
+        {
+          "id": "https://medium.com/p/89f7cd172e6e",
+          "author": "Aaryan",
+          "description": "While performing a security assessment our main goal is to map out all the domains owned by a single entity. This means knowing all the…\nContinue reading on Medium »",
+          "link": "https://aaryanapex.medium.com/bug-bounty-methodology-horizontal-enumeration-89f7cd172e6e?source=rss------bugbounty-5",
+          "publishedOn": "2022-01-12T12:12:41.000Z",
+          "wordCount": 1045,
+          "title": "Bug Bounty Methodology — Horizontal Enumeration"
+        },
+        {
+          "id": "https://medium.com/p/327a6f3a9b0e",
+          "author": "Neilmark Ochea",
+          "description": "I’m glad you’re here. Please have fun reading (nmochea).\nContinue reading on Medium »",
+          "link": "https://nmochea.medium.com/xiaomi-arbitrary-javascript-vulnerability-327a6f3a9b0e?source=rss------bugbounty-5",
+          "publishedOn": "2022-01-12T12:06:40.000Z",
+          "wordCount": 291,
+          "title": "Xiaomi Arbitrary JavaScript Vulnerability"
+        },
+        {
+          "id": "https://medium.com/p/e566d8e7fd0",
+          "author": "Girish Chede",
+          "description": "hey computer geeks. i am writing this cause i have faced very problems in getting started in “cyber security” cause of i don’t know where…\nContinue reading on Medium »",
+          "link": "https://medium.com/@girishchede2005/learning-prerequisites-for-hacking-and-bug-bounty-e566d8e7fd0?source=rss------bugbounty-5",
+          "publishedOn": "2022-01-12T11:21:00.000Z",
+          "wordCount": 775,
+          "title": "learning prerequisites for hacking and bug bounty?"
+        },
+        {
+          "id": "https://medium.com/p/73d33d30fbef",
+          "author": "Daniel Hunt",
+          "description": "An introduction to the fundamentals of one of the most important protocols on the internet and the methodology to exploit it for fun and…\nContinue reading on Dev Genius »",
+          "link": "https://blog.devgenius.io/attacking-arp-learn-networking-by-breaking-stuff-for-bug-bounty-hunters-penetration-testers-and-73d33d30fbef?source=rss------bugbounty-5",
+          "publishedOn": "2022-01-12T11:03:15.000Z",
+          "wordCount": 1449,
+          "title": "Attacking ARP: Learn Networking By Breaking Stuff For Bug Bounty Hunters, Penetration Testers, and…"
+        },
+        {
+          "id": "https://medium.com/p/7449ac0f2498",
+          "author": "Aaryan",
+          "description": "So, I have seen various articles about subdomain enumeration and decided to make one in detail without confusing everyone with various…\nContinue reading on Medium »",
+          "link": "https://aaryanapex.medium.com/subdomain-enumeration-the-right-way-prerequisites-7449ac0f2498?source=rss------bugbounty-5",
+          "publishedOn": "2022-01-12T06:56:34.000Z",
+          "wordCount": 1008,
+          "title": "Subdomain Enumeration — The Right way (Prerequisites)"
+        },
+        {
           "id": "https://medium.com/p/a563bcdb563d",
           "author": "Ugroon",
           "description": "Hi bug hunters!!\nContinue reading on Medium »",
@@ -1872,6 +2043,15 @@
           "publishedOn": "2022-01-11T17:59:37.000Z",
           "wordCount": 384,
           "title": "ODDZ Incentivized Testnet : Airdrop And Bug Bounty Program"
+        },
+        {
+          "id": "https://medium.com/p/1fbfdf76cb6b",
+          "author": "Sudarshan Sangameswaran",
+          "description": "Cookies are tiny pieces of data or information that are locally stored on your computer that are sent to the server when you make a request\nContinue reading on Medium »",
+          "link": "https://sudarshan-s.medium.com/cookies-an-eye-opening-guide-1fbfdf76cb6b?source=rss------bugbounty-5",
+          "publishedOn": "2022-01-11T16:38:46.000Z",
+          "wordCount": 679,
+          "title": "COOKIES: AN EYE-OPENING GUIDE"
         },
         {
           "id": "https://medium.com/p/1fbfdf76cb6b",
@@ -3024,6 +3204,15 @@
       "siteUrl": "https://medium.com/tag/redteam/latest?source=rss------redteam-5",
       "articles": [
         {
+          "id": "https://medium.com/p/7c2fe3dcb0e0",
+          "author": "dh0ck",
+          "description": "I’m going to share the results of some experimentation with Kerberos tickets. I’m sorry if this doesn’t add any new value or someone else…\nContinue reading on System Weakness »",
+          "link": "https://systemweakness.com/playing-with-kerberos-tickets-host-service-7c2fe3dcb0e0?source=rss------redteam-5",
+          "publishedOn": "2022-01-12T20:31:01.000Z",
+          "wordCount": 2280,
+          "title": "Playing with Kerberos tickets (Host service)"
+        },
+        {
           "id": "https://medium.com/p/51dd933ba046",
           "author": "Yaman Tecnologia",
           "description": "Como em um time de futebol, temos o ataque e a defesa, em cibersegurança a ideia é parecida.\nContinue reading on Yaman Tecnologia »",
@@ -3264,6 +3453,69 @@
       "feedUrl": "https://medium.com/feed/bugbountywriteup",
       "siteUrl": "https://infosecwriteups.com?source=rss----7b722bfd1b8d---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/ea7abcc68a18",
+          "author": "Hacktivities",
+          "description": "This article provides my approach for solving the EscapeRoom CTF created by The Honeynet Project on the CyberDefenders website, a blue…",
+          "link": "https://infosecwriteups.com/escaperoom-pcap-analysis-with-wireshark-ea7abcc68a18?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2022-01-12T16:27:16.000Z",
+          "wordCount": 2362,
+          "title": "EscapeRoom — PCAP Analysis with Wireshark"
+        },
+        {
+          "id": "https://medium.com/p/dae031011a4e",
+          "author": "karan bamal",
+          "description": "What are handles?\nAs per MSDN, Objects are data structures that represent a system resource, this can be a file, process, thread, etc. \nHowever, we cannot interact with them directly, to access the…",
+          "link": "https://infosecwriteups.com/windows-application-exploitation-series-part-1-leaky-handles-dae031011a4e?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2022-01-12T16:07:05.000Z",
+          "wordCount": 787,
+          "title": "Windows application exploitation series PART 1 — Leaky Handles"
+        },
+        {
+          "id": "https://medium.com/p/b856b5ab092d",
+          "author": "Ayush Verma",
+          "description": "Day1 : Installing Kali Linux",
+          "link": "https://infosecwriteups.com/day-9-cn-network-security-devices-100daysofhacking-b856b5ab092d?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2022-01-12T16:06:27.000Z",
+          "wordCount": 1089,
+          "title": "Day 9 CN- Network Security Devices #100DaysofHacking"
+        },
+        {
+          "id": "https://medium.com/p/a27d08c5e0a4",
+          "author": "Febi Mudiyanto",
+          "description": "The OSINT write-ups",
+          "link": "https://infosecwriteups.com/cyberdefenders-lespion-a27d08c5e0a4?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2022-01-12T16:06:16.000Z",
+          "wordCount": 1171,
+          "title": "CyberDefenders | L’espion"
+        },
+        {
+          "id": "https://medium.com/p/daeeaf71dd10",
+          "author": "Febi Mudiyanto",
+          "description": "The second day, we will be learning about Authentication Bypass.",
+          "link": "https://infosecwriteups.com/day-2-web-exploitation-elf-hr-problems-advent-of-cyber-3-2021-daeeaf71dd10?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2022-01-12T16:02:28.000Z",
+          "wordCount": 731,
+          "title": "[Day 2] Web Exploitation Elf HR Problems | Advent of Cyber 3 (2021)"
+        },
+        {
+          "id": "https://medium.com/p/92823b28b1d",
+          "author": "Mukilan Baskaran",
+          "description": "Writeup on Access Control",
+          "link": "https://infosecwriteups.com/idor-tryhackme-92823b28b1d?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2022-01-12T16:02:01.000Z",
+          "wordCount": 934,
+          "title": "IDOR — TryHackme"
+        },
+        {
+          "id": "https://medium.com/p/488cbfcf4fe8",
+          "author": "Vicente Aceituno Canal",
+          "description": "When developing new applications, a particularly web based or mobile applications, software development teams often find themselves fixing…",
+          "link": "https://infosecwriteups.com/secure-development-principles-488cbfcf4fe8?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2022-01-12T16:01:22.000Z",
+          "wordCount": 2226,
+          "title": "Secure Development Principles"
+        },
         {
           "id": "https://medium.com/p/8f2333576f48",
           "author": "Yuvarajan",
@@ -3902,6 +4154,42 @@
       "siteUrl": "https://medium.com/tag/osint/latest?source=rss------osint-5",
       "articles": [
         {
+          "id": "https://medium.com/p/4a4c8c2b4f64",
+          "author": "Steve Micallef",
+          "description": "For the past ten years, I’ve been building a popular open source project. Here are the lessons I’ve learned along the way.\nContinue reading on Medium »",
+          "link": "https://medium.com/@micallst/lessons-learned-from-my-10-year-open-source-project-4a4c8c2b4f64?source=rss------osint-5",
+          "publishedOn": "2022-01-12T21:19:08.000Z",
+          "wordCount": 3399,
+          "title": "Lessons learned from my 10 year open source project"
+        },
+        {
+          "id": "https://medium.com/p/a8823f308536",
+          "author": "Lilith Wittmann",
+          "description": "Vor einigen Tagen tat ich etwas, dass ist so ungewöhnlich, das es scheinbar noch fast niemand vor mir gemacht hat: Ich habe mir die Liste…\nContinue reading on Medium »",
+          "link": "https://lilithwittmann.medium.com/bundesservice-telekommunikation-wie-ich-versehentlich-eine-tarnbeh%C3%B6rde-in-der-bundesverwaltung-a8823f308536?source=rss------osint-5",
+          "publishedOn": "2022-01-12T12:29:18.000Z",
+          "wordCount": 1900,
+          "title": "Bundesservice Telekommunikation — wie ich versehentlich eine Tarnbehörde in der Bundesverwaltung…"
+        },
+        {
+          "id": "https://medium.com/p/6858f389e785",
+          "author": "Awais Afzal Kamboh",
+          "description": "OSINT CASE STUDY 2\nContinue reading on Medium »",
+          "link": "https://medium.com/@awaisafzal0/osint-pakistan-politicians-6858f389e785?source=rss------osint-5",
+          "publishedOn": "2022-01-12T11:04:26.000Z",
+          "wordCount": 813,
+          "title": "OSINT PAKISTAN POLITICIANS"
+        },
+        {
+          "id": "https://medium.com/p/2c05c44e9590",
+          "author": "Intel_Inquirer",
+          "description": "Just like any other social media platform, dating sites are platforms which can be used in online investigations. Considering the current…\nContinue reading on Medium »",
+          "link": "https://intel-inquirer.medium.com/its-a-match-dating-apps-and-socmint-2c05c44e9590?source=rss------osint-5",
+          "publishedOn": "2022-01-12T06:48:20.000Z",
+          "wordCount": 1092,
+          "title": "It’s a Match! Dating Apps and SOCMINT"
+        },
+        {
           "id": "https://medium.com/p/a27d08c5e0a4",
           "author": "Febi Mudiyanto",
           "description": "The OSINT write-ups\nContinue reading on InfoSec Write-ups »",
@@ -4376,6 +4664,15 @@
       "feedUrl": "https://medium.com/feed/tag/fuzzing",
       "siteUrl": "https://medium.com/tag/fuzzing/latest?source=rss------fuzzing-5",
       "articles": [
+        {
+          "id": "https://medium.com/p/4c67b76ab5b6",
+          "author": "Mücahit Saratar",
+          "description": "yeni başlayanlar için, afl ile derleme, lib/obje kullanımı,afl/afl++ ile fuzzing nasıl yapılır\nContinue reading on Medium »",
+          "link": "https://medium.com/@Mr.deadbeef.py/afl-tutorials-for-beginners-0x00-4c67b76ab5b6?source=rss------fuzzing-5",
+          "publishedOn": "2022-01-12T21:56:52.000Z",
+          "wordCount": 497,
+          "title": "AFL TUTORIALS FOR BEGINNERS 0X00"
+        },
         {
           "id": "https://medium.com/p/1bd47e9998bd",
           "author": "Hamit CİBO",
@@ -5321,6 +5618,15 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=29908197",
+          "author": "media_hacker",
+          "description": "Article URL: https://www.synack.com/blog/preventing-broken-access-control-the-no-1-vulnerability-in-the-owasp-top-10-2021/\nComments URL: https://news.ycombinator.com/item?id=29908197\nPoints: 3\n# Comments: 0",
+          "link": "https://www.synack.com/blog/preventing-broken-access-control-the-no-1-vulnerability-in-the-owasp-top-10-2021/",
+          "publishedOn": "2022-01-12T15:57:09.000Z",
+          "wordCount": 1785,
+          "title": "Preventing Broken Access Control: The No.1 OWASP Vulnerability in 2021"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=29896565",
           "author": "bwblabs",
           "description": "Article URL: https://msrc.microsoft.com/update-guide/en-US/vulnerability/CVE-2022-21907\nComments URL: https://news.ycombinator.com/item?id=29896565\nPoints: 3\n# Comments: 2",
@@ -5670,6 +5976,105 @@
       "siteUrl": "https://www.freebuf.com",
       "articles": [
         {
+          "id": "https://www.freebuf.com/news/319565.html",
+          "author": null,
+          "description": "一名安全研究人员表示，部分特斯拉汽车软件存在“严重”缺陷，该缺陷能够远程解锁车辆门窗、在无钥匙状态下启动车辆并禁用安全系统。",
+          "link": "https://www.freebuf.com/news/319565.html",
+          "publishedOn": "2022-01-12T14:51:22.000Z",
+          "wordCount": 192,
+          "title": "FreeBuf早报 | 欧盟将启动供应链安全大规模演练；特斯拉汽车软件被曝安全缺陷"
+        },
+        {
+          "id": "https://www.freebuf.com/articles/neopoints/319534.html",
+          "author": null,
+          "description": "51%的中小企业经历过网络安全漏洞，由此带来的网络犯罪成为了亟待解决的问题。",
+          "link": "https://www.freebuf.com/articles/neopoints/319534.html",
+          "publishedOn": "2022-01-12T10:03:34.000Z",
+          "wordCount": 143,
+          "title": "中小企业容易成为网络攻击的目标"
+        },
+        {
+          "id": "https://www.freebuf.com/articles/neopoints/319407.html",
+          "author": null,
+          "description": "个人信息合规落地，尤其是个人信息的安全保障义务，不仅仅是法律问题，更是信息安全技术问题。",
+          "link": "https://www.freebuf.com/articles/neopoints/319407.html",
+          "publishedOn": "2022-01-12T07:56:51.000Z",
+          "wordCount": 204,
+          "title": "密码技术在个人信息合规中的应用与落地"
+        },
+        {
+          "id": "https://www.freebuf.com/news/319482.html",
+          "author": null,
+          "description": "RedLine 的目标是存储在浏览器上的用户账户凭证等信息。",
+          "link": "https://www.freebuf.com/news/319482.html",
+          "publishedOn": "2022-01-12T05:50:05.000Z",
+          "wordCount": 212,
+          "title": "RedLine 信息窃取器的新变种！伪装成Omicron 病例计数器传播"
+        },
+        {
+          "id": "https://www.freebuf.com/news/319479.html",
+          "author": null,
+          "description": "坚持信创，斗象科技不断深化国产化生态合作。",
+          "link": "https://www.freebuf.com/news/319479.html",
+          "publishedOn": "2022-01-12T05:29:51.000Z",
+          "wordCount": 143,
+          "title": "斗象PRS-NTA通过华为鲲鹏 920兼容性认证"
+        },
+        {
+          "id": "https://www.freebuf.com/news/319470.html",
+          "author": null,
+          "description": "安卓版火狐Focus浏览器进一步强化了隐私保护功能，可防止cookie 被用于广告和分析用户行为，以此来保护用户在浏览内容时免受跨站点跟踪。",
+          "link": "https://www.freebuf.com/news/319470.html",
+          "publishedOn": "2022-01-12T03:56:11.000Z",
+          "wordCount": 156,
+          "title": "安卓版Firefox Focus浏览器增强了隐私保护，阻止跨站点跟踪"
+        },
+        {
+          "id": "https://www.freebuf.com/articles/web/319458.html",
+          "author": null,
+          "description": "通常在我们测逻辑漏洞或写爬虫的时候，如果遇到前端加密，我们可以选择将加密算法拖出来，对自己调试的参数进行加密。",
+          "link": "https://www.freebuf.com/articles/web/319458.html",
+          "publishedOn": "2022-01-12T03:49:10.000Z",
+          "wordCount": 3060,
+          "title": "常见的加密方式实例"
+        },
+        {
+          "id": "https://www.freebuf.com/news/319440.html",
+          "author": null,
+          "description": "微软发布消息称，威胁行为者可以利用 macOS 漏洞绕过透明，同意和控制（TCC）框架来访问用户受保护的数据。",
+          "link": "https://www.freebuf.com/news/319440.html",
+          "publishedOn": "2022-01-12T03:44:03.000Z",
+          "wordCount": 221,
+          "title": "微软：powerdir 漏洞允许访问macOS用户数据"
+        },
+        {
+          "id": "https://www.freebuf.com/articles/ics-articles/319428.html",
+          "author": null,
+          "description": "数字化转型正在加速推动OT与IT的融合发展，与此同时OT与IT融合的网络安全风险也同步演进发展。",
+          "link": "https://www.freebuf.com/articles/ics-articles/319428.html",
+          "publishedOn": "2022-01-12T03:02:46.000Z",
+          "wordCount": 311,
+          "title": "工业网络靶场漫谈（七）｜发展趋势展望"
+        },
+        {
+          "id": "https://www.freebuf.com/articles/web/319423.html",
+          "author": null,
+          "description": "利用漏洞清除债务，盗取数据，一键获取XX游戏的所有账户登陆权限，这些看似爽文里的“骚操作”其实早就在现实中上演。",
+          "link": "https://www.freebuf.com/articles/web/319423.html",
+          "publishedOn": "2022-01-12T02:44:51.000Z",
+          "wordCount": 178,
+          "title": "黑客用漏洞清除债务 这种漏洞如何“早知道”"
+        },
+        {
+          "id": "https://www.freebuf.com/articles/web/319397.html",
+          "author": null,
+          "description": "这篇文章严格来说是我学java利用链的部分学习笔记。",
+          "link": "https://www.freebuf.com/articles/web/319397.html",
+          "publishedOn": "2022-01-11T11:55:57.000Z",
+          "wordCount": 166,
+          "title": "关于我学渗透的那档子事之Java反序列化-CB链"
+        },
+        {
           "id": "https://www.freebuf.com/articles/web/319358.html",
           "author": null,
           "description": "一篇关于php反序列的文章",
@@ -5686,6 +6091,15 @@
           "publishedOn": "2022-01-11T09:26:51.000Z",
           "wordCount": 262,
           "title": "FreeBuf 早报 | 多名 EA Sports FIFA 22玩家被黑；电子垃圾也是网络安全问题"
+        },
+        {
+          "id": "https://www.freebuf.com/articles/people/319342.html",
+          "author": null,
+          "description": "SASE是否真能实现Gartner预测的“可取代现有的网络和安全模型”，阿里云SASE是如何打造的，又能为企业带来哪些改变？",
+          "link": "https://www.freebuf.com/articles/people/319342.html",
+          "publishedOn": "2022-01-11T09:15:15.000Z",
+          "wordCount": 160,
+          "title": "专访阿里云SASE负责人：让办公安全更简单"
         },
         {
           "id": "https://www.freebuf.com/articles/319327.html",
@@ -5715,6 +6129,15 @@
           "title": "Facebook推出“隐私中心”，教育用户了解数据收集和隐私选项"
         },
         {
+          "id": "https://www.freebuf.com/articles/database/319312.html",
+          "author": null,
+          "description": "网络风险与“零号病人”同样，都是动态的研究课题，没那么容易一击即中，需要在寻找、判断、肯定、和自我否定中循序渐进，就是对“病毒”的认知过程。",
+          "link": "https://www.freebuf.com/articles/database/319312.html",
+          "publishedOn": "2022-01-11T04:32:04.000Z",
+          "wordCount": 147,
+          "title": "“免疫”与“病毒”在网络时空之下的博弈对抗"
+        },
+        {
           "id": "https://www.freebuf.com/articles/database/319292.html",
           "author": null,
           "description": "和快速奔跑的车联网产业相比，车联网安全显然是一个水磨工夫的活，车企必须学会慢下来，沉下去，方能真正解决车联网的安全问题。",
@@ -5722,6 +6145,15 @@
           "publishedOn": "2022-01-11T02:55:09.000Z",
           "wordCount": 178,
           "title": "“脆弱”的车联网"
+        },
+        {
+          "id": "https://www.freebuf.com/articles/paper/319290.html",
+          "author": null,
+          "description": "深信服威胁情报团队基于云端数据持续对活跃挖矿木马家族进行追踪，检测到了多起挖矿木马爆发事件，并从中分析总结出了一些挖矿木挖马的发展趋势。",
+          "link": "https://www.freebuf.com/articles/paper/319290.html",
+          "publishedOn": "2022-01-11T02:51:15.000Z",
+          "wordCount": 160,
+          "title": "2021年挖矿木马趋势报告"
         },
         {
           "id": "https://www.freebuf.com/articles/neopoints/319273.html",
@@ -7484,6 +7916,15 @@
       "siteUrl": "http://www.sec-wiki.com/",
       "articles": [
         {
+          "id": "http://www.sec-wiki.com/?2022-01-12",
+          "author": null,
+          "description": "Gartner 2021 漏洞评估产品市场指南  by ourren\n网安新兴赛道及厂商速查· Cyber Security Billboard  by ourren\n网络空间测绘溯源技术剖析  by ourren\n网络空间威胁狩猎的研究综述  by ourren\n长安\"战疫\"-WriteUp  by ourren\nAPT组织情报研究年鉴 2021  by ourren\n更多最新文章，请访问SecWiki",
+          "link": "http://www.sec-wiki.com/?2022-01-12",
+          "publishedOn": "2022-01-12T15:58:20.000Z",
+          "wordCount": 588,
+          "title": "SecWiki News 2022-01-12 Review"
+        },
+        {
           "id": "http://www.sec-wiki.com/?2022-01-11",
           "author": null,
           "description": "基于跨站跳转和文本数据异构图的GCN模型实现恶意网站识别  by ourren\n在互联网交换中心检测反射放大 DDoS 攻击  by Avenger\n更多最新文章，请访问SecWiki",
@@ -7760,6 +8201,132 @@
       "feedUrl": "https://www.reddit.com/r/asknetsec/.rss",
       "siteUrl": "https://www.reddit.com/r/asknetsec/",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/s2lket/is_there_a_solution_to_encrypt_an_os_at_the/",
+          "author": null,
+          "description": "Thinking about cloud threat models, is there a solution that exists that can encrypt an OS at the RAM/CPU level to further restrict hosting providers ability to reach, view and use a machine outside of the usual disk encryption. While I am sure it’s a a long shot but there does exist a possibility where <insert cloud host here> can access the machine from a local terminal via their hosting infrastructure or dump the RAM on the hypervisor. Is there any way or value in preventing that or is it just a risk that has to be accepted when using a cloud provider?\n    submitted by    /u/concon2015  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/s2lket/is_there_a_solution_to_encrypt_an_os_at_the/",
+          "publishedOn": "2022-01-13T00:30:21.000Z",
+          "wordCount": 280,
+          "title": "Is there a solution to encrypt an OS at the RAM/CPU level?"
+        },
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/s2gv3y/creative_effective_ways_to_run_a_security/",
+          "author": null,
+          "description": "it's that time of the year again: we are looking to renew our contract with our security awareness vendor. Basically, they provide a portal where people need to go to watch video's of how to prevent the regular security stuff (identify tailgating, spot phishing mails, etc). Some of these video's don't even make sense (e.g. we are for 99% working from home. Tailgating is not a real issue here). Part of this is a \"must do\" (due to compliance/certification requirements). However, there must surely be a more fun/creative way of doing this? What are some nice/creative ways you have setup security awareness within your organization?\n Side-note: yes, I know this should be risk based. Yes, I know I should talk to other departments to identify there needs. ;) Just looking for some experiences and idea's.\n    submitted by    /u/Flagcapturer  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/s2gv3y/creative_effective_ways_to_run_a_security/",
+          "publishedOn": "2022-01-12T21:02:47.000Z",
+          "wordCount": 255,
+          "title": "Creative / Effective ways to run a security awareness program?"
+        },
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/s2g9ji/what_is_your_home_setup_like_and_what_tech/",
+          "author": null,
+          "description": "Hi\n I work in the InfoSec industry and having worked from home for the last year or so, I want to now start doing up my room and make it very techy\n At the moment, I do not have anything too exciting or amazing but I am interested to know what your home setups are like\n Thanks\n    submitted by    /u/dasozis  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/s2g9ji/what_is_your_home_setup_like_and_what_tech/",
+          "publishedOn": "2022-01-12T20:37:54.000Z",
+          "wordCount": 579,
+          "title": "What is your home setup like and what tech gadgets do you have in your room?"
+        },
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/s2cxz7/i_get_to_help_design_a_cybersecurity_room/",
+          "author": null,
+          "description": "As the title says I get to help design a cyber security room for a community college. I want to ask the Netsec community. What would you like to see if you were young and were curious about this world? Tools you wish you had? Something that would of made you excited when you walked past to get into cyber security?\n All recommendations welcome, thank you!\n    submitted by    /u/benxfactor  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/s2cxz7/i_get_to_help_design_a_cybersecurity_room/",
+          "publishedOn": "2022-01-12T18:16:46.000Z",
+          "wordCount": 915,
+          "title": "I get to help design a Cybersecurity room"
+        },
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/s2cpq7/any_resourcesguides_on_pentesting_a_network_not/",
+          "author": null,
+          "description": "Anyone have any resources for pen-testing a network that's supposed to be air gapped?\n I'm working with some colleagues to pen-test our professors lab as part of our assignment--mainly putting together a report on how we would approach the system if we had hands on access as both an admin and as a non privileged user. The lab itself is pretty simple--its not to be supposed running any web apps or even to be touching the internet. Most pentest guides are great at showing you how to approach scanning the network for misconfigurations and vulnerabilities and then moving over to web applications but I'm wondering if were limited to just enumerating the system and hoping for the best? \n Mainly looking for resources I can use as references to back any ideas on whats doable. \n Thanks.\n    submitted by    /u/CyberspaceAggressor  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/s2cpq7/any_resourcesguides_on_pentesting_a_network_not/",
+          "publishedOn": "2022-01-12T18:07:13.000Z",
+          "wordCount": 428,
+          "title": "Any resources/guides on pen-testing a network not facing the internet?"
+        },
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/s27l64/another_subnetting_question/",
+          "author": null,
+          "description": "I'm given the following network address - 209.165.201.0 /24. If I'm splitting this network into two, LAN1 will have 29 hosts and LAN2 with 17 hosts.\n What I did to subnet this network was incorrect but I don't know the correct answer.\n I thought LAN1 would have an IP of 209.165.201.0 /27 and LAN 2 would be 209.165.201.33 /27, but from what I understand now is that these subnets cannot share the same CIDR. How would you go about doing this?\n    submitted by    /u/crumbjuice  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/s27l64/another_subnetting_question/",
+          "publishedOn": "2022-01-12T14:29:49.000Z",
+          "wordCount": 249,
+          "title": "Another subnetting question!"
+        },
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/s266je/potential_risk_from_using_bluetooth_headset_on_a/",
+          "author": null,
+          "description": "My company provides work laptops and headsets. However they don't have option for wireless headsets, only wired ones. They also advise against connecting any non company authorised peripherals to the laptop.\n I am wondering though, what would be realistic risks from connecting a Bluetooth headset to a laptop?\n    submitted by    /u/rw1337  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/s266je/potential_risk_from_using_bluetooth_headset_on_a/",
+          "publishedOn": "2022-01-12T13:24:02.000Z",
+          "wordCount": 909,
+          "title": "Potential Risk from Using Bluetooth Headset on a company laptop?"
+        },
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/s25nc2/internship_questions/",
+          "author": null,
+          "description": "About a month after getting my CCNA training, I have my first interview for an internship in well-known MNC bank in networking field.. & I'm terribly nervous \n Guys, can you help me with some common questions asked in Bank Networking Interview..\n    submitted by    /u/Aggressive-Dot-7339  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/s25nc2/internship_questions/",
+          "publishedOn": "2022-01-12T12:56:41.000Z",
+          "wordCount": 266,
+          "title": "Internship Questions"
+        },
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/s233tr/best_identity_theft_services_for_companies/",
+          "author": null,
+          "description": "In your experience what are the best Identity Theft services for Companies/Brands (not for indivisuals)?\n I an talking of services like:\n Identity Guard\n LifeLock\n IdentityForce\n Watchdog \n Thanks for the answers.\n    submitted by    /u/NerdSupremacist  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/s233tr/best_identity_theft_services_for_companies/",
+          "publishedOn": "2022-01-12T10:23:19.000Z",
+          "wordCount": 527,
+          "title": "Best Identity Theft services for Companies"
+        },
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/s1x14t/scanning_for_network_listening_device_what_is/",
+          "author": null,
+          "description": "Hey all, first of all, thanks for any help anyone can provide. I have a limited background in network security understanding from my undergrad in computer science, but have not dipped my toes in seriously in a while, so kinda stumbling through trying to figure this out.\n A friend asked me to check their network for any rogue listening devices and after a quick scan with Nmap, I came across this device on 192.168.0.1 described as \"blackice-icecap\". A quick google search makes it sound like this might actual be some kind of device setup to monitor network traffic. Is this something that is worth digging deeper into or am I misunderstanding this?\n What other avenues for rogue network monitoring should I be looking into? My first thought is that this is all probably a bit over my head, but I thought I'd at least give it a quick peak to see if I can find anything obvious to help my friend out.\n Thanks again for any feedback or advice.\n For reference, here is the relevant part of the Nmap result:\n  \nNmap scan report for 192.168.0.1 \n Host is up (0.033s latency). \n Not shown: 995 closed tcp ports (conn-refused) \n PORT STATE SERVICE \n 80/tcp open http \n 443/tcp open https \n 5000/tcp open upnp \n 8081/tcp filtered blackice-icecap \n 8082/tcp filtered blackice-alerts\n  \n​\n    submitted by    /u/wwants  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/s1x14t/scanning_for_network_listening_device_what_is/",
+          "publishedOn": "2022-01-12T04:16:42.000Z",
+          "wordCount": 448,
+          "title": "Scanning for Network Listening Device - What is Blackice?"
+        },
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/s1vj3e/using_mobile_hotspot_on_my_laptop_where_do_i_turn/",
+          "author": null,
+          "description": "Hi all\n Simple question but very hard to find the answer. When I dont have access to good wifi, Im going to be using mobile hotspot to access the internet on my laptop.\n Question is, where do i turn on my vpn - on my laptop? Or on my phone? Or just to be safe, on both?\n    submitted by    /u/AliveandDrive  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/s1vj3e/using_mobile_hotspot_on_my_laptop_where_do_i_turn/",
+          "publishedOn": "2022-01-12T03:02:49.000Z",
+          "wordCount": 1043,
+          "title": "Using mobile hotspot on my laptop. Where do I turn on VPN - phone or laptop?"
+        },
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/s1v8y7/password_cracking_lds/",
+          "author": null,
+          "description": "Has anyone ever done a password audit against an Active Directory LDS server (not regular AD server)? If so any directions on how to extract the hashes using standard tools like ImPacket or DSInternals? We have procedure to crack our AD passwords using these tools but LDS seems to be a slightly different beast.\n    submitted by    /u/clayjk  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/s1v8y7/password_cracking_lds/",
+          "publishedOn": "2022-01-12T02:49:01.000Z",
+          "wordCount": 283,
+          "title": "Password Cracking LDS"
+        },
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/s1v48e/best_way_to_remove_card_from_multiple_services/",
+          "author": null,
+          "description": "I would like to unlink my card details on various services. It would be kind of a lot of work to login to each service and delete that info. Is there another way? Would just getting a new card be a good option?\n    submitted by    /u/extremexample  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/s1v48e/best_way_to_remove_card_from_multiple_services/",
+          "publishedOn": "2022-01-12T02:42:46.000Z",
+          "wordCount": 481,
+          "title": "Best way to remove card from multiple services?"
+        },
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/s1tqbq/can_the_operators_of_ss7s_pull_smss_from_carriers/",
+          "author": null,
+          "description": "Provocative title, I know. \"At will\" is subjective.\n It was claimed in a post yesterday and today that this is something that SS7 operators can do (which is true).\n I talked to a security researcher (Lucky 225 on Twitter) who told me that the US is more locked down than other countries and phones 2014+ are using LTE implying that maybe most phones in the US aren't vulnerable to this. Of course, he's not a god and not omnipotent as none of us are. There are things that he doesn't know (as is the case for us all).\n Does anyone have more information on this that could clarify the extent of the vulnerability in terms of location, G (2G, 3G, etc) and limitations so we can know what we might be vulnerable to?\n Obviously, getting access to an SS7 is WAY harder than a smartphone, sim card and someone's personal info so maybe this isn't the biggest threat, but still...\n    submitted by    /u/iExtrapolate314  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/s1tqbq/can_the_operators_of_ss7s_pull_smss_from_carriers/",
+          "publishedOn": "2022-01-12T01:36:41.000Z",
+          "wordCount": 1063,
+          "title": "Can the operators of SS7s pull SMSs from carriers in the US at will?"
+        },
         {
           "id": "https://www.reddit.com/r/AskNetsec/comments/s1fnmq/career_growth_and_related_certification/",
           "author": null,
@@ -8920,6 +9487,15 @@
       "siteUrl": "https://www.reddit.com/r/redteamsec/",
       "articles": [
         {
+          "id": "https://www.reddit.com/r/redteamsec/comments/s2j4nq/defeating_edrs_with_office_products/",
+          "author": null,
+          "description": "submitted by    /u/dmchell  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/redteamsec/comments/s2j4nq/defeating_edrs_with_office_products/",
+          "publishedOn": "2022-01-12T22:40:07.000Z",
+          "wordCount": 102,
+          "title": "Defeating EDRs with Office Products"
+        },
+        {
           "id": "https://www.reddit.com/r/redteamsec/comments/s1bh7z/domain_escalation_shadowcoerce_msfsrvp/",
           "author": null,
           "description": "submitted by    /u/netbiosX  \n [link]   [comments]",
@@ -9494,6 +10070,15 @@
       "siteUrl": "https://www.reddit.com/r/exploitdev/",
       "articles": [
         {
+          "id": "https://www.reddit.com/r/ExploitDev/comments/s2cix0/where_can_i_learn_windows_binary_exploitation/",
+          "author": null,
+          "description": "submitted by    /u/wlo1337  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/ExploitDev/comments/s2cix0/where_can_i_learn_windows_binary_exploitation/",
+          "publishedOn": "2022-01-12T17:59:54.000Z",
+          "wordCount": 175,
+          "title": "Where can I learn windows binary exploitation from the basics?"
+        },
+        {
           "id": "https://www.reddit.com/r/ExploitDev/comments/s1gutc/kernel_rop_gadgets_arm/",
           "author": null,
           "description": "Hello guys,\n I am trying to port a kernel exploit and i need to find rop gadgets from vmlinux. This is not accessible in the target and as far as i understand uboot loads the vmlinux on boot, but this restricts me from easily finding the gadgets i need.\n Is there any resource you can suggest as I'm clearly missing something and my resesrch till now didn't give me clear answers.\n Thanks :D\n    submitted by    /u/Cr0wTom  \n [link]   [comments]",
@@ -9806,6 +10391,33 @@
       "feedUrl": "https://www.reddit.com/r/computerforensics/.rss",
       "siteUrl": "https://www.reddit.com/r/computerforensics/",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/computerforensics/comments/s2geas/cybrary/",
+          "author": null,
+          "description": "Hello, I’m currently pursuing my BS in Computer Forensics and Digital Investigation. I can across Cybrary and was wondering if that can help me practice more on the subject? I still feel very lost when taking college course, I want to get more practice in me just want to know if Cybrary is worth the annual membership. If any one has some tips on what courses to take there or other sites I would appreciate it. Thank you in advance.\n    submitted by    /u/Sudden_Ad9859  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/computerforensics/comments/s2geas/cybrary/",
+          "publishedOn": "2022-01-12T20:43:20.000Z",
+          "wordCount": 358,
+          "title": "Cybrary"
+        },
+        {
+          "id": "https://www.reddit.com/r/computerforensics/comments/s2dv1b/investigating_message_read_status_in_gmail_google/",
+          "author": null,
+          "description": "submitted by    /u/No_Reflection_3360  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/computerforensics/comments/s2dv1b/investigating_message_read_status_in_gmail_google/",
+          "publishedOn": "2022-01-12T18:55:38.000Z",
+          "wordCount": 178,
+          "title": "Investigating Message Read Status in Gmail & Google Workspace"
+        },
+        {
+          "id": "https://www.reddit.com/r/computerforensics/comments/s26644/interview_questions/",
+          "author": null,
+          "description": "So I read the FAQ and went through the SANs link which is posted to prepare for interviews in forensics. I am a recent graduate with a DF degree, and I had my first interview the other day but I am wondering what I could expect for the technical portion of the interview. Are there certain artifacts or definitions I should make sure I’m familiar with that can help? or any common scenario questions that get asked? I apologize if this isn’t the right place to ask this.\n    submitted by    /u/investtam  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/computerforensics/comments/s26644/interview_questions/",
+          "publishedOn": "2022-01-12T13:23:23.000Z",
+          "wordCount": 506,
+          "title": "Interview questions"
+        },
         {
           "id": "https://www.reddit.com/r/computerforensics/comments/s0wkbg/trying_to_find_a_way_to_see_when_a_user_account/",
           "author": null,
@@ -10281,6 +10893,78 @@
       "feedUrl": "https://www.reddit.com/r/netsec/.rss",
       "siteUrl": "https://www.reddit.com/r/netsec/",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/netsec/comments/s2ijkz/exploiting_url_parsing_confusion_vulnerabilities/",
+          "author": null,
+          "description": "submitted by    /u/ScottContini  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/netsec/comments/s2ijkz/exploiting_url_parsing_confusion_vulnerabilities/",
+          "publishedOn": "2022-01-12T22:14:37.000Z",
+          "wordCount": 107,
+          "title": "Exploiting URL Parsing Confusion Vulnerabilities"
+        },
+        {
+          "id": "https://www.reddit.com/r/netsec/comments/s2bae8/exploit_kits_vs_google_chrome/",
+          "author": null,
+          "description": "submitted by    /u/stashing_the_smack  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/netsec/comments/s2bae8/exploit_kits_vs_google_chrome/",
+          "publishedOn": "2022-01-12T17:08:53.000Z",
+          "wordCount": 107,
+          "title": "Exploit Kits vs. Google Chrome"
+        },
+        {
+          "id": "https://www.reddit.com/r/netsec/comments/s29sh4/malicious_modifications_to_open_source_projects/",
+          "author": null,
+          "description": "submitted by    /u/MiguelHzBz  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/netsec/comments/s29sh4/malicious_modifications_to_open_source_projects/",
+          "publishedOn": "2022-01-12T16:05:35.000Z",
+          "wordCount": 415,
+          "title": "Malicious modifications to open source projects affecting thousands"
+        },
+        {
+          "id": "https://www.reddit.com/r/netsec/comments/s27oj3/preauth_rce_in_moodle_part_ii_session_hijack_in/",
+          "author": null,
+          "description": "submitted by    /u/albinowax  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/netsec/comments/s27oj3/preauth_rce_in_moodle_part_ii_session_hijack_in/",
+          "publishedOn": "2022-01-12T14:33:45.000Z",
+          "wordCount": 128,
+          "title": "Pre-Auth RCE in Moodle Part II - Session Hijack in Moodle's Shibboleth"
+        },
+        {
+          "id": "https://www.reddit.com/r/netsec/comments/s27a54/thephish_is_an_opensource_tool_that_automates_the/",
+          "author": null,
+          "description": "submitted by    /u/emalderson  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/netsec/comments/s27a54/thephish_is_an_opensource_tool_that_automates_the/",
+          "publishedOn": "2022-01-12T14:15:36.000Z",
+          "wordCount": 305,
+          "title": "ThePhish is an open-source tool that automates the entire phishing email analysis process starting from the extraction of the observables from the header and the body of an email to the elaboration of a verdict which is final in most cases. It is based on TheHive, Cortex and MISP."
+        },
+        {
+          "id": "https://www.reddit.com/r/netsec/comments/s26gnj/ransomware_actor_may_have_leaked_their_previous/",
+          "author": null,
+          "description": "submitted by    /u/Acrobatic-Pen-9949  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/netsec/comments/s26gnj/ransomware_actor_may_have_leaked_their_previous/",
+          "publishedOn": "2022-01-12T13:38:36.000Z",
+          "wordCount": 182,
+          "title": "Ransomware Actor May Have Leaked Their Previous Victims"
+        },
+        {
+          "id": "https://www.reddit.com/r/netsec/comments/s26cck/researchers_release_final_version_of_academic/",
+          "author": null,
+          "description": "submitted by    /u/woja111  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/netsec/comments/s26cck/researchers_release_final_version_of_academic/",
+          "publishedOn": "2022-01-12T13:32:28.000Z",
+          "wordCount": 226,
+          "title": "Researchers release final version of academic study testing 25 EDR and EPP vendors against attacks vectors via CPL, HTA, DLL and EXE"
+        },
+        {
+          "id": "https://www.reddit.com/r/netsec/comments/s22ty7/cfp_call_for_papers_for_hardweario_security/",
+          "author": null,
+          "description": "submitted by    /u/hardweario  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/netsec/comments/s22ty7/cfp_call_for_papers_for_hardweario_security/",
+          "publishedOn": "2022-01-12T10:05:29.000Z",
+          "wordCount": 128,
+          "title": "[CFP] Call for Papers for Hardwear.io Security Conference USA 2022 is OPEN!"
+        },
         {
           "id": "https://www.reddit.com/r/netsec/comments/s1kbdh/finding_vulnerabiities_in_lorawans_protocol/",
           "author": null,
@@ -11125,6 +11809,24 @@
       "feedUrl": "https://www.reddit.com/r/opendirectories/.rss",
       "siteUrl": "https://www.reddit.com/r/opendirectories/",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/opendirectories/comments/s2kj6u/miscellaneous_gaming_stuff/",
+          "author": null,
+          "description": "https://www.thegameisafootarcade.com/wp-content/uploads/\n    submitted by    /u/EmuAnon34  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/opendirectories/comments/s2kj6u/miscellaneous_gaming_stuff/",
+          "publishedOn": "2022-01-12T23:42:01.000Z",
+          "wordCount": 96,
+          "title": "Miscellaneous Gaming Stuff."
+        },
+        {
+          "id": "https://www.reddit.com/r/opendirectories/comments/s27zh6/are_there_such_things_as_open_navidrome_airsonic/",
+          "author": null,
+          "description": "Rather than open directories of music, are there open servers that can be used with navidrome / airsonic clients to listen to the music?\n Are there strings one can use to maybe find them? The search engines aren't finding anything\n    submitted by    /u/papabear_12  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/opendirectories/comments/s27zh6/are_there_such_things_as_open_navidrome_airsonic/",
+          "publishedOn": "2022-01-12T14:47:44.000Z",
+          "wordCount": 404,
+          "title": "Are there such things as open navidrome / airsonic music servers to listen to?"
+        },
         {
           "id": "https://www.reddit.com/r/opendirectories/comments/s14zmy/lot_of_itrelated_books/",
           "author": null,
@@ -13219,6 +13921,15 @@
       "siteUrl": "https://medium.com/tag/fuzzing/latest?source=rss------fuzzing-5",
       "articles": [
         {
+          "id": "https://medium.com/p/4c67b76ab5b6",
+          "author": "Mücahit Saratar",
+          "description": "yeni başlayanlar için, afl ile derleme, lib/obje kullanımı,afl/afl++ ile fuzzing nasıl yapılır\nContinue reading on Medium »",
+          "link": "https://medium.com/@Mr.deadbeef.py/afl-tutorials-for-beginners-0x00-4c67b76ab5b6?source=rss------fuzzing-5",
+          "publishedOn": "2022-01-12T21:56:52.000Z",
+          "wordCount": 497,
+          "title": "AFL TUTORIALS FOR BEGINNERS 0X00"
+        },
+        {
           "id": "https://medium.com/p/1bd47e9998bd",
           "author": "Hamit CİBO",
           "description": "Greetings from Constantinople to all,\nContinue reading on Medium »",
@@ -13369,6 +14080,15 @@
       "feedUrl": "https://securityweekly.com/feed/",
       "siteUrl": "https://securityweekly.com",
       "articles": [
+        {
+          "id": "https://securityweekly.com/?p=39459",
+          "author": "Deb Radcliff",
+          "description": "The costs of cyber insurance policies are rising exponentially while underwriters are tightening the rules around who qualifies for cyber insurance, and at the same time, insurer capacity is constricting dramatically. The numbers are all over the place, but the latest statistics from the Council of Insurance Agents and Brokers reported a 25.5% increase in […]\nThe post Ransomware Damage Claims Driving Insurance Hikes appeared first on Security Weekly.",
+          "link": "https://securityweekly.com/2022/01/12/ransomware-damage-claims-driving-insurance-hikes/?utm_source=rss&utm_medium=rss&utm_campaign=ransomware-damage-claims-driving-insurance-hikes",
+          "publishedOn": "2022-01-12T23:12:38.000Z",
+          "wordCount": 885,
+          "title": "Ransomware Damage Claims Driving Insurance Hikes"
+        },
         {
           "id": "https://securityweekly.com/?p=39061",
           "author": "Bill Brenner",
