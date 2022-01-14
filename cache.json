@@ -6,6 +6,33 @@
       "siteUrl": "http://h1.nobbd.de/",
       "articles": [
         {
+          "id": "https://hackerone.com/reports/1301696",
+          "author": null,
+          "description": "Ruby disclosed a bug submitted by sohaib619: https://hackerone.com/reports/1301696",
+          "link": "https://hackerone.com/reports/1301696",
+          "publishedOn": "2022-01-13T22:39:24.000Z",
+          "wordCount": 25,
+          "title": "Bug Report : [ No Valid SPF Records ]"
+        },
+        {
+          "id": "https://hackerone.com/reports/1321070",
+          "author": null,
+          "description": "Adobe disclosed a bug submitted by ismailmuh: https://hackerone.com/reports/1321070",
+          "link": "https://hackerone.com/reports/1321070",
+          "publishedOn": "2022-01-13T18:38:45.000Z",
+          "wordCount": 25,
+          "title": "AEM forms XXE Vulnerability"
+        },
+        {
+          "id": "https://hackerone.com/reports/1386547",
+          "author": null,
+          "description": "Adobe disclosed a bug submitted by letm3through: https://hackerone.com/reports/1386547",
+          "link": "https://hackerone.com/reports/1386547",
+          "publishedOn": "2022-01-13T18:16:19.000Z",
+          "wordCount": 25,
+          "title": "Disclosure of github access token in config file via nignx off-by-slash"
+        },
+        {
           "id": "https://hackerone.com/reports/955606",
           "author": null,
           "description": "Lark Technologies disclosed a bug submitted by imran_nisar: https://hackerone.com/reports/955606 - Bounty: $500",
@@ -1964,6 +1991,78 @@
       "siteUrl": "https://medium.com/tag/bugbounty/latest?source=rss------bugbounty-5",
       "articles": [
         {
+          "id": "https://medium.com/p/3d4624758ff0",
+          "author": "0xEchidonut",
+          "description": "Hi there. I’m JM Sanchez, a student, and a bug bounty hunter. After months of duplicate reports, I finally found a valid high severity bug.\nContinue reading on Medium »",
+          "link": "https://jmrcsnchz.medium.com/xss-filter-evasion-idor-3d4624758ff0?source=rss------bugbounty-5",
+          "publishedOn": "2022-01-13T16:24:37.000Z",
+          "wordCount": 591,
+          "title": "XSS Filter Evasion + IDOR"
+        },
+        {
+          "id": "https://medium.com/p/a400f350adb0",
+          "author": "Immunefi",
+          "description": "This past year has been eventful for anyone building on the Web3 stack — over the course of the year, DeFi has grown from a nascent…\nContinue reading on Immunefi »",
+          "link": "https://medium.com/immunefi/why-bugfix-postmortems-are-good-for-web3-a400f350adb0?source=rss------bugbounty-5",
+          "publishedOn": "2022-01-13T15:20:28.000Z",
+          "wordCount": 965,
+          "title": "Why Bugfix Postmortems Are Good For Web3"
+        },
+        {
+          "id": "https://medium.com/p/5f06a50a42fb",
+          "author": "Envoy Official",
+          "description": "We are proud to announce our beta platform launch for selected users starting on the 26th of January.\nContinue reading on Envoy »",
+          "link": "https://medium.com/envoynetwork/launching-collector-portal-for-a-closed-beta-group-5f06a50a42fb?source=rss------bugbounty-5",
+          "publishedOn": "2022-01-13T15:00:08.000Z",
+          "wordCount": 676,
+          "title": "Launching Collector Portal for a closed beta group"
+        },
+        {
+          "id": "https://medium.com/p/99c5c36029e5",
+          "author": "Neilmark Ochea",
+          "description": "I’m glad you’re here. Please have fun reading (nmochea).\nContinue reading on Medium »",
+          "link": "https://nmochea.medium.com/fb-lite-all-user-active-status-changed-99c5c36029e5?source=rss------bugbounty-5",
+          "publishedOn": "2022-01-13T12:49:45.000Z",
+          "wordCount": 202,
+          "title": "FB Lite All Users Active Status Changed"
+        },
+        {
+          "id": "https://medium.com/p/f21ea07d9141",
+          "author": "M7.Arman",
+          "description": "Hello amazing hunter, Today i want to tell you a short story but this story has long memory for me. In this story i found some…\nContinue reading on System Weakness »",
+          "link": "https://systemweakness.com/c-s-t-i-lead-to-account-takeover-f21ea07d9141?source=rss------bugbounty-5",
+          "publishedOn": "2022-01-13T12:17:58.000Z",
+          "wordCount": 550,
+          "title": "C.S.T.I Lead To Account Takeover $$$"
+        },
+        {
+          "id": "https://medium.com/p/3274ad868209",
+          "author": "Aaryan",
+          "description": "Hey, it’s me again back with another checklist. I saw various articles and tools specifically designed to exploit one vulnerability. It…\nContinue reading on Medium »",
+          "link": "https://aaryanapex.medium.com/bug-bounty-methodology-bug-hunting-checklist-part-1-3274ad868209?source=rss------bugbounty-5",
+          "publishedOn": "2022-01-13T11:19:44.000Z",
+          "wordCount": 646,
+          "title": "Bug Bounty Methodology — Bug Hunting Checklist (PART-1)"
+        },
+        {
+          "id": "https://medium.com/p/f6441f236a2d",
+          "author": "James McCutcheon",
+          "description": "I hate installing things on my computer because of the bloated slow mess it becomes overtime. So when I found out about docker I fell in…\nContinue reading on System Weakness »",
+          "link": "https://systemweakness.com/my-perfect-bug-bounty-docker-setup-f6441f236a2d?source=rss------bugbounty-5",
+          "publishedOn": "2022-01-13T07:06:22.000Z",
+          "wordCount": 991,
+          "title": "My Perfect Bug Bounty Docker Setup"
+        },
+        {
+          "id": "https://medium.com/p/1c6a35ffe3ee",
+          "author": "Shubham kumar`",
+          "description": "PHP is the dynamic language that checks variables when the program is executing and provides flexibility to the developers. But this…\nContinue reading on Medium »",
+          "link": "https://medium.com/@shubhamkumarks1999/php-type-juggling-1c6a35ffe3ee?source=rss------bugbounty-5",
+          "publishedOn": "2022-01-13T03:14:03.000Z",
+          "wordCount": 375,
+          "title": "PHP Type Juggling"
+        },
+        {
           "id": "https://medium.com/p/e1aca380ebfe",
           "author": "Cristian Cornea",
           "description": "In this article, we will discuss about one of the toughest exams from Offensive Security, the web expert one (OSWE).\nContinue reading on Medium »",
@@ -3203,6 +3302,15 @@
       "feedUrl": "https://medium.com/feed/tag/redteam",
       "siteUrl": "https://medium.com/tag/redteam/latest?source=rss------redteam-5",
       "articles": [
+        {
+          "id": "https://medium.com/p/cc2b8d594cba",
+          "author": "Umut Unal",
+          "description": "Welcome to Honeypot Discussions Part 1. There will be three part of article about honeypots. As here, in the first article we will be…\nContinue reading on Medium »",
+          "link": "https://umutunal.medium.com/honeypot-discussions-part-1-cc2b8d594cba?source=rss------redteam-5",
+          "publishedOn": "2022-01-13T03:36:49.000Z",
+          "wordCount": 1435,
+          "title": "HONEYPOT DISCUSSIONS PART-1"
+        },
         {
           "id": "https://medium.com/p/7c2fe3dcb0e0",
           "author": "dh0ck",
@@ -4825,6 +4933,15 @@
       "siteUrl": "https://medium.com/tag/xss/latest?source=rss------xss-5",
       "articles": [
         {
+          "id": "https://medium.com/p/3d4624758ff0",
+          "author": "0xEchidonut",
+          "description": "Hi there. I’m JM Sanchez, a student, and a bug bounty hunter. After months of duplicate reports, I finally found a valid high severity bug.\nContinue reading on Medium »",
+          "link": "https://jmrcsnchz.medium.com/xss-filter-evasion-idor-3d4624758ff0?source=rss------xss-5",
+          "publishedOn": "2022-01-13T16:24:37.000Z",
+          "wordCount": 591,
+          "title": "XSS Filter Evasion + IDOR"
+        },
+        {
           "id": "https://medium.com/p/536299fe0a3a",
           "author": "Martin Stoynov",
           "description": "This year’s Christmas challenge is crafted by E1u5iv3F0x. It was very original and educational.\nContinue reading on Medium »",
@@ -5145,6 +5262,15 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=29920636",
+          "author": "domenukk",
+          "description": "Article URL: https://epi052.gitlab.io/notes-to-self/blog/2021-11-26-fuzzing-101-with-libafl-part-4/\nComments URL: https://news.ycombinator.com/item?id=29920636\nPoints: 1\n# Comments: 0",
+          "link": "https://epi052.gitlab.io/notes-to-self/blog/2021-11-26-fuzzing-101-with-libafl-part-4/",
+          "publishedOn": "2022-01-13T13:44:43.000Z",
+          "wordCount": 7736,
+          "title": "Fuzzing101 with LibAFL – Part IV: Fuzzing LibTIFF"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=29857384",
           "author": "homarp",
           "description": "Article URL: https://github.com/fgsect/NeoDiff\nComments URL: https://news.ycombinator.com/item?id=29857384\nPoints: 2\n# Comments: 0",
@@ -5367,6 +5493,42 @@
       "feedUrl": "https://hnrss.org/newest?q=CVE",
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
+        {
+          "id": "https://news.ycombinator.com/item?id=29925154",
+          "author": "jzelinskie",
+          "description": "Article URL: https://authzed.com/blog/using-github-to-manage-your-first-cve/\nComments URL: https://news.ycombinator.com/item?id=29925154\nPoints: 4\n# Comments: 0",
+          "link": "https://authzed.com/blog/using-github-to-manage-your-first-cve/",
+          "publishedOn": "2022-01-13T19:06:11.000Z",
+          "wordCount": 2638,
+          "title": "Using GitHub to manage your first CVE"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=29924445",
+          "author": "based2",
+          "description": "Article URL: https://msrc.microsoft.com/update-guide/vulnerability/CVE-2021-31166\nComments URL: https://news.ycombinator.com/item?id=29924445\nPoints: 16\n# Comments: 0",
+          "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2021-31166",
+          "publishedOn": "2022-01-13T18:18:46.000Z",
+          "wordCount": 16,
+          "title": "CVE-2021-31166: MS HTTP Protocol Stack Remote Code Execution Vulnerability"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=29921870",
+          "author": "neustradamus",
+          "description": "Article URL: https://blog.prosody.im/prosody-0.11.12-released/\nComments URL: https://news.ycombinator.com/item?id=29921870\nPoints: 3\n# Comments: 0",
+          "link": "https://blog.prosody.im/prosody-0.11.12-released/",
+          "publishedOn": "2022-01-13T15:38:30.000Z",
+          "wordCount": 180,
+          "title": "Prosody 0.11.12 released (CVE-2022-0217 fix)"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=29917559",
+          "author": "r721",
+          "description": "Article URL: https://isc.sans.edu/forums/diary/28234/\nComments URL: https://news.ycombinator.com/item?id=29917559\nPoints: 2\n# Comments: 1",
+          "link": "https://isc.sans.edu/forums/diary/28234/",
+          "publishedOn": "2022-01-13T06:42:37.000Z",
+          "wordCount": 236,
+          "title": "A Quick CVE-2022-21907 FAQ (work in progress)"
+        },
         {
           "id": "https://news.ycombinator.com/item?id=29897289",
           "author": "mzs",
@@ -5617,6 +5779,78 @@
       "feedUrl": "https://hnrss.org/newest?q=vulnerability",
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
+        {
+          "id": "https://news.ycombinator.com/item?id=29927538",
+          "author": "cateof",
+          "description": "Article URL: https://aws.amazon.com/security/security-bulletins/AWS-2022-002/\nComments URL: https://news.ycombinator.com/item?id=29927538\nPoints: 2\n# Comments: 0",
+          "link": "https://aws.amazon.com/security/security-bulletins/AWS-2022-002/",
+          "publishedOn": "2022-01-13T22:02:52.000Z",
+          "wordCount": 495,
+          "title": "Security bulletin for recent AWS Glue vulnerability"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=29924445",
+          "author": "based2",
+          "description": "Article URL: https://msrc.microsoft.com/update-guide/vulnerability/CVE-2021-31166\nComments URL: https://news.ycombinator.com/item?id=29924445\nPoints: 16\n# Comments: 0",
+          "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2021-31166",
+          "publishedOn": "2022-01-13T18:18:46.000Z",
+          "wordCount": 16,
+          "title": "CVE-2021-31166: MS HTTP Protocol Stack Remote Code Execution Vulnerability"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=29923463",
+          "author": "daudmalik06",
+          "description": "Article URL: https://twitter.com/DevNackOfficial/status/1481671995167506433\nComments URL: https://news.ycombinator.com/item?id=29923463\nPoints: 4\n# Comments: 0",
+          "link": "https://twitter.com/DevNackOfficial/status/1481671995167506433",
+          "publishedOn": "2022-01-13T17:16:22.000Z",
+          "wordCount": 196,
+          "title": "Severe Vulnerability Found in Another NPM Package"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=29923004",
+          "author": "geerlingguy",
+          "description": "Article URL: https://orca.security/resources/blog/aws-glue-vulnerability/\nComments URL: https://news.ycombinator.com/item?id=29923004\nPoints: 29\n# Comments: 3",
+          "link": "https://orca.security/resources/blog/aws-glue-vulnerability/",
+          "publishedOn": "2022-01-13T16:48:43.000Z",
+          "wordCount": 1527,
+          "title": "AWS Superglue Vulnerability"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=29922522",
+          "author": "gregmac",
+          "description": "Article URL: https://orca.security/resources/blog/aws-cloudformation-vulnerability/\nComments URL: https://news.ycombinator.com/item?id=29922522\nPoints: 79\n# Comments: 22",
+          "link": "https://orca.security/resources/blog/aws-cloudformation-vulnerability/",
+          "publishedOn": "2022-01-13T16:23:55.000Z",
+          "wordCount": 1432,
+          "title": "BreakingFormation: AWS CloudFormation Vulnerability"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=29920955",
+          "author": "gabriel_szt",
+          "description": "Article URL: https://www.cyberark.com/resources/threat-research-blog/attacking-rdp-from-inside\nComments URL: https://news.ycombinator.com/item?id=29920955\nPoints: 2\n# Comments: 0",
+          "link": "https://www.cyberark.com/resources/threat-research-blog/attacking-rdp-from-inside",
+          "publishedOn": "2022-01-13T14:17:45.000Z",
+          "wordCount": 3416,
+          "title": "Attacking RDP from Inside: Remote Desktop Named Pipe Vulnerability"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=29918100",
+          "author": "daudmalik06",
+          "description": "Article URL: https://twitter.com/DevNackOfficial/status/1481537073068843013\nComments URL: https://news.ycombinator.com/item?id=29918100\nPoints: 1\n# Comments: 2",
+          "link": "https://twitter.com/DevNackOfficial/status/1481537073068843013",
+          "publishedOn": "2022-01-13T08:19:49.000Z",
+          "wordCount": 196,
+          "title": "Found a Vulnerability In NPM Package"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=29915825",
+          "author": "ongteckwuohyea",
+          "description": "Article URL: https://blog.borneo.io/exploring-the-log4shell-vulnerability-dd7000eed4a4?gi=5d43b39b3d22\nComments URL: https://news.ycombinator.com/item?id=29915825\nPoints: 2\n# Comments: 0",
+          "link": "https://blog.borneo.io/exploring-the-log4shell-vulnerability-dd7000eed4a4?gi=5d43b39b3d22",
+          "publishedOn": "2022-01-13T01:53:15.000Z",
+          "wordCount": 1985,
+          "title": "Exploring the Log4Shell Vulnerability through files"
+        },
         {
           "id": "https://news.ycombinator.com/item?id=29908197",
           "author": "media_hacker",
@@ -5976,6 +6210,60 @@
       "siteUrl": "https://www.freebuf.com",
       "articles": [
         {
+          "id": "https://www.freebuf.com/news/319674.html",
+          "author": null,
+          "description": "全球动态1. 因解决BUG不力，密码管理工具LastPass或面临2000万欧元罚款因解决问题不力等诸多问题，知名密码管理工具 LastPass 正面临 2000 万欧元的 GDPR 罚款风险。[阅读原文]2.美国一监狱遭勒索软件攻击，监控摄像头与门禁系统被破坏美国新墨西哥州中部的阿尔伯克基（Albuquerque）地区监狱上周遭勒索软件攻击，监控摄像头无法访问、自动门禁系统也受到了影响，导致囚犯",
+          "link": "https://www.freebuf.com/news/319674.html",
+          "publishedOn": "2022-01-13T15:49:48.000Z",
+          "wordCount": 292,
+          "title": "FreeBuf早报 | 大量美国和加拿大人的财务数据遭曝光；Firefox 出现无法联网问题"
+        },
+        {
+          "id": "https://www.freebuf.com/articles/319650.html",
+          "author": null,
+          "description": "涉及厂商包括 Netgear、TP-Link、Tenda、EDiMAX、D-Link 和西部数据。",
+          "link": "https://www.freebuf.com/articles/319650.html",
+          "publishedOn": "2022-01-13T08:56:13.000Z",
+          "wordCount": 169,
+          "title": "数百万便携式路由器受KCodes NetUSB 漏洞影响"
+        },
+        {
+          "id": "https://www.freebuf.com/news/319621.html",
+          "author": null,
+          "description": "Website Planet网络安全员发现一个配置错误的数据库，该数据库暴露了约 82万 条记录，其中约 60万 条是客户信用记录。",
+          "link": "https://www.freebuf.com/news/319621.html",
+          "publishedOn": "2022-01-13T07:21:21.000Z",
+          "wordCount": 168,
+          "title": "大量美国和加拿大人的财务数据遭曝光"
+        },
+        {
+          "id": "https://www.freebuf.com/news/319598.html",
+          "author": null,
+          "description": "SysJoker 新型恶意软件正对Windows、Linux 和 macOS 操作系统构成威胁，可利用跨平台后门来从事间谍活动。",
+          "link": "https://www.freebuf.com/news/319598.html",
+          "publishedOn": "2022-01-13T05:23:33.000Z",
+          "wordCount": 173,
+          "title": "新型恶意软件SysJoker正对Windows、Linux 和macOS 操作系统构成威胁"
+        },
+        {
+          "id": "https://www.freebuf.com/news/319597.html",
+          "author": null,
+          "description": "《规划》的第九章“着力强化数字经济安全体系”系统阐述了网络安全对于数字经济的独特作用及重要性。",
+          "link": "https://www.freebuf.com/news/319597.html",
+          "publishedOn": "2022-01-13T05:20:48.000Z",
+          "wordCount": 138,
+          "title": "《“十四五”数字经济发展规划》，网络安全再被重点提及"
+        },
+        {
+          "id": "https://www.freebuf.com/news/319585.html",
+          "author": null,
+          "description": "了解不同法律法规的等级层次，可以帮助我们更好的理解国家在立法过程中的目的。",
+          "link": "https://www.freebuf.com/news/319585.html",
+          "publishedOn": "2022-01-13T03:39:35.000Z",
+          "wordCount": 158,
+          "title": "研读网络安全法律法规，提升技术管理者 “法” 商"
+        },
+        {
           "id": "https://www.freebuf.com/news/319565.html",
           "author": null,
           "description": "一名安全研究人员表示，部分特斯拉汽车软件存在“严重”缺陷，该缺陷能够远程解锁车辆门窗、在无钥匙状态下启动车辆并禁用安全系统。",
@@ -5985,6 +6273,15 @@
           "title": "FreeBuf早报 | 欧盟将启动供应链安全大规模演练；特斯拉汽车软件被曝安全缺陷"
         },
         {
+          "id": "https://www.freebuf.com/articles/compliance/317752.html",
+          "author": null,
+          "description": "一次华为私有云的高斯数据库测评指南",
+          "link": "https://www.freebuf.com/articles/compliance/317752.html",
+          "publishedOn": "2022-01-12T10:07:01.000Z",
+          "wordCount": 325,
+          "title": "等保2.0测评安全计算环境GaussdDB过程指南（华为高斯数据库）"
+        },
+        {
           "id": "https://www.freebuf.com/articles/neopoints/319534.html",
           "author": null,
           "description": "51%的中小企业经历过网络安全漏洞，由此带来的网络犯罪成为了亟待解决的问题。",
@@ -5992,6 +6289,15 @@
           "publishedOn": "2022-01-12T10:03:34.000Z",
           "wordCount": 143,
           "title": "中小企业容易成为网络攻击的目标"
+        },
+        {
+          "id": "https://www.freebuf.com/articles/319528.html",
+          "author": null,
+          "description": "长城汽车是成立于1984年的中国汽车品牌，诚聘多位安全人才。",
+          "link": "https://www.freebuf.com/articles/319528.html",
+          "publishedOn": "2022-01-12T08:20:20.000Z",
+          "wordCount": 253,
+          "title": "长城汽车诚聘多名安全人才"
         },
         {
           "id": "https://www.freebuf.com/articles/neopoints/319407.html",
@@ -7916,6 +8222,15 @@
       "siteUrl": "http://www.sec-wiki.com/",
       "articles": [
         {
+          "id": "http://www.sec-wiki.com/?2022-01-13",
+          "author": null,
+          "description": "将EXE程序通过Powershell形式实现无文件运行  by ourren\nQRS 2021 论文录用列表  by ourren\n从分析一个赌球APP中入门安卓逆向、开发、协议分析  by ourren\n更多最新文章，请访问SecWiki",
+          "link": "http://www.sec-wiki.com/?2022-01-13",
+          "publishedOn": "2022-01-13T15:58:20.000Z",
+          "wordCount": 590,
+          "title": "SecWiki News 2022-01-13 Review"
+        },
+        {
           "id": "http://www.sec-wiki.com/?2022-01-12",
           "author": null,
           "description": "Gartner 2021 漏洞评估产品市场指南  by ourren\n网安新兴赛道及厂商速查· Cyber Security Billboard  by ourren\n网络空间测绘溯源技术剖析  by ourren\n网络空间威胁狩猎的研究综述  by ourren\n长安\"战疫\"-WriteUp  by ourren\nAPT组织情报研究年鉴 2021  by ourren\n更多最新文章，请访问SecWiki",
@@ -8201,6 +8516,60 @@
       "feedUrl": "https://www.reddit.com/r/asknetsec/.rss",
       "siteUrl": "https://www.reddit.com/r/asknetsec/",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/s3a5hq/spf_record_question/",
+          "author": null,
+          "description": "If a root domain like sendgrid.net is added to an SPF record, does that mean any free user or paid user of sendgrid can spoof an email from your domain and SPF checks would pass?\n    submitted by    /u/mtx4gk  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/s3a5hq/spf_record_question/",
+          "publishedOn": "2022-01-13T21:28:12.000Z",
+          "wordCount": 338,
+          "title": "SPF Record Question"
+        },
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/s39po9/how_do_i_check_if_i_visited_a_site_with_malware/",
+          "author": null,
+          "description": "I was browsing through reddit and clicked on a link in r/dermotology that send me to a weird site that played a weird video and there was no question or content besides that. I used virus total to check the website and it looks like they're using it for advertising revenue clicks, but my paranoia is kicking in. Site was visited on an android with calyx is using duckduckgo version 5.106.0 So the question is- any ideas if I have to nuke this phone?\n For the curious the website is below. All the spaces are slashes minus the dot com part. \n vebotto com 2022 01 13 cystic-pimple\n    submitted by    /u/instantpotbeans  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/s39po9/how_do_i_check_if_i_visited_a_site_with_malware/",
+          "publishedOn": "2022-01-13T21:08:43.000Z",
+          "wordCount": 484,
+          "title": "How do I check if I visited a site with malware?"
+        },
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/s38bjo/google_drive_security_vpn_and_mfa/",
+          "author": null,
+          "description": "Hi there, I'm posting here to get some expert advice, we are a small startup dealing with very sensitive customer data. \n Problems we are having - How do we best protect customer data within Google Drive? \n  \nCustomers often share data to us via Google Drive. In security questionnaire, we often get this question - is VPN required for employees to access customer data? We can of course turn on VPN requirement for this, but it also adds friction to use Google Drive on a daily basis.\n Google Drive has MFA turned on, but it does not seem to enforce zero trust policy, and we are never prompted to enter passwords regularly.\n  \nAny suggestions here?\n    submitted by    /u/Commercial_Rip7550  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/s38bjo/google_drive_security_vpn_and_mfa/",
+          "publishedOn": "2022-01-13T20:06:16.000Z",
+          "wordCount": 432,
+          "title": "Google Drive Security - VPN and MFA"
+        },
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/s37ieh/reverse_engineering_question/",
+          "author": null,
+          "description": "Hi r/AskNetsec\n I've got a pretty unusual question in regards to RE that might sound weird, or it's just not making sense to me (and baring in mind, I am a beginner to reversing malware). I am currently writing a report and within the report format, \"reverse engineering\" and \"disassembly\" are two different sections. This doesn't really make much sense to me. Disassembly is already a form of reverse engineering. Nevertheless, the information that you could insert into an RE section would be Wireshark analysis, viewing the file in PEStudio for instance, but those are already in sections relating to static & dynamic analysis. \n So what would be inserted into a reverse engineering section regarding malware? I can literally only think of unpacking the malware as everything else that would constitute reverse engineering is in other sections. Honestly, I have no idea. When I asked for some help in regards to knowing the distinction between the two, I was told that \"disassembly\" is a noun, and \"reverse engineering\" is a verb. Which is probably right, but it didn't help at all. An example of breaking encryption was proposed in relation to RE. Again, it didn't shed much light for me.\n I just want to be familiar with the distinction here. Thanks.\n    submitted by    /u/pat0000  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/s37ieh/reverse_engineering_question/",
+          "publishedOn": "2022-01-13T19:30:31.000Z",
+          "wordCount": 492,
+          "title": "Reverse engineering question"
+        },
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/s2xjz6/need_an_antivirus_solution_for_webapp_in_ms_azure/",
+          "author": null,
+          "description": "we run an webapp in azure. users can upload .zip, .pdf, .png, .jpeg and .csv files. therefore an antivurs scanner is needed for those files. at another project we use clamav in an azure container instance. the problem is containers don´t scale very well.\n  \nwe would prefere a SAAS solution in azure but there are few options.\n we need a solution that is scalable and doesn´t send the files to servers outside the EU due to the local data protection law. at best the software is made by an EU company.\n we thought about \"abusing\" an azure storage by uploading the files there and waiting if microsoft defender for cloud reacts. anyone any experience with this? how fast would such a solution be?\n  \nany recommendations?\n TLDR:\n  \nneed antivirus software for file upload\n webapp in azure\n SAAS prefered\n scalability\n compliant with EU data protection law\n  \nThank you for your help!\n    submitted by    /u/devsecops22  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/s2xjz6/need_an_antivirus_solution_for_webapp_in_ms_azure/",
+          "publishedOn": "2022-01-13T11:40:38.000Z",
+          "wordCount": 628,
+          "title": "Need an antivirus solution for webapp in MS Azure that is compliant with EU data protection law"
+        },
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/s2u48n/brave_browser_flags_questions/",
+          "author": null,
+          "description": "Hi there r/AskNetsec\n I just wanted to ask a quick question if these specific flags out of the bunch that Brave runs is of any concern? The names sparked my interest and a bit of panic when I first noticed after using it for about a month.\n IdleDetection\n --disable-client-side-phishing-detection\n --display-capture-permissions-policy-allowed\n ​\n Whole flag trace is this if needed:\n [redacted]\\Program Files\\BraveSoftware\\Brave-Browser\\Application\\brave.exe\" --type=renderer --disable-client-side-phishing-detection --display-capture-permissions-policy-allowed --origin-trial-public-key=[redacted]=,[redacted]= --brave_session_token=[redacted] --field-trial-handle=[redacted],[redacted],[redacted] --enable-features=AutoupgradeMixedContent,LegacyTLSEnforced,PasswordImport,PrefetchPrivacyChanges,Red…",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/s2u48n/brave_browser_flags_questions/",
+          "publishedOn": "2022-01-13T07:57:49.000Z",
+          "wordCount": 240,
+          "title": "Brave Browser --Flags Questions"
+        },
         {
           "id": "https://www.reddit.com/r/AskNetsec/comments/s2lket/is_there_a_solution_to_encrypt_an_os_at_the/",
           "author": null,
@@ -9487,6 +9856,15 @@
       "siteUrl": "https://www.reddit.com/r/redteamsec/",
       "articles": [
         {
+          "id": "https://www.reddit.com/r/redteamsec/comments/s2t2qs/wading_through_muddy_waters_recent_activity_of_an/",
+          "author": null,
+          "description": "submitted by    /u/dmchell  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/redteamsec/comments/s2t2qs/wading_through_muddy_waters_recent_activity_of_an/",
+          "publishedOn": "2022-01-13T06:54:15.000Z",
+          "wordCount": 129,
+          "title": "Wading Through Muddy Waters | Recent Activity of an Iranian State-Sponsored Threat Actor"
+        },
+        {
           "id": "https://www.reddit.com/r/redteamsec/comments/s2j4nq/defeating_edrs_with_office_products/",
           "author": null,
           "description": "submitted by    /u/dmchell  \n [link]   [comments]",
@@ -10392,6 +10770,24 @@
       "siteUrl": "https://www.reddit.com/r/computerforensics/",
       "articles": [
         {
+          "id": "https://www.reddit.com/r/computerforensics/comments/s37p7l/avg_tune_up/",
+          "author": null,
+          "description": "Anybody know what service AVG Tuneup uses to perform a cleanup when the program is executed?\n    submitted by    /u/mikefromjerz  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/computerforensics/comments/s37p7l/avg_tune_up/",
+          "publishedOn": "2022-01-13T19:39:15.000Z",
+          "wordCount": 170,
+          "title": "AVG Tune Up"
+        },
+        {
+          "id": "https://www.reddit.com/r/computerforensics/comments/s32zl2/ive_heard_sans_for508_and_the_gcfa_is_challenging/",
+          "author": null,
+          "description": "Any tips? Experiences?\n I’ve had hands on forensics experience and have FOR500 knowledge. Is FOR508 doable?\n    submitted by    /u/curiousgal1996  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/computerforensics/comments/s32zl2/ive_heard_sans_for508_and_the_gcfa_is_challenging/",
+          "publishedOn": "2022-01-13T16:13:28.000Z",
+          "wordCount": 1033,
+          "title": "I’ve heard SANS FOR508 and the GCFA is challenging. How challenging is it for an entry level candidate who is just starting out?"
+        },
+        {
           "id": "https://www.reddit.com/r/computerforensics/comments/s2geas/cybrary/",
           "author": null,
           "description": "Hello, I’m currently pursuing my BS in Computer Forensics and Digital Investigation. I can across Cybrary and was wondering if that can help me practice more on the subject? I still feel very lost when taking college course, I want to get more practice in me just want to know if Cybrary is worth the annual membership. If any one has some tips on what courses to take there or other sites I would appreciate it. Thank you in advance.\n    submitted by    /u/Sudden_Ad9859  \n [link]   [comments]",
@@ -10893,6 +11289,60 @@
       "feedUrl": "https://www.reddit.com/r/netsec/.rss",
       "siteUrl": "https://www.reddit.com/r/netsec/",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/netsec/comments/s3b7q0/propagating_phishing_via_slack_webhooks/",
+          "author": null,
+          "description": "submitted by    /u/amirshk  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/netsec/comments/s3b7q0/propagating_phishing_via_slack_webhooks/",
+          "publishedOn": "2022-01-13T22:13:49.000Z",
+          "wordCount": 107,
+          "title": "Propagating phishing via Slack webhooks"
+        },
+        {
+          "id": "https://www.reddit.com/r/netsec/comments/s38dzf/forensics_analysis_of_the_nso_groups_pegasus/",
+          "author": null,
+          "description": "submitted by    /u/CyberMasterV  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/netsec/comments/s38dzf/forensics_analysis_of_the_nso_groups_pegasus/",
+          "publishedOn": "2022-01-13T20:09:11.000Z",
+          "wordCount": 210,
+          "title": "Forensics Analysis of the NSO Group’s Pegasus Spyware"
+        },
+        {
+          "id": "https://www.reddit.com/r/netsec/comments/s3681u/breakingformation_orca_security_research_team/",
+          "author": null,
+          "description": "submitted by    /u/eberkut  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/netsec/comments/s3681u/breakingformation_orca_security_research_team/",
+          "publishedOn": "2022-01-13T18:34:37.000Z",
+          "wordCount": 254,
+          "title": "BreakingFormation: Orca Security Research Team Discovers AWS CloudFormation Vulnerability"
+        },
+        {
+          "id": "https://www.reddit.com/r/netsec/comments/s358o4/ssh_bastion_host_best_practices/",
+          "author": null,
+          "description": "submitted by    /u/old-gregg  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/netsec/comments/s358o4/ssh_bastion_host_best_practices/",
+          "publishedOn": "2022-01-13T17:52:50.000Z",
+          "wordCount": 106,
+          "title": "SSH Bastion Host Best Practices"
+        },
+        {
+          "id": "https://www.reddit.com/r/netsec/comments/s2xwpa/hiddenwall_is_a_tool_to_generate_a_custom_hidden/",
+          "author": null,
+          "description": "submitted by    /u/CoolerVoid  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/netsec/comments/s2xwpa/hiddenwall_is_a_tool_to_generate_a_custom_hidden/",
+          "publishedOn": "2022-01-13T12:02:31.000Z",
+          "wordCount": 575,
+          "title": "HiddenWall is a tool to generate a custom Hidden firewall to run in Linux kernel."
+        },
+        {
+          "id": "https://www.reddit.com/r/netsec/comments/s2xmey/this_script_analyses_the_nmap_xml_scanning/",
+          "author": null,
+          "description": "submitted by    /u/CoolerVoid  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/netsec/comments/s2xmey/this_script_analyses_the_nmap_xml_scanning/",
+          "publishedOn": "2022-01-13T11:44:57.000Z",
+          "wordCount": 283,
+          "title": "This script analyses the Nmap XML scanning results, parses each CPE context and correlates to search CVE on NIST. You can use that to find public vulnerabilities in services."
+        },
         {
           "id": "https://www.reddit.com/r/netsec/comments/s2ijkz/exploiting_url_parsing_confusion_vulnerabilities/",
           "author": null,
@@ -11809,6 +12259,42 @@
       "feedUrl": "https://www.reddit.com/r/opendirectories/.rss",
       "siteUrl": "https://www.reddit.com/r/opendirectories/",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/opendirectories/comments/s33lsq/index_of_movies_tv_series_and_documentaries_lots/",
+          "author": null,
+          "description": "submitted by    /u/josephalbright1  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/opendirectories/comments/s33lsq/index_of_movies_tv_series_and_documentaries_lots/",
+          "publishedOn": "2022-01-13T16:40:45.000Z",
+          "wordCount": 180,
+          "title": "Index of Movies, TV series and Documentaries (lots of BBC, how it's made etc..)."
+        },
+        {
+          "id": "https://www.reddit.com/r/opendirectories/comments/s30ukh/sporalis/",
+          "author": null,
+          "description": "https://drive.google.com/drive/folders/1rmL4Yn7mJ78emYQ-PjIhDGYkph_9iEjZ\n https://drive.google.com/drive/folders/1s3v5WdrPLEvnGLbzM8RGSyI0iorkbU-W\n https://drive.google.com/drive/folders/1nitHECSorEadPtGwK5F_9-TdAcHHJGZG\n    submitted by    /u/Burlack  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/opendirectories/comments/s30ukh/sporalis/",
+          "publishedOn": "2022-01-13T14:35:08.000Z",
+          "wordCount": 96,
+          "title": "Sporalis"
+        },
+        {
+          "id": "https://www.reddit.com/r/opendirectories/comments/s2z1er/dont_mind_me_just_dropping_some_links_to_check/",
+          "author": null,
+          "description": "https://drive.google.com/drive/folders/1X2L-UtctJulbDEP63NnLSwlEaXgwTe0x\n https://drive.google.com/drive/folders/1pMRoHMd3H0P0g6lvEWFUR1teiPSy9VqR\n https://drive.google.com/drive/folders/0B2UZmHpzoVm6eXYyM09PUXF1TDA?resourcekey=0-A5ZN-_lF1S2Eh3xmJSC9kw\n https://drive.google.com/drive/folders/1nfMA72hL1PHFTWVkzjlSBAmfPyBg89dx\n https://drive.google.com/drive/folders/17KyX_80h0yBUrc3X-PMa3EnXoE0kFmJJ?sort=13&direction=a\n    submitted by    /u/Burlack  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/opendirectories/comments/s2z1er/dont_mind_me_just_dropping_some_links_to_check/",
+          "publishedOn": "2022-01-13T13:07:00.000Z",
+          "wordCount": 274,
+          "title": "Dont mind me. Just dropping some links to check size before downloading"
+        },
+        {
+          "id": "https://www.reddit.com/r/opendirectories/comments/s2vzm2/ftp_oem_pc_builder/",
+          "author": null,
+          "description": "I'm trying to list the different ftp from computer builder. I think most of them are already present on this / r. But perhaps bringing them together in a single post is a good idea? (I will add them as I find them / the community finds them)\n HP FTP : ftp://ftp.hp.com |Url: ftp://ftp.hp.com/||Urls file| |Extension (Top 5)|Files|Size| |.exe|106,034|5.61 TiB| |.ibr|862|5.21 TiB| |.zip|10,739|443.95 GiB| |.fmw|290|384.7 GiB| |.iso|256|322.51 GiB| |Dirs: 83,006 Ext: 1,375|Total: 793,218|Total: 12.98 TiB| |Date (UTC): 2022-01-12 17:29:09|Time: 02:19:06|Speed: 22.87 MB/s (182.9 mbit)|\n Created by [KoalaBear84's OpenDirectory Indexer v2.2.0.9](https://github.com/KoalaBear84/OpenDirectoryDownloader/)\n IBM FTP : ftp://ftp.software.ibm.com/ |Url: ftp://ftp.software.ibm.com/||Urls file|\n |Extension (…",
+          "link": "https://www.reddit.com/r/opendirectories/comments/s2vzm2/ftp_oem_pc_builder/",
+          "publishedOn": "2022-01-13T10:00:17.000Z",
+          "wordCount": 544,
+          "title": "FTP OEM Pc Builder"
+        },
         {
           "id": "https://www.reddit.com/r/opendirectories/comments/s2kj6u/miscellaneous_gaming_stuff/",
           "author": null,
@@ -13344,6 +13830,15 @@
       "feedUrl": "https://portswigger.net/blog/rss",
       "siteUrl": "https://portswigger.net/blog",
       "articles": [
+        {
+          "id": "burp-suite-roadmap-for-2022",
+          "author": null,
+          "description": "With 2022 now underway, it's about time we gave you the latest on where Burp Suite is heading this year. Here we take a look at the powerful new Burp Suite features we'll be working on in 2022 - as we",
+          "link": "https://portswigger.net/blog/burp-suite-roadmap-for-2022",
+          "publishedOn": "2022-01-13T15:45:47.000Z",
+          "wordCount": 1518,
+          "title": "Burp Suite roadmap for 2022"
+        },
         {
           "id": "the-mystery-of-the-missing-mac-release",
           "author": null,

@@ -2,10 +2,662 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cod3crash.github.io/sec-feed/index.html</id>
     <title>security feed</title>
-    <updated>2022-01-13T01:12:55.854Z</updated>
+    <updated>2022-01-14T01:11:41.723Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://cod3crash.github.io/sec-feed/index.html"/>
     <link rel="self" href="https://cod3crash.github.io/sec-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Bug Report : [ No Valid SPF Records ]]]></title>
+        <id>https://hackerone.com/reports/1301696</id>
+        <link href="https://hackerone.com/reports/1301696"/>
+        <updated>2022-01-13T22:39:24.000Z</updated>
+        <summary type="html"><![CDATA[Ruby disclosed a bug submitted by sohaib619: https://hackerone.com/reports/1301696]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Propagating phishing via Slack webhooks]]></title>
+        <id>https://www.reddit.com/r/netsec/comments/s3b7q0/propagating_phishing_via_slack_webhooks/</id>
+        <link href="https://www.reddit.com/r/netsec/comments/s3b7q0/propagating_phishing_via_slack_webhooks/"/>
+        <updated>2022-01-13T22:13:49.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/amirshk  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>/r/netsec - Information Security News &amp; Discussion</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Security bulletin for recent AWS Glue vulnerability]]></title>
+        <id>https://news.ycombinator.com/item?id=29927538</id>
+        <link href="https://aws.amazon.com/security/security-bulletins/AWS-2022-002/"/>
+        <updated>2022-01-13T22:02:52.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://aws.amazon.com/security/security-bulletins/AWS-2022-002/
+Comments URL: https://news.ycombinator.com/item?id=29927538
+Points: 2
+# Comments: 0]]></summary>
+        <author>
+            <name>cateof</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SPF Record Question]]></title>
+        <id>https://www.reddit.com/r/AskNetsec/comments/s3a5hq/spf_record_question/</id>
+        <link href="https://www.reddit.com/r/AskNetsec/comments/s3a5hq/spf_record_question/"/>
+        <updated>2022-01-13T21:28:12.000Z</updated>
+        <summary type="html"><![CDATA[If a root domain like sendgrid.net is added to an SPF record, does that mean any free user or paid user of sendgrid can spoof an email from your domain and SPF checks would pass?
+    submitted by    /u/mtx4gk  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>AskNetsec</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How do I check if I visited a site with malware?]]></title>
+        <id>https://www.reddit.com/r/AskNetsec/comments/s39po9/how_do_i_check_if_i_visited_a_site_with_malware/</id>
+        <link href="https://www.reddit.com/r/AskNetsec/comments/s39po9/how_do_i_check_if_i_visited_a_site_with_malware/"/>
+        <updated>2022-01-13T21:08:43.000Z</updated>
+        <summary type="html"><![CDATA[I was browsing through reddit and clicked on a link in r/dermotology that send me to a weird site that played a weird video and there was no question or content besides that. I used virus total to check the website and it looks like they're using it for advertising revenue clicks, but my paranoia is kicking in. Site was visited on an android with calyx is using duckduckgo version 5.106.0 So the question is- any ideas if I have to nuke this phone?
+ For the curious the website is below. All the spaces are slashes minus the dot com part. 
+ vebotto com 2022 01 13 cystic-pimple
+    submitted by    /u/instantpotbeans  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>AskNetsec</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Forensics Analysis of the NSO Group’s Pegasus Spyware]]></title>
+        <id>https://www.reddit.com/r/netsec/comments/s38dzf/forensics_analysis_of_the_nso_groups_pegasus/</id>
+        <link href="https://www.reddit.com/r/netsec/comments/s38dzf/forensics_analysis_of_the_nso_groups_pegasus/"/>
+        <updated>2022-01-13T20:09:11.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/CyberMasterV  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>/r/netsec - Information Security News &amp; Discussion</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Drive Security - VPN and MFA]]></title>
+        <id>https://www.reddit.com/r/AskNetsec/comments/s38bjo/google_drive_security_vpn_and_mfa/</id>
+        <link href="https://www.reddit.com/r/AskNetsec/comments/s38bjo/google_drive_security_vpn_and_mfa/"/>
+        <updated>2022-01-13T20:06:16.000Z</updated>
+        <summary type="html"><![CDATA[Hi there, I'm posting here to get some expert advice, we are a small startup dealing with very sensitive customer data. 
+ Problems we are having - How do we best protect customer data within Google Drive? 
+  
+Customers often share data to us via Google Drive. In security questionnaire, we often get this question - is VPN required for employees to access customer data? We can of course turn on VPN requirement for this, but it also adds friction to use Google Drive on a daily basis.
+ Google Drive has MFA turned on, but it does not seem to enforce zero trust policy, and we are never prompted to enter passwords regularly.
+  
+Any suggestions here?
+    submitted by    /u/Commercial_Rip7550  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>AskNetsec</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AVG Tune Up]]></title>
+        <id>https://www.reddit.com/r/computerforensics/comments/s37p7l/avg_tune_up/</id>
+        <link href="https://www.reddit.com/r/computerforensics/comments/s37p7l/avg_tune_up/"/>
+        <updated>2022-01-13T19:39:15.000Z</updated>
+        <summary type="html"><![CDATA[Anybody know what service AVG Tuneup uses to perform a cleanup when the program is executed?
+    submitted by    /u/mikefromjerz  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Computer Forensics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reverse engineering question]]></title>
+        <id>https://www.reddit.com/r/AskNetsec/comments/s37ieh/reverse_engineering_question/</id>
+        <link href="https://www.reddit.com/r/AskNetsec/comments/s37ieh/reverse_engineering_question/"/>
+        <updated>2022-01-13T19:30:31.000Z</updated>
+        <summary type="html"><![CDATA[Hi r/AskNetsec
+ I've got a pretty unusual question in regards to RE that might sound weird, or it's just not making sense to me (and baring in mind, I am a beginner to reversing malware). I am currently writing a report and within the report format, "reverse engineering" and "disassembly" are two different sections. This doesn't really make much sense to me. Disassembly is already a form of reverse engineering. Nevertheless, the information that you could insert into an RE section would be Wireshark analysis, viewing the file in PEStudio for instance, but those are already in sections relating to static & dynamic analysis. 
+ So what would be inserted into a reverse engineering section regarding malware? I can literally only think of unpacking the malware as everything else that would constitute reverse engineering is in other sections. Honestly, I have no idea. When I asked for some help in regards to knowing the distinction between the two, I was told that "disassembly" is a noun, and "reverse engineering" is a verb. Which is probably right, but it didn't help at all. An example of breaking encryption was proposed in relation to RE. Again, it didn't shed much light for me.
+ I just want to be familiar with the distinction here. Thanks.
+    submitted by    /u/pat0000  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>AskNetsec</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using GitHub to manage your first CVE]]></title>
+        <id>https://news.ycombinator.com/item?id=29925154</id>
+        <link href="https://authzed.com/blog/using-github-to-manage-your-first-cve/"/>
+        <updated>2022-01-13T19:06:11.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://authzed.com/blog/using-github-to-manage-your-first-cve/
+Comments URL: https://news.ycombinator.com/item?id=29925154
+Points: 4
+# Comments: 0]]></summary>
+        <author>
+            <name>jzelinskie</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AEM forms XXE Vulnerability]]></title>
+        <id>https://hackerone.com/reports/1321070</id>
+        <link href="https://hackerone.com/reports/1321070"/>
+        <updated>2022-01-13T18:38:45.000Z</updated>
+        <summary type="html"><![CDATA[Adobe disclosed a bug submitted by ismailmuh: https://hackerone.com/reports/1321070]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BreakingFormation: Orca Security Research Team Discovers AWS CloudFormation Vulnerability]]></title>
+        <id>https://www.reddit.com/r/netsec/comments/s3681u/breakingformation_orca_security_research_team/</id>
+        <link href="https://www.reddit.com/r/netsec/comments/s3681u/breakingformation_orca_security_research_team/"/>
+        <updated>2022-01-13T18:34:37.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/eberkut  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>/r/netsec - Information Security News &amp; Discussion</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CVE-2021-31166: MS HTTP Protocol Stack Remote Code Execution Vulnerability]]></title>
+        <id>https://news.ycombinator.com/item?id=29924445</id>
+        <link href="https://msrc.microsoft.com/update-guide/vulnerability/CVE-2021-31166"/>
+        <updated>2022-01-13T18:18:46.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://msrc.microsoft.com/update-guide/vulnerability/CVE-2021-31166
+Comments URL: https://news.ycombinator.com/item?id=29924445
+Points: 16
+# Comments: 0]]></summary>
+        <author>
+            <name>based2</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CVE-2021-31166: MS HTTP Protocol Stack Remote Code Execution Vulnerability]]></title>
+        <id>https://news.ycombinator.com/item?id=29924445</id>
+        <link href="https://msrc.microsoft.com/update-guide/vulnerability/CVE-2021-31166"/>
+        <updated>2022-01-13T18:18:46.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://msrc.microsoft.com/update-guide/vulnerability/CVE-2021-31166
+Comments URL: https://news.ycombinator.com/item?id=29924445
+Points: 16
+# Comments: 0]]></summary>
+        <author>
+            <name>based2</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Disclosure of github access token in config file via nignx off-by-slash]]></title>
+        <id>https://hackerone.com/reports/1386547</id>
+        <link href="https://hackerone.com/reports/1386547"/>
+        <updated>2022-01-13T18:16:19.000Z</updated>
+        <summary type="html"><![CDATA[Adobe disclosed a bug submitted by letm3through: https://hackerone.com/reports/1386547]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SSH Bastion Host Best Practices]]></title>
+        <id>https://www.reddit.com/r/netsec/comments/s358o4/ssh_bastion_host_best_practices/</id>
+        <link href="https://www.reddit.com/r/netsec/comments/s358o4/ssh_bastion_host_best_practices/"/>
+        <updated>2022-01-13T17:52:50.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/old-gregg  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>/r/netsec - Information Security News &amp; Discussion</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Severe Vulnerability Found in Another NPM Package]]></title>
+        <id>https://news.ycombinator.com/item?id=29923463</id>
+        <link href="https://twitter.com/DevNackOfficial/status/1481671995167506433"/>
+        <updated>2022-01-13T17:16:22.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://twitter.com/DevNackOfficial/status/1481671995167506433
+Comments URL: https://news.ycombinator.com/item?id=29923463
+Points: 4
+# Comments: 0]]></summary>
+        <author>
+            <name>daudmalik06</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Superglue Vulnerability]]></title>
+        <id>https://news.ycombinator.com/item?id=29923004</id>
+        <link href="https://orca.security/resources/blog/aws-glue-vulnerability/"/>
+        <updated>2022-01-13T16:48:43.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://orca.security/resources/blog/aws-glue-vulnerability/
+Comments URL: https://news.ycombinator.com/item?id=29923004
+Points: 29
+# Comments: 3]]></summary>
+        <author>
+            <name>geerlingguy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Index of Movies, TV series and Documentaries (lots of BBC, how it's made etc..).]]></title>
+        <id>https://www.reddit.com/r/opendirectories/comments/s33lsq/index_of_movies_tv_series_and_documentaries_lots/</id>
+        <link href="https://www.reddit.com/r/opendirectories/comments/s33lsq/index_of_movies_tv_series_and_documentaries_lots/"/>
+        <updated>2022-01-13T16:40:45.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/josephalbright1  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Open Directories</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[XSS Filter Evasion + IDOR]]></title>
+        <id>https://medium.com/p/3d4624758ff0</id>
+        <link href="https://jmrcsnchz.medium.com/xss-filter-evasion-idor-3d4624758ff0?source=rss------bugbounty-5"/>
+        <updated>2022-01-13T16:24:37.000Z</updated>
+        <summary type="html"><![CDATA[Hi there. I’m JM Sanchez, a student, and a bug bounty hunter. After months of duplicate reports, I finally found a valid high severity bug.
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>0xEchidonut</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[XSS Filter Evasion + IDOR]]></title>
+        <id>https://medium.com/p/3d4624758ff0</id>
+        <link href="https://jmrcsnchz.medium.com/xss-filter-evasion-idor-3d4624758ff0?source=rss------xss-5"/>
+        <updated>2022-01-13T16:24:37.000Z</updated>
+        <summary type="html"><![CDATA[Hi there. I’m JM Sanchez, a student, and a bug bounty hunter. After months of duplicate reports, I finally found a valid high severity bug.
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>0xEchidonut</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BreakingFormation: AWS CloudFormation Vulnerability]]></title>
+        <id>https://news.ycombinator.com/item?id=29922522</id>
+        <link href="https://orca.security/resources/blog/aws-cloudformation-vulnerability/"/>
+        <updated>2022-01-13T16:23:55.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://orca.security/resources/blog/aws-cloudformation-vulnerability/
+Comments URL: https://news.ycombinator.com/item?id=29922522
+Points: 79
+# Comments: 22]]></summary>
+        <author>
+            <name>gregmac</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I’ve heard SANS FOR508 and the GCFA is challenging. How challenging is it for an entry level candidate who is just starting out?]]></title>
+        <id>https://www.reddit.com/r/computerforensics/comments/s32zl2/ive_heard_sans_for508_and_the_gcfa_is_challenging/</id>
+        <link href="https://www.reddit.com/r/computerforensics/comments/s32zl2/ive_heard_sans_for508_and_the_gcfa_is_challenging/"/>
+        <updated>2022-01-13T16:13:28.000Z</updated>
+        <summary type="html"><![CDATA[Any tips? Experiences?
+ I’ve had hands on forensics experience and have FOR500 knowledge. Is FOR508 doable?
+    submitted by    /u/curiousgal1996  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Computer Forensics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SecWiki News 2022-01-13 Review]]></title>
+        <id>http://www.sec-wiki.com/?2022-01-13</id>
+        <link href="http://www.sec-wiki.com/?2022-01-13"/>
+        <updated>2022-01-13T15:58:20.000Z</updated>
+        <summary type="html"><![CDATA[将EXE程序通过Powershell形式实现无文件运行  by ourren
+QRS 2021 论文录用列表  by ourren
+从分析一个赌球APP中入门安卓逆向、开发、协议分析  by ourren
+更多最新文章，请访问SecWiki]]></summary>
+        <author>
+            <name>SecWiki News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FreeBuf早报 | 大量美国和加拿大人的财务数据遭曝光；Firefox 出现无法联网问题]]></title>
+        <id>https://www.freebuf.com/news/319674.html</id>
+        <link href="https://www.freebuf.com/news/319674.html"/>
+        <updated>2022-01-13T15:49:48.000Z</updated>
+        <summary type="html"><![CDATA[全球动态1. 因解决BUG不力，密码管理工具LastPass或面临2000万欧元罚款因解决问题不力等诸多问题，知名密码管理工具 LastPass 正面临 2000 万欧元的 GDPR 罚款风险。[阅读原文]2.美国一监狱遭勒索软件攻击，监控摄像头与门禁系统被破坏美国新墨西哥州中部的阿尔伯克基（Albuquerque）地区监狱上周遭勒索软件攻击，监控摄像头无法访问、自动门禁系统也受到了影响，导致囚犯]]></summary>
+        <author>
+            <name>FreeBuf网络安全行业门户</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Burp Suite roadmap for 2022]]></title>
+        <id>burp-suite-roadmap-for-2022</id>
+        <link href="https://portswigger.net/blog/burp-suite-roadmap-for-2022"/>
+        <updated>2022-01-13T15:45:47.000Z</updated>
+        <summary type="html"><![CDATA[With 2022 now underway, it's about time we gave you the latest on where Burp Suite is heading this year. Here we take a look at the powerful new Burp Suite features we'll be working on in 2022 - as we]]></summary>
+        <author>
+            <name>PortSwigger Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Prosody 0.11.12 released (CVE-2022-0217 fix)]]></title>
+        <id>https://news.ycombinator.com/item?id=29921870</id>
+        <link href="https://blog.prosody.im/prosody-0.11.12-released/"/>
+        <updated>2022-01-13T15:38:30.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://blog.prosody.im/prosody-0.11.12-released/
+Comments URL: https://news.ycombinator.com/item?id=29921870
+Points: 3
+# Comments: 0]]></summary>
+        <author>
+            <name>neustradamus</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Bugfix Postmortems Are Good For Web3]]></title>
+        <id>https://medium.com/p/a400f350adb0</id>
+        <link href="https://medium.com/immunefi/why-bugfix-postmortems-are-good-for-web3-a400f350adb0?source=rss------bugbounty-5"/>
+        <updated>2022-01-13T15:20:28.000Z</updated>
+        <summary type="html"><![CDATA[This past year has been eventful for anyone building on the Web3 stack — over the course of the year, DeFi has grown from a nascent…
+Continue reading on Immunefi »]]></summary>
+        <author>
+            <name>Immunefi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Launching Collector Portal for a closed beta group]]></title>
+        <id>https://medium.com/p/5f06a50a42fb</id>
+        <link href="https://medium.com/envoynetwork/launching-collector-portal-for-a-closed-beta-group-5f06a50a42fb?source=rss------bugbounty-5"/>
+        <updated>2022-01-13T15:00:08.000Z</updated>
+        <summary type="html"><![CDATA[We are proud to announce our beta platform launch for selected users starting on the 26th of January.
+Continue reading on Envoy »]]></summary>
+        <author>
+            <name>Envoy Official</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sporalis]]></title>
+        <id>https://www.reddit.com/r/opendirectories/comments/s30ukh/sporalis/</id>
+        <link href="https://www.reddit.com/r/opendirectories/comments/s30ukh/sporalis/"/>
+        <updated>2022-01-13T14:35:08.000Z</updated>
+        <summary type="html"><![CDATA[https://drive.google.com/drive/folders/1rmL4Yn7mJ78emYQ-PjIhDGYkph_9iEjZ
+ https://drive.google.com/drive/folders/1s3v5WdrPLEvnGLbzM8RGSyI0iorkbU-W
+ https://drive.google.com/drive/folders/1nitHECSorEadPtGwK5F_9-TdAcHHJGZG
+    submitted by    /u/Burlack  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Open Directories</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Attacking RDP from Inside: Remote Desktop Named Pipe Vulnerability]]></title>
+        <id>https://news.ycombinator.com/item?id=29920955</id>
+        <link href="https://www.cyberark.com/resources/threat-research-blog/attacking-rdp-from-inside"/>
+        <updated>2022-01-13T14:17:45.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.cyberark.com/resources/threat-research-blog/attacking-rdp-from-inside
+Comments URL: https://news.ycombinator.com/item?id=29920955
+Points: 2
+# Comments: 0]]></summary>
+        <author>
+            <name>gabriel_szt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fuzzing101 with LibAFL – Part IV: Fuzzing LibTIFF]]></title>
+        <id>https://news.ycombinator.com/item?id=29920636</id>
+        <link href="https://epi052.gitlab.io/notes-to-self/blog/2021-11-26-fuzzing-101-with-libafl-part-4/"/>
+        <updated>2022-01-13T13:44:43.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://epi052.gitlab.io/notes-to-self/blog/2021-11-26-fuzzing-101-with-libafl-part-4/
+Comments URL: https://news.ycombinator.com/item?id=29920636
+Points: 1
+# Comments: 0]]></summary>
+        <author>
+            <name>domenukk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dont mind me. Just dropping some links to check size before downloading]]></title>
+        <id>https://www.reddit.com/r/opendirectories/comments/s2z1er/dont_mind_me_just_dropping_some_links_to_check/</id>
+        <link href="https://www.reddit.com/r/opendirectories/comments/s2z1er/dont_mind_me_just_dropping_some_links_to_check/"/>
+        <updated>2022-01-13T13:07:00.000Z</updated>
+        <summary type="html"><![CDATA[https://drive.google.com/drive/folders/1X2L-UtctJulbDEP63NnLSwlEaXgwTe0x
+ https://drive.google.com/drive/folders/1pMRoHMd3H0P0g6lvEWFUR1teiPSy9VqR
+ https://drive.google.com/drive/folders/0B2UZmHpzoVm6eXYyM09PUXF1TDA?resourcekey=0-A5ZN-_lF1S2Eh3xmJSC9kw
+ https://drive.google.com/drive/folders/1nfMA72hL1PHFTWVkzjlSBAmfPyBg89dx
+ https://drive.google.com/drive/folders/17KyX_80h0yBUrc3X-PMa3EnXoE0kFmJJ?sort=13&direction=a
+    submitted by    /u/Burlack  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Open Directories</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FB Lite All Users Active Status Changed]]></title>
+        <id>https://medium.com/p/99c5c36029e5</id>
+        <link href="https://nmochea.medium.com/fb-lite-all-user-active-status-changed-99c5c36029e5?source=rss------bugbounty-5"/>
+        <updated>2022-01-13T12:49:45.000Z</updated>
+        <summary type="html"><![CDATA[I’m glad you’re here. Please have fun reading (nmochea).
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Neilmark Ochea</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[C.S.T.I Lead To Account Takeover $$$]]></title>
+        <id>https://medium.com/p/f21ea07d9141</id>
+        <link href="https://systemweakness.com/c-s-t-i-lead-to-account-takeover-f21ea07d9141?source=rss------bugbounty-5"/>
+        <updated>2022-01-13T12:17:58.000Z</updated>
+        <summary type="html"><![CDATA[Hello amazing hunter, Today i want to tell you a short story but this story has long memory for me. In this story i found some…
+Continue reading on System Weakness »]]></summary>
+        <author>
+            <name>M7.Arman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HiddenWall is a tool to generate a custom Hidden firewall to run in Linux kernel.]]></title>
+        <id>https://www.reddit.com/r/netsec/comments/s2xwpa/hiddenwall_is_a_tool_to_generate_a_custom_hidden/</id>
+        <link href="https://www.reddit.com/r/netsec/comments/s2xwpa/hiddenwall_is_a_tool_to_generate_a_custom_hidden/"/>
+        <updated>2022-01-13T12:02:31.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/CoolerVoid  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>/r/netsec - Information Security News &amp; Discussion</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This script analyses the Nmap XML scanning results, parses each CPE context and correlates to search CVE on NIST. You can use that to find public vulnerabilities in services.]]></title>
+        <id>https://www.reddit.com/r/netsec/comments/s2xmey/this_script_analyses_the_nmap_xml_scanning/</id>
+        <link href="https://www.reddit.com/r/netsec/comments/s2xmey/this_script_analyses_the_nmap_xml_scanning/"/>
+        <updated>2022-01-13T11:44:57.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/CoolerVoid  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>/r/netsec - Information Security News &amp; Discussion</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Need an antivirus solution for webapp in MS Azure that is compliant with EU data protection law]]></title>
+        <id>https://www.reddit.com/r/AskNetsec/comments/s2xjz6/need_an_antivirus_solution_for_webapp_in_ms_azure/</id>
+        <link href="https://www.reddit.com/r/AskNetsec/comments/s2xjz6/need_an_antivirus_solution_for_webapp_in_ms_azure/"/>
+        <updated>2022-01-13T11:40:38.000Z</updated>
+        <summary type="html"><![CDATA[we run an webapp in azure. users can upload .zip, .pdf, .png, .jpeg and .csv files. therefore an antivurs scanner is needed for those files. at another project we use clamav in an azure container instance. the problem is containers don´t scale very well.
+  
+we would prefere a SAAS solution in azure but there are few options.
+ we need a solution that is scalable and doesn´t send the files to servers outside the EU due to the local data protection law. at best the software is made by an EU company.
+ we thought about "abusing" an azure storage by uploading the files there and waiting if microsoft defender for cloud reacts. anyone any experience with this? how fast would such a solution be?
+  
+any recommendations?
+ TLDR:
+  
+need antivirus software for file upload
+ webapp in azure
+ SAAS prefered
+ scalability
+ compliant with EU data protection law
+  
+Thank you for your help!
+    submitted by    /u/devsecops22  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>AskNetsec</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bug Bounty Methodology — Bug Hunting Checklist (PART-1)]]></title>
+        <id>https://medium.com/p/3274ad868209</id>
+        <link href="https://aaryanapex.medium.com/bug-bounty-methodology-bug-hunting-checklist-part-1-3274ad868209?source=rss------bugbounty-5"/>
+        <updated>2022-01-13T11:19:44.000Z</updated>
+        <summary type="html"><![CDATA[Hey, it’s me again back with another checklist. I saw various articles and tools specifically designed to exploit one vulnerability. It…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Aaryan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FTP OEM Pc Builder]]></title>
+        <id>https://www.reddit.com/r/opendirectories/comments/s2vzm2/ftp_oem_pc_builder/</id>
+        <link href="https://www.reddit.com/r/opendirectories/comments/s2vzm2/ftp_oem_pc_builder/"/>
+        <updated>2022-01-13T10:00:17.000Z</updated>
+        <summary type="html"><![CDATA[I'm trying to list the different ftp from computer builder. I think most of them are already present on this / r. But perhaps bringing them together in a single post is a good idea? (I will add them as I find them / the community finds them)
+ HP FTP : ftp://ftp.hp.com |Url: ftp://ftp.hp.com/||Urls file| |Extension (Top 5)|Files|Size| |.exe|106,034|5.61 TiB| |.ibr|862|5.21 TiB| |.zip|10,739|443.95 GiB| |.fmw|290|384.7 GiB| |.iso|256|322.51 GiB| |Dirs: 83,006 Ext: 1,375|Total: 793,218|Total: 12.98 TiB| |Date (UTC): 2022-01-12 17:29:09|Time: 02:19:06|Speed: 22.87 MB/s (182.9 mbit)|
+ Created by [KoalaBear84's OpenDirectory Indexer v2.2.0.9](https://github.com/KoalaBear84/OpenDirectoryDownloader/)
+ IBM FTP : ftp://ftp.software.ibm.com/ |Url: ftp://ftp.software.ibm.com/||Urls file|
+ |Extension (…]]></summary>
+        <author>
+            <name>Open Directories</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[数百万便携式路由器受KCodes NetUSB 漏洞影响]]></title>
+        <id>https://www.freebuf.com/articles/319650.html</id>
+        <link href="https://www.freebuf.com/articles/319650.html"/>
+        <updated>2022-01-13T08:56:13.000Z</updated>
+        <summary type="html"><![CDATA[涉及厂商包括 Netgear、TP-Link、Tenda、EDiMAX、D-Link 和西部数据。]]></summary>
+        <author>
+            <name>FreeBuf网络安全行业门户</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Found a Vulnerability In NPM Package]]></title>
+        <id>https://news.ycombinator.com/item?id=29918100</id>
+        <link href="https://twitter.com/DevNackOfficial/status/1481537073068843013"/>
+        <updated>2022-01-13T08:19:49.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://twitter.com/DevNackOfficial/status/1481537073068843013
+Comments URL: https://news.ycombinator.com/item?id=29918100
+Points: 1
+# Comments: 2]]></summary>
+        <author>
+            <name>daudmalik06</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Brave Browser --Flags Questions]]></title>
+        <id>https://www.reddit.com/r/AskNetsec/comments/s2u48n/brave_browser_flags_questions/</id>
+        <link href="https://www.reddit.com/r/AskNetsec/comments/s2u48n/brave_browser_flags_questions/"/>
+        <updated>2022-01-13T07:57:49.000Z</updated>
+        <summary type="html"><![CDATA[Hi there r/AskNetsec
+ I just wanted to ask a quick question if these specific flags out of the bunch that Brave runs is of any concern? The names sparked my interest and a bit of panic when I first noticed after using it for about a month.
+ IdleDetection
+ --disable-client-side-phishing-detection
+ --display-capture-permissions-policy-allowed
+ ​
+ Whole flag trace is this if needed:
+ [redacted]\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe" --type=renderer --disable-client-side-phishing-detection --display-capture-permissions-policy-allowed --origin-trial-public-key=[redacted]=,[redacted]= --brave_session_token=[redacted] --field-trial-handle=[redacted],[redacted],[redacted] --enable-features=AutoupgradeMixedContent,LegacyTLSEnforced,PasswordImport,PrefetchPrivacyChanges,Red…]]></summary>
+        <author>
+            <name>AskNetsec</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[大量美国和加拿大人的财务数据遭曝光]]></title>
+        <id>https://www.freebuf.com/news/319621.html</id>
+        <link href="https://www.freebuf.com/news/319621.html"/>
+        <updated>2022-01-13T07:21:21.000Z</updated>
+        <summary type="html"><![CDATA[Website Planet网络安全员发现一个配置错误的数据库，该数据库暴露了约 82万 条记录，其中约 60万 条是客户信用记录。]]></summary>
+        <author>
+            <name>FreeBuf网络安全行业门户</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[My Perfect Bug Bounty Docker Setup]]></title>
+        <id>https://medium.com/p/f6441f236a2d</id>
+        <link href="https://systemweakness.com/my-perfect-bug-bounty-docker-setup-f6441f236a2d?source=rss------bugbounty-5"/>
+        <updated>2022-01-13T07:06:22.000Z</updated>
+        <summary type="html"><![CDATA[I hate installing things on my computer because of the bloated slow mess it becomes overtime. So when I found out about docker I fell in…
+Continue reading on System Weakness »]]></summary>
+        <author>
+            <name>James McCutcheon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wading Through Muddy Waters | Recent Activity of an Iranian State-Sponsored Threat Actor]]></title>
+        <id>https://www.reddit.com/r/redteamsec/comments/s2t2qs/wading_through_muddy_waters_recent_activity_of_an/</id>
+        <link href="https://www.reddit.com/r/redteamsec/comments/s2t2qs/wading_through_muddy_waters_recent_activity_of_an/"/>
+        <updated>2022-01-13T06:54:15.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/dmchell  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Red Team Security</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Quick CVE-2022-21907 FAQ (work in progress)]]></title>
+        <id>https://news.ycombinator.com/item?id=29917559</id>
+        <link href="https://isc.sans.edu/forums/diary/28234/"/>
+        <updated>2022-01-13T06:42:37.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://isc.sans.edu/forums/diary/28234/
+Comments URL: https://news.ycombinator.com/item?id=29917559
+Points: 2
+# Comments: 1]]></summary>
+        <author>
+            <name>r721</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新型恶意软件SysJoker正对Windows、Linux 和macOS 操作系统构成威胁]]></title>
+        <id>https://www.freebuf.com/news/319598.html</id>
+        <link href="https://www.freebuf.com/news/319598.html"/>
+        <updated>2022-01-13T05:23:33.000Z</updated>
+        <summary type="html"><![CDATA[SysJoker 新型恶意软件正对Windows、Linux 和 macOS 操作系统构成威胁，可利用跨平台后门来从事间谍活动。]]></summary>
+        <author>
+            <name>FreeBuf网络安全行业门户</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《“十四五”数字经济发展规划》，网络安全再被重点提及]]></title>
+        <id>https://www.freebuf.com/news/319597.html</id>
+        <link href="https://www.freebuf.com/news/319597.html"/>
+        <updated>2022-01-13T05:20:48.000Z</updated>
+        <summary type="html"><![CDATA[《规划》的第九章“着力强化数字经济安全体系”系统阐述了网络安全对于数字经济的独特作用及重要性。]]></summary>
+        <author>
+            <name>FreeBuf网络安全行业门户</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[研读网络安全法律法规，提升技术管理者 “法” 商]]></title>
+        <id>https://www.freebuf.com/news/319585.html</id>
+        <link href="https://www.freebuf.com/news/319585.html"/>
+        <updated>2022-01-13T03:39:35.000Z</updated>
+        <summary type="html"><![CDATA[了解不同法律法规的等级层次，可以帮助我们更好的理解国家在立法过程中的目的。]]></summary>
+        <author>
+            <name>FreeBuf网络安全行业门户</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HONEYPOT DISCUSSIONS PART-1]]></title>
+        <id>https://medium.com/p/cc2b8d594cba</id>
+        <link href="https://umutunal.medium.com/honeypot-discussions-part-1-cc2b8d594cba?source=rss------redteam-5"/>
+        <updated>2022-01-13T03:36:49.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to Honeypot Discussions Part 1. There will be three part of article about honeypots. As here, in the first article we will be…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Umut Unal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PHP Type Juggling]]></title>
+        <id>https://medium.com/p/1c6a35ffe3ee</id>
+        <link href="https://medium.com/@shubhamkumarks1999/php-type-juggling-1c6a35ffe3ee?source=rss------bugbounty-5"/>
+        <updated>2022-01-13T03:14:03.000Z</updated>
+        <summary type="html"><![CDATA[PHP is the dynamic language that checks variables when the program is executing and provides flexibility to the developers. But this…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Shubham kumar`</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Exploring the Log4Shell Vulnerability through files]]></title>
+        <id>https://news.ycombinator.com/item?id=29915825</id>
+        <link href="https://blog.borneo.io/exploring-the-log4shell-vulnerability-dd7000eed4a4?gi=5d43b39b3d22"/>
+        <updated>2022-01-13T01:53:15.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://blog.borneo.io/exploring-the-log4shell-vulnerability-dd7000eed4a4?gi=5d43b39b3d22
+Comments URL: https://news.ycombinator.com/item?id=29915825
+Points: 2
+# Comments: 0]]></summary>
+        <author>
+            <name>ongteckwuohyea</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Is there a solution to encrypt an OS at the RAM/CPU level?]]></title>
         <id>https://www.reddit.com/r/AskNetsec/comments/s2lket/is_there_a_solution_to_encrypt_an_os_at_the/</id>
@@ -647,6 +1299,16 @@ Continue reading on Dev Genius »]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[等保2.0测评安全计算环境GaussdDB过程指南（华为高斯数据库）]]></title>
+        <id>https://www.freebuf.com/articles/compliance/317752.html</id>
+        <link href="https://www.freebuf.com/articles/compliance/317752.html"/>
+        <updated>2022-01-12T10:07:01.000Z</updated>
+        <summary type="html"><![CDATA[一次华为私有云的高斯数据库测评指南]]></summary>
+        <author>
+            <name>FreeBuf网络安全行业门户</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[CFP] Call for Papers for Hardwear.io Security Conference USA 2022 is OPEN!]]></title>
         <id>https://www.reddit.com/r/netsec/comments/s22ty7/cfp_call_for_papers_for_hardweario_security/</id>
         <link href="https://www.reddit.com/r/netsec/comments/s22ty7/cfp_call_for_papers_for_hardweario_security/"/>
@@ -685,6 +1347,16 @@ Continue reading on Dev Genius »]]></summary>
         <summary type="html"><![CDATA[Gener8 disclosed a bug submitted by paramdham: https://hackerone.com/reports/783191]]></summary>
         <author>
             <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[长城汽车诚聘多名安全人才]]></title>
+        <id>https://www.freebuf.com/articles/319528.html</id>
+        <link href="https://www.freebuf.com/articles/319528.html"/>
+        <updated>2022-01-12T08:20:20.000Z</updated>
+        <summary type="html"><![CDATA[长城汽车是成立于1984年的中国汽车品牌，诚聘多位安全人才。]]></summary>
+        <author>
+            <name>FreeBuf网络安全行业门户</name>
         </author>
     </entry>
     <entry>
