@@ -6,6 +6,42 @@
       "siteUrl": "http://h1.nobbd.de/",
       "articles": [
         {
+          "id": "https://hackerone.com/reports/998138",
+          "author": null,
+          "description": "Lark Technologies disclosed a bug submitted by imran_nisar: https://hackerone.com/reports/998138 - Bounty: $500",
+          "link": "https://hackerone.com/reports/998138",
+          "publishedOn": "2022-01-14T20:41:41.000Z",
+          "wordCount": 25,
+          "title": "In orginization stored xss using location (Larksuite survey app)"
+        },
+        {
+          "id": "https://hackerone.com/reports/971857",
+          "author": null,
+          "description": "Lark Technologies disclosed a bug submitted by imran_nisar: https://hackerone.com/reports/971857 - Bounty: $500",
+          "link": "https://hackerone.com/reports/971857",
+          "publishedOn": "2022-01-14T20:36:25.000Z",
+          "wordCount": 25,
+          "title": "Stored xss on helpdesk using user's city"
+        },
+        {
+          "id": "https://hackerone.com/reports/703819",
+          "author": null,
+          "description": "IBM disclosed a bug submitted by xyantix: https://hackerone.com/reports/703819",
+          "link": "https://hackerone.com/reports/703819",
+          "publishedOn": "2022-01-14T18:42:53.000Z",
+          "wordCount": 25,
+          "title": "SQL Injection and plaintext passwords via User Search"
+        },
+        {
+          "id": "https://hackerone.com/reports/1415436",
+          "author": null,
+          "description": "Django disclosed a bug submitted by scaramouche31: https://hackerone.com/reports/1415436",
+          "link": "https://hackerone.com/reports/1415436",
+          "publishedOn": "2022-01-14T16:34:04.000Z",
+          "wordCount": 25,
+          "title": "Deserialization of potentially malicious data to RCE"
+        },
+        {
           "id": "https://hackerone.com/reports/1301696",
           "author": null,
           "description": "Ruby disclosed a bug submitted by sohaib619: https://hackerone.com/reports/1301696",
@@ -1991,6 +2027,42 @@
       "siteUrl": "https://medium.com/tag/bugbounty/latest?source=rss------bugbounty-5",
       "articles": [
         {
+          "id": "https://medium.com/p/7ce9d94c578",
+          "author": "Vinoth Venkatesan",
+          "description": "High impact vulnerability notification over email, phone call, or SMS\nContinue reading on Medium »",
+          "link": "https://vinothu.medium.com/bug-alert-critical-vulnerability-alerting-system-7ce9d94c578?source=rss------bugbounty-5",
+          "publishedOn": "2022-01-14T15:52:17.000Z",
+          "wordCount": 567,
+          "title": "Bug Alert —Critical Vulnerability Alerting System"
+        },
+        {
+          "id": "https://medium.com/p/1d3bef931729",
+          "author": "Hamit CİBO",
+          "description": "Greetings from Constantinople to all,\nContinue reading on Medium »",
+          "link": "https://hcibo.medium.com/my-pentest-log-2-1d3bef931729?source=rss------bugbounty-5",
+          "publishedOn": "2022-01-14T15:19:16.000Z",
+          "wordCount": 292,
+          "title": "My Pentest Log -2-"
+        },
+        {
+          "id": "https://medium.com/p/3707f517a3fa",
+          "author": "Jonathan Scott",
+          "description": "I decided to start a series about the experiences I’ve had with bug bounty programs. I wanted to first start off with the written story so…\nContinue reading on Medium »",
+          "link": "https://jonathandata1.medium.com/true-life-recovering-bug-bounty-hacker-chapter-1-goodrx-3707f517a3fa?source=rss------bugbounty-5",
+          "publishedOn": "2022-01-14T03:27:01.000Z",
+          "wordCount": 2462,
+          "title": "True Life: Recovering Bug Bounty Hacker: Chapter 1 — GoodRx"
+        },
+        {
+          "id": "https://medium.com/p/3d4624758ff0",
+          "author": "0xEchidonut",
+          "description": "Hi there. I’m JM Sanchez, a student, and a bug bounty hunter. After months of duplicate reports, I finally found a valid high severity bug.\nContinue reading on System Weakness »",
+          "link": "https://systemweakness.com/xss-filter-evasion-idor-3d4624758ff0?source=rss------bugbounty-5",
+          "publishedOn": "2022-01-13T16:24:37.000Z",
+          "wordCount": 824,
+          "title": "XSS Filter Evasion + IDOR"
+        },
+        {
           "id": "https://medium.com/p/3d4624758ff0",
           "author": "0xEchidonut",
           "description": "Hi there. I’m JM Sanchez, a student, and a bug bounty hunter. After months of duplicate reports, I finally found a valid high severity bug.\nContinue reading on Medium »",
@@ -3302,6 +3374,24 @@
       "feedUrl": "https://medium.com/feed/tag/redteam",
       "siteUrl": "https://medium.com/tag/redteam/latest?source=rss------redteam-5",
       "articles": [
+        {
+          "id": "https://medium.com/p/60d08e1bd209",
+          "author": "Umut Unal",
+          "description": "Honeypot Types\nContinue reading on Medium »",
+          "link": "https://umutunal.medium.com/honeypot-discussions-part-2-60d08e1bd209?source=rss------redteam-5",
+          "publishedOn": "2022-01-14T15:26:19.000Z",
+          "wordCount": 1249,
+          "title": "Honeypot Discussions Part-2"
+        },
+        {
+          "id": "https://medium.com/p/9d9ec33c0ab1",
+          "author": "m0r3h4x",
+          "description": "What is powershell execution strategy\nContinue reading on Medium »",
+          "link": "https://medium.com/@m0r3h4x/powershell-execution-bypass-strategy-9d9ec33c0ab1?source=rss------redteam-5",
+          "publishedOn": "2022-01-14T02:16:05.000Z",
+          "wordCount": 1732,
+          "title": "Powershell Execution Strategy"
+        },
         {
           "id": "https://medium.com/p/cc2b8d594cba",
           "author": "Umut Unal",
@@ -4773,6 +4863,24 @@
       "siteUrl": "https://medium.com/tag/fuzzing/latest?source=rss------fuzzing-5",
       "articles": [
         {
+          "id": "https://medium.com/p/1d3bef931729",
+          "author": "Hamit CİBO",
+          "description": "Greetings from Constantinople to all,\nContinue reading on Medium »",
+          "link": "https://hcibo.medium.com/my-pentest-log-2-1d3bef931729?source=rss------fuzzing-5",
+          "publishedOn": "2022-01-14T15:19:16.000Z",
+          "wordCount": 292,
+          "title": "My Pentest Log -2-"
+        },
+        {
+          "id": "https://medium.com/p/de341a251b2e",
+          "author": "Symflower",
+          "description": "Last month, the Go language team released the Go 1.18 Beta 1. It contains the much awaited generic support, which we’re very excited to…\nContinue reading on Medium »",
+          "link": "https://medium.com/@symflower/go-1-18-native-fuzzing-and-dinosaurs-de341a251b2e?source=rss------fuzzing-5",
+          "publishedOn": "2022-01-14T12:33:43.000Z",
+          "wordCount": 1154,
+          "title": "Go 1.18 — native Fuzzing and Dinosaurs"
+        },
+        {
           "id": "https://medium.com/p/4c67b76ab5b6",
           "author": "Mücahit Saratar",
           "description": "yeni başlayanlar için, afl ile derleme, lib/obje kullanımı,afl/afl++ ile fuzzing nasıl yapılır\nContinue reading on Medium »",
@@ -4932,6 +5040,15 @@
       "feedUrl": "https://medium.com/feed/tag/xss",
       "siteUrl": "https://medium.com/tag/xss/latest?source=rss------xss-5",
       "articles": [
+        {
+          "id": "https://medium.com/p/3d4624758ff0",
+          "author": "0xEchidonut",
+          "description": "Hi there. I’m JM Sanchez, a student, and a bug bounty hunter. After months of duplicate reports, I finally found a valid high severity bug.\nContinue reading on System Weakness »",
+          "link": "https://systemweakness.com/xss-filter-evasion-idor-3d4624758ff0?source=rss------xss-5",
+          "publishedOn": "2022-01-13T16:24:37.000Z",
+          "wordCount": 824,
+          "title": "XSS Filter Evasion + IDOR"
+        },
         {
           "id": "https://medium.com/p/3d4624758ff0",
           "author": "0xEchidonut",
@@ -5493,6 +5610,15 @@
       "feedUrl": "https://hnrss.org/newest?q=CVE",
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
+        {
+          "id": "https://news.ycombinator.com/item?id=29931694",
+          "author": "neustradamus",
+          "description": "Article URL: https://snikket.org/blog/snikket-jan-2021-security-release/\nComments URL: https://news.ycombinator.com/item?id=29931694\nPoints: 1\n# Comments: 0",
+          "link": "https://snikket.org/blog/snikket-jan-2021-security-release/",
+          "publishedOn": "2022-01-14T07:57:51.000Z",
+          "wordCount": 734,
+          "title": "Snikket Server – 2022-01-13 security release (CVE-2022-0217)"
+        },
         {
           "id": "https://news.ycombinator.com/item?id=29925154",
           "author": "jzelinskie",
@@ -6210,6 +6336,69 @@
       "siteUrl": "https://www.freebuf.com",
       "articles": [
         {
+          "id": "https://www.freebuf.com/fevents/319782.html",
+          "author": null,
+          "description": "正式版上线热门提问合集！",
+          "link": "https://www.freebuf.com/fevents/319782.html",
+          "publishedOn": "2022-01-14T08:07:01.000Z",
+          "wordCount": 158,
+          "title": "知识大陆Q&amp;A vol.03 | 新大陆的第一步"
+        },
+        {
+          "id": "https://www.freebuf.com/articles/319772.html",
+          "author": null,
+          "description": "FreeBuf小伙伴在街头对路人进行了随机采访，看看他们的网络安全意识、个人防护意识到底如何。",
+          "link": "https://www.freebuf.com/articles/319772.html",
+          "publishedOn": "2022-01-14T07:18:45.000Z",
+          "wordCount": 143,
+          "title": "FreeBuf街采 | 2022开年我们找10位路人聊了聊网络安全"
+        },
+        {
+          "id": "https://www.freebuf.com/news/319742.html",
+          "author": null,
+          "description": "各位 FreeBufer 周末好~以下是本周的「FreeBuf周报」，我们总结推荐了本周的热点资讯、优质文章和省心工具，保证大家不错过本周的每一个重点！",
+          "link": "https://www.freebuf.com/news/319742.html",
+          "publishedOn": "2022-01-14T06:09:25.000Z",
+          "wordCount": 166,
+          "title": "FreeBuf周报 | 「网安知识大陆」1.0正式上线；Facebook推出“隐私中心”"
+        },
+        {
+          "id": "https://www.freebuf.com/fevents/319741.html",
+          "author": null,
+          "description": "FreeBuf邀请全体网安人于 3 月 2 日至 3 日 在上海宝华万豪酒店 共聚「CIS 2021网络安全创新大会Spring·春日版」。",
+          "link": "https://www.freebuf.com/fevents/319741.html",
+          "publishedOn": "2022-01-14T06:07:34.000Z",
+          "wordCount": 164,
+          "title": "3月2日上海见！CIS 2021 Spring·春日版议题即将公布"
+        },
+        {
+          "id": "https://www.freebuf.com/news/319723.html",
+          "author": null,
+          "description": "当地时间1月13日，众多科技巨头公司和联邦机构共聚白宫，就开源软件安全性展开讨论。",
+          "link": "https://www.freebuf.com/news/319723.html",
+          "publishedOn": "2022-01-14T03:45:54.000Z",
+          "wordCount": 142,
+          "title": "白宫举办开源安全峰会，众多科技巨头参加"
+        },
+        {
+          "id": "https://www.freebuf.com/articles/neopoints/319719.html",
+          "author": null,
+          "description": "作为中国企业端点安全领域的领导者，联软科技历经19年端点安全实践和行业经验，连续3年持续发布前沿端点安全趋势，旨在为行业提供更多新思路和新参考。",
+          "link": "https://www.freebuf.com/articles/neopoints/319719.html",
+          "publishedOn": "2022-01-14T03:08:06.000Z",
+          "wordCount": 224,
+          "title": "联软科技发布：2022年端点安全十大趋势"
+        },
+        {
+          "id": "https://www.freebuf.com/vuls/319714.html",
+          "author": null,
+          "description": "研究表示，伊朗APT35组织正在利用Log4Shell漏洞进行攻击并植入一种新型后门。",
+          "link": "https://www.freebuf.com/vuls/319714.html",
+          "publishedOn": "2022-01-14T02:19:23.000Z",
+          "wordCount": 174,
+          "title": "伊朗APT35黑客组织利用Log4j漏洞部署新型PowerShell后门"
+        },
+        {
           "id": "https://www.freebuf.com/news/319674.html",
           "author": null,
           "description": "全球动态1. 因解决BUG不力，密码管理工具LastPass或面临2000万欧元罚款因解决问题不力等诸多问题，知名密码管理工具 LastPass 正面临 2000 万欧元的 GDPR 罚款风险。[阅读原文]2.美国一监狱遭勒索软件攻击，监控摄像头与门禁系统被破坏美国新墨西哥州中部的阿尔伯克基（Albuquerque）地区监狱上周遭勒索软件攻击，监控摄像头无法访问、自动门禁系统也受到了影响，导致囚犯",
@@ -6217,6 +6406,15 @@
           "publishedOn": "2022-01-13T15:49:48.000Z",
           "wordCount": 292,
           "title": "FreeBuf早报 | 大量美国和加拿大人的财务数据遭曝光；Firefox 出现无法联网问题"
+        },
+        {
+          "id": "https://www.freebuf.com/articles/neopoints/319666.html",
+          "author": null,
+          "description": "从安全角度来看，远程办公意味着办公网络的边界被打破，企业该如何重新审视自身的安全策略，降低安全风险？",
+          "link": "https://www.freebuf.com/articles/neopoints/319666.html",
+          "publishedOn": "2022-01-13T11:27:00.000Z",
+          "wordCount": 157,
+          "title": "Freebuf甲方群话题讨论 | 聊聊企业远程办公的安全之道"
         },
         {
           "id": "https://www.freebuf.com/articles/319650.html",
@@ -6235,6 +6433,15 @@
           "publishedOn": "2022-01-13T07:21:21.000Z",
           "wordCount": 168,
           "title": "大量美国和加拿大人的财务数据遭曝光"
+        },
+        {
+          "id": "https://www.freebuf.com/articles/network/319604.html",
+          "author": null,
+          "description": "2021 年 12 月，Intezer 发现了一个能够对 Windows、Mac 和 Linux 发起攻击的跨平台后门 SysJoker。",
+          "link": "https://www.freebuf.com/articles/network/319604.html",
+          "publishedOn": "2022-01-13T06:19:54.000Z",
+          "wordCount": 349,
+          "title": "跨平台恶意后门 SysJoker 行为分析及解码"
         },
         {
           "id": "https://www.freebuf.com/news/319598.html",
@@ -8222,6 +8429,15 @@
       "siteUrl": "http://www.sec-wiki.com/",
       "articles": [
         {
+          "id": "http://www.sec-wiki.com/?2022-01-14",
+          "author": null,
+          "description": "今日暂未更新资讯~\n更多最新文章，请访问SecWiki",
+          "link": "http://www.sec-wiki.com/?2022-01-14",
+          "publishedOn": "2022-01-14T15:58:20.000Z",
+          "wordCount": 597,
+          "title": "SecWiki News 2022-01-14 Review"
+        },
+        {
           "id": "http://www.sec-wiki.com/?2022-01-13",
           "author": null,
           "description": "将EXE程序通过Powershell形式实现无文件运行  by ourren\nQRS 2021 论文录用列表  by ourren\n从分析一个赌球APP中入门安卓逆向、开发、协议分析  by ourren\n更多最新文章，请访问SecWiki",
@@ -8516,6 +8732,123 @@
       "feedUrl": "https://www.reddit.com/r/asknetsec/.rss",
       "siteUrl": "https://www.reddit.com/r/asknetsec/",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/s47ofl/issues_with_giac_labs/",
+          "author": null,
+          "description": "I have a buddy who is studying for a giac exam who says the labs on the practice tests are trash. Can anyone confirm this? Is this a common issue?\n    submitted by    /u/sephstorm  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/s47ofl/issues_with_giac_labs/",
+          "publishedOn": "2022-01-15T00:57:45.000Z",
+          "wordCount": 197,
+          "title": "Issues with GIAC labs?"
+        },
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/s46v0v/deleted_google_account/",
+          "author": null,
+          "description": "i am trying to recover data from a deleted google account. i have local law enforcement requesting all data related to the google account. are we going to be able to recover deleted emails and other files?\n    submitted by    /u/LS2fast  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/s46v0v/deleted_google_account/",
+          "publishedOn": "2022-01-15T00:17:47.000Z",
+          "wordCount": 270,
+          "title": "deleted google account"
+        },
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/s40p5q/what_are_the_chances_that_i_get_a_job_abroad/",
+          "author": null,
+          "description": "Hey there, I'm from Tunisia (north Africa) I graduated a few months ago majoring in cyber security (I have a 3y degree in network administration and a 3y degree in security). I didn't start looking for a job until these past few days due to a personal problem in the family, but now I'm wondering what are my chances to find a job abroad. The usual destination for us is France but tbh I'm looking for somewhere else, anywhere in Europe,the US or even (uuum especially) Australia. I got 3 CCNA certs and my English is pretty good.The thing is my experience is limited to school projects and 2 internships where I touched on the real world work. I'm not posting my CV unless requested, I'm not here looking for a job (and I don't want to break any rule) but I'm here to ask. Please keep in mind the COVID situation in the world right now which I think is reducing the travelling potential. Thanks in advance.\n    submitted by    /u/Dalleuh  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/s40p5q/what_are_the_chances_that_i_get_a_job_abroad/",
+          "publishedOn": "2022-01-14T19:40:11.000Z",
+          "wordCount": 300,
+          "title": "What are the chances that I get a job abroad after graduating?"
+        },
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/s406zj/what_tools_do_you_use_to_audit_ad_users/",
+          "author": null,
+          "description": "What tools do you use to audit users on AD?\n For example, a list of those who haven't logged in for a very long time, or who haven't changed their password in a long time, or who are without 2FA. \n To be honest, I did not find such functionality in AD (or if I did, it was inconvenient).\n    submitted by    /u/athanielx  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/s406zj/what_tools_do_you_use_to_audit_ad_users/",
+          "publishedOn": "2022-01-14T19:17:16.000Z",
+          "wordCount": 562,
+          "title": "What tools do you use to audit AD users?"
+        },
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/s3zu03/appsec_engineering_at_metafacebook_how_is_the_work/",
+          "author": null,
+          "description": "Hi,\n I'm wondering how is the work of application security engineers at meta/fb?\n Do they write code? or only do code reviews?\n What are the usual tasks of an engineer in such role?\n    submitted by    /u/sapup  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/s3zu03/appsec_engineering_at_metafacebook_how_is_the_work/",
+          "publishedOn": "2022-01-14T19:01:08.000Z",
+          "wordCount": 312,
+          "title": "Appsec engineering at Meta/Facebook - how is the work?"
+        },
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/s3u66z/ceo_scam_solution/",
+          "author": null,
+          "description": "Problem is: fake CEO or Senior Officials social media profiles are used too scam (\"pay this fee to get this job\"). \n - What solutions could monitor web/social media to find such fake profiles or websites?\n - Would these solutions find this? or is it something into social media/web monitoring? \n Thank you for the answers\n    submitted by    /u/NerdSupremacist  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/s3u66z/ceo_scam_solution/",
+          "publishedOn": "2022-01-14T14:52:20.000Z",
+          "wordCount": 194,
+          "title": "CEO scam solution?"
+        },
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/s3thgi/whats_the_name_of_this_app_that_displays_your/",
+          "author": null,
+          "description": "Few years ago, a friend of mine was travelling in GCC. (Gulf States) His friend showed him an app where he fed my friend's phone number and all his social ids popped up. All the different usernames he has been using, on other social media platforms, going back to several years.\n The sites that he remembers his id from - Grindr, Manjam, Gaydar, Badoo etc.\n Does anyone knows what is this thing called? or what is the name of such app?\n    submitted by    /u/saffrown  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/s3thgi/whats_the_name_of_this_app_that_displays_your/",
+          "publishedOn": "2022-01-14T14:21:05.000Z",
+          "wordCount": 274,
+          "title": "What's the name of this app that displays your other usernames?"
+        },
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/s3nfr5/newbie_with_a_couple_questions_about_the_ceh_v11/",
+          "author": null,
+          "description": "Top of the mornin to ya fellow cyber lads and ladies! I'm hoping to take the ANSI v11 exam in the next three months or so and I have the following questions.\n  \nIs 3 months enough of a prep time if I have a B.S. in Cybersecurity? (From what I hear, the ANSI is just a glorified Sec+)\n Access to the ilabs, The Textbook, Messier's Practice Tests, Messier's Study Guide, O'Reilly's Videos and Messier's v10 videos on Udemy. Will this do for prep material?\n Question about CEH Practical here. Will the Practical exam be a good first step on a year long journey to the OSCP?\n  \nTenks.\n    submitted by    /u/Puddin2yerHarley  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/s3nfr5/newbie_with_a_couple_questions_about_the_ceh_v11/",
+          "publishedOn": "2022-01-14T08:29:19.000Z",
+          "wordCount": 393,
+          "title": "Newbie with a couple questions about the CEH v11!"
+        },
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/s3lpsh/tiktok_is_hideousbut_unfortunately_necessary_for/",
+          "author": null,
+          "description": "I generally hate social media. It's toxic, predatory, and spying on the user 95% of the time. Unfortunately it's also a necessary engagement channel for writers. \n I've banished it from my personal life but unfortunately need to be able to connect with readers and market my stuff.\n I recently paid for a session with a social media consultant that was aghast I was not on TikTok. I explained my political concerns with TikTok's links to certain authoritarian governments, as well as the massive data-mining hard-cooked into the code, and the evidence it's detrimental to mental health. \n She looked at me like I was a caveman wearing a tinfoil hat and went on to show me some metrics. Sadly it became clear that most of the reader demographic I'm trying to market my content to are using TikTok almost exclusively as their drug of choice. Fuck.\n So here's my question/TLDR:\n Is there a third-party application or method of \"corralling\" TikTok's spying functions? Is it possible to post via a desktop browser and bypass the application entirely? Should I look into running it inside an emulator? I'd certainly appreciate any input or suggestions! Who knew cyberpunk dystopia could be so banal.\n    submitted by    /u/writtenloudly  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/s3lpsh/tiktok_is_hideousbut_unfortunately_necessary_for/",
+          "publishedOn": "2022-01-14T06:41:38.000Z",
+          "wordCount": 1474,
+          "title": "TikTok is hideous...but unfortunately necessary for engaging with my readers. Any advice?"
+        },
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/s3kixv/salary_range_for_jr_security_analyst_at_bay_area/",
+          "author": null,
+          "description": "Hi all, I was wondering what would be the salary range for Junior security analyst position at the Bay Area California? Is 100k asking too much? The cost of living is really expensive there, so I’m not so sure. Any help is appreciated!\n    submitted by    /u/nkookie  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/s3kixv/salary_range_for_jr_security_analyst_at_bay_area/",
+          "publishedOn": "2022-01-14T05:33:51.000Z",
+          "wordCount": 471,
+          "title": "Salary range for Jr Security Analyst at Bay Area CA"
+        },
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/s3i06w/need_your_suggestion_for_this_scenario_to/",
+          "author": null,
+          "description": "We have a hosted website which has multiple subdomains though about 1000. Recently a security research company started running port scans and this is affecting our website health. With some page going down and the CPU usage crossing threshold.\n Basically we the application is deployed in AKS(k8s) and the backends are behind the Azure Front Door and some subdomains are managed by Global Traffic Manager as well all on Azure.\n Unfortunately we cannot stop these scans however we have been asked to change our design or solution as the port scanner hit every subdomain at the same point which all of them points to a single host and this is causing the issue.\n Need your advice or suggestions on how we can overcome and withstand the port scans without affecting our site. How to load balance this scenario in a much efficient way\n    submitted by    /u/SnooGoats8879  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/s3i06w/need_your_suggestion_for_this_scenario_to/",
+          "publishedOn": "2022-01-14T03:26:27.000Z",
+          "wordCount": 334,
+          "title": "Need your suggestion for this scenario to withstand port scanning"
+        },
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/s3hn31/favourite_cspm/",
+          "author": null,
+          "description": "CSPMs are a must in enterprise environments these days. Based on my initial research, prisma cloud and orca security stand out. \n Are there any specific CSPMs that you'd recommend besides these two?\n    submitted by    /u/DryPath  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/s3hn31/favourite_cspm/",
+          "publishedOn": "2022-01-14T03:08:30.000Z",
+          "wordCount": 296,
+          "title": "Favourite CSPM?"
+        },
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/s3fseh/taken_care_of_the_parents/",
+          "author": null,
+          "description": "I have an odd one and am looking for some advice. My parents are getting on in age and I am looking for a solution to help monitor their phones and give them remote support when they need it. I am going to hook them into my family plan with Lastpass to help them with passwords but is there anything for android that is the equivalent of LogMeIn? Also more of a general question but how do you all care for your parents tech wise? Not sure if I am over stepping my boundaries bud I've already had one family fall prey to a scammer.\n    submitted by    /u/OakenRage  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/s3fseh/taken_care_of_the_parents/",
+          "publishedOn": "2022-01-14T01:42:06.000Z",
+          "wordCount": 347,
+          "title": "Taken care of the parents"
+        },
         {
           "id": "https://www.reddit.com/r/AskNetsec/comments/s3a5hq/spf_record_question/",
           "author": null,
@@ -9856,6 +10189,24 @@
       "siteUrl": "https://www.reddit.com/r/redteamsec/",
       "articles": [
         {
+          "id": "https://www.reddit.com/r/redteamsec/comments/s3x1ay/nim_variant_of_mdsecs_parallel_syscalls_edr_hook/",
+          "author": null,
+          "description": "submitted by    /u/DarkGrejuva  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/redteamsec/comments/s3x1ay/nim_variant_of_mdsecs_parallel_syscalls_edr_hook/",
+          "publishedOn": "2022-01-14T16:56:56.000Z",
+          "wordCount": 117,
+          "title": "Nim variant of MDSec's Parallel Syscalls EDR hook bypass"
+        },
+        {
+          "id": "https://www.reddit.com/r/redteamsec/comments/s3o120/exploit_kits_vs_google_chrome_avast_threat_labs/",
+          "author": null,
+          "description": "submitted by    /u/dmchell  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/redteamsec/comments/s3o120/exploit_kits_vs_google_chrome_avast_threat_labs/",
+          "publishedOn": "2022-01-14T09:09:24.000Z",
+          "wordCount": 119,
+          "title": "Exploit Kits vs. Google Chrome - Avast Threat Labs"
+        },
+        {
           "id": "https://www.reddit.com/r/redteamsec/comments/s2t2qs/wading_through_muddy_waters_recent_activity_of_an/",
           "author": null,
           "description": "submitted by    /u/dmchell  \n [link]   [comments]",
@@ -10770,6 +11121,33 @@
       "siteUrl": "https://www.reddit.com/r/computerforensics/",
       "articles": [
         {
+          "id": "https://www.reddit.com/r/computerforensics/comments/s441fk/autopsy_with_wireshark/",
+          "author": null,
+          "description": "Can you import pcap files from wireshark into Autopsy? is there an expansion to do this?\n    submitted by    /u/swatteam23  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/computerforensics/comments/s441fk/autopsy_with_wireshark/",
+          "publishedOn": "2022-01-14T22:08:42.000Z",
+          "wordCount": 233,
+          "title": "Autopsy with wireshark"
+        },
+        {
+          "id": "https://www.reddit.com/r/computerforensics/comments/s3v2hm/cellebrite_4pc_pc_requirements/",
+          "author": null,
+          "description": "LE that is just about to become my departments first and sole cellebrite user. We are putting a budget together (cellebrite's sales people are annoyingly hard to get in contact with) and we've got our prices ballparked and everything looks good except a computer build. We've talked with 2 other cellebrite users who both said they had to buy a $4-5k desktop build to work efficiently with cellebrite.\n I've built a pc before and have a basic knowledge about them, however I don't get these $4k+ build costs when all that's really necessary is an average build with an intell processor and a decent amount of ram. Besides that I have put in a good chunk of the budget to cover memory and additional hard drives to handle data/evidence. \n Are the other cellebrite users just getting railroaded by vendors selling them over priced pre-built models or is there something more to the build/requirements.\n Any advice would be greatly appreciated.\n    submitted by    /u/crimsontidepride  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/computerforensics/comments/s3v2hm/cellebrite_4pc_pc_requirements/",
+          "publishedOn": "2022-01-14T15:31:17.000Z",
+          "wordCount": 1320,
+          "title": "Cellebrite 4PC PC requirements"
+        },
+        {
+          "id": "https://www.reddit.com/r/computerforensics/comments/s3urfb/secure_storage_identification/",
+          "author": null,
+          "description": "A follow-up to my previous post, can confirm that the premium tools are able to obtain contents of the secure storage. I did find a product that will tell you if secure storage is in use. Wondering if anyone knows how to manually determine whether secure storage is in use besides relying on the product to tell you?\n    submitted by    /u/scrappybytes  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/computerforensics/comments/s3urfb/secure_storage_identification/",
+          "publishedOn": "2022-01-14T15:17:44.000Z",
+          "wordCount": 240,
+          "title": "Secure storage identification"
+        },
+        {
           "id": "https://www.reddit.com/r/computerforensics/comments/s37p7l/avg_tune_up/",
           "author": null,
           "description": "Anybody know what service AVG Tuneup uses to perform a cleanup when the program is executed?\n    submitted by    /u/mikefromjerz  \n [link]   [comments]",
@@ -11289,6 +11667,15 @@
       "feedUrl": "https://www.reddit.com/r/netsec/.rss",
       "siteUrl": "https://www.reddit.com/r/netsec/",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/netsec/comments/s41cvp/a_deep_dive_into_the_grief_ransomwares/",
+          "author": null,
+          "description": "submitted by    /u/CyberMasterV  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/netsec/comments/s41cvp/a_deep_dive_into_the_grief_ransomwares/",
+          "publishedOn": "2022-01-14T20:09:38.000Z",
+          "wordCount": 160,
+          "title": "A Deep Dive into The Grief Ransomware’s Capabilities"
+        },
         {
           "id": "https://www.reddit.com/r/netsec/comments/s3b7q0/propagating_phishing_via_slack_webhooks/",
           "author": null,
@@ -12259,6 +12646,51 @@
       "feedUrl": "https://www.reddit.com/r/opendirectories/.rss",
       "siteUrl": "https://www.reddit.com/r/opendirectories/",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/opendirectories/comments/s43im1/available_calculus_early_transcendentals_ninth/",
+          "author": null,
+          "description": "submitted by    /u/joey-sm  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/opendirectories/comments/s43im1/available_calculus_early_transcendentals_ninth/",
+          "publishedOn": "2022-01-14T21:46:01.000Z",
+          "wordCount": 110,
+          "title": "[available] Calculus: Early Transcendentals Ninth Edition"
+        },
+        {
+          "id": "https://www.reddit.com/r/opendirectories/comments/s42lgk/robs_stuff/",
+          "author": null,
+          "description": "submitted by    /u/PM_ME_TO_PLAY_A_GAME  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/opendirectories/comments/s42lgk/robs_stuff/",
+          "publishedOn": "2022-01-14T21:05:29.000Z",
+          "wordCount": 155,
+          "title": "Rob's stuff"
+        },
+        {
+          "id": "https://www.reddit.com/r/opendirectories/comments/s42bfk/massive_collection_of_music_mostly_not_well_known/",
+          "author": null,
+          "description": "Update: Ok, i did not know the links redirected to Amazon (As i do not download mp3 files usually) What caught my attention was the bands names that i did not know about\n    submitted by    /u/SexRevolutionnow  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/opendirectories/comments/s42bfk/massive_collection_of_music_mostly_not_well_known/",
+          "publishedOn": "2022-01-14T20:52:51.000Z",
+          "wordCount": 308,
+          "title": "Massive collection of music (mostly not well known artists)"
+        },
+        {
+          "id": "https://www.reddit.com/r/opendirectories/comments/s3p93o/photos_of_toronto/",
+          "author": null,
+          "description": "submitted by    /u/PM_ME_TO_PLAY_A_GAME  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/opendirectories/comments/s3p93o/photos_of_toronto/",
+          "publishedOn": "2022-01-14T10:29:28.000Z",
+          "wordCount": 159,
+          "title": "photos of toronto"
+        },
+        {
+          "id": "https://www.reddit.com/r/opendirectories/comments/s3p5x9/bolivian_buses/",
+          "author": null,
+          "description": "submitted by    /u/PM_ME_TO_PLAY_A_GAME  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/opendirectories/comments/s3p5x9/bolivian_buses/",
+          "publishedOn": "2022-01-14T10:23:29.000Z",
+          "wordCount": 173,
+          "title": "Bolivian buses"
+        },
         {
           "id": "https://www.reddit.com/r/opendirectories/comments/s33lsq/index_of_movies_tv_series_and_documentaries_lots/",
           "author": null,
@@ -14415,6 +14847,24 @@
       "feedUrl": "https://medium.com/feed/tag/fuzzing",
       "siteUrl": "https://medium.com/tag/fuzzing/latest?source=rss------fuzzing-5",
       "articles": [
+        {
+          "id": "https://medium.com/p/1d3bef931729",
+          "author": "Hamit CİBO",
+          "description": "Greetings from Constantinople to all,\nContinue reading on Medium »",
+          "link": "https://hcibo.medium.com/my-pentest-log-2-1d3bef931729?source=rss------fuzzing-5",
+          "publishedOn": "2022-01-14T15:19:16.000Z",
+          "wordCount": 292,
+          "title": "My Pentest Log -2-"
+        },
+        {
+          "id": "https://medium.com/p/de341a251b2e",
+          "author": "Symflower",
+          "description": "Last month, the Go language team released the Go 1.18 Beta 1. It contains the much awaited generic support, which we’re very excited to…\nContinue reading on Medium »",
+          "link": "https://medium.com/@symflower/go-1-18-native-fuzzing-and-dinosaurs-de341a251b2e?source=rss------fuzzing-5",
+          "publishedOn": "2022-01-14T12:33:43.000Z",
+          "wordCount": 1154,
+          "title": "Go 1.18 — native Fuzzing and Dinosaurs"
+        },
         {
           "id": "https://medium.com/p/4c67b76ab5b6",
           "author": "Mücahit Saratar",
