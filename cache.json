@@ -6,6 +6,15 @@
       "siteUrl": "http://h1.nobbd.de/",
       "articles": [
         {
+          "id": "https://hackerone.com/reports/1102764",
+          "author": null,
+          "description": "Slack disclosed a bug submitted by jub0bs: https://hackerone.com/reports/1102764 - Bounty: $1000",
+          "link": "https://hackerone.com/reports/1102764",
+          "publishedOn": "2022-01-16T07:48:02.000Z",
+          "wordCount": 25,
+          "title": "Lack of URL normalization renders Blocked-Previews feature ineffectual"
+        },
+        {
           "id": "https://hackerone.com/reports/998138",
           "author": null,
           "description": "Lark Technologies disclosed a bug submitted by imran_nisar: https://hackerone.com/reports/998138 - Bounty: $500",
@@ -2026,6 +2035,60 @@
       "feedUrl": "https://medium.com/feed/tag/bugbounty",
       "siteUrl": "https://medium.com/tag/bugbounty/latest?source=rss------bugbounty-5",
       "articles": [
+        {
+          "id": "https://medium.com/p/db4954b52740",
+          "author": "Vaibhav Kumar Srivastava",
+          "description": "Hey Everyone! This is about another low-hanging fruit (I’m still not a pro) in one of the web applications listed by OpenBugbounty.\nContinue reading on Medium »",
+          "link": "https://codewithvamp.medium.com/bug-type-html-injection-in-confirmation-email-db4954b52740?source=rss------bugbounty-5",
+          "publishedOn": "2022-01-16T14:35:16.000Z",
+          "wordCount": 521,
+          "title": "Bug Type: HTML injection in confirmation Email !"
+        },
+        {
+          "id": "https://medium.com/p/af6c5bb2907e",
+          "author": "Techwithabett",
+          "description": "When a system is under attack, Most of people think it as a one-time transfer. when a hacker finds a way to enter into the system, he…\nContinue reading on Medium »",
+          "link": "https://medium.com/@techwithabett/advanced-persistent-threat-apt-af6c5bb2907e?source=rss------bugbounty-5",
+          "publishedOn": "2022-01-16T13:51:51.000Z",
+          "wordCount": 269,
+          "title": "Advanced persistent threat (APT)"
+        },
+        {
+          "id": "https://medium.com/p/4cf7a15d6877",
+          "author": "ViCKY KE",
+          "description": "One of the most crucial Vulnerabilities listed in top 10 of OWASP is Insecure Direct Object Reference Vulnerability (IDOR Vulnerability)…\nContinue reading on Medium »",
+          "link": "https://medium.com/@dumaresqjack1/wtf-is-idor-4cf7a15d6877?source=rss------bugbounty-5",
+          "publishedOn": "2022-01-16T13:22:11.000Z",
+          "wordCount": 980,
+          "title": "WTF IS IDOR!?"
+        },
+        {
+          "id": "https://medium.com/p/115039117a5d",
+          "author": "Mukilan Baskaran",
+          "description": "Writeup\nContinue reading on InfoSec Write-ups »",
+          "link": "https://infosecwriteups.com/authentication-bypass-tryhackme-115039117a5d?source=rss------bugbounty-5",
+          "publishedOn": "2022-01-16T11:14:28.000Z",
+          "wordCount": 599,
+          "title": "Authentication Bypass -TryHackMe"
+        },
+        {
+          "id": "https://medium.com/p/5800b5ab834c",
+          "author": "Vikas Anand",
+          "description": "Hello Readers,\nContinue reading on Medium »",
+          "link": "https://kingcoolvikas.medium.com/how-i-was-able-to-see-sensitive-information-on-one-of-the-indias-best-school-website-5800b5ab834c?source=rss------bugbounty-5",
+          "publishedOn": "2022-01-16T10:45:58.000Z",
+          "wordCount": 557,
+          "title": "How i was able to see Sensitive Information on One of the India’s best School Website."
+        },
+        {
+          "id": "https://medium.com/p/365e4c00d730",
+          "author": "Takshil Patil",
+          "description": "Below is a flow diagram based on my experience on how you should start your bug bounty journey. Irrespective of your technical background…\nContinue reading on Medium »",
+          "link": "https://takshil-patil529.medium.com/beginner-bug-bounty-guide-365e4c00d730?source=rss------bugbounty-5",
+          "publishedOn": "2022-01-16T05:09:09.000Z",
+          "wordCount": 108,
+          "title": "Beginner Bug Bounty Guide"
+        },
         {
           "id": "https://medium.com/p/9143fc5febdd",
           "author": "Mr Robert | Ahmed M Hassan",
@@ -4361,6 +4424,33 @@
       "siteUrl": "https://medium.com/tag/osint/latest?source=rss------osint-5",
       "articles": [
         {
+          "id": "https://medium.com/p/5e148e4eea0",
+          "author": "Tushar Suryawanshi",
+          "description": "➢ Dark Web Scraping & Tools\nContinue reading on Medium »",
+          "link": "https://medium.com/@tushar_rs_/dark-web-scraping-by-osint-scraping-tools-5e148e4eea0?source=rss------osint-5",
+          "publishedOn": "2022-01-16T13:35:44.000Z",
+          "wordCount": 1448,
+          "title": "Dark Web Scraping by OSINT - Scraping & Tools"
+        },
+        {
+          "id": "https://medium.com/p/ca28d519907c",
+          "author": "Tushar Suryawanshi",
+          "description": "➢ History of the Dark Web\nContinue reading on Medium »",
+          "link": "https://medium.com/@tushar_rs_/dark-web-scraping-by-osint-darknet-tor-ca28d519907c?source=rss------osint-5",
+          "publishedOn": "2022-01-16T13:32:41.000Z",
+          "wordCount": 1271,
+          "title": "Dark Web Scraping by OSINT - Darknet & TOR"
+        },
+        {
+          "id": "https://medium.com/p/44138ee06b94",
+          "author": "Tushar Suryawanshi",
+          "description": "➢ What is OSINT?\nContinue reading on Medium »",
+          "link": "https://medium.com/@tushar_rs_/dark-web-scraping-by-osint-osint-hidden-internet-44138ee06b94?source=rss------osint-5",
+          "publishedOn": "2022-01-16T13:29:45.000Z",
+          "wordCount": 611,
+          "title": "Dark Web Scraping by OSINT - OSINT & Hidden Internet"
+        },
+        {
           "id": "https://medium.com/p/4a4c8c2b4f64",
           "author": "Steve Micallef",
           "description": "For the past ten years, I’ve been building a popular open source project. Here are the lessons I’ve learned along the way.\nContinue reading on Medium »",
@@ -6344,6 +6434,24 @@
       "feedUrl": "https://www.freebuf.com/feed",
       "siteUrl": "https://www.freebuf.com",
       "articles": [
+        {
+          "id": "https://www.freebuf.com/news/319793.html",
+          "author": null,
+          "description": "中国网络安全产业联盟发布了《中国网络安全产业分析报告（2021年）》，预测未来三年，网络安全市场将保持15%以上的增速，到2023年市场规模将超过800亿元。",
+          "link": "https://www.freebuf.com/news/319793.html",
+          "publishedOn": "2022-01-16T08:23:00.000Z",
+          "wordCount": 264,
+          "title": "FreeBuf早报 | 未来三年中国网安市场将保持15%以上增速；Linux 恶意软件在 2021 年增长 35%"
+        },
+        {
+          "id": "https://www.freebuf.com/news/319784.html",
+          "author": null,
+          "description": "乌克兰警方逮捕了五名网络犯罪分子，据悉，该团伙使用勒索软件袭击了约50家美国和欧洲企业。",
+          "link": "https://www.freebuf.com/news/319784.html",
+          "publishedOn": "2022-01-14T08:07:36.000Z",
+          "wordCount": 155,
+          "title": "乌克兰警方成功逮捕袭击 50 多家公司的勒索软件团伙"
+        },
         {
           "id": "https://www.freebuf.com/fevents/319782.html",
           "author": null,
@@ -8438,6 +8546,24 @@
       "siteUrl": "http://www.sec-wiki.com/",
       "articles": [
         {
+          "id": "http://www.sec-wiki.com/?2022-01-16",
+          "author": null,
+          "description": "安全学术会议排行榜（2021版）  by ourren\nGraph Embedding实战系列：Node2vec原理与代码实战  by ourren\n初识WebAssembly  by ourren\n现代网络犯罪模式解读  by ourren\n更多最新文章，请访问SecWiki",
+          "link": "http://www.sec-wiki.com/?2022-01-16",
+          "publishedOn": "2022-01-16T15:58:20.000Z",
+          "wordCount": 594,
+          "title": "SecWiki News 2022-01-16 Review"
+        },
+        {
+          "id": "http://www.sec-wiki.com/?2022-01-15",
+          "author": null,
+          "description": "端到端模型在人员流失预警场景的实践  by ourren\n互联网领域黑产常见攻击手法初探  by ourren\nZeek - Detect Godzilla WebShell  by ourren\n云防火墙产品的演进思路  by ourren\nMSF+生成流量免杀木马  by ourren\n剖析海莲花组织恶意文件定制化策略  by ourren\nr3kapig技能栈1.0  by ourren\nX通信息安全培训体系建设  by ourren\nATT&CK Techniques to Security Events  by ourren\n更多最新文章，请访问SecWiki",
+          "link": "http://www.sec-wiki.com/?2022-01-15",
+          "publishedOn": "2022-01-15T15:58:20.000Z",
+          "wordCount": null,
+          "title": "SecWiki News 2022-01-15 Review"
+        },
+        {
           "id": "http://www.sec-wiki.com/?2022-01-14",
           "author": null,
           "description": "今日暂未更新资讯~\n更多最新文章，请访问SecWiki",
@@ -8741,6 +8867,60 @@
       "feedUrl": "https://www.reddit.com/r/asknetsec/.rss",
       "siteUrl": "https://www.reddit.com/r/asknetsec/",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/s5nnbe/how_do_cryptocurrency_exchanges_like_coinbase/",
+          "author": null,
+          "description": "Referring specifically to applications like Evilginx that create fake log in pages and collect session cookies.\n A session cookie is what the website gives you after you complete signing in (username + password + 2FA) to remember that you did. The tool collects this cookie and passes it to the hacker if you're foolosh enough to use their fake log in page.\n Do Coinbase, Binance, etc have any protections in place to defend against this?\n Inb4 don't be stupid: some people are stupid. They deserve to not be robbed.\n    submitted by    /u/iExtrapolate314  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/s5nnbe/how_do_cryptocurrency_exchanges_like_coinbase/",
+          "publishedOn": "2022-01-16T22:38:40.000Z",
+          "wordCount": 552,
+          "title": "How do cryptocurrency exchanges like Coinbase defend against man in the middle attacks (MItM)?"
+        },
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/s5ljjy/just_completed_my_securitywhats_should_i_do_next/",
+          "author": null,
+          "description": "Just completed my Security+ and not sure what I should do next.Interested more in Blue team than red team.\n    submitted by    /u/Linux98  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/s5ljjy/just_completed_my_securitywhats_should_i_do_next/",
+          "publishedOn": "2022-01-16T21:03:54.000Z",
+          "wordCount": 328,
+          "title": "Just completed my Security+.What's should I do next"
+        },
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/s5dvyx/facebook_lite_app_whitehat_settings_guide/",
+          "author": null,
+          "description": "Hi, I'm trying to follow Facebook guide to intercept Facebook lite android application which uses binary protocol instead of http. I'm using burp on linux.\n The section is called \"Enable settings from Facebook Lite on Android\" https://www.facebook.com/whitehat/education/testing-guides\n I'm stuck with NoPE Proxy extension which intercept traffic.\n The enable checkbox can't be checked, even if I launched burp as root. https://i.ibb.co/1TN0jgz/1.png\n In wireshark I get, port unreachable after I set my phone dns to my machine IP as mentioned in fb guide. https://i.ibb.co/q0vfStt/2.png\n Help, please! I want to intercept Facebook lite android application traffic !\n    submitted by    /u/Spare_Prize1148  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/s5dvyx/facebook_lite_app_whitehat_settings_guide/",
+          "publishedOn": "2022-01-16T15:15:53.000Z",
+          "wordCount": 198,
+          "title": "Facebook lite app whitehat settings guide"
+        },
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/s59zr0/information_security_analyst_questions/",
+          "author": null,
+          "description": "Is Information Security Analyst the same as Cyber Security?\n Can I work in Information Security and be Information Security Analyst with bachelor IT degree plus certifications?\n Can I work in Cyber Security field and be Cyber Security with bachelor IT plus certifications?\n Can I get into Information Security Analyst and/or Cyber Security field without a degree at all?\n What certifications you guys recommend? I am thinking doing CompTIA Security+, but first I need to get training going: https://www.comptia.org/training/by-certification/security\n What is your salary, experience year, and state?\n Anyone live in FL and doing Information Security Analyst can give me insight of this job market situation in FL. Is it bad? How is the pay?\n What do you do in this field? Is it hard? Is this career good though? \n  \n   submitted by    /u/OlympicAnalEater  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/s59zr0/information_security_analyst_questions/",
+          "publishedOn": "2022-01-16T11:29:04.000Z",
+          "wordCount": 757,
+          "title": "Information Security Analyst questions"
+        },
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/s59reb/endpoint_security_confusion/",
+          "author": null,
+          "description": "I have heard a lot of fuss going around regarding endpoint security. Having a background in IT development, I figured that this is what was meant:\n Https://somepage.com /login.php <--- endpoint \n But after a little bit of googling it sounds like it has nothing to do with endpoints. Could somebody explain this to me? Or what to search for?\n    submitted by    /u/kusichta  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/s59reb/endpoint_security_confusion/",
+          "publishedOn": "2022-01-16T11:13:06.000Z",
+          "wordCount": 493,
+          "title": "Endpoint security confusion"
+        },
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/s51b89/do_you_include_cves_on_your_resume/",
+          "author": null,
+          "description": "If you have “accredited” CVEs how do you list them on your resume? Do you link to the NIST website or to a security advisory with your name in it? Thoughts?\n    submitted by    /u/BadCSCareerQuestions  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/s51b89/do_you_include_cves_on_your_resume/",
+          "publishedOn": "2022-01-16T02:37:08.000Z",
+          "wordCount": 297,
+          "title": "Do you include CVEs on your resume?"
+        },
         {
           "id": "https://www.reddit.com/r/AskNetsec/comments/s4qjpk/need_your_ideas_for_my_masters_year_project/",
           "author": null,
@@ -10297,6 +10477,15 @@
       "siteUrl": "https://www.reddit.com/r/redteamsec/",
       "articles": [
         {
+          "id": "https://www.reddit.com/r/redteamsec/comments/s56ih8/cerbersecares_project_ares_is_a_proof_of_concept/",
+          "author": null,
+          "description": "submitted by    /u/dmchell  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/redteamsec/comments/s56ih8/cerbersecares_project_ares_is_a_proof_of_concept/",
+          "publishedOn": "2022-01-16T07:29:10.000Z",
+          "wordCount": 147,
+          "title": "Cerbersec/Ares: Project Ares is a Proof of Concept (PoC) loader written in C/C++ based on the Transacted Hollowing technique"
+        },
+        {
           "id": "https://www.reddit.com/r/redteamsec/comments/s4syhp/breadman_module_stomping_api_unhooking_using/",
           "author": null,
           "description": "submitted by    /u/dmchell  \n [link]   [comments]",
@@ -10916,6 +11105,15 @@
       "siteUrl": "https://www.reddit.com/r/exploitdev/",
       "articles": [
         {
+          "id": "https://www.reddit.com/r/ExploitDev/comments/s54r2h/are_there_examples_where_two_apps_together_on_a/",
+          "author": null,
+          "description": "I'm looking for examples where the interplay between two apps led to a vulnerability which wouldn't exist if either of these apps were present alone. I can think of a contrived ways on paper where something like this could happen, e.g.\n App A creates what it thinks is a uniquely named file and places it somewhere common. App B uses that same file name + path and does limited/no checking that it's created by App B and not another app and leads to undesirable effects. (One could argue this is a vulnerability in App B by itself but)\n But are there actually examples where something like this has happened? Someone's banking app is compromised because they also have the Delta app on their phone, etc. etc.\n Thanks for satiating my curiosity.\n    submitted by    /u/CorbinGDawg69  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/ExploitDev/comments/s54r2h/are_there_examples_where_two_apps_together_on_a/",
+          "publishedOn": "2022-01-16T05:40:32.000Z",
+          "wordCount": 262,
+          "title": "Are there examples where two apps together on a device introduced a vulnerability where neither alone necessarily would?"
+        },
+        {
           "id": "https://www.reddit.com/r/ExploitDev/comments/s2cix0/where_can_i_learn_windows_binary_exploitation/",
           "author": null,
           "description": "submitted by    /u/wlo1337  \n [link]   [comments]",
@@ -11237,6 +11435,15 @@
       "feedUrl": "https://www.reddit.com/r/computerforensics/.rss",
       "siteUrl": "https://www.reddit.com/r/computerforensics/",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/computerforensics/comments/s5gt0f/digital_forensics_investigation_vs_security/",
+          "author": null,
+          "description": "submitted by    /u/Apprehensive_Gap6036  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/computerforensics/comments/s5gt0f/digital_forensics_investigation_vs_security/",
+          "publishedOn": "2022-01-16T17:32:43.000Z",
+          "wordCount": 168,
+          "title": "Digital forensics: Investigation VS Security"
+        },
         {
           "id": "https://www.reddit.com/r/computerforensics/comments/s441fk/autopsy_with_wireshark/",
           "author": null,
@@ -11784,6 +11991,24 @@
       "feedUrl": "https://www.reddit.com/r/netsec/.rss",
       "siteUrl": "https://www.reddit.com/r/netsec/",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/netsec/comments/s5io9l/youre_running_untrusted_code/",
+          "author": null,
+          "description": "submitted by    /u/nfrankel  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/netsec/comments/s5io9l/youre_running_untrusted_code/",
+          "publishedOn": "2022-01-16T18:57:34.000Z",
+          "wordCount": 206,
+          "title": "You're running untrusted code!"
+        },
+        {
+          "id": "https://www.reddit.com/r/netsec/comments/s55c88/free_copy_of_the_ssh_plumbers_handbook/",
+          "author": null,
+          "description": "submitted by    /u/markcartertm  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/netsec/comments/s55c88/free_copy_of_the_ssh_plumbers_handbook/",
+          "publishedOn": "2022-01-16T06:14:16.000Z",
+          "wordCount": 475,
+          "title": "Free copy of The ssh Plumber's Handbook"
+        },
         {
           "id": "https://www.reddit.com/r/netsec/comments/s4nyur/indexeddb_in_safari_15_leaks_your_browsing/",
           "author": null,
@@ -12790,6 +13015,33 @@
       "feedUrl": "https://www.reddit.com/r/opendirectories/.rss",
       "siteUrl": "https://www.reddit.com/r/opendirectories/",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/opendirectories/comments/s5pvco/the_chiptune_archive_is_back/",
+          "author": null,
+          "description": "Hey all, it's been a long time. I had my chiptune archive brought down because of the domain, and now it's back, under my own domain. The link is https://chiparchive.com/files if you all want to talk to me on twitter. It's https://twitter.com/thechiptunearc1\n    submitted by    /u/jreina2002  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/opendirectories/comments/s5pvco/the_chiptune_archive_is_back/",
+          "publishedOn": "2022-01-17T00:19:38.000Z",
+          "wordCount": 143,
+          "title": "The chiptune archive is back!"
+        },
+        {
+          "id": "https://www.reddit.com/r/opendirectories/comments/s591bm/diy_wood_chippers/",
+          "author": null,
+          "description": "submitted by    /u/PM_ME_TO_PLAY_A_GAME  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/opendirectories/comments/s591bm/diy_wood_chippers/",
+          "publishedOn": "2022-01-16T10:24:07.000Z",
+          "wordCount": 161,
+          "title": "DIY wood chippers"
+        },
+        {
+          "id": "https://www.reddit.com/r/opendirectories/comments/s558v3/i_couldnt_think_of_a_title_so_here_is_a_start_a/",
+          "author": null,
+          "description": "submitted by    /u/Yankeeslv  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/opendirectories/comments/s558v3/i_couldnt_think_of_a_title_so_here_is_a_start_a/",
+          "publishedOn": "2022-01-16T06:09:03.000Z",
+          "wordCount": 362,
+          "title": "I couldn't think of a title so here is a start a long long of music..Feeling sublime? Dont be a tool.I have the cure, If you go three doors down you might see some bare naked ladies!"
+        },
         {
           "id": "https://www.reddit.com/r/opendirectories/comments/s4f65g/science_books_papers/",
           "author": null,
@@ -14728,6 +14980,15 @@
       "feedUrl": "https://www.hackingarticles.in/feed/",
       "siteUrl": "https://www.hackingarticles.in",
       "articles": [
+        {
+          "id": "https://www.hackingarticles.in/?p=27692",
+          "author": "Raj Chandel",
+          "description": "Introduction Previse is a CTF Linux box with difficulty rated as “easy” on the HackTheBox platform. The machine covers bypassing access control, OS command injection,\nThe post Previse HackTheBox Walkthrough appeared first on Hacking Articles.",
+          "link": "https://www.hackingarticles.in/previse-hackthebox-walkthrough/",
+          "publishedOn": "2022-01-16T18:36:39.000Z",
+          "wordCount": 1403,
+          "title": "Previse HackTheBox Walkthrough"
+        },
         {
           "id": "https://www.hackingarticles.in/?p=27685",
           "author": "Raj Chandel",
