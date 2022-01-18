@@ -2,10 +2,546 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cod3crash.github.io/sec-feed/index.html</id>
     <title>security feed</title>
-    <updated>2022-01-17T01:11:37.367Z</updated>
+    <updated>2022-01-18T01:12:18.311Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://cod3crash.github.io/sec-feed/index.html"/>
     <link rel="self" href="https://cod3crash.github.io/sec-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Rust vs. C: How are vulnerabilities different? An analysis on the vulnerabilities in the two programming languages and what to look for.]]></title>
+        <id>https://www.reddit.com/r/ExploitDev/comments/s6k9ui/rust_vs_c_how_are_vulnerabilities_different_an/</id>
+        <link href="https://www.reddit.com/r/ExploitDev/comments/s6k9ui/rust_vs_c_how_are_vulnerabilities_different_an/"/>
+        <updated>2022-01-18T01:00:25.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/ragnarsecurity  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Exploit Development</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Is Google Authenticator impenetrable?]]></title>
+        <id>https://www.reddit.com/r/AskNetsec/comments/s6huij/is_google_authenticator_impenetrable/</id>
+        <link href="https://www.reddit.com/r/AskNetsec/comments/s6huij/is_google_authenticator_impenetrable/"/>
+        <updated>2022-01-17T23:09:22.000Z</updated>
+        <summary type="html"><![CDATA[Title is hyperbole obviously.
+ Out of different 2FA methods
+ SMS was weak because you could get sim swapped
+ Authy was weak because a hacker could switch it to their phone if they could get into your email.
+ GA can't be moved from phone to phone so it can't be taken over by hacker who gets access to your sim card and email.
+ My impression is that any account protected by GA is safe. Why is this wrong?
+    submitted by    /u/iExtrapolate314  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>AskNetsec</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is "round tripping" in HTML/GO?]]></title>
+        <id>https://www.reddit.com/r/AskNetsec/comments/s6h4qh/what_is_round_tripping_in_htmlgo/</id>
+        <link href="https://www.reddit.com/r/AskNetsec/comments/s6h4qh/what_is_round_tripping_in_htmlgo/"/>
+        <updated>2022-01-17T22:39:03.000Z</updated>
+        <summary type="html"><![CDATA[ELI5 if you can.
+ I'm leaning so much from you guys! Thank you!
+    submitted by    /u/iExtrapolate314  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>AskNetsec</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Newly created InfoSec role within IT department - what should I be doing to get it right?]]></title>
+        <id>https://www.reddit.com/r/AskNetsec/comments/s6gt8k/newly_created_infosec_role_within_it_department/</id>
+        <link href="https://www.reddit.com/r/AskNetsec/comments/s6gt8k/newly_created_infosec_role_within_it_department/"/>
+        <updated>2022-01-17T22:25:10.000Z</updated>
+        <summary type="html"><![CDATA[Hello AskNetSec! I'm not sure how else to word the title, so hopefully it's acceptable. Basically, I have been working in different facets of IT for 14 years. My current role is within IT operations as a systems engineer, but it's possibly evolving to be the first true role with an official information security component within the IT department at my company. I'm excited because I've always enjoyed the security aspects of my roles over my career, and my formal education was focused on information security. However, I recognize that I have no formal work experience in a security-specific role, and as such I feel like I'm "winging it".
+ I don't really know what a formalized incident response looks like within an established security department. I don't know what tools I have at my disposal, or should have at my disposal, to do my job effectively. I also realize that I may be overthinking it. But truthfully, I have no point of reference.
+ So I come to you all and ask for some opinions and insights to navigate as the sole person with these newly added responsibilities that I would liken to a security analyst, and do so in a way that makes sense and is effective. I'm happy to do my own reading and self-learning (I have access to PluralSight, if that would be useful), but also hoping maybe someone with experience can give some practical pointers and/or high-level procedural advice since I will likely be shaping this new role in coordination with my management.
+ Thank you all in advance!
+ Edited because my brain moved faster than my fingers could type :(
+    submitted by    /u/unseenspecter  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>AskNetsec</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lots of movies and TV shows in the "disk" folders, download speed is decent]]></title>
+        <id>https://www.reddit.com/r/opendirectories/comments/s6g5a4/lots_of_movies_and_tv_shows_in_the_disk_folders/</id>
+        <link href="https://www.reddit.com/r/opendirectories/comments/s6g5a4/lots_of_movies_and_tv_shows_in_the_disk_folders/"/>
+        <updated>2022-01-17T21:58:07.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/feelingsupersonic  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Open Directories</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to create a rule that allows only one country with ModSecurity]]></title>
+        <id>https://www.reddit.com/r/AskNetsec/comments/s6foh4/how_to_create_a_rule_that_allows_only_one_country/</id>
+        <link href="https://www.reddit.com/r/AskNetsec/comments/s6foh4/how_to_create_a_rule_that_allows_only_one_country/"/>
+        <updated>2022-01-17T21:39:19.000Z</updated>
+        <summary type="html"><![CDATA[Hi all, Does anyone know how to write a rule for ModSecurity to only allow access to a website from one country? I'm currently using this rule:
+ SecGeoLookupDb /usr/share/GeoIP/GeoIP.dat SecRule REMOTE_ADDR "@geoLookup" "chain,id:22,drop,msg:'Non-GB IP address'" SecRule GEO:COUNTRY_CODE "!@streq GB" 
+ Which is save in the rules directory as:
+ modsecurity_crs_15_customrules.conf 
+ And I have also changed the owner of /usr/share/GeoIP/GeoIP.dat http for nginx. But the website is still getting traffic from outside of UK. Any help and pointers would be greatly appreciated.
+    submitted by    /u/Rurisk89  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>AskNetsec</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Critical XSS in chrome extension]]></title>
+        <id>https://medium.com/p/b55757a2074</id>
+        <link href="https://medium.com/@p3rr0x22/critical-xss-in-chrome-extension-b55757a2074?source=rss------bugbounty-5"/>
+        <updated>2022-01-17T21:00:57.000Z</updated>
+        <summary type="html"><![CDATA[Chrome extensions have a feature to inject content scripts containing JavaScript code in a web page. By using the standard Document Object…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>p3rr0</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SSRF & Blind XSS in Gravatar email]]></title>
+        <id>https://hackerone.com/reports/1100096</id>
+        <link href="https://hackerone.com/reports/1100096"/>
+        <updated>2022-01-17T20:44:56.000Z</updated>
+        <summary type="html"><![CDATA[Automattic disclosed a bug submitted by rockybandana: https://hackerone.com/reports/1100096 - Bounty: $750]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Registry Analysis - The "Why"]]></title>
+        <id>tag:blogger.com,1999:blog-9518042.post-8285456227886655548</id>
+        <link href="http://windowsir.blogspot.com/2022/01/registry-analysis-why.html"/>
+        <updated>2022-01-17T19:44:00.000Z</updated>
+        <summary type="html"><![CDATA[Why is Registry analysis important?
+The Windows Registry, in part, controls a good bit of the functionality of a Windows system. As such, Registry analysis can help you understand why you're seeing something, or why you're not seeing something, as the case may be.
+
+
+For example, Registry "settings" (i.e., keys, values, or combinations) can be/have been used to disable Windows Event Logs, enable or disable auditing (the content that goes into the Windows Event Log), disable access to security tools, enable or disable other functionality on Windows systems, etc. The Registry can be used to enable or disable application prefetching, which produces artifacts very commonly used by forensic analysts and incident responders.
+
+
+Most analysts are aware that, particularly with respect to the file sy…]]></summary>
+        <author>
+            <name>noreply@blogger.com (Unknown)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Analyzing Binaries with Radare2]]></title>
+        <id>https://www.reddit.com/r/redteamsec/comments/s6cgdp/analyzing_binaries_with_radare2/</id>
+        <link href="https://www.reddit.com/r/redteamsec/comments/s6cgdp/analyzing_binaries_with_radare2/"/>
+        <updated>2022-01-17T19:27:12.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/DLLCoolJ  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Red Team Security</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: InternetDB API – Fast IP Lookups for Port and Vulnerability Information]]></title>
+        <id>https://news.ycombinator.com/item?id=29970480</id>
+        <link href="https://internetdb.shodan.io"/>
+        <updated>2022-01-17T19:11:31.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://internetdb.shodan.io
+Comments URL: https://news.ycombinator.com/item?id=29970480
+Points: 2
+# Comments: 0]]></summary>
+        <author>
+            <name>achillean</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Capturing RDP NetNTLMv2 Hashes: Attack details and a Technical How-To Guide - GoSecure]]></title>
+        <id>https://www.reddit.com/r/netsec/comments/s6bo98/capturing_rdp_netntlmv2_hashes_attack_details_and/</id>
+        <link href="https://www.reddit.com/r/netsec/comments/s6bo98/capturing_rdp_netntlmv2_hashes_attack_details_and/"/>
+        <updated>2022-01-17T18:55:59.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/obilodeau  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>/r/netsec - Information Security News &amp; Discussion</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bug Bounty Hunting]]></title>
+        <id>https://medium.com/p/14add8107ab</id>
+        <link href="https://medium.com/@mfirefox491/bug-bounty-hunting-14add8107ab?source=rss------bugbounty-5"/>
+        <updated>2022-01-17T17:59:45.000Z</updated>
+        <summary type="html"><![CDATA[You might wonder what this bug bounty hunting is. Is it hunting bugs or what? Well certainly its you hunting down bugs but not the ones we…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Mozilla Firefox club VIT-Bhopal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Day 14, Set Up Environment for Pentesting #100DaysofHacking]]></title>
+        <id>https://medium.com/p/f8069e91fcd2</id>
+        <link href="https://infosecwriteups.com/day-14-set-up-environment-for-pentesting-100daysofhacking-f8069e91fcd2?source=rss------bugbounty-5"/>
+        <updated>2022-01-17T17:04:54.000Z</updated>
+        <summary type="html"><![CDATA[Get all the writeups from Day 1 to 13, Click Here Or Click Here.
+Continue reading on InfoSec Write-ups »]]></summary>
+        <author>
+            <name>Ayush Verma</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Same-origin violation vulnerability in Safari 15 could leak a user’s website]]></title>
+        <id>https://news.ycombinator.com/item?id=29968460</id>
+        <link href="https://portswigger.net/daily-swig/same-origin-violation-vulnerability-in-safari-15-could-leak-a-users-website-history-and-identity"/>
+        <updated>2022-01-17T16:47:25.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://portswigger.net/daily-swig/same-origin-violation-vulnerability-in-safari-15-could-leak-a-users-website-history-and-identity
+Comments URL: https://news.ycombinator.com/item?id=29968460
+Points: 37
+# Comments: 13]]></summary>
+        <author>
+            <name>feross</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IDOR leads to 2fa Bypass]]></title>
+        <id>https://medium.com/p/3331cec2db64</id>
+        <link href="https://medium.com/@arthbajpai277/idor-leads-to-2fa-bypass-3331cec2db64?source=rss------bugbounty-5"/>
+        <updated>2022-01-17T16:46:32.000Z</updated>
+        <summary type="html"><![CDATA[Hello Everyone my name is Arth Bajpai and , I’m back with my another writeup
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Arth Bajpai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Algorithms for software testing]]></title>
+        <id>https://www.reddit.com/r/ExploitDev/comments/s67xpz/algorithms_for_software_testing/</id>
+        <link href="https://www.reddit.com/r/ExploitDev/comments/s67xpz/algorithms_for_software_testing/"/>
+        <updated>2022-01-17T16:25:46.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/WillyRaezer  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Exploit Development</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Attacking RDP from Inside: How we abused named pipes for smart-card hijacking, unauthorized file system access to client machines and more]]></title>
+        <id>https://www.reddit.com/r/redteamsec/comments/s67ctt/attacking_rdp_from_inside_how_we_abused_named/</id>
+        <link href="https://www.reddit.com/r/redteamsec/comments/s67ctt/attacking_rdp_from_inside_how_we_abused_named/"/>
+        <updated>2022-01-17T16:01:49.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/dmchell  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Red Team Security</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SecWiki News 2022-01-17 Review]]></title>
+        <id>http://www.sec-wiki.com/?2022-01-17</id>
+        <link href="http://www.sec-wiki.com/?2022-01-17"/>
+        <updated>2022-01-17T15:58:20.000Z</updated>
+        <summary type="html"><![CDATA[Yasso: 强大的内网渗透辅助工具集  by ourren
+SecWiki周刊（第411期)  by ourren
+中国（大陆）虚拟货币犯罪形态分析报告-2021年度  by ourren
+更多最新文章，请访问SecWiki]]></summary>
+        <author>
+            <name>SecWiki News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DailyBugle TryHackMe Walkthrough]]></title>
+        <id>https://www.hackingarticles.in/?p=27695</id>
+        <link href="https://www.hackingarticles.in/dailybugle-tryhackme-walkthrough/"/>
+        <updated>2022-01-17T14:28:41.000Z</updated>
+        <summary type="html"><![CDATA[Introduction DailyBugle is a CTF Linux box with difficulty rated as “medium” on the TryHackMe platform. The machine covers Joomla 3.7.0 SQL injection vulnerability and
+The post DailyBugle TryHackMe Walkthrough appeared first on Hacking Articles.]]></summary>
+        <author>
+            <name>Raj Chandel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Domain Persistence – Machine Account]]></title>
+        <id>https://www.reddit.com/r/redteamsec/comments/s64wc4/domain_persistence_machine_account/</id>
+        <link href="https://www.reddit.com/r/redteamsec/comments/s64wc4/domain_persistence_machine_account/"/>
+        <updated>2022-01-17T14:11:36.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/netbiosX  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Red Team Security</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Domain Persistence – Machine Account]]></title>
+        <id>https://www.reddit.com/r/netsec/comments/s64vyt/domain_persistence_machine_account/</id>
+        <link href="https://www.reddit.com/r/netsec/comments/s64vyt/domain_persistence_machine_account/"/>
+        <updated>2022-01-17T14:11:09.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/netbiosX  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>/r/netsec - Information Security News &amp; Discussion</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PORTSWIGGER WEB SECURITY - SQL INJECTION LAB ÇÖZÜMLERİ]]></title>
+        <id>https://medium.com/p/556a81c53dd5</id>
+        <link href="https://ariarif.medium.com/portswigger-web-security-sql-injection-lab-%C3%A7%C3%B6z%C3%BCmleri%CC%87-556a81c53dd5?source=rss------bugbounty-5"/>
+        <updated>2022-01-17T13:44:06.000Z</updated>
+        <summary type="html"><![CDATA[PortSwigger Web Security, web güvenliği zafiyetlerini barındıran, Owasp top 10 zafiyetlerinin yer aldığı laboratuvarlardan oluşan bir web…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Arif ARI</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Android Application Malware Analysis]]></title>
+        <id>https://www.reddit.com/r/computerforensics/comments/s636eo/android_application_malware_analysis/</id>
+        <link href="https://www.reddit.com/r/computerforensics/comments/s636eo/android_application_malware_analysis/"/>
+        <updated>2022-01-17T12:41:34.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/Apprehensive_Gap6036  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Computer Forensics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Browser Extension for Saving Images As While Browsing]]></title>
+        <id>https://www.reddit.com/r/opendirectories/comments/s62ope/browser_extension_for_saving_images_as_while/</id>
+        <link href="https://www.reddit.com/r/opendirectories/comments/s62ope/browser_extension_for_saving_images_as_while/"/>
+        <updated>2022-01-17T12:15:01.000Z</updated>
+        <summary type="html"><![CDATA[Before you tell me to just shill for a VPS, run a crawler and some scripts; I would like to offer some insight. I like collecting old web GIFs and pixel art. These are typically from websites which are hardly active, or in some cases no longer online. Places other people would, usually, share on r/opendirectories. Ergo, whenever I pick these out it's already going to be a manual process.
+ I suppose I can just right click + save as, a few hundred times, but I have found Pinterest's "Save Button" to also be convenient. It's an extension that scans the entire page quickly, and you can choose what to save through a convenient menu, and it even builds a gallery for me. I want to reshare these, so I don't consider it a violation of my privacy that they are being exposed under my account name. False Account Suspensions aren't unheard of, but it's been working for me so far. Except whenever I need to save any image smaller than 100x100 pixels.
+ Pinterest has a restriction requiring all images to be above 100x100 in resolution, so in this case you have to Save As, pad out the background and then upload. Which is again, a level of tedium I would like to avoid.
+ So, would any of you lovely folks happen to know any decent alternatives?
+    submitted by    /u/themadprogramer  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Open Directories</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ejecución dinámica con DInvoke]]></title>
+        <id>https://medium.com/p/fe9bc7e2bc37</id>
+        <link href="https://kudaes.medium.com/ejecuci%C3%B3n-din%C3%A1mica-con-dinvoke-fe9bc7e2bc37?source=rss------redteam-5"/>
+        <updated>2022-01-17T12:00:24.000Z</updated>
+        <summary type="html"><![CDATA[Tras varios meses de desarrollo y una vez añadidas las últimas funcionalidades al proyecto, creo que Dinvoke_rs está preparado para que…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Kurosh Dabbagh Escalante</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Domain Persistence – Machine Account]]></title>
+        <id>http://pentestlab.blog/?p=30168</id>
+        <link href="https://pentestlab.blog/2022/01/17/domain-persistence-machine-account/"/>
+        <updated>2022-01-17T11:25:15.000Z</updated>
+        <summary type="html"><![CDATA[Machine accounts play a role in red team operations as in a number of techniques are utilized for privilege escalation, lateral movement and domain escalation.… 
+Continue reading → Domain Persistence – Machine Account]]></summary>
+        <author>
+            <name>Administrator</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FreeBuf早报 | 沃尔玛低调入局元宇宙；Safari 浏览器漏洞允许跨站点跟踪用户]]></title>
+        <id>https://www.freebuf.com/news/319916.html</id>
+        <link href="https://www.freebuf.com/news/319916.html"/>
+        <updated>2022-01-17T10:49:10.000Z</updated>
+        <summary type="html"><![CDATA[沃尔玛将向用户提供虚拟货币和NFT。]]></summary>
+        <author>
+            <name>FreeBuf网络安全行业门户</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[国产计算机外设及信创产品安全竞赛，斗象荣获“优秀组织奖”]]></title>
+        <id>https://www.freebuf.com/news/319915.html</id>
+        <link href="https://www.freebuf.com/news/319915.html"/>
+        <updated>2022-01-17T10:48:14.000Z</updated>
+        <summary type="html"><![CDATA[斗象荣获2021年“网络安全众测平台”国产计算机外设及信创产品安全竞赛“优秀组织奖”]]></summary>
+        <author>
+            <name>FreeBuf网络安全行业门户</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[冬奥会倒计时！斗象“网安保障军团”使命必达]]></title>
+        <id>https://www.freebuf.com/news/319913.html</id>
+        <link href="https://www.freebuf.com/news/319913.html"/>
+        <updated>2022-01-17T10:39:56.000Z</updated>
+        <summary type="html"><![CDATA[斗象科技为数十家央国企单位提供冬奥前的网络安全评估服务与冬奥期间的防守值守服务，全力保障冬奥会核心系统与网络资产的安全。]]></summary>
+        <author>
+            <name>FreeBuf网络安全行业门户</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Small business honeypot recommendations?]]></title>
+        <id>https://www.reddit.com/r/AskNetsec/comments/s612ln/small_business_honeypot_recommendations/</id>
+        <link href="https://www.reddit.com/r/AskNetsec/comments/s612ln/small_business_honeypot_recommendations/"/>
+        <updated>2022-01-17T10:35:41.000Z</updated>
+        <summary type="html"><![CDATA[I started working internal IT for a small business late last year who had been ransomed twice. Their (soon to be) ex MSP still had RDP open to the world, so no wonder...
+ Anyway, among the many other projects currently running I'm considering setting up some honeypots for additional protection. 
+ The business still has a number of accounts with weak password tied to their applications so will be while before they're sorted out.
+ Is this something that would be worthwhile? Any what tools have you used/would recommend? I'm looking for open source if/where possible.
+ Thank you in advance :D
+    submitted by    /u/brettfk  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>AskNetsec</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Can HTTPS web traffic over a VPN be intercepted & decrypted if the router the PC is connected to is compromised? Can an attacker do this with tools available on a smartphone?]]></title>
+        <id>https://www.reddit.com/r/AskNetsec/comments/s60p3f/can_https_web_traffic_over_a_vpn_be_intercepted/</id>
+        <link href="https://www.reddit.com/r/AskNetsec/comments/s60p3f/can_https_web_traffic_over_a_vpn_be_intercepted/"/>
+        <updated>2022-01-17T10:11:47.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/ferengiprophet  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>AskNetsec</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jobs in Cybersecurity]]></title>
+        <id>https://medium.com/p/3c609c23ecf6</id>
+        <link href="https://medium.com/@vijayynot108/jobs-in-cybersecurity-3c609c23ecf6?source=rss------bugbounty-5"/>
+        <updated>2022-01-17T09:30:13.000Z</updated>
+        <summary type="html"><![CDATA[hello guys, are you excited to learn cybersecurity or ethical hacking ,You are curious about how things work and have thirst in learning…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Vijayan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[zimawhit3/HellsGateNim: A quick example of the Hells Gate technique in Nim]]></title>
+        <id>https://www.reddit.com/r/redteamsec/comments/s600y9/zimawhit3hellsgatenim_a_quick_example_of_the/</id>
+        <link href="https://www.reddit.com/r/redteamsec/comments/s600y9/zimawhit3hellsgatenim_a_quick_example_of_the/"/>
+        <updated>2022-01-17T09:29:27.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/dmchell  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Red Team Security</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[My Pentest Log -3-]]></title>
+        <id>https://medium.com/p/a0d15eb0de72</id>
+        <link href="https://hcibo.medium.com/my-pentest-log-3-a0d15eb0de72?source=rss------bugbounty-5"/>
+        <updated>2022-01-17T08:55:18.000Z</updated>
+        <summary type="html"><![CDATA[Greetings from Constantinople to all,
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Hamit CİBO</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[My Pentest Log -3-]]></title>
+        <id>https://medium.com/p/a0d15eb0de72</id>
+        <link href="https://hcibo.medium.com/my-pentest-log-3-a0d15eb0de72?source=rss------fuzzing-5"/>
+        <updated>2022-01-17T08:55:18.000Z</updated>
+        <summary type="html"><![CDATA[Greetings from Constantinople to all,
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Hamit CİBO</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[My Pentest Log -3-]]></title>
+        <id>https://medium.com/p/a0d15eb0de72</id>
+        <link href="https://hcibo.medium.com/my-pentest-log-3-a0d15eb0de72?source=rss------fuzzing-5"/>
+        <updated>2022-01-17T08:55:18.000Z</updated>
+        <summary type="html"><![CDATA[Greetings from Constantinople to all,
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Hamit CİBO</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[什么是SSL剥离攻击？]]></title>
+        <id>https://www.freebuf.com/news/319891.html</id>
+        <link href="https://www.freebuf.com/news/319891.html"/>
+        <updated>2022-01-17T07:28:16.000Z</updated>
+        <summary type="html"><![CDATA[SSL剥离攻击是一种网络攻击，黑客攻击将Web连接从比较安全的HTTPS降级到不太.安全的HTTP。]]></summary>
+        <author>
+            <name>FreeBuf网络安全行业门户</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Clickjacking]]></title>
+        <id>https://hackerone.com/reports/688546</id>
+        <link href="https://hackerone.com/reports/688546"/>
+        <updated>2022-01-17T07:27:37.000Z</updated>
+        <summary type="html"><![CDATA[Palo Alto Software disclosed a bug submitted by paramdham: https://hackerone.com/reports/688546]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Can I make ensure a pdf is clean by "printing to pdf" before sending?]]></title>
+        <id>https://www.reddit.com/r/AskNetsec/comments/s5xxyh/can_i_make_ensure_a_pdf_is_clean_by_printing_to/</id>
+        <link href="https://www.reddit.com/r/AskNetsec/comments/s5xxyh/can_i_make_ensure_a_pdf_is_clean_by_printing_to/"/>
+        <updated>2022-01-17T07:17:53.000Z</updated>
+        <summary type="html"><![CDATA[I want to email a pdf I downloaded from Library Genesis. It's an old scanned book I couldn't find anywhere else. I need to share it, but on the off chance there's anything malicious there, is there anything I can do to send a "cleaned" version? If I create a new pdf by printing to pdf, would that be safe?
+    submitted by    /u/sonsa_geistov  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>AskNetsec</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[欧盟针对一家“虚拟”电力公司进行了网络攻击演习]]></title>
+        <id>https://www.freebuf.com/news/319874.html</id>
+        <link href="https://www.freebuf.com/news/319874.html"/>
+        <updated>2022-01-17T06:21:20.000Z</updated>
+        <summary type="html"><![CDATA[欧盟上周对芬兰一家“虚拟”电力公司进行了一次模拟网络攻击演习。]]></summary>
+        <author>
+            <name>FreeBuf网络安全行业门户</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[全国信安标委征求国家标准《信息安全技术 重要数据识别指南》（征求意见稿）发布]]></title>
+        <id>https://www.freebuf.com/news/319866.html</id>
+        <link href="https://www.freebuf.com/news/319866.html"/>
+        <updated>2022-01-17T05:20:00.000Z</updated>
+        <summary type="html"><![CDATA[《指南》明确了“重要数据”的定义，是指以电子方式存在的，一旦遭到篡改、破坏、泄露或者非法获取、非法利用，可能危害国家安全、公 共利益的数据。]]></summary>
+        <author>
+            <name>FreeBuf网络安全行业门户</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is an XSS injection? How is it used? What vulnerabilities does it create?]]></title>
+        <id>https://www.reddit.com/r/AskNetsec/comments/s5uwxh/what_is_an_xss_injection_how_is_it_used_what/</id>
+        <link href="https://www.reddit.com/r/AskNetsec/comments/s5uwxh/what_is_an_xss_injection_how_is_it_used_what/"/>
+        <updated>2022-01-17T04:28:19.000Z</updated>
+        <summary type="html"><![CDATA[Also, someone elsewhere on the internet claimed that XSS can get around Cloudflare. How?
+    submitted by    /u/iExtrapolate314  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>AskNetsec</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[俄罗斯声称已经捣毁知名勒索软件团伙REvil]]></title>
+        <id>https://www.freebuf.com/news/319855.html</id>
+        <link href="https://www.freebuf.com/news/319855.html"/>
+        <updated>2022-01-17T02:58:29.000Z</updated>
+        <summary type="html"><![CDATA[俄罗斯联邦安全局（FSB）宣布已捣毁REvil勒索软件团伙，该团伙是针对大型组织（如Kaseya和JBS USA）的一系列攻击的幕后黑手。]]></summary>
+        <author>
+            <name>FreeBuf网络安全行业门户</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022年网络安全趋势：7个趋热，2个趋冷]]></title>
+        <id>https://www.freebuf.com/articles/neopoints/319853.html</id>
+        <link href="https://www.freebuf.com/articles/neopoints/319853.html"/>
+        <updated>2022-01-17T02:39:03.000Z</updated>
+        <summary type="html"><![CDATA[2022 年的九大安全趋势，预计在新的一年里攻击的范围和复杂程度将会变得更加难以应对。]]></summary>
+        <author>
+            <name>FreeBuf网络安全行业门户</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[聚类算法有哪些？又是如何分类？]]></title>
+        <id>https://www.freebuf.com/articles/database/319848.html</id>
+        <link href="https://www.freebuf.com/articles/database/319848.html"/>
+        <updated>2022-01-17T01:59:07.000Z</updated>
+        <summary type="html"><![CDATA[想要了解聚类算法并对其进行区别与比较的话，最好能把聚类的具体算法放到整个聚类分析的语境中理解。]]></summary>
+        <author>
+            <name>FreeBuf网络安全行业门户</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The chiptune archive is back!]]></title>
         <id>https://www.reddit.com/r/opendirectories/comments/s5pvco/the_chiptune_archive_is_back/</id>
@@ -1061,6 +1597,16 @@ Points: 1
         <link href="https://www.freebuf.com/articles/319772.html"/>
         <updated>2022-01-14T07:18:45.000Z</updated>
         <summary type="html"><![CDATA[FreeBuf小伙伴在街头对路人进行了随机采访，看看他们的网络安全意识、个人防护意识到底如何。]]></summary>
+        <author>
+            <name>FreeBuf网络安全行业门户</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Java代码审计 —XSS跨站脚本]]></title>
+        <id>https://www.freebuf.com/articles/web/319333.html</id>
+        <link href="https://www.freebuf.com/articles/web/319333.html"/>
+        <updated>2022-01-14T06:57:18.000Z</updated>
+        <summary type="html"><![CDATA[通过分析XSS的产生原因来解决如何防御XSS的问题]]></summary>
         <author>
             <name>FreeBuf网络安全行业门户</name>
         </author>
