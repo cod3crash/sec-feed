@@ -6,6 +6,258 @@
       "siteUrl": "http://h1.nobbd.de/",
       "articles": [
         {
+          "id": "https://hackerone.com/reports/1376961",
+          "author": null,
+          "description": "TikTok disclosed a bug submitted by lu3ky-13: https://hackerone.com/reports/1376961 - Bounty: $999",
+          "link": "https://hackerone.com/reports/1376961",
+          "publishedOn": "2022-01-20T00:31:34.000Z",
+          "wordCount": 25,
+          "title": "Cross-site Scripting (XSS) - Stored on ads.tiktok.com in Text  field"
+        },
+        {
+          "id": "https://hackerone.com/reports/1391724",
+          "author": null,
+          "description": "GitHub Security Lab disclosed a bug submitted by npesaresi: https://hackerone.com/reports/1391724 - Bounty: $250",
+          "link": "https://hackerone.com/reports/1391724",
+          "publishedOn": "2022-01-19T22:16:10.000Z",
+          "wordCount": 25,
+          "title": "Yet another SSRF query for Javascript"
+        },
+        {
+          "id": "https://hackerone.com/reports/1391725",
+          "author": null,
+          "description": "GitHub Security Lab disclosed a bug submitted by npesaresi: https://hackerone.com/reports/1391725 - Bounty: $450",
+          "link": "https://hackerone.com/reports/1391725",
+          "publishedOn": "2022-01-19T22:15:49.000Z",
+          "wordCount": 25,
+          "title": "Yet another SSRF query for Go"
+        },
+        {
+          "id": "https://hackerone.com/reports/1391726",
+          "author": null,
+          "description": "GitHub Security Lab disclosed a bug submitted by luuliiromee: https://hackerone.com/reports/1391726 - Bounty: $250",
+          "link": "https://hackerone.com/reports/1391726",
+          "publishedOn": "2022-01-19T22:15:36.000Z",
+          "wordCount": 25,
+          "title": "Yet another SSRF query for Javascript"
+        },
+        {
+          "id": "https://hackerone.com/reports/1391727",
+          "author": null,
+          "description": "GitHub Security Lab disclosed a bug submitted by ciohianz: https://hackerone.com/reports/1391727 - Bounty: $250",
+          "link": "https://hackerone.com/reports/1391727",
+          "publishedOn": "2022-01-19T22:15:23.000Z",
+          "wordCount": 25,
+          "title": "Yet another SSRF query for Javascript"
+        },
+        {
+          "id": "https://hackerone.com/reports/1391728",
+          "author": null,
+          "description": "GitHub Security Lab disclosed a bug submitted by avada: https://hackerone.com/reports/1391728 - Bounty: $250",
+          "link": "https://hackerone.com/reports/1391728",
+          "publishedOn": "2022-01-19T22:15:08.000Z",
+          "wordCount": 25,
+          "title": "Yet another SSRF query for Javascript"
+        },
+        {
+          "id": "https://hackerone.com/reports/1391729",
+          "author": null,
+          "description": "GitHub Security Lab disclosed a bug submitted by luuliiromee: https://hackerone.com/reports/1391729 - Bounty: $450",
+          "link": "https://hackerone.com/reports/1391729",
+          "publishedOn": "2022-01-19T22:14:49.000Z",
+          "wordCount": 25,
+          "title": "Yet another SSRF query for Go"
+        },
+        {
+          "id": "https://hackerone.com/reports/1391771",
+          "author": null,
+          "description": "GitHub Security Lab disclosed a bug submitted by ciohianz: https://hackerone.com/reports/1391771 - Bounty: $450",
+          "link": "https://hackerone.com/reports/1391771",
+          "publishedOn": "2022-01-19T22:14:35.000Z",
+          "wordCount": 25,
+          "title": "Yet another SSRF query for Go"
+        },
+        {
+          "id": "https://hackerone.com/reports/1391772",
+          "author": null,
+          "description": "GitHub Security Lab disclosed a bug submitted by avada: https://hackerone.com/reports/1391772 - Bounty: $450",
+          "link": "https://hackerone.com/reports/1391772",
+          "publishedOn": "2022-01-19T22:14:19.000Z",
+          "wordCount": 25,
+          "title": "Yet another SSRF query for Go"
+        },
+        {
+          "id": "https://hackerone.com/reports/1397942",
+          "author": null,
+          "description": "GitHub Security Lab disclosed a bug submitted by pupiles: https://hackerone.com/reports/1397942 - Bounty: $1800",
+          "link": "https://hackerone.com/reports/1397942",
+          "publishedOn": "2022-01-19T22:13:56.000Z",
+          "wordCount": 25,
+          "title": "[GO]: [CWE-090: LDAP Injection All For One]"
+        },
+        {
+          "id": "https://hackerone.com/reports/1401159",
+          "author": null,
+          "description": "GitHub Security Lab disclosed a bug submitted by jorgectf: https://hackerone.com/reports/1401159 - Bounty: $1800",
+          "link": "https://hackerone.com/reports/1401159",
+          "publishedOn": "2022-01-19T22:13:39.000Z",
+          "wordCount": 25,
+          "title": "[Python]: CWE-079: HTTP Header injection"
+        },
+        {
+          "id": "https://hackerone.com/reports/1403263",
+          "author": null,
+          "description": "GitHub Security Lab disclosed a bug submitted by jorgectf: https://hackerone.com/reports/1403263 - Bounty: $1800",
+          "link": "https://hackerone.com/reports/1403263",
+          "publishedOn": "2022-01-19T22:13:23.000Z",
+          "wordCount": 25,
+          "title": "[Python]: JWT security-related queries"
+        },
+        {
+          "id": "https://hackerone.com/reports/1413540",
+          "author": null,
+          "description": "GitHub Security Lab disclosed a bug submitted by ihsinme: https://hackerone.com/reports/1413540 - Bounty: $1000",
+          "link": "https://hackerone.com/reports/1413540",
+          "publishedOn": "2022-01-19T22:13:07.000Z",
+          "wordCount": 25,
+          "title": "ihsinme: CPP Add query for CWE-675 Duplicate Operations on Resource"
+        },
+        {
+          "id": "https://hackerone.com/reports/1413541",
+          "author": null,
+          "description": "GitHub Security Lab disclosed a bug submitted by porcupineyhairs: https://hackerone.com/reports/1413541 - Bounty: $1800",
+          "link": "https://hackerone.com/reports/1413541",
+          "publishedOn": "2022-01-19T22:12:50.000Z",
+          "wordCount": 25,
+          "title": "[porcupiney.hairs]: [Python] Add Flask Path injection sinks"
+        },
+        {
+          "id": "https://hackerone.com/reports/1413542",
+          "author": null,
+          "description": "GitHub Security Lab disclosed a bug submitted by luchua: https://hackerone.com/reports/1413542 - Bounty: $1800",
+          "link": "https://hackerone.com/reports/1413542",
+          "publishedOn": "2022-01-19T22:12:34.000Z",
+          "wordCount": 25,
+          "title": "[Java] CWE-400: Query to detect uncontrolled thread resource consumption"
+        },
+        {
+          "id": "https://hackerone.com/reports/1443028",
+          "author": null,
+          "description": "GitHub Security Lab disclosed a bug submitted by edvraa: https://hackerone.com/reports/1443028 - Bounty: $1000",
+          "link": "https://hackerone.com/reports/1443028",
+          "publishedOn": "2022-01-19T22:12:04.000Z",
+          "wordCount": 25,
+          "title": "Java: Regex injection"
+        },
+        {
+          "id": "https://hackerone.com/reports/1448236",
+          "author": null,
+          "description": "GitHub Security Lab disclosed a bug submitted by someonenobbd: https://hackerone.com/reports/1448236",
+          "link": "https://hackerone.com/reports/1448236",
+          "publishedOn": "2022-01-19T22:11:41.000Z",
+          "wordCount": 25,
+          "title": "[Javascript]: [Clipboard-based XSS]"
+        },
+        {
+          "id": "https://hackerone.com/reports/1442954",
+          "author": null,
+          "description": "GitHub Security Lab disclosed a bug submitted by jessforfun: https://hackerone.com/reports/1442954 - Bounty: $4500",
+          "link": "https://hackerone.com/reports/1442954",
+          "publishedOn": "2022-01-19T22:11:11.000Z",
+          "wordCount": 25,
+          "title": "[Java] CWE-089: MyBatis Mapper XML SQL Injection"
+        },
+        {
+          "id": "https://hackerone.com/reports/1454582",
+          "author": null,
+          "description": "GitHub Security Lab disclosed a bug submitted by luchua: https://hackerone.com/reports/1454582 - Bounty: $1800",
+          "link": "https://hackerone.com/reports/1454582",
+          "publishedOn": "2022-01-19T22:10:49.000Z",
+          "wordCount": 25,
+          "title": "[Java] CWE-552: Query to detect unsafe request dispatcher usage"
+        },
+        {
+          "id": "https://hackerone.com/reports/1438393",
+          "author": null,
+          "description": "U.S. Dept Of Defense disclosed a bug submitted by alex_gaynor: https://hackerone.com/reports/1438393",
+          "link": "https://hackerone.com/reports/1438393",
+          "publishedOn": "2022-01-19T19:35:32.000Z",
+          "wordCount": 25,
+          "title": "running a vulnerable log4j"
+        },
+        {
+          "id": "https://hackerone.com/reports/1423496",
+          "author": null,
+          "description": "U.S. Dept Of Defense disclosed a bug submitted by alex_gaynor: https://hackerone.com/reports/1423496",
+          "link": "https://hackerone.com/reports/1423496",
+          "publishedOn": "2022-01-19T19:33:44.000Z",
+          "wordCount": 25,
+          "title": "running a vulnerable log4j"
+        },
+        {
+          "id": "https://hackerone.com/reports/1029243",
+          "author": null,
+          "description": "U.S. Dept Of Defense disclosed a bug submitted by supr4s: https://hackerone.com/reports/1029243",
+          "link": "https://hackerone.com/reports/1029243",
+          "publishedOn": "2022-01-19T19:31:13.000Z",
+          "wordCount": 25,
+          "title": "Reflected XSS on https:///via hidden parameter \"\""
+        },
+        {
+          "id": "https://hackerone.com/reports/1029238",
+          "author": null,
+          "description": "U.S. Dept Of Defense disclosed a bug submitted by supr4s: https://hackerone.com/reports/1029238",
+          "link": "https://hackerone.com/reports/1029238",
+          "publishedOn": "2022-01-19T19:30:22.000Z",
+          "wordCount": 25,
+          "title": "Reflected XSS in https:// via hidden parameter \"\""
+        },
+        {
+          "id": "https://hackerone.com/reports/1223577",
+          "author": null,
+          "description": "U.S. Dept Of Defense disclosed a bug submitted by drauschkolb: https://hackerone.com/reports/1223577",
+          "link": "https://hackerone.com/reports/1223577",
+          "publishedOn": "2022-01-19T19:29:11.000Z",
+          "wordCount": 25,
+          "title": "XSS Reflected -"
+        },
+        {
+          "id": "https://hackerone.com/reports/1422641",
+          "author": null,
+          "description": "U.S. Dept Of Defense disclosed a bug submitted by h3xr: https://hackerone.com/reports/1422641",
+          "link": "https://hackerone.com/reports/1422641",
+          "publishedOn": "2022-01-19T19:28:18.000Z",
+          "wordCount": 25,
+          "title": "Wrong settings in ADF Faces leads to information disclosure"
+        },
+        {
+          "id": "https://hackerone.com/reports/1328278",
+          "author": null,
+          "description": "Stripe disclosed a bug submitted by gregxsunday: https://hackerone.com/reports/1328278 - Bounty: $1000",
+          "link": "https://hackerone.com/reports/1328278",
+          "publishedOn": "2022-01-19T15:19:28.000Z",
+          "wordCount": 25,
+          "title": "User can pay using archived price by manipulating the request sent to `POST /v1/payment_pages/for_plink`"
+        },
+        {
+          "id": "https://hackerone.com/reports/1448616",
+          "author": null,
+          "description": "Recorded Future disclosed a bug submitted by fornex: https://hackerone.com/reports/1448616",
+          "link": "https://hackerone.com/reports/1448616",
+          "publishedOn": "2022-01-19T11:00:38.000Z",
+          "wordCount": 25,
+          "title": "Dom Xss vulnerability"
+        },
+        {
+          "id": "https://hackerone.com/reports/1247910",
+          "author": null,
+          "description": "Mail.ru disclosed a bug submitted by ian: https://hackerone.com/reports/1247910",
+          "link": "https://hackerone.com/reports/1247910",
+          "publishedOn": "2022-01-19T07:48:05.000Z",
+          "wordCount": 25,
+          "title": "Exposed Golang debugger on tier3.riot.mail.ru:9090, 9080"
+        },
+        {
           "id": "https://hackerone.com/reports/889041",
           "author": null,
           "description": "Urban Dictionary disclosed a bug submitted by bemodtwz: https://hackerone.com/reports/889041",
@@ -2152,6 +2404,69 @@
       "feedUrl": "https://medium.com/feed/tag/bugbounty",
       "siteUrl": "https://medium.com/tag/bugbounty/latest?source=rss------bugbounty-5",
       "articles": [
+        {
+          "id": "https://medium.com/p/c555d49bf311",
+          "author": "SI",
+          "description": "(на момент написания статьи 100k PTP > $1м)\nContinue reading on Medium »",
+          "link": "https://medium.com/@Smartn/%D0%B1%D0%B0%D0%B3-%D0%B1%D0%B0%D1%83%D0%BD%D1%82%D0%B8-%D0%B7%D0%B0%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%D0%B9-%D0%B4%D0%BE-100-000-ptp-c555d49bf311?source=rss------bugbounty-5",
+          "publishedOn": "2022-01-19T18:55:18.000Z",
+          "wordCount": 174,
+          "title": "Баг Баунти — заработай до 100,000 PTP"
+        },
+        {
+          "id": "https://medium.com/p/2311e6a745bb",
+          "author": "Michael Meade",
+          "description": "Subdomain3 is great tool that can be used to discover subdomains that belong to a website. The tool is written in Python3.\nContinue reading on Medium »",
+          "link": "https://medium.com/@michaelmeade3/hacking-with-subdomain3-2311e6a745bb?source=rss------bugbounty-5",
+          "publishedOn": "2022-01-19T17:26:29.000Z",
+          "wordCount": 155,
+          "title": "Hacking with Subdomain3"
+        },
+        {
+          "id": "https://medium.com/p/9a438a6356d1",
+          "author": "Mayank Gandhi",
+          "description": "Hello Cybersecurity Researchers, Again I’m here after a lot of texts received on my LinkedIn and Instagram that when I launch my Live Bug…\nContinue reading on Medium »",
+          "link": "https://medium.com/@gandhim373/live-bug-bounty-training-with-my-strategy-and-lets-hit-easily-bounties-together-in-this-year-9a438a6356d1?source=rss------bugbounty-5",
+          "publishedOn": "2022-01-19T15:12:08.000Z",
+          "wordCount": 346,
+          "title": "Live Bug Bounty Training With My Strategy and Let’s hit easily Bounties Together in this year"
+        },
+        {
+          "id": "https://medium.com/p/94a4b09cb54c",
+          "author": "Himmat Singh",
+          "description": "Just wanted to share one of my experience which I had while testing one of the web application. I will be brief so that I do not waste…\nContinue reading on Medium »",
+          "link": "https://medium.com/@himmat1005/how-i-messed-up-my-own-profile-data-94a4b09cb54c?source=rss------bugbounty-5",
+          "publishedOn": "2022-01-19T13:28:20.000Z",
+          "wordCount": 476,
+          "title": "How I messed up my own profile data"
+        },
+        {
+          "id": "https://medium.com/p/136928356eca",
+          "author": "Cristian Cornea",
+          "description": "In this article, we will discuss the Server-Side Request Forgery (SSRF) vulnerability, and present 25 disclosed reports based on this flaw.\nContinue reading on Medium »",
+          "link": "https://corneacristian.medium.com/top-25-server-side-request-forgery-ssrf-bug-bounty-reports-136928356eca?source=rss------bugbounty-5",
+          "publishedOn": "2022-01-19T12:34:39.000Z",
+          "wordCount": 83,
+          "title": "Top 25 Server-Side Request Forgery (SSRF) Bug Bounty Reports"
+        },
+        {
+          "id": "https://medium.com/p/54943a4510f3",
+          "author": "Sicksec",
+          "description": "How to dominate in bug bounties\nContinue reading on Medium »",
+          "link": "https://sicks3c.medium.com/extreme-hacking-mindset-54943a4510f3?source=rss------bugbounty-5",
+          "publishedOn": "2022-01-19T09:58:53.000Z",
+          "wordCount": 102,
+          "title": "Extreme Hacking Mindset"
+        },
+        {
+          "id": "https://medium.com/p/b5499a925090",
+          "author": "Aditya Singh",
+          "description": "Hello Hackers, Aditya here I am a cyber security student and bug bounty hunter.\nContinue reading on Medium »",
+          "link": "https://medium.com/@aditya043k/how-i-found-high-priority-pii-leak-through-web-archive-b5499a925090?source=rss------bugbounty-5",
+          "publishedOn": "2022-01-19T08:46:19.000Z",
+          "wordCount": 287,
+          "title": "How I found High-Priority PII leak through web archive"
+        },
         {
           "id": "https://medium.com/p/1dd2e6e31b8d",
           "author": "Ravindra",
@@ -4775,6 +5090,42 @@
       "siteUrl": "https://medium.com/tag/osint/latest?source=rss------osint-5",
       "articles": [
         {
+          "id": "https://medium.com/p/31ae1cba264e",
+          "author": "PME Intelligence",
+          "description": "Vous souhaitez construire rapidement et gratuitement une liste de prospection ?\nContinue reading on Medium »",
+          "link": "https://medium.com/@intelligence69123/comment-trouver-des-prospects-gratuitement-31ae1cba264e?source=rss------osint-5",
+          "publishedOn": "2022-01-19T19:41:22.000Z",
+          "wordCount": 1152,
+          "title": "Comment trouver des prospects gratuitement ?"
+        },
+        {
+          "id": "https://medium.com/p/40b456d444c7",
+          "author": "OSINT Canada",
+          "description": "I recently posted a Tweet stating that one is able to search Google Maps by name, username, email, phone number, area code…in fact…\nContinue reading on Medium »",
+          "link": "https://medium.com/@mark_15281/fun-with-google-maps-40b456d444c7?source=rss------osint-5",
+          "publishedOn": "2022-01-19T17:16:46.000Z",
+          "wordCount": 357,
+          "title": "Fun with Google Maps"
+        },
+        {
+          "id": "https://medium.com/p/5dbb2f7209f9",
+          "author": "Gökhan Gökcen",
+          "description": "Sosyal medya uygulamaları üzerinde kullanıcı adı ile hesap arama.\nContinue reading on Medium »",
+          "link": "https://medium.com/@gokhangokcen/sosyal-medya-osint-5dbb2f7209f9?source=rss------osint-5",
+          "publishedOn": "2022-01-19T13:05:11.000Z",
+          "wordCount": 760,
+          "title": "Sosyal Medya OSINT"
+        },
+        {
+          "id": "https://medium.com/p/87d19168e34a",
+          "author": "CyberRaya",
+          "description": "About SpiderFoot\nContinue reading on Medium »",
+          "link": "https://medium.com/@CyberRaya/spiderfoot-automate-osint-for-threat-intelligences-87d19168e34a?source=rss------osint-5",
+          "publishedOn": "2022-01-19T09:08:43.000Z",
+          "wordCount": 355,
+          "title": "SpiderFoot (Automate OSINT for Threat Intelligences)"
+        },
+        {
           "id": "https://medium.com/p/29ddcb2e1c95",
           "author": "aleksander",
           "description": "What can we learn about Russian equipment transfers from a single Twitter video? Quite a lot, actually.\nContinue reading on Medium »",
@@ -5633,6 +5984,15 @@
       "siteUrl": "http://windowsir.blogspot.com/",
       "articles": [
         {
+          "id": "tag:blogger.com,1999:blog-9518042.post-3826279373757644788",
+          "author": "noreply@blogger.com (Unknown)",
+          "description": "From the time I started in DFIR, one question was always on the forefront of incident responder's minds...how do you know what \"bad\" looks like? When I was heading on-site during those early engagements, that question was foremost on my mind, and very often, the reason I couldn't sleep on the plane, even on the long, cross country flights. As I gained experience, I started to have a sense of what \"bad\" might or could look like, and that question started coming from the folks around me (IT staff, etc.) while I was on-site.\nHow do you know what \"bad\" looks like?\nThe most obvious answer to the question is, clearly, \"anything that's not \"good\"...\". However, that doesn't really answer the question, does it? Back in the late '90s, I did a vulnerability assessment for an organization, and at one …",
+          "link": "http://windowsir.blogspot.com/2022/01/how-do-you-know-what-bad-looks-like.html",
+          "publishedOn": "2022-01-19T14:10:00.000Z",
+          "wordCount": 1787,
+          "title": "How Do You Know What \"Bad\" Looks Like?"
+        },
+        {
           "id": "tag:blogger.com,1999:blog-9518042.post-8285456227886655548",
           "author": "noreply@blogger.com (Unknown)",
           "description": "Why is Registry analysis important?\nThe Windows Registry, in part, controls a good bit of the functionality of a Windows system. As such, Registry analysis can help you understand why you're seeing something, or why you're not seeing something, as the case may be.\n\n\nFor example, Registry \"settings\" (i.e., keys, values, or combinations) can be/have been used to disable Windows Event Logs, enable or disable auditing (the content that goes into the Windows Event Log), disable access to security tools, enable or disable other functionality on Windows systems, etc. The Registry can be used to enable or disable application prefetching, which produces artifacts very commonly used by forensic analysts and incident responders.\n\n\nMost analysts are aware that, particularly with respect to the file sy…",
@@ -6410,6 +6770,15 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=29991743",
+          "author": "domrdy",
+          "description": "Article URL: https://zerforschung.org/posts/gorillas-en/\nComments URL: https://news.ycombinator.com/item?id=29991743\nPoints: 235\n# Comments: 70",
+          "link": "https://zerforschung.org/posts/gorillas-en/",
+          "publishedOn": "2022-01-19T09:59:46.000Z",
+          "wordCount": 2310,
+          "title": "Discovering a security vulnerability in a major grocery delivery platform"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=29978942",
           "author": "feross",
           "description": "Article URL: https://portswigger.net/daily-swig/ssrf-vulnerability-in-vmware-authentication-software-could-allow-access-to-user-data\nComments URL: https://news.ycombinator.com/item?id=29978942\nPoints: 3\n# Comments: 0",
@@ -6867,6 +7236,105 @@
       "siteUrl": "https://www.freebuf.com",
       "articles": [
         {
+          "id": "https://www.freebuf.com/news/320287.html",
+          "author": null,
+          "description": "据统计，2021年内针对Linux设备的恶意软件感染数量上升了35%。",
+          "link": "https://www.freebuf.com/news/320287.html",
+          "publishedOn": "2022-01-19T09:46:14.000Z",
+          "wordCount": 167,
+          "title": "2021年Linux恶意软件感染数量增长35%"
+        },
+        {
+          "id": "https://www.freebuf.com/news/320263.html",
+          "author": null,
+          "description": "时尚巨头 Moncler 证实，在 12 月被 AlphV/BlackCat 勒索软件行动窃取文件后遭遇数据泄露，并在暗网上公布。",
+          "link": "https://www.freebuf.com/news/320263.html",
+          "publishedOn": "2022-01-19T09:16:02.000Z",
+          "wordCount": 276,
+          "title": "FreeBuf早报 | 美国审查阿里巴巴云业务；美国民主党提出法案禁止网络监视广告"
+        },
+        {
+          "id": "https://www.freebuf.com/news/320230.html",
+          "author": null,
+          "description": "&lt;p&gt;&lt;img src=&quot;https://image.3001.net/images/20220119/1642575002_61e7b49a7951f6c85d281.jpg!small&quot; alt=",
+          "link": "https://www.freebuf.com/news/320230.html",
+          "publishedOn": "2022-01-19T06:54:37.000Z",
+          "wordCount": 167,
+          "title": "时尚巨头确认遭遇勒索攻击、1100万部手机已感染木马｜1月19日全球网络安全热点"
+        },
+        {
+          "id": "https://www.freebuf.com/articles/network/320214.html",
+          "author": null,
+          "description": "开发爬虫进行抢票，非法获利12万元，触犯提供侵入、非法控制计算机信息系统程序、工具罪，判处有期徒刑三年。",
+          "link": "https://www.freebuf.com/articles/network/320214.html",
+          "publishedOn": "2022-01-19T03:48:28.000Z",
+          "wordCount": 154,
+          "title": "网络犯罪案例分析：爬虫抢票（四十）"
+        },
+        {
+          "id": "https://www.freebuf.com/news/320201.html",
+          "author": null,
+          "description": "本文为《APT组织情报研究年鉴》精华解读系列文章之一，本篇主要介绍年鉴中提到的绿盟科技2021年基于爬虫框架和知识图谱自然语言处理技术。",
+          "link": "https://www.freebuf.com/news/320201.html",
+          "publishedOn": "2022-01-19T03:25:56.000Z",
+          "wordCount": 150,
+          "title": "APT组织档案馆｜2021年度APT组织活动态势分析"
+        },
+        {
+          "id": "https://www.freebuf.com/articles/paper/320180.html",
+          "author": null,
+          "description": "定义SBOM的最小元素是一个迭代过程。本报告是起点而非定论。",
+          "link": "https://www.freebuf.com/articles/paper/320180.html",
+          "publishedOn": "2022-01-19T02:31:18.000Z",
+          "wordCount": 357,
+          "title": "美国商务部发布软件物料清单 (SBOM) 的最小元素"
+        },
+        {
+          "id": "https://www.freebuf.com/news/320171.html",
+          "author": null,
+          "description": "CVE-2021-38178的CVSS 评分为9.1，其补丁在2021年10月 SAP 补丁日发布。该漏洞被描述为授权不当问题，可导致攻击者篡改传送请求，从而绕过质量门并将代码工件转移到生产系统。",
+          "link": "https://www.freebuf.com/news/320171.html",
+          "publishedOn": "2022-01-19T02:14:57.000Z",
+          "wordCount": 221,
+          "title": "SAP 严重漏洞可导致供应链攻击"
+        },
+        {
+          "id": "https://www.freebuf.com/articles/security-management/320147.html",
+          "author": null,
+          "description": "买卖公民信息、开发注册软件，触犯侵犯公民个人信息罪和提供侵入计算机信息系统程序罪，判处有期徒刑三年，追缴违法所得。",
+          "link": "https://www.freebuf.com/articles/security-management/320147.html",
+          "publishedOn": "2022-01-18T14:08:45.000Z",
+          "wordCount": 154,
+          "title": "网络犯罪案例分析-12306抢票产业链"
+        },
+        {
+          "id": "https://www.freebuf.com/articles/people/320136.html",
+          "author": null,
+          "description": "当传统的密码技术和热门的“云”相遇在一起，密码技术将焕发更强大的活力，给企业带来更多的优势。",
+          "link": "https://www.freebuf.com/articles/people/320136.html",
+          "publishedOn": "2022-01-18T11:54:34.000Z",
+          "wordCount": 154,
+          "title": "专访数字认证夏鲁宁：密码+云，解锁更多安全服务模式"
+        },
+        {
+          "id": "https://www.freebuf.com/news/320131.html",
+          "author": null,
+          "description": "这些网站使用官方标志来欺骗任天堂用户及粉丝，误以为这是官方页面，并以大幅折扣为诱饵，购买极有可能是“假货”的任天堂产品。",
+          "link": "https://www.freebuf.com/news/320131.html",
+          "publishedOn": "2022-01-18T09:52:56.000Z",
+          "wordCount": 140,
+          "title": "任天堂向用户发出警告，警惕虚假网站的Switch折扣"
+        },
+        {
+          "id": "https://www.freebuf.com/vuls/320117.html",
+          "author": null,
+          "description": "作为一家专注于物联网安全的公司，统计了以下品牌部分评分较高的CVE编号以及描述等。",
+          "link": "https://www.freebuf.com/vuls/320117.html",
+          "publishedOn": "2022-01-18T09:24:32.000Z",
+          "wordCount": 556,
+          "title": "2021年物联网设备CVE天梯榜"
+        },
+        {
           "id": "https://www.freebuf.com/articles/web/320123.html",
           "author": null,
           "description": "WordPress安全公司Wordfence发现一项严重的漏洞，它可以作用于三种不同的WordPress插件，并已影响超过84000个网站。",
@@ -6874,6 +7342,15 @@
           "publishedOn": "2022-01-18T09:17:40.000Z",
           "wordCount": 198,
           "title": "研究人员在三种WordPress插件中发现高危漏洞"
+        },
+        {
+          "id": "https://www.freebuf.com/articles/network/320111.html",
+          "author": null,
+          "description": "这么火爆的SASE，一图看懂",
+          "link": "https://www.freebuf.com/articles/network/320111.html",
+          "publishedOn": "2022-01-18T09:15:54.000Z",
+          "wordCount": 145,
+          "title": "什么是SASE（安全访问服务边缘），一图看懂概念和应用场景"
         },
         {
           "id": "https://www.freebuf.com/fevents/320107.html",
@@ -6903,6 +7380,15 @@
           "title": "2027 年零信任安全市场规模将达到 644 亿美元"
         },
         {
+          "id": "https://www.freebuf.com/articles/system/319983.html",
+          "author": null,
+          "description": "Linux系统通常部署在物联网设备中，最常见的是利用物联网设备进行DDoS攻击。其中前三大恶意软件是XorDDoS、Mirai和Mozi。",
+          "link": "https://www.freebuf.com/articles/system/319983.html",
+          "publishedOn": "2022-01-18T06:04:37.000Z",
+          "wordCount": 151,
+          "title": "Linux环境中的三大恶意软件"
+        },
+        {
           "id": "https://www.freebuf.com/vuls/319961.html",
           "author": null,
           "description": "防欺诈软件公司 FingerprintJS 日前披露， Safari 15中的IndexedDB API执行漏洞已经被恶意网站利用。",
@@ -6910,6 +7396,15 @@
           "publishedOn": "2022-01-18T02:19:30.000Z",
           "wordCount": 184,
           "title": "苹果 Safari浏览器新漏洞敲响跨站用户跟踪的警钟"
+        },
+        {
+          "id": "https://www.freebuf.com/articles/web/319940.html",
+          "author": null,
+          "description": "thinkphp在开启debug模式下如果服务器开启了数据库外联，可以通过爆破mysql服务发送大量请求(让mysql堵塞)。",
+          "link": "https://www.freebuf.com/articles/web/319940.html",
+          "publishedOn": "2022-01-17T13:47:57.000Z",
+          "wordCount": 202,
+          "title": "ThinkPHP框架渗透实战"
         },
         {
           "id": "https://www.freebuf.com/news/319916.html",
@@ -9025,6 +9520,15 @@
       "siteUrl": "https://nosec.org/home/index/hole.html",
       "articles": [
         {
+          "id": "https://nosec.org/home/detail/4956.html",
+          "author": "fmbd",
+          "description": "近日，Oracle官方 发布了 2022 年 1 月份的安全更新。涉及旗下产品（Weblogic Server、Database Server、Java SE、MySQL等）的 497 个漏洞。此次修复的漏洞中包...",
+          "link": "https://nosec.org/home/detail/4956.html",
+          "publishedOn": "2022-01-19T10:25:57.000Z",
+          "wordCount": 273,
+          "title": "【安全通报】Weblogic 一月份更新多个高危漏洞"
+        },
+        {
           "id": "https://nosec.org/home/detail/4927.html",
           "author": "fmbd",
           "description": "近日，RedTeam Pentesting 公布了 Auerswald COMpact 5500R PBX 固件中的多个后门漏洞。攻击者可通过这些后...",
@@ -9139,6 +9643,15 @@
       "feedUrl": "https://www.sec-wiki.com/news/rss",
       "siteUrl": "http://www.sec-wiki.com/",
       "articles": [
+        {
+          "id": "http://www.sec-wiki.com/?2022-01-19",
+          "author": null,
+          "description": "基于上下文感知计算的APT攻击组织追踪方法  by ourren\n2021年全球DDoS威胁报告  by ourren\n谁动了我的DevOps：DevOps风险测绘  by ourren\n更多最新文章，请访问SecWiki",
+          "link": "http://www.sec-wiki.com/?2022-01-19",
+          "publishedOn": "2022-01-19T15:58:20.000Z",
+          "wordCount": 584,
+          "title": "SecWiki News 2022-01-19 Review"
+        },
         {
           "id": "http://www.sec-wiki.com/?2022-01-18",
           "author": null,
@@ -9480,6 +9993,87 @@
       "siteUrl": "https://www.reddit.com/r/asknetsec/",
       "articles": [
         {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/s7z2ve/from_mvp_to_iso27001soc_2/",
+          "author": null,
+          "description": "Hi Everyone, I just joined this community and would like to reach out with a question. \n I am a co-founder of an early-stage tech startup (saas) where we're about to reach our second product milestone soon - MVP. Our first commercial release (\"Minimum Marketable Product\") should happen around September 2022.\n We are about ten people, half of them developers. Everything is in the cloud. We have a Chief Architect who is a very mature professional. \n I don't have an IT background, but as we'd like to work with enterprises and other security-minded organizations, I am considering obtaining certification for standards like ISO27001 and/or SOC 2 (Type I and II). \n Is it a reasonable ambition to start this process as soon as our MVP is out (next month), or it's more realistic to wait until our product and team gains more maturity? \n If we have to pick, e.g. due to budget constraints, would you recommend to pursue ISO27001 or SOC 2?\n tl;dr: For a very young startup, what is the best time to start working on compliance and certifications? \n Thank you!\n    submitted by    /u/brunotoronto  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/s7z2ve/from_mvp_to_iso27001soc_2/",
+          "publishedOn": "2022-01-19T20:03:51.000Z",
+          "wordCount": 785,
+          "title": "From MVP to ISO27001/SOC 2"
+        },
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/s7ybn0/trend_micro_apex_one_vs_deep_securitycloud_one/",
+          "author": null,
+          "description": "Hi all, Is ApexOne good for Servers and Endpoints both? Or do we need to suggest Deep Security? If it is not good for Servers, why so?\n I know they are both the products of trend micro, but am not able to find understandable differences between both, need to know the difference between them for a project.\n Any kind of information or help on this would be nice, thank you.\n    submitted by    /u/aaronthecoolgnome  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/s7ybn0/trend_micro_apex_one_vs_deep_securitycloud_one/",
+          "publishedOn": "2022-01-19T19:32:39.000Z",
+          "wordCount": 183,
+          "title": "Trend micro Apex One vs Deep Security/Cloud one"
+        },
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/s7xpil/hacking_bookspython_for_intermediate_programmers/",
+          "author": null,
+          "description": "Some good python books for people who don't know anything about hacking but are intermediate programmers.\n I've read the book :- Starting out with Python, 5th Edition, ISBN : 9780135929032\n    submitted by    /u/SufficientResident59  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/s7xpil/hacking_bookspython_for_intermediate_programmers/",
+          "publishedOn": "2022-01-19T19:06:29.000Z",
+          "wordCount": 133,
+          "title": "Hacking books(python) for intermediate programmers"
+        },
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/s7ufvi/why_do_hackers_like_using_reverse_proxies/",
+          "author": null,
+          "description": "submitted by    /u/baghdadcafe  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/s7ufvi/why_do_hackers_like_using_reverse_proxies/",
+          "publishedOn": "2022-01-19T16:49:06.000Z",
+          "wordCount": 288,
+          "title": "Why do hackers like using reverse proxies?"
+        },
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/s7srl2/why_do_people_put_dots_at_the_end_of_everything/",
+          "author": null,
+          "description": "Okay, I know this may not be the right Reddit sub for this question but I figured in IT most of us deal with teams or some sort of messaging. I know this also is kind of a weird thing to make a post about but it just is something I don't understand and genuinely want to. Whenever I message people at work or they message me they always leave dots at the end of a lot of the things they are saying. I have gotten dozens of messages saying \"Hello...\". It is not a typo either there is no way it could be. It reminds me of when someone texts you something and add it for dramatic effect but it will literally be messages like the one above saying hello or just \"Sure...\". It's just kind of odd to me but just was wondering if anyone knew why.\n Edit: Grammar & Thanks for the Informative Responses!\n    submitted by    /u/winningrove  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/s7srl2/why_do_people_put_dots_at_the_end_of_everything/",
+          "publishedOn": "2022-01-19T15:35:02.000Z",
+          "wordCount": 1111,
+          "title": "Why do people put dots at the end of everything they send in work messages?"
+        },
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/s7sici/resources_for_compensation/",
+          "author": null,
+          "description": "Hi Everyone,\n I need some help finding compensation resources. Our security team has been having conflict over compensation with our HR compensation team. We want them to change the compensation band for a Mid-Level Security Analyst because the starting salary is $90k (105 Overall COL area). They tell us they want to start roles at 85% of the grade for the band which is around $70k-$80k. The role requires 5 years of IT exp with 2+ of Security.\n They claim they have done research but wont share their evidence stating the role is graded properly. It doesnt seems to align with what I have been seeing for other jobs, what people are asking for, or what I found on NIST NICE.\n what resources are out there to help identifying compensation for roles in cyber by industry (i.e. e-commerce, higher ed, govt, etc). I want to bring something to them that says we are way below market and cannot be competitive but they seem to know otherwise.\n EDIT: Im the hiring manager for the role\n    submitted by    /u/gnomeparadox  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/s7sici/resources_for_compensation/",
+          "publishedOn": "2022-01-19T15:23:17.000Z",
+          "wordCount": 800,
+          "title": "Resources for Compensation"
+        },
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/s7px7q/how_anonymous_is_a_azureaws_vm/",
+          "author": null,
+          "description": "I would like to mess with some scammers but would like to stay fairly anonymous. \n Am I correctly understanding that my identify is fairly safe when using a VM on Azure or AWS?\n I am aware MS/Amazon could still pass my identify to the government but I'm not worried about. My main concern is to stay hidden from the scammers.\n Thanks in advance for your reply.\n    submitted by    /u/LouTr0n  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/s7px7q/how_anonymous_is_a_azureaws_vm/",
+          "publishedOn": "2022-01-19T13:16:48.000Z",
+          "wordCount": 219,
+          "title": "How anonymous is a Azure/AWS VM?"
+        },
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/s7ghh8/python_and_c_hacking_projects/",
+          "author": null,
+          "description": "What are good cybersecurity projects for someone who is a beginner-intermediate in hacking?\n    submitted by    /u/Odd_Rip6706  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/s7ghh8/python_and_c_hacking_projects/",
+          "publishedOn": "2022-01-19T03:39:23.000Z",
+          "wordCount": 318,
+          "title": "Python and C++ Hacking Projects"
+        },
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/s7g27i/how_does_my_university_perform_mitm_monitoring_on/",
+          "author": null,
+          "description": "Hi AskNetsec,\n After suspicions towards my university's network provider (Eduroam), I have been digging into the extent of which they do, and/or are able to, monitor the activity of the students, while being on the network.\n Besides the rather normal DNS restrictions, of monitoring and blocking potentially harmful DNS requests, or in this case redirecting to a custom warning page, I have discovered something I would consider unusual.\n When accessing certain websites with a secure connection, HTTPS, the certificate for the website is tampered with. Meaning, that the certificate for a given website when requested through the university network, is not identical to the certificate returned when requesting from any other network.\n When digging deeper into the certificates, I found that custom …",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/s7g27i/how_does_my_university_perform_mitm_monitoring_on/",
+          "publishedOn": "2022-01-19T03:17:55.000Z",
+          "wordCount": 2197,
+          "title": "How does my university perform MITM monitoring on secure HTTPS connections?"
+        },
+        {
           "id": "https://www.reddit.com/r/AskNetsec/comments/s796ub/is_month_of_birth_considered_pii_when_combined/",
           "author": null,
           "description": "I would like to add month of birth (without day/date/year) as criteria in a new active directory build, but cannot find a clear cut answer as to whether this is considered PII or not. Thank you in advance.\n    submitted by    /u/erpa2b  \n [link]   [comments]",
@@ -9522,6 +10116,15 @@
           "link": "https://www.reddit.com/r/AskNetsec/comments/s6z0zb/understanding_hostcnf_dns_and_how_to_tie_it_all/",
           "publishedOn": "2022-01-18T14:39:59.000Z",
           "wordCount": 531,
+          "title": "Understanding host.cnf, DNS, and how to tie it all together?"
+        },
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/s6yo10/understanding_hostcnf_dns_and_how_to_tie_it_all/",
+          "author": null,
+          "description": "I'm currently doing CronOS on HTB. I realize that \n  \n1.) 8.8.8.8 will not translate the internal ip address of 10.10.10.7 \n  \nThen what will? and how do I find the correct DNS server that will?\n  \n2.) I need to add 10.10.10.7 cronos.htb into /etc/host.cnf\n  \nI know by reading that you were supposed to enumerate the hostname because not all hostnames are [nameOfBox].htb... but how was I supposed to know that cronos.htb was the hostname? How do I find out? \n Also, what knowledge am I missing here? I read up on DNS zone transfer attacks and general stuff about DNS, but I'm just not connecting it maybe? I think this topic is very important in the future in regards to large corporate internal networks. \n I could use some guidance! \n Resources I've read so far (for those that stumble on this th…",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/s6yo10/understanding_hostcnf_dns_and_how_to_tie_it_all/",
+          "publishedOn": "2022-01-18T14:22:58.000Z",
+          "wordCount": 523,
           "title": "Understanding host.cnf, DNS, and how to tie it all together?"
         },
         {
@@ -11242,6 +11845,42 @@
       "siteUrl": "https://www.reddit.com/r/redteamsec/",
       "articles": [
         {
+          "id": "https://www.reddit.com/r/redteamsec/comments/s83b5s/zloader_installs_remote_access_backdoors_and/",
+          "author": null,
+          "description": "submitted by    /u/dmchell  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/redteamsec/comments/s83b5s/zloader_installs_remote_access_backdoors_and/",
+          "publishedOn": "2022-01-19T23:02:56.000Z",
+          "wordCount": 112,
+          "title": "Zloader Installs Remote Access Backdoors and Delivers Cobalt Strike"
+        },
+        {
+          "id": "https://www.reddit.com/r/redteamsec/comments/s839x0/kraken_the_code_on_prometheus/",
+          "author": null,
+          "description": "submitted by    /u/dmchell  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/redteamsec/comments/s839x0/kraken_the_code_on_prometheus/",
+          "publishedOn": "2022-01-19T23:01:36.000Z",
+          "wordCount": 105,
+          "title": "Kraken the Code on Prometheus"
+        },
+        {
+          "id": "https://www.reddit.com/r/redteamsec/comments/s83998/perswaysion_threat_actor_updates_their_techniques/",
+          "author": null,
+          "description": "submitted by    /u/dmchell  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/redteamsec/comments/s83998/perswaysion_threat_actor_updates_their_techniques/",
+          "publishedOn": "2022-01-19T23:00:54.000Z",
+          "wordCount": 114,
+          "title": "PerSwaysion Threat Actor Updates Their Techniques and Infrastructure"
+        },
+        {
+          "id": "https://www.reddit.com/r/redteamsec/comments/s7qflp/the_oauth_misconfiguration/",
+          "author": null,
+          "description": "submitted by    /u/banginpadr  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/redteamsec/comments/s7qflp/the_oauth_misconfiguration/",
+          "publishedOn": "2022-01-19T13:44:27.000Z",
+          "wordCount": 99,
+          "title": "The OAuth Misconfiguration"
+        },
+        {
           "id": "https://www.reddit.com/r/redteamsec/comments/s74mov/destructive_malware_targeting_ukrainian/",
           "author": null,
           "description": "submitted by    /u/SCI_Rusher  \n [link]   [comments]",
@@ -11924,6 +12563,15 @@
       "siteUrl": "https://www.reddit.com/r/exploitdev/",
       "articles": [
         {
+          "id": "https://www.reddit.com/r/ExploitDev/comments/s81tp9/are_you_looking_for_a_team_looking_to_collaborate/",
+          "author": null,
+          "description": "We are looking for more members to join our team to collaborate on Projects, HackTheBox, CTF's & Bug Bounties. \n Our Members have found Vulnerabilities in the US Dept of Defense, Verizon Media, Yahoo & More on the HackerOne platform. We also have members that have been in the HTB Top 10 & 1st in the UK. \n You don't have to be the best, we are willing to help and teach members who may not be on our skill level, so please sign up if you're interested. We are trying to create a non-toxic environment in which hackers can collaborate without any drama. \n Please fill out our form and we will be in contact! Link to form: https://forms.gle/CDzVBLynAL9ftwK38\n    submitted by    /u/Far-Piece-7371  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/ExploitDev/comments/s81tp9/are_you_looking_for_a_team_looking_to_collaborate/",
+          "publishedOn": "2022-01-19T22:00:40.000Z",
+          "wordCount": 230,
+          "title": "Are you Looking for a team? Looking to collaborate with other hackers?"
+        },
+        {
           "id": "https://www.reddit.com/r/ExploitDev/comments/s6zclj/top_5_best_fuzzing_vulnerability_research_tips/",
           "author": null,
           "description": "submitted by    /u/pat_ventuzelo  \n [link]   [comments]",
@@ -12281,6 +12929,33 @@
       "feedUrl": "https://www.reddit.com/r/computerforensics/.rss",
       "siteUrl": "https://www.reddit.com/r/computerforensics/",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/computerforensics/comments/s80jj5/pcap_analysis/",
+          "author": null,
+          "description": "Hi there.\n I am just starting to learn about PCAP analysis/forensics. I am experienced in Windows OS forensics and never really worked with PCAPs before. What's some of the tools everyone uses besides Wireshark? I've been reading up on Zeek.\n    submitted by    /u/antmar9041  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/computerforensics/comments/s80jj5/pcap_analysis/",
+          "publishedOn": "2022-01-19T21:06:15.000Z",
+          "wordCount": 357,
+          "title": "PCAP Analysis"
+        },
+        {
+          "id": "https://www.reddit.com/r/computerforensics/comments/s7xz23/tails_memory_forensics/",
+          "author": null,
+          "description": "I was curious if anyone knows of any articles that cover this topic. A quick google search hasn’t bore anything useful. Preferably a professional paper\n    submitted by    /u/strollingginger  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/computerforensics/comments/s7xz23/tails_memory_forensics/",
+          "publishedOn": "2022-01-19T19:18:08.000Z",
+          "wordCount": 333,
+          "title": "Tails Memory Forensics"
+        },
+        {
+          "id": "https://www.reddit.com/r/computerforensics/comments/s7dfed/degree_decision/",
+          "author": null,
+          "description": "Is CS or CE better for cyber forensics?\n    submitted by    /u/swatteam23  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/computerforensics/comments/s7dfed/degree_decision/",
+          "publishedOn": "2022-01-19T01:09:52.000Z",
+          "wordCount": 635,
+          "title": "Degree decision"
+        },
         {
           "id": "https://www.reddit.com/r/computerforensics/comments/s7754c/blueteamlabsonline/",
           "author": null,
@@ -12874,6 +13549,51 @@
       "siteUrl": "https://www.reddit.com/r/netsec/",
       "articles": [
         {
+          "id": "https://www.reddit.com/r/netsec/comments/s7u6sp/cryptolyzer_a_comprehensive_cryptographic/",
+          "author": null,
+          "description": "submitted by    /u/c0r0n3r  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/netsec/comments/s7u6sp/cryptolyzer_a_comprehensive_cryptographic/",
+          "publishedOn": "2022-01-19T16:37:56.000Z",
+          "wordCount": 134,
+          "title": "CryptoLyzer: A comprehensive cryptographic settings analyzer (introduction with a comparison of cryptographic settings analyzers)"
+        },
+        {
+          "id": "https://www.reddit.com/r/netsec/comments/s7u1u5/privilege_escalation_in_acer_care_center_by/",
+          "author": null,
+          "description": "submitted by    /u/last0x00  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/netsec/comments/s7u1u5/privilege_escalation_in_acer_care_center_by/",
+          "publishedOn": "2022-01-19T16:31:55.000Z",
+          "wordCount": 117,
+          "title": "Privilege escalation in Acer Care Center by @last0x00 and @APTortellini"
+        },
+        {
+          "id": "https://www.reddit.com/r/netsec/comments/s7s7g7/introducing_trevorproxy_and_trevorspray_20/",
+          "author": null,
+          "description": "submitted by    /u/aconite33  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/netsec/comments/s7s7g7/introducing_trevorproxy_and_trevorspray_20/",
+          "publishedOn": "2022-01-19T15:09:59.000Z",
+          "wordCount": 148,
+          "title": "Introducing TREVORproxy and TREVORspray 2.0"
+        },
+        {
+          "id": "https://www.reddit.com/r/netsec/comments/s7no43/gorillas_special_offer_unicorn_slices_150g/",
+          "author": null,
+          "description": "submitted by    /u/moviuro  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/netsec/comments/s7no43/gorillas_special_offer_unicorn_slices_150g/",
+          "publishedOn": "2022-01-19T11:01:26.000Z",
+          "wordCount": 125,
+          "title": "Gorillas: Special offer - unicorn slices, 150g 🦍❤️"
+        },
+        {
+          "id": "https://www.reddit.com/r/netsec/comments/s7mhiu/demonstrating_how_phishermen_abuse_free_hosting/",
+          "author": null,
+          "description": "submitted by    /u/df_works  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/netsec/comments/s7mhiu/demonstrating_how_phishermen_abuse_free_hosting/",
+          "publishedOn": "2022-01-19T09:40:45.000Z",
+          "wordCount": 225,
+          "title": "Demonstrating how phishermen abuse free hosting"
+        },
+        {
           "id": "https://www.reddit.com/r/netsec/comments/s7cs02/seeyoucmthief_exploiting_common_misconfigurations/",
           "author": null,
           "description": "submitted by    /u/HackingLZ  \n [link]   [comments]",
@@ -12935,6 +13655,15 @@
           "publishedOn": "2022-01-18T15:57:19.000Z",
           "wordCount": 250,
           "title": "Robust and blazing fast open-redirect vulnerability scanner with ability of recursevely crawling all of web-forms, entry points, or links with data."
+        },
+        {
+          "id": "https://www.reddit.com/r/netsec/comments/s6zzw4/mixed_messages_busting_boxs_mfa_methods_varonis/",
+          "author": null,
+          "description": "submitted by    /u/VaronisThreatLabs  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/netsec/comments/s6zzw4/mixed_messages_busting_boxs_mfa_methods_varonis/",
+          "publishedOn": "2022-01-18T15:24:28.000Z",
+          "wordCount": 128,
+          "title": "Mixed Messages: Busting Box’s MFA Methods | Varonis"
         },
         {
           "id": "https://www.reddit.com/r/netsec/comments/s6xlhz/how_to_securely_implement_tls_certificate/",
@@ -14023,6 +14752,42 @@
       "feedUrl": "https://www.reddit.com/r/opendirectories/.rss",
       "siteUrl": "https://www.reddit.com/r/opendirectories/",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/opendirectories/comments/s85umn/wildlife_photos/",
+          "author": null,
+          "description": "submitted by    /u/PM_ME_TO_PLAY_A_GAME  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/opendirectories/comments/s85umn/wildlife_photos/",
+          "publishedOn": "2022-01-20T00:59:34.000Z",
+          "wordCount": 93,
+          "title": "wildlife photos"
+        },
+        {
+          "id": "https://www.reddit.com/r/opendirectories/comments/s82m2g/xelus_free_controller_prompts_visual_prompts_for/",
+          "author": null,
+          "description": "submitted by    /u/PCubiles  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/opendirectories/comments/s82m2g/xelus_free_controller_prompts_visual_prompts_for/",
+          "publishedOn": "2022-01-19T22:33:24.000Z",
+          "wordCount": 168,
+          "title": "Xelu's FREE Controller Prompts | Visual prompts for every mainstream controller's inputs"
+        },
+        {
+          "id": "https://www.reddit.com/r/opendirectories/comments/s7l5xz/a_large_folder_of_charles_manson_audio_recordings/",
+          "author": null,
+          "description": "http://109.120.203.163/Music/BLUES%20and%20country/Charles%20Manson/\n Go upwards for more.\n If anyone finds any steel lap guitar resources, send them my way. I've decided to focus on music and living a simple life, something my life the last few years hasn't been. I changed countries, moved to the country and took a job in nursing. (until I convince my friend Andy to let me session/ tour with his band.)\n    submitted by    /u/inoculatemedia  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/opendirectories/comments/s7l5xz/a_large_folder_of_charles_manson_audio_recordings/",
+          "publishedOn": "2022-01-19T08:06:48.000Z",
+          "wordCount": 243,
+          "title": "A large folder of Charles Manson audio recordings"
+        },
+        {
+          "id": "https://www.reddit.com/r/opendirectories/comments/s7kyyl/dd_stuff/",
+          "author": null,
+          "description": "submitted by    /u/PM_ME_TO_PLAY_A_GAME  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/opendirectories/comments/s7kyyl/dd_stuff/",
+          "publishedOn": "2022-01-19T07:53:51.000Z",
+          "wordCount": 137,
+          "title": "D&D stuff"
+        },
         {
           "id": "https://www.reddit.com/r/opendirectories/comments/s72rm4/calishot_202201_find_ebooks_among_373_calibre/",
           "author": null,
@@ -16042,6 +16807,15 @@
       "feedUrl": "https://www.hackingarticles.in/feed/",
       "siteUrl": "https://www.hackingarticles.in",
       "articles": [
+        {
+          "id": "https://www.hackingarticles.in/?p=27699",
+          "author": "Raj Chandel",
+          "description": "Introduction Writer is a CTF Linux box with difficulty rated as “medium” on the HackTheBox platform. The machine covers SQL injection vulnerability and privilege escalation\nThe post Writer HackTheBox Walkthrough appeared first on Hacking Articles.",
+          "link": "https://www.hackingarticles.in/writer-hackthebox-walkthrough/",
+          "publishedOn": "2022-01-19T12:47:12.000Z",
+          "wordCount": 1665,
+          "title": "Writer HackTheBox Walkthrough"
+        },
         {
           "id": "https://www.hackingarticles.in/?p=27695",
           "author": "Raj Chandel",
