@@ -6,6 +6,42 @@
       "siteUrl": "http://h1.nobbd.de/",
       "articles": [
         {
+          "id": "https://hackerone.com/reports/1455411",
+          "author": null,
+          "description": "Internet Bug Bounty disclosed a bug submitted by tniessen: https://hackerone.com/reports/1455411 - Bounty: $1200",
+          "link": "https://hackerone.com/reports/1455411",
+          "publishedOn": "2022-01-20T23:40:13.000Z",
+          "wordCount": 25,
+          "title": "Invalid handling of X509_verify_cert() internal errors in libssl (CVE-2021-4044)"
+        },
+        {
+          "id": "https://hackerone.com/reports/1410459",
+          "author": null,
+          "description": "Shopify disclosed a bug submitted by bepresent: https://hackerone.com/reports/1410459 - Bounty: $3500",
+          "link": "https://hackerone.com/reports/1410459",
+          "publishedOn": "2022-01-20T19:45:25.000Z",
+          "wordCount": 25,
+          "title": "Reflected XSS online-store-git.shopifycloud.com"
+        },
+        {
+          "id": "https://hackerone.com/reports/1421804",
+          "author": null,
+          "description": "Shopify disclosed a bug submitted by mester_x: https://hackerone.com/reports/1421804 - Bounty: $500",
+          "link": "https://hackerone.com/reports/1421804",
+          "publishedOn": "2022-01-20T19:15:58.000Z",
+          "wordCount": 25,
+          "title": "Direct Access To admin Dashboard"
+        },
+        {
+          "id": "https://hackerone.com/reports/1441988",
+          "author": null,
+          "description": "Shopify disclosed a bug submitted by nagli: https://hackerone.com/reports/1441988 - Bounty: $1600",
+          "link": "https://hackerone.com/reports/1441988",
+          "publishedOn": "2022-01-20T19:08:52.000Z",
+          "wordCount": 25,
+          "title": "Stored XSS at https://linkpop.com"
+        },
+        {
           "id": "https://hackerone.com/reports/1376961",
           "author": null,
           "description": "TikTok disclosed a bug submitted by lu3ky-13: https://hackerone.com/reports/1376961 - Bounty: $999",
@@ -2405,6 +2441,96 @@
       "siteUrl": "https://medium.com/tag/bugbounty/latest?source=rss------bugbounty-5",
       "articles": [
         {
+          "id": "https://medium.com/p/a09e48c82b50",
+          "author": "N0ur5",
+          "description": "So you might have heard of the log4j vulnerability (lol). If you’ve read the initial proof of concepts/general information that rushed out…\nContinue reading on Medium »",
+          "link": "https://n0ur5sec.medium.com/log4j-rce-when-remote-class-file-wont-load-newer-java-versions-a09e48c82b50?source=rss------bugbounty-5",
+          "publishedOn": "2022-01-20T22:30:03.000Z",
+          "wordCount": 129,
+          "title": "Log4j RCE When Remote Class File Won’t Load (Newer Java Versions)"
+        },
+        {
+          "id": "https://medium.com/p/ae89d1d7fec2",
+          "author": "Guaxi",
+          "description": "A fase de reconhecimento é a mais importante enquanto estamos analisando um “alvo”, e a coleta de parâmetros pode mudar o rumo do seu…\nContinue reading on Medium »",
+          "link": "https://guaxi.medium.com/coletando-par%C3%A2metros-com-o-burp-suite-ae89d1d7fec2?source=rss------bugbounty-5",
+          "publishedOn": "2022-01-20T20:16:03.000Z",
+          "wordCount": 707,
+          "title": "Coletando parâmetros com o BURP SUITE!"
+        },
+        {
+          "id": "https://medium.com/p/f31f28877521",
+          "author": "Ummeh habiba",
+          "description": "Bedbugs are a real threat to your sleep quality. These small, oval, and brown animals at night eat our blood at night. If you wake up with…\nContinue reading on Medium »",
+          "link": "https://medium.com/@ummeh5094/early-bed-bug-stains-on-sheets-f31f28877521?source=rss------bugbounty-5",
+          "publishedOn": "2022-01-20T19:24:13.000Z",
+          "wordCount": 980,
+          "title": "Early bed bug stains on sheets"
+        },
+        {
+          "id": "https://medium.com/p/3ff09d9cc0c5",
+          "author": "Mohit Ahir",
+          "description": "Disclaimer\nContinue reading on Medium »",
+          "link": "https://mohitkumar0786.medium.com/my-first-blind-xss-3ff09d9cc0c5?source=rss------bugbounty-5",
+          "publishedOn": "2022-01-20T17:49:23.000Z",
+          "wordCount": 571,
+          "title": "My First Blind XSS"
+        },
+        {
+          "id": "https://medium.com/p/4761b93481f1",
+          "author": "Quel",
+          "description": "Title\nFacebook room deep linking vulnerability, allow malicious user to know the code for anyone’s meeting.\nContinue reading on Medium »",
+          "link": "https://medium.com/@quelperlado/facebook-room-deep-linking-vulnerability-allow-malicious-user-to-know-the-code-for-anyones-4761b93481f1?source=rss------bugbounty-5",
+          "publishedOn": "2022-01-20T14:32:23.000Z",
+          "wordCount": 611,
+          "title": "Facebook room deep linking vulnerability, allow malicious user to know the code for anyone’s…"
+        },
+        {
+          "id": "https://medium.com/p/4e546533245",
+          "author": "Aaryan",
+          "description": "Hello people, it’s me again. I apologize for being late about the second part. I had some examinations going on and have been busy for the…\nContinue reading on Medium »",
+          "link": "https://aaryanapex.medium.com/bug-bounty-methodology-bug-hunting-checklist-part-2-4e546533245?source=rss------bugbounty-5",
+          "publishedOn": "2022-01-20T14:09:38.000Z",
+          "wordCount": 493,
+          "title": "Bug Bounty Methodology — Bug Hunting Checklist(PART-2)"
+        },
+        {
+          "id": "https://medium.com/p/62603eb4cba",
+          "author": "vFlexo",
+          "description": "Hello Ninjas! Today I am going to share everything(Almost Everything :P) that I know about Cross-site Scripting vulnerabilities. I would…\nContinue reading on Medium »",
+          "link": "https://medium.com/@vflexo/xyz-of-xss-62603eb4cba?source=rss------bugbounty-5",
+          "publishedOn": "2022-01-20T13:34:09.000Z",
+          "wordCount": 1208,
+          "title": "XYZ of XSS"
+        },
+        {
+          "id": "https://medium.com/p/8ed4b99a0e65",
+          "author": "Arif ARI",
+          "description": "Web uygulamalarının en önemli parçalarından biri olan Authentication, belirli bir kullanıcı veya istemcinin kimliğini doğrulama işlemidir…\nContinue reading on Medium »",
+          "link": "https://ariarif.medium.com/portswigger-web-security-authentication-lab-%C3%A7%C3%B6z%C3%BCmleri%CC%87-8ed4b99a0e65?source=rss------bugbounty-5",
+          "publishedOn": "2022-01-20T13:25:58.000Z",
+          "wordCount": 5161,
+          "title": "PORTSWIGGER WEB SECURITY - AUTHENTICATION LAB ÇÖZÜMLERİ"
+        },
+        {
+          "id": "https://medium.com/p/6c498d51e6ad",
+          "author": "Shreyas Gurjar",
+          "description": "Bypassing the Authentication mechanism results in an amazing Account takeover.\nContinue reading on Medium »",
+          "link": "https://shreyas-gurjar.medium.com/how-i-hacked-into-pune-universitys-exam-teachers-portal-6c498d51e6ad?source=rss------bugbounty-5",
+          "publishedOn": "2022-01-20T11:30:08.000Z",
+          "wordCount": 1260,
+          "title": "How I Hacked into Pune University’s Exam/Teachers Portal"
+        },
+        {
+          "id": "https://medium.com/p/d500b3f305c3",
+          "author": "NAKJI",
+          "description": "The Nakji Foundation\nContinue reading on Medium »",
+          "link": "https://nakji.medium.com/nakji-networks-200k-bug-bounty-program-d500b3f305c3?source=rss------bugbounty-5",
+          "publishedOn": "2022-01-20T08:23:03.000Z",
+          "wordCount": 672,
+          "title": "Nakji Network’s 200K Bug Bounty Program"
+        },
+        {
           "id": "https://medium.com/p/c555d49bf311",
           "author": "SI",
           "description": "(на момент написания статьи 100k PTP > $1м)\nContinue reading on Medium »",
@@ -4005,6 +4131,15 @@
       "siteUrl": "https://medium.com/tag/redteam/latest?source=rss------redteam-5",
       "articles": [
         {
+          "id": "https://medium.com/p/a9171506da85",
+          "author": "Umut Unal",
+          "description": "In this article, we will end the honeypot trilogy. If you haven’t read yet Part-1 and Part-2, you may take a look at them first. Or we can…\nContinue reading on Medium »",
+          "link": "https://umutunal.medium.com/honeypot-discussions-part-3-a9171506da85?source=rss------redteam-5",
+          "publishedOn": "2022-01-20T09:01:04.000Z",
+          "wordCount": 2162,
+          "title": "Honeypot Discussions Part-3"
+        },
+        {
           "id": "https://medium.com/p/8f68fe93545d",
           "author": "Roni CARTA",
           "description": "In today’s industry, we often hear that humans may weaken a company’s security leading to a potential breach. At ManoMano we highly…\nContinue reading on ManoMano Tech Team »",
@@ -5089,6 +5224,96 @@
       "feedUrl": "https://medium.com/feed/tag/osint",
       "siteUrl": "https://medium.com/tag/osint/latest?source=rss------osint-5",
       "articles": [
+        {
+          "id": "https://medium.com/p/c7eaf0909bd6",
+          "author": "Xstag0",
+          "description": "Exnoscan is a simple bash script that can help you identify gaps. We often monitor what we know, so Exnoscan aims to identify what you…\nContinue reading on Medium »",
+          "link": "https://medium.com/@xstag0/exnoscan-c7eaf0909bd6?source=rss------osint-5",
+          "publishedOn": "2022-01-20T19:37:48.000Z",
+          "wordCount": 590,
+          "title": "Exnoscan"
+        },
+        {
+          "id": "https://medium.com/p/8bad381479fe",
+          "author": "Chad Warner",
+          "description": "The Cyber Society at Cardiff University runs Cyber Detective CTF, a free OSINT CTF.\nContinue reading on Medium »",
+          "link": "https://warnerchad.medium.com/cyber-detective-osint-ctf-evidence-investigation-writeup-8bad381479fe?source=rss------osint-5",
+          "publishedOn": "2022-01-20T18:58:32.000Z",
+          "wordCount": 2084,
+          "title": "Cyber Detective OSINT CTF “Evidence Investigation” Writeup"
+        },
+        {
+          "id": "https://medium.com/p/6a7234355986",
+          "author": "Arroyo Braian",
+          "description": "Hoy les traigo a ustedes un nuevo articulo, donde decidí abordar una temática en especial, haciendo aprovechamiento de una de mis mayores…\nContinue reading on Medium »",
+          "link": "https://medium.com/@arroyobca/realizando-osint-con-google-lens-6a7234355986?source=rss------osint-5",
+          "publishedOn": "2022-01-20T17:02:40.000Z",
+          "wordCount": 1257,
+          "title": "Realizando OSINT con Google LENS"
+        },
+        {
+          "id": "https://medium.com/p/135ec27d70f2",
+          "author": "Arroyo Braian",
+          "description": "Hace unos días leí un artículo del Sr. Diaz Caneja, donde el autor destaca muy bien los alcances del social media intelligence y los…\nContinue reading on Medium »",
+          "link": "https://medium.com/@arroyobca/geoint-y-socmint-en-la-investigaci%C3%B3n-135ec27d70f2?source=rss------osint-5",
+          "publishedOn": "2022-01-20T16:53:58.000Z",
+          "wordCount": 801,
+          "title": "GEOINT y SOCMINT en la Investigación"
+        },
+        {
+          "id": "https://medium.com/p/4b2fe4bdd18c",
+          "author": "Arroyo Braian",
+          "description": "Para comenzar a hablar sobre estos nuevos paradigmas, primero debemos entender dichas terminologías con el fin de ser mas amena nuestra…\nContinue reading on Medium »",
+          "link": "https://medium.com/@arroyobca/los-nuevos-paradigmas-de-la-investigaci%C3%B3n-crimint-y-social-media-analitycs-ante-la-digitalizaci%C3%B3n-4b2fe4bdd18c?source=rss------osint-5",
+          "publishedOn": "2022-01-20T16:50:09.000Z",
+          "wordCount": 1155,
+          "title": "Los nuevos paradigmas de la Investigación: CRIMINT y Social media analitycs ante la digitalización"
+        },
+        {
+          "id": "https://medium.com/p/7586fa1c9b4",
+          "author": "Arroyo Braian",
+          "description": "Netflix largo una nueva serie donde nos deja ver la importancia de nuestros datos, en dicha historia un joven se obsesiona con una mujer y…\nContinue reading on Medium »",
+          "link": "https://medium.com/@arroyobca/you-una-serie-que-nos-muestra-la-vulnerabilidad-de-nuestra-informaci%C3%B3n-en-las-redes-sociales-7586fa1c9b4?source=rss------osint-5",
+          "publishedOn": "2022-01-20T16:45:08.000Z",
+          "wordCount": 809,
+          "title": "“YOU” una serie que nos muestra la vulnerabilidad de nuestra información en las Redes Sociales"
+        },
+        {
+          "id": "https://medium.com/p/6e882e5601a0",
+          "author": "Levent Durdalı",
+          "description": "On Jan 7, 2022, Quiztime (contributor @fiete_stegers) shared a new OSINT quiz with us. The objective was, weird :). We had to figure out…\nContinue reading on Medium »",
+          "link": "https://medium.com/@leventd/quiztime-random-osint-challenge-4-6e882e5601a0?source=rss------osint-5",
+          "publishedOn": "2022-01-20T15:20:46.000Z",
+          "wordCount": 429,
+          "title": "Quiztime — Random OSINT Challenge 4"
+        },
+        {
+          "id": "https://medium.com/p/718c887aa6cf",
+          "author": "Levent Durdalı",
+          "description": "On Jan 5, 2022, Quiztime (contributor @twone2) shared a new OSINT quiz with us. The objective was, weird :). We had to figure out what was…\nContinue reading on Medium »",
+          "link": "https://medium.com/@leventd/quiztime-random-osint-challenge-3-718c887aa6cf?source=rss------osint-5",
+          "publishedOn": "2022-01-20T15:20:27.000Z",
+          "wordCount": 386,
+          "title": "Quiztime — Random OSINT Challenge 3"
+        },
+        {
+          "id": "https://medium.com/p/cd9ca6a7015b",
+          "author": "Levent Durdalı",
+          "description": "On Jan 1, 2022, a regular Quiztime and contributor @bayer_julia shared a new OSINT quiz with us. The objective was, simple. We had to…\nContinue reading on Medium »",
+          "link": "https://medium.com/@leventd/quiztime-random-osint-challenge-2-cd9ca6a7015b?source=rss------osint-5",
+          "publishedOn": "2022-01-20T15:20:04.000Z",
+          "wordCount": 540,
+          "title": "Quiztime — Random OSINT Challenge 2"
+        },
+        {
+          "id": "https://medium.com/p/96770336d4df",
+          "author": "Levent Durdalı",
+          "description": "On December 29, 2021, Quiztime (contributor @ twone2) shared a new OSINT quiz with us. The objective was, for me at least not very simple…\nContinue reading on Medium »",
+          "link": "https://medium.com/@leventd/quiztime-random-osint-challange-1-96770336d4df?source=rss------osint-5",
+          "publishedOn": "2022-01-20T15:19:31.000Z",
+          "wordCount": 615,
+          "title": "Quiztime — Random OSINT Challange 1"
+        },
         {
           "id": "https://medium.com/p/31ae1cba264e",
           "author": "PME Intelligence",
@@ -6475,6 +6700,15 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=30007470",
+          "author": "erk__",
+          "description": "Article URL: https://blog.rust-lang.org/2022/01/20/cve-2022-21658.html\nComments URL: https://news.ycombinator.com/item?id=30007470\nPoints: 10\n# Comments: 0",
+          "link": "https://blog.rust-lang.org/2022/01/20/cve-2022-21658.html",
+          "publishedOn": "2022-01-20T11:20:11.000Z",
+          "wordCount": 637,
+          "title": "Rust – Security advisory for the standard library (CVE-2022-21658)"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=29931694",
           "author": "neustradamus",
           "description": "Article URL: https://snikket.org/blog/snikket-jan-2021-security-release/\nComments URL: https://news.ycombinator.com/item?id=29931694\nPoints: 1\n# Comments: 0",
@@ -6769,6 +7003,15 @@
       "feedUrl": "https://hnrss.org/newest?q=vulnerability",
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
+        {
+          "id": "https://news.ycombinator.com/item?id=30003308",
+          "author": "nsoonhui",
+          "description": "Article URL: https://stackoverflow.blog/2022/01/19/heres-how-stack-overflow-users-responded-to-log4shell-the-log4j-vulnerability-affecting-almost-everyone/\nComments URL: https://news.ycombinator.com/item?id=30003308\nPoints: 2\n# Comments: 0",
+          "link": "https://stackoverflow.blog/2022/01/19/heres-how-stack-overflow-users-responded-to-log4shell-the-log4j-vulnerability-affecting-almost-everyone/",
+          "publishedOn": "2022-01-20T01:56:25.000Z",
+          "wordCount": 1702,
+          "title": "How Stack Overflow users responded to Log4Shell, the Log4j vulnerability"
+        },
         {
           "id": "https://news.ycombinator.com/item?id=29991743",
           "author": "domrdy",
@@ -7235,6 +7478,96 @@
       "feedUrl": "https://www.freebuf.com/feed",
       "siteUrl": "https://www.freebuf.com",
       "articles": [
+        {
+          "id": "https://www.freebuf.com/news/320415.html",
+          "author": null,
+          "description": "《基本要求》规定了网络安全从业人员分类和各类从业人员具备的知识和技能要求，适用于各类组织对网络安全从业人员的选拔、培养、评价、管理等。",
+          "link": "https://www.freebuf.com/news/320415.html",
+          "publishedOn": "2022-01-20T09:15:13.000Z",
+          "wordCount": 143,
+          "title": "《信息安全技术 网络安全从业人员能力基本要求》（征求意见稿）发布"
+        },
+        {
+          "id": "https://www.freebuf.com/news/320413.html",
+          "author": null,
+          "description": "美国营销巨头RR Donnelly（RRD)公司日前透露，该公司在一次12月的网络攻击中被窃取了数据。事后经BleepingComputer证实，这是一次Conti勒索软件攻击。RRD是一家头部的综合服务公司，为企业客户提供通信、商业印刷和营销服务。公司在全球200多个地点拥有超33,000名员工，其2021年的收入为49.3亿美元。2011年12月27日，RRD公司向美国证券交易委员会(SEC)",
+          "link": "https://www.freebuf.com/news/320413.html",
+          "publishedOn": "2022-01-20T09:05:34.000Z",
+          "wordCount": 141,
+          "title": "营销巨头RRD承认在Conti勒索软件攻击中数据被盗"
+        },
+        {
+          "id": "https://www.freebuf.com/news/320406.html",
+          "author": null,
+          "description": "《意见》从健全完善规则制度、提升监管能力和水平、优化发展环境、增强创新发展能力、赋能经济转型发展、保障措施等方面提出了十九条措施。",
+          "link": "https://www.freebuf.com/news/320406.html",
+          "publishedOn": "2022-01-20T09:01:48.000Z",
+          "wordCount": 138,
+          "title": "九部门联合发布《关于推动平台经济规范健康持续发展的若干意见》"
+        },
+        {
+          "id": "https://www.freebuf.com/news/320408.html",
+          "author": null,
+          "description": "红十字国际委员会披露其数据承包商遭受网络攻击，导致“家庭团聚”项目信息泄露，超过 51.5 万民众个人数据被盗。",
+          "link": "https://www.freebuf.com/news/320408.html",
+          "publishedOn": "2022-01-20T09:00:46.000Z",
+          "wordCount": 153,
+          "title": "红十字国际委员会遭受网络攻击，超 51.5 万人的数据发生泄露"
+        },
+        {
+          "id": "https://www.freebuf.com/news/320405.html",
+          "author": null,
+          "description": "根据俄亥俄州刚刚申请解封的政府监控显示，2021 年 11 月，美国缉毒署的调查人员要求WhatsApp跟踪 7 名位于中国的用户。。",
+          "link": "https://www.freebuf.com/news/320405.html",
+          "publishedOn": "2022-01-20T08:59:10.000Z",
+          "wordCount": 235,
+          "title": "FreeBuf早报 | 美国特工利用WhatsApp监视中国手机；中国首个网安行业服务短号开通"
+        },
+        {
+          "id": "https://www.freebuf.com/articles/web/320392.html",
+          "author": null,
+          "description": "接上篇《90分的机房长什么样？（一）》内容，本篇继续为大家讲解机房设备中的另外三方面测评标准。",
+          "link": "https://www.freebuf.com/articles/web/320392.html",
+          "publishedOn": "2022-01-20T07:11:47.000Z",
+          "wordCount": 153,
+          "title": "90分的机房长什么样？（一）"
+        },
+        {
+          "id": "https://www.freebuf.com/vuls/320380.html",
+          "author": null,
+          "description": "在学习pwn的过程中，我们通常会碰到开启NX的情况，也就是堆栈不可执行，在这种情况下，我们要利用栈内的未被清空的内容或者例如init这种函数，来进行构造rop，进一步编写exp拿到shell。",
+          "link": "https://www.freebuf.com/vuls/320380.html",
+          "publishedOn": "2022-01-20T06:09:07.000Z",
+          "wordCount": 311,
+          "title": "剖析NX开启状态下ROP的构造"
+        },
+        {
+          "id": "https://www.freebuf.com/news/320378.html",
+          "author": null,
+          "description": "FBI警告：骗子正在使用假二维码窃取您的密码和金钱。",
+          "link": "https://www.freebuf.com/news/320378.html",
+          "publishedOn": "2022-01-20T06:04:06.000Z",
+          "wordCount": 155,
+          "title": "营销巨头数据被盗、国际红十字会遭遇网络攻击｜1月20日全球网络安全热点"
+        },
+        {
+          "id": "https://www.freebuf.com/news/320375.html",
+          "author": null,
+          "description": "该钓鱼活动已经持续了至少几个月，邮件发件人假装是DoL的高级员工，邀请收件人为正在进行的政府项目提交投标。",
+          "link": "https://www.freebuf.com/news/320375.html",
+          "publishedOn": "2022-01-20T05:41:26.000Z",
+          "wordCount": 149,
+          "title": "网络钓鱼者正冒充美国劳工部骗取用户Office 365账号"
+        },
+        {
+          "id": "https://www.freebuf.com/news/320352.html",
+          "author": null,
+          "description": "国内网络环境一直处于“水深火热”中，网络世界对抗的趋势越来越明显，受到别国的网络攻击频率不断增加。",
+          "link": "https://www.freebuf.com/news/320352.html",
+          "publishedOn": "2022-01-20T03:25:21.000Z",
+          "wordCount": 387,
+          "title": "FreeBuf网安大事记 | 2021年度国内网安事件汇总"
+        },
         {
           "id": "https://www.freebuf.com/news/320287.html",
           "author": null,
@@ -9644,6 +9977,15 @@
       "siteUrl": "http://www.sec-wiki.com/",
       "articles": [
         {
+          "id": "http://www.sec-wiki.com/?2022-01-20",
+          "author": null,
+          "description": "浅析现代企业网络安全架构  by ourren\n更多最新文章，请访问SecWiki",
+          "link": "http://www.sec-wiki.com/?2022-01-20",
+          "publishedOn": "2022-01-20T15:58:20.000Z",
+          "wordCount": 584,
+          "title": "SecWiki News 2022-01-20 Review"
+        },
+        {
           "id": "http://www.sec-wiki.com/?2022-01-19",
           "author": null,
           "description": "基于上下文感知计算的APT攻击组织追踪方法  by ourren\n2021年全球DDoS威胁报告  by ourren\n谁动了我的DevOps：DevOps风险测绘  by ourren\n更多最新文章，请访问SecWiki",
@@ -9992,6 +10334,78 @@
       "feedUrl": "https://www.reddit.com/r/asknetsec/.rss",
       "siteUrl": "https://www.reddit.com/r/asknetsec/",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/s8tsh7/big_tech_advertiser_friendliness_and_seo_garbage/",
+          "author": null,
+          "description": "This is potentially a bit off-topic for this sub, but hopefully well within scope for the users:\n Feels like search results are full of complete nonsense (I've moved from google to qwant about a year ago, which was good at first, but now seems to be getting worse) and individual mainstream websites are constantly banning creators and removing content that's otherwise useful but potentially unfriendly to advertisers. This is just a loose feeling that the internet is getting worse every day, I'm wondering if there is any pushback against this and if it's possible to get an experience closer to 10-15 years ago when it didn't feel like a dystopian hellscape was rapidly approaching. \n Are corporate friendly walled gardens going to be the future of the internet? Is this going to be preferred when search engines lose the arms race against SEO spam? Is the sky actually falling?\n    submitted by    /u/TwinkyTheBear  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/s8tsh7/big_tech_advertiser_friendliness_and_seo_garbage/",
+          "publishedOn": "2022-01-20T21:43:59.000Z",
+          "wordCount": 440,
+          "title": "Big Tech advertiser friendliness and SEO garbage."
+        },
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/s8p5u5/any_love_for_carbon_black_edr/",
+          "author": null,
+          "description": "CB Advanced is $30/device. SentinelOne Control is $31/device.\n CB gives me a process tree/timeline of the attack. S1 requires Complete to do that, about $60/device.\n I've been quoted $2,500 for VMware to help setup my policies so it's set and forget. I read a lot of hate on here about CB being too noisy. Also a decent amount of hate for S1. CrowdStrike seems to be the favorite but it's $70-80/device, so wanting CB or S1.\n Which one would you go with? 200 devices, so small environment. Upgrading from Webroot, so anything is better.\n    submitted by    /u/JeepMunkee  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/s8p5u5/any_love_for_carbon_black_edr/",
+          "publishedOn": "2022-01-20T18:11:32.000Z",
+          "wordCount": 450,
+          "title": "Any love for Carbon Black EDR?"
+        },
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/s8p11p/which_cloud_ias_service_for_ddos_tests/",
+          "author": null,
+          "description": "Hello,\n we are a small pentesting firm and want to include (small-scale, short-term!) \"DDoS\" tests in our portfolio (only whitehat tests with full permission, simple stuff such as SYN floods, TLS flooding, slow loris).\n Our last cloud VPS vendor was ok with it first, but withdrew their permission to use their boxes for any kind of DDoS testing after a number of successful tests. Maybe it was just a nervous employee - but it is a problem for us if we cannot fulfill our obligations to our customers if the cloud vendor suddenly cuts our service.\n => We are thus looking for a reliable and trustworthy cloud IaS (VPS) provider for small scale DDoS tests:\n  \nUp to a 100 virtual servers at a time (starting with 1, then adding servers until saturation is given or the target system passes the test without service reduction)\n API for instantiating/provisioning and starting/stopping the boxes, executing scripts\n Reasonable network connection - but volumetric DDoS testing is only the smallest part of our test suite\n Central to Eastern European area preferred\n Only whitehat tests with full permission, reputable business\n Only short bursts in the magnitude of minutes (until our monitor sensor recognizes service degradation in the target)\n  \nCan you recommend cloud VPS vendors which are OK with such small-scale, short-term DDoS tests?\n Thank you very much!\n Dany\n    submitted by    /u/thrownetsecddos  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/s8p11p/which_cloud_ias_service_for_ddos_tests/",
+          "publishedOn": "2022-01-20T18:05:35.000Z",
+          "wordCount": 322,
+          "title": "Which cloud IaS service for DDoS tests?"
+        },
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/s8o8ms/what_is_this_presumed_phishing_email_trying_to/",
+          "author": null,
+          "description": "The only thing I can think of is they are trying to get me to call the 888-number in the message.\n Simple Order is restaurant software, I don't work in a restaurant and they wouldn't have iPads.\n The address at the bottom in California is a house.\n There is no Durham in NY that I can find (the ship to).\n Paypal is clean.\n What am I missing? There are no links, no pictures or attachments I can find.\n I sanitized my name (which was correct) and my email address, everything else is from the original raw email. Please let me know if you need anything else to help figure out what's happening here. Thanks!\n ​\n Received: from 10.217.151.75 by atlas212.free.mail.ne1.yahoo.com with HTTPS; Thu, 20 Jan 2022 15:49:18 +0000 Return-Path: <billingdept3755@gmail.com> X-Originating-Ip: [209.85.166.178] Rec…",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/s8o8ms/what_is_this_presumed_phishing_email_trying_to/",
+          "publishedOn": "2022-01-20T17:31:07.000Z",
+          "wordCount": 1398,
+          "title": "What is this presumed phishing email trying to accomplish?"
+        },
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/s8mcrt/help_with_masters_thesis_python_rat_malware/",
+          "author": null,
+          "description": "Hey everyone,\n I am currently in the process of completing my dissertation which involves creating my own python malware to test some free anti-virus solutions and software. For the dissertation/thesis i need to find some samples of RAT malware written in python to analyse , I have managed to find a couple but ideally I need a good website/resource that has a database off them. Any help would be great , many thanks!\n    submitted by    /u/DJ0x  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/s8mcrt/help_with_masters_thesis_python_rat_malware/",
+          "publishedOn": "2022-01-20T16:07:38.000Z",
+          "wordCount": 578,
+          "title": "Help with Masters Thesis :) Python RAT Malware Samples"
+        },
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/s8j6od/home_network_abused_for_brute_force_ssh_attacks/",
+          "author": null,
+          "description": "Hi, an interesting security incident occured at my home and I would greatly appreciate advice on how to proceed. \n Few days ago, my HBO service was blocked in all my devices connected to my home WiFi (yet worked outside the network), which was quite interesting and after few calls to HBO support I finally got the information that they actively blocked my IP address due to malicious activity occuring from my IP that was reported in public database.\n After some googling I found out that this must be the https://www.abuseipdb.com/ where my IP address really was reported (38x) for categories: \"Port Scan\", \"Hacking\", \"Brute force\", \"SSH\". I checked the reports in details and it seems that all attacks were done via SSH and they were trying to log into different websites using different user name…",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/s8j6od/home_network_abused_for_brute_force_ssh_attacks/",
+          "publishedOn": "2022-01-20T13:37:27.000Z",
+          "wordCount": 1537,
+          "title": "Home network abused for brute force ssh attacks"
+        },
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/s8hiq4/where_do_you_draw_the_line_between_legal_and/",
+          "author": null,
+          "description": "I've been jr pentester for few months and was wondering right before you get green light to pentest an web application and you have spare time at work and decide to gather some information, what is your approach? I can find some emails of the company and check with what tools the web app was build. But whenever I do subdomain scraping with amass or sublist3r or other frameworks the firewall is always signaling. I have absolutely no intention to do something illegal and get in trouble neither me or the company.\n Where do you draw the line which act is legal and illegal? \n I also want to get into bug bounty programs, but I am afraid because of the same reason. When doing do you use any proxies or other stuff? How do you basically stay safe(keep some anonymity) even for whitehat, when doing this job.\n    submitted by    /u/tryingtoworkatm  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/s8hiq4/where_do_you_draw_the_line_between_legal_and/",
+          "publishedOn": "2022-01-20T12:08:13.000Z",
+          "wordCount": 1269,
+          "title": "Where do you draw the line between legal and illegal?"
+        },
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/s89jsr/whats_more_lucrative_black_hat_or_white_hat/",
+          "author": null,
+          "description": "submitted by    /u/anon314159265358p  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/s89jsr/whats_more_lucrative_black_hat_or_white_hat/",
+          "publishedOn": "2022-01-20T04:00:06.000Z",
+          "wordCount": 434,
+          "title": "What's more lucrative: black hat or white hat hacking?"
+        },
         {
           "id": "https://www.reddit.com/r/AskNetsec/comments/s7z2ve/from_mvp_to_iso27001soc_2/",
           "author": null,
@@ -11845,6 +12259,24 @@
       "siteUrl": "https://www.reddit.com/r/redteamsec/",
       "articles": [
         {
+          "id": "https://www.reddit.com/r/redteamsec/comments/s8t6ie/using_go_to_develop_offensive_tooling/",
+          "author": null,
+          "description": "With better Security Tooling, that can easily detect Powershell and C# Offensive Tooling, Red Teamers have to adapt their offensive capabilities. Go is a staticly linked programming language which can be easily crossed compiled and needs no installation dependencies. This makes it perfect for Red Teamers. This great talk describes how Golang can be used in an offensive way:\n ​\n https://youtu.be/AGLunpPtOgM\n    submitted by    /u/_R4bb1t_  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/redteamsec/comments/s8t6ie/using_go_to_develop_offensive_tooling/",
+          "publishedOn": "2022-01-20T21:16:54.000Z",
+          "wordCount": 296,
+          "title": "Using Go to Develop Offensive Tooling"
+        },
+        {
+          "id": "https://www.reddit.com/r/redteamsec/comments/s8k0ns/moonbounce_the_dark_side_of_uefi_firmware/",
+          "author": null,
+          "description": "submitted by    /u/dmchell  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/redteamsec/comments/s8k0ns/moonbounce_the_dark_side_of_uefi_firmware/",
+          "publishedOn": "2022-01-20T14:19:03.000Z",
+          "wordCount": 114,
+          "title": "MoonBounce: the dark side of UEFI firmware"
+        },
+        {
           "id": "https://www.reddit.com/r/redteamsec/comments/s83b5s/zloader_installs_remote_access_backdoors_and/",
           "author": null,
           "description": "submitted by    /u/dmchell  \n [link]   [comments]",
@@ -12930,6 +13362,33 @@
       "siteUrl": "https://www.reddit.com/r/computerforensics/",
       "articles": [
         {
+          "id": "https://www.reddit.com/r/computerforensics/comments/s8vwmh/does_anyone_know_what_gaia_account_name_means/",
+          "author": null,
+          "description": "I couldn't find much at all, but I feel like \"gaia\" has some connotation like mother/creator/origin, and thus \"gaia_account_name\" means the account name of the user that setup Google Duo on the device. \n Any progress toward certainty is greatly appreciated.\n    submitted by    /u/PieWithIceCreamCrust  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/computerforensics/comments/s8vwmh/does_anyone_know_what_gaia_account_name_means/",
+          "publishedOn": "2022-01-20T23:26:46.000Z",
+          "wordCount": 292,
+          "title": "Does anyone know what \"gaia_account_name\" means specifically in the context of a Google Duo database table?"
+        },
+        {
+          "id": "https://www.reddit.com/r/computerforensics/comments/s8uimb/i_hosted_a_webinar_for_htcia_last_week_about/",
+          "author": null,
+          "description": "submitted by    /u/Monolith_Pro  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/computerforensics/comments/s8uimb/i_hosted_a_webinar_for_htcia_last_week_about/",
+          "publishedOn": "2022-01-20T22:16:13.000Z",
+          "wordCount": 200,
+          "title": "I hosted a webinar for HTCIA last week about providing effective expert witness testimony - here’s the recording!"
+        },
+        {
+          "id": "https://www.reddit.com/r/computerforensics/comments/s8cc2p/effective_imagingcloning_large_disk/",
+          "author": null,
+          "description": "Hi there.\n Is there a most effective way of imaging very large disks (over 2 terra bytes)? The next challenge is when doing the automated analysis (I'm using Autopsy), is there a more effective (fastest) way to do this? \n I once analyzed a 1 TB disk using Autopsy and it took more than 1 week to complete (the computer specification: CPU i7 6th Gen, RAM 32GB, imaging results on SSD, and using type C connector)\n EDIT 1: Thank you for all of your feedback. I can't afford a TX1 or any licensed tool (hardware or software based) at the moment. Using the open source tool is preferred. However, I also open for any licensed hardware or software suggestions. The only licensed hardware that I use is the WiebeTech write blocker. I'm using Autopsy for automated analysis (some ingest modules were used such as hashing, web artifacts, keyword search, and Plaso) and CAINE for manual analysis.\n    submitted by    /u/modpr0be  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/computerforensics/comments/s8cc2p/effective_imagingcloning_large_disk/",
+          "publishedOn": "2022-01-20T06:29:36.000Z",
+          "wordCount": 945,
+          "title": "Effective imaging/cloning large disk"
+        },
+        {
           "id": "https://www.reddit.com/r/computerforensics/comments/s80jj5/pcap_analysis/",
           "author": null,
           "description": "Hi there.\n I am just starting to learn about PCAP analysis/forensics. I am experienced in Windows OS forensics and never really worked with PCAPs before. What's some of the tools everyone uses besides Wireshark? I've been reading up on Zeek.\n    submitted by    /u/antmar9041  \n [link]   [comments]",
@@ -13548,6 +14007,69 @@
       "feedUrl": "https://www.reddit.com/r/netsec/.rss",
       "siteUrl": "https://www.reddit.com/r/netsec/",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/netsec/comments/s8qwgw/a_detailed_analysis_of_whispergate_targeting/",
+          "author": null,
+          "description": "submitted by    /u/CyberMasterV  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/netsec/comments/s8qwgw/a_detailed_analysis_of_whispergate_targeting/",
+          "publishedOn": "2022-01-20T19:29:22.000Z",
+          "wordCount": 116,
+          "title": "A Detailed Analysis of WhisperGate Targeting Ukrainian Organizations"
+        },
+        {
+          "id": "https://www.reddit.com/r/netsec/comments/s8ltj9/pentest_collaboration_framework_tool_which_will/",
+          "author": null,
+          "description": "submitted by    /u/Any_Gas_6250  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/netsec/comments/s8ltj9/pentest_collaboration_framework_tool_which_will/",
+          "publishedOn": "2022-01-20T15:43:36.000Z",
+          "wordCount": 282,
+          "title": "Pentest Collaboration Framework: tool which will help you to store/modify/share information about pentest/web analysis projects. OpenSource, Portable, CrossPlatform & completely free! Supports integration with 15 tools & user-defined report generation. For several teams: seperated workspaces!"
+        },
+        {
+          "id": "https://www.reddit.com/r/netsec/comments/s8lrvt/houdini_a_web_app_with_huge_number_of_docker/",
+          "author": null,
+          "description": "submitted by    /u/deleee  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/netsec/comments/s8lrvt/houdini_a_web_app_with_huge_number_of_docker/",
+          "publishedOn": "2022-01-20T15:41:22.000Z",
+          "wordCount": 240,
+          "title": "HOUDINI: A web app with huge number of Docker Images for Network Security with run commands and cheatsheet (Hundreds of Offensive and Useful Docker Images for Network Intrusion )"
+        },
+        {
+          "id": "https://www.reddit.com/r/netsec/comments/s8jj3o/how_mail_server_related_dns_settings_spf_dkim/",
+          "author": null,
+          "description": "submitted by    /u/c0r0n3r  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/netsec/comments/s8jj3o/how_mail_server_related_dns_settings_spf_dkim/",
+          "publishedOn": "2022-01-20T13:54:59.000Z",
+          "wordCount": 297,
+          "title": "How mail server related DNS settings (SPF, DKIM, DMARC, MTA-STS, DANE, BIMI) work and their usage stats in the top 1M domain"
+        },
+        {
+          "id": "https://www.reddit.com/r/netsec/comments/s8h1de/first_morello_prototype_architecture_silicon/",
+          "author": null,
+          "description": "submitted by    /u/unaligned_access  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/netsec/comments/s8h1de/first_morello_prototype_architecture_silicon/",
+          "publishedOn": "2022-01-20T11:37:12.000Z",
+          "wordCount": 878,
+          "title": "First Morello prototype architecture silicon (memory safety at a hardware level)"
+        },
+        {
+          "id": "https://www.reddit.com/r/netsec/comments/s8f9j0/smbsr_made_it_through_another_lockdown_with_some/",
+          "author": null,
+          "description": "submitted by    /u/oldboy21  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/netsec/comments/s8f9j0/smbsr_made_it_through_another_lockdown_with_some/",
+          "publishedOn": "2022-01-20T09:39:31.000Z",
+          "wordCount": 152,
+          "title": "SMBSR made it through another lockdown with some new interesting skills (and fixes). Go check out and judge it (respectfully)"
+        },
+        {
+          "id": "https://www.reddit.com/r/netsec/comments/s8bm07/octopuswaf_is_an_opensource_web_application/",
+          "author": null,
+          "description": "submitted by    /u/CoolerVoid  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/netsec/comments/s8bm07/octopuswaf_is_an_opensource_web_application/",
+          "publishedOn": "2022-01-20T05:48:43.000Z",
+          "wordCount": 240,
+          "title": "OctopusWAF is an open-source web application firewall made in C language and uses libevent resources."
+        },
         {
           "id": "https://www.reddit.com/r/netsec/comments/s7u6sp/cryptolyzer_a_comprehensive_cryptographic/",
           "author": null,
@@ -16807,6 +17329,15 @@
       "feedUrl": "https://www.hackingarticles.in/feed/",
       "siteUrl": "https://www.hackingarticles.in",
       "articles": [
+        {
+          "id": "https://www.hackingarticles.in/?p=27703",
+          "author": "Raj Chandel",
+          "description": "Hackable: 3, Vulnhub medium machine was created by Elias Sousa and can be downloaded here.This lab is designed for experienced CTF players who want to\nThe post Hackable: 3 VulnHub Walkthrough appeared first on Hacking Articles.",
+          "link": "https://www.hackingarticles.in/hackable-3-vulnhub-walkthrough/",
+          "publishedOn": "2022-01-20T13:16:13.000Z",
+          "wordCount": 1798,
+          "title": "Hackable: 3 VulnHub Walkthrough"
+        },
         {
           "id": "https://www.hackingarticles.in/?p=27699",
           "author": "Raj Chandel",
