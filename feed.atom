@@ -2,10 +2,595 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cod3crash.github.io/sec-feed/index.html</id>
     <title>security feed</title>
-    <updated>2022-01-21T01:03:53.021Z</updated>
+    <updated>2022-01-22T01:02:57.595Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://cod3crash.github.io/sec-feed/index.html"/>
     <link rel="self" href="https://cod3crash.github.io/sec-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[What can work computers/IT have access to?]]></title>
+        <id>https://www.reddit.com/r/AskNetsec/comments/s9pmtt/what_can_work_computersit_have_access_to/</id>
+        <link href="https://www.reddit.com/r/AskNetsec/comments/s9pmtt/what_can_work_computersit_have_access_to/"/>
+        <updated>2022-01-22T00:37:29.000Z</updated>
+        <summary type="html"><![CDATA[Assume you have a work laptop given to you with a remote software that’s installed to give IT monitoring and troubleshooting access. 
+ What are some best practices for separating your work and personal stuff when using the work laptop? 
+ Should you avoid logging into things like your personal google account, Bank accounts, etc? 
+ Does this make it possible for someone in IT possibly with bad intent to also have access to your other devices in your network? If so, best practices to avoid such breaches?
+ I assume you never want to login into your other computers shared drives from your work computer which will give access to every file on your personal computer that’s shared.
+ I’m curious what is the extent of monitoring that a normal corporate workplace does on the computer? I always assumed they can see my screen at any time, all key strokes are logged. 
+ But this makes me uncomfortable in the event that there’s a breach, hack, or bad employee who can cause lots of damage. 
+ Thoughts on this matter? Anyone familiar with kaseya software for monitoring?
+    submitted by    /u/RasAlTimmeh  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>AskNetsec</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CVE-2022-0185: Detecting and mitigating Linux Kernel vulnerability causing container escape]]></title>
+        <id>https://www.reddit.com/r/netsec/comments/s9mw1z/cve20220185_detecting_and_mitigating_linux_kernel/</id>
+        <link href="https://www.reddit.com/r/netsec/comments/s9mw1z/cve20220185_detecting_and_mitigating_linux_kernel/"/>
+        <updated>2022-01-21T22:31:25.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/MiguelHzBz  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>/r/netsec - Information Security News &amp; Discussion</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I need an advice]]></title>
+        <id>https://www.reddit.com/r/AskNetsec/comments/s9mmen/i_need_an_advice/</id>
+        <link href="https://www.reddit.com/r/AskNetsec/comments/s9mmen/i_need_an_advice/"/>
+        <updated>2022-01-21T22:19:48.000Z</updated>
+        <summary type="html"><![CDATA[Hi, I can choose among 3 internships as a computer science student. I really want to land a job in cybersecurity but right now I need to build up my CV and finish my degree.
+ The 3 internships are:
+ Automation Software Engineer (you have to validate portions of software implementations for Communication Service Providers based on established engineering principles and in accordance with provided specifications and requirements, help evolving our telecommunication focused product, build demonstrations of product use cases help to prepare collaterals to explain technical product capabilities, software architectures and features, build automated test scripts to analyse test data to verify requirements compliance)
+ Internship Program for Information Science or Telco Engineer (you have to participate to a project delivery for assigned tasks, that may include performing analysis and design of a IT or Telco Solution, SW Development, systems configurations, troubleshooting systems errors/problems, monitoring and/or testing systems performance, and contribute to the design of technical solutions for customer environments, work under supervision of technical lead and with customer nominated representatives to accomplish assigned tasks)
+ Automated Assurance Artificial Intelligence & Machine Learning Engineer (validate portions of software implementations for Communication Service Providers based on established engineering principles and in accordance with provided specifications and requirements,
+ develop and extend the coverage of current test automation, build automated test scripts to analyse test data to verify requirements compliance, work on small independent software and system integration projects to augment internal work).
+ As you can see they are intertwined, but I would guess the 2nd one could be more cybersec-oriented (for the telco part). What do you think? Any advice is appreciated.
+    submitted by    /u/Danyderossi  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>AskNetsec</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Switching From IT Audit]]></title>
+        <id>https://www.reddit.com/r/AskNetsec/comments/s9meoy/switching_from_it_audit/</id>
+        <link href="https://www.reddit.com/r/AskNetsec/comments/s9meoy/switching_from_it_audit/"/>
+        <updated>2022-01-21T22:10:24.000Z</updated>
+        <summary type="html"><![CDATA[Hello,
+ I work in IT audit and I would like to have a more operational/hands-on role within an IT department. The problem is that I don't have any experience dealing directly with IT work. How would you recommend I go about transitioning from IT audit to a more technical role? Any certifications or skillsets I you would recommend I obtain? I was thinking IT Security would probably be the best fit, given most of my audits are involved with IT security, patch management, or mobile device security.
+    submitted by    /u/DapperDandy22  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>AskNetsec</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Payloads in Word/PDF documents: Is this still a thing?]]></title>
+        <id>https://www.reddit.com/r/AskNetsec/comments/s9lzxe/payloads_in_wordpdf_documents_is_this_still_a/</id>
+        <link href="https://www.reddit.com/r/AskNetsec/comments/s9lzxe/payloads_in_wordpdf_documents_is_this_still_a/"/>
+        <updated>2022-01-21T21:52:15.000Z</updated>
+        <summary type="html"><![CDATA[I read about this being used to hack computers recently. Are most computers still vulnerable to this?
+ Payload=malicious file that could potentially create a backdoor that runs in the document when you enable macros (most people are not cognizant of this possibility).
+ An article I read tested this successfully on a Windows machine running Outlook that defaulted to Adobe to read the PDF.
+ I noticed in GMail that docs and PDFs aren't opened on the computer, but read in a window. Does this prevent payload execution?
+ Anyways, I'd like to know if this is still a thing and why? Why can't Adobe or Microsoft build their applications to not allow this?
+    submitted by    /u/anon314159265358p  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>AskNetsec</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cyber Investigator OSINT CTF “Cyber Crime” Writeup]]></title>
+        <id>https://medium.com/p/f212fcc7dfd6</id>
+        <link href="https://warnerchad.medium.com/cyber-investigator-ctf-cyber-crime-writeup-f212fcc7dfd6?source=rss------osint-5"/>
+        <updated>2022-01-21T21:30:24.000Z</updated>
+        <summary type="html"><![CDATA[The Cyber Society at Cardiff University runs the Cyber Investigator CTF, a free CTF with OSINT and forensics challenges.
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Chad Warner</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[First Blog…]]></title>
+        <id>https://medium.com/p/68c9cc37b62c</id>
+        <link href="https://medium.com/@Haribo_Actual/first-blog-68c9cc37b62c?source=rss------osint-5"/>
+        <updated>2022-01-21T21:21:21.000Z</updated>
+        <summary type="html"><![CDATA[This is my first ever blog. Blogging is not something I ever thought i’d end up doing, but to obtain #OSINTDojo ranks & badges there are…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Haribo_Actual</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[hosted.weblate.org display of unfiltered results]]></title>
+        <id>https://hackerone.com/reports/1454552</id>
+        <link href="https://hackerone.com/reports/1454552"/>
+        <updated>2022-01-21T20:47:58.000Z</updated>
+        <summary type="html"><![CDATA[Weblate disclosed a bug submitted by joshmcman08: https://hackerone.com/reports/1454552]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Duplicating USB drives]]></title>
+        <id>https://www.reddit.com/r/computerforensics/comments/s9i6k4/duplicating_usb_drives/</id>
+        <link href="https://www.reddit.com/r/computerforensics/comments/s9i6k4/duplicating_usb_drives/"/>
+        <updated>2022-01-21T19:04:09.000Z</updated>
+        <summary type="html"><![CDATA[Good day all,
+ I feel my question is on the border of Computer forensics, but I believe still pertinent. I do not come from a background in IT, and have been figuring this all out on my own in the past few years. I have acquired a set (x3) of USB drives to collect images and videos from clients phones in an easier way. I have added the exact nomenclature of what I have below. I need this to be done in a forensically sound manner, and I am currently going through the steps to validate my theory these collect data in a forensically sound manner. To be forensically sound any media should be "zeroed" or wiped prior to use. Herein lies my question. With these flash drives they obviously have some sort of proprietary software which makes them work. If I were to format these I would lose this proprietary software. What would be a way I could format these drives and then return them to "manufacturer settings"?
+ ​
+ I have looked into USB duplicators, not sure if this could be a forensically sound option. Also, they seem too expensive to acquire for my organization currently. 
+ ​
+ USB in question:
+ MFi Certified 128GB Photo-Stick for iPhone-USB-Flash-Drives External Storage Stick for USB C iPhone-Thumb-Drive Memory-Mobile-for-Android-Phones iPad-Flash-Drive Photo Transfer Stick
+    submitted by    /u/Unfair-Border8865  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Computer Forensics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Срочно! Поляки угрожают известному журналисту Игорю Исаеву!]]></title>
+        <id>https://medium.com/p/17100680d3a1</id>
+        <link href="https://romansviridov-10689.medium.com/%D1%81%D1%80%D0%BE%D1%87%D0%BD%D0%BE-%D0%BF%D0%BE%D0%BB%D1%8F%D0%BA%D0%B8-%D1%83%D0%B3%D1%80%D0%BE%D0%B6%D0%B0%D1%8E%D1%82-%D0%B8%D0%B7%D0%B2%D0%B5%D1%81%D1%82%D0%BD%D0%BE%D0%BC%D1%83-%D0%B6%D1%83%D1%80%D0%BD%D0%B0%D0%BB%D0%B8%D1%81%D1%82%D1%83-%D0%B8%D0%B3%D0%BE%D1%80%D1%8E-%D0%B8%D1%81%D0%B0%D0%B5%D0%B2%D1%83-17100680d3a1?source=rss------osint-5"/>
+        <updated>2022-01-21T16:35:59.000Z</updated>
+        <summary type="html"><![CDATA[Известному запорожскому журналисту Игорю Исаеву в Польше грозят 3 годами тюрьмы. Кто это сделал?
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Roman Sviridov</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The best free, open-source supply-chain security tool? The lockfile]]></title>
+        <id>https://www.reddit.com/r/netsec/comments/s9emfy/the_best_free_opensource_supplychain_security/</id>
+        <link href="https://www.reddit.com/r/netsec/comments/s9emfy/the_best_free_opensource_supplychain_security/"/>
+        <updated>2022-01-21T16:28:52.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/pabloest  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>/r/netsec - Information Security News &amp; Discussion</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SecWiki News 2022-01-21 Review]]></title>
+        <id>http://www.sec-wiki.com/?2022-01-21</id>
+        <link href="http://www.sec-wiki.com/?2022-01-21"/>
+        <updated>2022-01-21T15:58:20.000Z</updated>
+        <summary type="html"><![CDATA[自动化渗透-DeepExploit框架深度分析  by ourren
+更多最新文章，请访问SecWiki]]></summary>
+        <author>
+            <name>SecWiki News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Red team Operator to security strategy consultant]]></title>
+        <id>https://www.reddit.com/r/AskNetsec/comments/s9dva8/red_team_operator_to_security_strategy_consultant/</id>
+        <link href="https://www.reddit.com/r/AskNetsec/comments/s9dva8/red_team_operator_to_security_strategy_consultant/"/>
+        <updated>2022-01-21T15:55:10.000Z</updated>
+        <summary type="html"><![CDATA[Hi all, 
+ I am currently working for a big four firm(US) as a red team member. I am thinking to switch to the broader sense of security to see more parts such as security stragegy/security officer/architect roles Many people see red teaming as the most fun job & I agree it is awesome. However, Red team is only smart part of the equation. 
+ Who has made the leap and switched to a strategy role as a pentester/red team?
+ What was your experience in the new role?
+    submitted by    /u/TechnicalCiso  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>AskNetsec</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Simple CTF- TryHackme]]></title>
+        <id>https://medium.com/p/eebd0254865c</id>
+        <link href="https://systemweakness.com/simple-ctf-tryhackme-eebd0254865c?source=rss------bugbounty-5"/>
+        <updated>2022-01-21T15:24:58.000Z</updated>
+        <summary type="html"><![CDATA[CTF
+Continue reading on System Weakness »]]></summary>
+        <author>
+            <name>Mukilan Baskaran</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lessons from the Log4j crisis: Are we ready for the next global vulnerability?]]></title>
+        <id>https://www.netsparker.com/blog/5583373e-f362-4822-b3cc-86d389e4b42b/</id>
+        <link href="https://www.netsparker.com/blog/web-security/lessons-from-log4j-crisis-are-we-ready-for-next-global-vulnerability/"/>
+        <updated>2022-01-21T14:52:15.000Z</updated>
+        <summary type="html"><![CDATA[Were you prepared for Log4Shell? These lessons learned will help your organization respond more efficiently to the next global vulnerability crisis. READ MORE]]></summary>
+        <author>
+            <name>Meaghan McBee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows Shell — Discovery Stage]]></title>
+        <id>https://medium.com/p/c1463b893d8d</id>
+        <link href="https://medium.com/@xstag0/windows-shell-discovery-stage-c1463b893d8d?source=rss------osint-5"/>
+        <updated>2022-01-21T14:48:23.000Z</updated>
+        <summary type="html"><![CDATA[Sometimes you don’t always need a Meterpreter shell. Depending on the intent, Netcat might be all you need. The benefit being that Windows…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Xstag0</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RedRabbit — Offensive PowerShell]]></title>
+        <id>https://medium.com/p/6888f808d0eb</id>
+        <link href="https://medium.com/@xstag0/redrabbit-offensive-powershell-6888f808d0eb?source=rss------redteam-5"/>
+        <updated>2022-01-21T14:48:17.000Z</updated>
+        <summary type="html"><![CDATA[RedRabbit is the twin of BlueRabbit however, RedRabbit has more offensive scripts. RedRabbit was created to help conduct ethical…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Xstag0</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using Open Source Intelligence (OSINT)]]></title>
+        <id>https://medium.com/p/58e52b93b927</id>
+        <link href="https://medium.com/@xstag0/using-open-source-intelligence-osint-58e52b93b927?source=rss------osint-5"/>
+        <updated>2022-01-21T14:45:43.000Z</updated>
+        <summary type="html"><![CDATA[Recently, Netflix’s ‘The Great Hack’ has sparked a lot of interest around data privacy. The documentary covers Cambridge Analytica and how…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Xstag0</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A modern, elastic design for Burp Collaborator server]]></title>
+        <id>a-modern-elastic-design-for-burp-collaborator-server</id>
+        <link href="https://portswigger.net/blog/a-modern-elastic-design-for-burp-collaborator-server"/>
+        <updated>2022-01-21T14:40:45.000Z</updated>
+        <summary type="html"><![CDATA[When we launched Burp Collaborator back in 2015, PortSwigger deployed a public Collaborator server that anyone could use. This meant that OAST testing with Burp Collaborator was able to work straight]]></summary>
+        <author>
+            <name>PortSwigger Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Email change or personal data change on the account.]]></title>
+        <id>https://hackerone.com/reports/1250037</id>
+        <link href="https://hackerone.com/reports/1250037"/>
+        <updated>2022-01-21T14:13:31.000Z</updated>
+        <summary type="html"><![CDATA[Stripe disclosed a bug submitted by dk82hg: https://hackerone.com/reports/1250037 - Bounty: $3000]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Security vulnerability in Rust standard library]]></title>
+        <id>https://news.ycombinator.com/item?id=30023615</id>
+        <link href="https://blog.rust-lang.org/2022/01/20/cve-2022-21658.html"/>
+        <updated>2022-01-21T14:06:46.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://blog.rust-lang.org/2022/01/20/cve-2022-21658.html
+Comments URL: https://news.ycombinator.com/item?id=30023615
+Points: 64
+# Comments: 37]]></summary>
+        <author>
+            <name>alex14fr</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Taking on new role as Security Architect. Advice? Tips? Considerations? Anything welcome!]]></title>
+        <id>https://www.reddit.com/r/AskNetsec/comments/s9b878/taking_on_new_role_as_security_architect_advice/</id>
+        <link href="https://www.reddit.com/r/AskNetsec/comments/s9b878/taking_on_new_role_as_security_architect_advice/"/>
+        <updated>2022-01-21T13:53:30.000Z</updated>
+        <summary type="html"><![CDATA[As the title states, taking on a new role as a Security Architect for a predominantly Windows hybrid cloud/on-prem environment that hosts quite a few web servers.
+ I am very comfortable with the deployment and configuration of hardened endpoints, SIEMs (Splunk & ELK), network segregation, backup and restoration, and authoring most relevant policy and procedure as it relates to NIST 800-53. My understanding is that I am one of 2 "cybersecurity" specialists and will be responsible for documenting, developing, and configuring the entire security architecture from the ground up. I've been told that MFA has been enforced at 100% compliance.
+ I am not however familiar with securing a hybrid environment, and don't have a ton of experience managing firewalls.
+ How should I approach the discovery/recon aspect of becoming familiar with a new network?
+ After getting my bearings and a detailed depiction of the current architecture, I plan to first tackle the backup and restoration processes to ensure ransomware resistance. Then address any glaring weak points.
+ Anything to help a brother out?
+    submitted by    /u/UnderZinfluence  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>AskNetsec</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[https://app.recordedfuture.com] - Reflected XSS via username parameter]]></title>
+        <id>https://hackerone.com/reports/1201134</id>
+        <link href="https://hackerone.com/reports/1201134"/>
+        <updated>2022-01-21T13:51:14.000Z</updated>
+        <summary type="html"><![CDATA[Recorded Future disclosed a bug submitted by bombon: https://hackerone.com/reports/1201134 - Bounty: $300]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hashing the Favicon.ico]]></title>
+        <id>https://medium.com/p/a498fc3d665b</id>
+        <link href="https://medium.com/@SkiMask0/hashing-the-favicon-ico-a498fc3d665b?source=rss------bugbounty-5"/>
+        <updated>2022-01-21T13:24:09.000Z</updated>
+        <summary type="html"><![CDATA[Hey Folks, I am Ski Mask and I recently started bug bounty. in this Write-up, I will tell you about one of my findings!!
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Ski Mask</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[likelyhood of embedding malicous code in music streaming services?]]></title>
+        <id>https://www.reddit.com/r/AskNetsec/comments/s99ns9/likelyhood_of_embedding_malicous_code_in_music/</id>
+        <link href="https://www.reddit.com/r/AskNetsec/comments/s99ns9/likelyhood_of_embedding_malicous_code_in_music/"/>
+        <updated>2022-01-21T12:29:21.000Z</updated>
+        <summary type="html"><![CDATA[to the Red Teamers:
+ imagine this, i use a music streaming service, i have som playlists that me and my friends colloaborate on, this playlist have enabled "automatic download" so whenever a track is added it is also automaticly downloaded to my device.
+ now take this further, you embed malicious code to tracks, and upload them to the music service, and then my friend add this track with malicious code to the playlist, and bam! i got the file on my systems.
+ now add the fact that when you open af playlist to collaboration, it opens this playlist for everyone to add tracks.
+ sure to hack the major providers of this service is going to be hard, but the small band/label/producer that uploads the tracks to the service, classic supply chain. and the bad actor can just browse around for open playlists and add these "bad" tracks and now you got the file to the device.
+ so to what degree is this a like attack vector?
+ is it at all feasable?
+ because you got plenty versions for different OS with likely exploits available. 
+ i atleast was quite surprised to find a playlist of mine, with alot of new music i didnt recognize for a user i had not shared my playlist with.
+ and was sitting at work and thought, "this is most likly an overlooked tool to use" 
+ so should one be worried about these "auto sync/download" a bit like dropbox, but here it is open to everyone/the world.
+ atleast i block the unsanctioned cloud storage services, while permitting the web part at work, so when you download stuff via web its scanned and checked by our EDR, where i worry about the app's with auto sync and all that.
+ so should i block spotify, tidal, soundcloud [insert service here] apps aswell?
+    submitted by    /u/Uli-Kunkel  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>AskNetsec</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Multi XSS Exploit in Upload File]]></title>
+        <id>https://medium.com/p/2bfde6ce471a</id>
+        <link href="https://systemweakness.com/multi-xss-exploit-in-upload-file-2bfde6ce471a?source=rss------bugbounty-5"/>
+        <updated>2022-01-21T11:42:19.000Z</updated>
+        <summary type="html"><![CDATA[Hello amazing hunters, Today i want to notice 4 ways to find xss in file upload that i found all of them in bug bounty programs or pentest…
+Continue reading on System Weakness »]]></summary>
+        <author>
+            <name>M7.Arman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[disclosing clients' secret keys https://stage-uapi.tochka.com:2000/]]></title>
+        <id>https://hackerone.com/reports/1419205</id>
+        <link href="https://hackerone.com/reports/1419205"/>
+        <updated>2022-01-21T11:19:06.000Z</updated>
+        <summary type="html"><![CDATA[QIWI disclosed a bug submitted by rivalsec: https://hackerone.com/reports/1419205 - Bounty: $150]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What to know about Biden’s latest cybersecurity memorandum]]></title>
+        <id>https://www.netsparker.com/blog/6e21e2df-9418-465b-95b1-9ac241dce18a/</id>
+        <link href="https://www.netsparker.com/blog/web-security/what-to-know-latest-biden-cybersecurity-memo/"/>
+        <updated>2022-01-21T10:54:33.000Z</updated>
+        <summary type="html"><![CDATA[The Biden Administration’s new memorandum on National Security aims to improve security posture for intelligence and defense agencies. Here’s what you need to know. READ MORE]]></summary>
+        <author>
+            <name>Lindsey  Stalnaker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tons of software to Try and Buy :-)]]></title>
+        <id>https://www.reddit.com/r/opendirectories/comments/s97skh/tons_of_software_to_try_and_buy/</id>
+        <link href="https://www.reddit.com/r/opendirectories/comments/s97skh/tons_of_software_to_try_and_buy/"/>
+        <updated>2022-01-21T10:28:25.000Z</updated>
+        <summary type="html"><![CDATA[https://soft.uclv.edu.cu/
+    submitted by    /u/Appropriate-You-6065  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Open Directories</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cronos Theft of Transactions Fees Bugfix Postmortem]]></title>
+        <id>https://medium.com/p/b33f941b9570</id>
+        <link href="https://medium.com/immunefi/cronos-theft-of-transactions-fees-bugfix-postmortem-b33f941b9570?source=rss------bugbounty-5"/>
+        <updated>2022-01-21T10:16:38.000Z</updated>
+        <summary type="html"><![CDATA[Transactions in blockchain are like sound traveling through air. We communicate with others through transactions; we announce what we’re…
+Continue reading on Immunefi »]]></summary>
+        <author>
+            <name>Immunefi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FreeBuf 甲方私享会·上海金融之夜活动圆满举行]]></title>
+        <id>https://www.freebuf.com/fevents/320562.html</id>
+        <link href="https://www.freebuf.com/fevents/320562.html"/>
+        <updated>2022-01-21T10:03:07.000Z</updated>
+        <summary type="html"><![CDATA[1 月 15 日下午，由中国网络安全行业门户 FreeBuf 发起的首场「甲方私享会·上海金融之夜」活动在上海顺利举行。]]></summary>
+        <author>
+            <name>FreeBuf网络安全行业门户</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nakji Network launches a 200K USD Bug Bounty Program]]></title>
+        <id>https://medium.com/p/7aa99defbf22</id>
+        <link href="https://medium.com/sentinel-protocol/nakji-network-launches-a-200k-usd-bug-bounty-program-7aa99defbf22?source=rss------bugbounty-5"/>
+        <updated>2022-01-21T09:49:28.000Z</updated>
+        <summary type="html"><![CDATA[Singapore, 21st January 2022 — The Nakji Foundation (‘Nakji’) is launching a 200K USD Bug Bounty program for developers and security…
+Continue reading on Sentinel Protocol »]]></summary>
+        <author>
+            <name>Sentinel Protocol Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DNS Vulnerability, Configuration Errors That Can Cause DDoS]]></title>
+        <id>https://news.ycombinator.com/item?id=30021239</id>
+        <link href="https://labs.ripe.net/author/giovane_moura/dns-vulnerability-configuration-errors-that-can-cause-ddos/"/>
+        <updated>2022-01-21T09:38:17.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://labs.ripe.net/author/giovane_moura/dns-vulnerability-configuration-errors-that-can-cause-ddos/
+Comments URL: https://news.ycombinator.com/item?id=30021239
+Points: 1
+# Comments: 0]]></summary>
+        <author>
+            <name>minusf</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FreeBuf周报 | 知名字幕站 Opensubtitles 遭黑客入侵;中国首个网络安全行业服务短号开通]]></title>
+        <id>https://www.freebuf.com/articles/320548.html</id>
+        <link href="https://www.freebuf.com/articles/320548.html"/>
+        <updated>2022-01-21T08:40:15.000Z</updated>
+        <summary type="html"><![CDATA[我们总结推荐本周的热点资讯、优质文章和省心工具，保证大家不错过本周的每一个重点！]]></summary>
+        <author>
+            <name>FreeBuf网络安全行业门户</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2021年针对性勒索攻击活动年度报告]]></title>
+        <id>https://www.freebuf.com/articles/paper/320529.html</id>
+        <link href="https://www.freebuf.com/articles/paper/320529.html"/>
+        <updated>2022-01-21T08:09:29.000Z</updated>
+        <summary type="html"><![CDATA[索软件攻击已经是网络安全的最大威胁之一，已从早期网络滋扰发展成为如今危害社会运作、经济稳定和公共安全并不断升级的全球新挑战。]]></summary>
+        <author>
+            <name>FreeBuf网络安全行业门户</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2021网安法规大盘点：重磅法规持续落地，数据安全迎新机遇]]></title>
+        <id>https://www.freebuf.com/articles/database/320518.html</id>
+        <link href="https://www.freebuf.com/articles/database/320518.html"/>
+        <updated>2022-01-21T06:14:24.000Z</updated>
+        <summary type="html"><![CDATA[总的来说，2021年是数字经济腾飞之年，也是网络安全全面深入发展之年，更是数据领域全面深入监管之年。]]></summary>
+        <author>
+            <name>FreeBuf网络安全行业门户</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Captain Hook - How (not) to look for vulnerabilities in Java applications]]></title>
+        <id>https://www.reddit.com/r/netsec/comments/s93l8a/captain_hook_how_not_to_look_for_vulnerabilities/</id>
+        <link href="https://www.reddit.com/r/netsec/comments/s93l8a/captain_hook_how_not_to_look_for_vulnerabilities/"/>
+        <updated>2022-01-21T05:45:39.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/Gallus  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>/r/netsec - Information Security News &amp; Discussion</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unexplained WAN traffic to private subnet ranges]]></title>
+        <id>https://www.reddit.com/r/computerforensics/comments/s93cyg/unexplained_wan_traffic_to_private_subnet_ranges/</id>
+        <link href="https://www.reddit.com/r/computerforensics/comments/s93cyg/unexplained_wan_traffic_to_private_subnet_ranges/"/>
+        <updated>2022-01-21T05:32:03.000Z</updated>
+        <summary type="html"><![CDATA[While investigating a remote intrusion warning I noticed http traffic from two separate devices communicating with private IP subnet ranges that do not belong to any of our routers, or other devices. All of the traffic are to port 80. 
+ Example IPs include:
+ 10.50.60.15
+ 10.80.80.112
+ 209.54.181.102
+ All the above are reserved private ranges and the aforementioned traffic was observed on two different routers, but using the same Verizon modem. Anyone seen this before, or can explain? There are no VPNs in use, or similar service. 
+ Log
+    submitted by    /u/keeny-fn-pawers  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Computer Forensics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Freebuf甲方群话题讨论 | 聊聊企业假期网络安全]]></title>
+        <id>https://www.freebuf.com/articles/320499.html</id>
+        <link href="https://www.freebuf.com/articles/320499.html"/>
+        <updated>2022-01-21T04:49:25.000Z</updated>
+        <summary type="html"><![CDATA[春节将至，对于企业安全而言是一次不小的考验，作为年前最后一期话题讨论，想让大家聊聊如何保障假日期间企业的网络安全。]]></summary>
+        <author>
+            <name>FreeBuf网络安全行业门户</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SQLite query repository?]]></title>
+        <id>https://www.reddit.com/r/computerforensics/comments/s92eht/sqlite_query_repository/</id>
+        <link href="https://www.reddit.com/r/computerforensics/comments/s92eht/sqlite_query_repository/"/>
+        <updated>2022-01-21T04:39:30.000Z</updated>
+        <summary type="html"><![CDATA[Does anyone know of any repositories (sites, blogs, etc) where people can post and look for SQLite queries? There are times when the best tools in the world can’t parse what you want and I thought it would be a great resource if there were queries others had done and shared cataloged somewhere. If you know of any, or any good sites, drop them below!
+    submitted by    /u/acw750  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Computer Forensics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Startup Asking for SSN in a Google Form]]></title>
+        <id>https://www.reddit.com/r/AskNetsec/comments/s91dtp/startup_asking_for_ssn_in_a_google_form/</id>
+        <link href="https://www.reddit.com/r/AskNetsec/comments/s91dtp/startup_asking_for_ssn_in_a_google_form/"/>
+        <updated>2022-01-21T03:54:03.000Z</updated>
+        <summary type="html"><![CDATA[I worked for a small startup during the summer of 2021. There were several things that came up during the internship that made me feel the company was not one that I would stand behind, and they didn't know what they were doing. They paid me hourly, but they never set up an employment contract that they promised. They never collected my tax info.
+ Suddenly, within the last two days they have sent me several messages asking me to fill out a Google Form so they can complete the 1099's. The form is just straight up all the most sensitive information: full legal name, address, email & phone, SSN. 
+ (1) I'm not sure how secure it would be to send an SSN over a Google form, so I haven't done it yet. (2) I know that the form will result in a Google sheets that has all of the employees info, and I'm not sure if the company will keep that secure or delete it, but it weirds me out thinking that there might indefinitely be a Google form out there with my SNN other personal info, and they'll forget about it when the company inevitably goes defunct. (3) I'm not sure what other secure method I can suggest, to get them this information so they can send the 1099.
+    submitted by    /u/ImpressiveAirport4  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>AskNetsec</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2021 SCTF Flying-kernel题目分析]]></title>
+        <id>https://www.freebuf.com/fevents/320490.html</id>
+        <link href="https://www.freebuf.com/fevents/320490.html"/>
+        <updated>2022-01-21T03:15:34.000Z</updated>
+        <summary type="html"><![CDATA[这道题可以通过多种方式提权获得flag。这篇文章的解法更偏向于Glibc那套利用方式，内核任意地址写，并不是预期解，但是衍生出了更多的利用思路，有兴趣的可以自行调试。]]></summary>
+        <author>
+            <name>FreeBuf网络安全行业门户</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Forensic script ideas?]]></title>
+        <id>https://www.reddit.com/r/computerforensics/comments/s8zsm5/forensic_script_ideas/</id>
+        <link href="https://www.reddit.com/r/computerforensics/comments/s8zsm5/forensic_script_ideas/"/>
+        <updated>2022-01-21T02:34:18.000Z</updated>
+        <summary type="html"><![CDATA[Hello all, 
+ I have no programming experience, I can use command line and get around in Linux but I would like to make practical things the community would find useful.
+ There are so many good scripts and tools out there but what is a missing tool that you would like to have?
+ I would like to build the script/program in Python, Go or C#. 
+ I am looking for some ideas that you think a beginner would be able to tackle that would have some value to others.
+    submitted by    /u/AgitatedSecurity  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Computer Forensics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top 10 web hacking techniques of 2021 — PortSwigger]]></title>
+        <id>https://medium.com/p/7de16999e5fa</id>
+        <link href="https://rei-hunt.medium.com/top-10-web-hacking-techniques-of-2021-portswigger-7de16999e5fa?source=rss------bugbounty-5"/>
+        <updated>2022-01-21T02:29:31.000Z</updated>
+        <summary type="html"><![CDATA[OK , mình sẽ từ từ dịch hết tất cả các method , các bạn có thể có thể xem bản gốc ở đây : “‘Top 10 web hacking techniques of 2021 —…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>rei_hunt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FreeBuf 网安大事记 | 2021年度漏洞利用事件汇总]]></title>
+        <id>https://www.freebuf.com/news/320480.html</id>
+        <link href="https://www.freebuf.com/news/320480.html"/>
+        <updated>2022-01-21T02:29:13.000Z</updated>
+        <summary type="html"><![CDATA[让我们回眸，盘点在2021年引发行业、乃至整个社会影响的30起漏洞利用事件。]]></summary>
+        <author>
+            <name>FreeBuf网络安全行业门户</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《信息安全技术 网络安全服务成本度量指南》（征求意见稿）发布]]></title>
+        <id>https://www.freebuf.com/news/320475.html</id>
+        <link href="https://www.freebuf.com/news/320475.html"/>
+        <updated>2022-01-21T02:15:54.000Z</updated>
+        <summary type="html"><![CDATA[《指南》适用于网络安全服务供需双方开展网络安全服务成本预算、项目招投标、项目决算以及相关合同编制等活动。]]></summary>
+        <author>
+            <name>FreeBuf网络安全行业门户</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anyone surprised about the lack of fundamental knowledge in network security? Not enough forward engineering knowledge it seems.]]></title>
+        <id>https://www.reddit.com/r/AskNetsec/comments/s8z2re/anyone_surprised_about_the_lack_of_fundamental/</id>
+        <link href="https://www.reddit.com/r/AskNetsec/comments/s8z2re/anyone_surprised_about_the_lack_of_fundamental/"/>
+        <updated>2022-01-21T01:59:23.000Z</updated>
+        <summary type="html"><![CDATA[There seems to be a surprising lack of fundamental knowledge in network security. Has anyone else felt the same?
+ Here are some examples working with different teams:
+  
+Work heavily with Kibana servers, but lacked fundamental database knowledge 
+ You would think someone managing a clusters would at least understand the basics of distributed systems
+ 
+ Heavily use SIEMs, but could not tell you what a the concept of an operating system process beyond "Yeah, it's a program that executes."
+ A serious lack of web development knowledge
+  
+A lot of people entering the field claiming they are knowledgeable in network security, but can't forward engineer a basic CRUD app, and yet they'll claim they know how to reverse engineer it and secure it. Yeah, you're able to successfully complete a basic SQL injection hackthebox, but you could barely construct a SQL query yourself. You just blindly put in a SQL query and hope you get back an error saying the web application is vulnerable and then blindly put in another SQL query.
+    submitted by    /u/me_hungry_and_sad  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>AskNetsec</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Invalid handling of X509_verify_cert() internal errors in libssl (CVE-2021-4044)]]></title>
         <id>https://hackerone.com/reports/1455411</id>
@@ -591,6 +1176,28 @@ Continue reading on Medium »]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[CACTER邮件安全&amp;中睿天下发布2021年Q4企业邮箱安全报告：重点关注，钓鱼邮件翻倍，85%来自境外！]]></title>
+        <id>https://www.freebuf.com/news/320396.html</id>
+        <link href="https://www.freebuf.com/news/320396.html"/>
+        <updated>2022-01-20T07:53:53.000Z</updated>
+        <summary type="html"><![CDATA[CACTER邮件安全联合中睿天下发布邮件安全报告！
+️钓鱼邮件同比翻倍增长！来源85%居然来自境外？
+年关将至，提高防范，刻不容缓]]></summary>
+        <author>
+            <name>FreeBuf网络安全行业门户</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[基于商密SM9算法的物联网安全平台设计与应用]]></title>
+        <id>https://www.freebuf.com/news/320393.html</id>
+        <link href="https://www.freebuf.com/news/320393.html"/>
+        <updated>2022-01-20T07:18:13.000Z</updated>
+        <summary type="html"><![CDATA[如何解决物联网的安全，成为摆在政府监管和各类企业面前的一道难题。因此，推行完整、科学、规范化的物联网安全平台已成当务之急。]]></summary>
+        <author>
+            <name>FreeBuf网络安全行业门户</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[90分的机房长什么样？（一）]]></title>
         <id>https://www.freebuf.com/articles/web/320392.html</id>
         <link href="https://www.freebuf.com/articles/web/320392.html"/>
@@ -613,6 +1220,16 @@ Continue reading on Medium »]]></summary>
  [link]   [comments]]]></summary>
         <author>
             <name>Computer Forensics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[任子行视频网解决方案，专注视频监控数据安全防护！]]></title>
+        <id>https://www.freebuf.com/news/320383.html</id>
+        <link href="https://www.freebuf.com/news/320383.html"/>
+        <updated>2022-01-20T06:25:42.000Z</updated>
+        <summary type="html"><![CDATA[有网友爆料称，在B站上还能看到疑似专门破解学校、医院等公共场所监控视频并上传的账号，并可以通过相关的账号看到有用户上传的多段教师讲课、医院护士台以及酒店前台的监控视频。]]></summary>
+        <author>
+            <name>FreeBuf网络安全行业门户</name>
         </author>
     </entry>
     <entry>
