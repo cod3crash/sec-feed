@@ -6,6 +6,24 @@
       "siteUrl": "http://h1.nobbd.de/",
       "articles": [
         {
+          "id": "https://hackerone.com/reports/1455248",
+          "author": null,
+          "description": "Internet Bug Bounty disclosed a bug submitted by chamal: https://hackerone.com/reports/1455248 - Bounty: $1200",
+          "link": "https://hackerone.com/reports/1455248",
+          "publishedOn": "2022-01-22T14:03:33.000Z",
+          "wordCount": 25,
+          "title": "Buffer Overflow in optimized_escape_html method"
+        },
+        {
+          "id": "https://hackerone.com/reports/1058427",
+          "author": null,
+          "description": "Imgur disclosed a bug submitted by whoami991: https://hackerone.com/reports/1058427 - Bounty: $100",
+          "link": "https://hackerone.com/reports/1058427",
+          "publishedOn": "2022-01-22T05:09:48.000Z",
+          "wordCount": 25,
+          "title": "xss reflected on imgur.com"
+        },
+        {
           "id": "https://hackerone.com/reports/1454552",
           "author": null,
           "description": "Weblate disclosed a bug submitted by joshmcman08: https://hackerone.com/reports/1454552",
@@ -1687,6 +1705,15 @@
       "siteUrl": "https://infosecwriteups.com?source=rss----7b722bfd1b8d---4",
       "articles": [
         {
+          "id": "https://medium.com/p/c80b04ccb393",
+          "author": "Ravi Teja",
+          "description": "Recently, I was browsing a website with BurpSuite and found out that the website was blocking my requests. In the pursuit of unlocking the…",
+          "link": "https://infosecwriteups.com/demystifying-ja3-one-handshake-at-a-time-c80b04ccb393?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2022-01-22T08:09:31.000Z",
+          "wordCount": 1862,
+          "title": "Demystifying JA3: One Handshake at a Time"
+        },
+        {
           "id": "https://medium.com/p/28ea2e937cfa",
           "author": "Vishnuram Rajkumar",
           "description": "This post contains writeups for some challenges in this CTF.",
@@ -2476,6 +2503,51 @@
       "feedUrl": "https://medium.com/feed/tag/bugbounty",
       "siteUrl": "https://medium.com/tag/bugbounty/latest?source=rss------bugbounty-5",
       "articles": [
+        {
+          "id": "https://medium.com/p/4fa6f99250ac",
+          "author": "Takshil Patil",
+          "description": "Previous: Beginner Bug Bounty Guide - Part 1\nContinue reading on Medium »",
+          "link": "https://takshil-patil529.medium.com/beginner-bug-bounty-guide-part-2-4fa6f99250ac?source=rss------bugbounty-5",
+          "publishedOn": "2022-01-22T19:44:39.000Z",
+          "wordCount": 342,
+          "title": "Beginner Bug Bounty Guide - Part 2"
+        },
+        {
+          "id": "https://medium.com/p/3cc6ac6077cd",
+          "author": "TribeOne",
+          "description": "Our dApp is getting closer and closer to perfection as we work hard to achieve the best possible user experience.\nContinue reading on Medium »",
+          "link": "https://tribeone.medium.com/bug-fix-update-tribeone-dapp-is-ready-to-take-nft-space-by-storm-3cc6ac6077cd?source=rss------bugbounty-5",
+          "publishedOn": "2022-01-22T19:25:04.000Z",
+          "wordCount": 705,
+          "title": "Bug Fix Update: TribeOne dApp is Ready to Take NFT Space by Storm"
+        },
+        {
+          "id": "https://medium.com/p/8183d63db80b",
+          "author": "Medusa",
+          "description": "Goals: Enumerate Samba for shares, manipulate a vulnerable version of proftpd\nContinue reading on Medium »",
+          "link": "https://medium.com/@Medusa0xf/kenobi-walkthrough-tryhackme-explained-part-1-8183d63db80b?source=rss------bugbounty-5",
+          "publishedOn": "2022-01-22T13:48:43.000Z",
+          "wordCount": 751,
+          "title": "Kenobi Walkthrough | TryHackMe | Explained | Part 1"
+        },
+        {
+          "id": "https://medium.com/p/bd968a2da2e5",
+          "author": "@pullakarthik",
+          "description": "Hello Everyone,\nContinue reading on Medium »",
+          "link": "https://pullakarthik5.medium.com/malicious-file-upload-leads-to-off-domain-xss-bd968a2da2e5?source=rss------bugbounty-5",
+          "publishedOn": "2022-01-22T09:35:25.000Z",
+          "wordCount": 433,
+          "title": "Malicious file upload leads to off-domain XSS"
+        },
+        {
+          "id": "https://medium.com/p/c80b04ccb393",
+          "author": "Ravi Teja",
+          "description": "Recently, I was browsing a website with BurpSuite and found out that the website was blocking my requests. In the pursuit of unlocking the…\nContinue reading on InfoSec Write-ups »",
+          "link": "https://infosecwriteups.com/demystifying-ja3-one-handshake-at-a-time-c80b04ccb393?source=rss------bugbounty-5",
+          "publishedOn": "2022-01-22T08:09:31.000Z",
+          "wordCount": 1862,
+          "title": "Demystifying JA3: One Handshake at a Time"
+        },
         {
           "id": "https://medium.com/p/eebd0254865c",
           "author": "Mukilan Baskaran",
@@ -4221,6 +4293,15 @@
       "siteUrl": "https://medium.com/tag/redteam/latest?source=rss------redteam-5",
       "articles": [
         {
+          "id": "https://medium.com/p/3cb80e3fb654",
+          "author": "ARZ101",
+          "description": "When doing a black box pentesting for android , apart for looking at root detection bypass and ssl pinning looking for intents are also…\nContinue reading on Medium »",
+          "link": "https://arz101.medium.com/android-pentesting-intents-3cb80e3fb654?source=rss------redteam-5",
+          "publishedOn": "2022-01-22T12:39:58.000Z",
+          "wordCount": 650,
+          "title": "Android Pentesting-Intents"
+        },
+        {
           "id": "https://medium.com/p/6888f808d0eb",
           "author": "Xstag0",
           "description": "RedRabbit is the twin of BlueRabbit however, RedRabbit has more offensive scripts. RedRabbit was created to help conduct ethical…\nContinue reading on Medium »",
@@ -4533,6 +4614,15 @@
       "feedUrl": "https://medium.com/feed/bugbountywriteup",
       "siteUrl": "https://infosecwriteups.com?source=rss----7b722bfd1b8d---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/c80b04ccb393",
+          "author": "Ravi Teja",
+          "description": "Recently, I was browsing a website with BurpSuite and found out that the website was blocking my requests. In the pursuit of unlocking the…",
+          "link": "https://infosecwriteups.com/demystifying-ja3-one-handshake-at-a-time-c80b04ccb393?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2022-01-22T08:09:31.000Z",
+          "wordCount": 1862,
+          "title": "Demystifying JA3: One Handshake at a Time"
+        },
         {
           "id": "https://medium.com/p/28ea2e937cfa",
           "author": "Vishnuram Rajkumar",
@@ -5323,6 +5413,33 @@
       "feedUrl": "https://medium.com/feed/tag/osint",
       "siteUrl": "https://medium.com/tag/osint/latest?source=rss------osint-5",
       "articles": [
+        {
+          "id": "https://medium.com/p/ec0291d38a1c",
+          "author": "Roman Sviridov",
+          "description": "Case provides overview of 5 year long activity of former Ukrainian citizen in Poland, conducting provocations and communist propaganda in…\nContinue reading on Medium »",
+          "link": "https://romansviridov-10689.medium.com/case-in-modern-communist-destabilization-of-ukrainian-poland-relations-ec0291d38a1c?source=rss------osint-5",
+          "publishedOn": "2022-01-22T17:17:36.000Z",
+          "wordCount": 3800,
+          "title": "Case in modern communist destabilization of Ukrainian-Poland relations"
+        },
+        {
+          "id": "https://medium.com/p/6d0bbee43d06",
+          "author": "Levent Durdalı",
+          "description": "On Jan 14, 2022, Quiztime (contributor @dondude) shared a new OSINT quiz with us. The objective was fairly simple. We had to figure out…\nContinue reading on Medium »",
+          "link": "https://medium.com/@leventd/quiztime-random-osint-challenge-5-6d0bbee43d06?source=rss------osint-5",
+          "publishedOn": "2022-01-22T14:32:49.000Z",
+          "wordCount": 872,
+          "title": "Quiztime — Random OSINT Challenge 5"
+        },
+        {
+          "id": "https://medium.com/p/e5d25167f956",
+          "author": "Timo",
+          "description": "In December 2021 the OSINT Dojo invited the community to solve a traditional image-based geolocation OSINT challenge. They have asked for…\nContinue reading on Medium »",
+          "link": "https://medium.com/@timosablowski/osint-challenge-on-the-road-to-estonia-e5d25167f956?source=rss------osint-5",
+          "publishedOn": "2022-01-22T11:07:17.000Z",
+          "wordCount": 495,
+          "title": "OSINT Challenge — On the road to Estonia"
+        },
         {
           "id": "https://medium.com/p/f212fcc7dfd6",
           "author": "Chad Warner",
@@ -6844,6 +6961,24 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=30035247",
+          "author": "caaqil",
+          "description": "Article URL: https://octagon.net/blog/2022/01/22/cve-2021-45467-cwp-centos-web-panel-preauth-rce/\nComments URL: https://news.ycombinator.com/item?id=30035247\nPoints: 1\n# Comments: 0",
+          "link": "https://octagon.net/blog/2022/01/22/cve-2021-45467-cwp-centos-web-panel-preauth-rce/",
+          "publishedOn": "2022-01-22T09:52:57.000Z",
+          "wordCount": 1024,
+          "title": "CVE-2021-45467: CWP CentOS Web Panel – Preauth RCE"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=30034914",
+          "author": "anomalytics",
+          "description": "Article URL: https://sysdig.com/blog/cve-2022-0185-container-escape/\nComments URL: https://news.ycombinator.com/item?id=30034914\nPoints: 18\n# Comments: 0",
+          "link": "https://sysdig.com/blog/cve-2022-0185-container-escape/",
+          "publishedOn": "2022-01-22T08:48:12.000Z",
+          "wordCount": 1574,
+          "title": "CVE-2022-0185: Detecting Linux Kernel vulnerability causing container escape"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=30007470",
           "author": "erk__",
           "description": "Article URL: https://blog.rust-lang.org/2022/01/20/cve-2022-21658.html\nComments URL: https://news.ycombinator.com/item?id=30007470\nPoints: 10\n# Comments: 0",
@@ -7147,6 +7282,24 @@
       "feedUrl": "https://hnrss.org/newest?q=vulnerability",
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
+        {
+          "id": "https://news.ycombinator.com/item?id=30035651",
+          "author": "jonathanzufi",
+          "description": "Article URL: https://twitter.com/bagder/status/1484672924036616195\nComments URL: https://news.ycombinator.com/item?id=30035651\nPoints: 68\n# Comments: 11",
+          "link": "https://twitter.com/bagder/status/1484672924036616195",
+          "publishedOn": "2022-01-22T11:08:49.000Z",
+          "wordCount": 196,
+          "title": "OSS authors:“We need to understand your mitigation plans for this vulnerability”"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=30034914",
+          "author": "anomalytics",
+          "description": "Article URL: https://sysdig.com/blog/cve-2022-0185-container-escape/\nComments URL: https://news.ycombinator.com/item?id=30034914\nPoints: 18\n# Comments: 0",
+          "link": "https://sysdig.com/blog/cve-2022-0185-container-escape/",
+          "publishedOn": "2022-01-22T08:48:12.000Z",
+          "wordCount": 1574,
+          "title": "CVE-2022-0185: Detecting Linux Kernel vulnerability causing container escape"
+        },
         {
           "id": "https://news.ycombinator.com/item?id=30023615",
           "author": "alex14fr",
@@ -7641,6 +7794,15 @@
       "siteUrl": "https://www.freebuf.com",
       "articles": [
         {
+          "id": "https://www.freebuf.com/articles/320568.html",
+          "author": null,
+          "description": "日前，思科公司（Cisco）宣布修补了一项远程代码执行漏洞。",
+          "link": "https://www.freebuf.com/articles/320568.html",
+          "publishedOn": "2022-01-21T10:06:48.000Z",
+          "wordCount": 147,
+          "title": "Cisco StarOS漏洞或有远程代码执行和信息泄露风险"
+        },
+        {
           "id": "https://www.freebuf.com/fevents/320562.html",
           "author": null,
           "description": "1 月 15 日下午，由中国网络安全行业门户 FreeBuf 发起的首场「甲方私享会·上海金融之夜」活动在上海顺利举行。",
@@ -7711,6 +7873,24 @@
           "publishedOn": "2022-01-21T02:15:54.000Z",
           "wordCount": 149,
           "title": "《信息安全技术 网络安全服务成本度量指南》（征求意见稿）发布"
+        },
+        {
+          "id": "https://www.freebuf.com/articles/network/320443.html",
+          "author": null,
+          "description": "近日，安全研究人员发现 DDoS IRC Bot 恶意样本正伪装成成人游戏通过网盘进行传播。",
+          "link": "https://www.freebuf.com/articles/network/320443.html",
+          "publishedOn": "2022-01-20T10:50:11.000Z",
+          "wordCount": 415,
+          "title": "攻击者用成人游戏做诱饵，通过网盘传播恶意软件"
+        },
+        {
+          "id": "https://www.freebuf.com/news/320418.html",
+          "author": null,
+          "description": "中国网络安全沙盒市场规模到2027 年预计达到 69 亿美元的市场规模。",
+          "link": "https://www.freebuf.com/news/320418.html",
+          "publishedOn": "2022-01-20T09:17:40.000Z",
+          "wordCount": 180,
+          "title": "2027年网络安全沙盒市场规模将达到430亿美元"
         },
         {
           "id": "https://www.freebuf.com/news/320415.html",
@@ -10238,6 +10418,15 @@
       "siteUrl": "http://www.sec-wiki.com/",
       "articles": [
         {
+          "id": "http://www.sec-wiki.com/?2022-01-22",
+          "author": null,
+          "description": "今日暂未更新资讯~\n更多最新文章，请访问SecWiki",
+          "link": "http://www.sec-wiki.com/?2022-01-22",
+          "publishedOn": "2022-01-22T15:58:20.000Z",
+          "wordCount": 584,
+          "title": "SecWiki News 2022-01-22 Review"
+        },
+        {
           "id": "http://www.sec-wiki.com/?2022-01-21",
           "author": null,
           "description": "自动化渗透-DeepExploit框架深度分析  by ourren\n更多最新文章，请访问SecWiki",
@@ -10604,6 +10793,51 @@
       "feedUrl": "https://www.reddit.com/r/asknetsec/.rss",
       "siteUrl": "https://www.reddit.com/r/asknetsec/",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/sadq8t/im_working_in_security_and_stuck_on_whether_i/",
+          "author": null,
+          "description": "Hi Everyone,\n I currently work in Cyber security (Cryptography specialist) for a large organization. However, I have minimal coding experience.\n I would like to start the Odin Project but I'm not sure if I should invest all that time in learning web dev or continuing a path in security with something like a CISSP for more security knowledge.\n The odin project inspired me because I want to create custom blogs/websites of my own at some point but I do know it might halt my security knowledge progression and I know I can't balance learning both right now.\n Will having both skills be better than just having one? If anyone has another suggestion that would be better I am open to that as well. The odin project inspired me because I want to create custom blogs/websites of my own at some point but I do know I have a lot to learn in either path I choose. Thank you in advance.\n    submitted by    /u/Early_Ad_1861  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/sadq8t/im_working_in_security_and_stuck_on_whether_i/",
+          "publishedOn": "2022-01-22T22:19:54.000Z",
+          "wordCount": 807,
+          "title": "I'm working in security and stuck on whether I should learn Web Development"
+        },
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/sa5yyx/backdoor_payloads_in_image_files_is_this_a_thing/",
+          "author": null,
+          "description": "If I open an image in gmail (I think it opens through their viewer), can the payload run? Should I be concerned?\n Is just viewing it sufficient or would I have to download it?\n    submitted by    /u/anon314159265358p  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/sa5yyx/backdoor_payloads_in_image_files_is_this_a_thing/",
+          "publishedOn": "2022-01-22T16:21:24.000Z",
+          "wordCount": 256,
+          "title": "Backdoor payloads in image files: is this a thing?"
+        },
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/sa4neh/does_anyone_know_what_these_photosfiles_are_from/",
+          "author": null,
+          "description": "There were also some manifest.json's that had information like \"\"name\":\"Brave NTP sponsored images\"\", \"Brave NTP sponsored images\", \"Tezos\", \"Taxbit\" in them. Are these preloaded files for ads for a cryptocurrency/NFT manager that's placed somewhere in Brave intentionally?\n They were listed in a folder that looked like gibberish: \"ghjifhoinncdowgrhioybqpasjndavbaoba\" as an example.\n https://imgur.com/a/zozye1B\n I don't have to worry about some kind of \"secret\" cryptominer like Norton recently added to their software right? (I hope that this is the case and it's just files for ads).\n    submitted by    /u/nekohideyoshi  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/sa4neh/does_anyone_know_what_these_photosfiles_are_from/",
+          "publishedOn": "2022-01-22T15:18:04.000Z",
+          "wordCount": 224,
+          "title": "Does anyone know what these photos/files are from the Brave browser folder?"
+        },
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/sa1vok/iso_27001_lead_auditor_certification/",
+          "author": null,
+          "description": "Hey everyone. So I’m planning on doing the ISO 27001 LA certificate and came across it being offered by multiple certification body such as TUV, BSI and PECB. Can anyone tell me what the difference is between the certification bodies as I see a drastic price difference. Thanks in advance.\n    submitted by    /u/reeds1164  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/sa1vok/iso_27001_lead_auditor_certification/",
+          "publishedOn": "2022-01-22T12:52:22.000Z",
+          "wordCount": 156,
+          "title": "ISO 27001 Lead Auditor Certification"
+        },
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/s9tp5x/what_is_the_best_entry_level_linux_certification/",
+          "author": null,
+          "description": "Hey everyone! Thank you for stopping by my post. I was wondering what is the best entry level Linux certification. I understand that the Linux + and Lpic-1 are no longer are a 1 for 2 package. Then everything I read online says don’t go for either of these and look into getting a red hat certification.\n I am going down the security engineer road and just need to get much deeper into Linux than I currently am. What are your recommendations and thoughts on Linux certifications?\n    submitted by    /u/RedNeckHutch  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/s9tp5x/what_is_the_best_entry_level_linux_certification/",
+          "publishedOn": "2022-01-22T04:08:39.000Z",
+          "wordCount": 783,
+          "title": "What is the best entry level Linux certification?"
+        },
         {
           "id": "https://www.reddit.com/r/AskNetsec/comments/s9pmtt/what_can_work_computersit_have_access_to/",
           "author": null,
@@ -13713,6 +13947,33 @@
       "siteUrl": "https://www.reddit.com/r/computerforensics/",
       "articles": [
         {
+          "id": "https://www.reddit.com/r/computerforensics/comments/s9u33i/employee_access_to_data/",
+          "author": null,
+          "description": "This is largely for those who work in, have worked in, or have worked with a SOC.\n For this example, there is a SOC that has tiers of analysts, with lower level analysts performing basic tasks and escalating alerts to the upper level analysts. The lower level analysts serve more of a traffic cop type of role; they weed out the easily spotted false-positives and may start very basic reviews of true positive events before handing off to the higher level analysts for analysis.\n In this setup, all members of the SOC have full access to M365 (all mailboxes, all OneDrives). This is in addition to the ability to triage machines via an EDR tool and collect files through that tool.\n My question: is that type of access appropriate for the lower level analysts? The obvious concern is that it is excessive data for the role they are performing (including any especially since the position has fairly high turnover.\n What are your thoughts?\n    submitted by    /u/ebarboza311  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/computerforensics/comments/s9u33i/employee_access_to_data/",
+          "publishedOn": "2022-01-22T04:30:24.000Z",
+          "wordCount": 688,
+          "title": "Employee Access to Data"
+        },
+        {
+          "id": "https://www.reddit.com/r/computerforensics/comments/s9ra8e/digital_forensics_software_bypass_encryption/",
+          "author": null,
+          "description": "How does forenics software extract files from password protected iphones?\n    submitted by    /u/thecirclingfly  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/computerforensics/comments/s9ra8e/digital_forensics_software_bypass_encryption/",
+          "publishedOn": "2022-01-22T02:00:45.000Z",
+          "wordCount": 343,
+          "title": "digital forensics software bypass encryption"
+        },
+        {
+          "id": "https://www.reddit.com/r/computerforensics/comments/s9qqba/old_iphone_se/",
+          "author": null,
+          "description": "I have an old iphone se i rhink. Somebody tried logging in buch of times and locked out forever basically. So i connected to itunes and it told me to update it so i did just in case it gives me a chance to try again and now it says phone unavailable. And not lock screen. So am i screwed because its extremely important to get the videos and photos from there.\n    submitted by    /u/TushieandTush  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/computerforensics/comments/s9qqba/old_iphone_se/",
+          "publishedOn": "2022-01-22T01:31:54.000Z",
+          "wordCount": 336,
+          "title": "Old iphone se"
+        },
+        {
           "id": "https://www.reddit.com/r/computerforensics/comments/s9i6k4/duplicating_usb_drives/",
           "author": null,
           "description": "Good day all,\n I feel my question is on the border of Computer forensics, but I believe still pertinent. I do not come from a background in IT, and have been figuring this all out on my own in the past few years. I have acquired a set (x3) of USB drives to collect images and videos from clients phones in an easier way. I have added the exact nomenclature of what I have below. I need this to be done in a forensically sound manner, and I am currently going through the steps to validate my theory these collect data in a forensically sound manner. To be forensically sound any media should be \"zeroed\" or wiped prior to use. Herein lies my question. With these flash drives they obviously have some sort of proprietary software which makes them work. If I were to format these I would lose this proprietary software. What would be a way I could format these drives and then return them to \"manufacturer settings\"?\n ​\n I have looked into USB duplicators, not sure if this could be a forensically sound option. Also, they seem too expensive to acquire for my organization currently. \n ​\n USB in question:\n MFi Certified 128GB Photo-Stick for iPhone-USB-Flash-Drives External Storage Stick for USB C iPhone-Thumb-Drive Memory-Mobile-for-Android-Phones iPad-Flash-Drive Photo Transfer Stick\n    submitted by    /u/Unfair-Border8865  \n [link]   [comments]",
@@ -14394,6 +14655,24 @@
       "feedUrl": "https://www.reddit.com/r/netsec/.rss",
       "siteUrl": "https://www.reddit.com/r/netsec/",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/netsec/comments/sa97by/goward_a_robust_red_team_proxy_written_in_go/",
+          "author": null,
+          "description": "submitted by    /u/UnwearableCactus  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/netsec/comments/sa97by/goward_a_robust_red_team_proxy_written_in_go/",
+          "publishedOn": "2022-01-22T18:50:09.000Z",
+          "wordCount": 117,
+          "title": "GoWard - A robust Red Team proxy written in Go"
+        },
+        {
+          "id": "https://www.reddit.com/r/netsec/comments/s9yb7s/cve202145467_cwp_centos_web_panel_preauth_rce/",
+          "author": null,
+          "description": "submitted by    /u/Gallus  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/netsec/comments/s9yb7s/cve202145467_cwp_centos_web_panel_preauth_rce/",
+          "publishedOn": "2022-01-22T08:55:44.000Z",
+          "wordCount": 116,
+          "title": "CVE-2021-45467: CWP CentOS Web Panel – preauth RCE"
+        },
         {
           "id": "https://www.reddit.com/r/netsec/comments/s9mw1z/cve20220185_detecting_and_mitigating_linux_kernel/",
           "author": null,
@@ -15688,6 +15967,15 @@
       "feedUrl": "https://www.reddit.com/r/opendirectories/.rss",
       "siteUrl": "https://www.reddit.com/r/opendirectories/",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/opendirectories/comments/sa19cd/a_collection_of_8mm_family_videos_from_the_60s/",
+          "author": null,
+          "description": "submitted by    /u/HGMIV926  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/opendirectories/comments/sa19cd/a_collection_of_8mm_family_videos_from_the_60s/",
+          "publishedOn": "2022-01-22T12:14:02.000Z",
+          "wordCount": 859,
+          "title": "A collection of 8mm family videos from the 60's that have been digitized and restored"
+        },
         {
           "id": "https://www.reddit.com/r/opendirectories/comments/s97skh/tons_of_software_to_try_and_buy/",
           "author": null,
