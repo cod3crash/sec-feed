@@ -2,10 +2,414 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cod3crash.github.io/sec-feed/index.html</id>
     <title>security feed</title>
-    <updated>2022-01-23T01:05:43.259Z</updated>
+    <updated>2022-01-24T01:06:16.067Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://cod3crash.github.io/sec-feed/index.html"/>
     <link rel="self" href="https://cod3crash.github.io/sec-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[mimikatz LogonPasswords and usernames with dollar sign ($) at the end]]></title>
+        <id>https://www.reddit.com/r/AskNetsec/comments/sb7h24/mimikatz_logonpasswords_and_usernames_with_dollar/</id>
+        <link href="https://www.reddit.com/r/AskNetsec/comments/sb7h24/mimikatz_logonpasswords_and_usernames_with_dollar/"/>
+        <updated>2022-01-23T23:42:23.000Z</updated>
+        <summary type="html"><![CDATA[I have a lab that I'm testing mimikatz on. Some of the usernames are dumped as "hostname$"
+ What does that mean? hostname being the actual host name of the test server being in this case "labserver"; so it will be something like:
+ [...] kerberos : * Username : labserver$ * Domain : lab.corp * Password : P@ssW0rd!! 
+    submitted by    /u/ak_z  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>AskNetsec</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Malware] I've started studying malware and more specifically backdoors, but something seems to not make any sense.]]></title>
+        <id>https://www.reddit.com/r/AskNetsec/comments/sb700e/malware_ive_started_studying_malware_and_more/</id>
+        <link href="https://www.reddit.com/r/AskNetsec/comments/sb700e/malware_ive_started_studying_malware_and_more/"/>
+        <updated>2022-01-23T23:20:37.000Z</updated>
+        <summary type="html"><![CDATA[Hey, i've recently started to study how backdoors work and are used / made. But i've noticed that every backdoor i've come accross follows this principle :
+ A client runs on the target and tries to connect to the attacker to give him access.
+ The server runs on the attacker and waits for a connection from the target.
+ Shouldn't this be the opposite so the attacker can gain access whenever he wants ?
+ Isn't the purpose of a backdoor to be an easy for the attacker to come back later? If so doesn't it defeat it ? Am i misunderstanding something ? I hope someone can help me clarify this.
+ PS : I'm not asking this to commit any sort of crime, i'm genuinely interested in cybersecurity research and thats why i'm asking this question.
+    submitted by    /u/fleurdelys-  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>AskNetsec</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Which do you think is the higher tier in cyber security?]]></title>
+        <id>https://www.reddit.com/r/AskNetsec/comments/sb5s35/which_do_you_think_is_the_higher_tier_in_cyber/</id>
+        <link href="https://www.reddit.com/r/AskNetsec/comments/sb5s35/which_do_you_think_is_the_higher_tier_in_cyber/"/>
+        <updated>2022-01-23T22:26:19.000Z</updated>
+        <summary type="html"><![CDATA[Soc analyst or security analyst?
+    submitted by    /u/lowkiwatchingyou  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>AskNetsec</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Binary-only fuzzong with python, Qemu and LibAFL]]></title>
+        <id>https://www.reddit.com/r/netsec/comments/sb20i2/binaryonly_fuzzong_with_python_qemu_and_libafl/</id>
+        <link href="https://www.reddit.com/r/netsec/comments/sb20i2/binaryonly_fuzzong_with_python_qemu_and_libafl/"/>
+        <updated>2022-01-23T19:45:04.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/domenukk  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>/r/netsec - Information Security News &amp; Discussion</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Threat Landscape and Attribution]]></title>
+        <id>tag:blogger.com,1999:blog-9518042.post-8738533357962151261</id>
+        <link href="http://windowsir.blogspot.com/2022/01/the-threat-landscape-and-attribution.html"/>
+        <updated>2022-01-23T19:37:00.000Z</updated>
+        <summary type="html"><![CDATA[Over the years, changes in the threat landscape have made attribution more difficult. Attribution has always been challenging, but has been and can continue to be eased through visibility. That is, if your view into an event or campaign is limited to resources such as malware samples pulled from public repositories, then attribution can be challenging. Even adding information regarding infrastructure extracted from the sample configs can still give a somewhat limited view. However, as visibility is expanded to include data from intrusions and incidents, attribution becomes clearer and more granular.
+I ran across A Complex Threat Landscape Muddles Attribution recently and found it to be a fascinating, insightful read, one that anyone involved in threat intelligence, even peripherally, shoul…]]></summary>
+        <author>
+            <name>noreply@blogger.com (Unknown)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wildfire videos - wireless research UCSD]]></title>
+        <id>https://www.reddit.com/r/opendirectories/comments/sb1ita/wildfire_videos_wireless_research_ucsd/</id>
+        <link href="https://www.reddit.com/r/opendirectories/comments/sb1ita/wildfire_videos_wireless_research_ucsd/"/>
+        <updated>2022-01-23T19:23:38.000Z</updated>
+        <summary type="html"><![CDATA[The High Performance Wireless Research and Education Network (HPWREN), a University of California San Diego partnership project led by the San Diego Supercomputer Center and the Scripps Institution of Oceanography's Institute of Geophysics and Planetary Physics, supports Internet-data applications in the research, education, and public safety realms.
+ HPWREN functions as a collaborative, Internet-connected cyberinfrastructure. The project supports a high-bandwidth wireless backbone and access data network in San Diego, Riverside, and Imperial counties in areas that are typically not well-served by other technologies to reach the Internet. This includes backbone locations, typically sited on mountain tops, to connect often hard-to-reach areas in the remote Southern California back country.
+ http://hpwren.ucsd.edu/HWB/
+    submitted by    /u/inoculatemedia  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Open Directories</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tracing Tor router connections within a host]]></title>
+        <id>https://www.reddit.com/r/computerforensics/comments/sb0nbw/tracing_tor_router_connections_within_a_host/</id>
+        <link href="https://www.reddit.com/r/computerforensics/comments/sb0nbw/tracing_tor_router_connections_within_a_host/"/>
+        <updated>2022-01-23T18:46:47.000Z</updated>
+        <summary type="html"><![CDATA[Hi there,
+ I'm analysing a memory dump from an infected system that is running a cryptominer and connecting to the mining server through a Tor router.
+ I know the processes of the miner and the tor router it installed on the system. Is there a way to show the miner handing over the IP of the actual mininf server to the Tor router?
+ The firewall of course just sees the connection to the next Tor router.
+    submitted by    /u/NazgulNr5  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Computer Forensics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Weak password found on "accident"]]></title>
+        <id>https://www.reddit.com/r/AskNetsec/comments/sb09w7/weak_password_found_on_accident/</id>
+        <link href="https://www.reddit.com/r/AskNetsec/comments/sb09w7/weak_password_found_on_accident/"/>
+        <updated>2022-01-23T18:31:03.000Z</updated>
+        <summary type="html"><![CDATA[Backstory for question: I'm currently on the process of getting a job and I was sent a link (via email) to a psychological test which required a username and password to login, the user was already typed for me (sent as parameter on the url) and the password was sent on the email. At first I didn't read the full email so I entered the link and when I saw I needed a password, I thought that there must've been a mistake, so I typed a "random" password to see what would happen (I typed the same user as the pass) and I was able to log in. I was very confused as I was greeted with a page full of information regarding the account I was logged in to and as I explored further I was able to see personal information regarding other people that have done the quiz. At this point I realized that I wasn't supposed to be able to read this info so I logged out and tried another password (I was thinking that maybe the account accepted everything you typed) but no, I got a "wrong password" text. I read the email again, this time I saw that the password I was supposed to use was always there, I try it and I log in succesfully, but now it doesn't redirect me to the admin panel, it takes me to the psych test I'm supposed to be doing. As a NetSec Student, I know that I should let the company know about this weak password, but I don't know how to do it without it looking like I was on purpose trying to log in with another password different than the one provided via email and maybe get in trouble with the company I'm applying to.
+ Worded as a question: What is the best way to let a company know that they have a vulnerability on an account?
+ TL;DR: Got sent user and pass for an account, tried same user as pass instead (because I'm dumb and didn't read full email) and logged in as admin. Want to disclose this to the company but don't want to get in trouble.
+    submitted by    /u/Emacholo  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>AskNetsec</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Advice on a DAST Tool to Handle Single Page Apps]]></title>
+        <id>https://www.reddit.com/r/AskNetsec/comments/sazka1/advice_on_a_dast_tool_to_handle_single_page_apps/</id>
+        <link href="https://www.reddit.com/r/AskNetsec/comments/sazka1/advice_on_a_dast_tool_to_handle_single_page_apps/"/>
+        <updated>2022-01-23T18:01:40.000Z</updated>
+        <summary type="html"><![CDATA[Hi everyone, I’m currently looking for a DAST scanner that works well with single page applications (I’m using Ember.js with a couple of APIs behind it). For example, every tool I’ve tried has not been able to effectively test for XSS, as they can’t link injection points from API calls back to the rendered DOM on the monolithic front end.
+ Any tools, advice, etc. would be so greatly appreciated. Also, please note that I already utilize SCA and SAST, and will be moving to IAST in the future – this is solely about DAST. Cost is not a concern, just effectiveness.
+    submitted by    /u/shadowcorp  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>AskNetsec</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Process Ghosting Attack]]></title>
+        <id>https://www.hackingarticles.in/?p=27717</id>
+        <link href="https://www.hackingarticles.in/process-ghosting-attack/"/>
+        <updated>2022-01-23T17:52:21.000Z</updated>
+        <summary type="html"><![CDATA[Introduction Gabriel Landau released a post on Elastic Security here which talks about a technique through which antivirus evasion was found to be possible. The
+The post Process Ghosting Attack appeared first on Hacking Articles.]]></summary>
+        <author>
+            <name>Raj Chandel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What are some jobs that you can do with experience in computer forensics?]]></title>
+        <id>https://www.reddit.com/r/computerforensics/comments/sayi1x/what_are_some_jobs_that_you_can_do_with/</id>
+        <link href="https://www.reddit.com/r/computerforensics/comments/sayi1x/what_are_some_jobs_that_you_can_do_with/"/>
+        <updated>2022-01-23T17:17:02.000Z</updated>
+        <summary type="html"><![CDATA[I have a very close friend who has been doing computer forensics for well over 10 years and has experience with networking technology too. They've been working for local law enforcement all this time and has had to deal with "very bad sexual content" for quite a long time and it's really starting to eat away at their mental health. They really would like a job change. They are willing to work in law enforcement as long as the work doesn't involve kids. They make good money at the police department they work at now so a part of the equation is a paycheck. They are hoping to work at this job for the rest of their career. Teaching would also be an option.
+ Thanks for any answers.
+    submitted by    /u/Onece_in_a_life_time  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Computer Forensics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jumping from Application Developer/DevOps to Application Security Engineer]]></title>
+        <id>https://www.reddit.com/r/AskNetsec/comments/saxusd/jumping_from_application_developerdevops_to/</id>
+        <link href="https://www.reddit.com/r/AskNetsec/comments/saxusd/jumping_from_application_developerdevops_to/"/>
+        <updated>2022-01-23T16:49:19.000Z</updated>
+        <summary type="html"><![CDATA[Hey everyone, I'm 27, relatively new into tech (4 yesrs of experience). I'm a full stack developer, experienced with DevOps and CI/CD pipelines, and I have a CISSP. My goal is to ultimately become a jack of all trades architect. 
+ I'm potentially getting an opportunity to move into an application security engineering role that has significantly less development, and a lot more threst modeling, security architecture, pen testing, etc. I've never done those things, I've only studied them. Is it worth it to switch into a much more high level security oriented position? Would I be abandoning my primary skill set? Or is there a way to combine the 2 down the line? 
+ I'd love to hear your experience, your advice, and how your own career grew.
+    submitted by    /u/pyscho94  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>AskNetsec</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[My Pentest Log -4-]]></title>
+        <id>https://medium.com/p/82286fe42994</id>
+        <link href="https://hcibo.medium.com/my-pentest-log-4-82286fe42994?source=rss------bugbounty-5"/>
+        <updated>2022-01-23T16:47:09.000Z</updated>
+        <summary type="html"><![CDATA[Greetings from Constantinople to all,
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Hamit CİBO</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: TypeScript Scenario-Based Web Application Fuzzing Framework]]></title>
+        <id>https://news.ycombinator.com/item?id=30047196</id>
+        <link href="https://github.com/shfz/shfz"/>
+        <updated>2022-01-23T16:05:40.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/shfz/shfz
+Comments URL: https://news.ycombinator.com/item?id=30047196
+Points: 1
+# Comments: 0]]></summary>
+        <author>
+            <name>hi120ki</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SecWiki News 2022-01-23 Review]]></title>
+        <id>http://www.sec-wiki.com/?2022-01-23</id>
+        <link href="http://www.sec-wiki.com/?2022-01-23"/>
+        <updated>2022-01-23T15:58:20.000Z</updated>
+        <summary type="html"><![CDATA[今日暂未更新资讯~
+更多最新文章，请访问SecWiki]]></summary>
+        <author>
+            <name>SecWiki News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Creating easy proof-of-concept scripts with Python and Curl.]]></title>
+        <id>https://medium.com/p/5dca489c596b</id>
+        <link href="https://medium.com/@wyv3rn/creating-easy-proof-of-concept-scripts-with-python-and-curl-5dca489c596b?source=rss------bugbounty-5"/>
+        <updated>2022-01-23T15:47:40.000Z</updated>
+        <summary type="html"><![CDATA[Hello Hunters!
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>WYV3RN</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Strange unknown local device found when running Wireshark and filtering via ARP]]></title>
+        <id>https://www.reddit.com/r/AskNetsec/comments/sawb2b/strange_unknown_local_device_found_when_running/</id>
+        <link href="https://www.reddit.com/r/AskNetsec/comments/sawb2b/strange_unknown_local_device_found_when_running/"/>
+        <updated>2022-01-23T15:40:21.000Z</updated>
+        <summary type="html"><![CDATA[Hi,
+ I apologize in advance if this does not fit this subreddit.
+ I was running wireshark on my home network and was filtering by ARP to test some things. But in the process I found a strange device with a Facebook mac adress.
+ https://imgur.com/a/HbNuWdE
+ (note, I removed the mac for the router)
+ It was only the router asking for ip and not vice verca. Why would the router ask for it in the first place?
+ Any info/explination would be appreciated.
+    submitted by    /u/Wattcat  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>AskNetsec</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Career pivot!]]></title>
+        <id>https://www.reddit.com/r/AskNetsec/comments/sau5b6/career_pivot/</id>
+        <link href="https://www.reddit.com/r/AskNetsec/comments/sau5b6/career_pivot/"/>
+        <updated>2022-01-23T13:54:20.000Z</updated>
+        <summary type="html"><![CDATA[Looking to pivot the the cyber security world.
+ Studying for a sec + cert, have a secret clearance, and got a cyber cert from MIT. Have 2 years of DOD consulting experience. And an engineering degree.
+ Looking at roles like “cybersecurity engineer” and cybersecurity analyst
+ What kind of compensation can I expect as a government contractor with the above resume?
+ I’m looking to get into the RMF/Policy/Vulnerability Assessment world.
+ I am trying to create a future path for myself down the road.
+    submitted by    /u/tbrady1001  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>AskNetsec</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Corrosion: 2 VulnHub Walkthrough]]></title>
+        <id>https://www.hackingarticles.in/?p=27713</id>
+        <link href="https://www.hackingarticles.in/corrosion-2-vulnhub-walkthrough/"/>
+        <updated>2022-01-23T13:10:16.000Z</updated>
+        <summary type="html"><![CDATA[Proxy Programmer’s Corrosion: 2 is a Vulnhub medium machine. We can download the lab from here. This lab is designed for experienced CTF players who
+The post Corrosion: 2 VulnHub Walkthrough appeared first on Hacking Articles.]]></summary>
+        <author>
+            <name>Raj Chandel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intigriti’s January XSS challenge
+By TheRealBrenu]]></title>
+        <id>https://medium.com/p/28e90a0769a5</id>
+        <link href="https://stnv.medium.com/intigritis-january-xss-challenge-by-therealbrenu-28e90a0769a5?source=rss------xss-5"/>
+        <updated>2022-01-23T12:17:30.000Z</updated>
+        <summary type="html"><![CDATA[First challenge for 2022 is here by TheRealBrenu. This one is a good example of javascript source maps, which I was unfamiliar at first…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Martin Stoynov</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intelligence HacktheBox Walkthrough]]></title>
+        <id>https://www.hackingarticles.in/?p=27709</id>
+        <link href="https://www.hackingarticles.in/intelligence-hackthebox-walkthrough/"/>
+        <updated>2022-01-23T12:12:38.000Z</updated>
+        <summary type="html"><![CDATA[Introduction Intelligence is a CTF Windows box with difficulty rated as “medium” on the HackTheBox platform. The machine covers OSINT, AD attacks, and silver ticket
+The post Intelligence HacktheBox Walkthrough appeared first on Hacking Articles.]]></summary>
+        <author>
+            <name>Raj Chandel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Doing a uni project on pen testing and appreciated this article for help writing up an information disclosure vulnerability. Though some of you might appreciate it too.]]></title>
+        <id>https://www.reddit.com/r/netsec/comments/saqha1/doing_a_uni_project_on_pen_testing_and/</id>
+        <link href="https://www.reddit.com/r/netsec/comments/saqha1/doing_a_uni_project_on_pen_testing_and/"/>
+        <updated>2022-01-23T10:09:28.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/PlatonicDogLover93  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>/r/netsec - Information Security News &amp; Discussion</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Making the jump from IT Support to Security - Advice needed]]></title>
+        <id>https://www.reddit.com/r/AskNetsec/comments/saq7d8/making_the_jump_from_it_support_to_security/</id>
+        <link href="https://www.reddit.com/r/AskNetsec/comments/saq7d8/making_the_jump_from_it_support_to_security/"/>
+        <updated>2022-01-23T09:51:02.000Z</updated>
+        <summary type="html"><![CDATA[Hello,
+ Looking to move into IT Security from IT Support. I currently have 15+ years in IT Support (1st, 2nd, 3rd line IT support). Unfortunately I'm pretty clueless on progression steps and the certs needed to climb up the Security ladder. I don't like the idea of CISSP as that appears to be geared towards management, but like the look of Security Analysis/Defensive/Offensive. With my IT background what certs should I look at? I was thinking GCIH as a start?
+ Also would 2 years as a Security Analyst with a couple of certs be enough to progress in a new company? Or would 5 years (for example) be the minimum I would realistically need?
+ Any advice/insight would be appreciated and apologies if this is the wrong forum.
+    submitted by    /u/ZoidbergsMinions  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>AskNetsec</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PORTSWIGGER WEB SECURITY - XSS (CROSS SITE SCRIPTING) LAB ÇÖZÜMLERİ]]></title>
+        <id>https://medium.com/p/fbaf7489bc5</id>
+        <link href="https://ariarif.medium.com/portswigger-web-security-xss-cross-site-scripting-lab-%C3%A7%C3%B6z%C3%BCmleri%CC%87-fbaf7489bc5?source=rss------bugbounty-5"/>
+        <updated>2022-01-23T09:12:52.000Z</updated>
+        <summary type="html"><![CDATA[Cross Site Scripting (Siteler Arası Komut Dosyası Çalıştırma), saldırganın bir web uygulamasında çalıştırdığı zararlı komutlar sonucunda…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Arif ARI</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Security for Personal IT Tutor]]></title>
+        <id>https://www.reddit.com/r/AskNetsec/comments/sape8a/security_for_personal_it_tutor/</id>
+        <link href="https://www.reddit.com/r/AskNetsec/comments/sape8a/security_for_personal_it_tutor/"/>
+        <updated>2022-01-23T08:55:15.000Z</updated>
+        <summary type="html"><![CDATA[Hi, I’m getting increasing requests from friends of friends of family to do some basic IT support work for them. With close family members I have been entrusted with access to their password managers and unattended remote access, which is really useful to be able to help with things they can’t do themselves or when they’re away from their devices - all the credentials for this are kept in a totally separate password manager from my personal accounts. However I recognise that this is big security risk, and if I’m going to be working with people outside my family, I want to avoid exposing them to unnecessary risk without severely limiting my ability to help them.
+ What should I be conscious of in setting up a remote access solution for this purpose? Are there any good ways that clients can share passwords or access to specific accounts without me having access to their entire password manager?
+    submitted by    /u/marquitanavin  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>AskNetsec</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fuzzing is always fun..!!]]></title>
+        <id>https://medium.com/p/1697af1a69fe</id>
+        <link href="https://pullakarthik5.medium.com/fuzzing-is-always-fun-1697af1a69fe?source=rss------bugbounty-5"/>
+        <updated>2022-01-23T07:26:54.000Z</updated>
+        <summary type="html"><![CDATA[Hello Everyone,
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>@pullakarthik</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Setting up a Free VPS for Bug Bounty & More]]></title>
+        <id>https://medium.com/p/76890bede56</id>
+        <link href="https://nafish.medium.com/setting-up-a-free-vps-for-bug-bounty-more-76890bede56?source=rss------bugbounty-5"/>
+        <updated>2022-01-23T06:33:31.000Z</updated>
+        <summary type="html"><![CDATA[Finding Bugs can be Time consuming and as for day-to-day life, you are not sitting on your one computer all day unless you are a…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Nafish Alam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Indiana Department of Homeland Security Fire Regulation Variance Requests]]></title>
+        <id>https://www.reddit.com/r/opendirectories/comments/salua1/indiana_department_of_homeland_security_fire/</id>
+        <link href="https://www.reddit.com/r/opendirectories/comments/salua1/indiana_department_of_homeland_security_fire/"/>
+        <updated>2022-01-23T05:09:29.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/Typographical_Terror  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Open Directories</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Temporal Scoring - CVSS How to Input]]></title>
+        <id>https://www.reddit.com/r/AskNetsec/comments/sajrmh/temporal_scoring_cvss_how_to_input/</id>
+        <link href="https://www.reddit.com/r/AskNetsec/comments/sajrmh/temporal_scoring_cvss_how_to_input/"/>
+        <updated>2022-01-23T03:16:08.000Z</updated>
+        <summary type="html"><![CDATA[So right now I am using CVSS v3.0 base scoring to calculate severity of a findings from scanning tools like Tenable.sc, snyk, and some other tools. I want to go farther and factor the CVSS Temporal score into the severity so I can prioritize better... question is how do I do that when I have 1,000+ findings and can't do it manually? Where can I get a feed or service or point in time data to get that? NVD does not provide it.
+ ​
+ Thank you!
+    submitted by    /u/ThrowThrowAway789  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>AskNetsec</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How I was able to find multiple vulnerabilities of a Symfony Web Framework web application]]></title>
+        <id>https://medium.com/p/2b82cd5de144</id>
+        <link href="https://rootintrud3r.medium.com/how-i-was-able-to-find-multiple-vulnerabilities-of-a-symfony-web-framework-web-application-2b82cd5de144?source=rss------bugbounty-5"/>
+        <updated>2022-01-23T03:11:41.000Z</updated>
+        <summary type="html"><![CDATA[Found high severity vulnerability just from reconnaissance. Found multiple vulnerabilities on a web application that used the Symfony web…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Abid Ahmad</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Books on Theorists of Education [PT-BR]]]></title>
+        <id>https://www.reddit.com/r/opendirectories/comments/sahiy8/books_on_theorists_of_education_ptbr/</id>
+        <link href="https://www.reddit.com/r/opendirectories/comments/sahiy8/books_on_theorists_of_education_ptbr/"/>
+        <updated>2022-01-23T01:19:42.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/afmachado  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Open Directories</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OSINT Double Trouble]]></title>
+        <id>https://medium.com/p/7adb33197c81</id>
+        <link href="https://medium.com/@nicholaswittman1128/osint-double-trouble-7adb33197c81?source=rss------osint-5"/>
+        <updated>2022-01-23T01:06:12.000Z</updated>
+        <summary type="html"><![CDATA[It’s a new year, and that means new OSINT Challenges to solve. This time around, I’ll be solving 2 challenges courtesy of Twitter’s…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Nicholas Wittman</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[I'm working in security and stuck on whether I should learn Web Development]]></title>
         <id>https://www.reddit.com/r/AskNetsec/comments/sadq8t/im_working_in_security_and_stuck_on_whether_i/</id>
@@ -696,6 +1100,16 @@ Continue reading on System Weakness »]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[FreeBuf早报 | 印尼央行遭勒索攻击13GB数据外泄；推特安全团队大动荡前高管离职]]></title>
+        <id>https://www.freebuf.com/articles/network/320577.html</id>
+        <link href="https://www.freebuf.com/articles/network/320577.html"/>
+        <updated>2022-01-21T11:03:29.000Z</updated>
+        <summary type="html"><![CDATA[推特安全部门的负责人皮特·扎特科已离开公司，他曾是安全领域的著名黑客“Mudge”。首席信息安全官林基·塞西将在未来几周内离职。]]></summary>
+        <author>
+            <name>FreeBuf网络安全行业门户</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[What to know about Biden’s latest cybersecurity memorandum]]></title>
         <id>https://www.netsparker.com/blog/6e21e2df-9418-465b-95b1-9ac241dce18a/</id>
         <link href="https://www.netsparker.com/blog/web-security/what-to-know-latest-biden-cybersecurity-memo/"/>
@@ -778,6 +1192,16 @@ Points: 1
         <link href="https://www.freebuf.com/articles/320548.html"/>
         <updated>2022-01-21T08:40:15.000Z</updated>
         <summary type="html"><![CDATA[我们总结推荐本周的热点资讯、优质文章和省心工具，保证大家不错过本周的每一个重点！]]></summary>
+        <author>
+            <name>FreeBuf网络安全行业门户</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ASRC 2021年电子邮件安全趋势回顾]]></title>
+        <id>https://www.freebuf.com/articles/320547.html</id>
+        <link href="https://www.freebuf.com/articles/320547.html"/>
+        <updated>2022-01-21T08:37:54.000Z</updated>
+        <summary type="html"><![CDATA[后疫情时代，大家也都慢慢开始适应远程办公，信息安全设备的部署不再只是慌乱应对远程工作所带来的安全隐患，而是全新型态的适应性部署]]></summary>
         <author>
             <name>FreeBuf网络安全行业门户</name>
         </author>
@@ -1452,6 +1876,16 @@ Points: 10
         <link href="https://www.freebuf.com/articles/network/320443.html"/>
         <updated>2022-01-20T10:50:11.000Z</updated>
         <summary type="html"><![CDATA[近日，安全研究人员发现 DDoS IRC Bot 恶意样本正伪装成成人游戏通过网盘进行传播。]]></summary>
+        <author>
+            <name>FreeBuf网络安全行业门户</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[攻击者开始使用 XLL 文件进行攻击]]></title>
+        <id>https://www.freebuf.com/articles/network/320442.html</id>
+        <link href="https://www.freebuf.com/articles/network/320442.html"/>
+        <updated>2022-01-20T10:42:00.000Z</updated>
+        <summary type="html"><![CDATA[近期，研究人员发现使用恶意 Microsoft Excel 加载项（XLL）文件发起攻击的行动有所增加。]]></summary>
         <author>
             <name>FreeBuf网络安全行业门户</name>
         </author>
