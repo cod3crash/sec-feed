@@ -6,6 +6,42 @@
       "siteUrl": "http://h1.nobbd.de/",
       "articles": [
         {
+          "id": "https://hackerone.com/reports/1387320",
+          "author": null,
+          "description": "Lark Technologies disclosed a bug submitted by imran_nisar: https://hackerone.com/reports/1387320 - Bounty: $2000",
+          "link": "https://hackerone.com/reports/1387320",
+          "publishedOn": "2022-01-25T21:54:49.000Z",
+          "wordCount": 25,
+          "title": "Able to steal private files by manipulating response using Auto Reply function of Lark"
+        },
+        {
+          "id": "https://hackerone.com/reports/1373784",
+          "author": null,
+          "description": "Lark Technologies disclosed a bug submitted by imran_nisar: https://hackerone.com/reports/1373784 - Bounty: $2000",
+          "link": "https://hackerone.com/reports/1373784",
+          "publishedOn": "2022-01-25T21:53:53.000Z",
+          "wordCount": 25,
+          "title": "Able to steal private files by manipulating response using Compose Email function of Lark"
+        },
+        {
+          "id": "https://hackerone.com/reports/1348504",
+          "author": null,
+          "description": "Mail.ru disclosed a bug submitted by official_dhivish: https://hackerone.com/reports/1348504",
+          "link": "https://hackerone.com/reports/1348504",
+          "publishedOn": "2022-01-25T08:25:06.000Z",
+          "wordCount": 25,
+          "title": "Subdomain Takeover"
+        },
+        {
+          "id": "https://hackerone.com/reports/1433125",
+          "author": null,
+          "description": "TikTok disclosed a bug submitted by blubluuu: https://hackerone.com/reports/1433125 - Bounty: $500",
+          "link": "https://hackerone.com/reports/1433125",
+          "publishedOn": "2022-01-25T02:49:30.000Z",
+          "wordCount": 25,
+          "title": "Cross site scripting via file upload in subdomain ads.tiktok.com"
+        },
+        {
           "id": "https://hackerone.com/reports/1411363",
           "author": null,
           "description": "Imgur disclosed a bug submitted by blackfly_: https://hackerone.com/reports/1411363 - Bounty: $250",
@@ -1714,6 +1750,96 @@
       "siteUrl": "https://infosecwriteups.com?source=rss----7b722bfd1b8d---4",
       "articles": [
         {
+          "id": "https://medium.com/p/eb0e3908d9a7",
+          "author": "7h3h4ckv157",
+          "description": "In this writeup, I’m sharing one of the potential methods to pwn a web challenge on Real world CTF 2022. All challenges built on top of real-world applications & due to the impact of COVID-19, The…",
+          "link": "https://infosecwriteups.com/hack-into-skynet-real-world-ctf-2022-walkthrough-eb0e3908d9a7?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2022-01-25T11:01:43.000Z",
+          "wordCount": 1509,
+          "title": "Hack into Skynet —  Real World CTF (2022) walkthrough"
+        },
+        {
+          "id": "https://medium.com/p/278a49a1ad2e",
+          "author": "Anubhav Singh",
+          "description": "In part1 of the article, I introduced JSON web tokens that what is JWT and How they are made? I prefer to take a look at that before you go…",
+          "link": "https://infosecwriteups.com/attacks-on-json-web-token-jwt-278a49a1ad2e?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2022-01-25T10:59:54.000Z",
+          "wordCount": 2468,
+          "title": "Attacks on JSON Web Token (JWT)"
+        },
+        {
+          "id": "https://medium.com/p/c5aa93742ce4",
+          "author": "Yuvarajan",
+          "description": "Hello folks!!! My brother and I were bored this weekend and decided to play a game, so he downloaded the game. Here’s the fascinating part…",
+          "link": "https://infosecwriteups.com/how-i-ended-up-downloading-a-malware-c5aa93742ce4?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2022-01-25T10:59:09.000Z",
+          "wordCount": 1200,
+          "title": "How I ended up downloading a malware"
+        },
+        {
+          "id": "https://medium.com/p/647926a3a0ac",
+          "author": "Guru HariHaraun",
+          "description": "Hello guys! I’m Guru HariHaraun, 21 years old. In this blog, I will be sharing with you my secret strategy I followed to pass CEH…",
+          "link": "https://infosecwriteups.com/how-i-passed-ceh-practical-in-my-first-attempt-647926a3a0ac?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2022-01-25T10:58:44.000Z",
+          "wordCount": 2203,
+          "title": "How I passed CEH (Practical) in my first attempt by Guru HariHaraun"
+        },
+        {
+          "id": "https://medium.com/p/2b82cd5de144",
+          "author": "Abid Ahmad",
+          "description": "Found high severity vulnerability in 5 minutes just from reconnaissance. Found multiple vulnerabilities on a web application that used the…",
+          "link": "https://infosecwriteups.com/how-i-was-able-to-find-multiple-vulnerabilities-of-a-symfony-web-framework-web-application-2b82cd5de144?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2022-01-25T10:58:15.000Z",
+          "wordCount": 1009,
+          "title": "How I was able to find multiple vulnerabilities of a Symfony Web Framework web application"
+        },
+        {
+          "id": "https://medium.com/p/d05e22fb70d7",
+          "author": "Nishith P",
+          "description": "Since the growth of Online learning during this pandemic — students, researchers have been on an hunt for hacks on Microsoft Forms which…",
+          "link": "https://infosecwriteups.com/hacking-microsoft-forms-d05e22fb70d7?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2022-01-25T10:55:50.000Z",
+          "wordCount": 739,
+          "title": "Hacking Microsoft Forms"
+        },
+        {
+          "id": "https://medium.com/p/43d0c723611c",
+          "author": "Ayush Verma",
+          "description": "Get all the writeups from Day 1 to 15, Click Here Or Click Here.",
+          "link": "https://infosecwriteups.com/day-16-web-reconnaissance-or-information-gathering-part-1-100daysofhacking-43d0c723611c?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2022-01-25T09:48:46.000Z",
+          "wordCount": 1473,
+          "title": "Day 16, Web Reconnaissance Or Information Gathering — Part 1#100DaysofHacking"
+        },
+        {
+          "id": "https://medium.com/p/764729aa7f32",
+          "author": "Avi Lumelsky",
+          "description": "My journey on finding and reporting databases with sensitive data about Fortune-500 companies, Hospitals, Crypto platforms, Startups during…",
+          "link": "https://infosecwriteups.com/how-i-discovered-thousands-of-open-databases-on-aws-764729aa7f32?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2022-01-25T08:08:41.000Z",
+          "wordCount": 2631,
+          "title": "How I Discovered Thousands of Open Databases on AWS"
+        },
+        {
+          "id": "https://medium.com/p/eebd0254865c",
+          "author": "Mukilan Baskaran",
+          "description": "CTF",
+          "link": "https://infosecwriteups.com/simple-ctf-tryhackme-eebd0254865c?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2022-01-25T08:07:41.000Z",
+          "wordCount": 915,
+          "title": "Simple CTF- TryHackme"
+        },
+        {
+          "id": "https://medium.com/p/a588cee61d4a",
+          "author": "CyberBruhArmy",
+          "description": "A: Configure Apache as reverse proxy and the application [demo.testfire.net] should be accessible via local host entry through configured…",
+          "link": "https://infosecwriteups.com/lab-setup-modsecurity-apache-as-reverse-proxy-generate-install-self-signed-ssl-a588cee61d4a?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2022-01-25T08:06:35.000Z",
+          "wordCount": 2164,
+          "title": "LAB Setup — ModSecurity || Apache as reverse Proxy || Generate& Install self signed SSL…"
+        },
+        {
           "id": "https://medium.com/p/41a1b0182b00",
           "author": "InfoSec Write-ups",
           "description": "Listen to 15+ awesome speakers and meet some of the coolest peeps in Infosec!",
@@ -2521,6 +2647,78 @@
       "feedUrl": "https://medium.com/feed/tag/bugbounty",
       "siteUrl": "https://medium.com/tag/bugbounty/latest?source=rss------bugbounty-5",
       "articles": [
+        {
+          "id": "https://medium.com/p/c799cd3838",
+          "author": "Thexssrat",
+          "description": "Continue reading on Medium »",
+          "link": "https://thexssrat.medium.com/how-docker-can-help-you-become-a-better-hacker-c799cd3838?source=rss------bugbounty-5",
+          "publishedOn": "2022-01-25T22:31:47.000Z",
+          "wordCount": 114,
+          "title": "How “Docker” can help you become a better hacker"
+        },
+        {
+          "id": "https://medium.com/p/a7c55568f2d8",
+          "author": "Maple Finance",
+          "description": "Calling all devs and hackers. Help enhance our smart contract security and prevent thefts, freezes, and unintended changes and earn.\nContinue reading on Medium »",
+          "link": "https://maplefinance.medium.com/bug-bounty-program-with-immunefi-commences-2-25-12-30-est-a7c55568f2d8?source=rss------bugbounty-5",
+          "publishedOn": "2022-01-25T18:11:12.000Z",
+          "wordCount": 691,
+          "title": "Ensuring protocol security with Immunefi bug bounty program"
+        },
+        {
+          "id": "https://medium.com/p/a027b12b7013",
+          "author": "Connor Ford",
+          "description": "Apple’s Bug Bounty program, in theory, incentivizes programmers to report flaws they find in the company’s code. In practice? Not so much.\nContinue reading on Medium »",
+          "link": "https://medium.com/@ConnorFord1/i-found-a-way-to-extract-passwords-from-any-ios-device-when-i-reported-it-to-apple-silence-a027b12b7013?source=rss------bugbounty-5",
+          "publishedOn": "2022-01-25T15:23:29.000Z",
+          "wordCount": 864,
+          "title": "I found a way to extract passwords from any iOS device. When I reported it to Apple? Silence."
+        },
+        {
+          "id": "https://medium.com/p/6efbea44db7",
+          "author": "Sm9l",
+          "description": "IDOR — Insecure Direct Object Reference, abuse of the lack of authentication at every stage.\nContinue reading on Medium »",
+          "link": "https://medium.com/@Sm9l/what-i-learnt-from-reading-220-idor-bug-reports-6efbea44db7?source=rss------bugbounty-5",
+          "publishedOn": "2022-01-25T14:03:41.000Z",
+          "wordCount": 989,
+          "title": "What I learnt from reading 220* IDOR bug reports."
+        },
+        {
+          "id": "https://medium.com/p/34678f102efc",
+          "author": "Ba7man",
+          "description": "Getting that first bug bounty is a special feeling for any bug hunter. This is my first write up so please bear with me.\nContinue reading on Medium »",
+          "link": "https://medium.com/@ba7manhacks/first-bounty-disable-2fa-of-any-user-via-otp-bypass-34678f102efc?source=rss------bugbounty-5",
+          "publishedOn": "2022-01-25T12:33:19.000Z",
+          "wordCount": 281,
+          "title": "First Bounty! Disable 2FA of any user via OTP bypass"
+        },
+        {
+          "id": "https://medium.com/p/a2c185c53074",
+          "author": "Aidil Arief",
+          "description": "Hi Everyone.\nContinue reading on Medium »",
+          "link": "https://aidilarf.medium.com/first-valid-bug-finding-at-microsoft-and-i-got-the-acknowledgments-page-microsoft-a2c185c53074?source=rss------bugbounty-5",
+          "publishedOn": "2022-01-25T12:00:48.000Z",
+          "wordCount": 506,
+          "title": "First Valid BUG Finding At Microsoft And I Got the Acknowledgments Page Microsoft"
+        },
+        {
+          "id": "https://medium.com/p/cfd2e4f8e25c",
+          "author": "Sudhakar Muthumani",
+          "description": "Hey Everyone, Hope you’re doing safe and sound.\nContinue reading on InfoSec Write-ups »",
+          "link": "https://infosecwriteups.com/how-i-could-have-read-your-confidential-bug-reports-by-simple-mail-cfd2e4f8e25c?source=rss------bugbounty-5",
+          "publishedOn": "2022-01-25T07:53:20.000Z",
+          "wordCount": 528,
+          "title": "How I could have read your confidential bug reports by simple mail?"
+        },
+        {
+          "id": "https://medium.com/p/294290358e0c",
+          "author": "Khaled Mohamed",
+          "description": "Introduction\nContinue reading on InfoSec Write-ups »",
+          "link": "https://infosecwriteups.com/how-i-was-able-to-takeover-accounts-in-websites-deal-with-github-as-a-sso-provider-294290358e0c?source=rss------bugbounty-5",
+          "publishedOn": "2022-01-25T07:35:46.000Z",
+          "wordCount": 926,
+          "title": "How I was able to takeover accounts in websites deal with Github as a SSO provider"
+        },
         {
           "id": "https://medium.com/p/6aa43b92282c",
           "author": "MoSec",
@@ -4419,6 +4617,15 @@
       "siteUrl": "https://medium.com/tag/redteam/latest?source=rss------redteam-5",
       "articles": [
         {
+          "id": "https://medium.com/p/433f967f712e",
+          "author": "Gustav Shen",
+          "description": "Motivation of The Journey\nContinue reading on Medium »",
+          "link": "https://gustavshen.medium.com/my-crto-course-and-exam-review-433f967f712e?source=rss------redteam-5",
+          "publishedOn": "2022-01-25T15:14:49.000Z",
+          "wordCount": 1252,
+          "title": "My CRTO course and exam review"
+        },
+        {
           "id": "https://medium.com/p/3cb80e3fb654",
           "author": "ARZ101",
           "description": "When doing a black box pentesting for android , apart for looking at root detection bypass and ssl pinning looking for intents are also…\nContinue reading on Medium »",
@@ -4740,6 +4947,96 @@
       "feedUrl": "https://medium.com/feed/bugbountywriteup",
       "siteUrl": "https://infosecwriteups.com?source=rss----7b722bfd1b8d---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/eb0e3908d9a7",
+          "author": "7h3h4ckv157",
+          "description": "In this writeup, I’m sharing one of the potential methods to pwn a web challenge on Real world CTF 2022. All challenges built on top of real-world applications & due to the impact of COVID-19, The…",
+          "link": "https://infosecwriteups.com/hack-into-skynet-real-world-ctf-2022-walkthrough-eb0e3908d9a7?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2022-01-25T11:01:43.000Z",
+          "wordCount": 1509,
+          "title": "Hack into Skynet —  Real World CTF (2022) walkthrough"
+        },
+        {
+          "id": "https://medium.com/p/278a49a1ad2e",
+          "author": "Anubhav Singh",
+          "description": "In part1 of the article, I introduced JSON web tokens that what is JWT and How they are made? I prefer to take a look at that before you go…",
+          "link": "https://infosecwriteups.com/attacks-on-json-web-token-jwt-278a49a1ad2e?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2022-01-25T10:59:54.000Z",
+          "wordCount": 2468,
+          "title": "Attacks on JSON Web Token (JWT)"
+        },
+        {
+          "id": "https://medium.com/p/c5aa93742ce4",
+          "author": "Yuvarajan",
+          "description": "Hello folks!!! My brother and I were bored this weekend and decided to play a game, so he downloaded the game. Here’s the fascinating part…",
+          "link": "https://infosecwriteups.com/how-i-ended-up-downloading-a-malware-c5aa93742ce4?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2022-01-25T10:59:09.000Z",
+          "wordCount": 1200,
+          "title": "How I ended up downloading a malware"
+        },
+        {
+          "id": "https://medium.com/p/647926a3a0ac",
+          "author": "Guru HariHaraun",
+          "description": "Hello guys! I’m Guru HariHaraun, 21 years old. In this blog, I will be sharing with you my secret strategy I followed to pass CEH…",
+          "link": "https://infosecwriteups.com/how-i-passed-ceh-practical-in-my-first-attempt-647926a3a0ac?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2022-01-25T10:58:44.000Z",
+          "wordCount": 2203,
+          "title": "How I passed CEH (Practical) in my first attempt by Guru HariHaraun"
+        },
+        {
+          "id": "https://medium.com/p/2b82cd5de144",
+          "author": "Abid Ahmad",
+          "description": "Found high severity vulnerability in 5 minutes just from reconnaissance. Found multiple vulnerabilities on a web application that used the…",
+          "link": "https://infosecwriteups.com/how-i-was-able-to-find-multiple-vulnerabilities-of-a-symfony-web-framework-web-application-2b82cd5de144?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2022-01-25T10:58:15.000Z",
+          "wordCount": 1009,
+          "title": "How I was able to find multiple vulnerabilities of a Symfony Web Framework web application"
+        },
+        {
+          "id": "https://medium.com/p/d05e22fb70d7",
+          "author": "Nishith P",
+          "description": "Since the growth of Online learning during this pandemic — students, researchers have been on an hunt for hacks on Microsoft Forms which…",
+          "link": "https://infosecwriteups.com/hacking-microsoft-forms-d05e22fb70d7?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2022-01-25T10:55:50.000Z",
+          "wordCount": 739,
+          "title": "Hacking Microsoft Forms"
+        },
+        {
+          "id": "https://medium.com/p/43d0c723611c",
+          "author": "Ayush Verma",
+          "description": "Get all the writeups from Day 1 to 15, Click Here Or Click Here.",
+          "link": "https://infosecwriteups.com/day-16-web-reconnaissance-or-information-gathering-part-1-100daysofhacking-43d0c723611c?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2022-01-25T09:48:46.000Z",
+          "wordCount": 1473,
+          "title": "Day 16, Web Reconnaissance Or Information Gathering — Part 1#100DaysofHacking"
+        },
+        {
+          "id": "https://medium.com/p/764729aa7f32",
+          "author": "Avi Lumelsky",
+          "description": "My journey on finding and reporting databases with sensitive data about Fortune-500 companies, Hospitals, Crypto platforms, Startups during…",
+          "link": "https://infosecwriteups.com/how-i-discovered-thousands-of-open-databases-on-aws-764729aa7f32?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2022-01-25T08:08:41.000Z",
+          "wordCount": 2631,
+          "title": "How I Discovered Thousands of Open Databases on AWS"
+        },
+        {
+          "id": "https://medium.com/p/eebd0254865c",
+          "author": "Mukilan Baskaran",
+          "description": "CTF",
+          "link": "https://infosecwriteups.com/simple-ctf-tryhackme-eebd0254865c?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2022-01-25T08:07:41.000Z",
+          "wordCount": 915,
+          "title": "Simple CTF- TryHackme"
+        },
+        {
+          "id": "https://medium.com/p/a588cee61d4a",
+          "author": "CyberBruhArmy",
+          "description": "A: Configure Apache as reverse proxy and the application [demo.testfire.net] should be accessible via local host entry through configured…",
+          "link": "https://infosecwriteups.com/lab-setup-modsecurity-apache-as-reverse-proxy-generate-install-self-signed-ssl-a588cee61d4a?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2022-01-25T08:06:35.000Z",
+          "wordCount": 2387,
+          "title": "LAB Setup — ModSecurity || Apache as reverse Proxy || Generate& Install self signed SSL…"
+        },
         {
           "id": "https://medium.com/p/41a1b0182b00",
           "author": "InfoSec Write-ups",
@@ -5549,6 +5846,33 @@
       "siteUrl": "https://medium.com/tag/osint/latest?source=rss------osint-5",
       "articles": [
         {
+          "id": "https://medium.com/p/b10d81e55659",
+          "author": "PME Intelligence",
+          "description": "Durant une recherche sur internet, nous tombons souvent sur des formats de données qui sont à première vue inexploitables directement.\nContinue reading on Medium »",
+          "link": "https://medium.com/@intelligence69123/3-outils-%C3%A0-conna%C3%AEtre-absolument-pour-la-recherche-dinformation-b10d81e55659?source=rss------osint-5",
+          "publishedOn": "2022-01-25T18:05:07.000Z",
+          "wordCount": 819,
+          "title": "3 outils à connaître absolument pour la recherche d’information"
+        },
+        {
+          "id": "https://medium.com/p/2a1dab7c74e0",
+          "author": "CyberRaya",
+          "description": "Simple Python code for converting audio data to text format\nContinue reading on Medium »",
+          "link": "https://medium.com/@CyberRaya/python-speech-to-text-conversion-2a1dab7c74e0?source=rss------osint-5",
+          "publishedOn": "2022-01-25T17:25:56.000Z",
+          "wordCount": 385,
+          "title": "Python: Speech To Text Conversion"
+        },
+        {
+          "id": "https://medium.com/p/efdb0915cfba",
+          "author": "Paul Mason",
+          "description": "Making sense of the open source intelligence\nContinue reading on HOW TO STOP FASCISM »",
+          "link": "https://medium.com/mosquito-ridge/ukraine-tracking-the-deployments-efdb0915cfba?source=rss------osint-5",
+          "publishedOn": "2022-01-25T11:21:39.000Z",
+          "wordCount": 96,
+          "title": "Ukraine: tracking the deployments"
+        },
+        {
           "id": "https://medium.com/p/e1b61686dc70",
           "author": "Jxnathan",
           "description": "Sock puppets are constantly engaging in different ways across social media trying to influence what we think and what we believe. So how to\nContinue reading on Medium »",
@@ -6357,6 +6681,15 @@
       "siteUrl": "https://medium.com/tag/fuzzing/latest?source=rss------fuzzing-5",
       "articles": [
         {
+          "id": "https://medium.com/p/f0525f3dc4e",
+          "author": "Rafael Renovaci",
+          "description": "Fuzzing é uma técnica de teste de software que fornece dados inválidos, ou seja, dados inesperados ou aleatórios como entrada para um…\nContinue reading on Medium »",
+          "link": "https://medium.com/@rafaelrenovaci/ethical-hacking-buffer-overflows-parte-2-f0525f3dc4e?source=rss------fuzzing-5",
+          "publishedOn": "2022-01-26T00:09:36.000Z",
+          "wordCount": 553,
+          "title": "Ethical Hacking — Buffer Overflow Parte 2"
+        },
+        {
           "id": "https://medium.com/p/a0d15eb0de72",
           "author": "Hamit CİBO",
           "description": "Greetings from Constantinople to all,\nContinue reading on Medium »",
@@ -6543,6 +6876,15 @@
       "feedUrl": "https://medium.com/feed/tag/xss",
       "siteUrl": "https://medium.com/tag/xss/latest?source=rss------xss-5",
       "articles": [
+        {
+          "id": "https://medium.com/p/fc679acf29ab",
+          "author": "Arbaaz Jamadar",
+          "description": "Clickjacking is an interface-based attack in which a user is tricked into clicking on actionable content on a hidden website by clicking…\nContinue reading on Medium »",
+          "link": "https://medium.com/@Arbaaz_Jamadar/clickjackingggg-fc679acf29ab?source=rss------xss-5",
+          "publishedOn": "2022-01-25T14:39:13.000Z",
+          "wordCount": 637,
+          "title": "ClickJackingggg!!"
+        },
         {
           "id": "https://medium.com/p/28e90a0769a5",
           "author": "Martin Stoynov",
@@ -6927,6 +7269,15 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=30073154",
+          "author": "GordonS",
+          "description": "Article URL: https://github.com/microsoft/restler-fuzzer\nComments URL: https://news.ycombinator.com/item?id=30073154\nPoints: 4\n# Comments: 0",
+          "link": "https://github.com/microsoft/restler-fuzzer",
+          "publishedOn": "2022-01-25T15:50:48.000Z",
+          "wordCount": 1697,
+          "title": "RESTler: Stateful REST API fuzzing tool"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=30047196",
           "author": "hi120ki",
           "description": "Article URL: https://github.com/shfz/shfz\nComments URL: https://news.ycombinator.com/item?id=30047196\nPoints: 1\n# Comments: 0",
@@ -7176,6 +7527,24 @@
       "feedUrl": "https://hnrss.org/newest?q=CVE",
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
+        {
+          "id": "https://news.ycombinator.com/item?id=30077271",
+          "author": "todsacerdoti",
+          "description": "Article URL: https://seclists.org/oss-sec/2022/q1/80\nComments URL: https://news.ycombinator.com/item?id=30077271\nPoints: 112\n# Comments: 41",
+          "link": "https://seclists.org/oss-sec/2022/q1/80",
+          "publishedOn": "2022-01-25T20:05:09.000Z",
+          "wordCount": 1534,
+          "title": "Pwnkit: Local Privilege Escalation in polkit's pkexec (CVE-2021-4034)"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=30075993",
+          "author": "johnnyapol",
+          "description": "Article URL: https://www.qualys.com/2022/01/25/cve-2021-4034/pwnkit.txt\nComments URL: https://news.ycombinator.com/item?id=30075993\nPoints: 4\n# Comments: 2",
+          "link": "https://www.qualys.com/2022/01/25/cve-2021-4034/pwnkit.txt",
+          "publishedOn": "2022-01-25T18:40:08.000Z",
+          "wordCount": 1388,
+          "title": "Pwnkit: Local Privilege Escalation in polkit's pkexec (CVE-2021-4034)"
+        },
         {
           "id": "https://news.ycombinator.com/item?id=30064884",
           "author": "arkadiyt",
@@ -7525,6 +7894,33 @@
       "feedUrl": "https://hnrss.org/newest?q=vulnerability",
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
+        {
+          "id": "https://news.ycombinator.com/item?id=30077665",
+          "author": "CrankyBear",
+          "description": "Article URL: https://www.zdnet.com/article/major-linux-policykit-security-vulnerability-uncovered-pwnkit/\nComments URL: https://news.ycombinator.com/item?id=30077665\nPoints: 7\n# Comments: 0",
+          "link": "https://www.zdnet.com/article/major-linux-policykit-security-vulnerability-uncovered-pwnkit/",
+          "publishedOn": "2022-01-25T20:35:17.000Z",
+          "wordCount": 1182,
+          "title": "Major Linux PolicyKit security vulnerability uncovered: Pwnkit"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=30072868",
+          "author": "AlexeyBrin",
+          "description": "Article URL: https://developer-tech.com/news/2022/jan/24/rust-vulnerability-enables-attackers-delete-files-and-directories/\nComments URL: https://news.ycombinator.com/item?id=30072868\nPoints: 5\n# Comments: 1",
+          "link": "https://developer-tech.com/news/2022/jan/24/rust-vulnerability-enables-attackers-delete-files-and-directories/",
+          "publishedOn": "2022-01-25T15:30:40.000Z",
+          "wordCount": 1147,
+          "title": "Rust vulnerability enables attackers to delete files and directories"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=30069692",
+          "author": "BlackPlot",
+          "description": "Article URL: https://arstechnica.com/information-technology/2022/01/dark-souls-servers-taken-down-following-discovery-of-critical-vulnerability/\nComments URL: https://news.ycombinator.com/item?id=30069692\nPoints: 3\n# Comments: 0",
+          "link": "https://arstechnica.com/information-technology/2022/01/dark-souls-servers-taken-down-following-discovery-of-critical-vulnerability/",
+          "publishedOn": "2022-01-25T08:50:14.000Z",
+          "wordCount": 747,
+          "title": "Dark Souls servers taken down following discovery of critical vulnerability"
+        },
         {
           "id": "https://news.ycombinator.com/item?id=30060422",
           "author": "jrozner",
@@ -8054,6 +8450,51 @@
       "feedUrl": "https://www.freebuf.com/feed",
       "siteUrl": "https://www.freebuf.com",
       "articles": [
+        {
+          "id": "https://www.freebuf.com/articles/web/320852.html",
+          "author": null,
+          "description": "澳大利亚证券和投资委员会(ASIC)宣布，它正在与五家监管科技公司合作创建一个新的平台，旨在更好处理上市公司的信息。",
+          "link": "https://www.freebuf.com/articles/web/320852.html",
+          "publishedOn": "2022-01-25T10:30:54.000Z",
+          "wordCount": 200,
+          "title": "FreeBuf早报 | 去年全球共记录1862起数据泄漏事件；俄罗斯当局逮捕一国际网络犯罪组织的头目"
+        },
+        {
+          "id": "https://www.freebuf.com/articles/network/320838.html",
+          "author": null,
+          "description": "近期sophos的研究人员发现了名为AvosLocker的新勒索软件团伙。攻击者利用安全产品无法运行于安全模式下的防护缺失规避检测，并利用例外配置保持对目标的远程控制能力。",
+          "link": "https://www.freebuf.com/articles/network/320838.html",
+          "publishedOn": "2022-01-25T09:31:38.000Z",
+          "wordCount": 179,
+          "title": "攻击技术研判｜利用安全模式突破安全产品防线"
+        },
+        {
+          "id": "https://www.freebuf.com/articles/web/320836.html",
+          "author": null,
+          "description": "ModSecurity是一个开源的跨平台Web应用程序防火墙（WAF）引擎，用于Apache，IIS和Nginx，由Trustwave的SpiderLabs开发。",
+          "link": "https://www.freebuf.com/articles/web/320836.html",
+          "publishedOn": "2022-01-25T09:22:00.000Z",
+          "wordCount": 608,
+          "title": "modsecurity 搭建web安全防火墙和流量检测"
+        },
+        {
+          "id": "https://www.freebuf.com/articles/neopoints/320768.html",
+          "author": null,
+          "description": "过去十年中，安全分析这项技术发生了怎样的变化？本文将和大家一起探讨安全分析的演变和价值。",
+          "link": "https://www.freebuf.com/articles/neopoints/320768.html",
+          "publishedOn": "2022-01-24T15:01:42.000Z",
+          "wordCount": 181,
+          "title": "安全分析技术的“前世今生”"
+        },
+        {
+          "id": "https://www.freebuf.com/articles/ics-articles/320764.html",
+          "author": null,
+          "description": "攻击者滥用企业邮箱的联系人信任发起攻击，从一个工业企业传播到另一个工业企业。",
+          "link": "https://www.freebuf.com/articles/ics-articles/320764.html",
+          "publishedOn": "2022-01-24T11:53:51.000Z",
+          "wordCount": 200,
+          "title": "数千工业组织的企业电子邮件账户失窃，被滥用进行下一次攻击"
+        },
         {
           "id": "https://www.freebuf.com/fevents/320750.html",
           "author": null,
@@ -10796,6 +11237,15 @@
       "siteUrl": "http://www.sec-wiki.com/",
       "articles": [
         {
+          "id": "http://www.sec-wiki.com/?2022-01-25",
+          "author": null,
+          "description": "2021密码应用技术白皮书  by ourren\n2021年网络检测和响应报告  by ourren\n2021网络空间测绘年报  by ourren\n流量全密化趋势下的检测困境和思考  by ourren\n更多最新文章，请访问SecWiki",
+          "link": "http://www.sec-wiki.com/?2022-01-25",
+          "publishedOn": "2022-01-25T15:58:20.000Z",
+          "wordCount": 580,
+          "title": "SecWiki News 2022-01-25 Review"
+        },
+        {
           "id": "http://www.sec-wiki.com/?2022-01-24",
           "author": null,
           "description": "初探node.js相关之原型链污染  by ourren\n2021攻击技术发展趋势报告  by ourren\nSecWiki周刊（第412期)  by ourren\n内网代理工具与检测方法研究  by xiahao90\n狩猎样本的哈希游戏  by Avenger\n更多最新文章，请访问SecWiki",
@@ -11189,6 +11639,87 @@
       "feedUrl": "https://www.reddit.com/r/asknetsec/.rss",
       "siteUrl": "https://www.reddit.com/r/asknetsec/",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/scqao4/is_there_anything_equivalent_to_javas/",
+          "author": null,
+          "description": "Its the easiest thing to leverage for pre auth bugs just looking at web.xml and leveraging internal forwards to touch apis that normally require auth and I would love to find something similar in other languages. The closest thing ive found is a special type of open redirect where the devs decided to keep previous session data making it useful for auth bypasses in some php projects. See the thing is open redirects usually kill previous session data making them useless for auth bypassing on their own and the java forward system is like an internal version/server sided version of a redirect that keeps session data and forwards everything along intact.\n    submitted by    /u/Academic-Discount252  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/scqao4/is_there_anything_equivalent_to_javas/",
+          "publishedOn": "2022-01-25T22:54:02.000Z",
+          "wordCount": 237,
+          "title": "Is there anything equivalent to javas requestdispatcher.forward system in other programming languages?"
+        },
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/scq3mw/could_blind_mass_assignment_be_a_rare_type_of_bug/",
+          "author": null,
+          "description": "Some people know it as reflection binding, mass assignment or insecure direct object mapping which is the opposite of insecure direct object reference your basically writing data instead of reading it or appending data. So ive noticed in some places ill send hidden parameters and the json response won’t show anything interesting but ill refresh the page and ill get like a discount or something say I add the parameters isSpecialDiscount: true the response won’t show anything related so its a blind mass assignment bug and in some cases ive seen partial blind mass assignment where the json response will change to true for some things but still say false for others despite the request setting it as true but when I refresh the page the server grants me the discount proving its processing the input and assigning my session a discount. Ive never really seen people discuss blind or partial blind mass assignment being a thing but im finding them a lot more now its weird. Usually I used to look at the json response to see if parameter values are changing but I now see I can’t even trust that completely to prove a mass assignment bug exists.\n    submitted by    /u/Academic-Discount252  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/scq3mw/could_blind_mass_assignment_be_a_rare_type_of_bug/",
+          "publishedOn": "2022-01-25T22:45:27.000Z",
+          "wordCount": 320,
+          "title": "Could blind mass assignment be a rare type of bug?"
+        },
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/scot9f/anyone_who_works_in_a_soc_dealing_with/",
+          "author": null,
+          "description": "Just curious how some of you guys who work in a SOC, whether it’s as an analyst or engineer, with a manager who doesn’t have the background. Do you have a lot of influence in shaping the SOC? Run in to roadblocks justifying tools or maybe maturing your processes?\n    submitted by    /u/bankster24  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/scot9f/anyone_who_works_in_a_soc_dealing_with/",
+          "publishedOn": "2022-01-25T21:46:01.000Z",
+          "wordCount": 477,
+          "title": "Anyone who works in a SOC dealing with disadvantages in maturing due to lack of management experience?"
+        },
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/scload/looking_for_first_steps_in_changing_careers_with/",
+          "author": null,
+          "description": "Hello /r/AskNetsec, this is my first post on here.\n I recently (coming up on a year) graduated with a M.A. in Forensic Psychology and Intelligence Analysis. This degree is not opening the doors in the psychology field I was hoping it would, and quite frankly, the work I have done in this field is not what I wanted out of my career.\n I have always been fascinated by cybersecurity, and it is a large part of the reason I decided to pursue the Intel part of my degree.\n My question to you all is this: What first steps would someone in my position take in trying to get into the Cybersecurity field? Ideally I would like to eventually work my way to a Security Analyst position. I have no qualms about starting at the lowest positions to work my way up, but am clueless on where to start.\n I have some coding knowledge in Python and Java, but as far as IT knowledge I am a total newbie. Are there certifications or courses I should prioritize? I would like to avoid going back to a university setting, as I have spent enough time and money doing that for the time being.\n Thank you to anybody who reads this and decides to respond, I really appreciate it.\n    submitted by    /u/Lambeau_Leap  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/scload/looking_for_first_steps_in_changing_careers_with/",
+          "publishedOn": "2022-01-25T19:25:52.000Z",
+          "wordCount": 351,
+          "title": "Looking for first steps in changing careers with an unrelated(?) master's degree"
+        },
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/scjb0s/worth_getting_netsec_with_3_years_of_exp_in_blue/",
+          "author": null,
+          "description": "Heyhey, I'm not quite new to blue teaming (threat hunt & detection) but would like to have my options open in case I want to jump to a more senior tech role in the next year or so.\n I have a computer engineering degree and a SANS 401 (GSEC) cert too. Do you think it's worth getting? Thanks!\n    submitted by    /u/youmakemismile  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/scjb0s/worth_getting_netsec_with_3_years_of_exp_in_blue/",
+          "publishedOn": "2022-01-25T17:42:48.000Z",
+          "wordCount": 297,
+          "title": "Worth getting Net+/Sec+ with 3 years of exp in Blue Teaming?"
+        },
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/scduec/do_rsa_key_fobs_really_strengthen_security/",
+          "author": null,
+          "description": "Originally they did, I know.\n But there was this story about Chinese hackers compromising RSA, getting into the deepest levels of the production and key generation process. As a result, RSA alerted each and every customer of theirs and told them to use a personal PIN together with the code generated by the key fob. This is what I'm doing now on a daily basis.\n Now you have:\n  \nyour account password\n your PIN you use together with the RSA-generated code\n and the RSA-generated code\n  \nThe RSA codes are compromised and you have to assume that there's some people out there knowing all the codes and algorithms. But that means they really aren't worth much, basically you only have a password and another, limited password called PIN - which is usually shorter and numbers only.\n The most you can expect from this is that - let's say - 10 characters alphanumeric + 6 digits is somewhat better than just the 10 characters alphanumeric, plus there's a good chance that they are stored in different systems, so less likely to seized at the same time by some black hats.\n Is that true or do these key fobs still have an added value?\n    submitted by    /u/mshthn  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/scduec/do_rsa_key_fobs_really_strengthen_security/",
+          "publishedOn": "2022-01-25T13:33:07.000Z",
+          "wordCount": 599,
+          "title": "Do RSA key fobs really strengthen security?"
+        },
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/sc8wpv/simple_question_about_nmap/",
+          "author": null,
+          "description": "If my friend tells me what his public IP address is and I use nmap to do a port scan on his public IP address, then what exactly is being port scanned? Since every device in his house will have the same public IP address.\n    submitted by    /u/LagunaLoireFF8  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/sc8wpv/simple_question_about_nmap/",
+          "publishedOn": "2022-01-25T08:25:14.000Z",
+          "wordCount": 666,
+          "title": "Simple question about nmap"
+        },
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/sc4r2o/received_h1_bug_bounty_but_think_i_maybe_should/",
+          "author": null,
+          "description": "I have received a bounty just under 20k. I understand that that’s a lot of money but I am curious from experts whether this is about the most I’ll get and I should just move on. \n I can’t disclose too much but I found a way to make myself very very rich very easily (no actual tools or request spoofing required). I’ve thought of some ways that one could have theoretically easily taken the free money with no trace and ran if they were a legitimate crook. The bug had been around for a while (Longer than a week). Unsure of how bad it was in terms of actual internal damages. \n I can honestly say that I probably saved them potential millions if not actual millions. It feels like the amount I received is honestly not much at all given the severity of it. Having said all of that, it wasn’t very hard to reproduce. It was less of a penetration report involving much skill and more of a “holy shit guys, your product is clearly broken and I can’t believe this hasn’t been patched” \n Am I being completely unreasonable/greedy? I should also note that their market cap is far into the billions which is why I am making this post to begin with. They’re a major industry leader.\n    submitted by    /u/csthrowawayyyy  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/sc4r2o/received_h1_bug_bounty_but_think_i_maybe_should/",
+          "publishedOn": "2022-01-25T04:11:20.000Z",
+          "wordCount": 1196,
+          "title": "Received H1 bug bounty but think I maybe should have gotten more. Am I just being greedy?"
+        },
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/sc3w6q/is_an_associates_degree_worth_getting/",
+          "author": null,
+          "description": "I was told experience and certs are mostly required for most jobs aside from roles in management, which requires a BS or even masters. So I am just curious if there is any value in just getting an AS. The role that currently interests me is SOC analyst if that helps. I also heard of the WGU online program for a BS or masters in cybersecurity. If I plan on doing management in the future, is it worth getting my degree through this program?\n    submitted by    /u/RaZdoT  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/sc3w6q/is_an_associates_degree_worth_getting/",
+          "publishedOn": "2022-01-25T03:26:59.000Z",
+          "wordCount": 543,
+          "title": "Is an associates degree worth getting?"
+        },
         {
           "id": "https://www.reddit.com/r/AskNetsec/comments/sbvq5d/why_are_serializing_bugs_not_a_thing_does_code/",
           "author": null,
@@ -13411,6 +13942,42 @@
       "siteUrl": "https://www.reddit.com/r/redteamsec/",
       "articles": [
         {
+          "id": "https://www.reddit.com/r/redteamsec/comments/scomth/watering_hole_deploys_new_macos_malware_dazzlespy/",
+          "author": null,
+          "description": "submitted by    /u/dmchell  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/redteamsec/comments/scomth/watering_hole_deploys_new_macos_malware_dazzlespy/",
+          "publishedOn": "2022-01-25T21:37:34.000Z",
+          "wordCount": 116,
+          "title": "Watering hole deploys new macOS malware, DazzleSpy, in Asia"
+        },
+        {
+          "id": "https://www.reddit.com/r/redteamsec/comments/scolm0/extracting_cobalt_strike_beacon_configurations/",
+          "author": null,
+          "description": "submitted by    /u/dmchell  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/redteamsec/comments/scolm0/extracting_cobalt_strike_beacon_configurations/",
+          "publishedOn": "2022-01-25T21:35:58.000Z",
+          "wordCount": 118,
+          "title": "Extracting Cobalt Strike Beacon Configurations - Elastic Security Research"
+        },
+        {
+          "id": "https://www.reddit.com/r/redteamsec/comments/scnsun/rbcd_webclient_attack_frankys_website/",
+          "author": null,
+          "description": "submitted by    /u/dmchell  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/redteamsec/comments/scnsun/rbcd_webclient_attack_frankys_website/",
+          "publishedOn": "2022-01-25T21:00:19.000Z",
+          "wordCount": 109,
+          "title": "RBCD WebClient attack | Franky's WebSite"
+        },
+        {
+          "id": "https://www.reddit.com/r/redteamsec/comments/scjlp7/hlldzreflexxion_reflexxion_is_a_utility_designed/",
+          "author": null,
+          "description": "submitted by    /u/dmchell  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/redteamsec/comments/scjlp7/hlldzreflexxion_reflexxion_is_a_utility_designed/",
+          "publishedOn": "2022-01-25T17:55:40.000Z",
+          "wordCount": 160,
+          "title": "hlldz/RefleXXion: RefleXXion is a utility designed to aid in bypassing user-mode hooks utilised by AV/EPP/EDR etc. In order to bypass the user-mode hooks"
+        },
+        {
           "id": "https://www.reddit.com/r/redteamsec/comments/sbxjuc/cobalt_strike_a_defenders_guide_part_2/",
           "author": null,
           "description": "submitted by    /u/dmchell  \n [link]   [comments]",
@@ -14156,6 +14723,42 @@
       "siteUrl": "https://www.reddit.com/r/exploitdev/",
       "articles": [
         {
+          "id": "https://www.reddit.com/r/ExploitDev/comments/scsi3o/rop_hello_world/",
+          "author": null,
+          "description": "submitted by    /u/Kubiszox  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/ExploitDev/comments/scsi3o/rop_hello_world/",
+          "publishedOn": "2022-01-26T00:34:28.000Z",
+          "wordCount": 89,
+          "title": "ROP Hello World!"
+        },
+        {
+          "id": "https://www.reddit.com/r/ExploitDev/comments/scpkm3/pwntools_on_m1_mac/",
+          "author": null,
+          "description": "Hello, I'm working on creating a tutorial binary exploit for an m1-based mac. For simplicity and portability i'm using an M1-based Kali VM and trying to use aarch64 shellcraft but getting weird errors and wondering if anyone has successfully gotten pwn to work for them? \n ​\n Main error message when trying to use asm() on a shellcraft payload is:\n  \npwnlib.exception.PwnlibException: Could not find 'as' installed for ContextType() \n Try installing binutils for this architecture: \n https://docs.pwntools.com/en/stable/install/binutils.html\n  \n​\n but dont know what binutils arch it's expecting, i tried installing a couple to no avail. \n ​\n appreciate any of yall's time thanks\n    submitted by    /u/superiorpyre  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/ExploitDev/comments/scpkm3/pwntools_on_m1_mac/",
+          "publishedOn": "2022-01-25T22:22:03.000Z",
+          "wordCount": 191,
+          "title": "pwntools on m1 mac?"
+        },
+        {
+          "id": "https://www.reddit.com/r/ExploitDev/comments/sciksd/fuzzing_ethereum_smart_contract_using_echidna/",
+          "author": null,
+          "description": "submitted by    /u/pat_ventuzelo  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/ExploitDev/comments/sciksd/fuzzing_ethereum_smart_contract_using_echidna/",
+          "publishedOn": "2022-01-25T17:11:10.000Z",
+          "wordCount": 115,
+          "title": "Fuzzing Ethereum Smart Contract using Echidna - Blockchain Security #1"
+        },
+        {
+          "id": "https://www.reddit.com/r/ExploitDev/comments/scfoip/shellcode_to_x86_x64_assembly/",
+          "author": null,
+          "description": "Sharing a quick python3 command line tool I made to disassemble shellcode without having to remember the nuances of python2 v python3 strings and writing to a file each time:\n https://gitlab.com/stormblest/exploit-dev-tools/-/blob/main/shellcode2asm.py\n Includes python unittests in Gitlab.\n Example:\n ``` $ python3 shellcode2asm.py \"\\xbb\\x90\\x50\\x90\\x50\\x31\\xc9\\xf7\\xe1\\x66\\x81\\xca\\xff\\x0f\\x42\\x60\\x8d\\x5a\\x04\\xb0\\x21\\xcd\\x80\\x3c\\xf2\\x61\\x74\\xed\\x39\\x1a\\x75\\xee\\x39\\x5a\\x04\\x75\\xe9\\xff\\xe2\" -a 32\n shellcode: \"\\xbb\\x90\\x50\\x90\\x50\\x31\\xc9\\xf7\\xe1\\x66\\x81\\xca\\xff\\x0f\\x42\\x60\\x8d\\x5a\\x04\\xb0\\x21\\xcd\\x80\\x3c\\xf2\\x61\\x74\\xed\\x39\\x1a\\x75\\xee\\x39\\x5a\\x04\\x75\\xe9\\xff\\xe2\"\n 00000000 BB90509050 mov ebx,0x50905090 00000005 31C9 xor ecx,ecx 00000007 F7E1 mul ecx 00000009 6681CAFF0F or dx,0xfff 0000000E 42 inc edx 0000000F 60 pusha 00000010 8D5A04 lea ebx,[edx+0x4] 00000013 B021 mov al,0x21 00000015 CD80 int 0x80 00000017 3CF2 cmp al,0xf2 00000019 61 popa 0000001A 74ED jz 0x9 0000001C 391A cmp [edx],ebx 0000001E 75EE jnz 0xe 00000020 395A04 cmp [edx+0x4],ebx 00000023 75E9 jnz 0xe 00000025 FFE2 jmp edx ```\n    submitted by    /u/blutitanium  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/ExploitDev/comments/scfoip/shellcode_to_x86_x64_assembly/",
+          "publishedOn": "2022-01-25T15:01:25.000Z",
+          "wordCount": 215,
+          "title": "Shellcode to x86, x64 Assembly"
+        },
+        {
           "id": "https://www.reddit.com/r/ExploitDev/comments/s81tp9/are_you_looking_for_a_team_looking_to_collaborate/",
           "author": null,
           "description": "We are looking for more members to join our team to collaborate on Projects, HackTheBox, CTF's & Bug Bounties. \n Our Members have found Vulnerabilities in the US Dept of Defense, Verizon Media, Yahoo & More on the HackerOne platform. We also have members that have been in the HTB Top 10 & 1st in the UK. \n You don't have to be the best, we are willing to help and teach members who may not be on our skill level, so please sign up if you're interested. We are trying to create a non-toxic environment in which hackers can collaborate without any drama. \n Please fill out our form and we will be in contact! Link to form: https://forms.gle/CDzVBLynAL9ftwK38\n    submitted by    /u/Far-Piece-7371  \n [link]   [comments]",
@@ -14522,6 +15125,78 @@
       "feedUrl": "https://www.reddit.com/r/computerforensics/.rss",
       "siteUrl": "https://www.reddit.com/r/computerforensics/",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/computerforensics/comments/scip0c/trainings_or_courses_or_labs/",
+          "author": null,
+          "description": "Howdy all,\n Any idea where I can find the following for Memory Forensics? I’m trying my best to learn the most of Memory Forensics! Have completed the Cyber Defenders lab! \n Free or Minimal Cost one would be appreciated as I’m just a beginner in my field! \n Thanks!\n    submitted by    /u/GloryHunter9  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/computerforensics/comments/scip0c/trainings_or_courses_or_labs/",
+          "publishedOn": "2022-01-25T17:16:26.000Z",
+          "wordCount": 244,
+          "title": "Trainings or Courses or Labs?"
+        },
+        {
+          "id": "https://www.reddit.com/r/computerforensics/comments/scfvei/ftk_imager_gets_hung/",
+          "author": null,
+          "description": "So I was attempting to take an E01 image of a file server. But it would just get hung right away. For ftk I tried to run it as a logical volume to image it, and still it would get hung. So I used a live boot of Linux and tried to use guymaner and it would just close. It is a Raid 6 I believe. Any other recommendations on how I could take an EO1 image of the FS? \n Thanks\n    submitted by    /u/Pizza_Eating_Robots  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/computerforensics/comments/scfvei/ftk_imager_gets_hung/",
+          "publishedOn": "2022-01-25T15:10:16.000Z",
+          "wordCount": 542,
+          "title": "ftk Imager gets hung"
+        },
+        {
+          "id": "https://www.reddit.com/r/computerforensics/comments/scfmfl/chfi_certification_is_good_at_discounted_price/",
+          "author": null,
+          "description": "I have read many posts about EC Council not being good for any certification. But my question is if it's offered to me at a discounted price (99$) then it's good or still bad. \n Please note that this cert is being sponsored by my school, although it's not compulsory for me to join but I topped the merit list and they offered me to pay 99$ to get its voucher.\n So shall I go to it or simply deny it?\n    submitted by    /u/hardfire005  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/computerforensics/comments/scfmfl/chfi_certification_is_good_at_discounted_price/",
+          "publishedOn": "2022-01-25T14:58:52.000Z",
+          "wordCount": 475,
+          "title": "CHFI certification is good at discounted price"
+        },
+        {
+          "id": "https://www.reddit.com/r/computerforensics/comments/scf2t2/intro_to_windows_registry_artifacts_with/",
+          "author": null,
+          "description": "submitted by    /u/DFIRScience  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/computerforensics/comments/scf2t2/intro_to_windows_registry_artifacts_with/",
+          "publishedOn": "2022-01-25T14:32:14.000Z",
+          "wordCount": 177,
+          "title": "Intro to Windows Registry artifacts with TryHackMe Windows Forensics Room."
+        },
+        {
+          "id": "https://www.reddit.com/r/computerforensics/comments/scd7yz/how_do_you_think_accuracy_and_precision_applies/",
+          "author": null,
+          "description": "I stumbled across accuracy and precision and was wondering how forensic examiners think it applies to DFIR, if at all. Maybe software, artifacts, attribution? Thoughts?\n https://preview.redd.it/a3xvkvnl1ud81.png?width=1024&format=png&auto=webp&s=d1ff7da688bfb06abfdaea08136cb0924c92c2fc\n    submitted by    /u/greyyit  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/computerforensics/comments/scd7yz/how_do_you_think_accuracy_and_precision_applies/",
+          "publishedOn": "2022-01-25T13:02:15.000Z",
+          "wordCount": 828,
+          "title": "How do you think accuracy and precision applies to DFIR?"
+        },
+        {
+          "id": "https://www.reddit.com/r/computerforensics/comments/scc6s0/recovering_deletedcached_images_mac/",
+          "author": null,
+          "description": "I have been trying to find ways to recover deleted images from a discord server, and found that all content is stored in some form onto its cache in \"~/Library/Application Support/discord/cache\".\n The result is something like this. There seem to be some ways to recover it on windows, however, is it possible on macOS? I have no idea what I am looking at here, so forgive me for ignorance.\n https://preview.redd.it/brl4u4s2qtd81.png?width=1832&format=png&auto=webp&s=c87beca7931e74351107f7eea57abe24711b073c\n    submitted by    /u/Nitrote  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/computerforensics/comments/scc6s0/recovering_deletedcached_images_mac/",
+          "publishedOn": "2022-01-25T12:04:18.000Z",
+          "wordCount": 285,
+          "title": "Recovering deleted/cached images (Mac)"
+        },
+        {
+          "id": "https://www.reddit.com/r/computerforensics/comments/sc9ero/how_can_i_access_mmssmsdb_without_rooting_phone/",
+          "author": null,
+          "description": "Hi, \n I would like to recover some deleted SMS messages. I do not know, how to access the mmssms.db, when plugging my phone to my PC without actually rooting it. What are my best options? Also how far back in time do you think I could recover the texts?\n    submitted by    /u/prois99  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/computerforensics/comments/sc9ero/how_can_i_access_mmssmsdb_without_rooting_phone/",
+          "publishedOn": "2022-01-25T09:00:58.000Z",
+          "wordCount": 315,
+          "title": "How can I access mmssms.db without rooting phone?"
+        },
+        {
+          "id": "https://www.reddit.com/r/computerforensics/comments/sc6ri6/alcatel_go_flip_v_access/",
+          "author": null,
+          "description": "No idea where else to ask. There’s an Alcatel Go Flip V that I need text message logs from for a court case. I used to use BitPim for this sort of thing, but that hasn’t had profiles updated for years.\n I hate to phrase this in such a phone-specific way, but this phone is killing me, and I’ve tried a whole lot: Does anyone know any way to get legible texts from an Alcatel GO Flip V?\n Or is there anywhere else I should ask?\n    submitted by    /u/hmmqzaz  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/computerforensics/comments/sc6ri6/alcatel_go_flip_v_access/",
+          "publishedOn": "2022-01-25T06:03:53.000Z",
+          "wordCount": 303,
+          "title": "Alcatel GO Flip V access?"
+        },
         {
           "id": "https://www.reddit.com/r/computerforensics/comments/sboi8k/exfiltration/",
           "author": null,
@@ -15277,6 +15952,78 @@
       "siteUrl": "https://www.reddit.com/r/netsec/",
       "articles": [
         {
+          "id": "https://www.reddit.com/r/netsec/comments/scn0zl/pwnkit_local_privilege_escalation_in_polkits/",
+          "author": null,
+          "description": "submitted by    /u/TheSwedishChef24  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/netsec/comments/scn0zl/pwnkit_local_privilege_escalation_in_polkits/",
+          "publishedOn": "2022-01-25T20:25:43.000Z",
+          "wordCount": 115,
+          "title": "pwnkit: Local Privilege Escalation in polkit's pkexec (CVE-2021-4034)"
+        },
+        {
+          "id": "https://www.reddit.com/r/netsec/comments/sclay8/mind_your_dependencies_defending_against/",
+          "author": null,
+          "description": "submitted by    /u/SRMish3  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/netsec/comments/sclay8/mind_your_dependencies_defending_against/",
+          "publishedOn": "2022-01-25T19:09:21.000Z",
+          "wordCount": 110,
+          "title": "Mind Your Dependencies: Defending against malicious npm packages"
+        },
+        {
+          "id": "https://www.reddit.com/r/netsec/comments/scl7xq/we_purchased_a_machine_from_china_and_it_came/",
+          "author": null,
+          "description": "submitted by    /u/lormayna  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/netsec/comments/scl7xq/we_purchased_a_machine_from_china_and_it_came/",
+          "publishedOn": "2022-01-25T19:05:39.000Z",
+          "wordCount": 598,
+          "title": "We purchased a machine from China and it came with malware preinstalled"
+        },
+        {
+          "id": "https://www.reddit.com/r/netsec/comments/scj0l3/cracking_randomly_generated_passwords/",
+          "author": null,
+          "description": "submitted by    /u/hyperreality_monero  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/netsec/comments/scj0l3/cracking_randomly_generated_passwords/",
+          "publishedOn": "2022-01-25T17:30:18.000Z",
+          "wordCount": 240,
+          "title": "Cracking Randomly Generated Passwords"
+        },
+        {
+          "id": "https://www.reddit.com/r/netsec/comments/sch15j/rbcd_attack_defense_from_domain_user_to_da_on/",
+          "author": null,
+          "description": "submitted by    /u/k3nfr4  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/netsec/comments/sch15j/rbcd_attack_defense_from_domain_user_to_da_on/",
+          "publishedOn": "2022-01-25T16:03:04.000Z",
+          "wordCount": 160,
+          "title": "RBCD attack & defense. From Domain User to DA on default domain controllers settings. Including webclient service activation"
+        },
+        {
+          "id": "https://www.reddit.com/r/netsec/comments/scg1bm/finding_vulnerabilities_in_swiss_posts_future/",
+          "author": null,
+          "description": "submitted by    /u/0xdea  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/netsec/comments/scg1bm/finding_vulnerabilities_in_swiss_posts_future/",
+          "publishedOn": "2022-01-25T15:18:21.000Z",
+          "wordCount": 156,
+          "title": "Finding vulnerabilities in Swiss Post’s future e-voting system - Part 1"
+        },
+        {
+          "id": "https://www.reddit.com/r/netsec/comments/scd456/recovering_redacted_information_from_pixelated/",
+          "author": null,
+          "description": "submitted by    /u/breakingsystems  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/netsec/comments/scd456/recovering_redacted_information_from_pixelated/",
+          "publishedOn": "2022-01-25T12:57:00.000Z",
+          "wordCount": 232,
+          "title": "Recovering redacted information from pixelated videos"
+        },
+        {
+          "id": "https://www.reddit.com/r/netsec/comments/sc9v5n/solarwinds_web_help_desk_when_the_helpdesk_is_too/",
+          "author": null,
+          "description": "submitted by    /u/Mempodipper  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/netsec/comments/sc9v5n/solarwinds_web_help_desk_when_the_helpdesk_is_too/",
+          "publishedOn": "2022-01-25T09:33:44.000Z",
+          "wordCount": 122,
+          "title": "Solarwinds Web Help Desk: When the Helpdesk is too Helpful"
+        },
+        {
           "id": "https://www.reddit.com/r/netsec/comments/sbwuxq/using_twitter_to_notify_careless_developers_the/",
           "author": null,
           "description": "submitted by    /u/sp00kyphiss  \n [link]   [comments]",
@@ -15295,6 +16042,15 @@
           "title": "Paranoids’ Vulnerability Research: PrinterLogic Issues Security Alert"
         },
         {
+          "id": "https://www.reddit.com/r/netsec/comments/sbot07/wordpress_582_stored_xss_vulnerability/",
+          "author": null,
+          "description": "submitted by    /u/monoimpact  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/netsec/comments/sbot07/wordpress_582_stored_xss_vulnerability/",
+          "publishedOn": "2022-01-24T15:33:22.000Z",
+          "wordCount": 106,
+          "title": "WordPress 5.8.2 Stored XSS Vulnerability"
+        },
+        {
           "id": "https://www.reddit.com/r/netsec/comments/sbn90v/cobalt_strike_a_defenders_guide_part_2/",
           "author": null,
           "description": "submitted by    /u/TheDFIRReport  \n [link]   [comments]",
@@ -15311,6 +16067,15 @@
           "publishedOn": "2022-01-24T11:52:58.000Z",
           "wordCount": 122,
           "title": "How BRATA is monitoring your bank account | Cleafy Labs"
+        },
+        {
+          "id": "https://www.reddit.com/r/netsec/comments/sbigvu/typescript_scenariobased_web_application_fuzzing/",
+          "author": null,
+          "description": "submitted by    /u/hi120ki  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/netsec/comments/sbigvu/typescript_scenariobased_web_application_fuzzing/",
+          "publishedOn": "2022-01-24T09:42:02.000Z",
+          "wordCount": 125,
+          "title": "TypeScript scenario-based web application Fuzzing Framework, supports genetic algorithm and running on CI"
         },
         {
           "id": "https://www.reddit.com/r/netsec/comments/sbhnfl/private_network_access_introducing_preflights/",
@@ -15340,6 +16105,15 @@
           "title": "CVE-2022-0185 – What does the newest kernel exploit mean for Kubernetes"
         },
         {
+          "id": "https://www.reddit.com/r/netsec/comments/sb31vh/a_new_shellcode_injection_methodology/",
+          "author": null,
+          "description": "submitted by    /u/Idov31  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/netsec/comments/sb31vh/a_new_shellcode_injection_methodology/",
+          "publishedOn": "2022-01-23T20:30:26.000Z",
+          "wordCount": 106,
+          "title": "A new shellcode injection methodology"
+        },
+        {
           "id": "https://www.reddit.com/r/netsec/comments/sb20i2/binaryonly_fuzzong_with_python_qemu_and_libafl/",
           "author": null,
           "description": "submitted by    /u/domenukk  \n [link]   [comments]",
@@ -15356,6 +16130,15 @@
           "publishedOn": "2022-01-23T10:09:28.000Z",
           "wordCount": 168,
           "title": "Doing a uni project on pen testing and appreciated this article for help writing up an information disclosure vulnerability. Though some of you might appreciate it too."
+        },
+        {
+          "id": "https://www.reddit.com/r/netsec/comments/saoul3/backdoor_found_in_themes_and_plugins_from/",
+          "author": null,
+          "description": "submitted by    /u/ScottContini  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/netsec/comments/saoul3/backdoor_found_in_themes_and_plugins_from/",
+          "publishedOn": "2022-01-23T08:17:55.000Z",
+          "wordCount": 121,
+          "title": "Backdoor Found in Themes and Plugins from AccessPress Themes (CVE-2021-24867)"
         },
         {
           "id": "https://www.reddit.com/r/netsec/comments/sa97by/goward_a_robust_red_team_proxy_written_in_go/",
@@ -19203,6 +19986,15 @@
       "feedUrl": "https://medium.com/feed/tag/fuzzing",
       "siteUrl": "https://medium.com/tag/fuzzing/latest?source=rss------fuzzing-5",
       "articles": [
+        {
+          "id": "https://medium.com/p/f0525f3dc4e",
+          "author": "Rafael Renovaci",
+          "description": "Fuzzing é uma técnica de teste de software que fornece dados inválidos, ou seja, dados inesperados ou aleatórios como entrada para um…\nContinue reading on Medium »",
+          "link": "https://medium.com/@rafaelrenovaci/ethical-hacking-buffer-overflows-parte-2-f0525f3dc4e?source=rss------fuzzing-5",
+          "publishedOn": "2022-01-26T00:09:36.000Z",
+          "wordCount": 396,
+          "title": "Ethical Hacking — Buffer Overflow Parte 2"
+        },
         {
           "id": "https://medium.com/p/a0d15eb0de72",
           "author": "Hamit CİBO",

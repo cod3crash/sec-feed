@@ -2,10 +2,965 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cod3crash.github.io/sec-feed/index.html</id>
     <title>security feed</title>
-    <updated>2022-01-25T01:12:12.283Z</updated>
+    <updated>2022-01-26T01:13:24.954Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://cod3crash.github.io/sec-feed/index.html"/>
     <link rel="self" href="https://cod3crash.github.io/sec-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ROP Hello World!]]></title>
+        <id>https://www.reddit.com/r/ExploitDev/comments/scsi3o/rop_hello_world/</id>
+        <link href="https://www.reddit.com/r/ExploitDev/comments/scsi3o/rop_hello_world/"/>
+        <updated>2022-01-26T00:34:28.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/Kubiszox  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Exploit Development</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ethical Hacking — Buffer Overflow Parte 2]]></title>
+        <id>https://medium.com/p/f0525f3dc4e</id>
+        <link href="https://medium.com/@rafaelrenovaci/ethical-hacking-buffer-overflows-parte-2-f0525f3dc4e?source=rss------fuzzing-5"/>
+        <updated>2022-01-26T00:09:36.000Z</updated>
+        <summary type="html"><![CDATA[Fuzzing é uma técnica de teste de software que fornece dados inválidos, ou seja, dados inesperados ou aleatórios como entrada para um…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Rafael Renovaci</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ethical Hacking — Buffer Overflow Parte 2]]></title>
+        <id>https://medium.com/p/f0525f3dc4e</id>
+        <link href="https://medium.com/@rafaelrenovaci/ethical-hacking-buffer-overflows-parte-2-f0525f3dc4e?source=rss------fuzzing-5"/>
+        <updated>2022-01-26T00:09:36.000Z</updated>
+        <summary type="html"><![CDATA[Fuzzing é uma técnica de teste de software que fornece dados inválidos, ou seja, dados inesperados ou aleatórios como entrada para um…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Rafael Renovaci</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Is there anything equivalent to javas requestdispatcher.forward system in other programming languages?]]></title>
+        <id>https://www.reddit.com/r/AskNetsec/comments/scqao4/is_there_anything_equivalent_to_javas/</id>
+        <link href="https://www.reddit.com/r/AskNetsec/comments/scqao4/is_there_anything_equivalent_to_javas/"/>
+        <updated>2022-01-25T22:54:02.000Z</updated>
+        <summary type="html"><![CDATA[Its the easiest thing to leverage for pre auth bugs just looking at web.xml and leveraging internal forwards to touch apis that normally require auth and I would love to find something similar in other languages. The closest thing ive found is a special type of open redirect where the devs decided to keep previous session data making it useful for auth bypasses in some php projects. See the thing is open redirects usually kill previous session data making them useless for auth bypassing on their own and the java forward system is like an internal version/server sided version of a redirect that keeps session data and forwards everything along intact.
+    submitted by    /u/Academic-Discount252  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>AskNetsec</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Could blind mass assignment be a rare type of bug?]]></title>
+        <id>https://www.reddit.com/r/AskNetsec/comments/scq3mw/could_blind_mass_assignment_be_a_rare_type_of_bug/</id>
+        <link href="https://www.reddit.com/r/AskNetsec/comments/scq3mw/could_blind_mass_assignment_be_a_rare_type_of_bug/"/>
+        <updated>2022-01-25T22:45:27.000Z</updated>
+        <summary type="html"><![CDATA[Some people know it as reflection binding, mass assignment or insecure direct object mapping which is the opposite of insecure direct object reference your basically writing data instead of reading it or appending data. So ive noticed in some places ill send hidden parameters and the json response won’t show anything interesting but ill refresh the page and ill get like a discount or something say I add the parameters isSpecialDiscount: true the response won’t show anything related so its a blind mass assignment bug and in some cases ive seen partial blind mass assignment where the json response will change to true for some things but still say false for others despite the request setting it as true but when I refresh the page the server grants me the discount proving its processing the input and assigning my session a discount. Ive never really seen people discuss blind or partial blind mass assignment being a thing but im finding them a lot more now its weird. Usually I used to look at the json response to see if parameter values are changing but I now see I can’t even trust that completely to prove a mass assignment bug exists.
+    submitted by    /u/Academic-Discount252  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>AskNetsec</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How “Docker” can help you become a better hacker]]></title>
+        <id>https://medium.com/p/c799cd3838</id>
+        <link href="https://thexssrat.medium.com/how-docker-can-help-you-become-a-better-hacker-c799cd3838?source=rss------bugbounty-5"/>
+        <updated>2022-01-25T22:31:47.000Z</updated>
+        <summary type="html"><![CDATA[Continue reading on Medium »]]></summary>
+        <author>
+            <name>Thexssrat</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[pwntools on m1 mac?]]></title>
+        <id>https://www.reddit.com/r/ExploitDev/comments/scpkm3/pwntools_on_m1_mac/</id>
+        <link href="https://www.reddit.com/r/ExploitDev/comments/scpkm3/pwntools_on_m1_mac/"/>
+        <updated>2022-01-25T22:22:03.000Z</updated>
+        <summary type="html"><![CDATA[Hello, I'm working on creating a tutorial binary exploit for an m1-based mac. For simplicity and portability i'm using an M1-based Kali VM and trying to use aarch64 shellcraft but getting weird errors and wondering if anyone has successfully gotten pwn to work for them? 
+ ​
+ Main error message when trying to use asm() on a shellcraft payload is:
+  
+pwnlib.exception.PwnlibException: Could not find 'as' installed for ContextType() 
+ Try installing binutils for this architecture: 
+ https://docs.pwntools.com/en/stable/install/binutils.html
+  
+​
+ but dont know what binutils arch it's expecting, i tried installing a couple to no avail. 
+ ​
+ appreciate any of yall's time thanks
+    submitted by    /u/superiorpyre  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Exploit Development</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Able to steal private files by manipulating response using Auto Reply function of Lark]]></title>
+        <id>https://hackerone.com/reports/1387320</id>
+        <link href="https://hackerone.com/reports/1387320"/>
+        <updated>2022-01-25T21:54:49.000Z</updated>
+        <summary type="html"><![CDATA[Lark Technologies disclosed a bug submitted by imran_nisar: https://hackerone.com/reports/1387320 - Bounty: $2000]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Able to steal private files by manipulating response using Compose Email function of Lark]]></title>
+        <id>https://hackerone.com/reports/1373784</id>
+        <link href="https://hackerone.com/reports/1373784"/>
+        <updated>2022-01-25T21:53:53.000Z</updated>
+        <summary type="html"><![CDATA[Lark Technologies disclosed a bug submitted by imran_nisar: https://hackerone.com/reports/1373784 - Bounty: $2000]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anyone who works in a SOC dealing with disadvantages in maturing due to lack of management experience?]]></title>
+        <id>https://www.reddit.com/r/AskNetsec/comments/scot9f/anyone_who_works_in_a_soc_dealing_with/</id>
+        <link href="https://www.reddit.com/r/AskNetsec/comments/scot9f/anyone_who_works_in_a_soc_dealing_with/"/>
+        <updated>2022-01-25T21:46:01.000Z</updated>
+        <summary type="html"><![CDATA[Just curious how some of you guys who work in a SOC, whether it’s as an analyst or engineer, with a manager who doesn’t have the background. Do you have a lot of influence in shaping the SOC? Run in to roadblocks justifying tools or maybe maturing your processes?
+    submitted by    /u/bankster24  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>AskNetsec</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Watering hole deploys new macOS malware, DazzleSpy, in Asia]]></title>
+        <id>https://www.reddit.com/r/redteamsec/comments/scomth/watering_hole_deploys_new_macos_malware_dazzlespy/</id>
+        <link href="https://www.reddit.com/r/redteamsec/comments/scomth/watering_hole_deploys_new_macos_malware_dazzlespy/"/>
+        <updated>2022-01-25T21:37:34.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/dmchell  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Red Team Security</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Extracting Cobalt Strike Beacon Configurations - Elastic Security Research]]></title>
+        <id>https://www.reddit.com/r/redteamsec/comments/scolm0/extracting_cobalt_strike_beacon_configurations/</id>
+        <link href="https://www.reddit.com/r/redteamsec/comments/scolm0/extracting_cobalt_strike_beacon_configurations/"/>
+        <updated>2022-01-25T21:35:58.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/dmchell  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Red Team Security</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RBCD WebClient attack | Franky's WebSite]]></title>
+        <id>https://www.reddit.com/r/redteamsec/comments/scnsun/rbcd_webclient_attack_frankys_website/</id>
+        <link href="https://www.reddit.com/r/redteamsec/comments/scnsun/rbcd_webclient_attack_frankys_website/"/>
+        <updated>2022-01-25T21:00:19.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/dmchell  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Red Team Security</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Major Linux PolicyKit security vulnerability uncovered: Pwnkit]]></title>
+        <id>https://news.ycombinator.com/item?id=30077665</id>
+        <link href="https://www.zdnet.com/article/major-linux-policykit-security-vulnerability-uncovered-pwnkit/"/>
+        <updated>2022-01-25T20:35:17.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.zdnet.com/article/major-linux-policykit-security-vulnerability-uncovered-pwnkit/
+Comments URL: https://news.ycombinator.com/item?id=30077665
+Points: 7
+# Comments: 0]]></summary>
+        <author>
+            <name>CrankyBear</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[pwnkit: Local Privilege Escalation in polkit's pkexec (CVE-2021-4034)]]></title>
+        <id>https://www.reddit.com/r/netsec/comments/scn0zl/pwnkit_local_privilege_escalation_in_polkits/</id>
+        <link href="https://www.reddit.com/r/netsec/comments/scn0zl/pwnkit_local_privilege_escalation_in_polkits/"/>
+        <updated>2022-01-25T20:25:43.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/TheSwedishChef24  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>/r/netsec - Information Security News &amp; Discussion</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pwnkit: Local Privilege Escalation in polkit's pkexec (CVE-2021-4034)]]></title>
+        <id>https://news.ycombinator.com/item?id=30077271</id>
+        <link href="https://seclists.org/oss-sec/2022/q1/80"/>
+        <updated>2022-01-25T20:05:09.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://seclists.org/oss-sec/2022/q1/80
+Comments URL: https://news.ycombinator.com/item?id=30077271
+Points: 112
+# Comments: 41]]></summary>
+        <author>
+            <name>todsacerdoti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Looking for first steps in changing careers with an unrelated(?) master's degree]]></title>
+        <id>https://www.reddit.com/r/AskNetsec/comments/scload/looking_for_first_steps_in_changing_careers_with/</id>
+        <link href="https://www.reddit.com/r/AskNetsec/comments/scload/looking_for_first_steps_in_changing_careers_with/"/>
+        <updated>2022-01-25T19:25:52.000Z</updated>
+        <summary type="html"><![CDATA[Hello /r/AskNetsec, this is my first post on here.
+ I recently (coming up on a year) graduated with a M.A. in Forensic Psychology and Intelligence Analysis. This degree is not opening the doors in the psychology field I was hoping it would, and quite frankly, the work I have done in this field is not what I wanted out of my career.
+ I have always been fascinated by cybersecurity, and it is a large part of the reason I decided to pursue the Intel part of my degree.
+ My question to you all is this: What first steps would someone in my position take in trying to get into the Cybersecurity field? Ideally I would like to eventually work my way to a Security Analyst position. I have no qualms about starting at the lowest positions to work my way up, but am clueless on where to start.
+ I have some coding knowledge in Python and Java, but as far as IT knowledge I am a total newbie. Are there certifications or courses I should prioritize? I would like to avoid going back to a university setting, as I have spent enough time and money doing that for the time being.
+ Thank you to anybody who reads this and decides to respond, I really appreciate it.
+    submitted by    /u/Lambeau_Leap  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>AskNetsec</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mind Your Dependencies: Defending against malicious npm packages]]></title>
+        <id>https://www.reddit.com/r/netsec/comments/sclay8/mind_your_dependencies_defending_against/</id>
+        <link href="https://www.reddit.com/r/netsec/comments/sclay8/mind_your_dependencies_defending_against/"/>
+        <updated>2022-01-25T19:09:21.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/SRMish3  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>/r/netsec - Information Security News &amp; Discussion</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[We purchased a machine from China and it came with malware preinstalled]]></title>
+        <id>https://www.reddit.com/r/netsec/comments/scl7xq/we_purchased_a_machine_from_china_and_it_came/</id>
+        <link href="https://www.reddit.com/r/netsec/comments/scl7xq/we_purchased_a_machine_from_china_and_it_came/"/>
+        <updated>2022-01-25T19:05:39.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/lormayna  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>/r/netsec - Information Security News &amp; Discussion</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pwnkit: Local Privilege Escalation in polkit's pkexec (CVE-2021-4034)]]></title>
+        <id>https://news.ycombinator.com/item?id=30075993</id>
+        <link href="https://www.qualys.com/2022/01/25/cve-2021-4034/pwnkit.txt"/>
+        <updated>2022-01-25T18:40:08.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.qualys.com/2022/01/25/cve-2021-4034/pwnkit.txt
+Comments URL: https://news.ycombinator.com/item?id=30075993
+Points: 4
+# Comments: 2]]></summary>
+        <author>
+            <name>johnnyapol</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ensuring protocol security with Immunefi bug bounty program]]></title>
+        <id>https://medium.com/p/a7c55568f2d8</id>
+        <link href="https://maplefinance.medium.com/bug-bounty-program-with-immunefi-commences-2-25-12-30-est-a7c55568f2d8?source=rss------bugbounty-5"/>
+        <updated>2022-01-25T18:11:12.000Z</updated>
+        <summary type="html"><![CDATA[Calling all devs and hackers. Help enhance our smart contract security and prevent thefts, freezes, and unintended changes and earn.
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Maple Finance</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3 outils à connaître absolument pour la recherche d’information]]></title>
+        <id>https://medium.com/p/b10d81e55659</id>
+        <link href="https://medium.com/@intelligence69123/3-outils-%C3%A0-conna%C3%AEtre-absolument-pour-la-recherche-dinformation-b10d81e55659?source=rss------osint-5"/>
+        <updated>2022-01-25T18:05:07.000Z</updated>
+        <summary type="html"><![CDATA[Durant une recherche sur internet, nous tombons souvent sur des formats de données qui sont à première vue inexploitables directement.
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>PME Intelligence</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[hlldz/RefleXXion: RefleXXion is a utility designed to aid in bypassing user-mode hooks utilised by AV/EPP/EDR etc. In order to bypass the user-mode hooks]]></title>
+        <id>https://www.reddit.com/r/redteamsec/comments/scjlp7/hlldzreflexxion_reflexxion_is_a_utility_designed/</id>
+        <link href="https://www.reddit.com/r/redteamsec/comments/scjlp7/hlldzreflexxion_reflexxion_is_a_utility_designed/"/>
+        <updated>2022-01-25T17:55:40.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/dmchell  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Red Team Security</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Worth getting Net+/Sec+ with 3 years of exp in Blue Teaming?]]></title>
+        <id>https://www.reddit.com/r/AskNetsec/comments/scjb0s/worth_getting_netsec_with_3_years_of_exp_in_blue/</id>
+        <link href="https://www.reddit.com/r/AskNetsec/comments/scjb0s/worth_getting_netsec_with_3_years_of_exp_in_blue/"/>
+        <updated>2022-01-25T17:42:48.000Z</updated>
+        <summary type="html"><![CDATA[Heyhey, I'm not quite new to blue teaming (threat hunt & detection) but would like to have my options open in case I want to jump to a more senior tech role in the next year or so.
+ I have a computer engineering degree and a SANS 401 (GSEC) cert too. Do you think it's worth getting? Thanks!
+    submitted by    /u/youmakemismile  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>AskNetsec</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cracking Randomly Generated Passwords]]></title>
+        <id>https://www.reddit.com/r/netsec/comments/scj0l3/cracking_randomly_generated_passwords/</id>
+        <link href="https://www.reddit.com/r/netsec/comments/scj0l3/cracking_randomly_generated_passwords/"/>
+        <updated>2022-01-25T17:30:18.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/hyperreality_monero  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>/r/netsec - Information Security News &amp; Discussion</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python: Speech To Text Conversion]]></title>
+        <id>https://medium.com/p/2a1dab7c74e0</id>
+        <link href="https://medium.com/@CyberRaya/python-speech-to-text-conversion-2a1dab7c74e0?source=rss------osint-5"/>
+        <updated>2022-01-25T17:25:56.000Z</updated>
+        <summary type="html"><![CDATA[Simple Python code for converting audio data to text format
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>CyberRaya</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trainings or Courses or Labs?]]></title>
+        <id>https://www.reddit.com/r/computerforensics/comments/scip0c/trainings_or_courses_or_labs/</id>
+        <link href="https://www.reddit.com/r/computerforensics/comments/scip0c/trainings_or_courses_or_labs/"/>
+        <updated>2022-01-25T17:16:26.000Z</updated>
+        <summary type="html"><![CDATA[Howdy all,
+ Any idea where I can find the following for Memory Forensics? I’m trying my best to learn the most of Memory Forensics! Have completed the Cyber Defenders lab! 
+ Free or Minimal Cost one would be appreciated as I’m just a beginner in my field! 
+ Thanks!
+    submitted by    /u/GloryHunter9  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Computer Forensics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fuzzing Ethereum Smart Contract using Echidna - Blockchain Security #1]]></title>
+        <id>https://www.reddit.com/r/ExploitDev/comments/sciksd/fuzzing_ethereum_smart_contract_using_echidna/</id>
+        <link href="https://www.reddit.com/r/ExploitDev/comments/sciksd/fuzzing_ethereum_smart_contract_using_echidna/"/>
+        <updated>2022-01-25T17:11:10.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/pat_ventuzelo  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Exploit Development</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RBCD attack & defense. From Domain User to DA on default domain controllers settings. Including webclient service activation]]></title>
+        <id>https://www.reddit.com/r/netsec/comments/sch15j/rbcd_attack_defense_from_domain_user_to_da_on/</id>
+        <link href="https://www.reddit.com/r/netsec/comments/sch15j/rbcd_attack_defense_from_domain_user_to_da_on/"/>
+        <updated>2022-01-25T16:03:04.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/k3nfr4  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>/r/netsec - Information Security News &amp; Discussion</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SecWiki News 2022-01-25 Review]]></title>
+        <id>http://www.sec-wiki.com/?2022-01-25</id>
+        <link href="http://www.sec-wiki.com/?2022-01-25"/>
+        <updated>2022-01-25T15:58:20.000Z</updated>
+        <summary type="html"><![CDATA[2021密码应用技术白皮书  by ourren
+2021年网络检测和响应报告  by ourren
+2021网络空间测绘年报  by ourren
+流量全密化趋势下的检测困境和思考  by ourren
+更多最新文章，请访问SecWiki]]></summary>
+        <author>
+            <name>SecWiki News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RESTler: Stateful REST API fuzzing tool]]></title>
+        <id>https://news.ycombinator.com/item?id=30073154</id>
+        <link href="https://github.com/microsoft/restler-fuzzer"/>
+        <updated>2022-01-25T15:50:48.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/microsoft/restler-fuzzer
+Comments URL: https://news.ycombinator.com/item?id=30073154
+Points: 4
+# Comments: 0]]></summary>
+        <author>
+            <name>GordonS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rust vulnerability enables attackers to delete files and directories]]></title>
+        <id>https://news.ycombinator.com/item?id=30072868</id>
+        <link href="https://developer-tech.com/news/2022/jan/24/rust-vulnerability-enables-attackers-delete-files-and-directories/"/>
+        <updated>2022-01-25T15:30:40.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://developer-tech.com/news/2022/jan/24/rust-vulnerability-enables-attackers-delete-files-and-directories/
+Comments URL: https://news.ycombinator.com/item?id=30072868
+Points: 5
+# Comments: 1]]></summary>
+        <author>
+            <name>AlexeyBrin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I found a way to extract passwords from any iOS device. When I reported it to Apple? Silence.]]></title>
+        <id>https://medium.com/p/a027b12b7013</id>
+        <link href="https://medium.com/@ConnorFord1/i-found-a-way-to-extract-passwords-from-any-ios-device-when-i-reported-it-to-apple-silence-a027b12b7013?source=rss------bugbounty-5"/>
+        <updated>2022-01-25T15:23:29.000Z</updated>
+        <summary type="html"><![CDATA[Apple’s Bug Bounty program, in theory, incentivizes programmers to report flaws they find in the company’s code. In practice? Not so much.
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Connor Ford</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Finding vulnerabilities in Swiss Post’s future e-voting system - Part 1]]></title>
+        <id>https://www.reddit.com/r/netsec/comments/scg1bm/finding_vulnerabilities_in_swiss_posts_future/</id>
+        <link href="https://www.reddit.com/r/netsec/comments/scg1bm/finding_vulnerabilities_in_swiss_posts_future/"/>
+        <updated>2022-01-25T15:18:21.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/0xdea  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>/r/netsec - Information Security News &amp; Discussion</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[My CRTO course and exam review]]></title>
+        <id>https://medium.com/p/433f967f712e</id>
+        <link href="https://gustavshen.medium.com/my-crto-course-and-exam-review-433f967f712e?source=rss------redteam-5"/>
+        <updated>2022-01-25T15:14:49.000Z</updated>
+        <summary type="html"><![CDATA[Motivation of The Journey
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Gustav Shen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ftk Imager gets hung]]></title>
+        <id>https://www.reddit.com/r/computerforensics/comments/scfvei/ftk_imager_gets_hung/</id>
+        <link href="https://www.reddit.com/r/computerforensics/comments/scfvei/ftk_imager_gets_hung/"/>
+        <updated>2022-01-25T15:10:16.000Z</updated>
+        <summary type="html"><![CDATA[So I was attempting to take an E01 image of a file server. But it would just get hung right away. For ftk I tried to run it as a logical volume to image it, and still it would get hung. So I used a live boot of Linux and tried to use guymaner and it would just close. It is a Raid 6 I believe. Any other recommendations on how I could take an EO1 image of the FS? 
+ Thanks
+    submitted by    /u/Pizza_Eating_Robots  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Computer Forensics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shellcode to x86, x64 Assembly]]></title>
+        <id>https://www.reddit.com/r/ExploitDev/comments/scfoip/shellcode_to_x86_x64_assembly/</id>
+        <link href="https://www.reddit.com/r/ExploitDev/comments/scfoip/shellcode_to_x86_x64_assembly/"/>
+        <updated>2022-01-25T15:01:25.000Z</updated>
+        <summary type="html"><![CDATA[Sharing a quick python3 command line tool I made to disassemble shellcode without having to remember the nuances of python2 v python3 strings and writing to a file each time:
+ https://gitlab.com/stormblest/exploit-dev-tools/-/blob/main/shellcode2asm.py
+ Includes python unittests in Gitlab.
+ Example:
+ ``` $ python3 shellcode2asm.py "\xbb\x90\x50\x90\x50\x31\xc9\xf7\xe1\x66\x81\xca\xff\x0f\x42\x60\x8d\x5a\x04\xb0\x21\xcd\x80\x3c\xf2\x61\x74\xed\x39\x1a\x75\xee\x39\x5a\x04\x75\xe9\xff\xe2" -a 32
+ shellcode: "\xbb\x90\x50\x90\x50\x31\xc9\xf7\xe1\x66\x81\xca\xff\x0f\x42\x60\x8d\x5a\x04\xb0\x21\xcd\x80\x3c\xf2\x61\x74\xed\x39\x1a\x75\xee\x39\x5a\x04\x75\xe9\xff\xe2"
+ 00000000 BB90509050 mov ebx,0x50905090 00000005 31C9 xor ecx,ecx 00000007 F7E1 mul ecx 00000009 6681CAFF0F or dx,0xfff 0000000E 42 inc edx 0000000F 60 pusha 00000010 8D5A04 lea ebx,[edx+0x4] 00000013 B021 mov al,0x21 00000015 CD80 int 0x80 00000017 3CF2 cmp al,0xf2 00000019 61 popa 0000001A 74ED jz 0x9 0000001C 391A cmp [edx],ebx 0000001E 75EE jnz 0xe 00000020 395A04 cmp [edx+0x4],ebx 00000023 75E9 jnz 0xe 00000025 FFE2 jmp edx ```
+    submitted by    /u/blutitanium  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Exploit Development</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CHFI certification is good at discounted price]]></title>
+        <id>https://www.reddit.com/r/computerforensics/comments/scfmfl/chfi_certification_is_good_at_discounted_price/</id>
+        <link href="https://www.reddit.com/r/computerforensics/comments/scfmfl/chfi_certification_is_good_at_discounted_price/"/>
+        <updated>2022-01-25T14:58:52.000Z</updated>
+        <summary type="html"><![CDATA[I have read many posts about EC Council not being good for any certification. But my question is if it's offered to me at a discounted price (99$) then it's good or still bad. 
+ Please note that this cert is being sponsored by my school, although it's not compulsory for me to join but I topped the merit list and they offered me to pay 99$ to get its voucher.
+ So shall I go to it or simply deny it?
+    submitted by    /u/hardfire005  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Computer Forensics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ClickJackingggg!!]]></title>
+        <id>https://medium.com/p/fc679acf29ab</id>
+        <link href="https://medium.com/@Arbaaz_Jamadar/clickjackingggg-fc679acf29ab?source=rss------xss-5"/>
+        <updated>2022-01-25T14:39:13.000Z</updated>
+        <summary type="html"><![CDATA[Clickjacking is an interface-based attack in which a user is tricked into clicking on actionable content on a hidden website by clicking…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Arbaaz Jamadar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intro to Windows Registry artifacts with TryHackMe Windows Forensics Room.]]></title>
+        <id>https://www.reddit.com/r/computerforensics/comments/scf2t2/intro_to_windows_registry_artifacts_with/</id>
+        <link href="https://www.reddit.com/r/computerforensics/comments/scf2t2/intro_to_windows_registry_artifacts_with/"/>
+        <updated>2022-01-25T14:32:14.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/DFIRScience  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Computer Forensics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What I learnt from reading 220* IDOR bug reports.]]></title>
+        <id>https://medium.com/p/6efbea44db7</id>
+        <link href="https://medium.com/@Sm9l/what-i-learnt-from-reading-220-idor-bug-reports-6efbea44db7?source=rss------bugbounty-5"/>
+        <updated>2022-01-25T14:03:41.000Z</updated>
+        <summary type="html"><![CDATA[IDOR — Insecure Direct Object Reference, abuse of the lack of authentication at every stage.
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Sm9l</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Do RSA key fobs really strengthen security?]]></title>
+        <id>https://www.reddit.com/r/AskNetsec/comments/scduec/do_rsa_key_fobs_really_strengthen_security/</id>
+        <link href="https://www.reddit.com/r/AskNetsec/comments/scduec/do_rsa_key_fobs_really_strengthen_security/"/>
+        <updated>2022-01-25T13:33:07.000Z</updated>
+        <summary type="html"><![CDATA[Originally they did, I know.
+ But there was this story about Chinese hackers compromising RSA, getting into the deepest levels of the production and key generation process. As a result, RSA alerted each and every customer of theirs and told them to use a personal PIN together with the code generated by the key fob. This is what I'm doing now on a daily basis.
+ Now you have:
+  
+your account password
+ your PIN you use together with the RSA-generated code
+ and the RSA-generated code
+  
+The RSA codes are compromised and you have to assume that there's some people out there knowing all the codes and algorithms. But that means they really aren't worth much, basically you only have a password and another, limited password called PIN - which is usually shorter and numbers only.
+ The most you can expect from this is that - let's say - 10 characters alphanumeric + 6 digits is somewhat better than just the 10 characters alphanumeric, plus there's a good chance that they are stored in different systems, so less likely to seized at the same time by some black hats.
+ Is that true or do these key fobs still have an added value?
+    submitted by    /u/mshthn  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>AskNetsec</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How do you think accuracy and precision applies to DFIR?]]></title>
+        <id>https://www.reddit.com/r/computerforensics/comments/scd7yz/how_do_you_think_accuracy_and_precision_applies/</id>
+        <link href="https://www.reddit.com/r/computerforensics/comments/scd7yz/how_do_you_think_accuracy_and_precision_applies/"/>
+        <updated>2022-01-25T13:02:15.000Z</updated>
+        <summary type="html"><![CDATA[I stumbled across accuracy and precision and was wondering how forensic examiners think it applies to DFIR, if at all. Maybe software, artifacts, attribution? Thoughts?
+ https://preview.redd.it/a3xvkvnl1ud81.png?width=1024&format=png&auto=webp&s=d1ff7da688bfb06abfdaea08136cb0924c92c2fc
+    submitted by    /u/greyyit  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Computer Forensics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Recovering redacted information from pixelated videos]]></title>
+        <id>https://www.reddit.com/r/netsec/comments/scd456/recovering_redacted_information_from_pixelated/</id>
+        <link href="https://www.reddit.com/r/netsec/comments/scd456/recovering_redacted_information_from_pixelated/"/>
+        <updated>2022-01-25T12:57:00.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/breakingsystems  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>/r/netsec - Information Security News &amp; Discussion</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[First Bounty! Disable 2FA of any user via OTP bypass]]></title>
+        <id>https://medium.com/p/34678f102efc</id>
+        <link href="https://medium.com/@ba7manhacks/first-bounty-disable-2fa-of-any-user-via-otp-bypass-34678f102efc?source=rss------bugbounty-5"/>
+        <updated>2022-01-25T12:33:19.000Z</updated>
+        <summary type="html"><![CDATA[Getting that first bug bounty is a special feeling for any bug hunter. This is my first write up so please bear with me.
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Ba7man</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Recovering deleted/cached images (Mac)]]></title>
+        <id>https://www.reddit.com/r/computerforensics/comments/scc6s0/recovering_deletedcached_images_mac/</id>
+        <link href="https://www.reddit.com/r/computerforensics/comments/scc6s0/recovering_deletedcached_images_mac/"/>
+        <updated>2022-01-25T12:04:18.000Z</updated>
+        <summary type="html"><![CDATA[I have been trying to find ways to recover deleted images from a discord server, and found that all content is stored in some form onto its cache in "~/Library/Application Support/discord/cache".
+ The result is something like this. There seem to be some ways to recover it on windows, however, is it possible on macOS? I have no idea what I am looking at here, so forgive me for ignorance.
+ https://preview.redd.it/brl4u4s2qtd81.png?width=1832&format=png&auto=webp&s=c87beca7931e74351107f7eea57abe24711b073c
+    submitted by    /u/Nitrote  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Computer Forensics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[First Valid BUG Finding At Microsoft And I Got the Acknowledgments Page Microsoft]]></title>
+        <id>https://medium.com/p/a2c185c53074</id>
+        <link href="https://aidilarf.medium.com/first-valid-bug-finding-at-microsoft-and-i-got-the-acknowledgments-page-microsoft-a2c185c53074?source=rss------bugbounty-5"/>
+        <updated>2022-01-25T12:00:48.000Z</updated>
+        <summary type="html"><![CDATA[Hi Everyone.
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Aidil Arief</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ukraine: tracking the deployments]]></title>
+        <id>https://medium.com/p/efdb0915cfba</id>
+        <link href="https://medium.com/mosquito-ridge/ukraine-tracking-the-deployments-efdb0915cfba?source=rss------osint-5"/>
+        <updated>2022-01-25T11:21:39.000Z</updated>
+        <summary type="html"><![CDATA[Making sense of the open source intelligence
+Continue reading on HOW TO STOP FASCISM »]]></summary>
+        <author>
+            <name>Paul Mason</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hack into Skynet —  Real World CTF (2022) walkthrough]]></title>
+        <id>https://medium.com/p/eb0e3908d9a7</id>
+        <link href="https://infosecwriteups.com/hack-into-skynet-real-world-ctf-2022-walkthrough-eb0e3908d9a7?source=rss----7b722bfd1b8d---4"/>
+        <updated>2022-01-25T11:01:43.000Z</updated>
+        <summary type="html"><![CDATA[In this writeup, I’m sharing one of the potential methods to pwn a web challenge on Real world CTF 2022. All challenges built on top of real-world applications & due to the impact of COVID-19, The…]]></summary>
+        <author>
+            <name>7h3h4ckv157</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hack into Skynet —  Real World CTF (2022) walkthrough]]></title>
+        <id>https://medium.com/p/eb0e3908d9a7</id>
+        <link href="https://infosecwriteups.com/hack-into-skynet-real-world-ctf-2022-walkthrough-eb0e3908d9a7?source=rss----7b722bfd1b8d---4"/>
+        <updated>2022-01-25T11:01:43.000Z</updated>
+        <summary type="html"><![CDATA[In this writeup, I’m sharing one of the potential methods to pwn a web challenge on Real world CTF 2022. All challenges built on top of real-world applications & due to the impact of COVID-19, The…]]></summary>
+        <author>
+            <name>7h3h4ckv157</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Attacks on JSON Web Token (JWT)]]></title>
+        <id>https://medium.com/p/278a49a1ad2e</id>
+        <link href="https://infosecwriteups.com/attacks-on-json-web-token-jwt-278a49a1ad2e?source=rss----7b722bfd1b8d---4"/>
+        <updated>2022-01-25T10:59:54.000Z</updated>
+        <summary type="html"><![CDATA[In part1 of the article, I introduced JSON web tokens that what is JWT and How they are made? I prefer to take a look at that before you go…]]></summary>
+        <author>
+            <name>Anubhav Singh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Attacks on JSON Web Token (JWT)]]></title>
+        <id>https://medium.com/p/278a49a1ad2e</id>
+        <link href="https://infosecwriteups.com/attacks-on-json-web-token-jwt-278a49a1ad2e?source=rss----7b722bfd1b8d---4"/>
+        <updated>2022-01-25T10:59:54.000Z</updated>
+        <summary type="html"><![CDATA[In part1 of the article, I introduced JSON web tokens that what is JWT and How they are made? I prefer to take a look at that before you go…]]></summary>
+        <author>
+            <name>Anubhav Singh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How I ended up downloading a malware]]></title>
+        <id>https://medium.com/p/c5aa93742ce4</id>
+        <link href="https://infosecwriteups.com/how-i-ended-up-downloading-a-malware-c5aa93742ce4?source=rss----7b722bfd1b8d---4"/>
+        <updated>2022-01-25T10:59:09.000Z</updated>
+        <summary type="html"><![CDATA[Hello folks!!! My brother and I were bored this weekend and decided to play a game, so he downloaded the game. Here’s the fascinating part…]]></summary>
+        <author>
+            <name>Yuvarajan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How I ended up downloading a malware]]></title>
+        <id>https://medium.com/p/c5aa93742ce4</id>
+        <link href="https://infosecwriteups.com/how-i-ended-up-downloading-a-malware-c5aa93742ce4?source=rss----7b722bfd1b8d---4"/>
+        <updated>2022-01-25T10:59:09.000Z</updated>
+        <summary type="html"><![CDATA[Hello folks!!! My brother and I were bored this weekend and decided to play a game, so he downloaded the game. Here’s the fascinating part…]]></summary>
+        <author>
+            <name>Yuvarajan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How I passed CEH (Practical) in my first attempt by Guru HariHaraun]]></title>
+        <id>https://medium.com/p/647926a3a0ac</id>
+        <link href="https://infosecwriteups.com/how-i-passed-ceh-practical-in-my-first-attempt-647926a3a0ac?source=rss----7b722bfd1b8d---4"/>
+        <updated>2022-01-25T10:58:44.000Z</updated>
+        <summary type="html"><![CDATA[Hello guys! I’m Guru HariHaraun, 21 years old. In this blog, I will be sharing with you my secret strategy I followed to pass CEH…]]></summary>
+        <author>
+            <name>Guru HariHaraun</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How I passed CEH (Practical) in my first attempt by Guru HariHaraun]]></title>
+        <id>https://medium.com/p/647926a3a0ac</id>
+        <link href="https://infosecwriteups.com/how-i-passed-ceh-practical-in-my-first-attempt-647926a3a0ac?source=rss----7b722bfd1b8d---4"/>
+        <updated>2022-01-25T10:58:44.000Z</updated>
+        <summary type="html"><![CDATA[Hello guys! I’m Guru HariHaraun, 21 years old. In this blog, I will be sharing with you my secret strategy I followed to pass CEH…]]></summary>
+        <author>
+            <name>Guru HariHaraun</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How I was able to find multiple vulnerabilities of a Symfony Web Framework web application]]></title>
+        <id>https://medium.com/p/2b82cd5de144</id>
+        <link href="https://infosecwriteups.com/how-i-was-able-to-find-multiple-vulnerabilities-of-a-symfony-web-framework-web-application-2b82cd5de144?source=rss----7b722bfd1b8d---4"/>
+        <updated>2022-01-25T10:58:15.000Z</updated>
+        <summary type="html"><![CDATA[Found high severity vulnerability in 5 minutes just from reconnaissance. Found multiple vulnerabilities on a web application that used the…]]></summary>
+        <author>
+            <name>Abid Ahmad</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How I was able to find multiple vulnerabilities of a Symfony Web Framework web application]]></title>
+        <id>https://medium.com/p/2b82cd5de144</id>
+        <link href="https://infosecwriteups.com/how-i-was-able-to-find-multiple-vulnerabilities-of-a-symfony-web-framework-web-application-2b82cd5de144?source=rss----7b722bfd1b8d---4"/>
+        <updated>2022-01-25T10:58:15.000Z</updated>
+        <summary type="html"><![CDATA[Found high severity vulnerability in 5 minutes just from reconnaissance. Found multiple vulnerabilities on a web application that used the…]]></summary>
+        <author>
+            <name>Abid Ahmad</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hacking Microsoft Forms]]></title>
+        <id>https://medium.com/p/d05e22fb70d7</id>
+        <link href="https://infosecwriteups.com/hacking-microsoft-forms-d05e22fb70d7?source=rss----7b722bfd1b8d---4"/>
+        <updated>2022-01-25T10:55:50.000Z</updated>
+        <summary type="html"><![CDATA[Since the growth of Online learning during this pandemic — students, researchers have been on an hunt for hacks on Microsoft Forms which…]]></summary>
+        <author>
+            <name>Nishith P</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hacking Microsoft Forms]]></title>
+        <id>https://medium.com/p/d05e22fb70d7</id>
+        <link href="https://infosecwriteups.com/hacking-microsoft-forms-d05e22fb70d7?source=rss----7b722bfd1b8d---4"/>
+        <updated>2022-01-25T10:55:50.000Z</updated>
+        <summary type="html"><![CDATA[Since the growth of Online learning during this pandemic — students, researchers have been on an hunt for hacks on Microsoft Forms which…]]></summary>
+        <author>
+            <name>Nishith P</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FreeBuf早报 | 去年全球共记录1862起数据泄漏事件；俄罗斯当局逮捕一国际网络犯罪组织的头目]]></title>
+        <id>https://www.freebuf.com/articles/web/320852.html</id>
+        <link href="https://www.freebuf.com/articles/web/320852.html"/>
+        <updated>2022-01-25T10:30:54.000Z</updated>
+        <summary type="html"><![CDATA[澳大利亚证券和投资委员会(ASIC)宣布，它正在与五家监管科技公司合作创建一个新的平台，旨在更好处理上市公司的信息。]]></summary>
+        <author>
+            <name>FreeBuf网络安全行业门户</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Day 16, Web Reconnaissance Or Information Gathering — Part 1#100DaysofHacking]]></title>
+        <id>https://medium.com/p/43d0c723611c</id>
+        <link href="https://infosecwriteups.com/day-16-web-reconnaissance-or-information-gathering-part-1-100daysofhacking-43d0c723611c?source=rss----7b722bfd1b8d---4"/>
+        <updated>2022-01-25T09:48:46.000Z</updated>
+        <summary type="html"><![CDATA[Get all the writeups from Day 1 to 15, Click Here Or Click Here.]]></summary>
+        <author>
+            <name>Ayush Verma</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Day 16, Web Reconnaissance Or Information Gathering — Part 1#100DaysofHacking]]></title>
+        <id>https://medium.com/p/43d0c723611c</id>
+        <link href="https://infosecwriteups.com/day-16-web-reconnaissance-or-information-gathering-part-1-100daysofhacking-43d0c723611c?source=rss----7b722bfd1b8d---4"/>
+        <updated>2022-01-25T09:48:46.000Z</updated>
+        <summary type="html"><![CDATA[Get all the writeups from Day 1 to 15, Click Here Or Click Here.]]></summary>
+        <author>
+            <name>Ayush Verma</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Solarwinds Web Help Desk: When the Helpdesk is too Helpful]]></title>
+        <id>https://www.reddit.com/r/netsec/comments/sc9v5n/solarwinds_web_help_desk_when_the_helpdesk_is_too/</id>
+        <link href="https://www.reddit.com/r/netsec/comments/sc9v5n/solarwinds_web_help_desk_when_the_helpdesk_is_too/"/>
+        <updated>2022-01-25T09:33:44.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/Mempodipper  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>/r/netsec - Information Security News &amp; Discussion</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[攻击技术研判｜利用安全模式突破安全产品防线]]></title>
+        <id>https://www.freebuf.com/articles/network/320838.html</id>
+        <link href="https://www.freebuf.com/articles/network/320838.html"/>
+        <updated>2022-01-25T09:31:38.000Z</updated>
+        <summary type="html"><![CDATA[近期sophos的研究人员发现了名为AvosLocker的新勒索软件团伙。攻击者利用安全产品无法运行于安全模式下的防护缺失规避检测，并利用例外配置保持对目标的远程控制能力。]]></summary>
+        <author>
+            <name>FreeBuf网络安全行业门户</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[modsecurity 搭建web安全防火墙和流量检测]]></title>
+        <id>https://www.freebuf.com/articles/web/320836.html</id>
+        <link href="https://www.freebuf.com/articles/web/320836.html"/>
+        <updated>2022-01-25T09:22:00.000Z</updated>
+        <summary type="html"><![CDATA[ModSecurity是一个开源的跨平台Web应用程序防火墙（WAF）引擎，用于Apache，IIS和Nginx，由Trustwave的SpiderLabs开发。]]></summary>
+        <author>
+            <name>FreeBuf网络安全行业门户</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How can I access mmssms.db without rooting phone?]]></title>
+        <id>https://www.reddit.com/r/computerforensics/comments/sc9ero/how_can_i_access_mmssmsdb_without_rooting_phone/</id>
+        <link href="https://www.reddit.com/r/computerforensics/comments/sc9ero/how_can_i_access_mmssmsdb_without_rooting_phone/"/>
+        <updated>2022-01-25T09:00:58.000Z</updated>
+        <summary type="html"><![CDATA[Hi, 
+ I would like to recover some deleted SMS messages. I do not know, how to access the mmssms.db, when plugging my phone to my PC without actually rooting it. What are my best options? Also how far back in time do you think I could recover the texts?
+    submitted by    /u/prois99  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Computer Forensics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dark Souls servers taken down following discovery of critical vulnerability]]></title>
+        <id>https://news.ycombinator.com/item?id=30069692</id>
+        <link href="https://arstechnica.com/information-technology/2022/01/dark-souls-servers-taken-down-following-discovery-of-critical-vulnerability/"/>
+        <updated>2022-01-25T08:50:14.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://arstechnica.com/information-technology/2022/01/dark-souls-servers-taken-down-following-discovery-of-critical-vulnerability/
+Comments URL: https://news.ycombinator.com/item?id=30069692
+Points: 3
+# Comments: 0]]></summary>
+        <author>
+            <name>BlackPlot</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Simple question about nmap]]></title>
+        <id>https://www.reddit.com/r/AskNetsec/comments/sc8wpv/simple_question_about_nmap/</id>
+        <link href="https://www.reddit.com/r/AskNetsec/comments/sc8wpv/simple_question_about_nmap/"/>
+        <updated>2022-01-25T08:25:14.000Z</updated>
+        <summary type="html"><![CDATA[If my friend tells me what his public IP address is and I use nmap to do a port scan on his public IP address, then what exactly is being port scanned? Since every device in his house will have the same public IP address.
+    submitted by    /u/LagunaLoireFF8  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>AskNetsec</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Subdomain Takeover]]></title>
+        <id>https://hackerone.com/reports/1348504</id>
+        <link href="https://hackerone.com/reports/1348504"/>
+        <updated>2022-01-25T08:25:06.000Z</updated>
+        <summary type="html"><![CDATA[Mail.ru disclosed a bug submitted by official_dhivish: https://hackerone.com/reports/1348504]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How I Discovered Thousands of Open Databases on AWS]]></title>
+        <id>https://medium.com/p/764729aa7f32</id>
+        <link href="https://infosecwriteups.com/how-i-discovered-thousands-of-open-databases-on-aws-764729aa7f32?source=rss----7b722bfd1b8d---4"/>
+        <updated>2022-01-25T08:08:41.000Z</updated>
+        <summary type="html"><![CDATA[My journey on finding and reporting databases with sensitive data about Fortune-500 companies, Hospitals, Crypto platforms, Startups during…]]></summary>
+        <author>
+            <name>Avi Lumelsky</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How I Discovered Thousands of Open Databases on AWS]]></title>
+        <id>https://medium.com/p/764729aa7f32</id>
+        <link href="https://infosecwriteups.com/how-i-discovered-thousands-of-open-databases-on-aws-764729aa7f32?source=rss----7b722bfd1b8d---4"/>
+        <updated>2022-01-25T08:08:41.000Z</updated>
+        <summary type="html"><![CDATA[My journey on finding and reporting databases with sensitive data about Fortune-500 companies, Hospitals, Crypto platforms, Startups during…]]></summary>
+        <author>
+            <name>Avi Lumelsky</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Simple CTF- TryHackme]]></title>
+        <id>https://medium.com/p/eebd0254865c</id>
+        <link href="https://infosecwriteups.com/simple-ctf-tryhackme-eebd0254865c?source=rss----7b722bfd1b8d---4"/>
+        <updated>2022-01-25T08:07:41.000Z</updated>
+        <summary type="html"><![CDATA[CTF]]></summary>
+        <author>
+            <name>Mukilan Baskaran</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Simple CTF- TryHackme]]></title>
+        <id>https://medium.com/p/eebd0254865c</id>
+        <link href="https://infosecwriteups.com/simple-ctf-tryhackme-eebd0254865c?source=rss----7b722bfd1b8d---4"/>
+        <updated>2022-01-25T08:07:41.000Z</updated>
+        <summary type="html"><![CDATA[CTF]]></summary>
+        <author>
+            <name>Mukilan Baskaran</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LAB Setup — ModSecurity || Apache as reverse Proxy || Generate& Install self signed SSL…]]></title>
+        <id>https://medium.com/p/a588cee61d4a</id>
+        <link href="https://infosecwriteups.com/lab-setup-modsecurity-apache-as-reverse-proxy-generate-install-self-signed-ssl-a588cee61d4a?source=rss----7b722bfd1b8d---4"/>
+        <updated>2022-01-25T08:06:35.000Z</updated>
+        <summary type="html"><![CDATA[A: Configure Apache as reverse proxy and the application [demo.testfire.net] should be accessible via local host entry through configured…]]></summary>
+        <author>
+            <name>CyberBruhArmy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LAB Setup — ModSecurity || Apache as reverse Proxy || Generate& Install self signed SSL…]]></title>
+        <id>https://medium.com/p/a588cee61d4a</id>
+        <link href="https://infosecwriteups.com/lab-setup-modsecurity-apache-as-reverse-proxy-generate-install-self-signed-ssl-a588cee61d4a?source=rss----7b722bfd1b8d---4"/>
+        <updated>2022-01-25T08:06:35.000Z</updated>
+        <summary type="html"><![CDATA[A: Configure Apache as reverse proxy and the application [demo.testfire.net] should be accessible via local host entry through configured…]]></summary>
+        <author>
+            <name>CyberBruhArmy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How I could have read your confidential bug reports by simple mail?]]></title>
+        <id>https://medium.com/p/cfd2e4f8e25c</id>
+        <link href="https://infosecwriteups.com/how-i-could-have-read-your-confidential-bug-reports-by-simple-mail-cfd2e4f8e25c?source=rss------bugbounty-5"/>
+        <updated>2022-01-25T07:53:20.000Z</updated>
+        <summary type="html"><![CDATA[Hey Everyone, Hope you’re doing safe and sound.
+Continue reading on InfoSec Write-ups »]]></summary>
+        <author>
+            <name>Sudhakar Muthumani</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How I was able to takeover accounts in websites deal with Github as a SSO provider]]></title>
+        <id>https://medium.com/p/294290358e0c</id>
+        <link href="https://infosecwriteups.com/how-i-was-able-to-takeover-accounts-in-websites-deal-with-github-as-a-sso-provider-294290358e0c?source=rss------bugbounty-5"/>
+        <updated>2022-01-25T07:35:46.000Z</updated>
+        <summary type="html"><![CDATA[Introduction
+Continue reading on InfoSec Write-ups »]]></summary>
+        <author>
+            <name>Khaled Mohamed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Alcatel GO Flip V access?]]></title>
+        <id>https://www.reddit.com/r/computerforensics/comments/sc6ri6/alcatel_go_flip_v_access/</id>
+        <link href="https://www.reddit.com/r/computerforensics/comments/sc6ri6/alcatel_go_flip_v_access/"/>
+        <updated>2022-01-25T06:03:53.000Z</updated>
+        <summary type="html"><![CDATA[No idea where else to ask. There’s an Alcatel Go Flip V that I need text message logs from for a court case. I used to use BitPim for this sort of thing, but that hasn’t had profiles updated for years.
+ I hate to phrase this in such a phone-specific way, but this phone is killing me, and I’ve tried a whole lot: Does anyone know any way to get legible texts from an Alcatel GO Flip V?
+ Or is there anywhere else I should ask?
+    submitted by    /u/hmmqzaz  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Computer Forensics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Received H1 bug bounty but think I maybe should have gotten more. Am I just being greedy?]]></title>
+        <id>https://www.reddit.com/r/AskNetsec/comments/sc4r2o/received_h1_bug_bounty_but_think_i_maybe_should/</id>
+        <link href="https://www.reddit.com/r/AskNetsec/comments/sc4r2o/received_h1_bug_bounty_but_think_i_maybe_should/"/>
+        <updated>2022-01-25T04:11:20.000Z</updated>
+        <summary type="html"><![CDATA[I have received a bounty just under 20k. I understand that that’s a lot of money but I am curious from experts whether this is about the most I’ll get and I should just move on. 
+ I can’t disclose too much but I found a way to make myself very very rich very easily (no actual tools or request spoofing required). I’ve thought of some ways that one could have theoretically easily taken the free money with no trace and ran if they were a legitimate crook. The bug had been around for a while (Longer than a week). Unsure of how bad it was in terms of actual internal damages. 
+ I can honestly say that I probably saved them potential millions if not actual millions. It feels like the amount I received is honestly not much at all given the severity of it. Having said all of that, it wasn’t very hard to reproduce. It was less of a penetration report involving much skill and more of a “holy shit guys, your product is clearly broken and I can’t believe this hasn’t been patched” 
+ Am I being completely unreasonable/greedy? I should also note that their market cap is far into the billions which is why I am making this post to begin with. They’re a major industry leader.
+    submitted by    /u/csthrowawayyyy  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>AskNetsec</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Is an associates degree worth getting?]]></title>
+        <id>https://www.reddit.com/r/AskNetsec/comments/sc3w6q/is_an_associates_degree_worth_getting/</id>
+        <link href="https://www.reddit.com/r/AskNetsec/comments/sc3w6q/is_an_associates_degree_worth_getting/"/>
+        <updated>2022-01-25T03:26:59.000Z</updated>
+        <summary type="html"><![CDATA[I was told experience and certs are mostly required for most jobs aside from roles in management, which requires a BS or even masters. So I am just curious if there is any value in just getting an AS. The role that currently interests me is SOC analyst if that helps. I also heard of the WGU online program for a BS or masters in cybersecurity. If I plan on doing management in the future, is it worth getting my degree through this program?
+    submitted by    /u/RaZdoT  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>AskNetsec</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cross site scripting via file upload in subdomain ads.tiktok.com]]></title>
+        <id>https://hackerone.com/reports/1433125</id>
+        <link href="https://hackerone.com/reports/1433125"/>
+        <updated>2022-01-25T02:49:30.000Z</updated>
+        <summary type="html"><![CDATA[TikTok disclosed a bug submitted by blubluuu: https://hackerone.com/reports/1433125 - Bounty: $500]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What are Sock Puppets And How To Create One?]]></title>
         <id>https://medium.com/p/e1b61686dc70</id>
@@ -254,6 +1209,17 @@ SecWiki周刊（第412期)  by ourren
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[WordPress 5.8.2 Stored XSS Vulnerability]]></title>
+        <id>https://www.reddit.com/r/netsec/comments/sbot07/wordpress_582_stored_xss_vulnerability/</id>
+        <link href="https://www.reddit.com/r/netsec/comments/sbot07/wordpress_582_stored_xss_vulnerability/"/>
+        <updated>2022-01-24T15:33:22.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/monoimpact  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>/r/netsec - Information Security News &amp; Discussion</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Exfiltration]]></title>
         <id>https://www.reddit.com/r/computerforensics/comments/sboi8k/exfiltration/</id>
         <link href="https://www.reddit.com/r/computerforensics/comments/sboi8k/exfiltration/"/>
@@ -265,6 +1231,16 @@ SecWiki周刊（第412期)  by ourren
  [link]   [comments]]]></summary>
         <author>
             <name>Computer Forensics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[安全分析技术的“前世今生”]]></title>
+        <id>https://www.freebuf.com/articles/neopoints/320768.html</id>
+        <link href="https://www.freebuf.com/articles/neopoints/320768.html"/>
+        <updated>2022-01-24T15:01:42.000Z</updated>
+        <summary type="html"><![CDATA[过去十年中，安全分析这项技术发生了怎样的变化？本文将和大家一起探讨安全分析的演变和价值。]]></summary>
+        <author>
+            <name>FreeBuf网络安全行业门户</name>
         </author>
     </entry>
     <entry>
@@ -402,6 +1378,16 @@ Continue reading on Medium »]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[数千工业组织的企业电子邮件账户失窃，被滥用进行下一次攻击]]></title>
+        <id>https://www.freebuf.com/articles/ics-articles/320764.html</id>
+        <link href="https://www.freebuf.com/articles/ics-articles/320764.html"/>
+        <updated>2022-01-24T11:53:51.000Z</updated>
+        <summary type="html"><![CDATA[攻击者滥用企业邮箱的联系人信任发起攻击，从一个工业企业传播到另一个工业企业。]]></summary>
+        <author>
+            <name>FreeBuf网络安全行业门户</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[How BRATA is monitoring your bank account | Cleafy Labs]]></title>
         <id>https://www.reddit.com/r/netsec/comments/sbkhop/how_brata_is_monitoring_your_bank_account_cleafy/</id>
         <link href="https://www.reddit.com/r/netsec/comments/sbkhop/how_brata_is_monitoring_your_bank_account_cleafy/"/>
@@ -431,6 +1417,17 @@ Continue reading on Medium »]]></summary>
         <summary type="html"><![CDATA[斗象科技首届内部攻防演练圆满结束。]]></summary>
         <author>
             <name>FreeBuf网络安全行业门户</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TypeScript scenario-based web application Fuzzing Framework, supports genetic algorithm and running on CI]]></title>
+        <id>https://www.reddit.com/r/netsec/comments/sbigvu/typescript_scenariobased_web_application_fuzzing/</id>
+        <link href="https://www.reddit.com/r/netsec/comments/sbigvu/typescript_scenariobased_web_application_fuzzing/"/>
+        <updated>2022-01-24T09:42:02.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/hi120ki  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>/r/netsec - Information Security News &amp; Discussion</name>
         </author>
     </entry>
     <entry>
@@ -605,6 +1602,17 @@ Continue reading on Medium »]]></summary>
  [link]   [comments]]]></summary>
         <author>
             <name>AskNetsec</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A new shellcode injection methodology]]></title>
+        <id>https://www.reddit.com/r/netsec/comments/sb31vh/a_new_shellcode_injection_methodology/</id>
+        <link href="https://www.reddit.com/r/netsec/comments/sb31vh/a_new_shellcode_injection_methodology/"/>
+        <updated>2022-01-23T20:30:26.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/Idov31  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>/r/netsec - Information Security News &amp; Discussion</name>
         </author>
     </entry>
     <entry>
@@ -896,6 +1904,17 @@ Continue reading on Medium »]]></summary>
  [link]   [comments]]]></summary>
         <author>
             <name>AskNetsec</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Backdoor Found in Themes and Plugins from AccessPress Themes (CVE-2021-24867)]]></title>
+        <id>https://www.reddit.com/r/netsec/comments/saoul3/backdoor_found_in_themes_and_plugins_from/</id>
+        <link href="https://www.reddit.com/r/netsec/comments/saoul3/backdoor_found_in_themes_and_plugins_from/"/>
+        <updated>2022-01-23T08:17:55.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/ScottContini  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>/r/netsec - Information Security News &amp; Discussion</name>
         </author>
     </entry>
     <entry>
