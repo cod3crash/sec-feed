@@ -6,6 +6,15 @@
       "siteUrl": "http://h1.nobbd.de/",
       "articles": [
         {
+          "id": "https://hackerone.com/reports/1176794",
+          "author": null,
+          "description": "FetLife disclosed a bug submitted by castilho: https://hackerone.com/reports/1176794 - Bounty: $100",
+          "link": "https://hackerone.com/reports/1176794",
+          "publishedOn": "2022-01-26T04:10:51.000Z",
+          "wordCount": 25,
+          "title": "Specific Payload makes a Users Posts unavailable"
+        },
+        {
           "id": "https://hackerone.com/reports/1387320",
           "author": null,
           "description": "Lark Technologies disclosed a bug submitted by imran_nisar: https://hackerone.com/reports/1387320 - Bounty: $2000",
@@ -2647,6 +2656,60 @@
       "feedUrl": "https://medium.com/feed/tag/bugbounty",
       "siteUrl": "https://medium.com/tag/bugbounty/latest?source=rss------bugbounty-5",
       "articles": [
+        {
+          "id": "https://medium.com/p/762b1feefd54",
+          "author": "Sentinel Protocol Team",
+          "description": "Uppsala Security(웁살라시큐리티)는 블록체인 온체인 데이터 인덱싱 프로젝트인 Nakji Network(Nakji Network)와 버그 바운티 프로그램을 함께 합니다.\nContinue reading on Medium »",
+          "link": "https://sentinel-protocol.medium.com/%EC%9B%81%EC%82%B4%EB%9D%BC%EC%8B%9C-%ED%81%90%EB%A6%AC%ED%8B%B0-nakji-network%EC%99%80-%EC%B4%9D-20%EB%A7%8C-%EB%8B%AC%EB%9F%AC-%EB%B2%84%EA%B7%B8-%EB%B0%94%EC%9A%B4%ED%8B%B0-%EC%A7%84%ED%96%89-762b1feefd54?source=rss------bugbounty-5",
+          "publishedOn": "2022-01-27T00:02:13.000Z",
+          "wordCount": 665,
+          "title": "웁살라시큐리티, Nakji Network와 총 20만 달러 버그 바운티 진행"
+        },
+        {
+          "id": "https://medium.com/p/97c53840378c",
+          "author": "Thexssrat",
+          "description": "Introduction\nContinue reading on Medium »",
+          "link": "https://thexssrat.medium.com/a-brief-overview-of-jwt-and-its-exploits-97c53840378c?source=rss------bugbounty-5",
+          "publishedOn": "2022-01-26T21:36:31.000Z",
+          "wordCount": 131,
+          "title": "A brief overview of JWT and its exploits"
+        },
+        {
+          "id": "https://medium.com/p/988e29f92643",
+          "author": "Takshil Patil",
+          "description": "Previous : Beginner Bug Bounty Guide - Part 3\nContinue reading on Medium »",
+          "link": "https://takshil-patil529.medium.com/beginner-bug-bounty-guide-part-4-988e29f92643?source=rss------bugbounty-5",
+          "publishedOn": "2022-01-26T20:48:18.000Z",
+          "wordCount": 464,
+          "title": "Beginner Bug Bounty Guide - Part 4"
+        },
+        {
+          "id": "https://medium.com/p/8b979d0f6511",
+          "author": "Takshil Patil",
+          "description": "Previous : Beginner Bug Bounty Guide - Part 2\nContinue reading on Medium »",
+          "link": "https://takshil-patil529.medium.com/beginner-bug-bounty-guide-part-3-8b979d0f6511?source=rss------bugbounty-5",
+          "publishedOn": "2022-01-26T20:29:03.000Z",
+          "wordCount": 86,
+          "title": "Beginner Bug Bounty Guide - Part 3"
+        },
+        {
+          "id": "https://medium.com/p/5184c10679a0",
+          "author": "Ignatius Michael",
+          "description": "Note: sanitization of these screenshots was performed to protect the identities of stakeholders involved.\nContinue reading on Medium »",
+          "link": "https://popalltheshells.medium.com/how-to-spoof-e-mails-dmarc-spf-and-phishing-5184c10679a0?source=rss------bugbounty-5",
+          "publishedOn": "2022-01-26T16:32:24.000Z",
+          "wordCount": 108,
+          "title": "How to spoof e-mails. (DMARC, SPF, and Phishing)"
+        },
+        {
+          "id": "https://medium.com/p/a02c59bfa95d",
+          "author": "Arif ARI",
+          "description": "Directory Traversal (Dizin-Dosya Geçişi), saldırganların bir web sunucusundaki kısıtlı dizinlere erişmesine ve web sunucusunun kök dizini…\nContinue reading on Medium »",
+          "link": "https://ariarif.medium.com/portswigger-web-security-directory-traversal-lab-%C3%A7%C3%B6z%C3%BCmleri%CC%87-a02c59bfa95d?source=rss------bugbounty-5",
+          "publishedOn": "2022-01-26T08:52:46.000Z",
+          "wordCount": 864,
+          "title": "PORTSWIGGER WEB SECURITY - DIRECTORY TRAVERSAL LAB ÇÖZÜMLERİ"
+        },
         {
           "id": "https://medium.com/p/c799cd3838",
           "author": "Thexssrat",
@@ -5846,6 +5909,15 @@
       "siteUrl": "https://medium.com/tag/osint/latest?source=rss------osint-5",
       "articles": [
         {
+          "id": "https://medium.com/p/4659a834cb8b",
+          "author": "Dheeraj Madhukar",
+          "description": "This question is going around for a long time. Are hackers doing good in the world? Well, instead of hacking into healthcare systems and…\nContinue reading on InfoSec Write-ups »",
+          "link": "https://infosecwriteups.com/how-hackers-are-changing-lives-4659a834cb8b?source=rss------osint-5",
+          "publishedOn": "2022-01-26T16:04:44.000Z",
+          "wordCount": 706,
+          "title": "HOW HACKERS ARE CHANGING LIVES"
+        },
+        {
           "id": "https://medium.com/p/b10d81e55659",
           "author": "PME Intelligence",
           "description": "Durant une recherche sur internet, nous tombons souvent sur des formats de données qui sont à première vue inexploitables directement.\nContinue reading on Medium »",
@@ -7528,6 +7600,33 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=30087809",
+          "author": "discordianfish",
+          "description": "Article URL: https://github.com/discordianfish/cve-2022-0185-crash-poc/blob/main/crash.c\nComments URL: https://news.ycombinator.com/item?id=30087809\nPoints: 1\n# Comments: 0",
+          "link": "https://github.com/discordianfish/cve-2022-0185-crash-poc/blob/main/crash.c",
+          "publishedOn": "2022-01-26T16:43:23.000Z",
+          "wordCount": 424,
+          "title": "CVE-2022-0185: Container+Kubernetes manifest as crash POC"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=30081671",
+          "author": "fortran77",
+          "description": "Article URL: https://www.sesin.at/2022/01/25/local-privilege-escalation-vulnerability-in-polkits-pkexec-cve-2021-4034-tue-jan-25th/\nComments URL: https://news.ycombinator.com/item?id=30081671\nPoints: 1\n# Comments: 0",
+          "link": "https://www.sesin.at/2022/01/25/local-privilege-escalation-vulnerability-in-polkits-pkexec-cve-2021-4034-tue-jan-25th/",
+          "publishedOn": "2022-01-26T04:23:25.000Z",
+          "wordCount": 2278,
+          "title": "Local privilege escalation vulnerability in polkit’s pkexec (CVE-2021-4034)"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=30081666",
+          "author": "sertsa",
+          "description": "Article URL: https://blog.qualys.com/vulnerabilities-threat-research/2022/01/25/pwnkit-local-privilege-escalation-vulnerability-discovered-in-polkits-pkexec-cve-2021-4034\nComments URL: https://news.ycombinator.com/item?id=30081666\nPoints: 5\n# Comments: 0",
+          "link": "https://blog.qualys.com/vulnerabilities-threat-research/2022/01/25/pwnkit-local-privilege-escalation-vulnerability-discovered-in-polkits-pkexec-cve-2021-4034",
+          "publishedOn": "2022-01-26T04:22:22.000Z",
+          "wordCount": 2130,
+          "title": "PwnKit: Vulnerability in Polkit (CVE-2021-4034)"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=30077271",
           "author": "todsacerdoti",
           "description": "Article URL: https://seclists.org/oss-sec/2022/q1/80\nComments URL: https://news.ycombinator.com/item?id=30077271\nPoints: 112\n# Comments: 41",
@@ -7894,6 +7993,60 @@
       "feedUrl": "https://hnrss.org/newest?q=vulnerability",
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
+        {
+          "id": "https://news.ycombinator.com/item?id=30091276",
+          "author": "compsciphd",
+          "description": "Article URL: https://hackerone.com/redis-vdp\nComments URL: https://news.ycombinator.com/item?id=30091276\nPoints: 2\n# Comments: 0",
+          "link": "https://hackerone.com/redis-vdp",
+          "publishedOn": "2022-01-26T20:28:09.000Z",
+          "wordCount": 25,
+          "title": "Redis – Vulnerability Disclosure Program"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=30086222",
+          "author": "doener",
+          "description": "Article URL: https://www.sesin.at/2022/01/25/local-privilege-escalation-vulnerability-in-polkits-pkexec-cve-2021-4034-tue-jan-25th/\nComments URL: https://news.ycombinator.com/item?id=30086222\nPoints: 2\n# Comments: 0",
+          "link": "https://www.sesin.at/2022/01/25/local-privilege-escalation-vulnerability-in-polkits-pkexec-cve-2021-4034-tue-jan-25th/",
+          "publishedOn": "2022-01-26T14:58:17.000Z",
+          "wordCount": 2285,
+          "title": "Local privilege escalation vulnerability in polkit’s pkexec"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=30086204",
+          "author": "doener",
+          "description": "Article URL: https://blog.qualys.com/vulnerabilities-threat-research/2022/01/25/pwnkit-local-privilege-escalation-vulnerability-discovered-in-polkits-pkexec-cve-2021-4034\nComments URL: https://news.ycombinator.com/item?id=30086204\nPoints: 1\n# Comments: 0",
+          "link": "https://blog.qualys.com/vulnerabilities-threat-research/2022/01/25/pwnkit-local-privilege-escalation-vulnerability-discovered-in-polkits-pkexec-cve-2021-4034",
+          "publishedOn": "2022-01-26T14:57:36.000Z",
+          "wordCount": 2130,
+          "title": "PwnKit: Local Privilege Escalation Vulnerability Discovered in Polkit’s Pkexec"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=30085811",
+          "author": "feross",
+          "description": "Article URL: https://portswigger.net/daily-swig/android-security-tool-apkleaks-patches-critical-vulnerability\nComments URL: https://news.ycombinator.com/item?id=30085811\nPoints: 1\n# Comments: 0",
+          "link": "https://portswigger.net/daily-swig/android-security-tool-apkleaks-patches-critical-vulnerability",
+          "publishedOn": "2022-01-26T14:31:05.000Z",
+          "wordCount": 854,
+          "title": "Android security tool APKLeaks patches critical vulnerability"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=30081671",
+          "author": "fortran77",
+          "description": "Article URL: https://www.sesin.at/2022/01/25/local-privilege-escalation-vulnerability-in-polkits-pkexec-cve-2021-4034-tue-jan-25th/\nComments URL: https://news.ycombinator.com/item?id=30081671\nPoints: 1\n# Comments: 0",
+          "link": "https://www.sesin.at/2022/01/25/local-privilege-escalation-vulnerability-in-polkits-pkexec-cve-2021-4034-tue-jan-25th/",
+          "publishedOn": "2022-01-26T04:23:25.000Z",
+          "wordCount": 2274,
+          "title": "Local privilege escalation vulnerability in polkit’s pkexec (CVE-2021-4034)"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=30081666",
+          "author": "sertsa",
+          "description": "Article URL: https://blog.qualys.com/vulnerabilities-threat-research/2022/01/25/pwnkit-local-privilege-escalation-vulnerability-discovered-in-polkits-pkexec-cve-2021-4034\nComments URL: https://news.ycombinator.com/item?id=30081666\nPoints: 5\n# Comments: 0",
+          "link": "https://blog.qualys.com/vulnerabilities-threat-research/2022/01/25/pwnkit-local-privilege-escalation-vulnerability-discovered-in-polkits-pkexec-cve-2021-4034",
+          "publishedOn": "2022-01-26T04:22:22.000Z",
+          "wordCount": 2130,
+          "title": "PwnKit: Vulnerability in Polkit (CVE-2021-4034)"
+        },
         {
           "id": "https://news.ycombinator.com/item?id=30077665",
           "author": "CrankyBear",
@@ -8451,6 +8604,69 @@
       "siteUrl": "https://www.freebuf.com",
       "articles": [
         {
+          "id": "https://www.freebuf.com/news/320970.html",
+          "author": null,
+          "description": "Polkit的pkexec 组件中存在一个安全漏洞（CVE-2021-4034），这意味着几乎所有的Linux 发行版的默认配置都包含此漏洞，攻击者可通过该漏洞获得系统的root权限。",
+          "link": "https://www.freebuf.com/news/320970.html",
+          "publishedOn": "2022-01-26T10:59:45.000Z",
+          "wordCount": 176,
+          "title": "FreeBuf早报 | Linux系统爆出新漏洞，影响所有版本；Segway 电子商店被攻击"
+        },
+        {
+          "id": "https://www.freebuf.com/news/320948.html",
+          "author": null,
+          "description": "Rust编程语言的维护者发布了一个针对高严重性漏洞的安全更新，该漏洞可能被恶意方滥用，以未经授权的方式从易受攻击的系统中清除文件和目录。",
+          "link": "https://www.freebuf.com/news/320948.html",
+          "publishedOn": "2022-01-26T08:20:19.000Z",
+          "wordCount": 161,
+          "title": "严重的编程错误或致文件删除、黑客使用新恶意软件逃避检测｜1月26日全球网络安全热点"
+        },
+        {
+          "id": "https://www.freebuf.com/sectool/320919.html",
+          "author": null,
+          "description": "通过FaPro，可以使用一条命令，直接创建一个虚拟网络，并在其中模拟多个不同的设备。",
+          "link": "https://www.freebuf.com/sectool/320919.html",
+          "publishedOn": "2022-01-26T07:21:48.000Z",
+          "wordCount": 279,
+          "title": "如何使用FaPro批量模拟设备"
+        },
+        {
+          "id": "https://www.freebuf.com/articles/es/320913.html",
+          "author": null,
+          "description": "《中国企业网络安全意识教育现状与发展报告》（以下简称《报告》）近日发布。",
+          "link": "https://www.freebuf.com/articles/es/320913.html",
+          "publishedOn": "2022-01-26T06:36:41.000Z",
+          "wordCount": 162,
+          "title": "《中国企业网络安全意识教育现状与发展报告》发布"
+        },
+        {
+          "id": "https://www.freebuf.com/news/320909.html",
+          "author": null,
+          "description": "《办法》共7章46条，对银行保险机构信息科技外包风险管理提出全面要求。",
+          "link": "https://www.freebuf.com/news/320909.html",
+          "publishedOn": "2022-01-26T06:02:43.000Z",
+          "wordCount": 138,
+          "title": "《银行保险机构信息科技外包风险监管办法》发布，严控机构外包风险"
+        },
+        {
+          "id": "https://www.freebuf.com/news/320901.html",
+          "author": null,
+          "description": "《条例》共五十一条内容，明确提出打造公共数据平台，建立公共数据共享机制，构建公共数据有序开放制度。",
+          "link": "https://www.freebuf.com/news/320901.html",
+          "publishedOn": "2022-01-26T03:08:14.000Z",
+          "wordCount": 138,
+          "title": "《浙江省公共数据条例》将于3月1日执行，再次强调个人信息安全"
+        },
+        {
+          "id": "https://www.freebuf.com/articles/network/320854.html",
+          "author": null,
+          "description": "在 Real World CTF 4th 中，我很荣幸再次作为出题人参与出题。我出了一道名叫 Desperate Cat 的题目，考察的是在严苛条件下 Tomcat Web 目录写文件 getshell 的利用。",
+          "link": "https://www.freebuf.com/articles/network/320854.html",
+          "publishedOn": "2022-01-25T10:55:56.000Z",
+          "wordCount": 691,
+          "title": "RWCTF 4th Desperate Cat Writeup"
+        },
+        {
           "id": "https://www.freebuf.com/articles/web/320852.html",
           "author": null,
           "description": "澳大利亚证券和投资委员会(ASIC)宣布，它正在与五家监管科技公司合作创建一个新的平台，旨在更好处理上市公司的信息。",
@@ -8476,6 +8692,15 @@
           "publishedOn": "2022-01-25T09:22:00.000Z",
           "wordCount": 608,
           "title": "modsecurity 搭建web安全防火墙和流量检测"
+        },
+        {
+          "id": "https://www.freebuf.com/articles/network/320834.html",
+          "author": null,
+          "description": "微软的 AD FS（联合身份验证） 服务是一种跨边界的身份识别认证服务，旨在让 AD 域外的服务使用 AD 域账户进行认证，可以在多个不同实体或组织之间实现 SSO（单点登录）。",
+          "link": "https://www.freebuf.com/articles/network/320834.html",
+          "publishedOn": "2022-01-25T09:18:07.000Z",
+          "wordCount": 338,
+          "title": "在 AD FS 中获取你的万能令牌"
         },
         {
           "id": "https://www.freebuf.com/articles/neopoints/320768.html",
@@ -8548,6 +8773,15 @@
           "publishedOn": "2022-01-24T06:56:31.000Z",
           "wordCount": 165,
           "title": "从重大漏洞应急看云原生架构下的安全建设与安全运营（上）"
+        },
+        {
+          "id": "https://www.freebuf.com/articles/web/320662.html",
+          "author": null,
+          "description": "php中有很多封装协议，最常见的如file协议，php协议，data协议，zip和phar协议等等。",
+          "link": "https://www.freebuf.com/articles/web/320662.html",
+          "publishedOn": "2022-01-24T03:26:25.000Z",
+          "wordCount": 226,
+          "title": "浅谈PHP伪协议"
         },
         {
           "id": "https://www.freebuf.com/articles/network/320626.html",
@@ -11113,6 +11347,15 @@
       "siteUrl": "https://nosec.org/home/index/hole.html",
       "articles": [
         {
+          "id": "https://nosec.org/home/detail/4959.html",
+          "author": "fmbd",
+          "description": "近日，网络上出现 Linux 下 Polkit 工具集的本地权限提升漏洞，任何非特权本地用户可通过此漏洞获取root权...",
+          "link": "https://nosec.org/home/detail/4959.html",
+          "publishedOn": "2022-01-26T17:32:43.000Z",
+          "wordCount": 134,
+          "title": "【安全通报】Linux Polkit本地权限提升漏洞（CVE-2021-4034..."
+        },
+        {
           "id": "https://nosec.org/home/detail/4956.html",
           "author": "fmbd",
           "description": "近日，Oracle官方 发布了 2022 年 1 月份的安全更新。涉及旗下产品（Weblogic Server、Database Server、Java SE、MySQL等）的 497 个漏洞。此次修复的漏洞中包...",
@@ -11236,6 +11479,15 @@
       "feedUrl": "https://www.sec-wiki.com/news/rss",
       "siteUrl": "http://www.sec-wiki.com/",
       "articles": [
+        {
+          "id": "http://www.sec-wiki.com/?2022-01-26",
+          "author": null,
+          "description": "2021年度高级威胁研究报告  by ourren\n[HTB] Safe Writeup  by 0x584a\n更多最新文章，请访问SecWiki",
+          "link": "http://www.sec-wiki.com/?2022-01-26",
+          "publishedOn": "2022-01-26T15:58:20.000Z",
+          "wordCount": 581,
+          "title": "SecWiki News 2022-01-26 Review"
+        },
         {
           "id": "http://www.sec-wiki.com/?2022-01-25",
           "author": null,
@@ -11639,6 +11891,60 @@
       "feedUrl": "https://www.reddit.com/r/asknetsec/.rss",
       "siteUrl": "https://www.reddit.com/r/asknetsec/",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/sdkn9f/why_should_sensitive_documents_not_be_sent_via/",
+          "author": null,
+          "description": "Why do people advise against sending sensitive documents via Email?\n    submitted by    /u/Linux98  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/sdkn9f/why_should_sensitive_documents_not_be_sent_via/",
+          "publishedOn": "2022-01-27T00:14:29.000Z",
+          "wordCount": 516,
+          "title": "Why should sensitive documents not be sent via Email?"
+        },
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/sdh795/question_using_shodan_or_another_search_engine_to/",
+          "author": null,
+          "description": "Is it possible to use Shodan or another engine to find public facing SQL servers, more specifically, if you know of a database name, could it be found? I realize MS SQL has some default ports, and I can search for those, but I'm curious to know if its possible to search for a database name, too. TIA.\n    submitted by    /u/Drivingmecrazeh  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/sdh795/question_using_shodan_or_another_search_engine_to/",
+          "publishedOn": "2022-01-26T21:39:23.000Z",
+          "wordCount": 260,
+          "title": "[Question] Using Shodan or another 'search engine' to find MS SQL servers"
+        },
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/sdf8rz/password_cracking_options/",
+          "author": null,
+          "description": "What do you think is a great password cracking tool? \n A pen tester on my team asked me to crack a few passwords and NTLM hashes. I'm new to the team and when the other guy left he wiped everything so the only thing I know we had was PRTK which is a POS in my opinion. I downloaded hashcat but feel like I'm missing something to make it more efficient. Before I spend too much time trying to improve hashcat, what do you use? What's the price of it?\n    submitted by    /u/Korgibot  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/sdf8rz/password_cracking_options/",
+          "publishedOn": "2022-01-26T20:14:56.000Z",
+          "wordCount": 301,
+          "title": "Password cracking options.."
+        },
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/sdbjax/what_does_a_booterstresser_site_need_to_do_in/",
+          "author": null,
+          "description": "Ive seen tons of these booter projects and am aware that under certain circumstances the websites themselves are completely legal. what separates Redwolf, from other DDoS sites you find all around in terms of legality. I understand that Redwolf is used legally and the other ones usually arent but what makes the website itself from being legal or illegal?\n    submitted by    /u/raultheuniverse  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/sdbjax/what_does_a_booterstresser_site_need_to_do_in/",
+          "publishedOn": "2022-01-26T17:37:35.000Z",
+          "wordCount": 414,
+          "title": "What does a booter/stresser site need to do in order to be legal?"
+        },
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/sdb9gc/accidentally_dirbed_the_wrong_site/",
+          "author": null,
+          "description": "I was playing around with dirb and was going to run it on a private test site but had a typo and accidentally ran it on an actual website and didn't realize for a few minutes that I had messed it up. Should I reach out to site administrator or be concerned or is it ok?\n EDIT: Lmfao at the comments keep them coming\n    submitted by    /u/Mesachi_06  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/sdb9gc/accidentally_dirbed_the_wrong_site/",
+          "publishedOn": "2022-01-26T17:26:18.000Z",
+          "wordCount": 564,
+          "title": "Accidentally DIRBed the wrong site"
+        },
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/scwy8l/sitting_through_offsec_23_day_exams/",
+          "author": null,
+          "description": "I'm wondering what people with full time jobs and kids are doing about the Offsec courses with 2-3 day exams. Are you just biting the bullet and taking the exam or just taking the training and not taking the exam?\n After OSCP I've been just taking the Offsec trainings and going over material, but without a goal like taking an exam and getting the certification there's very little motivation to study the material. I usually go over the pdf to pick up some new tricks and move on.\n After full day of work and family I don't even know when to find 2-3 days straight to do the exam. I still don't understand why Offsec doesn't change the exams to 5 days and let people do it like it's done in a real world instead of putting unnecessary pressure with ctf style exam time frame.\n Also when I took OSCP exam I didn't have to deal with being monitored. I get up from computer chair every 20 minutes and I can see getting annoyed about having to deal with this for 2-3 days pretty fast.\n    submitted by    /u/ravenoverflow  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/scwy8l/sitting_through_offsec_23_day_exams/",
+          "publishedOn": "2022-01-26T04:11:12.000Z",
+          "wordCount": 1502,
+          "title": "Sitting through Offsec 2-3 day exams"
+        },
         {
           "id": "https://www.reddit.com/r/AskNetsec/comments/scqao4/is_there_anything_equivalent_to_javas/",
           "author": null,
@@ -13942,6 +14248,42 @@
       "siteUrl": "https://www.reddit.com/r/redteamsec/",
       "articles": [
         {
+          "id": "https://www.reddit.com/r/redteamsec/comments/sddzpi/ad_cs_weaponizing_the_esc7_attack_blackarrow/",
+          "author": null,
+          "description": "submitted by    /u/gid0rah  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/redteamsec/comments/sddzpi/ad_cs_weaponizing_the_esc7_attack_blackarrow/",
+          "publishedOn": "2022-01-26T19:21:19.000Z",
+          "wordCount": 125,
+          "title": "AD CS: weaponizing the ESC7 attack - BlackArrow"
+        },
+        {
+          "id": "https://www.reddit.com/r/redteamsec/comments/sdbiys/chvancootennimpacktv1_nimbased_assembly_packer/",
+          "author": null,
+          "description": "submitted by    /u/dmchell  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/redteamsec/comments/sdbiys/chvancootennimpacktv1_nimbased_assembly_packer/",
+          "publishedOn": "2022-01-26T17:37:10.000Z",
+          "wordCount": 121,
+          "title": "chvancooten/NimPackt-v1: Nim-based assembly packer and shellcode loader for opsec & profit"
+        },
+        {
+          "id": "https://www.reddit.com/r/redteamsec/comments/sdbez1/evolved_phishing_device_registration_trick_adds/",
+          "author": null,
+          "description": "submitted by    /u/SCI_Rusher  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/redteamsec/comments/sdbez1/evolved_phishing_device_registration_trick_adds/",
+          "publishedOn": "2022-01-26T17:32:35.000Z",
+          "wordCount": 129,
+          "title": "Evolved phishing: Device registration trick adds to phishers’ toolbox for victims without MFA"
+        },
+        {
+          "id": "https://www.reddit.com/r/redteamsec/comments/sd00r6/hacktivist_group_shares_details_related_to/",
+          "author": null,
+          "description": "submitted by    /u/dmchell  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/redteamsec/comments/sd00r6/hacktivist_group_shares_details_related_to/",
+          "publishedOn": "2022-01-26T07:09:13.000Z",
+          "wordCount": 115,
+          "title": "Hacktivist group shares details related to Belarusian Railways hack"
+        },
+        {
           "id": "https://www.reddit.com/r/redteamsec/comments/scomth/watering_hole_deploys_new_macos_malware_dazzlespy/",
           "author": null,
           "description": "submitted by    /u/dmchell  \n [link]   [comments]",
@@ -15126,6 +15468,33 @@
       "siteUrl": "https://www.reddit.com/r/computerforensics/",
       "articles": [
         {
+          "id": "https://www.reddit.com/r/computerforensics/comments/sdf7r2/password_cracking_tools/",
+          "author": null,
+          "description": "What do you think is a great password cracking tool? \n A pen tester on my team asked me to crack a few passwords and NTLM hashes. I'm new to the team and when the other guy left he wiped everything so the only thing I know we had was PRTK which is a POS in my opinion. I downloaded hashcat but feel like I'm missing something to make it more efficient. Before I spend too much time trying to improve hashcat, what do you use?\n    submitted by    /u/Korgibot  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/computerforensics/comments/sdf7r2/password_cracking_tools/",
+          "publishedOn": "2022-01-26T20:13:44.000Z",
+          "wordCount": 387,
+          "title": "Password cracking tools"
+        },
+        {
+          "id": "https://www.reddit.com/r/computerforensics/comments/sd1s1r/timeline_from_mftecmd_vs_plaso_log2timeline/",
+          "author": null,
+          "description": "I was taught these 2 methods of creating timelines from MFT.\n I am familiar with using the timeline output from MFTECmd. Is there a reason I should be using timeline from plaso & log2timeline?\n Are there benefits or details there I could miss from using MFTECmd? Because it seems slightly more tedious to generate timeline using plaso & log2timeline. \n Comments from those who use both?\n    submitted by    /u/bangfire  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/computerforensics/comments/sd1s1r/timeline_from_mftecmd_vs_plaso_log2timeline/",
+          "publishedOn": "2022-01-26T09:09:03.000Z",
+          "wordCount": 424,
+          "title": "Timeline from MFTECmd VS plaso & log2timeline"
+        },
+        {
+          "id": "https://www.reddit.com/r/computerforensics/comments/scxp46/encase_endpoint/",
+          "author": null,
+          "description": "Any users of this product? How useful do you think it is? Have any real competitors popped up? (I've heard Symantec mentioned) \n I've heard some former customers say it was 10x+ cheaper than running multiple physical extractions with a large consultant\n    submitted by    /u/Nick_Investor  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/computerforensics/comments/scxp46/encase_endpoint/",
+          "publishedOn": "2022-01-26T04:51:24.000Z",
+          "wordCount": 374,
+          "title": "Encase Endpoint"
+        },
+        {
           "id": "https://www.reddit.com/r/computerforensics/comments/scip0c/trainings_or_courses_or_labs/",
           "author": null,
           "description": "Howdy all,\n Any idea where I can find the following for Memory Forensics? I’m trying my best to learn the most of Memory Forensics! Have completed the Cyber Defenders lab! \n Free or Minimal Cost one would be appreciated as I’m just a beginner in my field! \n Thanks!\n    submitted by    /u/GloryHunter9  \n [link]   [comments]",
@@ -15951,6 +16320,78 @@
       "feedUrl": "https://www.reddit.com/r/netsec/.rss",
       "siteUrl": "https://www.reddit.com/r/netsec/",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/netsec/comments/sdipbm/pwnkit_how_to_exploit_and_check/",
+          "author": null,
+          "description": "submitted by    /u/DevSec23  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/netsec/comments/sdipbm/pwnkit_how_to_exploit_and_check/",
+          "publishedOn": "2022-01-26T22:45:18.000Z",
+          "wordCount": 108,
+          "title": "Pwnkit: How to exploit and check"
+        },
+        {
+          "id": "https://www.reddit.com/r/netsec/comments/sdh3q5/reversing_alphv_aka_blackcat_rustbased_ransomware/",
+          "author": null,
+          "description": "submitted by    /u/rsobers  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/netsec/comments/sdh3q5/reversing_alphv_aka_blackcat_rustbased_ransomware/",
+          "publishedOn": "2022-01-26T21:35:11.000Z",
+          "wordCount": 103,
+          "title": "Reversing ALPHV (aka BlackCat): Rust-Based Ransomware"
+        },
+        {
+          "id": "https://www.reddit.com/r/netsec/comments/sdbhmy/bypassing_little_snitch_firewall_with_empty_tcp/",
+          "author": null,
+          "description": "submitted by    /u/hackers_and_builders  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/netsec/comments/sdbhmy/bypassing_little_snitch_firewall_with_empty_tcp/",
+          "publishedOn": "2022-01-26T17:35:36.000Z",
+          "wordCount": 109,
+          "title": "Bypassing Little Snitch Firewall with Empty TCP Packets"
+        },
+        {
+          "id": "https://www.reddit.com/r/netsec/comments/sda12v/perfect_wordlist_to_discover_directories_and/",
+          "author": null,
+          "description": "submitted by    /u/mexhanical  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/netsec/comments/sda12v/perfect_wordlist_to_discover_directories_and/",
+          "publishedOn": "2022-01-26T16:33:37.000Z",
+          "wordCount": 175,
+          "title": "Perfect wordlist to discover directories and files on target size with tools like ffuf."
+        },
+        {
+          "id": "https://www.reddit.com/r/netsec/comments/sd91za/wholeaked_a_filesharing_tool_that_allows_you_to/",
+          "author": null,
+          "description": "submitted by    /u/utku1337  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/netsec/comments/sd91za/wholeaked_a_filesharing_tool_that_allows_you_to/",
+          "publishedOn": "2022-01-26T15:51:41.000Z",
+          "wordCount": 596,
+          "title": "wholeaked: a file-sharing tool that allows you to find the responsible person in case of a leakage"
+        },
+        {
+          "id": "https://www.reddit.com/r/netsec/comments/sd8ete/ad_cs_weaponizing_the_esc7_attack_blackarrow/",
+          "author": null,
+          "description": "submitted by    /u/apanonimo  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/netsec/comments/sd8ete/ad_cs_weaponizing_the_esc7_attack_blackarrow/",
+          "publishedOn": "2022-01-26T15:22:46.000Z",
+          "wordCount": 114,
+          "title": "AD CS: weaponizing the ESC7 attack - BlackArrow"
+        },
+        {
+          "id": "https://www.reddit.com/r/netsec/comments/sd785z/selfcontained_exploit_for_cve20214034_pkexec_1day/",
+          "author": null,
+          "description": "submitted by    /u/ly4k_  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/netsec/comments/sd785z/selfcontained_exploit_for_cve20214034_pkexec_1day/",
+          "publishedOn": "2022-01-26T14:29:36.000Z",
+          "wordCount": 133,
+          "title": "Self-contained exploit for CVE-2021-4034 (Pkexec 1-day LPE)"
+        },
+        {
+          "id": "https://www.reddit.com/r/netsec/comments/sd2dk6/exploit_for_cve20214034_that_does_not_leave/",
+          "author": null,
+          "description": "submitted by    /u/hermajordoctor  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/netsec/comments/sd2dk6/exploit_for_cve20214034_that_does_not_leave/",
+          "publishedOn": "2022-01-26T09:52:13.000Z",
+          "wordCount": 112,
+          "title": "Exploit for CVE-2021-4034 that does not leave syslog entries"
+        },
         {
           "id": "https://www.reddit.com/r/netsec/comments/scn0zl/pwnkit_local_privilege_escalation_in_polkits/",
           "author": null,
@@ -17452,6 +17893,51 @@
       "feedUrl": "https://www.reddit.com/r/opendirectories/.rss",
       "siteUrl": "https://www.reddit.com/r/opendirectories/",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/opendirectories/comments/sdd0g8/10_gib_of_classic_music_in_flac_or_ape_format/",
+          "author": null,
+          "description": "https://funambule.org/classique/\n    submitted by    /u/Appropriate-You-6065  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/opendirectories/comments/sdd0g8/10_gib_of_classic_music_in_flac_or_ape_format/",
+          "publishedOn": "2022-01-26T18:39:55.000Z",
+          "wordCount": 288,
+          "title": "10 GiB of Classic music in FLAC or APE format"
+        },
+        {
+          "id": "https://www.reddit.com/r/opendirectories/comments/sdce1p/how_can_i_stop_getting_my_wifi_flagged/",
+          "author": null,
+          "description": "My network provider (or rather Warner Bros.) has flagged a download that I attempted for Dune (the 2021 movie). I wanna know how I can stop having my WiFi's address flagged for DMCA claims.\n    submitted by    /u/Raven_Claw7621  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/opendirectories/comments/sdce1p/how_can_i_stop_getting_my_wifi_flagged/",
+          "publishedOn": "2022-01-26T18:13:10.000Z",
+          "wordCount": 311,
+          "title": "How can I stop getting my WiFi flagged??"
+        },
+        {
+          "id": "https://www.reddit.com/r/opendirectories/comments/scxsut/aunzca_tv_movie_archive/",
+          "author": null,
+          "description": "submitted by    /u/vsharer  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/opendirectories/comments/scxsut/aunzca_tv_movie_archive/",
+          "publishedOn": "2022-01-26T04:57:11.000Z",
+          "wordCount": 115,
+          "title": "AU/NZ/CA - TV & movie archive"
+        },
+        {
+          "id": "https://www.reddit.com/r/opendirectories/comments/scx52h/rotary_telephones/",
+          "author": null,
+          "description": "submitted by    /u/PM_ME_TO_PLAY_A_GAME  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/opendirectories/comments/scx52h/rotary_telephones/",
+          "publishedOn": "2022-01-26T04:21:14.000Z",
+          "wordCount": 133,
+          "title": "rotary telephones"
+        },
+        {
+          "id": "https://www.reddit.com/r/opendirectories/comments/sctmhs/sooooo_what_happened_to_the_homeland_security_post/",
+          "author": null,
+          "description": "be me\n see post\n click and see files\n nope the fuck out of there....\n  \n   submitted by    /u/ringofyre  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/opendirectories/comments/sctmhs/sooooo_what_happened_to_the_homeland_security_post/",
+          "publishedOn": "2022-01-26T01:27:26.000Z",
+          "wordCount": 372,
+          "title": "Sooooo..... What happened to the Homeland Security post?"
+        },
         {
           "id": "https://www.reddit.com/r/opendirectories/comments/sbr66f/movies_and_series/",
           "author": null,
@@ -19562,15 +20048,6 @@
           "publishedOn": "2021-01-28T15:27:00.000Z",
           "wordCount": 1335,
           "title": "Get started with DevSecOps: insights from Aleksandr Krasnov - Product Security Engineer"
-        },
-        {
-          "id": "burp-suite-roadmap-for-2021",
-          "author": null,
-          "description": "This roadmap has now been updated. Please see our July 2021 roadmap update. We’re all hoping that 2021 will prove to be a better year for humanity. And we’re also planning a great year for Burp Suite!",
-          "link": "https://portswigger.net/blog/burp-suite-roadmap-for-2021",
-          "publishedOn": "2021-01-25T14:23:50.000Z",
-          "wordCount": 1270,
-          "title": "Burp Suite roadmap for 2021"
         }
       ]
     },
@@ -19992,7 +20469,7 @@
           "description": "Fuzzing é uma técnica de teste de software que fornece dados inválidos, ou seja, dados inesperados ou aleatórios como entrada para um…\nContinue reading on Medium »",
           "link": "https://medium.com/@rafaelrenovaci/ethical-hacking-buffer-overflows-parte-2-f0525f3dc4e?source=rss------fuzzing-5",
           "publishedOn": "2022-01-26T00:09:36.000Z",
-          "wordCount": 396,
+          "wordCount": 553,
           "title": "Ethical Hacking — Buffer Overflow Parte 2"
         },
         {
