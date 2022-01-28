@@ -6,6 +6,24 @@
       "siteUrl": "http://h1.nobbd.de/",
       "articles": [
         {
+          "id": "https://hackerone.com/reports/1285226",
+          "author": null,
+          "description": "GitLab disclosed a bug submitted by joaxcar: https://hackerone.com/reports/1285226 - Bounty: $950",
+          "link": "https://hackerone.com/reports/1285226",
+          "publishedOn": "2022-01-27T08:22:06.000Z",
+          "wordCount": 25,
+          "title": "Improper access control for users with expired password, giving the user full access through API and Git"
+        },
+        {
+          "id": "https://hackerone.com/reports/1130376",
+          "author": null,
+          "description": "Zomato disclosed a bug submitted by mosec9: https://hackerone.com/reports/1130376 - Bounty: $350",
+          "link": "https://hackerone.com/reports/1130376",
+          "publishedOn": "2022-01-27T05:44:49.000Z",
+          "wordCount": 25,
+          "title": "subdomain takeover on fddkim.zomato.com"
+        },
+        {
           "id": "https://hackerone.com/reports/1176794",
           "author": null,
           "description": "FetLife disclosed a bug submitted by castilho: https://hackerone.com/reports/1176794 - Bounty: $100",
@@ -1759,6 +1777,51 @@
       "siteUrl": "https://infosecwriteups.com?source=rss----7b722bfd1b8d---4",
       "articles": [
         {
+          "id": "https://medium.com/p/eb44c6f0c253",
+          "author": "Febi Mudiyanto",
+          "description": "The Forensics write-ups",
+          "link": "https://infosecwriteups.com/cyberdefenders-hacked-eb44c6f0c253?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2022-01-27T13:57:36.000Z",
+          "wordCount": 1196,
+          "title": "CyberDefenders | Hacked"
+        },
+        {
+          "id": "https://medium.com/p/4659a834cb8b",
+          "author": "Dheeraj Madhukar",
+          "description": "This question is going around for a long time. Are hackers doing good in the world? Well, instead of hacking into healthcare systems and…",
+          "link": "https://infosecwriteups.com/how-hackers-are-changing-lives-4659a834cb8b?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2022-01-27T13:56:25.000Z",
+          "wordCount": 979,
+          "title": "HOW HACKERS ARE CHANGING LIVES"
+        },
+        {
+          "id": "https://medium.com/p/bb4f664c766d",
+          "author": "Ryan",
+          "description": "A comprehensive walkthrough of TryHackMe’s Bounty Hacker CTF\nContinue reading on InfoSec Write-ups »",
+          "link": "https://infosecwriteups.com/bounty-hacker-ctf-tryhackme-walkthrough-bb4f664c766d?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2022-01-27T13:55:38.000Z",
+          "wordCount": 786,
+          "title": "Bounty Hacker CTF — TryHackMe Walkthrough"
+        },
+        {
+          "id": "https://medium.com/p/e1912f5ee62c",
+          "author": "Ryan",
+          "description": "A comprehensive walkthrough of TryHackMe’s WGEL CTF\nContinue reading on InfoSec Write-ups »",
+          "link": "https://infosecwriteups.com/wgel-ctf-tryhackme-walkthrough-e1912f5ee62c?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2022-01-27T13:54:59.000Z",
+          "wordCount": 909,
+          "title": "WGEL CTF — TryHackMe Walkthrough"
+        },
+        {
+          "id": "https://medium.com/p/377c9fc624bb",
+          "author": "Ayush Verma",
+          "description": "Get all the writeups from Day 1 to 17, Click Here Or Click Here.",
+          "link": "https://infosecwriteups.com/day-19-web-reconnaissance-or-information-gathering-part-4-100daysofhacking-377c9fc624bb?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2022-01-27T13:53:43.000Z",
+          "wordCount": 997,
+          "title": "Day 19, Web Reconnaissance Or Information Gathering — Part 4#100DaysofHacking"
+        },
+        {
           "id": "https://medium.com/p/eb0e3908d9a7",
           "author": "7h3h4ckv157",
           "description": "In this writeup, I’m sharing one of the potential methods to pwn a web challenge on Real world CTF 2022. All challenges built on top of real-world applications & due to the impact of COVID-19, The…",
@@ -2656,6 +2719,42 @@
       "feedUrl": "https://medium.com/feed/tag/bugbounty",
       "siteUrl": "https://medium.com/tag/bugbounty/latest?source=rss------bugbounty-5",
       "articles": [
+        {
+          "id": "https://medium.com/p/2e400cddcd1e",
+          "author": "LIL NIX",
+          "description": "It was about two months ago (November 2021) I was invited to a private program. According to their program scope, I decided to hack them…\nContinue reading on Medium »",
+          "link": "https://medium.com/@LIL__NIX/the-story-of-a-rce-on-a-java-web-application-2e400cddcd1e?source=rss------bugbounty-5",
+          "publishedOn": "2022-01-27T15:14:05.000Z",
+          "wordCount": 1188,
+          "title": "The Story of a RCE on a Java Web Application"
+        },
+        {
+          "id": "https://medium.com/p/dc427662dc12",
+          "author": "yashdharmani",
+          "description": "Hey Folks! Yash Dharmani (H1GH4T) here, Hope you’re all doing good.\nContinue reading on Medium »",
+          "link": "https://yashdharmani.medium.com/how-i-was-able-to-get-hof-in-one-of-the-worlds-leading-hotel-brands-by-30-mins-of-googling-dc427662dc12?source=rss------bugbounty-5",
+          "publishedOn": "2022-01-27T12:41:09.000Z",
+          "wordCount": 458,
+          "title": "How I was able to get HOF in one of the world’s leading hotel brands by 30 mins of googling."
+        },
+        {
+          "id": "https://medium.com/p/599f4c4130d3",
+          "author": "rei_hunt",
+          "description": "Cre:How I was able to find multiple vulnerabilities of a Symfony Web Framework web application | by Abid Ahmad | Jan, 2022 | Medium\nContinue reading on Medium »",
+          "link": "https://rei-hunt.medium.com/t%C3%ACm-nh%E1%BB%AFng-bug-tr%C3%AAn-symfony-599f4c4130d3?source=rss------bugbounty-5",
+          "publishedOn": "2022-01-27T09:37:40.000Z",
+          "wordCount": 411,
+          "title": "Tìm những bug trên Symfony"
+        },
+        {
+          "id": "https://medium.com/p/844cd96a25f7",
+          "author": "Zetta Towne",
+          "description": "You’re My Little Cuddle Bug Read Online\n \n Download Link => You’re My Little Cuddle Bug \n \n Deskripsi Book\n Celebrate your little cuddle…\nContinue reading on Medium »",
+          "link": "https://medium.com/@simple.sto.p568.0/kindle-youre-my-little-cuddle-bug-full-844cd96a25f7?source=rss------bugbounty-5",
+          "publishedOn": "2022-01-27T08:56:58.000Z",
+          "wordCount": 450,
+          "title": "Kindle You’re My Little Cuddle Bug Full"
+        },
         {
           "id": "https://medium.com/p/762b1feefd54",
           "author": "Sentinel Protocol Team",
@@ -5011,6 +5110,51 @@
       "siteUrl": "https://infosecwriteups.com?source=rss----7b722bfd1b8d---4",
       "articles": [
         {
+          "id": "https://medium.com/p/eb44c6f0c253",
+          "author": "Febi Mudiyanto",
+          "description": "The Forensics write-ups",
+          "link": "https://infosecwriteups.com/cyberdefenders-hacked-eb44c6f0c253?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2022-01-27T13:57:36.000Z",
+          "wordCount": 1196,
+          "title": "CyberDefenders | Hacked"
+        },
+        {
+          "id": "https://medium.com/p/4659a834cb8b",
+          "author": "Dheeraj Madhukar",
+          "description": "This question is going around for a long time. Are hackers doing good in the world? Well, instead of hacking into healthcare systems and…",
+          "link": "https://infosecwriteups.com/how-hackers-are-changing-lives-4659a834cb8b?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2022-01-27T13:56:25.000Z",
+          "wordCount": 979,
+          "title": "HOW HACKERS ARE CHANGING LIVES"
+        },
+        {
+          "id": "https://medium.com/p/bb4f664c766d",
+          "author": "Ryan",
+          "description": "A comprehensive walkthrough of TryHackMe’s Bounty Hacker CTF\nContinue reading on InfoSec Write-ups »",
+          "link": "https://infosecwriteups.com/bounty-hacker-ctf-tryhackme-walkthrough-bb4f664c766d?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2022-01-27T13:55:38.000Z",
+          "wordCount": 786,
+          "title": "Bounty Hacker CTF — TryHackMe Walkthrough"
+        },
+        {
+          "id": "https://medium.com/p/e1912f5ee62c",
+          "author": "Ryan",
+          "description": "A comprehensive walkthrough of TryHackMe’s WGEL CTF\nContinue reading on InfoSec Write-ups »",
+          "link": "https://infosecwriteups.com/wgel-ctf-tryhackme-walkthrough-e1912f5ee62c?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2022-01-27T13:54:59.000Z",
+          "wordCount": 909,
+          "title": "WGEL CTF — TryHackMe Walkthrough"
+        },
+        {
+          "id": "https://medium.com/p/377c9fc624bb",
+          "author": "Ayush Verma",
+          "description": "Get all the writeups from Day 1 to 17, Click Here Or Click Here.",
+          "link": "https://infosecwriteups.com/day-19-web-reconnaissance-or-information-gathering-part-4-100daysofhacking-377c9fc624bb?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2022-01-27T13:53:43.000Z",
+          "wordCount": 997,
+          "title": "Day 19, Web Reconnaissance Or Information Gathering — Part 4#100DaysofHacking"
+        },
+        {
           "id": "https://medium.com/p/eb0e3908d9a7",
           "author": "7h3h4ckv157",
           "description": "In this writeup, I’m sharing one of the potential methods to pwn a web challenge on Real world CTF 2022. All challenges built on top of real-world applications & due to the impact of COVID-19, The…",
@@ -5908,6 +6052,15 @@
       "feedUrl": "https://medium.com/feed/tag/osint",
       "siteUrl": "https://medium.com/tag/osint/latest?source=rss------osint-5",
       "articles": [
+        {
+          "id": "https://medium.com/p/935971c5542d",
+          "author": "Levent Durdalı",
+          "description": "OSINT-focused CTF Challenges. OSINT in Goverment, Stego, Crypto multiple languages, WIFI, EXIF and more\nContinue reading on Medium »",
+          "link": "https://medium.com/@leventd/cybersoc-cyber-detective-ctf-write-up-evidence-investigation-935971c5542d?source=rss------osint-5",
+          "publishedOn": "2022-01-27T02:32:23.000Z",
+          "wordCount": 1123,
+          "title": "CyberSoc | Cyber Detective CTF Write Up — Evidence Investigation"
+        },
         {
           "id": "https://medium.com/p/4659a834cb8b",
           "author": "Dheeraj Madhukar",
@@ -7600,6 +7753,15 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=30105994",
+          "author": "kk6mrp",
+          "description": "Article URL: https://ariadne.space/2022/01/27/cve-2021-4034/\nComments URL: https://news.ycombinator.com/item?id=30105994\nPoints: 2\n# Comments: 0",
+          "link": "https://ariadne.space/2022/01/27/cve-2021-4034/",
+          "publishedOn": "2022-01-27T20:26:09.000Z",
+          "wordCount": 1071,
+          "title": "CVE-2021-4034"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=30087809",
           "author": "discordianfish",
           "description": "Article URL: https://github.com/discordianfish/cve-2022-0185-crash-poc/blob/main/crash.c\nComments URL: https://news.ycombinator.com/item?id=30087809\nPoints: 1\n# Comments: 0",
@@ -7993,6 +8155,33 @@
       "feedUrl": "https://hnrss.org/newest?q=vulnerability",
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
+        {
+          "id": "https://news.ycombinator.com/item?id=30103498",
+          "author": "transpute",
+          "description": "Article URL: https://trmm.net/Sleep_attack/\nComments URL: https://news.ycombinator.com/item?id=30103498\nPoints: 1\n# Comments: 0",
+          "link": "https://trmm.net/Sleep_attack/",
+          "publishedOn": "2022-01-27T17:39:59.000Z",
+          "wordCount": 3111,
+          "title": "Sleep Attack: Intel Bootguard vulnerability waking from S3 (2021)"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=30097563",
+          "author": "pmontra",
+          "description": "Article URL: https://neosmart.net/blog/2022/xerox-vulnerability-allows-unauthenticated-network-users-to-remotely-brick-printers/\nComments URL: https://news.ycombinator.com/item?id=30097563\nPoints: 2\n# Comments: 0",
+          "link": "https://neosmart.net/blog/2022/xerox-vulnerability-allows-unauthenticated-network-users-to-remotely-brick-printers/",
+          "publishedOn": "2022-01-27T07:57:09.000Z",
+          "wordCount": 2412,
+          "title": "Xerox vulnerability to remotely brick network printers"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=30094998",
+          "author": "caaqil",
+          "description": "Article URL: https://twitter.com/ryiron/status/1486207182404472832\nComments URL: https://news.ycombinator.com/item?id=30094998\nPoints: 2\n# Comments: 0",
+          "link": "https://twitter.com/ryiron/status/1486207182404472832",
+          "publishedOn": "2022-01-27T01:42:19.000Z",
+          "wordCount": 196,
+          "title": "Polkit vulnerability was discovered in 2013"
+        },
         {
           "id": "https://news.ycombinator.com/item?id=30091276",
           "author": "compsciphd",
@@ -8604,6 +8793,33 @@
       "siteUrl": "https://www.freebuf.com",
       "articles": [
         {
+          "id": "https://www.freebuf.com/articles/network/321054.html",
+          "author": null,
+          "description": "英国国家犯罪局（NCA）的网络犯罪部门正在着手进行一项旨在教育儿童了解 DDoS 攻击后果的计划。",
+          "link": "https://www.freebuf.com/articles/network/321054.html",
+          "publishedOn": "2022-01-27T13:12:06.000Z",
+          "wordCount": 214,
+          "title": "FreeBuf早报 | Tor项目起诉一俄罗斯法院；英国拟向儿童科普DDoS攻击后果"
+        },
+        {
+          "id": "https://www.freebuf.com/articles/database/321032.html",
+          "author": null,
+          "description": "在整个政府范围内启动零信任框架迁移，大幅降低针对联邦政府数字基础设施的网络攻击风险。",
+          "link": "https://www.freebuf.com/articles/database/321032.html",
+          "publishedOn": "2022-01-27T09:31:00.000Z",
+          "wordCount": 144,
+          "title": "美国政府正式发布零信任战略，拟在2024财年前实现特定目标"
+        },
+        {
+          "id": "https://www.freebuf.com/news/321007.html",
+          "author": null,
+          "description": "《行动计划》围绕发展目标，从8个方面部署了26项重点任务。",
+          "link": "https://www.freebuf.com/news/321007.html",
+          "publishedOn": "2022-01-27T03:33:32.000Z",
+          "wordCount": 138,
+          "title": "中央网信办等10部门发布《数字乡村发展行动计划（2022-2025年）》"
+        },
+        {
           "id": "https://www.freebuf.com/news/320970.html",
           "author": null,
           "description": "Polkit的pkexec 组件中存在一个安全漏洞（CVE-2021-4034），这意味着几乎所有的Linux 发行版的默认配置都包含此漏洞，攻击者可通过该漏洞获得系统的root权限。",
@@ -8611,6 +8827,15 @@
           "publishedOn": "2022-01-26T10:59:45.000Z",
           "wordCount": 176,
           "title": "FreeBuf早报 | Linux系统爆出新漏洞，影响所有版本；Segway 电子商店被攻击"
+        },
+        {
+          "id": "https://www.freebuf.com/articles/network/320964.html",
+          "author": null,
+          "description": "钓鱼思路学习研究。",
+          "link": "https://www.freebuf.com/articles/network/320964.html",
+          "publishedOn": "2022-01-26T09:44:37.000Z",
+          "wordCount": 153,
+          "title": "基于钓鱼攻击的技术点研究"
         },
         {
           "id": "https://www.freebuf.com/news/320948.html",
@@ -8649,6 +8874,15 @@
           "title": "《银行保险机构信息科技外包风险监管办法》发布，严控机构外包风险"
         },
         {
+          "id": "https://www.freebuf.com/articles/web/320666.html",
+          "author": null,
+          "description": "本文从Rootkit的生存期、可达成的效果，以及运用这项技术展开攻击的可行性等角度展开讨论。",
+          "link": "https://www.freebuf.com/articles/web/320666.html",
+          "publishedOn": "2022-01-26T03:26:29.000Z",
+          "wordCount": 188,
+          "title": "【Rootkit 系列研究】Windows平台的高隐匿、高持久化威胁"
+        },
+        {
           "id": "https://www.freebuf.com/news/320901.html",
           "author": null,
           "description": "《条例》共五十一条内容，明确提出打造公共数据平台，建立公共数据共享机制，构建公共数据有序开放制度。",
@@ -8656,6 +8890,15 @@
           "publishedOn": "2022-01-26T03:08:14.000Z",
           "wordCount": 138,
           "title": "《浙江省公共数据条例》将于3月1日执行，再次强调个人信息安全"
+        },
+        {
+          "id": "https://www.freebuf.com/fevents/320891.html",
+          "author": null,
+          "description": "14位网络安全行业专家评委，快来一睹真容！",
+          "link": "https://www.freebuf.com/fevents/320891.html",
+          "publishedOn": "2022-01-26T02:16:18.000Z",
+          "wordCount": 141,
+          "title": "首届「网安新势力」大会专家评委团正式公开"
         },
         {
           "id": "https://www.freebuf.com/articles/network/320854.html",
@@ -8701,6 +8944,15 @@
           "publishedOn": "2022-01-25T09:18:07.000Z",
           "wordCount": 338,
           "title": "在 AD FS 中获取你的万能令牌"
+        },
+        {
+          "id": "https://www.freebuf.com/sectool/320781.html",
+          "author": null,
+          "description": "隧道技术是一种通过使用互联网络的基础设施在网络之间传递数据的方式。使用隧道传递的数据(或负载)可以是不同协议的数据帧或包。",
+          "link": "https://www.freebuf.com/sectool/320781.html",
+          "publishedOn": "2022-01-25T02:22:40.000Z",
+          "wordCount": 339,
+          "title": "内网代理工具与检测方法研究"
         },
         {
           "id": "https://www.freebuf.com/articles/neopoints/320768.html",
@@ -11480,6 +11732,15 @@
       "siteUrl": "http://www.sec-wiki.com/",
       "articles": [
         {
+          "id": "http://www.sec-wiki.com/?2022-01-27",
+          "author": null,
+          "description": "2021年物联网设备CVE天梯榜  by ourren\nFlare-On 8th两道题目复现  by ourren\n应急响应-Yara规则木马检测  by ourren\nISOON2021 线下域渗透题解  by ourren\n去中心化上线CS  by ourren\n漏洞监控平台——Monitor  by ourren\n聊聊API安全的重要性及治理思路  by ourren\n更多最新文章，请访问SecWiki",
+          "link": "http://www.sec-wiki.com/?2022-01-27",
+          "publishedOn": "2022-01-27T15:58:20.000Z",
+          "wordCount": 582,
+          "title": "SecWiki News 2022-01-27 Review"
+        },
+        {
           "id": "http://www.sec-wiki.com/?2022-01-26",
           "author": null,
           "description": "2021年度高级威胁研究报告  by ourren\n[HTB] Safe Writeup  by 0x584a\n更多最新文章，请访问SecWiki",
@@ -11891,6 +12152,42 @@
       "feedUrl": "https://www.reddit.com/r/asknetsec/.rss",
       "siteUrl": "https://www.reddit.com/r/asknetsec/",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/se8667/anyone_have_a_good_list_of_people_to_follow_on/",
+          "author": null,
+          "description": "I know twitter is very good for security news, but a lot of the ones I find are just like news sites that don't tell me much about the technical side of new vulnerabilities, attacks and bugs. \n I'm interested in pretty much all topics of security. Appsec, mobile sec, threat modelling, anything. If you have lists of people to follow who go into great technical detail, I'd be very grateful! Thanks!\n    submitted by    /u/Epsi0  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/se8667/anyone_have_a_good_list_of_people_to_follow_on/",
+          "publishedOn": "2022-01-27T20:44:16.000Z",
+          "wordCount": 420,
+          "title": "Anyone have a good list of people to follow on twitter for security updates? Preferably ones that have a lot of technical content."
+        },
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/se2lvy/what_is_the_best_way_to_cleanse_a_pc/",
+          "author": null,
+          "description": "I'm no tech buff so sorry if I'm asking all the wrong questions. but when I was living with family my siblings would test out their spyware hacks on my laptop/phone's I remember on the laptop I could tell when they were trying something because it would start acting funny and on startup or mid session there would be a couple cmd boxes that would appear run something and close out by themselves. recently I'm seeing the same type of things happening mainly on my GF's laptop but we are renting our own apartment so I am a little worried about security. I'm using Avira anti-virus but honestly think these things are a joke. my question is how exactly do you protect against and get rid of attacks like this? I have tried reformatting the drives in the past but that would only last long enough for whatever i deleted to redownload then ill be having the same symptoms all over again. sorry for the broad description like i said I'm not that tech savvy but thanks for you guys time and hopefully can point me in the right direction. much appreciated!\n    submitted by    /u/Questionable_Qs_2655  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/se2lvy/what_is_the_best_way_to_cleanse_a_pc/",
+          "publishedOn": "2022-01-27T16:42:35.000Z",
+          "wordCount": 551,
+          "title": "what is the best way to cleanse a PC?"
+        },
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/sdxukw/how_does_clicking_a_email_link_result_in/",
+          "author": null,
+          "description": "Can someone explain exactly how clicking on a link on a email can install malware on device?\n    submitted by    /u/LagunaLoireFF8  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/sdxukw/how_does_clicking_a_email_link_result_in/",
+          "publishedOn": "2022-01-27T13:00:47.000Z",
+          "wordCount": 321,
+          "title": "How does clicking a email link result in installing malware?"
+        },
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/sdwqc7/how_do_you_manage_auxiliary_ad_accounts_password/",
+          "author": null,
+          "description": "For example, separated admin accounts in an Active Directory without interactive logons (run-as) : you don't get interactive notifications about password expiration for that account... ho do you manage this ? script ?\n    submitted by    /u/arnaudluti  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/sdwqc7/how_do_you_manage_auxiliary_ad_accounts_password/",
+          "publishedOn": "2022-01-27T11:56:41.000Z",
+          "wordCount": 661,
+          "title": "How do you manage auxiliary AD accounts password expiration ?"
+        },
         {
           "id": "https://www.reddit.com/r/AskNetsec/comments/sdkn9f/why_should_sensitive_documents_not_be_sent_via/",
           "author": null,
@@ -14248,6 +14545,24 @@
       "siteUrl": "https://www.reddit.com/r/redteamsec/",
       "articles": [
         {
+          "id": "https://www.reddit.com/r/redteamsec/comments/se706r/stellarparticle_campaign_novel_tactics_and/",
+          "author": null,
+          "description": "submitted by    /u/dmchell  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/redteamsec/comments/se706r/stellarparticle_campaign_novel_tactics_and/",
+          "publishedOn": "2022-01-27T19:52:38.000Z",
+          "wordCount": 112,
+          "title": "StellarParticle Campaign: Novel Tactics and Techniques | CrowdStrike"
+        },
+        {
+          "id": "https://www.reddit.com/r/redteamsec/comments/sdtgv6/prime_ministers_office_compromised_details_of/",
+          "author": null,
+          "description": "submitted by    /u/dmchell  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/redteamsec/comments/sdtgv6/prime_ministers_office_compromised_details_of/",
+          "publishedOn": "2022-01-27T08:12:58.000Z",
+          "wordCount": 115,
+          "title": "Prime Minister’s Office Compromised: Details of Recent Espionage Campaign"
+        },
+        {
           "id": "https://www.reddit.com/r/redteamsec/comments/sddzpi/ad_cs_weaponizing_the_esc7_attack_blackarrow/",
           "author": null,
           "description": "submitted by    /u/gid0rah  \n [link]   [comments]",
@@ -15468,6 +15783,33 @@
       "siteUrl": "https://www.reddit.com/r/computerforensics/",
       "articles": [
         {
+          "id": "https://www.reddit.com/r/computerforensics/comments/seamzo/certification_question/",
+          "author": null,
+          "description": "I am enrolled in a boot camp for Certified Computer Forensics Examiner/ Certified Mobile Forensics Examiner through InfoSec Institute next week. This was to prepare us for IACRB's certifications CCFE/CMFE. This morning, I noticed that InfoSec pulled the original syllabus, IACRB's website is locked down and have since learned that IACRB is now dissolved. InfoSec says that the certification will be now issued by them instead of IACRB (apparently, IACRB was affiliated with them originally). \n I know certifications aren't the end-all, be-all (experience is key, I know). But I want to make sure that I am receiving certs from organizations that are trustworthy. I've seen many job postings asking for the CCFE especially. \n Does this matter at all? Did IACRB's standing show any clout previously and will this now be lost?\n    submitted by    /u/FormerFive0  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/computerforensics/comments/seamzo/certification_question/",
+          "publishedOn": "2022-01-27T22:31:14.000Z",
+          "wordCount": 478,
+          "title": "Certification Question"
+        },
+        {
+          "id": "https://www.reddit.com/r/computerforensics/comments/sdxa8b/help_with_a_ransomware_infected_synology_nas/",
+          "author": null,
+          "description": "Hi all, I recently encountered a Synology NAS with proprietary Synology RAID on both of its 4TB Hdds. I initially intended to acquire both drives and attempt to rebuild the RAID with all possible bit and strip size combinations but realised that it might not be worth it. My objective was to reacquire a readable drive and process the data in AXIOM for timeline, event logs analysis etc. \n My last resort would be to run the NAS on a simulated network to access the files. But I realise that even then I may not be able to target a network drive to acquire the data. Perhaps only log file analysis by exporting Linux artefacts (bash history, recent files, system logs etc)\n Would like to seek advise from those who had previously encountered such exhibits and how you managed to retrieve log records. Would running KAPE on a host network pc targeting the network drive or perhaps using a Tsurugi OS machine and linking it to the NAS to run analysis tools be useful here?\n    submitted by    /u/Drako880  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/computerforensics/comments/sdxa8b/help_with_a_ransomware_infected_synology_nas/",
+          "publishedOn": "2022-01-27T12:29:08.000Z",
+          "wordCount": 521,
+          "title": "Help with a ransomware infected Synology NAS"
+        },
+        {
+          "id": "https://www.reddit.com/r/computerforensics/comments/sdrqbk/did_encase_support_linuxdocker_forensic/",
+          "author": null,
+          "description": "Which Encase enpack can we get memory of Linux physical machine and docker memory?\n Which are the Linux forensic artifacts support by Encase besides user login/bash history/process/network info, any Enpack can use?\n Did Encase provide timeline analysis for linux image/Docker image?\n    submitted by    /u/cyberfo  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/computerforensics/comments/sdrqbk/did_encase_support_linuxdocker_forensic/",
+          "publishedOn": "2022-01-27T06:19:35.000Z",
+          "wordCount": 197,
+          "title": "Did Encase support linux/docker forensic"
+        },
+        {
           "id": "https://www.reddit.com/r/computerforensics/comments/sdf7r2/password_cracking_tools/",
           "author": null,
           "description": "What do you think is a great password cracking tool? \n A pen tester on my team asked me to crack a few passwords and NTLM hashes. I'm new to the team and when the other guy left he wiped everything so the only thing I know we had was PRTK which is a POS in my opinion. I downloaded hashcat but feel like I'm missing something to make it more efficient. Before I spend too much time trying to improve hashcat, what do you use?\n    submitted by    /u/Korgibot  \n [link]   [comments]",
@@ -16321,6 +16663,51 @@
       "siteUrl": "https://www.reddit.com/r/netsec/",
       "articles": [
         {
+          "id": "https://www.reddit.com/r/netsec/comments/se656e/technical_analysis_of_cve202222583_bypassing/",
+          "author": null,
+          "description": "submitted by    /u/shleimeleh  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/netsec/comments/se656e/technical_analysis_of_cve202222583_bypassing/",
+          "publishedOn": "2022-01-27T19:15:04.000Z",
+          "wordCount": 115,
+          "title": "Technical Analysis of CVE-2022-22583: Bypassing macOS System Integrity Protection (SIP)"
+        },
+        {
+          "id": "https://www.reddit.com/r/netsec/comments/se3k50/oss_pwnkit_detector_cve20214034/",
+          "author": null,
+          "description": "submitted by    /u/SRMish3  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/netsec/comments/se3k50/oss_pwnkit_detector_cve20214034/",
+          "publishedOn": "2022-01-27T17:23:21.000Z",
+          "wordCount": 208,
+          "title": "OSS PwnKit Detector (CVE-2021-4034)"
+        },
+        {
+          "id": "https://www.reddit.com/r/netsec/comments/sdzgsf/pwnkit_how_to_detect_privilege_escalation_using/",
+          "author": null,
+          "description": "submitted by    /u/klausagnoletti  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/netsec/comments/sdzgsf/pwnkit_how_to_detect_privilege_escalation_using/",
+          "publishedOn": "2022-01-27T14:20:22.000Z",
+          "wordCount": 109,
+          "title": "PwnKit: How to detect privilege escalation using CrowdSec"
+        },
+        {
+          "id": "https://www.reddit.com/r/netsec/comments/sdw1mp/new_configuring_linux_auditd_for_threat_detection/",
+          "author": null,
+          "description": "submitted by    /u/InH4te  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/netsec/comments/sdw1mp/new_configuring_linux_auditd_for_threat_detection/",
+          "publishedOn": "2022-01-27T11:12:42.000Z",
+          "wordCount": 111,
+          "title": "[New] Configuring Linux AuditD for Threat Detection"
+        },
+        {
+          "id": "https://www.reddit.com/r/netsec/comments/sdm4yf/how_to_use_fapro_to_simulate_multiple_devices_in/",
+          "author": null,
+          "description": "submitted by    /u/ntestoc3  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/netsec/comments/sdm4yf/how_to_use_fapro_to_simulate_multiple_devices_in/",
+          "publishedOn": "2022-01-27T01:27:20.000Z",
+          "wordCount": 143,
+          "title": "How to use FaPro to simulate multiple devices in network"
+        },
+        {
           "id": "https://www.reddit.com/r/netsec/comments/sdipbm/pwnkit_how_to_exploit_and_check/",
           "author": null,
           "description": "submitted by    /u/DevSec23  \n [link]   [comments]",
@@ -16391,6 +16778,15 @@
           "publishedOn": "2022-01-26T09:52:13.000Z",
           "wordCount": 112,
           "title": "Exploit for CVE-2021-4034 that does not leave syslog entries"
+        },
+        {
+          "id": "https://www.reddit.com/r/netsec/comments/scrt2g/webcam_hacking_again_safari_uxss/",
+          "author": null,
+          "description": "submitted by    /u/Straight_Finding_756  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/netsec/comments/scrt2g/webcam_hacking_again_safari_uxss/",
+          "publishedOn": "2022-01-26T00:02:32.000Z",
+          "wordCount": 143,
+          "title": "Webcam Hacking (again) - Safari UXSS"
         },
         {
           "id": "https://www.reddit.com/r/netsec/comments/scn0zl/pwnkit_local_privilege_escalation_in_polkits/",
@@ -17893,6 +18289,15 @@
       "feedUrl": "https://www.reddit.com/r/opendirectories/.rss",
       "siteUrl": "https://www.reddit.com/r/opendirectories/",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/opendirectories/comments/sdrh2o/this_subreddit_in_the_wayback_machine/",
+          "author": null,
+          "description": "https://web.archive.org/web/*/https://www.reddit.com/r/opendirectories/ https://web.archive.org/web/*/https://old.reddit.com/r/opendirectories/ \n ​\n    submitted by    /u/EmuAnon34  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/opendirectories/comments/sdrh2o/this_subreddit_in_the_wayback_machine/",
+          "publishedOn": "2022-01-27T06:03:36.000Z",
+          "wordCount": 202,
+          "title": "This subreddit in the WayBack Machine."
+        },
         {
           "id": "https://www.reddit.com/r/opendirectories/comments/sdd0g8/10_gib_of_classic_music_in_flac_or_ape_format/",
           "author": null,
@@ -20056,6 +20461,15 @@
       "feedUrl": "https://www.hackingarticles.in/feed/",
       "siteUrl": "https://www.hackingarticles.in",
       "articles": [
+        {
+          "id": "https://www.hackingarticles.in/?p=27732",
+          "author": "Raj Chandel",
+          "description": "Introduction Security analysts who have some knowledge about Active Directory and pentesting would know the concept of tickets. Kerberos, the default authentication mechanism in an\nThe post Domain Persistence: Golden Certificate Attack appeared first on Hacking Articles.",
+          "link": "https://www.hackingarticles.in/domain-persistence-golden-certificate-attack/",
+          "publishedOn": "2022-01-27T17:44:01.000Z",
+          "wordCount": 3087,
+          "title": "Domain Persistence: Golden Certificate Attack"
+        },
         {
           "id": "https://www.hackingarticles.in/?p=27721",
           "author": "Raj Chandel",
