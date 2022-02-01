@@ -2,10 +2,483 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cod3crash.github.io/sec-feed/index.html</id>
     <title>security feed</title>
-    <updated>2022-01-31T01:04:21.564Z</updated>
+    <updated>2022-02-01T01:08:50.690Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://cod3crash.github.io/sec-feed/index.html"/>
     <link rel="self" href="https://cod3crash.github.io/sec-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Beginner Bug Bounty Guide - Part 5]]></title>
+        <id>https://medium.com/p/94f10080b3bd</id>
+        <link href="https://takshil-patil529.medium.com/beginner-bug-bounty-guide-part-5-94f10080b3bd?source=rss------bugbounty-5"/>
+        <updated>2022-02-01T00:52:41.000Z</updated>
+        <summary type="html"><![CDATA[Continue reading on Medium »]]></summary>
+        <author>
+            <name>Takshil Patil</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Has my NVR been hacked?]]></title>
+        <id>https://www.reddit.com/r/AskNetsec/comments/shhgca/has_my_nvr_been_hacked/</id>
+        <link href="https://www.reddit.com/r/AskNetsec/comments/shhgca/has_my_nvr_been_hacked/"/>
+        <updated>2022-02-01T00:50:25.000Z</updated>
+        <summary type="html"><![CDATA[Was just looking at my IDS alerts on my pfSense router and noticed the following entries seen in the screenshot here https://imgur.com/a/AMfpMaH. I've done a whois on some of the source IP addresses and they're questionable, to say the least. The device in question is a Hikvision NVR. 
+ My main concern is, has my NVR been hacked and turned into a TOR relay/exit node? Is there anything I can do to test this? I also want to point out that I don't have any ports opened facing the internet for this NVR which is also a bit weird as I thought that would offer me more protection! 
+ TIA
+    submitted by    /u/Bosshogg226  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>AskNetsec</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TheHuzz: Instruction Fuzzing of Processors Using Golden-Reference Models]]></title>
+        <id>https://news.ycombinator.com/item?id=30156948</id>
+        <link href="https://arxiv.org/abs/2201.09941"/>
+        <updated>2022-02-01T00:26:03.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://arxiv.org/abs/2201.09941
+Comments URL: https://news.ycombinator.com/item?id=30156948
+Points: 1
+# Comments: 0]]></summary>
+        <author>
+            <name>matt_d</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Analyzing Malware with Hooks, Stomps and Return-addresses]]></title>
+        <id>https://www.reddit.com/r/netsec/comments/shg64s/analyzing_malware_with_hooks_stomps_and/</id>
+        <link href="https://www.reddit.com/r/netsec/comments/shg64s/analyzing_malware_with_hooks_stomps_and/"/>
+        <updated>2022-01-31T23:49:30.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/jat0369  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>/r/netsec - Information Security News &amp; Discussion</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lots of movies, TV shows, and top shelf porn]]></title>
+        <id>https://www.reddit.com/r/opendirectories/comments/shdcwv/lots_of_movies_tv_shows_and_top_shelf_porn/</id>
+        <link href="https://www.reddit.com/r/opendirectories/comments/shdcwv/lots_of_movies_tv_shows_and_top_shelf_porn/"/>
+        <updated>2022-01-31T21:52:41.000Z</updated>
+        <summary type="html"><![CDATA[192.64.86.228
+    submitted by    /u/inoculatemedia  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Open Directories</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Don't trust comments]]></title>
+        <id>https://www.reddit.com/r/netsec/comments/shcsqi/dont_trust_comments/</id>
+        <link href="https://www.reddit.com/r/netsec/comments/shcsqi/dont_trust_comments/"/>
+        <updated>2022-01-31T21:30:10.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/crower  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>/r/netsec - Information Security News &amp; Discussion</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Multiple firewall layers - are they necessary?]]></title>
+        <id>https://www.reddit.com/r/AskNetsec/comments/shc31o/multiple_firewall_layers_are_they_necessary/</id>
+        <link href="https://www.reddit.com/r/AskNetsec/comments/shc31o/multiple_firewall_layers_are_they_necessary/"/>
+        <updated>2022-01-31T21:01:16.000Z</updated>
+        <summary type="html"><![CDATA[I was sitting around today pulling my hair out at the prospect of automating rulebases, objects, etc across the separate vendors we use for our edge and internal firewall. Then the question hit me - why do we even have an internal firewall? 
+ Our edge FW is a Palo capable of everything the internal FW does and then some. So why can't I simply take everything hanging off the internal FW, move it to the edge FW, and save some money while making my life much easier? The only things I can come up with that we lose are vendor diversity and physical separation.
+ Am I crazy or missing something? If not - would I even gain anything out of VIRTUALLY splitting those firewalls via different vsys on the Palos (I imagine not)?
+ Thanks!
+    submitted by    /u/difflx2112  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>AskNetsec</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Modbus Traversal?]]></title>
+        <id>https://www.reddit.com/r/AskNetsec/comments/shaou3/modbus_traversal/</id>
+        <link href="https://www.reddit.com/r/AskNetsec/comments/shaou3/modbus_traversal/"/>
+        <updated>2022-01-31T20:05:39.000Z</updated>
+        <summary type="html"><![CDATA[My company has an air\gas utility monitor that's connected over cellular back to the utility provider for monitoring and reporting. Currently isolated from anything else. Our Facilities team want to put a modbus TCP device on it for our own internal monitoring and reporting.
+ Anyone have experience with this sort of setup? If someone were to gain access to the utility monitor over cellular could they then utilize modbus to control and traverse our network through the modbus\TCP gateway?
+    submitted by    /u/ThePaulHarrell  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>AskNetsec</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Any special tips for a soon to be CISO?]]></title>
+        <id>https://www.reddit.com/r/AskNetsec/comments/sh9gus/any_special_tips_for_a_soon_to_be_ciso/</id>
+        <link href="https://www.reddit.com/r/AskNetsec/comments/sh9gus/any_special_tips_for_a_soon_to_be_ciso/"/>
+        <updated>2022-01-31T19:17:08.000Z</updated>
+        <summary type="html"><![CDATA[Hello,
+ I'm about to become the CISO for a school
+ I'm pretty confident on what I should do and what should be my first steps but I would like to know if any of you have any uncommon tips?
+ Any good podcast/news source for example ?
+ ​
+ Thanks !
+    submitted by    /u/elminstor  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>AskNetsec</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Movies, Documentaries, music, TV Series etc]]></title>
+        <id>https://www.reddit.com/r/opendirectories/comments/sh7enu/movies_documentaries_music_tv_series_etc/</id>
+        <link href="https://www.reddit.com/r/opendirectories/comments/sh7enu/movies_documentaries_music_tv_series_etc/"/>
+        <updated>2022-01-31T17:54:51.000Z</updated>
+        <summary type="html"><![CDATA[Quite a handful of TV Shows, Movies, Documentaries etc. Some content may be NSFW. 
+ ​
+ http://188.165.227.112/portail/
+    submitted by    /u/amritajaatak  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Open Directories</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How I approached Dependency Confusion!]]></title>
+        <id>https://medium.com/p/272b46f66907</id>
+        <link href="https://hetroublemakr.medium.com/how-i-approached-dependency-confusion-272b46f66907?source=rss------bugbounty-5"/>
+        <updated>2022-01-31T17:10:25.000Z</updated>
+        <summary type="html"><![CDATA[Hi People, In this blog, I will be sharing my approach for finding Dependency Confusion bugs.
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Aditya Soni</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RCE and Auth Bypass in Aqua Illumination Hydra Series Aquarium Lights]]></title>
+        <id>https://www.reddit.com/r/netsec/comments/sh52di/rce_and_auth_bypass_in_aqua_illumination_hydra/</id>
+        <link href="https://www.reddit.com/r/netsec/comments/sh52di/rce_and_auth_bypass_in_aqua_illumination_hydra/"/>
+        <updated>2022-01-31T16:20:58.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/laransec  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>/r/netsec - Information Security News &amp; Discussion</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Walkthrough — Hacktoria: Geolocation 02]]></title>
+        <id>https://medium.com/p/a987eef13dbe</id>
+        <link href="https://gralhix.medium.com/walkthrough-hacktoria-geolocation-02-a987eef13dbe?source=rss------osint-5"/>
+        <updated>2022-01-31T16:19:34.000Z</updated>
+        <summary type="html"><![CDATA[After having so much fun solving Hacktoria’s Geolocation — 01 challenge yesterday, I have decided today to go for the 2nd challenge.
+Here…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Sofia Santos</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SecWiki News 2022-01-31 Review]]></title>
+        <id>http://www.sec-wiki.com/?2022-01-31</id>
+        <link href="http://www.sec-wiki.com/?2022-01-31"/>
+        <updated>2022-01-31T15:58:20.000Z</updated>
+        <summary type="html"><![CDATA[SecWiki周刊（第413期)  by ourren
+配置错误注入测试中的挑战与机遇  by ourren
+更多最新文章，请访问SecWiki]]></summary>
+        <author>
+            <name>SecWiki News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reverse Engineering 3201: Symbolic Analysis]]></title>
+        <id>https://www.reddit.com/r/netsec/comments/sh3sl9/reverse_engineering_3201_symbolic_analysis/</id>
+        <link href="https://www.reddit.com/r/netsec/comments/sh3sl9/reverse_engineering_3201_symbolic_analysis/"/>
+        <updated>2022-01-31T15:26:51.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/OpenSecurityTraining  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>/r/netsec - Information Security News &amp; Discussion</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A story of leaking uninitialized memory from Fastly]]></title>
+        <id>https://www.reddit.com/r/netsec/comments/sh2szl/a_story_of_leaking_uninitialized_memory_from/</id>
+        <link href="https://www.reddit.com/r/netsec/comments/sh2szl/a_story_of_leaking_uninitialized_memory_from/"/>
+        <updated>2022-01-31T14:42:52.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/albinowax  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>/r/netsec - Information Security News &amp; Discussion</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TrendNET AC2600 RCE from the Internet]]></title>
+        <id>https://www.reddit.com/r/netsec/comments/sh2q8b/trendnet_ac2600_rce_from_the_internet/</id>
+        <link href="https://www.reddit.com/r/netsec/comments/sh2q8b/trendnet_ac2600_rce_from_the_internet/"/>
+        <updated>2022-01-31T14:39:27.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/dinobyt3s  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>/r/netsec - Information Security News &amp; Discussion</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Quiztime — Random OSINT Challenge 7]]></title>
+        <id>https://medium.com/p/fc0d5113bec3</id>
+        <link href="https://medium.com/@leventd/quiztime-random-osint-challenge-7-fc0d5113bec3?source=rss------osint-5"/>
+        <updated>2022-01-31T14:32:19.000Z</updated>
+        <summary type="html"><![CDATA[On Jan 12, 2022, Quiztime (contributor @twone2) shared a new OSINT quiz with us. The objective was simple. We had to figure out where and…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Levent Durdalı</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is OSINT?(Part 1): A practical introduction!]]></title>
+        <id>https://medium.com/p/bf46751289c</id>
+        <link href="https://roddytech.medium.com/what-is-osint-part-1-a-practical-introduction-bf46751289c?source=rss------osint-5"/>
+        <updated>2022-01-31T14:05:55.000Z</updated>
+        <summary type="html"><![CDATA[This article was written in collaboration with the marvelous Aardwarewolf
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>RoddyT3ch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is OSINT? (Part 1)]]></title>
+        <id>https://medium.com/p/91aaa3890643</id>
+        <link href="https://medium.com/@Aardwarewolf/what-is-osint-part-1-91aaa3890643?source=rss------osint-5"/>
+        <updated>2022-01-31T14:05:33.000Z</updated>
+        <summary type="html"><![CDATA[A practical introduction
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Aardwarewolf</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Computer and phone security]]></title>
+        <id>https://www.reddit.com/r/AskNetsec/comments/sh1zxz/computer_and_phone_security/</id>
+        <link href="https://www.reddit.com/r/AskNetsec/comments/sh1zxz/computer_and_phone_security/"/>
+        <updated>2022-01-31T14:04:34.000Z</updated>
+        <summary type="html"><![CDATA[1) Thank you all for your suggestions on my former question.
+ Id like to ask about some ways to secure an Android phone and a Windows computer. I am specifically looking for software and/or prefered settings to block intrusions from physical and wireless access in 2 scenarios 1) Someone gets the phone/computer physically and 2) Someone accesses it wirelessly.
+ Id like to know what to do so the data are unreadable (Preferably encrypted) in scenario 1 while still keeping the phone/computer capable of basic functioning and so the phone/computer is harder to get into for attackers in (or before) scenario 2. 
+ Lets assume both devices are up-to-date with antivirus and firewall (When applicable).
+ Id like to know the best method even if it means going around some hidden functions of the devices
+    submitted by    /u/O-0111  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>AskNetsec</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vulnerability in PostBus public transport platform exposed customer data]]></title>
+        <id>https://news.ycombinator.com/item?id=30147933</id>
+        <link href="https://portswigger.net/daily-swig/vulnerability-in-postbus-public-transport-platform-exposed-customer-data"/>
+        <updated>2022-01-31T14:01:42.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://portswigger.net/daily-swig/vulnerability-in-postbus-public-transport-platform-exposed-customer-data
+Comments URL: https://news.ycombinator.com/item?id=30147933
+Points: 1
+# Comments: 0]]></summary>
+        <author>
+            <name>feross</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Descriptive logic in Mobile Security]]></title>
+        <id>https://www.reddit.com/r/AskNetsec/comments/sh1and/descriptive_logic_in_mobile_security/</id>
+        <link href="https://www.reddit.com/r/AskNetsec/comments/sh1and/descriptive_logic_in_mobile_security/"/>
+        <updated>2022-01-31T13:30:53.000Z</updated>
+        <summary type="html"><![CDATA[Hi everyone! I'm a cybersecurity student and want to ask a slightly "stupid" question. In my program, there is a subject "Mobile security" where I was given the task to read a descriptive logic book of 500+ pages. So I wanted to ask, what does descriptive logic have to do with Mobile Security? Do you need to know and study this science to ensure the security of an application?
+    submitted by    /u/_hanabi_n  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>AskNetsec</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Puzzling RDP Cache - Putting the Pieces Together]]></title>
+        <id>https://www.reddit.com/r/computerforensics/comments/sh0xfs/puzzling_rdp_cache_putting_the_pieces_together/</id>
+        <link href="https://www.reddit.com/r/computerforensics/comments/sh0xfs/puzzling_rdp_cache_putting_the_pieces_together/"/>
+        <updated>2022-01-31T13:11:44.000Z</updated>
+        <summary type="html"><![CDATA[Good morning,
+ It’s time for a new 13Cubed episode! Let's take a look at an easier way to reassemble RDP bitmap cache. And, if you're a little rusty on where to find the cache and how to export it, we'll cover that too! 
+ Episode:
+ https://www.youtube.com/watch?v=9P845AMjJF0
+ Episode Guide:
+ https://www.13cubed.com/episodes/ 
+ 13Cubed YouTube Channel:
+ https://www.youtube.com/13cubed 
+ 13Cubed Patreon (Help support the channel and get early access to content and other perks!):
+ https://www.patreon.com/13cubed
+    submitted by    /u/13Cubed  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Computer Forensics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Investigating Russian Number Plates]]></title>
+        <id>https://medium.com/p/80d88067dfb5</id>
+        <link href="https://medium.com/@banditintel/investigating-russian-number-plates-80d88067dfb5?source=rss------osint-5"/>
+        <updated>2022-01-31T12:45:40.000Z</updated>
+        <summary type="html"><![CDATA[Russian number plates come in a variety of shapes and sizes and can reveal interesting information regarding the owner of a target vehicle…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>IntelBandit</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[XSS Discovery and Exploitation With BurpSuite]]></title>
+        <id>https://medium.com/p/91d98865c1ee</id>
+        <link href="https://medium.com/@kaorrosi/xss-discovery-and-exploitation-with-burpsuite-91d98865c1ee?source=rss------bugbounty-5"/>
+        <updated>2022-01-31T11:54:28.000Z</updated>
+        <summary type="html"><![CDATA[I’ve recently completed TryHackMe’s cross-site-scripting room and PortSwigger’s XSS labs and here’s what I’ve learned! This piece assumes…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Kaorrosi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[rDEX Bug Bounty]]></title>
+        <id>https://medium.com/p/789934e94ff1</id>
+        <link href="https://olalekanalaka11.medium.com/rdex-bug-bounty-789934e94ff1?source=rss------bugbounty-5"/>
+        <updated>2022-01-31T11:43:30.000Z</updated>
+        <summary type="html"><![CDATA[Overview
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Alaka Olalekan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vulnerability Capstone — Tryhackme]]></title>
+        <id>https://medium.com/p/b0e520720dcf</id>
+        <link href="https://mukibas37.medium.com/vulnerability-capstone-tryhackme-b0e520720dcf?source=rss------bugbounty-5"/>
+        <updated>2022-01-31T11:25:25.000Z</updated>
+        <summary type="html"><![CDATA[Vulnerability Researching
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Mukilan Baskaran</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[MFA] Could a managed laptop count as a possession factor?]]></title>
+        <id>https://www.reddit.com/r/AskNetsec/comments/sgye19/mfa_could_a_managed_laptop_count_as_a_possession/</id>
+        <link href="https://www.reddit.com/r/AskNetsec/comments/sgye19/mfa_could_a_managed_laptop_count_as_a_possession/"/>
+        <updated>2022-01-31T10:42:35.000Z</updated>
+        <summary type="html"><![CDATA[Hi,
+ I am supposed to secure a remote connection of company laptops with two factors. The devices are managed by Intune with conditional access. You need a company managed device to connect to the company network.
+ Do you think that per definition the managed device with conditional access could count as a possession factor in a multi-factor authentication?
+ Wikipedia says about the possession factor
+  
+Possession factors ("something only the user has") have been used for authentication for centuries, in the form of a key to a lock. The basic principle is that the key embodies a secret that is shared between the lock and the key, and the same principle underlies possession factor authentication in computer systems. A security token is an example of a possession factor. 
+  
+One could argue that the device itself could count as a possession. It's not personalized but you still require one device out of a few hundred and one set of credentials to establish a connection.
+    submitted by    /u/Vertripper  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>AskNetsec</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Inspector-gadget: exploit for a vulnerability in the Linux USB Gadget]]></title>
+        <id>https://news.ycombinator.com/item?id=30146403</id>
+        <link href="https://github.com/szymonh/inspector-gadget"/>
+        <updated>2022-01-31T10:05:42.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/szymonh/inspector-gadget
+Comments URL: https://news.ycombinator.com/item?id=30146403
+Points: 2
+# Comments: 0]]></summary>
+        <author>
+            <name>G4E</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How I was able to buy a product for free — $$$]]></title>
+        <id>https://medium.com/p/e91516409ffc</id>
+        <link href="https://radianid.medium.com/how-i-was-able-to-buy-a-product-for-free-e91516409ffc?source=rss------bugbounty-5"/>
+        <updated>2022-01-31T09:43:48.000Z</updated>
+        <summary type="html"><![CDATA[Hi everyone, I hope you are good. It’s been a long time I haven’t write again. So in this article I will share about my finding..
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Radian ID</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[First Time Hacking The Cloud]]></title>
+        <id>https://medium.com/p/205751a4c61</id>
+        <link href="https://shellbr3ak.medium.com/first-time-hacking-the-cloud-205751a4c61?source=rss------fuzzing-5"/>
+        <updated>2022-01-31T08:11:25.000Z</updated>
+        <summary type="html"><![CDATA[What’s going on hacker folks, this is shellbreak back again with another blog post, but this time, it will be about how I found my first…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Shellbr3ak</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[First Time Hacking The Cloud]]></title>
+        <id>https://medium.com/p/205751a4c61</id>
+        <link href="https://shellbr3ak.medium.com/first-time-hacking-the-cloud-205751a4c61?source=rss------fuzzing-5"/>
+        <updated>2022-01-31T08:11:25.000Z</updated>
+        <summary type="html"><![CDATA[What’s going on hacker folks, this is shellbreak back again with another blog post, but this time, it will be about how I found my first…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Shellbr3ak</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Discovered IDOR vuln that reveal vaccination records]]></title>
+        <id>https://www.reddit.com/r/AskNetsec/comments/sgsqz1/discovered_idor_vuln_that_reveal_vaccination/</id>
+        <link href="https://www.reddit.com/r/AskNetsec/comments/sgsqz1/discovered_idor_vuln_that_reveal_vaccination/"/>
+        <updated>2022-01-31T04:53:43.000Z</updated>
+        <summary type="html"><![CDATA[Hello NetSec, 
+ Upon receiving my vaccination record, I discovered that I was able retrieve other vaccination records along with other patient data by simply incrementing url values. Worst part is that you can retrieve these records without being authenticated. The application initially authenticate patients to retrieve the records but, I found out you can reach the URL without being authenticated. Looking for suggestions to responsibly disclose this issue to the laboratory. I'm sure this is a violation of hipaa.
+    submitted by    /u/nocmd  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>AskNetsec</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Failed GNFA looking for tips and any advise for better learning in a better way]]></title>
+        <id>https://www.reddit.com/r/computerforensics/comments/sgqpi5/failed_gnfa_looking_for_tips_and_any_advise_for/</id>
+        <link href="https://www.reddit.com/r/computerforensics/comments/sgqpi5/failed_gnfa_looking_for_tips_and_any_advise_for/"/>
+        <updated>2022-01-31T03:10:12.000Z</updated>
+        <summary type="html"><![CDATA[Just failed my GNFA and i feel really bad; Anyone can help me out for any mental boost up by advising how i could be better in next go.
+    submitted by    /u/xray_icon  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Computer Forensics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[สาวแซ่บแบ่งรายได้จากคลิปเสียวใน OnlyFans ช่วยทหารผ่านศึก พร้อมเผยฝันอันยิ่งใหญ่]]></title>
+        <id>https://medium.com/p/e0f0537c636</id>
+        <link href="https://medium.com/@gforjks/%E0%B8%AA%E0%B8%B2%E0%B8%A7%E0%B9%81%E0%B8%8B%E0%B9%88%E0%B8%9A%E0%B9%81%E0%B8%9A%E0%B9%88%E0%B8%87%E0%B8%A3%E0%B8%B2%E0%B8%A2%E0%B9%84%E0%B8%94%E0%B9%89%E0%B8%88%E0%B8%B2%E0%B8%81%E0%B8%84%E0%B8%A5%E0%B8%B4%E0%B8%9B%E0%B9%80%E0%B8%AA%E0%B8%B5%E0%B8%A2%E0%B8%A7%E0%B9%83%E0%B8%99-onlyfans-%E0%B8%8A%E0%B9%88%E0%B8%A7%E0%B8%A2%E0%B8%97%E0%B8%AB%E0%B8%B2%E0%B8%A3%E0%B8%9C%E0%B9%88%E0%B8%B2%E0%B8%99%E0%B8%A8%E0%B8%B6%E0%B8%81-%E0%B8%9E%E0%B8%A3%E0%B9%89%E0%B8%AD%E0%B8%A1%E0%B9%80%E0%B8%9C%E0%B8%A2%E0%B8%9D%E0%B8%B1%E0%B8%99%E0%B8%AD%E0%B8%B1%E0%B8%99%E0%B8%A2%E0%B8%B4%E0%B9%88%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88-e0f0537c636?source=rss------xss-5"/>
+        <updated>2022-01-31T02:57:56.000Z</updated>
+        <summary type="html"><![CDATA[เดลี่สตาร์ รายงานเรื่องราวของ คามี่ สเตรลล่า สาวแซ่บดาวเด่นบนแพลตฟอร์มสำหรับผู้ใหญ่อย่าง OnlyFans ที่เปิดเผยถึงความฝันในอนาคต…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>GLORJ DKKSR</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Career advice request]]></title>
+        <id>https://www.reddit.com/r/AskNetsec/comments/sgpj0m/career_advice_request/</id>
+        <link href="https://www.reddit.com/r/AskNetsec/comments/sgpj0m/career_advice_request/"/>
+        <updated>2022-01-31T02:12:43.000Z</updated>
+        <summary type="html"><![CDATA[I’m currently a web application developer going on 10 years now. I also have 7 years in systems and network administration. I’ve always wanted to get into cybersecurity, but with so many roles out there, most asking for several years in security, I’m not sure what I’m actually qualified for. Over the years my networking knowledge and muscle memory have depleted, and perhaps feeling a bit imposter syndromey. The last server OS I supported was Windows Server 2003 so you could say I’m not up to speed on latest tech in the greater IT sphere. Also, I’m in my early 40s if that matters at all.
+ Just looking for some general advice as to what, if anything, I should target my job search around. I’m definitely up to refresh/update my current skills with courses or whatever providing it makes sense to even pursue at this stage in my career. Thanks I’m advance.
+    submitted by    /u/zushazero  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>AskNetsec</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How I Found A Simple Stored XSS]]></title>
+        <id>https://medium.com/p/a2976c5251b</id>
+        <link href="https://medium.com/@raymond-lind/how-i-found-a-simple-stored-xss-a2976c5251b?source=rss------bugbounty-5"/>
+        <updated>2022-01-31T00:58:02.000Z</updated>
+        <summary type="html"><![CDATA[This is the story of how I found my first Stored XSS (“Cross Site Scripting”) vulnerability in a bug bounty program and a walk through on…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Raymond Lind</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Archive of software for the Tandy Radio Shack - TRS-80 Model III]]></title>
         <id>https://www.reddit.com/r/opendirectories/comments/sglgsg/archive_of_software_for_the_tandy_radio_shack/</id>
@@ -28474,16 +28947,6 @@ The article illustrates, via fig 4, Powershell being used to add a printer port 
  [link]   [comments]]]></summary>
         <author>
             <name>Exploit Development</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to enable dark mode in Burp Suite]]></title>
-        <id>how-to-enable-dark-mode-in-burp-suite</id>
-        <link href="https://portswigger.net/blog/how-to-enable-dark-mode-in-burp-suite"/>
-        <updated>2021-02-01T10:06:21.000Z</updated>
-        <summary type="html"><![CDATA[To enable dark mode in Burp Suite, go to the "User options" > "Display" tab. In the "User Interface" section, you can select either the light or dark theme from a drop-down menu. This option is ava]]></summary>
-        <author>
-            <name>PortSwigger Blog</name>
         </author>
     </entry>
 </feed>
