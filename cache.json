@@ -6,6 +6,60 @@
       "siteUrl": "http://h1.nobbd.de/",
       "articles": [
         {
+          "id": "https://hackerone.com/reports/968240",
+          "author": null,
+          "description": "ExpressionEngine disclosed a bug submitted by khoabda1: https://hackerone.com/reports/968240",
+          "link": "https://hackerone.com/reports/968240",
+          "publishedOn": "2022-02-01T21:12:53.000Z",
+          "wordCount": 25,
+          "title": "SQL injection at /admin.php?/cp/members/create"
+        },
+        {
+          "id": "https://hackerone.com/reports/1337624",
+          "author": null,
+          "description": "Brave Software disclosed a bug submitted by kkarfalcon: https://hackerone.com/reports/1337624 - Bounty: $500",
+          "link": "https://hackerone.com/reports/1337624",
+          "publishedOn": "2022-02-01T19:32:16.000Z",
+          "wordCount": 25,
+          "title": "Information disclosure-Referer leak"
+        },
+        {
+          "id": "https://hackerone.com/reports/1433581",
+          "author": null,
+          "description": "h1-ctf disclosed a bug submitted by w31rd0: https://hackerone.com/reports/1433581 - Bounty: $1000",
+          "link": "https://hackerone.com/reports/1433581",
+          "publishedOn": "2022-02-01T17:44:10.000Z",
+          "wordCount": 25,
+          "title": "The Return of the Grinch"
+        },
+        {
+          "id": "https://hackerone.com/reports/1434017",
+          "author": null,
+          "description": "h1-ctf disclosed a bug submitted by akshansh: https://hackerone.com/reports/1434017 - Bounty: $1000",
+          "link": "https://hackerone.com/reports/1434017",
+          "publishedOn": "2022-02-01T17:42:56.000Z",
+          "wordCount": 25,
+          "title": "Saving Christmas from Grinchy Gods"
+        },
+        {
+          "id": "https://hackerone.com/reports/1406938",
+          "author": null,
+          "description": "Dropbox disclosed a bug submitted by bugdiscloseguys: https://hackerone.com/reports/1406938 - Bounty: $17576",
+          "link": "https://hackerone.com/reports/1406938",
+          "publishedOn": "2022-02-01T14:53:40.000Z",
+          "wordCount": 25,
+          "title": "Full Response SSRF via Google Drive"
+        },
+        {
+          "id": "https://hackerone.com/reports/1454359",
+          "author": null,
+          "description": "VK.com disclosed a bug submitted by b4walid: https://hackerone.com/reports/1454359 - Bounty: $500",
+          "link": "https://hackerone.com/reports/1454359",
+          "publishedOn": "2022-02-01T13:09:52.000Z",
+          "wordCount": 25,
+          "title": "Reflected Xss On https://vk.com/search"
+        },
+        {
           "id": "https://hackerone.com/reports/1380121",
           "author": null,
           "description": "Urban Company disclosed a bug submitted by ian: https://hackerone.com/reports/1380121 - Bounty: $1500",
@@ -1822,6 +1876,78 @@
       "siteUrl": "https://infosecwriteups.com?source=rss----7b722bfd1b8d---4",
       "articles": [
         {
+          "id": "https://medium.com/p/78ee748915c4",
+          "author": "InfoSec Write-ups",
+          "description": "Register today to be a part of the coolest Cybersecurity conference of 2022!",
+          "link": "https://infosecwriteups.com/check-out-the-speakers-for-iwcon-2022-78ee748915c4?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2022-02-01T12:28:51.000Z",
+          "wordCount": 472,
+          "title": "Check Out the Speakers for IWCON 2022"
+        },
+        {
+          "id": "https://medium.com/p/d8ec62ad25ac",
+          "author": "Febi Mudiyanto",
+          "description": "Last time, I have written an article about making a USB Rubber Ducky with less than $3 and I did a simple test and attach how to…",
+          "link": "https://infosecwriteups.com/hack-a-linux-desktop-with-the-cheapest-usb-rubber-ducky-and-the-android-terminal-termux-d8ec62ad25ac?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2022-02-01T06:28:43.000Z",
+          "wordCount": 853,
+          "title": "Hack a Linux Desktop with The Cheapest USB Rubber Ducky and The Android Terminal (Termux)"
+        },
+        {
+          "id": "https://medium.com/p/3e8d44446378",
+          "author": "Ramalingasamy",
+          "description": "Hey fellow hackers and Bug hunters,",
+          "link": "https://infosecwriteups.com/how-i-exposed-the-teachers-aadhaar-card-bank-details-in-the-college-website-3e8d44446378?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2022-02-01T06:27:23.000Z",
+          "wordCount": 648,
+          "title": "How I exposed the teacher’s Aadhaar card, bank details on the college website."
+        },
+        {
+          "id": "https://medium.com/p/73f7b310b1f7",
+          "author": "hac#",
+          "description": "what is Steganography? where it is used? Steganography in CTF’s",
+          "link": "https://infosecwriteups.com/steganography-ctfs-73f7b310b1f7?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2022-02-01T06:23:14.000Z",
+          "wordCount": 893,
+          "title": "Understanding Steganography for Capture The Flag Challenges"
+        },
+        {
+          "id": "https://medium.com/p/11624e4e9eef",
+          "author": "Lohith Gowda M",
+          "description": "Hello Everyone….",
+          "link": "https://infosecwriteups.com/paytm-broken-link-hijacking-11624e4e9eef?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2022-02-01T06:22:52.000Z",
+          "wordCount": 838,
+          "title": "Paytm-Broken Link Hijacking"
+        },
+        {
+          "id": "https://medium.com/p/15b7a28c9c0f",
+          "author": "Mukilan Baskaran",
+          "description": "Ctf info writeup",
+          "link": "https://infosecwriteups.com/tryhackme-extending-your-network-15b7a28c9c0f?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2022-02-01T06:22:00.000Z",
+          "wordCount": 1072,
+          "title": "TryHackMe — Extending Your Network"
+        },
+        {
+          "id": "https://medium.com/p/f7d215d93841",
+          "author": "Thirukrishnan",
+          "description": "Day-1",
+          "link": "https://infosecwriteups.com/everyday-cyber-f7d215d93841?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2022-02-01T06:20:14.000Z",
+          "wordCount": 1186,
+          "title": "Everyday-Cyber"
+        },
+        {
+          "id": "https://medium.com/p/2e400cddcd1e",
+          "author": "LIL NIX",
+          "description": "It was about two months ago (November 2021) I was invited to a private program. According to their program scope, I decided to hack them…",
+          "link": "https://infosecwriteups.com/the-story-of-a-rce-on-a-java-web-application-2e400cddcd1e?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2022-02-01T06:19:37.000Z",
+          "wordCount": 1591,
+          "title": "The Story of an RCE on a Java Web Application"
+        },
+        {
           "id": "https://medium.com/p/ed97027121cb",
           "author": "Febi Mudiyanto",
           "description": "Local File Inclusion Vulnerability",
@@ -2782,6 +2908,96 @@
       "feedUrl": "https://medium.com/feed/tag/bugbounty",
       "siteUrl": "https://medium.com/tag/bugbounty/latest?source=rss------bugbounty-5",
       "articles": [
+        {
+          "id": "https://medium.com/p/39a3a9fc93f6",
+          "author": "nOOb_mAsTeR",
+          "description": "Firstly I would like to say that this is my first ever writeup for the InfoSec community and I may not be so good at presenting the…\nContinue reading on Medium »",
+          "link": "https://medium.com/@noob_master/no-rate-limiting-on-otp-sending-39a3a9fc93f6?source=rss------bugbounty-5",
+          "publishedOn": "2022-02-01T19:07:39.000Z",
+          "wordCount": 612,
+          "title": "No Rate Limiting on OTP sending"
+        },
+        {
+          "id": "https://medium.com/p/2fba63328c0e",
+          "author": "Immunefi",
+          "description": "As a whitehat, it’s easy to want to submit as many bugs as possible to a project — especially projects on Immunefi, because the bounties…\nContinue reading on Immunefi »",
+          "link": "https://medium.com/immunefi/theoretical-bugs-with-no-impact-dont-get-paid-here-s-why-2fba63328c0e?source=rss------bugbounty-5",
+          "publishedOn": "2022-02-01T18:18:50.000Z",
+          "wordCount": 663,
+          "title": "Theoretical Bugs With No Impact Don’t Get Paid — Here’s Why"
+        },
+        {
+          "id": "https://medium.com/p/20722289be03",
+          "author": "Akshansh JaisWal",
+          "description": "Hey everyone i hope you all are fine and doing good, In December Hackerone made a 12 day 12 level CTF called Hacky-Holidays which had 12…\nContinue reading on Medium »",
+          "link": "https://akshanshjaiswal.medium.com/h1-ctf-hacky-holidays-writeup-20722289be03?source=rss------bugbounty-5",
+          "publishedOn": "2022-02-01T17:48:48.000Z",
+          "wordCount": 2296,
+          "title": "H1-CTF Hacky Holidays Writeup"
+        },
+        {
+          "id": "https://medium.com/p/8c219c61c795",
+          "author": "Sanyam Chawla (Phenomenal)",
+          "description": "Hi Everyone! ,\nContinue reading on Medium »",
+          "link": "https://sanyamchawla1999.medium.com/my-experience-of-hacking-the-dutch-government-8c219c61c795?source=rss------bugbounty-5",
+          "publishedOn": "2022-02-01T16:34:08.000Z",
+          "wordCount": 669,
+          "title": "My experience of Hacking The Dutch Government"
+        },
+        {
+          "id": "https://medium.com/p/67bd5a40e2ea",
+          "author": "Cristian Cornea",
+          "description": "In this article, we will discuss some of my favorite OSINT techniques that can help during your penetration testing activities.\nContinue reading on Medium »",
+          "link": "https://corneacristian.medium.com/osint-tips-for-penetration-testing-67bd5a40e2ea?source=rss------bugbounty-5",
+          "publishedOn": "2022-02-01T14:51:40.000Z",
+          "wordCount": 162,
+          "title": "OSINT Tips for Penetration Testing"
+        },
+        {
+          "id": "https://medium.com/p/78ee748915c4",
+          "author": "InfoSec Write-ups",
+          "description": "Register today to be a part of the coolest Cybersecurity conference of 2022!\nContinue reading on InfoSec Write-ups »",
+          "link": "https://infosecwriteups.com/check-out-the-speakers-for-iwcon-2022-78ee748915c4?source=rss------bugbounty-5",
+          "publishedOn": "2022-02-01T12:28:51.000Z",
+          "wordCount": 472,
+          "title": "Check Out the Speakers for IWCON 2022"
+        },
+        {
+          "id": "https://medium.com/p/7d8b41ca3a03",
+          "author": "Darshan Jogi",
+          "description": "Hello everyone! 🎉\nContinue reading on Medium »",
+          "link": "https://darshan-jogi.medium.com/password-spraying-attack-7d8b41ca3a03?source=rss------bugbounty-5",
+          "publishedOn": "2022-02-01T07:45:15.000Z",
+          "wordCount": 379,
+          "title": "Password Spraying Attack"
+        },
+        {
+          "id": "https://medium.com/p/19f2132390b6",
+          "author": "Aman Pareek",
+          "description": "Hello everyone, I am new to security stuff and will share how I was able to get few XSS in not so common way.\nContinue reading on Medium »",
+          "link": "https://apth3hack3r.medium.com/a-peculiar-case-of-xss-and-my-first-bug-19f2132390b6?source=rss------bugbounty-5",
+          "publishedOn": "2022-02-01T07:35:45.000Z",
+          "wordCount": 434,
+          "title": "A Peculiar Case of XSS and my first bug"
+        },
+        {
+          "id": "https://medium.com/p/603b42143a8c",
+          "author": "Damaidec",
+          "description": "This year I started doing bug bounties and I only got valid p5 report and my report for p4 and p3 got rejected.\nContinue reading on Medium »",
+          "link": "https://medium.com/@damaidec/idor-vulnerability-on-invoice-and-weak-password-reset-leads-to-account-take-over-603b42143a8c?source=rss------bugbounty-5",
+          "publishedOn": "2022-02-01T05:49:24.000Z",
+          "wordCount": 848,
+          "title": "IDOR vulnerability on invoice and weak password reset leads to account take over"
+        },
+        {
+          "id": "https://medium.com/p/55aa0e8ff0b4",
+          "author": "Takshil Patil",
+          "description": "==UNDER CONSTRUCTI\nContinue reading on Medium »",
+          "link": "https://takshil-patil529.medium.com/understanding-automation-in-bug-bounty-55aa0e8ff0b4?source=rss------bugbounty-5",
+          "publishedOn": "2022-02-01T04:55:15.000Z",
+          "wordCount": 183,
+          "title": "Understanding Automation in Bug Bounty"
+        },
         {
           "id": "https://medium.com/p/94f10080b3bd",
           "author": "Takshil Patil",
@@ -5461,6 +5677,78 @@
       "siteUrl": "https://infosecwriteups.com?source=rss----7b722bfd1b8d---4",
       "articles": [
         {
+          "id": "https://medium.com/p/78ee748915c4",
+          "author": "InfoSec Write-ups",
+          "description": "Register today to be a part of the coolest Cybersecurity conference of 2022!",
+          "link": "https://infosecwriteups.com/check-out-the-speakers-for-iwcon-2022-78ee748915c4?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2022-02-01T12:28:51.000Z",
+          "wordCount": 472,
+          "title": "Check Out the Speakers for IWCON 2022"
+        },
+        {
+          "id": "https://medium.com/p/d8ec62ad25ac",
+          "author": "Febi Mudiyanto",
+          "description": "Last time, I have written an article about making a USB Rubber Ducky with less than $3 and I did a simple test and attach how to…",
+          "link": "https://infosecwriteups.com/hack-a-linux-desktop-with-the-cheapest-usb-rubber-ducky-and-the-android-terminal-termux-d8ec62ad25ac?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2022-02-01T06:28:43.000Z",
+          "wordCount": 853,
+          "title": "Hack a Linux Desktop with The Cheapest USB Rubber Ducky and The Android Terminal (Termux)"
+        },
+        {
+          "id": "https://medium.com/p/3e8d44446378",
+          "author": "Ramalingasamy",
+          "description": "Hey fellow hackers and Bug hunters,",
+          "link": "https://infosecwriteups.com/how-i-exposed-the-teachers-aadhaar-card-bank-details-in-the-college-website-3e8d44446378?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2022-02-01T06:27:23.000Z",
+          "wordCount": 648,
+          "title": "How I exposed the teacher’s Aadhaar card, bank details on the college website."
+        },
+        {
+          "id": "https://medium.com/p/73f7b310b1f7",
+          "author": "hac#",
+          "description": "what is Steganography? where it is used? Steganography in CTF’s",
+          "link": "https://infosecwriteups.com/steganography-ctfs-73f7b310b1f7?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2022-02-01T06:23:14.000Z",
+          "wordCount": 893,
+          "title": "Understanding Steganography for Capture The Flag Challenges"
+        },
+        {
+          "id": "https://medium.com/p/11624e4e9eef",
+          "author": "Lohith Gowda M",
+          "description": "Hello Everyone….",
+          "link": "https://infosecwriteups.com/paytm-broken-link-hijacking-11624e4e9eef?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2022-02-01T06:22:52.000Z",
+          "wordCount": 838,
+          "title": "Paytm-Broken Link Hijacking"
+        },
+        {
+          "id": "https://medium.com/p/15b7a28c9c0f",
+          "author": "Mukilan Baskaran",
+          "description": "Ctf info writeup",
+          "link": "https://infosecwriteups.com/tryhackme-extending-your-network-15b7a28c9c0f?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2022-02-01T06:22:00.000Z",
+          "wordCount": 1072,
+          "title": "TryHackMe — Extending Your Network"
+        },
+        {
+          "id": "https://medium.com/p/f7d215d93841",
+          "author": "Thirukrishnan",
+          "description": "Day-1",
+          "link": "https://infosecwriteups.com/everyday-cyber-f7d215d93841?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2022-02-01T06:20:14.000Z",
+          "wordCount": 1186,
+          "title": "Everyday-Cyber"
+        },
+        {
+          "id": "https://medium.com/p/2e400cddcd1e",
+          "author": "LIL NIX",
+          "description": "It was about two months ago (November 2021) I was invited to a private program. According to their program scope, I decided to hack them…",
+          "link": "https://infosecwriteups.com/the-story-of-a-rce-on-a-java-web-application-2e400cddcd1e?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2022-02-01T06:19:37.000Z",
+          "wordCount": 1591,
+          "title": "The Story of an RCE on a Java Web Application"
+        },
+        {
           "id": "https://medium.com/p/ed97027121cb",
           "author": "Febi Mudiyanto",
           "description": "Local File Inclusion Vulnerability",
@@ -7428,6 +7716,15 @@
       "siteUrl": "https://medium.com/tag/fuzzing/latest?source=rss------fuzzing-5",
       "articles": [
         {
+          "id": "https://medium.com/p/87d17da9bf97",
+          "author": "Takshil Patil",
+          "description": "Previous : Beginner Bug Bounty Guide — Part 4\nContinue reading on Medium »",
+          "link": "https://takshil-patil529.medium.com/beginner-bug-bounty-guide-part-5-87d17da9bf97?source=rss------fuzzing-5",
+          "publishedOn": "2022-02-01T00:58:43.000Z",
+          "wordCount": 187,
+          "title": "Beginner Bug Bounty Guide - Part 5"
+        },
+        {
           "id": "https://medium.com/p/205751a4c61",
           "author": "Shellbr3ak",
           "description": "What’s going on hacker folks, this is shellbreak back again with another blog post, but this time, it will be about how I found my first…\nContinue reading on Medium »",
@@ -8302,6 +8599,15 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=30158662",
+          "author": "phront",
+          "description": "Article URL: https://www.samba.org/samba/security/CVE-2021-44142.html\nComments URL: https://news.ycombinator.com/item?id=30158662\nPoints: 3\n# Comments: 0",
+          "link": "https://www.samba.org/samba/security/CVE-2021-44142.html",
+          "publishedOn": "2022-02-01T04:36:52.000Z",
+          "wordCount": 374,
+          "title": "RCE in Samba(CVE-2021-44142)"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=30128872",
           "author": "orf",
           "description": "Article URL: https://tomforb.es/cve-2022-0329-and-the-problems-with-automated-vulnerability-management/\nComments URL: https://news.ycombinator.com/item?id=30128872\nPoints: 9\n# Comments: 4",
@@ -8731,6 +9037,33 @@
       "feedUrl": "https://hnrss.org/newest?q=vulnerability",
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
+        {
+          "id": "https://news.ycombinator.com/item?id=30169435",
+          "author": "steelstraw",
+          "description": "Article URL: https://twitter.com/tszzl/status/1488466979799265281\nComments URL: https://news.ycombinator.com/item?id=30169435\nPoints: 31\n# Comments: 1",
+          "link": "https://twitter.com/tszzl/status/1488466979799265281",
+          "publishedOn": "2022-02-01T21:17:53.000Z",
+          "wordCount": 196,
+          "title": "Twitter stores original account names, dox vulnerability via Twitter Spaces"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=30166148",
+          "author": "caaqil",
+          "description": "Article URL: https://www.samba.org/samba/security/CVE-2021-44142.html\nComments URL: https://news.ycombinator.com/item?id=30166148\nPoints: 3\n# Comments: 0",
+          "link": "https://www.samba.org/samba/security/CVE-2021-44142.html",
+          "publishedOn": "2022-02-01T17:39:41.000Z",
+          "wordCount": 374,
+          "title": "Arbitrary code execution vulnerability in Samba"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=30163784",
+          "author": "wiznova",
+          "description": "Article URL: https://matrix.org/blog/2022/01/31/high-severity-vulnerability-in-element-desktop-1-9-6-and-earlier/\nComments URL: https://news.ycombinator.com/item?id=30163784\nPoints: 1\n# Comments: 0",
+          "link": "https://matrix.org/blog/2022/01/31/high-severity-vulnerability-in-element-desktop-1-9-6-and-earlier/",
+          "publishedOn": "2022-02-01T15:28:35.000Z",
+          "wordCount": 340,
+          "title": "High severity vulnerability in Element Desktop 1.9.6 and earlier"
+        },
         {
           "id": "https://news.ycombinator.com/item?id=30147933",
           "author": "feross",
@@ -12560,6 +12893,15 @@
       "siteUrl": "http://www.sec-wiki.com/",
       "articles": [
         {
+          "id": "http://www.sec-wiki.com/?2022-02-01",
+          "author": null,
+          "description": "今日暂未更新资讯~\n更多最新文章，请访问SecWiki",
+          "link": "http://www.sec-wiki.com/?2022-02-01",
+          "publishedOn": "2022-02-01T15:58:20.000Z",
+          "wordCount": 585,
+          "title": "SecWiki News 2022-02-01 Review"
+        },
+        {
           "id": "http://www.sec-wiki.com/?2022-01-31",
           "author": null,
           "description": "SecWiki周刊（第413期)  by ourren\n配置错误注入测试中的挑战与机遇  by ourren\n更多最新文章，请访问SecWiki",
@@ -13016,6 +13358,33 @@
       "feedUrl": "https://www.reddit.com/r/asknetsec/.rss",
       "siteUrl": "https://www.reddit.com/r/asknetsec/",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/shysbg/question_on_using_vmware_pro_and_nessus_isolating/",
+          "author": null,
+          "description": "I need help running vuln scan using vm workstation pro and Nessus :/\n Looking for advice/help on vuln. scanning using VMware workstation pro and Nessus\n Hey folks!!!\n I am looking to run Nessus on one VM, and run the vulnerability scan on a second VM. \n My constraints are that the VM running Nessus should be able to access/communicate out to the internet, while the VM being scanned should not be able to communicate to the internet — it should only be able to communicate with the VM performing the Nessus scan. \n I tried setting up both VMs on a host only VMnet, but Nessus was not able to get or use certain plugins that way. I’m looking for any help or advice setting this up how I described as I have not been successful. \n Thanks in advance for any help!\n    submitted by    /u/enki0817  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/shysbg/question_on_using_vmware_pro_and_nessus_isolating/",
+          "publishedOn": "2022-02-01T16:19:32.000Z",
+          "wordCount": 390,
+          "title": "Question on using VMware pro and Nessus, isolating one VM from communication with internet."
+        },
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/shydq7/irmdocument_encryption_why_isnt_it_used_more/",
+          "author": null,
+          "description": "I'm a MS:CS student taking some cybersecurity classes. We learned about IRM, basically symmetrically encrypted documents with the keys managed by a central server backed via AD or whatever the org uses for AAA. It sounds pretty useful for dealing with vendors and helping deter exfiltration (and as a bonus, leaked docs encrypted at rest can't easily be used to extort ransoms), but it doesn't sound like very many places use it.\n Are the downsides of cost, difficulty of use for the the user, and vendor lock-in a deal breaker for a lot of enterprises? Is the prevailing view that since someone can still take pictures of the screen with their phone, it's not worth the effort? Or that this kind of threat isn't considered to be very serious? What other real world issues am I not considering?\n Cheers\n    submitted by    /u/berrmal64  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/shydq7/irmdocument_encryption_why_isnt_it_used_more/",
+          "publishedOn": "2022-02-01T16:02:04.000Z",
+          "wordCount": 1246,
+          "title": "IRM/document encryption... Why isn't it used more?"
+        },
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/shnhsb/help_me_guys/",
+          "author": null,
+          "description": "I have downloaded 2 photo recovery apps from playatore into my phone. But I am scared that they might be fake apps which steals photos. I have checked the privacy policy in which it was statated that\n The information that I request will be retained on your device and is not collected by me in any way.\n But now im not sure whethet i can trust them. The apps seem to be fake with manipulated reviews. Where would all my photos go to if they are sus apps? Do you guys think that they are sus apps by high chances? \n It would be nice if I get replies... Thank you!\n    submitted by    /u/WhiteSwordMaster  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/shnhsb/help_me_guys/",
+          "publishedOn": "2022-02-01T05:48:32.000Z",
+          "wordCount": 261,
+          "title": "Help me guys"
+        },
         {
           "id": "https://www.reddit.com/r/AskNetsec/comments/shhgca/has_my_nvr_been_hacked/",
           "author": null,
@@ -16424,6 +16793,15 @@
       "siteUrl": "https://www.reddit.com/r/exploitdev/",
       "articles": [
         {
+          "id": "https://www.reddit.com/r/ExploitDev/comments/shw0a1/solidity_audit_ethereum_smart_contract_analysis/",
+          "author": null,
+          "description": "submitted by    /u/pat_ventuzelo  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/ExploitDev/comments/shw0a1/solidity_audit_ethereum_smart_contract_analysis/",
+          "publishedOn": "2022-02-01T14:17:25.000Z",
+          "wordCount": 123,
+          "title": "Solidity Audit & Ethereum Smart Contract Analysis using Mythril - Blockchain Security #2"
+        },
+        {
           "id": "https://www.reddit.com/r/ExploitDev/comments/scsi3o/rop_hello_world/",
           "author": null,
           "description": "submitted by    /u/Kubiszox  \n [link]   [comments]",
@@ -16827,6 +17205,24 @@
       "siteUrl": "https://www.reddit.com/r/computerforensics/",
       "articles": [
         {
+          "id": "https://www.reddit.com/r/computerforensics/comments/si7irh/newbie_investigating_hdd/",
+          "author": null,
+          "description": "Hello there, recently acquired some used HDD to try forensics as a student in cyber security. I'm using Kali Linux in forensic mode. Have a few questions :\n 1) Can using fdisk -l or parted -l modify data on the hdd ? (both launched as root) What about gparted ? (if not touching anything oc) 2) Working as root, is chmod a-w /dev/sde (the drive \"location\") really useful, like will it really prevent any write even from root ? 3) Created an image with dcfldd, asked for sha1 checksum, and before imaging used sha1sum on /dev/sde. They match. Do anyone work another way ? 4) Tried to import the image on autopsy with different settings but no file or anything else found. Then successfully linked to /dev/loop1 using losetup, but could not mount the \"partition\" (no filesystem nor partition is detected with parted -l, but gparted tells sde is an ataraid partition). Had some error like \"unknown filesystem type 'ddf_raid_member'\", so after a bit of digging tried some stuff with mdamd, but did not work. Any idea ?\n    submitted by    /u/ner00n  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/computerforensics/comments/si7irh/newbie_investigating_hdd/",
+          "publishedOn": "2022-02-01T22:25:10.000Z",
+          "wordCount": 471,
+          "title": "Newbie investigating hdd"
+        },
+        {
+          "id": "https://www.reddit.com/r/computerforensics/comments/shs36j/creating_encase_image_of_macbook_pro_max_a2485/",
+          "author": null,
+          "description": "Hi everyone,\n ​\n I want to create an encase-image from a MacBook (Model A2485, M1 Max) but any of my attempt so far just have failed. Password is known and I have physical access to the device.\n Following things I allready tried:\n - boot external usb with Paladin Edge -> failed to boot from it (tried to allow Booting from external sources via recovery, but there was no option for enabling)\n - put the MacBook into targetdisk mode an connected it to another iMac -> tried to create an image via ewfaquire but the shared disk wasn't an extra device (or I failed to see it)\n - boot external usb with Paladin Edge on another iMac, put the MacBook into targetdisk mode an connected it to the iMac -> Paladin Edge doesn't recognize the shared disc\n My last idea is just to do a timemachine backup from the macbook to a clean / wiped hdd and create an encase image from it ... \n Does someone have any other ideas? Would be very happy about any suggestions! Thanks in advance!\n    submitted by    /u/frcGuy81  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/computerforensics/comments/shs36j/creating_encase_image_of_macbook_pro_max_a2485/",
+          "publishedOn": "2022-02-01T10:44:25.000Z",
+          "wordCount": 500,
+          "title": "Creating Encase Image of Macbook Pro Max (A2485)"
+        },
+        {
           "id": "https://www.reddit.com/r/computerforensics/comments/sh0xfs/puzzling_rdp_cache_putting_the_pieces_together/",
           "author": null,
           "description": "Good morning,\n It’s time for a new 13Cubed episode! Let's take a look at an easier way to reassemble RDP bitmap cache. And, if you're a little rusty on where to find the cache and how to export it, we'll cover that too! \n Episode:\n https://www.youtube.com/watch?v=9P845AMjJF0\n Episode Guide:\n https://www.13cubed.com/episodes/ \n 13Cubed YouTube Channel:\n https://www.youtube.com/13cubed \n 13Cubed Patreon (Help support the channel and get early access to content and other perks!):\n https://www.patreon.com/13cubed\n    submitted by    /u/13Cubed  \n [link]   [comments]",
@@ -16843,6 +17239,15 @@
           "publishedOn": "2022-01-31T03:10:12.000Z",
           "wordCount": 953,
           "title": "Failed GNFA looking for tips and any advise for better learning in a better way"
+        },
+        {
+          "id": "https://www.reddit.com/r/computerforensics/comments/sgid6x/spare_gcfa_practice/",
+          "author": null,
+          "description": "Hey all \n Anyone here have a spare GCFA practice they could wing this way ? Despite multiple content run throughs and a comprehensive index, I flunked both my practice exams :S Second fail was surprising as I felt confident ! 2 weeks left now until the real thing so hoping some more turbo study and another practice may boost the confidence. Cheers !\n    submitted by    /u/Gumps903  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/computerforensics/comments/sgid6x/spare_gcfa_practice/",
+          "publishedOn": "2022-01-30T20:40:41.000Z",
+          "wordCount": 214,
+          "title": "Spare GCFA Practice"
         },
         {
           "id": "https://www.reddit.com/r/computerforensics/comments/sfzzfo/do_the_sans_live_classes_just_reuse_the_slides/",
@@ -17752,6 +18157,42 @@
       "siteUrl": "https://www.reddit.com/r/netsec/",
       "articles": [
         {
+          "id": "https://www.reddit.com/r/netsec/comments/si5yqz/inside_trickbot_russias_notorious_ransomware_gang/",
+          "author": null,
+          "description": "submitted by    /u/CyberMasterV  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/netsec/comments/si5yqz/inside_trickbot_russias_notorious_ransomware_gang/",
+          "publishedOn": "2022-02-01T21:20:30.000Z",
+          "wordCount": 108,
+          "title": "Inside Trickbot, Russia’s Notorious Ransomware Gang"
+        },
+        {
+          "id": "https://www.reddit.com/r/netsec/comments/si3rbw/new_hybrid_campaign_oivavoii_uses_malicious_oauth/",
+          "author": null,
+          "description": "submitted by    /u/ITlocknkey  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/netsec/comments/si3rbw/new_hybrid_campaign_oivavoii_uses_malicious_oauth/",
+          "publishedOn": "2022-02-01T19:49:56.000Z",
+          "wordCount": 121,
+          "title": "New Hybrid Campaign OiVaVoii Uses Malicious OAuth Apps | Cyware Hacker News"
+        },
+        {
+          "id": "https://www.reddit.com/r/netsec/comments/shwt2r/using_pwnkithunter_to_check_for_cve20214034/",
+          "author": null,
+          "description": "submitted by    /u/jat0369  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/netsec/comments/shwt2r/using_pwnkithunter_to_check_for_cve20214034/",
+          "publishedOn": "2022-02-01T14:53:19.000Z",
+          "wordCount": 114,
+          "title": "Using PwnKit-Hunter to check for CVE-2021-4034 Vulnerable Systems"
+        },
+        {
+          "id": "https://www.reddit.com/r/netsec/comments/shp27l/remote_root_vulnerability_for_samba_cve_202144142/",
+          "author": null,
+          "description": "submitted by    /u/lormayna  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/netsec/comments/shp27l/remote_root_vulnerability_for_samba_cve_202144142/",
+          "publishedOn": "2022-02-01T07:22:06.000Z",
+          "wordCount": 347,
+          "title": "Remote root vulnerability for Samba (CVE 2021-44142)"
+        },
+        {
           "id": "https://www.reddit.com/r/netsec/comments/shg64s/analyzing_malware_with_hooks_stomps_and/",
           "author": null,
           "description": "submitted by    /u/jat0369  \n [link]   [comments]",
@@ -17831,6 +18272,15 @@
           "publishedOn": "2022-01-28T23:20:28.000Z",
           "wordCount": 155,
           "title": "Detecting and mitigating CVE-2021-4034: “Pwnkit” local privilege escalation"
+        },
+        {
+          "id": "https://www.reddit.com/r/netsec/comments/sf0y68/how_to_analyze_rtf_template_injection_attacks/",
+          "author": null,
+          "description": "submitted by    /u/ogunal00  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/netsec/comments/sf0y68/how_to_analyze_rtf_template_injection_attacks/",
+          "publishedOn": "2022-01-28T21:15:44.000Z",
+          "wordCount": 111,
+          "title": "How to Analyze RTF Template Injection Attacks"
         },
         {
           "id": "https://www.reddit.com/r/netsec/comments/sext0n/pivoting_with_ssh_tunnels_and_plink/",
@@ -19513,6 +19963,51 @@
       "feedUrl": "https://www.reddit.com/r/opendirectories/.rss",
       "siteUrl": "https://www.reddit.com/r/opendirectories/",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/opendirectories/comments/si49xu/question_how_are_these_directories_discovered_is/",
+          "author": null,
+          "description": "Basically says it all in the title!\n I just found this sub-reddit, VERY COOL! I am a /r/datahoarder and I appreciate this sort of thing!\n I am just curious to how these open directories are discovered.\n Thanks all for being apart of this community!\n    submitted by    /u/cs_legend_93  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/opendirectories/comments/si49xu/question_how_are_these_directories_discovered_is/",
+          "publishedOn": "2022-02-01T20:10:31.000Z",
+          "wordCount": 261,
+          "title": "[Question] How are these directories discovered? Is it random web-surfing then sharing? Or do some of you use crawlers?"
+        },
+        {
+          "id": "https://www.reddit.com/r/opendirectories/comments/si2gl0/does_anyone_have_odshots_uploaded_in_2019_and_2020/",
+          "author": null,
+          "description": "I'm looking for .xlsx files that were posted in 2019/2020 on this sub, because the links that were uploaded are now dead. Does anyone saved them and can upload them once again? \n Again, i'm not looking for last upload but files that were shared earlier.\n    submitted by    /u/GingrFattyJesusFreak  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/opendirectories/comments/si2gl0/does_anyone_have_odshots_uploaded_in_2019_and_2020/",
+          "publishedOn": "2022-02-01T18:54:28.000Z",
+          "wordCount": 160,
+          "title": "Does anyone have OD-Shots uploaded in 2019 and 2020?"
+        },
+        {
+          "id": "https://www.reddit.com/r/opendirectories/comments/si0fp1/filechef_not_working/",
+          "author": null,
+          "description": "Does anyone know if https://www.filechef.com/ is down???\n    submitted by    /u/klutz50  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/opendirectories/comments/si0fp1/filechef_not_working/",
+          "publishedOn": "2022-02-01T17:28:33.000Z",
+          "wordCount": 118,
+          "title": "Filechef not working???"
+        },
+        {
+          "id": "https://www.reddit.com/r/opendirectories/comments/shm6my/photos_and_documents_relating_to_russian/",
+          "author": null,
+          "description": "submitted by    /u/PM_ME_TO_PLAY_A_GAME  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/opendirectories/comments/shm6my/photos_and_documents_relating_to_russian/",
+          "publishedOn": "2022-02-01T04:36:44.000Z",
+          "wordCount": 97,
+          "title": "photos and documents relating to Russian involvement in Ukraine"
+        },
+        {
+          "id": "https://www.reddit.com/r/opendirectories/comments/shm4iv/high_res_images_of_russian_dairy_products/",
+          "author": null,
+          "description": "submitted by    /u/PM_ME_TO_PLAY_A_GAME  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/opendirectories/comments/shm4iv/high_res_images_of_russian_dairy_products/",
+          "publishedOn": "2022-02-01T04:33:37.000Z",
+          "wordCount": 399,
+          "title": "high res images of Russian dairy products"
+        },
         {
           "id": "https://www.reddit.com/r/opendirectories/comments/shdcwv/lots_of_movies_tv_shows_and_top_shelf_porn/",
           "author": null,
@@ -21393,6 +21888,15 @@
       "siteUrl": "https://pentestlab.blog",
       "articles": [
         {
+          "id": "http://pentestlab.blog/?p=30125",
+          "author": "Administrator",
+          "description": "The pass the hash technique is not new and it was usually used for lateral movement on the network in scenarios where the administrator password… \nContinue reading → Domain Escalation – Machine Accounts",
+          "link": "https://pentestlab.blog/2022/02/01/machine-accounts/",
+          "publishedOn": "2022-02-01T11:54:00.000Z",
+          "wordCount": 884,
+          "title": "Domain Escalation – Machine Accounts"
+        },
+        {
           "id": "http://pentestlab.blog/?p=30168",
           "author": "Administrator",
           "description": "Machine accounts play a role in red team operations as in a number of techniques are utilized for privilege escalation, lateral movement and domain escalation.… \nContinue reading → Domain Persistence – Machine Account",
@@ -22228,12 +22732,21 @@
       "siteUrl": "https://medium.com/tag/fuzzing/latest?source=rss------fuzzing-5",
       "articles": [
         {
+          "id": "https://medium.com/p/87d17da9bf97",
+          "author": "Takshil Patil",
+          "description": "Previous : Beginner Bug Bounty Guide — Part 4\nContinue reading on Medium »",
+          "link": "https://takshil-patil529.medium.com/beginner-bug-bounty-guide-part-5-87d17da9bf97?source=rss------fuzzing-5",
+          "publishedOn": "2022-02-01T00:58:43.000Z",
+          "wordCount": 187,
+          "title": "Beginner Bug Bounty Guide - Part 5"
+        },
+        {
           "id": "https://medium.com/p/205751a4c61",
           "author": "Shellbr3ak",
           "description": "What’s going on hacker folks, this is shellbreak back again with another blog post, but this time, it will be about how I found my first…\nContinue reading on Medium »",
           "link": "https://shellbr3ak.medium.com/first-time-hacking-the-cloud-205751a4c61?source=rss------fuzzing-5",
           "publishedOn": "2022-01-31T08:11:25.000Z",
-          "wordCount": 698,
+          "wordCount": 693,
           "title": "First Time Hacking The Cloud"
         },
         {

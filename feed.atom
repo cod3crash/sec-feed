@@ -2,10 +2,633 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cod3crash.github.io/sec-feed/index.html</id>
     <title>security feed</title>
-    <updated>2022-02-01T01:08:50.690Z</updated>
+    <updated>2022-02-02T01:07:10.788Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://cod3crash.github.io/sec-feed/index.html"/>
     <link rel="self" href="https://cod3crash.github.io/sec-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Newbie investigating hdd]]></title>
+        <id>https://www.reddit.com/r/computerforensics/comments/si7irh/newbie_investigating_hdd/</id>
+        <link href="https://www.reddit.com/r/computerforensics/comments/si7irh/newbie_investigating_hdd/"/>
+        <updated>2022-02-01T22:25:10.000Z</updated>
+        <summary type="html"><![CDATA[Hello there, recently acquired some used HDD to try forensics as a student in cyber security. I'm using Kali Linux in forensic mode. Have a few questions :
+ 1) Can using fdisk -l or parted -l modify data on the hdd ? (both launched as root) What about gparted ? (if not touching anything oc) 2) Working as root, is chmod a-w /dev/sde (the drive "location") really useful, like will it really prevent any write even from root ? 3) Created an image with dcfldd, asked for sha1 checksum, and before imaging used sha1sum on /dev/sde. They match. Do anyone work another way ? 4) Tried to import the image on autopsy with different settings but no file or anything else found. Then successfully linked to /dev/loop1 using losetup, but could not mount the "partition" (no filesystem nor partition is detected with parted -l, but gparted tells sde is an ataraid partition). Had some error like "unknown filesystem type 'ddf_raid_member'", so after a bit of digging tried some stuff with mdamd, but did not work. Any idea ?
+    submitted by    /u/ner00n  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Computer Forensics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Inside Trickbot, Russia’s Notorious Ransomware Gang]]></title>
+        <id>https://www.reddit.com/r/netsec/comments/si5yqz/inside_trickbot_russias_notorious_ransomware_gang/</id>
+        <link href="https://www.reddit.com/r/netsec/comments/si5yqz/inside_trickbot_russias_notorious_ransomware_gang/"/>
+        <updated>2022-02-01T21:20:30.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/CyberMasterV  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>/r/netsec - Information Security News &amp; Discussion</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Twitter stores original account names, dox vulnerability via Twitter Spaces]]></title>
+        <id>https://news.ycombinator.com/item?id=30169435</id>
+        <link href="https://twitter.com/tszzl/status/1488466979799265281"/>
+        <updated>2022-02-01T21:17:53.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://twitter.com/tszzl/status/1488466979799265281
+Comments URL: https://news.ycombinator.com/item?id=30169435
+Points: 31
+# Comments: 1]]></summary>
+        <author>
+            <name>steelstraw</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SQL injection at /admin.php?/cp/members/create]]></title>
+        <id>https://hackerone.com/reports/968240</id>
+        <link href="https://hackerone.com/reports/968240"/>
+        <updated>2022-02-01T21:12:53.000Z</updated>
+        <summary type="html"><![CDATA[ExpressionEngine disclosed a bug submitted by khoabda1: https://hackerone.com/reports/968240]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Question] How are these directories discovered? Is it random web-surfing then sharing? Or do some of you use crawlers?]]></title>
+        <id>https://www.reddit.com/r/opendirectories/comments/si49xu/question_how_are_these_directories_discovered_is/</id>
+        <link href="https://www.reddit.com/r/opendirectories/comments/si49xu/question_how_are_these_directories_discovered_is/"/>
+        <updated>2022-02-01T20:10:31.000Z</updated>
+        <summary type="html"><![CDATA[Basically says it all in the title!
+ I just found this sub-reddit, VERY COOL! I am a /r/datahoarder and I appreciate this sort of thing!
+ I am just curious to how these open directories are discovered.
+ Thanks all for being apart of this community!
+    submitted by    /u/cs_legend_93  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Open Directories</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Hybrid Campaign OiVaVoii Uses Malicious OAuth Apps | Cyware Hacker News]]></title>
+        <id>https://www.reddit.com/r/netsec/comments/si3rbw/new_hybrid_campaign_oivavoii_uses_malicious_oauth/</id>
+        <link href="https://www.reddit.com/r/netsec/comments/si3rbw/new_hybrid_campaign_oivavoii_uses_malicious_oauth/"/>
+        <updated>2022-02-01T19:49:56.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/ITlocknkey  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>/r/netsec - Information Security News &amp; Discussion</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Information disclosure-Referer leak]]></title>
+        <id>https://hackerone.com/reports/1337624</id>
+        <link href="https://hackerone.com/reports/1337624"/>
+        <updated>2022-02-01T19:32:16.000Z</updated>
+        <summary type="html"><![CDATA[Brave Software disclosed a bug submitted by kkarfalcon: https://hackerone.com/reports/1337624 - Bounty: $500]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[No Rate Limiting on OTP sending]]></title>
+        <id>https://medium.com/p/39a3a9fc93f6</id>
+        <link href="https://medium.com/@noob_master/no-rate-limiting-on-otp-sending-39a3a9fc93f6?source=rss------bugbounty-5"/>
+        <updated>2022-02-01T19:07:39.000Z</updated>
+        <summary type="html"><![CDATA[Firstly I would like to say that this is my first ever writeup for the InfoSec community and I may not be so good at presenting the…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>nOOb_mAsTeR</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Does anyone have OD-Shots uploaded in 2019 and 2020?]]></title>
+        <id>https://www.reddit.com/r/opendirectories/comments/si2gl0/does_anyone_have_odshots_uploaded_in_2019_and_2020/</id>
+        <link href="https://www.reddit.com/r/opendirectories/comments/si2gl0/does_anyone_have_odshots_uploaded_in_2019_and_2020/"/>
+        <updated>2022-02-01T18:54:28.000Z</updated>
+        <summary type="html"><![CDATA[I'm looking for .xlsx files that were posted in 2019/2020 on this sub, because the links that were uploaded are now dead. Does anyone saved them and can upload them once again? 
+ Again, i'm not looking for last upload but files that were shared earlier.
+    submitted by    /u/GingrFattyJesusFreak  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Open Directories</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Theoretical Bugs With No Impact Don’t Get Paid — Here’s Why]]></title>
+        <id>https://medium.com/p/2fba63328c0e</id>
+        <link href="https://medium.com/immunefi/theoretical-bugs-with-no-impact-dont-get-paid-here-s-why-2fba63328c0e?source=rss------bugbounty-5"/>
+        <updated>2022-02-01T18:18:50.000Z</updated>
+        <summary type="html"><![CDATA[As a whitehat, it’s easy to want to submit as many bugs as possible to a project — especially projects on Immunefi, because the bounties…
+Continue reading on Immunefi »]]></summary>
+        <author>
+            <name>Immunefi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[H1-CTF Hacky Holidays Writeup]]></title>
+        <id>https://medium.com/p/20722289be03</id>
+        <link href="https://akshanshjaiswal.medium.com/h1-ctf-hacky-holidays-writeup-20722289be03?source=rss------bugbounty-5"/>
+        <updated>2022-02-01T17:48:48.000Z</updated>
+        <summary type="html"><![CDATA[Hey everyone i hope you all are fine and doing good, In December Hackerone made a 12 day 12 level CTF called Hacky-Holidays which had 12…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Akshansh JaisWal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Return of the Grinch]]></title>
+        <id>https://hackerone.com/reports/1433581</id>
+        <link href="https://hackerone.com/reports/1433581"/>
+        <updated>2022-02-01T17:44:10.000Z</updated>
+        <summary type="html"><![CDATA[h1-ctf disclosed a bug submitted by w31rd0: https://hackerone.com/reports/1433581 - Bounty: $1000]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Saving Christmas from Grinchy Gods]]></title>
+        <id>https://hackerone.com/reports/1434017</id>
+        <link href="https://hackerone.com/reports/1434017"/>
+        <updated>2022-02-01T17:42:56.000Z</updated>
+        <summary type="html"><![CDATA[h1-ctf disclosed a bug submitted by akshansh: https://hackerone.com/reports/1434017 - Bounty: $1000]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Arbitrary code execution vulnerability in Samba]]></title>
+        <id>https://news.ycombinator.com/item?id=30166148</id>
+        <link href="https://www.samba.org/samba/security/CVE-2021-44142.html"/>
+        <updated>2022-02-01T17:39:41.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.samba.org/samba/security/CVE-2021-44142.html
+Comments URL: https://news.ycombinator.com/item?id=30166148
+Points: 3
+# Comments: 0]]></summary>
+        <author>
+            <name>caaqil</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Filechef not working???]]></title>
+        <id>https://www.reddit.com/r/opendirectories/comments/si0fp1/filechef_not_working/</id>
+        <link href="https://www.reddit.com/r/opendirectories/comments/si0fp1/filechef_not_working/"/>
+        <updated>2022-02-01T17:28:33.000Z</updated>
+        <summary type="html"><![CDATA[Does anyone know if https://www.filechef.com/ is down???
+    submitted by    /u/klutz50  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Open Directories</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[My experience of Hacking The Dutch Government]]></title>
+        <id>https://medium.com/p/8c219c61c795</id>
+        <link href="https://sanyamchawla1999.medium.com/my-experience-of-hacking-the-dutch-government-8c219c61c795?source=rss------bugbounty-5"/>
+        <updated>2022-02-01T16:34:08.000Z</updated>
+        <summary type="html"><![CDATA[Hi Everyone! ,
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Sanyam Chawla (Phenomenal)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Question on using VMware pro and Nessus, isolating one VM from communication with internet.]]></title>
+        <id>https://www.reddit.com/r/AskNetsec/comments/shysbg/question_on_using_vmware_pro_and_nessus_isolating/</id>
+        <link href="https://www.reddit.com/r/AskNetsec/comments/shysbg/question_on_using_vmware_pro_and_nessus_isolating/"/>
+        <updated>2022-02-01T16:19:32.000Z</updated>
+        <summary type="html"><![CDATA[I need help running vuln scan using vm workstation pro and Nessus :/
+ Looking for advice/help on vuln. scanning using VMware workstation pro and Nessus
+ Hey folks!!!
+ I am looking to run Nessus on one VM, and run the vulnerability scan on a second VM. 
+ My constraints are that the VM running Nessus should be able to access/communicate out to the internet, while the VM being scanned should not be able to communicate to the internet — it should only be able to communicate with the VM performing the Nessus scan. 
+ I tried setting up both VMs on a host only VMnet, but Nessus was not able to get or use certain plugins that way. I’m looking for any help or advice setting this up how I described as I have not been successful. 
+ Thanks in advance for any help!
+    submitted by    /u/enki0817  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>AskNetsec</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IRM/document encryption... Why isn't it used more?]]></title>
+        <id>https://www.reddit.com/r/AskNetsec/comments/shydq7/irmdocument_encryption_why_isnt_it_used_more/</id>
+        <link href="https://www.reddit.com/r/AskNetsec/comments/shydq7/irmdocument_encryption_why_isnt_it_used_more/"/>
+        <updated>2022-02-01T16:02:04.000Z</updated>
+        <summary type="html"><![CDATA[I'm a MS:CS student taking some cybersecurity classes. We learned about IRM, basically symmetrically encrypted documents with the keys managed by a central server backed via AD or whatever the org uses for AAA. It sounds pretty useful for dealing with vendors and helping deter exfiltration (and as a bonus, leaked docs encrypted at rest can't easily be used to extort ransoms), but it doesn't sound like very many places use it.
+ Are the downsides of cost, difficulty of use for the the user, and vendor lock-in a deal breaker for a lot of enterprises? Is the prevailing view that since someone can still take pictures of the screen with their phone, it's not worth the effort? Or that this kind of threat isn't considered to be very serious? What other real world issues am I not considering?
+ Cheers
+    submitted by    /u/berrmal64  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>AskNetsec</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SecWiki News 2022-02-01 Review]]></title>
+        <id>http://www.sec-wiki.com/?2022-02-01</id>
+        <link href="http://www.sec-wiki.com/?2022-02-01"/>
+        <updated>2022-02-01T15:58:20.000Z</updated>
+        <summary type="html"><![CDATA[今日暂未更新资讯~
+更多最新文章，请访问SecWiki]]></summary>
+        <author>
+            <name>SecWiki News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[High severity vulnerability in Element Desktop 1.9.6 and earlier]]></title>
+        <id>https://news.ycombinator.com/item?id=30163784</id>
+        <link href="https://matrix.org/blog/2022/01/31/high-severity-vulnerability-in-element-desktop-1-9-6-and-earlier/"/>
+        <updated>2022-02-01T15:28:35.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://matrix.org/blog/2022/01/31/high-severity-vulnerability-in-element-desktop-1-9-6-and-earlier/
+Comments URL: https://news.ycombinator.com/item?id=30163784
+Points: 1
+# Comments: 0]]></summary>
+        <author>
+            <name>wiznova</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Full Response SSRF via Google Drive]]></title>
+        <id>https://hackerone.com/reports/1406938</id>
+        <link href="https://hackerone.com/reports/1406938"/>
+        <updated>2022-02-01T14:53:40.000Z</updated>
+        <summary type="html"><![CDATA[Dropbox disclosed a bug submitted by bugdiscloseguys: https://hackerone.com/reports/1406938 - Bounty: $17576]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using PwnKit-Hunter to check for CVE-2021-4034 Vulnerable Systems]]></title>
+        <id>https://www.reddit.com/r/netsec/comments/shwt2r/using_pwnkithunter_to_check_for_cve20214034/</id>
+        <link href="https://www.reddit.com/r/netsec/comments/shwt2r/using_pwnkithunter_to_check_for_cve20214034/"/>
+        <updated>2022-02-01T14:53:19.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/jat0369  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>/r/netsec - Information Security News &amp; Discussion</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OSINT Tips for Penetration Testing]]></title>
+        <id>https://medium.com/p/67bd5a40e2ea</id>
+        <link href="https://corneacristian.medium.com/osint-tips-for-penetration-testing-67bd5a40e2ea?source=rss------bugbounty-5"/>
+        <updated>2022-02-01T14:51:40.000Z</updated>
+        <summary type="html"><![CDATA[In this article, we will discuss some of my favorite OSINT techniques that can help during your penetration testing activities.
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Cristian Cornea</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Solidity Audit & Ethereum Smart Contract Analysis using Mythril - Blockchain Security #2]]></title>
+        <id>https://www.reddit.com/r/ExploitDev/comments/shw0a1/solidity_audit_ethereum_smart_contract_analysis/</id>
+        <link href="https://www.reddit.com/r/ExploitDev/comments/shw0a1/solidity_audit_ethereum_smart_contract_analysis/"/>
+        <updated>2022-02-01T14:17:25.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/pat_ventuzelo  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Exploit Development</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reflected Xss On https://vk.com/search]]></title>
+        <id>https://hackerone.com/reports/1454359</id>
+        <link href="https://hackerone.com/reports/1454359"/>
+        <updated>2022-02-01T13:09:52.000Z</updated>
+        <summary type="html"><![CDATA[VK.com disclosed a bug submitted by b4walid: https://hackerone.com/reports/1454359 - Bounty: $500]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Check Out the Speakers for IWCON 2022]]></title>
+        <id>https://medium.com/p/78ee748915c4</id>
+        <link href="https://infosecwriteups.com/check-out-the-speakers-for-iwcon-2022-78ee748915c4?source=rss----7b722bfd1b8d---4"/>
+        <updated>2022-02-01T12:28:51.000Z</updated>
+        <summary type="html"><![CDATA[Register today to be a part of the coolest Cybersecurity conference of 2022!]]></summary>
+        <author>
+            <name>InfoSec Write-ups</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Check Out the Speakers for IWCON 2022]]></title>
+        <id>https://medium.com/p/78ee748915c4</id>
+        <link href="https://infosecwriteups.com/check-out-the-speakers-for-iwcon-2022-78ee748915c4?source=rss------bugbounty-5"/>
+        <updated>2022-02-01T12:28:51.000Z</updated>
+        <summary type="html"><![CDATA[Register today to be a part of the coolest Cybersecurity conference of 2022!
+Continue reading on InfoSec Write-ups »]]></summary>
+        <author>
+            <name>InfoSec Write-ups</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Check Out the Speakers for IWCON 2022]]></title>
+        <id>https://medium.com/p/78ee748915c4</id>
+        <link href="https://infosecwriteups.com/check-out-the-speakers-for-iwcon-2022-78ee748915c4?source=rss----7b722bfd1b8d---4"/>
+        <updated>2022-02-01T12:28:51.000Z</updated>
+        <summary type="html"><![CDATA[Register today to be a part of the coolest Cybersecurity conference of 2022!]]></summary>
+        <author>
+            <name>InfoSec Write-ups</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Domain Escalation – Machine Accounts]]></title>
+        <id>http://pentestlab.blog/?p=30125</id>
+        <link href="https://pentestlab.blog/2022/02/01/machine-accounts/"/>
+        <updated>2022-02-01T11:54:00.000Z</updated>
+        <summary type="html"><![CDATA[The pass the hash technique is not new and it was usually used for lateral movement on the network in scenarios where the administrator password… 
+Continue reading → Domain Escalation – Machine Accounts]]></summary>
+        <author>
+            <name>Administrator</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Creating Encase Image of Macbook Pro Max (A2485)]]></title>
+        <id>https://www.reddit.com/r/computerforensics/comments/shs36j/creating_encase_image_of_macbook_pro_max_a2485/</id>
+        <link href="https://www.reddit.com/r/computerforensics/comments/shs36j/creating_encase_image_of_macbook_pro_max_a2485/"/>
+        <updated>2022-02-01T10:44:25.000Z</updated>
+        <summary type="html"><![CDATA[Hi everyone,
+ ​
+ I want to create an encase-image from a MacBook (Model A2485, M1 Max) but any of my attempt so far just have failed. Password is known and I have physical access to the device.
+ Following things I allready tried:
+ - boot external usb with Paladin Edge -> failed to boot from it (tried to allow Booting from external sources via recovery, but there was no option for enabling)
+ - put the MacBook into targetdisk mode an connected it to another iMac -> tried to create an image via ewfaquire but the shared disk wasn't an extra device (or I failed to see it)
+ - boot external usb with Paladin Edge on another iMac, put the MacBook into targetdisk mode an connected it to the iMac -> Paladin Edge doesn't recognize the shared disc
+ My last idea is just to do a timemachine backup from the macbook to a clean / wiped hdd and create an encase image from it ... 
+ Does someone have any other ideas? Would be very happy about any suggestions! Thanks in advance!
+    submitted by    /u/frcGuy81  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Computer Forensics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Password Spraying Attack]]></title>
+        <id>https://medium.com/p/7d8b41ca3a03</id>
+        <link href="https://darshan-jogi.medium.com/password-spraying-attack-7d8b41ca3a03?source=rss------bugbounty-5"/>
+        <updated>2022-02-01T07:45:15.000Z</updated>
+        <summary type="html"><![CDATA[Hello everyone! 🎉
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Darshan Jogi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Peculiar Case of XSS and my first bug]]></title>
+        <id>https://medium.com/p/19f2132390b6</id>
+        <link href="https://apth3hack3r.medium.com/a-peculiar-case-of-xss-and-my-first-bug-19f2132390b6?source=rss------bugbounty-5"/>
+        <updated>2022-02-01T07:35:45.000Z</updated>
+        <summary type="html"><![CDATA[Hello everyone, I am new to security stuff and will share how I was able to get few XSS in not so common way.
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Aman Pareek</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Remote root vulnerability for Samba (CVE 2021-44142)]]></title>
+        <id>https://www.reddit.com/r/netsec/comments/shp27l/remote_root_vulnerability_for_samba_cve_202144142/</id>
+        <link href="https://www.reddit.com/r/netsec/comments/shp27l/remote_root_vulnerability_for_samba_cve_202144142/"/>
+        <updated>2022-02-01T07:22:06.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/lormayna  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>/r/netsec - Information Security News &amp; Discussion</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hack a Linux Desktop with The Cheapest USB Rubber Ducky and The Android Terminal (Termux)]]></title>
+        <id>https://medium.com/p/d8ec62ad25ac</id>
+        <link href="https://infosecwriteups.com/hack-a-linux-desktop-with-the-cheapest-usb-rubber-ducky-and-the-android-terminal-termux-d8ec62ad25ac?source=rss----7b722bfd1b8d---4"/>
+        <updated>2022-02-01T06:28:43.000Z</updated>
+        <summary type="html"><![CDATA[Last time, I have written an article about making a USB Rubber Ducky with less than $3 and I did a simple test and attach how to…]]></summary>
+        <author>
+            <name>Febi Mudiyanto</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hack a Linux Desktop with The Cheapest USB Rubber Ducky and The Android Terminal (Termux)]]></title>
+        <id>https://medium.com/p/d8ec62ad25ac</id>
+        <link href="https://infosecwriteups.com/hack-a-linux-desktop-with-the-cheapest-usb-rubber-ducky-and-the-android-terminal-termux-d8ec62ad25ac?source=rss----7b722bfd1b8d---4"/>
+        <updated>2022-02-01T06:28:43.000Z</updated>
+        <summary type="html"><![CDATA[Last time, I have written an article about making a USB Rubber Ducky with less than $3 and I did a simple test and attach how to…]]></summary>
+        <author>
+            <name>Febi Mudiyanto</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How I exposed the teacher’s Aadhaar card, bank details on the college website.]]></title>
+        <id>https://medium.com/p/3e8d44446378</id>
+        <link href="https://infosecwriteups.com/how-i-exposed-the-teachers-aadhaar-card-bank-details-in-the-college-website-3e8d44446378?source=rss----7b722bfd1b8d---4"/>
+        <updated>2022-02-01T06:27:23.000Z</updated>
+        <summary type="html"><![CDATA[Hey fellow hackers and Bug hunters,]]></summary>
+        <author>
+            <name>Ramalingasamy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How I exposed the teacher’s Aadhaar card, bank details on the college website.]]></title>
+        <id>https://medium.com/p/3e8d44446378</id>
+        <link href="https://infosecwriteups.com/how-i-exposed-the-teachers-aadhaar-card-bank-details-in-the-college-website-3e8d44446378?source=rss----7b722bfd1b8d---4"/>
+        <updated>2022-02-01T06:27:23.000Z</updated>
+        <summary type="html"><![CDATA[Hey fellow hackers and Bug hunters,]]></summary>
+        <author>
+            <name>Ramalingasamy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Understanding Steganography for Capture The Flag Challenges]]></title>
+        <id>https://medium.com/p/73f7b310b1f7</id>
+        <link href="https://infosecwriteups.com/steganography-ctfs-73f7b310b1f7?source=rss----7b722bfd1b8d---4"/>
+        <updated>2022-02-01T06:23:14.000Z</updated>
+        <summary type="html"><![CDATA[what is Steganography? where it is used? Steganography in CTF’s]]></summary>
+        <author>
+            <name>hac#</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Understanding Steganography for Capture The Flag Challenges]]></title>
+        <id>https://medium.com/p/73f7b310b1f7</id>
+        <link href="https://infosecwriteups.com/steganography-ctfs-73f7b310b1f7?source=rss----7b722bfd1b8d---4"/>
+        <updated>2022-02-01T06:23:14.000Z</updated>
+        <summary type="html"><![CDATA[what is Steganography? where it is used? Steganography in CTF’s]]></summary>
+        <author>
+            <name>hac#</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Paytm-Broken Link Hijacking]]></title>
+        <id>https://medium.com/p/11624e4e9eef</id>
+        <link href="https://infosecwriteups.com/paytm-broken-link-hijacking-11624e4e9eef?source=rss----7b722bfd1b8d---4"/>
+        <updated>2022-02-01T06:22:52.000Z</updated>
+        <summary type="html"><![CDATA[Hello Everyone….]]></summary>
+        <author>
+            <name>Lohith Gowda M</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Paytm-Broken Link Hijacking]]></title>
+        <id>https://medium.com/p/11624e4e9eef</id>
+        <link href="https://infosecwriteups.com/paytm-broken-link-hijacking-11624e4e9eef?source=rss----7b722bfd1b8d---4"/>
+        <updated>2022-02-01T06:22:52.000Z</updated>
+        <summary type="html"><![CDATA[Hello Everyone….]]></summary>
+        <author>
+            <name>Lohith Gowda M</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TryHackMe — Extending Your Network]]></title>
+        <id>https://medium.com/p/15b7a28c9c0f</id>
+        <link href="https://infosecwriteups.com/tryhackme-extending-your-network-15b7a28c9c0f?source=rss----7b722bfd1b8d---4"/>
+        <updated>2022-02-01T06:22:00.000Z</updated>
+        <summary type="html"><![CDATA[Ctf info writeup]]></summary>
+        <author>
+            <name>Mukilan Baskaran</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TryHackMe — Extending Your Network]]></title>
+        <id>https://medium.com/p/15b7a28c9c0f</id>
+        <link href="https://infosecwriteups.com/tryhackme-extending-your-network-15b7a28c9c0f?source=rss----7b722bfd1b8d---4"/>
+        <updated>2022-02-01T06:22:00.000Z</updated>
+        <summary type="html"><![CDATA[Ctf info writeup]]></summary>
+        <author>
+            <name>Mukilan Baskaran</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Everyday-Cyber]]></title>
+        <id>https://medium.com/p/f7d215d93841</id>
+        <link href="https://infosecwriteups.com/everyday-cyber-f7d215d93841?source=rss----7b722bfd1b8d---4"/>
+        <updated>2022-02-01T06:20:14.000Z</updated>
+        <summary type="html"><![CDATA[Day-1]]></summary>
+        <author>
+            <name>Thirukrishnan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Everyday-Cyber]]></title>
+        <id>https://medium.com/p/f7d215d93841</id>
+        <link href="https://infosecwriteups.com/everyday-cyber-f7d215d93841?source=rss----7b722bfd1b8d---4"/>
+        <updated>2022-02-01T06:20:14.000Z</updated>
+        <summary type="html"><![CDATA[Day-1]]></summary>
+        <author>
+            <name>Thirukrishnan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Story of an RCE on a Java Web Application]]></title>
+        <id>https://medium.com/p/2e400cddcd1e</id>
+        <link href="https://infosecwriteups.com/the-story-of-a-rce-on-a-java-web-application-2e400cddcd1e?source=rss----7b722bfd1b8d---4"/>
+        <updated>2022-02-01T06:19:37.000Z</updated>
+        <summary type="html"><![CDATA[It was about two months ago (November 2021) I was invited to a private program. According to their program scope, I decided to hack them…]]></summary>
+        <author>
+            <name>LIL NIX</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Story of an RCE on a Java Web Application]]></title>
+        <id>https://medium.com/p/2e400cddcd1e</id>
+        <link href="https://infosecwriteups.com/the-story-of-a-rce-on-a-java-web-application-2e400cddcd1e?source=rss----7b722bfd1b8d---4"/>
+        <updated>2022-02-01T06:19:37.000Z</updated>
+        <summary type="html"><![CDATA[It was about two months ago (November 2021) I was invited to a private program. According to their program scope, I decided to hack them…]]></summary>
+        <author>
+            <name>LIL NIX</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IDOR vulnerability on invoice and weak password reset leads to account take over]]></title>
+        <id>https://medium.com/p/603b42143a8c</id>
+        <link href="https://medium.com/@damaidec/idor-vulnerability-on-invoice-and-weak-password-reset-leads-to-account-take-over-603b42143a8c?source=rss------bugbounty-5"/>
+        <updated>2022-02-01T05:49:24.000Z</updated>
+        <summary type="html"><![CDATA[This year I started doing bug bounties and I only got valid p5 report and my report for p4 and p3 got rejected.
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Damaidec</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Help me guys]]></title>
+        <id>https://www.reddit.com/r/AskNetsec/comments/shnhsb/help_me_guys/</id>
+        <link href="https://www.reddit.com/r/AskNetsec/comments/shnhsb/help_me_guys/"/>
+        <updated>2022-02-01T05:48:32.000Z</updated>
+        <summary type="html"><![CDATA[I have downloaded 2 photo recovery apps from playatore into my phone. But I am scared that they might be fake apps which steals photos. I have checked the privacy policy in which it was statated that
+ The information that I request will be retained on your device and is not collected by me in any way.
+ But now im not sure whethet i can trust them. The apps seem to be fake with manipulated reviews. Where would all my photos go to if they are sus apps? Do you guys think that they are sus apps by high chances? 
+ It would be nice if I get replies... Thank you!
+    submitted by    /u/WhiteSwordMaster  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>AskNetsec</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Understanding Automation in Bug Bounty]]></title>
+        <id>https://medium.com/p/55aa0e8ff0b4</id>
+        <link href="https://takshil-patil529.medium.com/understanding-automation-in-bug-bounty-55aa0e8ff0b4?source=rss------bugbounty-5"/>
+        <updated>2022-02-01T04:55:15.000Z</updated>
+        <summary type="html"><![CDATA[==UNDER CONSTRUCTI
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Takshil Patil</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RCE in Samba(CVE-2021-44142)]]></title>
+        <id>https://news.ycombinator.com/item?id=30158662</id>
+        <link href="https://www.samba.org/samba/security/CVE-2021-44142.html"/>
+        <updated>2022-02-01T04:36:52.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.samba.org/samba/security/CVE-2021-44142.html
+Comments URL: https://news.ycombinator.com/item?id=30158662
+Points: 3
+# Comments: 0]]></summary>
+        <author>
+            <name>phront</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[photos and documents relating to Russian involvement in Ukraine]]></title>
+        <id>https://www.reddit.com/r/opendirectories/comments/shm6my/photos_and_documents_relating_to_russian/</id>
+        <link href="https://www.reddit.com/r/opendirectories/comments/shm6my/photos_and_documents_relating_to_russian/"/>
+        <updated>2022-02-01T04:36:44.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/PM_ME_TO_PLAY_A_GAME  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Open Directories</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[high res images of Russian dairy products]]></title>
+        <id>https://www.reddit.com/r/opendirectories/comments/shm4iv/high_res_images_of_russian_dairy_products/</id>
+        <link href="https://www.reddit.com/r/opendirectories/comments/shm4iv/high_res_images_of_russian_dairy_products/"/>
+        <updated>2022-02-01T04:33:37.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/PM_ME_TO_PLAY_A_GAME  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Open Directories</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Beginner Bug Bounty Guide - Part 5]]></title>
+        <id>https://medium.com/p/87d17da9bf97</id>
+        <link href="https://takshil-patil529.medium.com/beginner-bug-bounty-guide-part-5-87d17da9bf97?source=rss------fuzzing-5"/>
+        <updated>2022-02-01T00:58:43.000Z</updated>
+        <summary type="html"><![CDATA[Previous : Beginner Bug Bounty Guide — Part 4
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Takshil Patil</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Beginner Bug Bounty Guide - Part 5]]></title>
+        <id>https://medium.com/p/87d17da9bf97</id>
+        <link href="https://takshil-patil529.medium.com/beginner-bug-bounty-guide-part-5-87d17da9bf97?source=rss------fuzzing-5"/>
+        <updated>2022-02-01T00:58:43.000Z</updated>
+        <summary type="html"><![CDATA[Previous : Beginner Bug Bounty Guide — Part 4
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Takshil Patil</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Beginner Bug Bounty Guide - Part 5]]></title>
         <id>https://medium.com/p/94f10080b3bd</id>
@@ -535,6 +1158,19 @@ Continue reading on Medium »]]></summary>
 Continue reading on Medium »]]></summary>
         <author>
             <name>Techjournalist</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Spare GCFA Practice]]></title>
+        <id>https://www.reddit.com/r/computerforensics/comments/sgid6x/spare_gcfa_practice/</id>
+        <link href="https://www.reddit.com/r/computerforensics/comments/sgid6x/spare_gcfa_practice/"/>
+        <updated>2022-01-30T20:40:41.000Z</updated>
+        <summary type="html"><![CDATA[Hey all 
+ Anyone here have a spare GCFA practice they could wing this way ? Despite multiple content run throughs and a comprehensive index, I flunked both my practice exams :S Second fail was surprising as I felt confident ! 2 weeks left now until the real thing so hoping some more turbo study and another practice may boost the confidence. Cheers !
+    submitted by    /u/Gumps903  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Computer Forensics</name>
         </author>
     </entry>
     <entry>
@@ -1249,6 +1885,17 @@ Points: 2
 Continue reading on Medium »]]></summary>
         <author>
             <name>Kapish Kuchroo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Analyze RTF Template Injection Attacks]]></title>
+        <id>https://www.reddit.com/r/netsec/comments/sf0y68/how_to_analyze_rtf_template_injection_attacks/</id>
+        <link href="https://www.reddit.com/r/netsec/comments/sf0y68/how_to_analyze_rtf_template_injection_attacks/"/>
+        <updated>2022-01-28T21:15:44.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/ogunal00  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>/r/netsec - Information Security News &amp; Discussion</name>
         </author>
     </entry>
     <entry>
