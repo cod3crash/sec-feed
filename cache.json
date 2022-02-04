@@ -6,6 +6,42 @@
       "siteUrl": "http://h1.nobbd.de/",
       "articles": [
         {
+          "id": "https://hackerone.com/reports/1391576",
+          "author": null,
+          "description": "8x8 disclosed a bug submitted by 0daystolive: https://hackerone.com/reports/1391576",
+          "link": "https://hackerone.com/reports/1391576",
+          "publishedOn": "2022-02-03T16:37:21.000Z",
+          "wordCount": 25,
+          "title": "Remote Code Execution on .8x8.com via .NET VSTATE Deserialization"
+        },
+        {
+          "id": "https://hackerone.com/reports/1353200",
+          "author": null,
+          "description": "OneWeb disclosed a bug submitted by aman420: https://hackerone.com/reports/1353200",
+          "link": "https://hackerone.com/reports/1353200",
+          "publishedOn": "2022-02-03T11:12:41.000Z",
+          "wordCount": 25,
+          "title": "text injection and content spoofing"
+        },
+        {
+          "id": "https://hackerone.com/reports/1401209",
+          "author": null,
+          "description": "Engel & Völkers Technology GmbH disclosed a bug submitted by pl4gue_shell: https://hackerone.com/reports/1401209",
+          "link": "https://hackerone.com/reports/1401209",
+          "publishedOn": "2022-02-03T07:01:56.000Z",
+          "wordCount": 25,
+          "title": "Reflected Xss in https://world.engelvoelkers.com/..."
+        },
+        {
+          "id": "https://hackerone.com/reports/1464396",
+          "author": null,
+          "description": "Internet Bug Bounty disclosed a bug submitted by ooooooo_q: https://hackerone.com/reports/1464396 - Bounty: $2000",
+          "link": "https://hackerone.com/reports/1464396",
+          "publishedOn": "2022-02-03T03:43:03.000Z",
+          "wordCount": 25,
+          "title": "Ruby CVE-2021-41819: Cookie Prefix Spoofing in CGI::Cookie.parse"
+        },
+        {
           "id": "https://hackerone.com/reports/1404612",
           "author": null,
           "description": "TikTok disclosed a bug submitted by lu3ky-13: https://hackerone.com/reports/1404612 - Bounty: $999",
@@ -2999,6 +3035,42 @@
       "siteUrl": "https://medium.com/tag/bugbounty/latest?source=rss------bugbounty-5",
       "articles": [
         {
+          "id": "https://medium.com/p/b11f18d20655",
+          "author": "Beethoven x",
+          "description": "In April 2021, Balancer Labs decided to go big in pursuit of uncovering vulnerabilities in their V2 Vault architecture with the launch of…\nContinue reading on Balancer Protocol »",
+          "link": "https://medium.com/balancer-protocol/beethoven-x-joins-balancer-labs-bug-bounty-program-b11f18d20655?source=rss------bugbounty-5",
+          "publishedOn": "2022-02-03T20:04:10.000Z",
+          "wordCount": 649,
+          "title": "Beethoven X Joins Balancer Labs’ Bug Bounty Program"
+        },
+        {
+          "id": "https://medium.com/p/4f107b380ba",
+          "author": "Kauê Navarro",
+          "description": "Hoje vou falar um pouco de uma falha que me levou a dois relatórios infelizmente ambos foram duplicados porém ficou de experiência e…\nContinue reading on Medium »",
+          "link": "https://medium.com/@kauenavarro/bugbounty-ssrf-iframe-injection-e-xss-reflected-4f107b380ba?source=rss------bugbounty-5",
+          "publishedOn": "2022-02-03T16:02:28.000Z",
+          "wordCount": 664,
+          "title": "[Bugbounty]SSRF — IFRAME INJECTION E XSS REFLECTED"
+        },
+        {
+          "id": "https://medium.com/p/1e6ce42de503",
+          "author": "Immunefi",
+          "description": "At Immunefi, we receive a large number of reports from whitehats regarding subdomain takeovers. But we have a policy of always marking…\nContinue reading on Immunefi »",
+          "link": "https://medium.com/immunefi/subdomain-takeover-bugs-when-theyre-applicable-and-when-they-re-not-1e6ce42de503?source=rss------bugbounty-5",
+          "publishedOn": "2022-02-03T15:48:12.000Z",
+          "wordCount": 817,
+          "title": "Subdomain Takeover Bugs — When They’re Applicable And When They’re Not"
+        },
+        {
+          "id": "https://medium.com/p/50032872b79b",
+          "author": "Genesis",
+          "description": "First Of all I’ll Describe What is Pass-The-Hash Attack\nContinue reading on Medium »",
+          "link": "https://genesis1109.medium.com/underrated-tool-for-pass-the-hash-evil-winrm-50032872b79b?source=rss------bugbounty-5",
+          "publishedOn": "2022-02-03T13:47:39.000Z",
+          "wordCount": 385,
+          "title": "UnderRated Tool For Pass-The-Hash[Evil-WinRM]"
+        },
+        {
           "id": "https://medium.com/p/28b634903934",
           "author": "Immunefi",
           "description": "Summary\nContinue reading on Immunefi »",
@@ -5436,6 +5508,15 @@
       "siteUrl": "https://medium.com/tag/redteam/latest?source=rss------redteam-5",
       "articles": [
         {
+          "id": "https://medium.com/p/b7fc0a5595fd",
+          "author": "prplbx",
+          "description": "This blog post was published on PurpleBox website on Feb 2nd, 2022.\nContinue reading on PurpleBox »",
+          "link": "https://medium.com/purplebox/what-is-red-teaming-b7fc0a5595fd?source=rss------redteam-5",
+          "publishedOn": "2022-02-03T06:56:09.000Z",
+          "wordCount": 1706,
+          "title": "What is Red Teaming?"
+        },
+        {
           "id": "https://medium.com/p/56e36a792cdb",
           "author": "Komodo Consulting",
           "description": "It’s no secret that GitHub has become one of the main information resources for red-team reconnaissance. I mean, why bother with complex…\nContinue reading on Medium »",
@@ -6907,6 +6988,33 @@
       "feedUrl": "https://medium.com/feed/tag/osint",
       "siteUrl": "https://medium.com/tag/osint/latest?source=rss------osint-5",
       "articles": [
+        {
+          "id": "https://medium.com/p/ec37568ef6df",
+          "author": "Philip Collier",
+          "description": "A few months ago, I posted an instructional video on using internet radio servers to tune and listen to AM radio stations in Ukraine and…\nContinue reading on Medium »",
+          "link": "https://medium.com/@philipcollier/tuning-in-the-hot-spots-ec37568ef6df?source=rss------osint-5",
+          "publishedOn": "2022-02-03T15:45:55.000Z",
+          "wordCount": 366,
+          "title": "Tuning in the Hot Spots"
+        },
+        {
+          "id": "https://medium.com/p/634be8a0b739",
+          "author": "Levent Durdalı",
+          "description": "On Jan 20, 2022, Quiztime (contributor @trbrtc) shared a new OSINT quiz with us. The objective was, interesting. We had to figure out…\nContinue reading on Medium »",
+          "link": "https://medium.com/@leventd/quiztime-random-osint-challenge-10-634be8a0b739?source=rss------osint-5",
+          "publishedOn": "2022-02-03T14:31:09.000Z",
+          "wordCount": 711,
+          "title": "Quiztime — Random OSINT Challenge 10"
+        },
+        {
+          "id": "https://medium.com/p/42f7887aaab8",
+          "author": "Secure With Arpan",
+          "description": "Open-source Intelligence: Premimum Hacking Course In Free !!\nContinue reading on Medium »",
+          "link": "https://securewitharpan.medium.com/open-source-intelligence-with-osint-course-giveaway-42f7887aaab8?source=rss------osint-5",
+          "publishedOn": "2022-02-03T12:15:24.000Z",
+          "wordCount": 656,
+          "title": "Open-source Intelligence. With OSINT Course Giveaway !!"
+        },
         {
           "id": "https://medium.com/p/6f07c9263de0",
           "author": "Sofia Santos",
@@ -8574,6 +8682,24 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=30191854",
+          "author": "feross",
+          "description": "Article URL: https://portswigger.net/daily-swig/snapfuzz-new-fuzzing-tool-speeds-up-testing-of-network-applications\nComments URL: https://news.ycombinator.com/item?id=30191854\nPoints: 17\n# Comments: 2",
+          "link": "https://portswigger.net/daily-swig/snapfuzz-new-fuzzing-tool-speeds-up-testing-of-network-applications",
+          "publishedOn": "2022-02-03T13:01:14.000Z",
+          "wordCount": 1206,
+          "title": "SnapFuzz: New fuzzing tool speeds up testing of network applications"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=30190779",
+          "author": "lrngjcb",
+          "description": "Article URL: https://www.youtube.com/watch?v=kvREvOvSWt4\nComments URL: https://news.ycombinator.com/item?id=30190779\nPoints: 1\n# Comments: 0",
+          "link": "https://www.youtube.com/watch?v=kvREvOvSWt4",
+          "publishedOn": "2022-02-03T10:25:16.000Z",
+          "wordCount": null,
+          "title": "Fuzzing Java to Find Log4j Vulnerability – CVE-2021-45046"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=30156948",
           "author": "matt_d",
           "description": "Article URL: https://arxiv.org/abs/2201.09941\nComments URL: https://news.ycombinator.com/item?id=30156948\nPoints: 1\n# Comments: 0",
@@ -8841,6 +8967,33 @@
       "feedUrl": "https://hnrss.org/newest?q=CVE",
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
+        {
+          "id": "https://news.ycombinator.com/item?id=30200900",
+          "author": "neustradamus",
+          "description": "Article URL: https://lists.infradead.org/pipermail/hostap/2022-January/040148.html\nComments URL: https://news.ycombinator.com/item?id=30200900\nPoints: 1\n# Comments: 0",
+          "link": "https://lists.infradead.org/pipermail/hostap/2022-January/040148.html",
+          "publishedOn": "2022-02-04T00:05:47.000Z",
+          "wordCount": 877,
+          "title": "Hostapd/wpa_supplicant: new release v2.10 (with CVE fixes)"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=30200504",
+          "author": "neustradamus",
+          "description": "Article URL: https://reload4j.qos.ch/news.html\nComments URL: https://news.ycombinator.com/item?id=30200504\nPoints: 2\n# Comments: 0",
+          "link": "https://reload4j.qos.ch/news.html",
+          "publishedOn": "2022-02-03T23:24:19.000Z",
+          "wordCount": 436,
+          "title": "Reload4j 1.2.18.5: A drop-in replacement for Log4j 1.2.17 and CVE fixes"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=30190779",
+          "author": "lrngjcb",
+          "description": "Article URL: https://www.youtube.com/watch?v=kvREvOvSWt4\nComments URL: https://news.ycombinator.com/item?id=30190779\nPoints: 1\n# Comments: 0",
+          "link": "https://www.youtube.com/watch?v=kvREvOvSWt4",
+          "publishedOn": "2022-02-03T10:25:16.000Z",
+          "wordCount": null,
+          "title": "Fuzzing Java to Find Log4j Vulnerability – CVE-2021-45046"
+        },
         {
           "id": "https://news.ycombinator.com/item?id=30183811",
           "author": "savant2",
@@ -9289,6 +9442,15 @@
       "feedUrl": "https://hnrss.org/newest?q=vulnerability",
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
+        {
+          "id": "https://news.ycombinator.com/item?id=30190779",
+          "author": "lrngjcb",
+          "description": "Article URL: https://www.youtube.com/watch?v=kvREvOvSWt4\nComments URL: https://news.ycombinator.com/item?id=30190779\nPoints: 1\n# Comments: 0",
+          "link": "https://www.youtube.com/watch?v=kvREvOvSWt4",
+          "publishedOn": "2022-02-03T10:25:16.000Z",
+          "wordCount": null,
+          "title": "Fuzzing Java to Find Log4j Vulnerability – CVE-2021-45046"
+        },
         {
           "id": "https://news.ycombinator.com/item?id=30179610",
           "author": "feross",
@@ -13172,6 +13334,15 @@
       "siteUrl": "http://www.sec-wiki.com/",
       "articles": [
         {
+          "id": "http://www.sec-wiki.com/?2022-02-03",
+          "author": null,
+          "description": "新姿势绕过应用的ROOT检测  by ourren\n更多最新文章，请访问SecWiki",
+          "link": "http://www.sec-wiki.com/?2022-02-03",
+          "publishedOn": "2022-02-03T15:58:20.000Z",
+          "wordCount": 589,
+          "title": "SecWiki News 2022-02-03 Review"
+        },
+        {
           "id": "http://www.sec-wiki.com/?2022-02-02",
           "author": null,
           "description": "安全学术圈2021年度总结  by ourren\n2021 年终总结：记我在清华 Apache IoTDB 组的成长  by ourren\n更多最新文章，请访问SecWiki",
@@ -13647,6 +13818,33 @@
       "siteUrl": "https://www.reddit.com/r/asknetsec/",
       "articles": [
         {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/sjvpvg/what_is_considered_more_secure_vpn_client/",
+          "author": null,
+          "description": "submitted by    /u/baghdadcafe  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/sjvpvg/what_is_considered_more_secure_vpn_client/",
+          "publishedOn": "2022-02-03T22:02:10.000Z",
+          "wordCount": 220,
+          "title": "What is considered more secure VPN client software on IoT device or IoT device behind VPN?"
+        },
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/sjt5oa/passive_log_analysis_software/",
+          "author": null,
+          "description": "Hello,\n I am interested if there is tool/software that will help me analyze logs from web server, ssh and Mysql for intrusion, but on another PC.\n So I basically want to pull logs from many servers and run them trough some software that can detect possible SQLi or path traversal attempts, something like that.\n I know there is Snort and SIEMs but is there any software that will use for example Snorts engine and rules to do this analysis offline ?\n Or can I run snort on some log file from other server? \n P.S. possibly open source. Thanks.\n    submitted by    /u/P-e-t-a-r  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/sjt5oa/passive_log_analysis_software/",
+          "publishedOn": "2022-02-03T20:17:57.000Z",
+          "wordCount": 1386,
+          "title": "Passive log analysis software"
+        },
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/sjj9ki/onenote_visibility/",
+          "author": null,
+          "description": "Hi Guys. I like OneNote, and my org blocks anything else, I use it at work and at home. \n Three questions: \n  \nIf I login to my work OneNote account, on my personal Mac/Win/Linux computers, can my work track my computers at all, or see it's MAC address or name?\n If I login to my personal OneNote account on my work computer, can they read my OneNotes?\n Do the answers to the above two questions apply for all of OneDrive too?\n  \nAppreciate any responses as I've been told that it's all pretty private so I should be good to go with either.\n    submitted by    /u/bloqs  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/sjj9ki/onenote_visibility/",
+          "publishedOn": "2022-02-03T13:31:40.000Z",
+          "wordCount": 848,
+          "title": "OneNote Visibility"
+        },
+        {
           "id": "https://www.reddit.com/r/AskNetsec/comments/siyekq/entrylevel_penetration_tester_salary_in/",
           "author": null,
           "description": "What would be an approximate salary range for a penetration tester in Switzerland (Zürich area as a reference)? Not necessary big 4 but also small or medium size companies, for an entry level position, with a master's degree, and a 6-month internship in the field as the only experience.\n    submitted by    /u/BroX111  \n [link]   [comments]",
@@ -13672,6 +13870,15 @@
           "publishedOn": "2022-02-02T11:00:17.000Z",
           "wordCount": 631,
           "title": "EDR / XDR on premise"
+        },
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/sijz3n/scanning_for_locations/",
+          "author": null,
+          "description": "Hello,\n Any tips on scanning slower with gobuster or other tool for finding paths and evade WAF. I'm afraid it will be detected and probably my machine will be blocked by it.\n    submitted by    /u/tryingtoworkatm  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/sijz3n/scanning_for_locations/",
+          "publishedOn": "2022-02-02T08:56:53.000Z",
+          "wordCount": 231,
+          "title": "Scanning for locations."
         },
         {
           "id": "https://www.reddit.com/r/AskNetsec/comments/sieh07/how_are_hackers_caught/",
@@ -17538,15 +17745,6 @@
           "publishedOn": "2021-11-09T14:58:00.000Z",
           "wordCount": 131,
           "title": "Asking Github Copilot to write Fuzzers & Hacking code for me - Hacking with AI"
-        },
-        {
-          "id": "https://www.reddit.com/r/ExploitDev/comments/lbsh3z/getting_started_with_exploit_development/",
-          "author": null,
-          "description": "submitted by    /u/PM_ME_YOUR_SHELLCODE  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/ExploitDev/comments/lbsh3z/getting_started_with_exploit_development/",
-          "publishedOn": "2021-02-03T17:12:06.000Z",
-          "wordCount": 1226,
-          "title": "Getting Started with Exploit Development"
         }
       ]
     },
@@ -17555,6 +17753,24 @@
       "feedUrl": "https://www.reddit.com/r/computerforensics/.rss",
       "siteUrl": "https://www.reddit.com/r/computerforensics/",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/computerforensics/comments/sjpy91/interview_questions_for_entry_level_incident/",
+          "author": null,
+          "description": "i have an interview coming up soon. What sort of technical questions /scenario questions should I be expecting? Thx\n    submitted by    /u/tfulab23  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/computerforensics/comments/sjpy91/interview_questions_for_entry_level_incident/",
+          "publishedOn": "2022-02-03T18:09:32.000Z",
+          "wordCount": 644,
+          "title": "Interview questions for entry level incident response positions?"
+        },
+        {
+          "id": "https://www.reddit.com/r/computerforensics/comments/sj9wxx/photorec_issues/",
+          "author": null,
+          "description": "I am new to computer forensics and am having trouble installing autopsy to my Mac. When I am installing autopsy, I get an error when checking the prerequisites for autopsy. Specifically, when I type \"sh unix_setup.sh\" into terminal, it reads \"ERROR: PhotoRec not found, please install the testdisk package.\" I have installed testdisk so I am just confused why I get this error. Sorry if this is a stupid question, I am just dumbfounded by this error message.\n    submitted by    /u/Vekayy  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/computerforensics/comments/sj9wxx/photorec_issues/",
+          "publishedOn": "2022-02-03T04:31:56.000Z",
+          "wordCount": 302,
+          "title": "Photorec Issues"
+        },
         {
           "id": "https://www.reddit.com/r/computerforensics/comments/sid26i/recycle_bin_conundrum/",
           "author": null,
@@ -18516,6 +18732,33 @@
       "feedUrl": "https://www.reddit.com/r/netsec/.rss",
       "siteUrl": "https://www.reddit.com/r/netsec/",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/netsec/comments/sjrwpx/a_detailed_analysis_of_lazarus_malware_disguised/",
+          "author": null,
+          "description": "submitted by    /u/CyberMasterV  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/netsec/comments/sjrwpx/a_detailed_analysis_of_lazarus_malware_disguised/",
+          "publishedOn": "2022-02-03T19:28:24.000Z",
+          "wordCount": 123,
+          "title": "A detailed analysis of Lazarus malware disguised as Notepad++ Shell Extension"
+        },
+        {
+          "id": "https://www.reddit.com/r/netsec/comments/sjla44/ntlm_relaying_a_comprehensive_guide/",
+          "author": null,
+          "description": "submitted by    /u/jeanc0re  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/netsec/comments/sjla44/ntlm_relaying_a_comprehensive_guide/",
+          "publishedOn": "2022-02-03T14:58:22.000Z",
+          "wordCount": 254,
+          "title": "NTLM Relaying - A comprehensive guide"
+        },
+        {
+          "id": "https://www.reddit.com/r/netsec/comments/sjfsfe/cve202223602_dont_trust_comments/",
+          "author": null,
+          "description": "submitted by    /u/crower  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/netsec/comments/sjfsfe/cve202223602_dont_trust_comments/",
+          "publishedOn": "2022-02-03T10:21:44.000Z",
+          "wordCount": 331,
+          "title": "[CVE-2022-23602] Don't trust comments"
+        },
         {
           "id": "https://www.reddit.com/r/netsec/comments/sj5eaq/history_of_revil_detailed_report_on_the_rise_and/",
           "author": null,
@@ -20350,6 +20593,60 @@
       "feedUrl": "https://www.reddit.com/r/opendirectories/.rss",
       "siteUrl": "https://www.reddit.com/r/opendirectories/",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/opendirectories/comments/sjzq0g/jackpot/",
+          "author": null,
+          "description": "http://dhakaftp.com/Data/ Lots of movies. Really good Download speeds. look for \"English movies\" or \"Hollywood\" in folders for movies in English. Try to take it easy as to not overwhelm the site.\n    submitted by    /u/soulkrypto  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/opendirectories/comments/sjzq0g/jackpot/",
+          "publishedOn": "2022-02-04T00:54:09.000Z",
+          "wordCount": 118,
+          "title": "Jackpot"
+        },
+        {
+          "id": "https://www.reddit.com/r/opendirectories/comments/sjyuyt/nobel_od_server_in_romania/",
+          "author": null,
+          "description": "submitted by    /u/stereoroid  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/opendirectories/comments/sjyuyt/nobel_od_server_in_romania/",
+          "publishedOn": "2022-02-04T00:15:32.000Z",
+          "wordCount": 178,
+          "title": "Nobel OD server in Romania"
+        },
+        {
+          "id": "https://www.reddit.com/r/opendirectories/comments/sjuf2h/index_of_nasas_land_processes_distributed_active/",
+          "author": null,
+          "description": "https://e4ftl01.cr.usgs.gov/ASTT/\n ​\n Some sort of unsecured government website.\n    submitted by    /u/Main_Force_Patrol  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/opendirectories/comments/sjuf2h/index_of_nasas_land_processes_distributed_active/",
+          "publishedOn": "2022-02-03T21:09:12.000Z",
+          "wordCount": 117,
+          "title": "Index of NASA's Land Processes Distributed Active Archive Center"
+        },
+        {
+          "id": "https://www.reddit.com/r/opendirectories/comments/sjqkp5/indexes_from_bronlessgrottofaith/",
+          "author": null,
+          "description": "https://bornless.grotto.faith/pages/\n https://bornless.grotto.faith/images/\n    submitted by    /u/EmuAnon34  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/opendirectories/comments/sjqkp5/indexes_from_bronlessgrottofaith/",
+          "publishedOn": "2022-02-03T18:34:38.000Z",
+          "wordCount": 104,
+          "title": "Indexes from Bronless.Grotto.Faith"
+        },
+        {
+          "id": "https://www.reddit.com/r/opendirectories/comments/sjjh7o/mozart_opera_omnia_in_flac_format_200_cds/",
+          "author": null,
+          "description": "http://rmeyer.comelitdns.com/Music/MOZART%20225/\n    submitted by    /u/Appropriate-You-6065  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/opendirectories/comments/sjjh7o/mozart_opera_omnia_in_flac_format_200_cds/",
+          "publishedOn": "2022-02-03T13:41:36.000Z",
+          "wordCount": 272,
+          "title": "Mozart Opera Omnia in FLAC format (200 CDs)"
+        },
+        {
+          "id": "https://www.reddit.com/r/opendirectories/comments/sjj22o/doom_2_wads/",
+          "author": null,
+          "description": "submitted by    /u/millhouse187  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/opendirectories/comments/sjj22o/doom_2_wads/",
+          "publishedOn": "2022-02-03T13:21:58.000Z",
+          "wordCount": 198,
+          "title": "Doom 2 WADS"
+        },
         {
           "id": "https://www.reddit.com/r/opendirectories/comments/sj5jp0/lots_of_movies_and_tv_slow_connection/",
           "author": null,
