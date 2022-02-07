@@ -6,6 +6,15 @@
       "siteUrl": "http://h1.nobbd.de/",
       "articles": [
         {
+          "id": "https://hackerone.com/reports/943737",
+          "author": null,
+          "description": "Rocket.Chat disclosed a bug submitted by sectex: https://hackerone.com/reports/943737",
+          "link": "https://hackerone.com/reports/943737",
+          "publishedOn": "2022-02-06T19:36:37.000Z",
+          "wordCount": 25,
+          "title": "Arbitrary file read in Rocket.Chat-Desktop"
+        },
+        {
           "id": "https://hackerone.com/reports/410334",
           "author": null,
           "description": "IBM disclosed a bug submitted by smokin-ac3z: https://hackerone.com/reports/410334",
@@ -3089,6 +3098,60 @@
       "siteUrl": "https://medium.com/tag/bugbounty/latest?source=rss------bugbounty-5",
       "articles": [
         {
+          "id": "https://medium.com/p/a4704ea73ce3",
+          "author": "Taha",
+          "description": "Hello, I’m Taha. Today, I’ll go over one of the vulnerabilities I was rewarded for last month. I hope you enjoy this write-up.\nContinue reading on Medium »",
+          "link": "https://khodetaha.medium.com/the-devil-is-in-the-details-authentication-bypass-a4704ea73ce3?source=rss------bugbounty-5",
+          "publishedOn": "2022-02-06T23:25:11.000Z",
+          "wordCount": 248,
+          "title": "The devil is in the details [Authentication Bypass]"
+        },
+        {
+          "id": "https://medium.com/p/aeca1907e3d8",
+          "author": "Akash0x0",
+          "description": "Hello Hacker’s & Security Guys Thanks for Your Support So\nContinue reading on Medium »",
+          "link": "https://akash0x0.medium.com/how-to-start-bbj-bug-bounty-journey-aeca1907e3d8?source=rss------bugbounty-5",
+          "publishedOn": "2022-02-06T18:49:27.000Z",
+          "wordCount": 262,
+          "title": "How To Start BBJ (Bug Bounty Journey)"
+        },
+        {
+          "id": "https://medium.com/p/f578e8d469fd",
+          "author": "Hamit CİBO",
+          "description": "Greetings Everyone from Sancta Sophia,\nContinue reading on Medium »",
+          "link": "https://hcibo.medium.com/my-pentest-log-5-f578e8d469fd?source=rss------bugbounty-5",
+          "publishedOn": "2022-02-06T17:46:46.000Z",
+          "wordCount": 692,
+          "title": "My Pentest Log -5-"
+        },
+        {
+          "id": "https://medium.com/p/269a6f556ed3",
+          "author": "Takshil Patil",
+          "description": "When you have a fixed payload list, a fixed methodology, a fixed approach, then effectively penetration testing and bug bounty hunting are…\nContinue reading on Medium »",
+          "link": "https://takshilp.medium.com/penetration-testing-vs-bug-bounty-269a6f556ed3?source=rss------bugbounty-5",
+          "publishedOn": "2022-02-06T17:45:23.000Z",
+          "wordCount": 637,
+          "title": "Penetration Testing vs Bug Bounty"
+        },
+        {
+          "id": "https://medium.com/p/303ebec3edd6",
+          "author": "Mr Empy",
+          "description": "Hello Hackers, I’m MrEmpy I’m 16 and welcome to my first article about a critical bug I found on mobile.\nContinue reading on Medium »",
+          "link": "https://medium.com/@mrempy/how-i-found-a-critical-p1-bug-in-5-minutes-using-a-cellphone-bug-bounty-303ebec3edd6?source=rss------bugbounty-5",
+          "publishedOn": "2022-02-06T15:22:01.000Z",
+          "wordCount": 332,
+          "title": "How I found a critical P1 bug in 5 minutes using a cellphone — Bug Bounty"
+        },
+        {
+          "id": "https://medium.com/p/52c1bd3ebfe0",
+          "author": "Pritesh Gurjar",
+          "description": "Hello fellow Security researchers and beginners , in this blog I will be explaining the CORS vulnerability and how I found a potential…\nContinue reading on Medium »",
+          "link": "https://medium.com/@pritesh.gurjar2018/first-bug-bounty-program-found-cors-cross-origin-resource-sharing-misconfiguration-52c1bd3ebfe0?source=rss------bugbounty-5",
+          "publishedOn": "2022-02-06T07:38:22.000Z",
+          "wordCount": 559,
+          "title": "First Bug Bounty Program found CORS (Cross Origin Resource Sharing ) Misconfiguration"
+        },
+        {
           "id": "https://medium.com/p/dea16fe37ed2",
           "author": "Muh. Fani Akbar",
           "description": "Introduction about SSRF attack can be read on separated medium post Beginner Guide To Exploit Server Side Request Forgery (SSRF)…\nContinue reading on InfoSec Write-ups »",
@@ -5652,6 +5715,24 @@
       "siteUrl": "https://medium.com/tag/redteam/latest?source=rss------redteam-5",
       "articles": [
         {
+          "id": "https://medium.com/p/d0d009a01e48",
+          "author": "Kamran Saifullah",
+          "description": "We all have been sometime, someday in our professional life have used SysInternals Suite. I personally have used these utilities…\nContinue reading on Medium »",
+          "link": "https://kamransaifullah.medium.com/sysinternals-the-other-way-around-d0d009a01e48?source=rss------redteam-5",
+          "publishedOn": "2022-02-06T13:28:12.000Z",
+          "wordCount": 473,
+          "title": "SysInternals — The Other Way Around"
+        },
+        {
+          "id": "https://medium.com/p/23b117cea0b0",
+          "author": "Covertshell",
+          "description": "Now, following steps through part 1, we have lab setup and running. It is essential to understand how things are working in the background…\nContinue reading on Medium »",
+          "link": "https://medium.com/@casimkhan/attack-simulation-why-it-is-important-part-2-get-ones-ducks-in-a-row-23b117cea0b0?source=rss------redteam-5",
+          "publishedOn": "2022-02-06T11:44:13.000Z",
+          "wordCount": 1082,
+          "title": "Attack Simulation (Why it is Important!) Part 2 — Get one’s ducks in a row"
+        },
+        {
           "id": "https://medium.com/p/86d01c8e6a1a",
           "author": "Jbarajas",
           "description": "Muy buenos días, tarde o noches estimados lectores, el día de hoy les traigo mi primer publicación en Medium, la resolución del room de…\nContinue reading on Medium »",
@@ -7187,6 +7268,15 @@
       "siteUrl": "https://medium.com/tag/osint/latest?source=rss------osint-5",
       "articles": [
         {
+          "id": "https://medium.com/p/9f36174a6969",
+          "author": "Sofia Santos",
+          "description": "Back again with another Hacktoria geolocation walkthrough, this time on challenge 08.\nI must confess that took image took me a bit longer…\nContinue reading on Medium »",
+          "link": "https://gralhix.medium.com/walkthrough-hacktoria-geolocation-08-9f36174a6969?source=rss------osint-5",
+          "publishedOn": "2022-02-06T17:26:35.000Z",
+          "wordCount": 2031,
+          "title": "Walkthrough — Hacktoria: Geolocation 08"
+        },
+        {
           "id": "https://medium.com/p/271722799ae6",
           "author": "CyberRaya",
           "description": "IoT Devices Search Engine\nContinue reading on Medium »",
@@ -8301,6 +8391,15 @@
       "siteUrl": "https://medium.com/tag/fuzzing/latest?source=rss------fuzzing-5",
       "articles": [
         {
+          "id": "https://medium.com/p/f578e8d469fd",
+          "author": "Hamit CİBO",
+          "description": "Greetings Everyone from Sancta Sophia,\nContinue reading on Medium »",
+          "link": "https://hcibo.medium.com/my-pentest-log-5-f578e8d469fd?source=rss------fuzzing-5",
+          "publishedOn": "2022-02-06T17:46:46.000Z",
+          "wordCount": 692,
+          "title": "My Pentest Log -5-"
+        },
+        {
           "id": "https://medium.com/p/87d17da9bf97",
           "author": "Takshil Patil",
           "description": "Previous : Beginner Bug Bounty Guide — Part 4\nContinue reading on Medium »",
@@ -8523,6 +8622,15 @@
       "feedUrl": "https://medium.com/feed/tag/xss",
       "siteUrl": "https://medium.com/tag/xss/latest?source=rss------xss-5",
       "articles": [
+        {
+          "id": "https://medium.com/p/e79e684a66c3",
+          "author": "Rodolfo Assis (Brute)",
+          "description": "When looking for ways to bypass XSS sanitizing (sanitizing, not filtering), I’ve figured out something interesting but almost useless…\nContinue reading on Medium »",
+          "link": "https://rodoassis.medium.com/a-curious-glitch-in-xss-sanitizing-e79e684a66c3?source=rss------xss-5",
+          "publishedOn": "2022-02-06T16:44:37.000Z",
+          "wordCount": 617,
+          "title": "A Curious Glitch in XSS Sanitizing"
+        },
         {
           "id": "https://medium.com/p/86df708a005a",
           "author": "Hacktube5",
@@ -10512,6 +10620,15 @@
       "siteUrl": "https://www.freebuf.com",
       "articles": [
         {
+          "id": "https://www.freebuf.com/news/321270.html",
+          "author": null,
+          "description": "因遭到勒索软件的攻击，位于荷兰阿姆斯特丹和鹿特丹、比利时安特卫普的几处港口的石油装卸和转运受阻。",
+          "link": "https://www.freebuf.com/news/321270.html",
+          "publishedOn": "2022-02-06T10:00:00.000Z",
+          "wordCount": 215,
+          "title": "FreeBuf早报 | 美国起诉多个”诈骗“呼叫中心；一名美国黑客对朝鲜网络发动攻击"
+        },
+        {
           "id": "https://www.freebuf.com/articles/321208.html",
           "author": null,
           "description": "1月29日，中央网信办官网发布了2022年1号公告《关于统一发布网络关键设备和网络安全专用产品安全认证和安全检测结果的公告》。",
@@ -10528,6 +10645,15 @@
           "publishedOn": "2022-01-29T10:52:19.000Z",
           "wordCount": 226,
           "title": "FreeBuf早报 | 芬兰外交官设备感染飞马间谍软件；美国以国安为由吊销中国通讯公司牌照"
+        },
+        {
+          "id": "https://www.freebuf.com/articles/paper/321195.html",
+          "author": null,
+          "description": "Transparent Tribe组织的主要目标是针对印度政府、军队或相关组织，以及巴基斯坦的激进分子和民间社会。",
+          "link": "https://www.freebuf.com/articles/paper/321195.html",
+          "publishedOn": "2022-01-29T09:49:30.000Z",
+          "wordCount": 183,
+          "title": "Packer ？对抗 ？“透明部落”正在寻求CrimsonRAT的新出路"
         },
         {
           "id": "https://www.freebuf.com/news/321194.html",
@@ -13658,6 +13784,15 @@
       "siteUrl": "http://www.sec-wiki.com/",
       "articles": [
         {
+          "id": "http://www.sec-wiki.com/?2022-02-06",
+          "author": null,
+          "description": "今日暂未更新资讯~\n更多最新文章，请访问SecWiki",
+          "link": "http://www.sec-wiki.com/?2022-02-06",
+          "publishedOn": "2022-02-06T15:58:20.000Z",
+          "wordCount": 589,
+          "title": "SecWiki News 2022-02-06 Review"
+        },
+        {
           "id": "http://www.sec-wiki.com/?2022-02-05",
           "author": null,
           "description": "对Java反序列化数据绕WAF新姿势的补充   by ourren\n连载：演化的高级威胁治理（五）  by ourren\n更多最新文章，请访问SecWiki",
@@ -14159,6 +14294,42 @@
       "feedUrl": "https://www.reddit.com/r/asknetsec/.rss",
       "siteUrl": "https://www.reddit.com/r/asknetsec/",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/sm9wl6/end2end_file_transfer/",
+          "author": null,
+          "description": "Hi, I want to download a file directly from a friend computer, what's the most secure way to do it with an encrypted tunnel ?\n    submitted by    /u/Spare_Prize1148  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/sm9wl6/end2end_file_transfer/",
+          "publishedOn": "2022-02-06T22:43:25.000Z",
+          "wordCount": 310,
+          "title": "End-2-End file transfer"
+        },
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/sm4e7h/grc_recommend_reading_material/",
+          "author": null,
+          "description": "Will be starting a new role in GRC in a couple of months time and wanted to see if anyone great reading sources to help hit the ground running. Currently reading the business minded CISO which has helped quite a bit!\n    submitted by    /u/SecMac  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/sm4e7h/grc_recommend_reading_material/",
+          "publishedOn": "2022-02-06T18:57:07.000Z",
+          "wordCount": 161,
+          "title": "GRC - recommend reading material"
+        },
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/slvoh6/book_recommendations_for_memory_level_security/",
+          "author": null,
+          "description": "Hi, I would like to ask a book advice to understand how operating systems memory level operations work. For example i want to understand how stack and heap level exploits work on both Windows and Linux systems and what security measures this operating systems have to prevent attacks like heap buffer overflow, process injection and hijacking etc. Where should I start to understand memory level operations on operating systems? Should I know programming languages like C because OSs mostly written in C?\n    submitted by    /u/execute_sh  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/slvoh6/book_recommendations_for_memory_level_security/",
+          "publishedOn": "2022-02-06T12:36:05.000Z",
+          "wordCount": 269,
+          "title": "Book Recommendations for Memory Level Security"
+        },
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/slr8yh/how_safe_are_password_managers_actually/",
+          "author": null,
+          "description": "Hi, both Bitwarden and 1password are open source.\n Can anyone in the backend team has a way to look at our passwords? I mean the devs who made those apps must have a way whatsoever?\n Being double sure before using.\n What are your thoughts?\n    submitted by    /u/TheRealistDude  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/slr8yh/how_safe_are_password_managers_actually/",
+          "publishedOn": "2022-02-06T07:45:07.000Z",
+          "wordCount": 892,
+          "title": "How safe are Password Managers Actually?"
+        },
         {
           "id": "https://www.reddit.com/r/AskNetsec/comments/sllqna/how_do_blackhats_monetize_stolen_accounts_without/",
           "author": null,
@@ -16957,6 +17128,15 @@
       "siteUrl": "https://www.reddit.com/r/redteamsec/",
       "articles": [
         {
+          "id": "https://www.reddit.com/r/redteamsec/comments/slsat9/shuckworm_continues_cyberespionage_attacks/",
+          "author": null,
+          "description": "submitted by    /u/dmchell  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/redteamsec/comments/slsat9/shuckworm_continues_cyberespionage_attacks/",
+          "publishedOn": "2022-02-06T08:55:16.000Z",
+          "wordCount": 106,
+          "title": "Shuckworm Continues Cyber-Espionage Attacks Against Ukraine"
+        },
+        {
           "id": "https://www.reddit.com/r/redteamsec/comments/siucr9/the_evolution_of_a_mac_trojan_updateagents/",
           "author": null,
           "description": "submitted by    /u/SCI_Rusher  \n [link]   [comments]",
@@ -17827,6 +18007,15 @@
       "feedUrl": "https://www.reddit.com/r/exploitdev/.rss",
       "siteUrl": "https://www.reddit.com/r/exploitdev/",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/ExploitDev/comments/sm2eug/guardara_is_now_free_for_independent_security/",
+          "author": null,
+          "description": "submitted by    /u/JohnKeymanUK  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/ExploitDev/comments/sm2eug/guardara_is_now_free_for_independent_security/",
+          "publishedOn": "2022-02-06T17:35:51.000Z",
+          "wordCount": 120,
+          "title": "GUARDARA is now free for independent security researchers and non-commercial open-source projects"
+        },
         {
           "id": "https://www.reddit.com/r/ExploitDev/comments/shw0a1/solidity_audit_ethereum_smart_contract_analysis/",
           "author": null,
@@ -19227,6 +19416,42 @@
       "feedUrl": "https://www.reddit.com/r/netsec/.rss",
       "siteUrl": "https://www.reddit.com/r/netsec/",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/netsec/comments/sm2422/oscp_preparation_buffer_overflow_vanilla_eip/",
+          "author": null,
+          "description": "submitted by    /u/CyberMasterV  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/netsec/comments/sm2422/oscp_preparation_buffer_overflow_vanilla_eip/",
+          "publishedOn": "2022-02-06T17:23:35.000Z",
+          "wordCount": 120,
+          "title": "OSCP preparation - Buffer Overflow: VANILLA EIP OVERWRITE AND SEH"
+        },
+        {
+          "id": "https://www.reddit.com/r/netsec/comments/sm1mfa/guardara_a_software_quality_assurance_platform_to/",
+          "author": null,
+          "description": "submitted by    /u/JohnKeymanUK  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/netsec/comments/sm1mfa/guardara_a_software_quality_assurance_platform_to/",
+          "publishedOn": "2022-02-06T17:04:13.000Z",
+          "wordCount": 165,
+          "title": "GUARDARA, a software quality assurance platform to identify bugs and zero-day vulnerabilities at scale, is now free for individual security researchers and non-commercial open-source projects."
+        },
+        {
+          "id": "https://www.reddit.com/r/netsec/comments/slt33d/software_defined_radio_part_6_building_a/",
+          "author": null,
+          "description": "submitted by    /u/digicat  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/netsec/comments/slt33d/software_defined_radio_part_6_building_a/",
+          "publishedOn": "2022-02-06T09:48:35.000Z",
+          "wordCount": 225,
+          "title": "Software Defined Radio, Part 6: Building a Cellphone IMSI Catcher (Stingray)"
+        },
+        {
+          "id": "https://www.reddit.com/r/netsec/comments/slslah/cve202224348_argo_cd_vulnerability_and_its_impact/",
+          "author": null,
+          "description": "submitted by    /u/rippatpop  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/netsec/comments/slslah/cve202224348_argo_cd_vulnerability_and_its_impact/",
+          "publishedOn": "2022-02-06T09:14:37.000Z",
+          "wordCount": 398,
+          "title": "CVE-2022-24348 Argo CD Vulnerability and its impact on Kubernetes"
+        },
         {
           "id": "https://www.reddit.com/r/netsec/comments/sl5k65/testing_infrastructureascode_using_dynamic_tooling/",
           "author": null,
@@ -21151,6 +21376,42 @@
       "feedUrl": "https://www.reddit.com/r/opendirectories/.rss",
       "siteUrl": "https://www.reddit.com/r/opendirectories/",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/opendirectories/comments/sm2m3u/miscellaneous_nsfw_content_from_patreon_onlyfans/",
+          "author": null,
+          "description": "https://theporngrid.com/Uploads/Media/\n There's a combination of images and videos from a bunch of different original sources, mostly onlyfans and the like.\n Everything here is used by ibradome.com (NSFW) for their embedded content\n I indexed the files: https://gist.githubusercontent.com/RedDeadRandy/bda22a2b6014315597df2259a03815e2/raw/fe1ba95b5d2ec0d2a3e7ebcce96db21c1eda0152/theporngrid_files.txt\n Some of it is watermarked to find out who the person is while others are a crapshoot.\n    submitted by    /u/TattedUp  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/opendirectories/comments/sm2m3u/miscellaneous_nsfw_content_from_patreon_onlyfans/",
+          "publishedOn": "2022-02-06T17:44:20.000Z",
+          "wordCount": 97,
+          "title": "Miscellaneous NSFW Content from Patreon, Onlyfans, Snapchat, Fansly etc.."
+        },
+        {
+          "id": "https://www.reddit.com/r/opendirectories/comments/sm13gv/videos_about_china_mostly_unexplored_pd_to_be/",
+          "author": null,
+          "description": "submitted by    /u/thats_dumberst  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/opendirectories/comments/sm13gv/videos_about_china_mostly_unexplored_pd_to_be/",
+          "publishedOn": "2022-02-06T16:43:27.000Z",
+          "wordCount": 98,
+          "title": "/VIDEOS about China. mostly unexplored PD. to be safe NSFW"
+        },
+        {
+          "id": "https://www.reddit.com/r/opendirectories/comments/sls54b/large_directory_of_film_scripts_different_formats/",
+          "author": null,
+          "description": "http://nldslab.soe.ucsc.edu/charactercreator/film_corpus/film_20100519/all_imsdb_05_19_10/\n    submitted by    /u/inoculatemedia  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/opendirectories/comments/sls54b/large_directory_of_film_scripts_different_formats/",
+          "publishedOn": "2022-02-06T08:44:25.000Z",
+          "wordCount": 127,
+          "title": "Large directory of film scripts, different formats"
+        },
+        {
+          "id": "https://www.reddit.com/r/opendirectories/comments/slpgj5/funeral_parlour_decor_and_accessories/",
+          "author": null,
+          "description": "submitted by    /u/PM_ME_TO_PLAY_A_GAME  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/opendirectories/comments/slpgj5/funeral_parlour_decor_and_accessories/",
+          "publishedOn": "2022-02-06T06:03:46.000Z",
+          "wordCount": 218,
+          "title": "funeral parlour decor and accessories"
+        },
         {
           "id": "https://www.reddit.com/r/opendirectories/comments/sl569u/beer_labels_sorted_by_country/",
           "author": null,
@@ -24108,6 +24369,15 @@
       "feedUrl": "https://medium.com/feed/tag/fuzzing",
       "siteUrl": "https://medium.com/tag/fuzzing/latest?source=rss------fuzzing-5",
       "articles": [
+        {
+          "id": "https://medium.com/p/f578e8d469fd",
+          "author": "Hamit CİBO",
+          "description": "Greetings Everyone from Sancta Sophia,\nContinue reading on Medium »",
+          "link": "https://hcibo.medium.com/my-pentest-log-5-f578e8d469fd?source=rss------fuzzing-5",
+          "publishedOn": "2022-02-06T17:46:46.000Z",
+          "wordCount": 786,
+          "title": "My Pentest Log -5-"
+        },
         {
           "id": "https://medium.com/p/87d17da9bf97",
           "author": "Takshil Patil",
