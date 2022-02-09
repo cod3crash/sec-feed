@@ -6,6 +6,51 @@
       "siteUrl": "http://h1.nobbd.de/",
       "articles": [
         {
+          "id": "https://hackerone.com/reports/1161241",
+          "author": null,
+          "description": "Acronis disclosed a bug submitted by quadrant: https://hackerone.com/reports/1161241 - Bounty: $50",
+          "link": "https://hackerone.com/reports/1161241",
+          "publishedOn": "2022-02-08T13:52:00.000Z",
+          "wordCount": 25,
+          "title": "Cross-site Scripting (XSS) - Stored | forum.acronis.com"
+        },
+        {
+          "id": "https://hackerone.com/reports/1122513",
+          "author": null,
+          "description": "Acronis disclosed a bug submitted by h4x0r_dz: https://hackerone.com/reports/1122513 - Bounty: $50",
+          "link": "https://hackerone.com/reports/1122513",
+          "publishedOn": "2022-02-08T10:49:21.000Z",
+          "wordCount": 25,
+          "title": "Stored Cross-site Scripting on devicelock.com/forum/"
+        },
+        {
+          "id": "https://hackerone.com/reports/1018790",
+          "author": null,
+          "description": "Acronis disclosed a bug submitted by ashmek: https://hackerone.com/reports/1018790",
+          "link": "https://hackerone.com/reports/1018790",
+          "publishedOn": "2022-02-08T09:12:37.000Z",
+          "wordCount": 25,
+          "title": "Subdomains takeover of  register.acronis.com, promo.acronis.com, info.acronis.com and promosandbox.acronis.com"
+        },
+        {
+          "id": "https://hackerone.com/reports/1124974",
+          "author": null,
+          "description": "Acronis disclosed a bug submitted by h4x0r_dz: https://hackerone.com/reports/1124974 - Bounty: $250",
+          "link": "https://hackerone.com/reports/1124974",
+          "publishedOn": "2022-02-08T09:10:02.000Z",
+          "wordCount": 25,
+          "title": "Attacker Can Access to any Ticket Support on https://www.devicelock.com/support/"
+        },
+        {
+          "id": "https://hackerone.com/reports/1121771",
+          "author": null,
+          "description": "Acronis disclosed a bug submitted by h4x0r_dz: https://hackerone.com/reports/1121771",
+          "link": "https://hackerone.com/reports/1121771",
+          "publishedOn": "2022-02-08T09:08:38.000Z",
+          "wordCount": 25,
+          "title": "Information Disclosure via ZIP file on AWS Bucket [http://acronis.1.s3.amazonaws.com]"
+        },
+        {
           "id": "https://hackerone.com/reports/1168804",
           "author": null,
           "description": "Reddit disclosed a bug submitted by e100_speaks: https://hackerone.com/reports/1168804",
@@ -1966,6 +2011,15 @@
       "siteUrl": "https://infosecwriteups.com?source=rss----7b722bfd1b8d---4",
       "articles": [
         {
+          "id": "https://medium.com/p/6890fbd37474",
+          "author": "InfoSec Write-ups",
+          "description": "Book your seats today!",
+          "link": "https://infosecwriteups.com/registrations-open-for-iwcon-2022-the-online-international-cybersecurity-conference-6890fbd37474?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2022-02-08T10:21:14.000Z",
+          "wordCount": 608,
+          "title": "Registrations Open for IWCON 2022 — the Online International Cybersecurity Conference"
+        },
+        {
           "id": "https://medium.com/p/29b647e9b694",
           "author": "Manash",
           "description": "Difficulty: Medium Room \nDescription: No logs, no crime… so says the lumberjack.",
@@ -3115,6 +3169,96 @@
       "feedUrl": "https://medium.com/feed/tag/bugbounty",
       "siteUrl": "https://medium.com/tag/bugbounty/latest?source=rss------bugbounty-5",
       "articles": [
+        {
+          "id": "https://medium.com/p/4dafd7deca05",
+          "author": "Balaji Anbalagan",
+          "description": "Objectives of day 4 :\nContinue reading on Medium »",
+          "link": "https://astroboy73.medium.com/100-days-of-hacking-day-4-4dafd7deca05?source=rss------bugbounty-5",
+          "publishedOn": "2022-02-08T18:26:58.000Z",
+          "wordCount": 436,
+          "title": "100 Days of Hacking — DAY 4"
+        },
+        {
+          "id": "https://medium.com/p/f2ce877b43d4",
+          "author": "Mahmoud Hamed",
+          "description": "Hi there, 7odamo is here. First of all this is my first write-up and i am still beginner, So i might write something wrong,Then it’s…\nContinue reading on Medium »",
+          "link": "https://7odamo.medium.com/sql-injection-reflected-xss-and-information-disclosure-in-one-subdomain-in-just-10-minutes-f2ce877b43d4?source=rss------bugbounty-5",
+          "publishedOn": "2022-02-08T18:15:25.000Z",
+          "wordCount": 803,
+          "title": "SQL Injection, Reflected XSS and Information Disclosure in one subdomain in just 10 minutes"
+        },
+        {
+          "id": "https://medium.com/p/6c46665d53a6",
+          "author": "Balaji Anbalagan",
+          "description": "woohoo, sup fellow hackers. it’s day 3 / 100 we have a long way to go.\nContinue reading on Medium »",
+          "link": "https://astroboy73.medium.com/100-days-of-hacking-day-3-6c46665d53a6?source=rss------bugbounty-5",
+          "publishedOn": "2022-02-08T17:53:48.000Z",
+          "wordCount": 321,
+          "title": "100 DAYS OF HACKING — DAY 3"
+        },
+        {
+          "id": "https://medium.com/p/6f8ebc12ce99",
+          "author": "hustlebunny",
+          "description": "Hi there, thanks for stopping by and taking some time to read my blog post about how I helped secure my favorite chess playing which if…\nContinue reading on Medium »",
+          "link": "https://medium.com/@hustlebunny18/securing-lichess-one-move-at-a-time-6f8ebc12ce99?source=rss------bugbounty-5",
+          "publishedOn": "2022-02-08T15:29:05.000Z",
+          "wordCount": 380,
+          "title": "Securing Lichess one move at a time"
+        },
+        {
+          "id": "https://medium.com/p/a57bc81df61c",
+          "author": "Medusa",
+          "description": "This blog is about how to use Wildcard Injection to escalate privileges to root in Unix-like OS.\nContinue reading on System Weakness »",
+          "link": "https://systemweakness.com/privilege-escalation-using-wildcard-injection-tar-wildcard-injection-a57bc81df61c?source=rss------bugbounty-5",
+          "publishedOn": "2022-02-08T12:43:35.000Z",
+          "wordCount": 523,
+          "title": "Privilege Escalation Using Wildcard Injection | Tar Wildcard Injection |"
+        },
+        {
+          "id": "https://medium.com/p/d1b3765ff1de",
+          "author": "Kwadwo Amoako",
+          "description": "Hi everyone, I hope we’re all having a swell day. Before I jump into today's bug  report, I’d like to express my sincerest gratitude for…\nContinue reading on Medium »",
+          "link": "https://medium.com/@kojodaprogrammer/full-account-takeover-ato-a-tale-of-two-bugs-d1b3765ff1de?source=rss------bugbounty-5",
+          "publishedOn": "2022-02-08T11:20:46.000Z",
+          "wordCount": 565,
+          "title": "Full Account takeover (ATO) — a tale of two bugs"
+        },
+        {
+          "id": "https://medium.com/p/6890fbd37474",
+          "author": "InfoSec Write-ups",
+          "description": "Book your seats today!\nContinue reading on InfoSec Write-ups »",
+          "link": "https://infosecwriteups.com/registrations-open-for-iwcon-2022-the-online-international-cybersecurity-conference-6890fbd37474?source=rss------bugbounty-5",
+          "publishedOn": "2022-02-08T10:21:14.000Z",
+          "wordCount": 608,
+          "title": "Registrations Open for IWCON 2022 — the Online International Cybersecurity Conference"
+        },
+        {
+          "id": "https://medium.com/p/7e401a49c04f",
+          "author": "Immunefi",
+          "description": "In the Web2 world, a simple oversight in the code doesn’t always result in a huge breach of data (of course, sometimes they do). In Web3…\nContinue reading on Immunefi »",
+          "link": "https://medium.com/immunefi/apwine-incorrect-check-of-delegations-bugfix-review-7e401a49c04f?source=rss------bugbounty-5",
+          "publishedOn": "2022-02-08T09:59:08.000Z",
+          "wordCount": 1286,
+          "title": "APWine Incorrect Check of Delegations Bugfix Review"
+        },
+        {
+          "id": "https://medium.com/p/dcdb19d29f11",
+          "author": "Aaryan",
+          "description": "Hello lads, it’s me again. Let’s discuss different techniques about bypassing 2FA.\nContinue reading on Medium »",
+          "link": "https://aaryanapex.medium.com/2fa-bypass-techniques-dcdb19d29f11?source=rss------bugbounty-5",
+          "publishedOn": "2022-02-08T07:37:43.000Z",
+          "wordCount": 744,
+          "title": "2FA Bypass Techniques"
+        },
+        {
+          "id": "https://medium.com/p/f6f2d012466f",
+          "author": "Harsh Banshpal",
+          "description": "Thank you for taking the time to read about “ You Can Takeover Any GOOGLE Account ! ”\nContinue reading on Medium »",
+          "link": "https://medium.com/@harshbanshpal/you-can-takeover-any-google-account-f6f2d012466f?source=rss------bugbounty-5",
+          "publishedOn": "2022-02-08T04:44:51.000Z",
+          "wordCount": 568,
+          "title": "You Can Takeover Any GOOGLE Account !"
+        },
         {
           "id": "https://medium.com/p/2421056c4cdc",
           "author": "Anand Prakash",
@@ -6226,6 +6370,15 @@
       "siteUrl": "https://infosecwriteups.com?source=rss----7b722bfd1b8d---4",
       "articles": [
         {
+          "id": "https://medium.com/p/6890fbd37474",
+          "author": "InfoSec Write-ups",
+          "description": "Book your seats today!",
+          "link": "https://infosecwriteups.com/registrations-open-for-iwcon-2022-the-online-international-cybersecurity-conference-6890fbd37474?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2022-02-08T10:21:14.000Z",
+          "wordCount": 608,
+          "title": "Registrations Open for IWCON 2022 — the Online International Cybersecurity Conference"
+        },
+        {
           "id": "https://medium.com/p/29b647e9b694",
           "author": "Manash",
           "description": "Difficulty: Medium Room \nDescription: No logs, no crime… so says the lumberjack.",
@@ -7375,6 +7528,24 @@
       "feedUrl": "https://medium.com/feed/tag/osint",
       "siteUrl": "https://medium.com/tag/osint/latest?source=rss------osint-5",
       "articles": [
+        {
+          "id": "https://medium.com/p/2f038d9b31ca",
+          "author": "RoddyT3ch",
+          "description": "This article was written in collaboration with Aardwarewolf\nContinue reading on Medium »",
+          "link": "https://roddytech.medium.com/what-is-osint-part-2-dangers-of-oversharing-2f038d9b31ca?source=rss------osint-5",
+          "publishedOn": "2022-02-08T17:08:26.000Z",
+          "wordCount": 2043,
+          "title": "What is OSINT(Part 2): Dangers of Oversharing"
+        },
+        {
+          "id": "https://medium.com/p/e341cee7c940",
+          "author": "Aardwarewolf",
+          "description": "The dangers of oversharing\nContinue reading on Medium »",
+          "link": "https://medium.com/@Aardwarewolf/what-is-osint-part-2-privacy-tips-e341cee7c940?source=rss------osint-5",
+          "publishedOn": "2022-02-08T16:05:53.000Z",
+          "wordCount": 2285,
+          "title": "What is OSINT? (Part 2)"
+        },
         {
           "id": "https://medium.com/p/3aadcacb4cfb",
           "author": "OSINT Canada",
@@ -9472,6 +9643,15 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=30256773",
+          "author": "intunderflow",
+          "description": "Article URL: https://nvd.nist.gov/vuln/detail/CVE-2021-4160\nComments URL: https://news.ycombinator.com/item?id=30256773\nPoints: 2\n# Comments: 0",
+          "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-4160",
+          "publishedOn": "2022-02-08T10:22:33.000Z",
+          "wordCount": 1195,
+          "title": "CVE-2021-4160: OpenSSL carry propagation bug in some TLS 1.3 default curves"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=30248447",
           "author": "mooreds",
           "description": "Article URL: https://tailscale.com/security-bulletins/#ts-2022-001\nComments URL: https://news.ycombinator.com/item?id=30248447\nPoints: 2\n# Comments: 0",
@@ -9982,6 +10162,15 @@
       "feedUrl": "https://hnrss.org/newest?q=vulnerability",
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
+        {
+          "id": "https://news.ycombinator.com/item?id=30262516",
+          "author": "qwertyuiop_",
+          "description": "Article URL: https://msrc.microsoft.com/update-guide/vulnerability/CVE-2022-21991\nComments URL: https://news.ycombinator.com/item?id=30262516\nPoints: 8\n# Comments: 0",
+          "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2022-21991",
+          "publishedOn": "2022-02-08T18:38:46.000Z",
+          "wordCount": 16,
+          "title": "VSCode Remote Development Extension Remote Code Execution Vulnerability"
+        },
         {
           "id": "https://news.ycombinator.com/item?id=30246174",
           "author": "feross",
@@ -10773,6 +10962,33 @@
       "siteUrl": "https://www.freebuf.com",
       "articles": [
         {
+          "id": "https://www.freebuf.com/news/321425.html",
+          "author": null,
+          "description": "Meta 威胁称，如果欧盟不允许该公司的美国运营、应用程序和数据中心分享欧盟用户数据，将考虑退出欧洲。",
+          "link": "https://www.freebuf.com/news/321425.html",
+          "publishedOn": "2022-02-08T09:09:54.000Z",
+          "wordCount": 281,
+          "title": "FreeBuf早报 | Meta 威胁退出欧洲；网上没有免费“红包”"
+        },
+        {
+          "id": "https://www.freebuf.com/news/321403.html",
+          "author": null,
+          "description": "泄露的数据类型包括：姓名、地址、社会安全号码、出生日期、客户识别号码、医疗诊断和治疗信息以及健康保险信息。",
+          "link": "https://www.freebuf.com/news/321403.html",
+          "publishedOn": "2022-02-08T06:41:40.000Z",
+          "wordCount": 145,
+          "title": "服务全球100强的公司Morley遭勒索攻击，泄露大量用户信息"
+        },
+        {
+          "id": "https://www.freebuf.com/news/321386.html",
+          "author": null,
+          "description": "《指引》共六章三十八条，主要对企业的数据合规管理架构与风险识别处理规范作出了规定。",
+          "link": "https://www.freebuf.com/news/321386.html",
+          "publishedOn": "2022-02-08T03:01:29.000Z",
+          "wordCount": 141,
+          "title": "上海首份《企业数据合规指引》发布"
+        },
+        {
           "id": "https://www.freebuf.com/news/321354.html",
           "author": null,
           "description": "该软件的广泛使用和易于利用使它成为一个极其严重的漏洞，而DHS的最佳实践是集中精力对log4j软件库和相关补救过程中的漏洞进行审查。",
@@ -10780,6 +10996,15 @@
           "publishedOn": "2022-02-07T09:59:15.000Z",
           "wordCount": 212,
           "title": "FreeBuf早报 | DHS将着力解决log4j漏洞问题；教育行业成2021年网络攻击重灾区"
+        },
+        {
+          "id": "https://www.freebuf.com/news/321341.html",
+          "author": null,
+          "description": "LockBit勒索软件团伙称从PayBito加密货币交易所窃取了大量客户数据。",
+          "link": "https://www.freebuf.com/news/321341.html",
+          "publishedOn": "2022-02-07T07:44:18.000Z",
+          "wordCount": 185,
+          "title": "PayBito 加密货币交易所遭受网络攻击，大量数据信息被盗"
         },
         {
           "id": "https://www.freebuf.com/news/321338.html",
@@ -14000,6 +14225,15 @@
       "siteUrl": "http://www.sec-wiki.com/",
       "articles": [
         {
+          "id": "http://www.sec-wiki.com/?2022-02-08",
+          "author": null,
+          "description": "今日暂未更新资讯~\n更多最新文章，请访问SecWiki",
+          "link": "http://www.sec-wiki.com/?2022-02-08",
+          "publishedOn": "2022-02-08T15:58:20.000Z",
+          "wordCount": 589,
+          "title": "SecWiki News 2022-02-08 Review"
+        },
+        {
           "id": "http://www.sec-wiki.com/?2022-02-07",
           "author": null,
           "description": "ML-DOCTOR：对机器学习模型推理攻击的全局性研究  by ourren\n黑灰产识别与溯源  by ourren\n侠盗猎车 -- 玩转滚动码（中)  by ourren\n更多最新文章，请访问SecWiki",
@@ -14519,6 +14753,60 @@
       "feedUrl": "https://www.reddit.com/r/asknetsec/.rss",
       "siteUrl": "https://www.reddit.com/r/asknetsec/",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/snyjhs/hypothetical_incident_what_would_be_an/",
+          "author": null,
+          "description": "Hello AskNetSec!\n I am curious what you all would consider an appropriate response to an incident such as a user reporting that they've clicked on a phishing link.\n Personally, I believe it is appropriate to probe about what popped up after clicking the link, whether or not they entered any of their information, and whether or not they notice any abnormal behavior on their computer after clicking on the link. After that, have the user change their password as a precaution and move on begin monitoring.\n I figure between the questions assuring they did nothing more than click, a password change, existing security controls such as CrowdStrike, and monitoring for abnormal behavior, there isn't much more that makes sense to do. Others on my team seem to think it's worth downloading Microsoft Safety Scanner and running a full system scan, which I argue doesn't hurt, but also probably doesn't add much value unless something is seen on the user's computer that would prompt further investigation. Especially since I can't imagine Microsoft Safety Scanner is going to pick up on something that CrowdStrike does not.\n Understandably, different companies may expect different responses based on established policy and regulations. But I want to leave it kind of open ended and see what other IT and security professionals believe is appropriate for these types of incidents? How deep do you go for these types of things?\n    submitted by    /u/unseenspecter  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/snyjhs/hypothetical_incident_what_would_be_an/",
+          "publishedOn": "2022-02-08T23:43:23.000Z",
+          "wordCount": 581,
+          "title": "Hypothetical incident: what would be an appropriate response?"
+        },
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/snsatn/ir_retainer_things_to_consider/",
+          "author": null,
+          "description": "When looking to purchase Incident Response Retainers what are things you wish you knew prior to purchasing? Is there any gotchas that should be considered? What can I learn from you in your experience with this?\n    submitted by    /u/gnomeparadox  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/snsatn/ir_retainer_things_to_consider/",
+          "publishedOn": "2022-02-08T19:17:16.000Z",
+          "wordCount": 844,
+          "title": "IR Retainer things to consider"
+        },
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/snix8p/what_level_of_knowledge_should_tier_1_soc/",
+          "author": null,
+          "description": "Each of the sub-branches of cyber security is like a different world for itself, there is no end when you want to learn. For example, we agree that it is necessary to have knowledge about malware analysis for the position of security analyst. However, if you try to improve yourself in malware analysis, you can probably only work on malware analysis for years. \n At this point, many people do not know how much technical knowledge required to get started. For this reason, many people can not be accepted to the job due to an insufficient level in job applications, or the starting process may take longer as people spends too much time on training and develops technical knowledge more than the level required to start the job.\n In your opinion, what should be the technical level required to start working in the security analyst position?\n    submitted by    /u/umuttosun  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/snix8p/what_level_of_knowledge_should_tier_1_soc/",
+          "publishedOn": "2022-02-08T12:21:44.000Z",
+          "wordCount": 635,
+          "title": "What level of knowledge should Tier 1 SOC analysts have to enter the job?"
+        },
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/sneggw/infosec_as_just_a_job/",
+          "author": null,
+          "description": "Hi,\n I'm a CS student who's been learning a mishmash of basics to get into infosec — some assembly, wifi cracking, sql injection, etc under my belt, just the very basics, but I'm kind of overwhelmed by how... Enthusiastic and into it everyone seems to be. I'm not sure I'm \"built\" for it either, since I can't relate to the culture about stuff like lockpicking and causing trouble in school networks and stuff. Never done any social engineering in my life. I'm more of a science guy, and I went into CS because I'm aiming for a practical job that's in STEM. That's it, really. I'm willing to learn things in my spare time but I can't dredge up the same intense curiosity I see in people I've seen both IRL and online in security. \n Will I drown? Should I look elsewhere?\n    submitted by    /u/Wild_Rutabaga_3099  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/sneggw/infosec_as_just_a_job/",
+          "publishedOn": "2022-02-08T07:36:54.000Z",
+          "wordCount": 1274,
+          "title": "Infosec as \"just\" a job?"
+        },
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/snclmh/malware_playbooks/",
+          "author": null,
+          "description": "I was wondering what you're malware playbooks look like. We got a bunch of malware alerts today for items that were deleted by the av. It caused some internal discussions on common practices.\n    submitted by    /u/xX_s0up_Xx  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/snclmh/malware_playbooks/",
+          "publishedOn": "2022-02-08T05:49:35.000Z",
+          "wordCount": 405,
+          "title": "Malware playbooks"
+        },
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/sn7y6c/how_to_become_a_pen_tester/",
+          "author": null,
+          "description": "submitted by    /u/AlmightyMemeLord404  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/sn7y6c/how_to_become_a_pen_tester/",
+          "publishedOn": "2022-02-08T02:04:41.000Z",
+          "wordCount": 1022,
+          "title": "How to become a pen tester ?"
+        },
         {
           "id": "https://www.reddit.com/r/AskNetsec/comments/sn5cq3/any_insights_on_purchasing_palo_alto_firewalls/",
           "author": null,
@@ -17380,6 +17668,33 @@
       "siteUrl": "https://www.reddit.com/r/redteamsec/",
       "articles": [
         {
+          "id": "https://www.reddit.com/r/redteamsec/comments/snyj8y/kubernetes_for_pentesters/",
+          "author": null,
+          "description": "There’s countless article on hacking kubernetes clusters but is there any research or repos on how you can use k8s for pen testing? One idea is using a cluster in which each node is a “person” that has access to a specific machine or to a different machine. I’m open to other ideas regarding the usage of k8s to improve hacking automation\n    submitted by    /u/sirlordjax  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/redteamsec/comments/snyj8y/kubernetes_for_pentesters/",
+          "publishedOn": "2022-02-08T23:43:06.000Z",
+          "wordCount": 153,
+          "title": "Kubernetes for pentesters"
+        },
+        {
+          "id": "https://www.reddit.com/r/redteamsec/comments/snf09p/invisible_sandbox_evasion_check_point_research/",
+          "author": null,
+          "description": "submitted by    /u/dmchell  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/redteamsec/comments/snf09p/invisible_sandbox_evasion_check_point_research/",
+          "publishedOn": "2022-02-08T08:09:50.000Z",
+          "wordCount": 104,
+          "title": "Invisible Sandbox Evasion - Check Point Research"
+        },
+        {
+          "id": "https://www.reddit.com/r/redteamsec/comments/sne00i/helping_users_stay_safe_blocking_internet_macros/",
+          "author": null,
+          "description": "submitted by    /u/dmchell  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/redteamsec/comments/sne00i/helping_users_stay_safe_blocking_internet_macros/",
+          "publishedOn": "2022-02-08T07:08:54.000Z",
+          "wordCount": 231,
+          "title": "Helping users stay safe: Blocking internet macros by default in Office"
+        },
+        {
           "id": "https://www.reddit.com/r/redteamsec/comments/smp9zu/shadow_credentials/",
           "author": null,
           "description": "submitted by    /u/netbiosX  \n [link]   [comments]",
@@ -18287,6 +18602,24 @@
       "siteUrl": "https://www.reddit.com/r/exploitdev/",
       "articles": [
         {
+          "id": "https://www.reddit.com/r/ExploitDev/comments/snlzsr/beaconfuzz_a_journey_into_ethereum_20_blockchain/",
+          "author": null,
+          "description": "submitted by    /u/pat_ventuzelo  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/ExploitDev/comments/snlzsr/beaconfuzz_a_journey_into_ethereum_20_blockchain/",
+          "publishedOn": "2022-02-08T14:48:45.000Z",
+          "wordCount": 120,
+          "title": "Beaconfuzz - A Journey into #Ethereum 2.0 Blockchain Fuzzing and Vulnerability Discovery"
+        },
+        {
+          "id": "https://www.reddit.com/r/ExploitDev/comments/snlzlu/top_6_books_to_learn_the_rust_programming/",
+          "author": null,
+          "description": "submitted by    /u/pat_ventuzelo  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/ExploitDev/comments/snlzlu/top_6_books_to_learn_the_rust_programming/",
+          "publishedOn": "2022-02-08T14:48:30.000Z",
+          "wordCount": 117,
+          "title": "Top 6 Books to learn the Rust Programming Language in 2022"
+        },
+        {
           "id": "https://www.reddit.com/r/ExploitDev/comments/sm2eug/guardara_is_now_free_for_independent_security/",
           "author": null,
           "description": "submitted by    /u/JohnKeymanUK  \n [link]   [comments]",
@@ -18698,6 +19031,24 @@
       "feedUrl": "https://www.reddit.com/r/computerforensics/.rss",
       "siteUrl": "https://www.reddit.com/r/computerforensics/",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/computerforensics/comments/snnuqm/somethings_amiss/",
+          "author": null,
+          "description": "Hello everyone...super noob alert:\n I'm taking a digital forensics class and rather than using the virtual lab decided to do some memory analysis on my machine. Since I know little about computers and even less about what I'm looking at, maybe I'm being paranoid, but maybe you can shed some light?\n As I don't know the email addresses, nor do email addresses like \"stealerbyframe@mail.ru\", \"360saftfirehackr@qq.com\", or my favorite \"pizda@qq.com\"--inspire confidence, those addresses raised some alarms. \n I used FTK Imager to do a memory dump on my system. I then used Bulk Extractor to organize the data a bit and the screen shot is some emails I found in the email.txt file result.\n Why, for example, are they in my computer's memory!?\n https://preview.redd.it/9orfvtravmg81.png?width=1326&format=png&auto=webp&s=65d81163bcd0e35d26a7cc2c88a5025762e36d9a\n https://preview.redd.it/80togtravmg81.png?width=509&format=png&auto=webp&s=3d14c00dbe7395beb8e682bd2fe0cc50e7d66277\n    submitted by    /u/Funny-Appearance9167  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/computerforensics/comments/snnuqm/somethings_amiss/",
+          "publishedOn": "2022-02-08T16:10:57.000Z",
+          "wordCount": 477,
+          "title": "Something's Amiss . . ."
+        },
+        {
+          "id": "https://www.reddit.com/r/computerforensics/comments/snmbsd/beginnerlevel_minicourse_on_starting_a_new/",
+          "author": null,
+          "description": "submitted by    /u/DFIRScience  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/computerforensics/comments/snmbsd/beginnerlevel_minicourse_on_starting_a_new/",
+          "publishedOn": "2022-02-08T15:03:26.000Z",
+          "wordCount": 219,
+          "title": "Beginner-level mini-course on starting a new investigation with Autopsy. Covers data organization, documentation, new case creation, ingest modules, basic analysis workflow, and exporting reports."
+        },
         {
           "id": "https://www.reddit.com/r/computerforensics/comments/smr2mm/qbot_likes_to_move_it_move_it/",
           "author": null,
@@ -19704,6 +20055,60 @@
       "feedUrl": "https://www.reddit.com/r/netsec/.rss",
       "siteUrl": "https://www.reddit.com/r/netsec/",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/netsec/comments/snwj5w/sharpsql_c_ms_sql_enum_and_exploitation/",
+          "author": null,
+          "description": "submitted by    /u/IamaCerealKilla  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/netsec/comments/snwj5w/sharpsql_c_ms_sql_enum_and_exploitation/",
+          "publishedOn": "2022-02-08T22:16:56.000Z",
+          "wordCount": 111,
+          "title": "SharpSQL: C# MS SQL enum and exploitation"
+        },
+        {
+          "id": "https://www.reddit.com/r/netsec/comments/snu42f/spoolfool_windows_print_spooler_privilege/",
+          "author": null,
+          "description": "submitted by    /u/ly4k_  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/netsec/comments/snu42f/spoolfool_windows_print_spooler_privilege/",
+          "publishedOn": "2022-02-08T20:34:12.000Z",
+          "wordCount": 168,
+          "title": "SpoolFool: Windows Print Spooler Privilege Escalation (CVE-2022–22718)"
+        },
+        {
+          "id": "https://www.reddit.com/r/netsec/comments/snqw7j/how_docker_made_me_more_capable_and_the_host_less/",
+          "author": null,
+          "description": "submitted by    /u/jat0369  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/netsec/comments/snqw7j/how_docker_made_me_more_capable_and_the_host_less/",
+          "publishedOn": "2022-02-08T18:18:05.000Z",
+          "wordCount": 120,
+          "title": "How Docker Made Me More Capable and the Host Less Secure"
+        },
+        {
+          "id": "https://www.reddit.com/r/netsec/comments/snq9zo/aws_cloud_security_challenges/",
+          "author": null,
+          "description": "submitted by    /u/0xdeadbeef0000  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/netsec/comments/snq9zo/aws_cloud_security_challenges/",
+          "publishedOn": "2022-02-08T17:53:31.000Z",
+          "wordCount": 109,
+          "title": "AWS Cloud Security Challenges"
+        },
+        {
+          "id": "https://www.reddit.com/r/netsec/comments/snoiys/ppe_poisoned_pipeline_execution_running_malicious/",
+          "author": null,
+          "description": "submitted by    /u/Hefty_Knowledge_7449  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/netsec/comments/snoiys/ppe_poisoned_pipeline_execution_running_malicious/",
+          "publishedOn": "2022-02-08T16:39:50.000Z",
+          "wordCount": 392,
+          "title": "PPE - Poisoned Pipeline Execution. Running malicious code in your CI, without access to your CI"
+        },
+        {
+          "id": "https://www.reddit.com/r/netsec/comments/sn7six/how_opensource_packages_handle_releasing_security/",
+          "author": null,
+          "description": "submitted by    /u/Jazzlike-Vegetable69  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/netsec/comments/sn7six/how_opensource_packages_handle_releasing_security/",
+          "publishedOn": "2022-02-08T01:57:47.000Z",
+          "wordCount": 352,
+          "title": "How open-source packages handle releasing security fixes"
+        },
         {
           "id": "https://www.reddit.com/r/netsec/comments/smvrdy/how_to_make_package_signing_useful/",
           "author": null,
@@ -21745,6 +22150,33 @@
       "feedUrl": "https://www.reddit.com/r/opendirectories/.rss",
       "siteUrl": "https://www.reddit.com/r/opendirectories/",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/opendirectories/comments/sny3t1/some_os_iso_fast_download/",
+          "author": null,
+          "description": "Some Linux and Windows (Some in Pt/de/ru/en) ISO, The server has a pretty decent speed\n  \n Url: https://root3.minerswin.de/ISO/  Urls file \n  \n Extension (Top 5) Files Size \n  .iso 102 195,47 GiB \n  .zip 50 60,06 GiB \n  .xz 18 14,95 GiB \n  .ova 4 11,6 GiB \n  .7z 2 3,7 GiB \n  Dirs: 71 Ext: 12 Total: 323 Total: 288,59 GiB \n  Date (UTC): 2022-02-08 23:22:22 Time: 00:00:03 Speed: 46,65 MB/s (373,2 mbit) \n \n Created by [KoalaBear84's OpenDirectory Indexer v2.3.0.1](https://github.com/KoalaBear84/OpenDirectoryDownloader/)\n    submitted by    /u/VoXaN24  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/opendirectories/comments/sny3t1/some_os_iso_fast_download/",
+          "publishedOn": "2022-02-08T23:24:52.000Z",
+          "wordCount": 142,
+          "title": "Some OS ISO (Fast Download)"
+        },
+        {
+          "id": "https://www.reddit.com/r/opendirectories/comments/snxsls/random_stuff_in_french/",
+          "author": null,
+          "description": "http://5.196.72.204/\n  \n Url: http://5.196.72.204/  Urls file \n  \n Extension (Top 5) Files Size \n  .mkv 141 459,53 GiB \n  .avi 99 70,71 GiB \n  .mp4 533 51,46 GiB \n  .tar 1 28 GiB \n  .m2ts 33 27,8 GiB \n  Dirs: 532 Ext: 58 Total: 4 362 Total: 683,72 GiB \n  Date (UTC): 2022-02-08 23:08:45 Time: 00:00:07 Speed: 11,11 MB/s (88,9 mbit) \n \n Created by [KoalaBear84's OpenDirectory Indexer v2.3.0.1](https://github.com/KoalaBear84/OpenDirectoryDownloader/)\n    submitted by    /u/VoXaN24  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/opendirectories/comments/snxsls/random_stuff_in_french/",
+          "publishedOn": "2022-02-08T23:11:08.000Z",
+          "wordCount": 128,
+          "title": "Random Stuff in French"
+        },
+        {
+          "id": "https://www.reddit.com/r/opendirectories/comments/snxqo5/french_film_series/",
+          "author": null,
+          "description": "http://www.zoppello.fr/download/ \n  \n Url: http://www.zoppello.fr/download/  Urls file \n  \n Extension (Top 5) Files Size \n  .mkv 937 668,57 GiB \n  .avi 66 68,38 GiB \n  .mp4 61 22,63 GiB \n  .ts 5 17 GiB \n  .flv 17 7,07 GiB \n  Dirs: 187 Ext: 15 Total: 1 405 Total: 790,34 GiB \n  Date (UTC): 2022-02-08 23:07:02 Time: 00:00:04 Speed: 11,05 MB/s (88,4 mbit) \n \n Created by [KoalaBear84's OpenDirectory Indexer v2.3.0.1](https://github.com/KoalaBear84/OpenDirectoryDownloader/)\n    submitted by    /u/VoXaN24  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/opendirectories/comments/snxqo5/french_film_series/",
+          "publishedOn": "2022-02-08T23:08:45.000Z",
+          "wordCount": 128,
+          "title": "French Film & Series"
+        },
         {
           "id": "https://www.reddit.com/r/opendirectories/comments/sn6jge/south_park/",
           "author": null,
@@ -24322,6 +24754,15 @@
       "feedUrl": "https://www.hackingarticles.in/feed/",
       "siteUrl": "https://www.hackingarticles.in",
       "articles": [
+        {
+          "id": "https://www.hackingarticles.in/?p=27764",
+          "author": "Raj Chandel",
+          "description": "Introduction Team Qualys discovered a local privilege escalation vulnerability in PolicyKit’s (polkit) setuid tool pkexec which allows low-level users to run commands as privileged users.\nThe post Linux Privilege Escalation: PwnKit (CVE 2021-4034) appeared first on Hacking Articles.",
+          "link": "https://www.hackingarticles.in/linux-privilege-escalation-pwnkit-cve-2021-4034/",
+          "publishedOn": "2022-02-07T18:33:58.000Z",
+          "wordCount": 1561,
+          "title": "Linux Privilege Escalation: PwnKit (CVE 2021-4034)"
+        },
         {
           "id": "https://www.hackingarticles.in/?p=27761",
           "author": "Raj Chandel",
