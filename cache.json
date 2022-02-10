@@ -6,6 +6,51 @@
       "siteUrl": "http://h1.nobbd.de/",
       "articles": [
         {
+          "id": "https://hackerone.com/reports/1102546",
+          "author": null,
+          "description": "Shopify disclosed a bug submitted by ngalog: https://hackerone.com/reports/1102546 - Bounty: $500",
+          "link": "https://hackerone.com/reports/1102546",
+          "publishedOn": "2022-02-09T20:59:55.000Z",
+          "wordCount": 25,
+          "title": "Is the Google Bucket Meant To Be Publicly Listable? https://cdn.shopify.com/shop-assets/"
+        },
+        {
+          "id": "https://hackerone.com/reports/1102660",
+          "author": null,
+          "description": "Shopify disclosed a bug submitted by ngalog: https://hackerone.com/reports/1102660 - Bounty: $500",
+          "link": "https://hackerone.com/reports/1102660",
+          "publishedOn": "2022-02-09T20:59:25.000Z",
+          "wordCount": 25,
+          "title": "staffOrderNotificationSubscriptionDelete Could Be Used By Staff Member With Settings Permission"
+        },
+        {
+          "id": "https://hackerone.com/reports/1102652",
+          "author": null,
+          "description": "Shopify disclosed a bug submitted by ngalog: https://hackerone.com/reports/1102652 - Bounty: $900",
+          "link": "https://hackerone.com/reports/1102652",
+          "publishedOn": "2022-02-09T20:58:34.000Z",
+          "wordCount": 25,
+          "title": "staffOrderNotificationSubscriptionCreate Is Not Blocked Entirely From Staff Member With Settings Permission"
+        },
+        {
+          "id": "https://hackerone.com/reports/1409913",
+          "author": null,
+          "description": "Zomato disclosed a bug submitted by 0xdexter: https://hackerone.com/reports/1409913 - Bounty: $150",
+          "link": "https://hackerone.com/reports/1409913",
+          "publishedOn": "2022-02-09T09:42:17.000Z",
+          "wordCount": 25,
+          "title": "Race condition in User comments  Likes"
+        },
+        {
+          "id": "https://hackerone.com/reports/1452375",
+          "author": null,
+          "description": "TikTok disclosed a bug submitted by imran_nisar: https://hackerone.com/reports/1452375 - Bounty: $6000",
+          "link": "https://hackerone.com/reports/1452375",
+          "publishedOn": "2022-02-09T01:12:53.000Z",
+          "wordCount": 25,
+          "title": "Reflected xss on ads.tiktok.com using `from` parameter."
+        },
+        {
           "id": "https://hackerone.com/reports/1161241",
           "author": null,
           "description": "Acronis disclosed a bug submitted by quadrant: https://hackerone.com/reports/1161241 - Bounty: $50",
@@ -2011,6 +2056,96 @@
       "siteUrl": "https://infosecwriteups.com?source=rss----7b722bfd1b8d---4",
       "articles": [
         {
+          "id": "https://medium.com/p/4d377b7b27b9",
+          "author": "Febi Mudiyanto",
+          "description": "Write-ups TryHackMe Challege",
+          "link": "https://infosecwriteups.com/rootme-tryhackme-walkthrough-4d377b7b27b9?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2022-02-09T17:02:13.000Z",
+          "wordCount": 920,
+          "title": "RootMe | TryHackMe Walkthrough"
+        },
+        {
+          "id": "https://medium.com/p/f66f7193e70",
+          "author": "Pencer",
+          "description": "Showing all the tools and techniques needed to complete the box.\nContinue reading on InfoSec Write-ups »",
+          "link": "https://infosecwriteups.com/horizontall-from-hackthebox-detailed-walkthrough-f66f7193e70?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2022-02-09T17:02:02.000Z",
+          "wordCount": 1932,
+          "title": "Horizontall from HackTheBox — Detailed Walkthrough"
+        },
+        {
+          "id": "https://medium.com/p/19b16d052753",
+          "author": "Mukilan Baskaran",
+          "description": "writeup",
+          "link": "https://infosecwriteups.com/the-find-command-tryhackme-19b16d052753?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2022-02-09T17:00:25.000Z",
+          "wordCount": 753,
+          "title": "The find command-TryHackme"
+        },
+        {
+          "id": "https://medium.com/p/b746514d42c8",
+          "author": "Hacktivities",
+          "description": "In this article, I use NetworkMiner, Wireshark and Brim to analyze a PCAP file that captured network traffic belonging to an Angler…",
+          "link": "https://infosecwriteups.com/angler-exploitation-kit-infection-1-malware-traffic-analysis-b746514d42c8?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2022-02-09T17:00:03.000Z",
+          "wordCount": 2846,
+          "title": "Angler Exploitation Kit Infection 1 — Malware Traffic Analysis"
+        },
+        {
+          "id": "https://medium.com/p/dea16fe37ed2",
+          "author": "Muh. Fani Akbar",
+          "description": "Introduction about SSRF attack can be read on separated medium post Beginner Guide To Exploit Server Side Request Forgery (SSRF)…",
+          "link": "https://infosecwriteups.com/server-side-request-forgery-to-internal-smtp-access-dea16fe37ed2?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2022-02-09T16:59:40.000Z",
+          "wordCount": 1037,
+          "title": "Server-Side Request Forgery to Internal SMTP Access"
+        },
+        {
+          "id": "https://medium.com/p/a522b188f2fe",
+          "author": "Andrea",
+          "description": "A complete guide how to exploit clickjacking and how to prevent it.",
+          "link": "https://infosecwriteups.com/everything-you-need-to-know-about-clickjacking-a522b188f2fe?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2022-02-09T16:59:14.000Z",
+          "wordCount": 947,
+          "title": "Everything you need to know about clickjacking"
+        },
+        {
+          "id": "https://medium.com/p/7269c4cb7b9e",
+          "author": "Febi Mudiyanto",
+          "description": "Today we will learn about NoSql Injection, as you know this is my first time of NoSql Injection, so I was learning a lot from tryhackme.",
+          "link": "https://infosecwriteups.com/day-7-web-exploitation-migration-without-security-advent-of-cyber-3-2021-7269c4cb7b9e?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2022-02-09T16:58:46.000Z",
+          "wordCount": 855,
+          "title": "[Day 7] Web Exploitation Migration Without Security | Advent of Cyber 3 (2021)"
+        },
+        {
+          "id": "https://medium.com/p/a9fe6d3a59c8",
+          "author": "Ayush Verma",
+          "description": "Get all the writeups from Day 1 to 21, Click Here Or Click Here.",
+          "link": "https://infosecwriteups.com/day-22-cross-site-scripting-part-1-100daysofhacking-a9fe6d3a59c8?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2022-02-09T16:57:39.000Z",
+          "wordCount": 2044,
+          "title": "Day 22 Cross Site Scripting — Part 1 #100DaysofHacking"
+        },
+        {
+          "id": "https://medium.com/p/7160f9fcf63e",
+          "author": "A. Boukar",
+          "description": "Host Header injection is not the type of attack that you would normally find in CTFs or security challenges. However, it is widespread in…",
+          "link": "https://infosecwriteups.com/host-header-injection-attacks-7160f9fcf63e?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2022-02-09T16:55:21.000Z",
+          "wordCount": 1248,
+          "title": "Host Header Injection Attacks"
+        },
+        {
+          "id": "https://medium.com/p/c5f0d113bec6",
+          "author": "Aleksey",
+          "description": "The hacker Aleksey hacks TryHackMe’s LazyAdmin room. They assumed because the admin is “lazy,” that this would be easy. They were so wrong.\nContinue reading on InfoSec Write-ups »",
+          "link": "https://infosecwriteups.com/lazyadmin-tryhackme-writeup-c5f0d113bec6?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2022-02-09T16:54:43.000Z",
+          "wordCount": 1827,
+          "title": "LazyAdmin [TryHackMe Writeup]"
+        },
+        {
           "id": "https://medium.com/p/6890fbd37474",
           "author": "InfoSec Write-ups",
           "description": "Book your seats today!",
@@ -3169,6 +3304,96 @@
       "feedUrl": "https://medium.com/feed/tag/bugbounty",
       "siteUrl": "https://medium.com/tag/bugbounty/latest?source=rss------bugbounty-5",
       "articles": [
+        {
+          "id": "https://medium.com/p/87634514ec72",
+          "author": "Manan Aggarwal",
+          "description": "Hello Guys Myself Manan Aggarwal BTech Student is here Present you the information about the Basic Technology which you need to require…\nContinue reading on Medium »",
+          "link": "https://medium.com/@mananaggarwal2001/basic-web-technologies-knowledge-required-for-starting-with-the-web-exploitation-part-1-87634514ec72?source=rss------bugbounty-5",
+          "publishedOn": "2022-02-09T20:18:17.000Z",
+          "wordCount": 1277,
+          "title": "Basic Web Technologies Knowledge required for starting with the web Exploitation Part 1"
+        },
+        {
+          "id": "https://medium.com/p/319005da6ad9",
+          "author": "Michael Meade",
+          "description": "Rake is a utility that can be used to automate tasks. For a example, if program needs to be set up in a certain way. Rake could be used to…\nContinue reading on Medium »",
+          "link": "https://medium.com/@michaelmeade3/hacking-with-rake-319005da6ad9?source=rss------bugbounty-5",
+          "publishedOn": "2022-02-09T19:57:55.000Z",
+          "wordCount": 136,
+          "title": "Hacking with Rake"
+        },
+        {
+          "id": "https://medium.com/p/2e1b14b3902a",
+          "author": "Abdulrahman Makki | عبدالرحمن مكي",
+          "description": "Hello Everyone 👋\nContinue reading on Medium »",
+          "link": "https://medium.com/@AMakki1337/how-i-made-15k-from-remote-code-execution-vulnerability-2e1b14b3902a?source=rss------bugbounty-5",
+          "publishedOn": "2022-02-09T18:32:35.000Z",
+          "wordCount": 413,
+          "title": "How i made 15k$ from Remote Code Execution Vulnerability"
+        },
+        {
+          "id": "https://medium.com/p/e0486a674912",
+          "author": "Harish SG",
+          "description": "Hey Guys, This is Harish! I used to hunt to Microsoft and Google VRP, This is my first write up!\nContinue reading on Medium »",
+          "link": "https://medium.com/@harishhacker3010/how-i-hacked-google-to-read-files-from-their-servers-for-free-e0486a674912?source=rss------bugbounty-5",
+          "publishedOn": "2022-02-09T17:12:36.000Z",
+          "wordCount": 198,
+          "title": "How I hacked Google to read files from their servers for free!"
+        },
+        {
+          "id": "https://medium.com/p/a522b188f2fe",
+          "author": "Andrea",
+          "description": "A complete guide how to exploit clickjacking and how to prevent it.\nContinue reading on InfoSec Write-ups »",
+          "link": "https://infosecwriteups.com/everything-you-need-to-know-about-clickjacking-a522b188f2fe?source=rss------bugbounty-5",
+          "publishedOn": "2022-02-09T16:59:14.000Z",
+          "wordCount": 947,
+          "title": "Everything you need to know about clickjacking"
+        },
+        {
+          "id": "https://medium.com/p/69ce4479e66b",
+          "author": "QuickSwap Official",
+          "description": "TL; DR:\nContinue reading on Medium »",
+          "link": "https://quickswap-layer2.medium.com/quickswaps-new-ui-alpha-50-000-bug-bounty-69ce4479e66b?source=rss------bugbounty-5",
+          "publishedOn": "2022-02-09T16:39:48.000Z",
+          "wordCount": 430,
+          "title": "QuickSwap’s New UI Alpha $50,000 Bug Bounty"
+        },
+        {
+          "id": "https://medium.com/p/bc884101d306",
+          "author": "XDAG",
+          "description": "Repost of the 2011–11–05 news on xdag.io\nContinue reading on Medium »",
+          "link": "https://medium.com/@XDAG_Community/xdag-new-version-of-wallet-0-4-0-officially-released-bc884101d306?source=rss------bugbounty-5",
+          "publishedOn": "2022-02-09T15:26:35.000Z",
+          "wordCount": 163,
+          "title": "XDAG new version of wallet (0.4.0) officially released"
+        },
+        {
+          "id": "https://medium.com/p/df5f6a7d068b",
+          "author": "XDAG",
+          "description": "repost of 2021–05–09 news on xdag.io\nContinue reading on Medium »",
+          "link": "https://medium.com/@XDAG_Community/xdag-mars-project-df5f6a7d068b?source=rss------bugbounty-5",
+          "publishedOn": "2022-02-09T15:17:33.000Z",
+          "wordCount": 1188,
+          "title": "XDAG Mars Project"
+        },
+        {
+          "id": "https://medium.com/p/cd5a73b00228",
+          "author": "XDAG",
+          "description": "Hello to all, As some of you know, we are currently working on making the project more attractive to developers.\nContinue reading on Medium »",
+          "link": "https://medium.com/@XDAG_Community/xdag-java-edition-testing-tutorial-cd5a73b00228?source=rss------bugbounty-5",
+          "publishedOn": "2022-02-09T15:11:13.000Z",
+          "wordCount": 492,
+          "title": "XDAG Java Edition Testing Tutorial"
+        },
+        {
+          "id": "https://medium.com/p/43c08f4cd5d6",
+          "author": "Maniesh Neupane(A Looser)",
+          "description": "Input: User id and Password\nSQL: select * from admin where user_id = 'admin' and password=’****'\nContinue reading on Medium »",
+          "link": "https://medium.com/@neupanemanish098/login-function-module-user-authentication-43c08f4cd5d6?source=rss------bugbounty-5",
+          "publishedOn": "2022-02-09T14:18:03.000Z",
+          "wordCount": 113,
+          "title": "Login function module: User Authentication ."
+        },
         {
           "id": "https://medium.com/p/4dafd7deca05",
           "author": "Balaji Anbalagan",
@@ -5967,6 +6192,33 @@
       "siteUrl": "https://medium.com/tag/redteam/latest?source=rss------redteam-5",
       "articles": [
         {
+          "id": "https://medium.com/p/be3c4a808146",
+          "author": "Andy Robbins",
+          "description": "Prior Work\nContinue reading on Posts By SpecterOps Team Members »",
+          "link": "https://posts.specterops.io/introducing-bloodhound-4-1-the-three-headed-hound-be3c4a808146?source=rss------redteam-5",
+          "publishedOn": "2022-02-09T19:44:45.000Z",
+          "wordCount": 848,
+          "title": "Introducing BloodHound 4.1 — The Three Headed Hound"
+        },
+        {
+          "id": "https://medium.com/p/870c619465d3",
+          "author": "Ömür Uğur",
+          "description": "I had a certificate by successfully completing the CRTO exam in the past days, and while my knowledge was still fresh, I decided to write…\nContinue reading on Medium »",
+          "link": "https://omurugur.medium.com/crto-review-certified-red-team-operator-870c619465d3?source=rss------redteam-5",
+          "publishedOn": "2022-02-09T14:39:19.000Z",
+          "wordCount": 1335,
+          "title": "CRTO Review (Certified Red Team Operator)"
+        },
+        {
+          "id": "https://medium.com/p/bbd28c68d01b",
+          "author": "Furkan Enes Polatoğlu",
+          "description": "Kurulum\nContinue reading on Medium »",
+          "link": "https://medium.com/@furkan_enes/raspberry-pi-pico-as-a-rubber-ducky-bbd28c68d01b?source=rss------redteam-5",
+          "publishedOn": "2022-02-09T14:21:31.000Z",
+          "wordCount": 372,
+          "title": "Raspberry Pi Pico as a Rubber Ducky"
+        },
+        {
           "id": "https://medium.com/p/d0d009a01e48",
           "author": "Kamran Saifullah",
           "description": "We all have been sometime, someday in our professional life have used SysInternals Suite. I personally have used these utilities…\nContinue reading on Medium »",
@@ -6369,6 +6621,96 @@
       "feedUrl": "https://medium.com/feed/bugbountywriteup",
       "siteUrl": "https://infosecwriteups.com?source=rss----7b722bfd1b8d---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/4d377b7b27b9",
+          "author": "Febi Mudiyanto",
+          "description": "Write-ups TryHackMe Challege",
+          "link": "https://infosecwriteups.com/rootme-tryhackme-walkthrough-4d377b7b27b9?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2022-02-09T17:02:13.000Z",
+          "wordCount": 920,
+          "title": "RootMe | TryHackMe Walkthrough"
+        },
+        {
+          "id": "https://medium.com/p/f66f7193e70",
+          "author": "Pencer",
+          "description": "Showing all the tools and techniques needed to complete the box.\nContinue reading on InfoSec Write-ups »",
+          "link": "https://infosecwriteups.com/horizontall-from-hackthebox-detailed-walkthrough-f66f7193e70?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2022-02-09T17:02:02.000Z",
+          "wordCount": 1932,
+          "title": "Horizontall from HackTheBox — Detailed Walkthrough"
+        },
+        {
+          "id": "https://medium.com/p/19b16d052753",
+          "author": "Mukilan Baskaran",
+          "description": "writeup",
+          "link": "https://infosecwriteups.com/the-find-command-tryhackme-19b16d052753?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2022-02-09T17:00:25.000Z",
+          "wordCount": 753,
+          "title": "The find command-TryHackme"
+        },
+        {
+          "id": "https://medium.com/p/b746514d42c8",
+          "author": "Hacktivities",
+          "description": "In this article, I use NetworkMiner, Wireshark and Brim to analyze a PCAP file that captured network traffic belonging to an Angler…",
+          "link": "https://infosecwriteups.com/angler-exploitation-kit-infection-1-malware-traffic-analysis-b746514d42c8?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2022-02-09T17:00:03.000Z",
+          "wordCount": 2846,
+          "title": "Angler Exploitation Kit Infection 1 — Malware Traffic Analysis"
+        },
+        {
+          "id": "https://medium.com/p/dea16fe37ed2",
+          "author": "Muh. Fani Akbar",
+          "description": "Introduction about SSRF attack can be read on separated medium post Beginner Guide To Exploit Server Side Request Forgery (SSRF)…",
+          "link": "https://infosecwriteups.com/server-side-request-forgery-to-internal-smtp-access-dea16fe37ed2?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2022-02-09T16:59:40.000Z",
+          "wordCount": 1037,
+          "title": "Server-Side Request Forgery to Internal SMTP Access"
+        },
+        {
+          "id": "https://medium.com/p/a522b188f2fe",
+          "author": "Andrea",
+          "description": "A complete guide how to exploit clickjacking and how to prevent it.",
+          "link": "https://infosecwriteups.com/everything-you-need-to-know-about-clickjacking-a522b188f2fe?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2022-02-09T16:59:14.000Z",
+          "wordCount": 947,
+          "title": "Everything you need to know about clickjacking"
+        },
+        {
+          "id": "https://medium.com/p/7269c4cb7b9e",
+          "author": "Febi Mudiyanto",
+          "description": "Today we will learn about NoSql Injection, as you know this is my first time of NoSql Injection, so I was learning a lot from tryhackme.",
+          "link": "https://infosecwriteups.com/day-7-web-exploitation-migration-without-security-advent-of-cyber-3-2021-7269c4cb7b9e?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2022-02-09T16:58:46.000Z",
+          "wordCount": 855,
+          "title": "[Day 7] Web Exploitation Migration Without Security | Advent of Cyber 3 (2021)"
+        },
+        {
+          "id": "https://medium.com/p/a9fe6d3a59c8",
+          "author": "Ayush Verma",
+          "description": "Get all the writeups from Day 1 to 21, Click Here Or Click Here.",
+          "link": "https://infosecwriteups.com/day-22-cross-site-scripting-part-1-100daysofhacking-a9fe6d3a59c8?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2022-02-09T16:57:39.000Z",
+          "wordCount": 2044,
+          "title": "Day 22 Cross Site Scripting — Part 1 #100DaysofHacking"
+        },
+        {
+          "id": "https://medium.com/p/7160f9fcf63e",
+          "author": "A. Boukar",
+          "description": "Host Header injection is not the type of attack that you would normally find in CTFs or security challenges. However, it is widespread in…",
+          "link": "https://infosecwriteups.com/host-header-injection-attacks-7160f9fcf63e?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2022-02-09T16:55:21.000Z",
+          "wordCount": 1248,
+          "title": "Host Header Injection Attacks"
+        },
+        {
+          "id": "https://medium.com/p/c5f0d113bec6",
+          "author": "Aleksey",
+          "description": "The hacker Aleksey hacks TryHackMe’s LazyAdmin room. They assumed because the admin is “lazy,” that this would be easy. They were so wrong.\nContinue reading on InfoSec Write-ups »",
+          "link": "https://infosecwriteups.com/lazyadmin-tryhackme-writeup-c5f0d113bec6?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2022-02-09T16:54:43.000Z",
+          "wordCount": 1827,
+          "title": "LazyAdmin [TryHackMe Writeup]"
+        },
         {
           "id": "https://medium.com/p/6890fbd37474",
           "author": "InfoSec Write-ups",
@@ -7528,6 +7870,24 @@
       "feedUrl": "https://medium.com/feed/tag/osint",
       "siteUrl": "https://medium.com/tag/osint/latest?source=rss------osint-5",
       "articles": [
+        {
+          "id": "https://medium.com/p/3ecf71bff4c8",
+          "author": "Levent Durdalı",
+          "description": "On Dec 20, 2021, OSINT Dojo shared a OSINT quiz with us. The objective was simple. We had to figure out where the photo was taken…\nContinue reading on Medium »",
+          "link": "https://medium.com/@leventd/simply-geoestimation-osint-challenge-13-3ecf71bff4c8?source=rss------osint-5",
+          "publishedOn": "2022-02-09T14:32:49.000Z",
+          "wordCount": 441,
+          "title": "Simply GeoEstimation — OSINT Challenge 13"
+        },
+        {
+          "id": "https://medium.com/p/7779fb9b6411",
+          "author": "Sofia Santos",
+          "description": "In this article I will explain how to solve Hacktoria’s Geolocation 10 challenge.\nHowever, I must give a quick disclaimer first. I already…\nContinue reading on Medium »",
+          "link": "https://gralhix.medium.com/walkthrough-hacktoria-geolocation-10-7779fb9b6411?source=rss------osint-5",
+          "publishedOn": "2022-02-09T12:10:36.000Z",
+          "wordCount": 1641,
+          "title": "Walkthrough — Hacktoria: Geolocation 10"
+        },
         {
           "id": "https://medium.com/p/2f038d9b31ca",
           "author": "RoddyT3ch",
@@ -9643,6 +10003,24 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=30273774",
+          "author": "caaqil",
+          "description": "Article URL: https://research.ifcr.dk/spoolfool-windows-print-spooler-privilege-escalation-cve-2022-22718-bf7752b68d81?gif=true\nComments URL: https://news.ycombinator.com/item?id=30273774\nPoints: 3\n# Comments: 1",
+          "link": "https://research.ifcr.dk/spoolfool-windows-print-spooler-privilege-escalation-cve-2022-22718-bf7752b68d81?gif=true",
+          "publishedOn": "2022-02-09T15:32:17.000Z",
+          "wordCount": 3339,
+          "title": "CVE-2022–22718: Windows Print Spooler Privilege Escalation"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=30270751",
+          "author": "mpettitt",
+          "description": "Article URL: https://jub0bs.com/posts/2022-02-08-cve-2022-21703-writeup/\nComments URL: https://news.ycombinator.com/item?id=30270751\nPoints: 1\n# Comments: 0",
+          "link": "https://jub0bs.com/posts/2022-02-08-cve-2022-21703-writeup/",
+          "publishedOn": "2022-02-09T09:33:00.000Z",
+          "wordCount": 2859,
+          "title": "CVE-2022-21703: cross-origin request forgery against Grafana"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=30256773",
           "author": "intunderflow",
           "description": "Article URL: https://nvd.nist.gov/vuln/detail/CVE-2021-4160\nComments URL: https://news.ycombinator.com/item?id=30256773\nPoints: 2\n# Comments: 0",
@@ -10162,6 +10540,15 @@
       "feedUrl": "https://hnrss.org/newest?q=vulnerability",
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
+        {
+          "id": "https://news.ycombinator.com/item?id=30278015",
+          "author": "todsacerdoti",
+          "description": "Article URL: https://github.blog/2022-02-09-coordinated-vulnerability-disclosure-cvd-open-source-projects/\nComments URL: https://news.ycombinator.com/item?id=30278015\nPoints: 1\n# Comments: 0",
+          "link": "https://github.blog/2022-02-09-coordinated-vulnerability-disclosure-cvd-open-source-projects/",
+          "publishedOn": "2022-02-09T20:27:28.000Z",
+          "wordCount": 2526,
+          "title": "Coordinated vulnerability disclosure (CVD) for open source projects"
+        },
         {
           "id": "https://news.ycombinator.com/item?id=30262516",
           "author": "qwertyuiop_",
@@ -10962,6 +11349,96 @@
       "siteUrl": "https://www.freebuf.com",
       "articles": [
         {
+          "id": "https://www.freebuf.com/news/321544.html",
+          "author": null,
+          "description": "沃达丰葡萄牙分公司遭受网络攻击，导致该国通讯和电视服务严重中断。",
+          "link": "https://www.freebuf.com/news/321544.html",
+          "publishedOn": "2022-02-09T10:02:02.000Z",
+          "wordCount": 184,
+          "title": "FreeBuf早报 | “漫游螳螂”正瞄准欧洲；沃达丰葡萄牙分公司遭大规模网络攻击"
+        },
+        {
+          "id": "https://www.freebuf.com/news/321537.html",
+          "author": null,
+          "description": "近期，加拿大男子Sebastian Vachon-Desjardins因参与NetWalker勒索攻击，被判处6年零八个月监禁。",
+          "link": "https://www.freebuf.com/news/321537.html",
+          "publishedOn": "2022-02-09T08:58:49.000Z",
+          "wordCount": 143,
+          "title": "NetWalker勒索软件成员被判80个月监禁"
+        },
+        {
+          "id": "https://www.freebuf.com/news/321526.html",
+          "author": null,
+          "description": "运动服装制造商Puma在2021年12月对其北美劳动力管理服务提供商之一Kronos发起勒索软件攻击后，遭到数据泄露。",
+          "link": "https://www.freebuf.com/news/321526.html",
+          "publishedOn": "2022-02-09T07:13:05.000Z",
+          "wordCount": 144,
+          "title": "Puma遭遇勒索攻击致数据泄漏、微软修复48个安全漏洞｜2月9日全球网络安全热点"
+        },
+        {
+          "id": "https://www.freebuf.com/articles/network/321518.html",
+          "author": null,
+          "description": "<p><br data-mce-bogus=\"1\"></p><p>【编者按】工业组织在2021年面临重大挑战。对佛罗里达州Oldsmar供水设施、Colonial管道和JBS的网络攻击，以及Solar",
+          "link": "https://www.freebuf.com/articles/network/321518.html",
+          "publishedOn": "2022-02-09T06:01:15.000Z",
+          "wordCount": 153,
+          "title": "全球工业网络安全状况调查"
+        },
+        {
+          "id": "https://www.freebuf.com/news/321514.html",
+          "author": null,
+          "description": "犯罪分子能够利用偷来的照片以其他方式获得钱财，如敲诈或性骚扰等。",
+          "link": "https://www.freebuf.com/news/321514.html",
+          "publishedOn": "2022-02-09T05:46:57.000Z",
+          "wordCount": 172,
+          "title": "“漫游螳螂”恶意软件触角伸向欧洲"
+        },
+        {
+          "id": "https://www.freebuf.com/news/321503.html",
+          "author": null,
+          "description": "“据五位知情人士透露，以色列监控公司 NSO Group 在 2021 年利用苹果软件中的一个漏洞 侵入 iPhone，同时也被一家竞争公司滥用。” 根据路透社发表的文章，“有人透露这家名为的QuaDream 是一家规模较小、知名度较低的以色列公司，它还为政府客户开发智能手机黑客工具。”QuaDream是由以色列前军官 Ilan Dabelstein 和两名前 NSO 员工 Guy Geva 和",
+          "link": "https://www.freebuf.com/news/321503.html",
+          "publishedOn": "2022-02-09T03:39:04.000Z",
+          "wordCount": 163,
+          "title": "以色列监控公司 QuaDream遭曝光"
+        },
+        {
+          "id": "https://www.freebuf.com/articles/321500.html",
+          "author": null,
+          "description": "微软宣布已在Win10/11系统中暂时禁用MSIX应用程序安装器的ms-appinstaller 协议，以防被恶意软件滥用。",
+          "link": "https://www.freebuf.com/articles/321500.html",
+          "publishedOn": "2022-02-09T03:32:13.000Z",
+          "wordCount": 149,
+          "title": "微软禁用ms-appinstaller 协议，以阻止恶意软件传播"
+        },
+        {
+          "id": "https://www.freebuf.com/news/321495.html",
+          "author": null,
+          "description": "2022年2月8日，微软发布了一系列的漏洞补丁，共修复48 个漏洞，以及一个零日漏洞。",
+          "link": "https://www.freebuf.com/news/321495.html",
+          "publishedOn": "2022-02-09T03:11:38.000Z",
+          "wordCount": 157,
+          "title": "请及时更新，微软2月修复48个重要漏洞，1个零日漏洞"
+        },
+        {
+          "id": "https://www.freebuf.com/news/321484.html",
+          "author": null,
+          "description": "《规划》提出要强化金融网络安全标准防护。健全金融业网络安全与数据安全标准体系。 建立健全金融业关键信息基础设施保护标准体系，支持提升安全防护能力。",
+          "link": "https://www.freebuf.com/news/321484.html",
+          "publishedOn": "2022-02-09T02:00:06.000Z",
+          "wordCount": 141,
+          "title": "《金融标准化“十四五”发展规划》发布，强化金融网络安全标准防护"
+        },
+        {
+          "id": "https://www.freebuf.com/news/321444.html",
+          "author": null,
+          "description": "六方云结合2021年50篇安全态势周刊内容，详细分析全球工业安全现状，多方位感知工业安全态势，为工业安全相关责任人员提供有效的参考。",
+          "link": "https://www.freebuf.com/news/321444.html",
+          "publishedOn": "2022-02-08T10:27:43.000Z",
+          "wordCount": 183,
+          "title": "2021年全球工业网络安全态势报告"
+        },
+        {
           "id": "https://www.freebuf.com/news/321425.html",
           "author": null,
           "description": "Meta 威胁称，如果欧盟不允许该公司的美国运营、应用程序和数据中心分享欧盟用户数据，将考虑退出欧洲。",
@@ -10969,6 +11446,15 @@
           "publishedOn": "2022-02-08T09:09:54.000Z",
           "wordCount": 281,
           "title": "FreeBuf早报 | Meta 威胁退出欧洲；网上没有免费“红包”"
+        },
+        {
+          "id": "https://www.freebuf.com/articles/es/321412.html",
+          "author": null,
+          "description": "应急响应文章很多，但如何使用SANS、NIST框架模型落地应急响应文章略少，仅以个人观点针对当前X站钓鱼邮件案例进行简单模型化分析",
+          "link": "https://www.freebuf.com/articles/es/321412.html",
+          "publishedOn": "2022-02-08T08:15:47.000Z",
+          "wordCount": 151,
+          "title": "X站钓鱼邮件应急响应案例分析"
         },
         {
           "id": "https://www.freebuf.com/news/321403.html",
@@ -14225,6 +14711,15 @@
       "siteUrl": "http://www.sec-wiki.com/",
       "articles": [
         {
+          "id": "http://www.sec-wiki.com/?2022-02-09",
+          "author": null,
+          "description": "2022勒索软件和恶意软件报告  by ourren\n更多最新文章，请访问SecWiki",
+          "link": "http://www.sec-wiki.com/?2022-02-09",
+          "publishedOn": "2022-02-09T15:58:20.000Z",
+          "wordCount": 589,
+          "title": "SecWiki News 2022-02-09 Review"
+        },
+        {
           "id": "http://www.sec-wiki.com/?2022-02-08",
           "author": null,
           "description": "今日暂未更新资讯~\n更多最新文章，请访问SecWiki",
@@ -14753,6 +15248,78 @@
       "feedUrl": "https://www.reddit.com/r/asknetsec/.rss",
       "siteUrl": "https://www.reddit.com/r/asknetsec/",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/sor95p/is_there_a_way_to_find_out_what_serverip_adrdress/",
+          "author": null,
+          "description": "I'm trying to find the server so I can ping to that manually but I don't know if that's possible. I'm almost a beginner in this, I want to know the pinging time.\n    submitted by    /u/Mayhem_8116  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/sor95p/is_there_a_way_to_find_out_what_serverip_adrdress/",
+          "publishedOn": "2022-02-09T23:31:15.000Z",
+          "wordCount": 307,
+          "title": "Is there a way to find out what server/ip adrdress a program accesses?"
+        },
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/solfcr/why_is_it_common_practice_to_reset_a_password/",
+          "author": null,
+          "description": "Hi Netsec people!\n Every once in a while I will get emails saying that some website/service I’m registered on has reset my password because of too many failed log in attempts.\n Now I’m not too surprised by the attempts, since according to HaveIBeenPwned, my credentials have been ‘exposed’ over 30 times in breaches dating back to the early 2010s. However, a while back I gave up my terrible practice of using 1 password across multiple services and migrated to using a password manager, and now all of my passwords to every service I’m on are randomly generated, so I’m not too worried by these attempts.\n My question is this: Why does the most common practice seem to be for services to reset your password after a few failed attempts?\n To me that seems like if x log in attempts failed, the password was robust/held up—why force the user to change it? If the user used a random generator, repeated tries that are time separated (I.e. wait 10min before trying again) probably won’t get an attacker anywhere.\n If a person isn’t using a password manager/generator then forcing the user to reset might actually lead them to use a weaker password since they will have to come up with something familiar, and there are only so many familiar items a person can keep track of at a time…\n I’d love to hear some insights on to why this reset after x tries approach appears to be such a pervasive (and counterintuitive) practice!\n Sorry if this isn’t the right place for a question like this!\n    submitted by    /u/KrishanuAR  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/solfcr/why_is_it_common_practice_to_reset_a_password/",
+          "publishedOn": "2022-02-09T19:15:14.000Z",
+          "wordCount": 593,
+          "title": "Why is it common practice to reset a password after a few failed attempts?"
+        },
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/sokqr6/hosts_making_dns_queries_to_malicious_site_how_to/",
+          "author": null,
+          "description": "I have some infected hosts in LAN making a communication with C&C server and bots but that URL seems to be hidden behind Cloudflare CDN as per wireshark sniffing on infected host. In other words, I must say hosts are making DNS queries to malicious site.\n Our PAs with DNS filtering has blocked the domain since it flagged as malicious \n How I can find the source of infection on the host ? \n Any tools I can use which process or application making DNS queries ?\n Any advise how to dig deeper and what process is making these queries so we can get rid of these logs ?\n    submitted by    /u/techno_it  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/sokqr6/hosts_making_dns_queries_to_malicious_site_how_to/",
+          "publishedOn": "2022-02-09T18:45:45.000Z",
+          "wordCount": 780,
+          "title": "Hosts making DNS queries to malicious site. How to dig deeper and find source?"
+        },
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/sojby6/does_this_report_that_palestinian_threat_actor_is/",
+          "author": null,
+          "description": "Known Palestinian threat actor MoleRats is likely behind a recent malicious email campaign targeting Middle Eastern governments, foreign-policy think tanks and a state-affiliated airline with a new intelligence-gathering trojan dubbed NimbleMamba, researchers said via Threatpost. https://threatpost.com/molerats-apt-trojan-cyberespionage-campaign/178305/\n    submitted by    /u/Technical-Tea-4902  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/sojby6/does_this_report_that_palestinian_threat_actor_is/",
+          "publishedOn": "2022-02-09T17:44:06.000Z",
+          "wordCount": 362,
+          "title": "Does this report that Palestinian threat actor is behind new Mid East phishing attacks sound right?"
+        },
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/sobo9v/rce_vs_command_injection/",
+          "author": null,
+          "description": "Hi, what's the difference between RCE and Command Injection ?\n    submitted by    /u/Spare_Prize1148  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/sobo9v/rce_vs_command_injection/",
+          "publishedOn": "2022-02-09T11:46:12.000Z",
+          "wordCount": 166,
+          "title": "RCE vs Command Injection"
+        },
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/soaf4x/setting_up_a_security_program/",
+          "author": null,
+          "description": "So a long time ago some of the higher ups decided we should have a security program within our product development, the idea was that there would be one person in each scrum team responsible for promoting security and they would get some additional training to help with that. Like a lot of these central programs it continued for a few months and then was quickly forgotten about. Now I've been tasked with setting up our own version in the division as the central version is pretty much dead but they're still pushing the general idea.\n This is what is currently on my list\n - Security champions to be Security+ certified (I know it's a broad basic cert but I figure we can get funding for this and then progress to more advanced targeted training)\n - Add a method into Jira for tracking security related issues separately\n - Create discrete security projects as epics so we can fix some of the legacy issues completely and not worry about them anymore (current ideas for these include: removing third party services to reduce exposure, updating some very old libraries, updating SQL user security etc)\n Any other ideas of things I could introduce?\n    submitted by    /u/dbxp  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/soaf4x/setting_up_a_security_program/",
+          "publishedOn": "2022-02-09T10:28:12.000Z",
+          "wordCount": 934,
+          "title": "Setting up a security program"
+        },
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/so8nsz/cvss_calculation_weight_reasoning/",
+          "author": null,
+          "description": "Hello AskNetsec.\n I was wondering if there is a resource describing the CVSS calculation reasoning. Not just how the CVSS is calculated by also the reasoning behind the weight of the different variables. For example in the specification (https://www.first.org/cvss/specification-document) under \"CVSS v3.1 Equations\", WHY is ISS = 6.42 * ISS? Where does 6.42 come from. Is there any research paper or whitepaper for this?\n    submitted by    /u/someuserman  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/so8nsz/cvss_calculation_weight_reasoning/",
+          "publishedOn": "2022-02-09T08:29:38.000Z",
+          "wordCount": 241,
+          "title": "CVSS calculation weight reasoning"
+        },
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/so84sp/question_patching_buildin_python_on_macos/",
+          "author": null,
+          "description": "Do I need to patch / install a new version of Python manually, in order to fix the vulnerability of Python on my macOS?\n For example, my macOS is upgraded to Monterey 12.1, but my Python version is still 3.7.9, which is vulnerable to CVE-2021-3177. I tried to search the vulnerability, say CVE-2021-3177 is that affected my version of macOS. However, Apple seems didn't put that information into their security update documentation.\n    submitted by    /u/20151124  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/so84sp/question_patching_buildin_python_on_macos/",
+          "publishedOn": "2022-02-09T07:55:36.000Z",
+          "wordCount": 224,
+          "title": "Question patching build-in python on macOS"
+        },
         {
           "id": "https://www.reddit.com/r/AskNetsec/comments/snyjhs/hypothetical_incident_what_would_be_an/",
           "author": null,
@@ -19032,6 +19599,15 @@
       "siteUrl": "https://www.reddit.com/r/computerforensics/",
       "articles": [
         {
+          "id": "https://www.reddit.com/r/computerforensics/comments/socqbh/can_deleted_whatsapp_conversations_from_an_iphone/",
+          "author": null,
+          "description": "I deleted a very important conversation on WhatsApp 2 days ago. The iPhone 12 (running iOS 15.x) in question has been powered off and hasn't been used since.\n I understand that WhatsApp saves a backup copy in Android phones' local memory everyday at 2am and erase them every 7 days, however I can't find anything about iOS devices. To make matter worse, I deleted the conversation around 7pm, so before the local backup could trigger at 2am.\n Is there any chance to get this conversation back without any backup? And what would my chances be with a Cellebrite device?\n    submitted by    /u/Strangedreamest  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/computerforensics/comments/socqbh/can_deleted_whatsapp_conversations_from_an_iphone/",
+          "publishedOn": "2022-02-09T12:45:09.000Z",
+          "wordCount": 563,
+          "title": "Can deleted WhatsApp conversations from an iPhone be recovered without backup?"
+        },
+        {
           "id": "https://www.reddit.com/r/computerforensics/comments/snnuqm/somethings_amiss/",
           "author": null,
           "description": "Hello everyone...super noob alert:\n I'm taking a digital forensics class and rather than using the virtual lab decided to do some memory analysis on my machine. Since I know little about computers and even less about what I'm looking at, maybe I'm being paranoid, but maybe you can shed some light?\n As I don't know the email addresses, nor do email addresses like \"stealerbyframe@mail.ru\", \"360saftfirehackr@qq.com\", or my favorite \"pizda@qq.com\"--inspire confidence, those addresses raised some alarms. \n I used FTK Imager to do a memory dump on my system. I then used Bulk Extractor to organize the data a bit and the screen shot is some emails I found in the email.txt file result.\n Why, for example, are they in my computer's memory!?\n https://preview.redd.it/9orfvtravmg81.png?width=1326&format=png&auto=webp&s=65d81163bcd0e35d26a7cc2c88a5025762e36d9a\n https://preview.redd.it/80togtravmg81.png?width=509&format=png&auto=webp&s=3d14c00dbe7395beb8e682bd2fe0cc50e7d66277\n    submitted by    /u/Funny-Appearance9167  \n [link]   [comments]",
@@ -20055,6 +20631,42 @@
       "feedUrl": "https://www.reddit.com/r/netsec/.rss",
       "siteUrl": "https://www.reddit.com/r/netsec/",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/netsec/comments/soo3g4/npm_weak_links/",
+          "author": null,
+          "description": "submitted by    /u/Jazzlike-Vegetable69  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/netsec/comments/soo3g4/npm_weak_links/",
+          "publishedOn": "2022-02-09T21:12:05.000Z",
+          "wordCount": 94,
+          "title": "npm weak links"
+        },
+        {
+          "id": "https://www.reddit.com/r/netsec/comments/sofnmo/new_release_of_kubesploit_v013/",
+          "author": null,
+          "description": "submitted by    /u/jat0369  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/netsec/comments/sofnmo/new_release_of_kubesploit_v013/",
+          "publishedOn": "2022-02-09T15:02:25.000Z",
+          "wordCount": 105,
+          "title": "New release of 🔥Kubesploit v0.1.3🔥"
+        },
+        {
+          "id": "https://www.reddit.com/r/netsec/comments/soez3v/top_10_web_hacking_techniques_of_2021/",
+          "author": null,
+          "description": "submitted by    /u/albinowax  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/netsec/comments/soez3v/top_10_web_hacking_techniques_of_2021/",
+          "publishedOn": "2022-02-09T14:31:45.000Z",
+          "wordCount": 247,
+          "title": "Top 10 web hacking techniques of 2021"
+        },
+        {
+          "id": "https://www.reddit.com/r/netsec/comments/soa167/my_sqli_adventure_or_why_you_should_make_sure/",
+          "author": null,
+          "description": "submitted by    /u/gsk-upxyz  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/netsec/comments/soa167/my_sqli_adventure_or_why_you_should_make_sure/",
+          "publishedOn": "2022-02-09T10:03:30.000Z",
+          "wordCount": 142,
+          "title": "My SQLi adventure or: why you should make sure your WAF is configured properly"
+        },
         {
           "id": "https://www.reddit.com/r/netsec/comments/snwj5w/sharpsql_c_ms_sql_enum_and_exploitation/",
           "author": null,
@@ -22150,6 +22762,51 @@
       "feedUrl": "https://www.reddit.com/r/opendirectories/.rss",
       "siteUrl": "https://www.reddit.com/r/opendirectories/",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/opendirectories/comments/sotat6/ftp_of_a_russian_isp_ufanet/",
+          "author": null,
+          "description": "You can find some good stuff in it I thinks ?\n http://ftp.ufanet.ru/ \n  \n Url: http://ftp.ufanet.ru/  Urls file \n  \n Extension (Top 5) Files Size \n  .iso 363 384,42 GiB \n  .xz 283 105,96 GiB \n  .img 136 52,78 GiB \n  .tar 16 647 29,78 GiB \n  .bz2 112 29,21 GiB \n  Dirs: 10 532 Ext: 188 Total: 24 123 Total: 664,74 GiB \n  Date (UTC): 2022-02-10 01:01:31 Time: 00:03:28 Speed: 2,01 MB/s (16,1 mbit) \n \n Created by [KoalaBear84's OpenDirectory Indexer v2.3.0.0](https://github.com/KoalaBear84/OpenDirectoryDownloader/)\n    submitted by    /u/VoXaN24  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/opendirectories/comments/sotat6/ftp_of_a_russian_isp_ufanet/",
+          "publishedOn": "2022-02-10T01:07:13.000Z",
+          "wordCount": 146,
+          "title": "FTP of a Russian ISP (Ufanet)"
+        },
+        {
+          "id": "https://www.reddit.com/r/opendirectories/comments/sot4nt/some_sites_wpcontentuploads_pages/",
+          "author": null,
+          "description": "https://www.the8bitguy.com/wp-content/uploads/\n ​\n https://tomorrowcorporation.com/blog/wp-content/uploads/\n    submitted by    /u/ilikemacsalot  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/opendirectories/comments/sot4nt/some_sites_wpcontentuploads_pages/",
+          "publishedOn": "2022-02-10T00:59:18.000Z",
+          "wordCount": 99,
+          "title": "Some site's wp-content/uploads pages"
+        },
+        {
+          "id": "https://www.reddit.com/r/opendirectories/comments/sot43n/informatic_related_stuff_in_french/",
+          "author": null,
+          "description": "https://download.d-l.fr/apache_listing/ or https://download.d-l.fr (It's the same content but different UI )\n http://s472165864.onlinehome.fr/anywarare/index.php?dir=| \n  \n Url: https://download.d-l.fr/apache_listing/  Urls file \n  \n Extension (Top 5) Files Size \n  .iso 112 233,52 GiB \n  .zip 101 24,71 GiB \n  .exe 169 17,93 GiB \n  .xz 7 4,65 GiB \n  .1 1 4,4 GiB \n  Dirs: 150 Ext: 46 Total: 572 Total: 296,05 GiB \n  Date (UTC): 2022-02-10 00:55:22 Time: 00:00:35 Speed: 23,48 MB/s (187,8 mbit) \n \n Created by [KoalaBear84's OpenDirectory Indexer v2.3.0.0](https://github.com/KoalaBear84/OpenDirectoryDownloader/)\n  \n Url: http://s472165864.onlinehome.fr/anywar...  Urls file \n  \n Extension (Top 5) Files Size \n  .zip 808 69,32 GiB \n  .iso 26 63,33 GiB \n  .exe 604 60,11 GiB \n  .001 2 6,6 GiB \n  .002 2 6,4 GiB \n  Dirs: 285 Ext: 23 Total: 1 868 Total: 212,62 GiB \n  Date (UTC): 2022-02-10 00:59:03 Time: 00:00:09 Speed: Failed \n \n Created by [KoalaBear84's OpenDirectory Indexer v2.3.0.0](https://github.com/KoalaBear84/OpenDirectoryDownloader/)\n    submitted by    /u/VoXaN24  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/opendirectories/comments/sot43n/informatic_related_stuff_in_french/",
+          "publishedOn": "2022-02-10T00:58:33.000Z",
+          "wordCount": 166,
+          "title": "Informatic related Stuff (In French)"
+        },
+        {
+          "id": "https://www.reddit.com/r/opendirectories/comments/sogo59/movies_and_tvshows_good_speed/",
+          "author": null,
+          "description": "submitted by    /u/lnsideMyHead  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/opendirectories/comments/sogo59/movies_and_tvshows_good_speed/",
+          "publishedOn": "2022-02-09T15:48:24.000Z",
+          "wordCount": 130,
+          "title": "Movies and TV-shows (Good speed)"
+        },
+        {
+          "id": "https://www.reddit.com/r/opendirectories/comments/soaggs/a_lot_of_software_games_film_and_series_in/",
+          "author": null,
+          "description": "http://103.222.20.150/ftpdata/\n  \n Url: http://103.222.20.150/ftpdata/  Urls file \n  \n Extension (Top 5) Files Size \n  .mp4 12,912 11.59 TiB \n  .mkv 9,042 9.3 TiB \n  .avi 2,965 1.38 TiB \n  .rar 21 36.18 GiB \n   16 19.15 GiB \n  Dirs: 16,920 Ext: 59 Total: 46,363 Total: 22.4 TiB \n  Date (UTC): 2022-02-08 23:34:44 Time: 01:48:31 Speed: 0.00 MB/s (0.0 mbit) \n \n Created by [KoalaBear84's OpenDirectory Indexer v2.3.0.1](https://github.com/KoalaBear84/OpenDirectoryDownloader/)\n    submitted by    /u/VoXaN24  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/opendirectories/comments/soaggs/a_lot_of_software_games_film_and_series_in/",
+          "publishedOn": "2022-02-09T10:30:43.000Z",
+          "wordCount": 230,
+          "title": "A lot of software, Games, Film and series in various language"
+        },
         {
           "id": "https://www.reddit.com/r/opendirectories/comments/sny3t1/some_os_iso_fast_download/",
           "author": null,
