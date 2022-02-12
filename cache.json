@@ -6,6 +6,33 @@
       "siteUrl": "http://h1.nobbd.de/",
       "articles": [
         {
+          "id": "https://hackerone.com/reports/1439026",
+          "author": null,
+          "description": "Twitter disclosed a bug submitted by zhirinovskiy: https://hackerone.com/reports/1439026 - Bounty: $5040",
+          "link": "https://hackerone.com/reports/1439026",
+          "publishedOn": "2022-02-11T17:00:31.000Z",
+          "wordCount": 25,
+          "title": "Discoverability by phone number/email restriction bypass"
+        },
+        {
+          "id": "https://hackerone.com/reports/1423704",
+          "author": null,
+          "description": "FetLife disclosed a bug submitted by trieulieuf9: https://hackerone.com/reports/1423704 - Bounty: $100",
+          "link": "https://hackerone.com/reports/1423704",
+          "publishedOn": "2022-02-11T11:43:06.000Z",
+          "wordCount": 25,
+          "title": "Able to detect if a user is FetLife supporter although this user hides their support badge in fetlife.com/conversations/{id} JSON response"
+        },
+        {
+          "id": "https://hackerone.com/reports/1476709",
+          "author": null,
+          "description": "Nextcloud disclosed a bug submitted by technorat: https://hackerone.com/reports/1476709",
+          "link": "https://hackerone.com/reports/1476709",
+          "publishedOn": "2022-02-11T08:05:57.000Z",
+          "wordCount": 25,
+          "title": "Information Exposure Through Directory Listing vulnerability"
+        },
+        {
           "id": "https://hackerone.com/reports/1083922",
           "author": null,
           "description": "Shopify disclosed a bug submitted by francisbeaudoin: https://hackerone.com/reports/1083922 - Bounty: $1900",
@@ -3376,6 +3403,78 @@
       "feedUrl": "https://medium.com/feed/tag/bugbounty",
       "siteUrl": "https://medium.com/tag/bugbounty/latest?source=rss------bugbounty-5",
       "articles": [
+        {
+          "id": "https://medium.com/p/6359d9069523",
+          "author": "Ba7man",
+          "description": "Hello! I am back with my 2nd bug bounty write up. This time I’ll be showing you how I found an Insecure Direct Object Reference bug on an…\nContinue reading on Medium »",
+          "link": "https://medium.com/@ba7manhacks/adding-customers-to-victims-store-via-insecure-direct-object-reference-6359d9069523?source=rss------bugbounty-5",
+          "publishedOn": "2022-02-11T20:53:44.000Z",
+          "wordCount": 308,
+          "title": "Adding customers to victim’s store via Insecure Direct Object Reference"
+        },
+        {
+          "id": "https://medium.com/p/bb89acc0c100",
+          "author": "Farhad Karimi(n0lsec)",
+          "description": "QRCDR is a popular PHP — JavaScript QR-Code Generator, which is widely used for creating customized QR-Code in easy steps.\nalso, it’s used…\nContinue reading on Medium »",
+          "link": "https://n0lsec.medium.com/qrcdr-path-traversal-vulnerability-bb89acc0c100?source=rss------bugbounty-5",
+          "publishedOn": "2022-02-11T19:43:51.000Z",
+          "wordCount": 616,
+          "title": "QRCDR Path Traversal Vulnerability"
+        },
+        {
+          "id": "https://medium.com/p/b8b08fac79e2",
+          "author": "Martin Martinez",
+          "description": "Hi guys! I’m back with another great blog, with this blog you can learn more about SQLi and Cross Site Request Forgery (CSRF).\nContinue reading on Medium »",
+          "link": "https://medium.com/@noli.mtz/hacking-ticketastic-b8b08fac79e2?source=rss------bugbounty-5",
+          "publishedOn": "2022-02-11T18:57:31.000Z",
+          "wordCount": 518,
+          "title": "Hacking ticketastic"
+        },
+        {
+          "id": "https://medium.com/p/55a0aa4d3f",
+          "author": "Balaji Anbalagan",
+          "description": "Objectives of day 7 :\nContinue reading on Medium »",
+          "link": "https://astroboy73.medium.com/100-days-of-hacking-day-7-55a0aa4d3f?source=rss------bugbounty-5",
+          "publishedOn": "2022-02-11T18:43:08.000Z",
+          "wordCount": 244,
+          "title": "100 Days of Hacking — Day 7"
+        },
+        {
+          "id": "https://medium.com/p/ffd68c9a2d99",
+          "author": "Manan Aggarwal",
+          "description": "Hello Myself Manan Aggarwal is here to present the Blog about the Basic Web technologies required for starting with the web Exploitation…\nContinue reading on Medium »",
+          "link": "https://medium.com/@mananaggarwal2001/basic-web-technologies-required-for-starting-with-the-web-exploitation-part-2-ffd68c9a2d99?source=rss------bugbounty-5",
+          "publishedOn": "2022-02-11T11:33:50.000Z",
+          "wordCount": 1117,
+          "title": "Basic Web technologies required for starting with the web Exploitation Part-2"
+        },
+        {
+          "id": "https://medium.com/p/35fb73f558fd",
+          "author": "TutorialBoy",
+          "description": "Spring Boot related vulnerability learning materials, collection of utilization methods and skills, black box security assessment checklist\nContinue reading on Medium »",
+          "link": "https://medium.com/@TutorialBoy24/introduction-to-spring-boot-related-vulnerabilities-35fb73f558fd?source=rss------bugbounty-5",
+          "publishedOn": "2022-02-11T07:36:00.000Z",
+          "wordCount": 3683,
+          "title": "Introduction to Spring Boot Related Vulnerabilities"
+        },
+        {
+          "id": "https://medium.com/p/e412ad64b2c5",
+          "author": "TheBitTimes.Com",
+          "description": "Continue reading on Medium »",
+          "link": "https://medium.com/@thebittimes.com/ios-jailbreak-dev-wins-2m-bounty-for-finding-critical-optimism-bug-e412ad64b2c5?source=rss------bugbounty-5",
+          "publishedOn": "2022-02-11T02:59:02.000Z",
+          "wordCount": 489,
+          "title": "iOS jailbreak dev wins $2M bounty for finding critical Optimism bug"
+        },
+        {
+          "id": "https://medium.com/p/2138d56dbe03",
+          "author": "Muhamad Hidayat",
+          "description": "Assalamualaikum Wr.Wb\nContinue reading on Medium »",
+          "link": "https://muh-hidayat7799.medium.com/vulnlab-sql-injection-dynamic-application-security-testing-3-2138d56dbe03?source=rss------bugbounty-5",
+          "publishedOn": "2022-02-11T02:32:57.000Z",
+          "wordCount": 1686,
+          "title": "VulnLab SQL Injection— Dynamic Application Security Testing #3"
+        },
         {
           "id": "https://medium.com/p/56172b0ea508",
           "author": "Travin",
@@ -8015,6 +8114,42 @@
       "siteUrl": "https://medium.com/tag/osint/latest?source=rss------osint-5",
       "articles": [
         {
+          "id": "https://medium.com/p/3a37c017d9e3",
+          "author": "Justin H. Hooper",
+          "description": "In this post I will be going through the open source intelligence process I went through following an attack performed against my honeypot.\nContinue reading on Medium »",
+          "link": "https://medium.com/@ecojumper30/honeypot-osint-3a37c017d9e3?source=rss------osint-5",
+          "publishedOn": "2022-02-11T21:19:44.000Z",
+          "wordCount": 2477,
+          "title": "Honeypot OSINT"
+        },
+        {
+          "id": "https://medium.com/p/38642799795b",
+          "author": "Blake Smith",
+          "description": "The Utah Valley University Cyber Security Program needed a realistic target that students could use to learn OSINT and offensive tools…\nContinue reading on Medium »",
+          "link": "https://medium.com/@blake.smith_20659/building-a-public-osint-lab-target-38642799795b?source=rss------osint-5",
+          "publishedOn": "2022-02-11T18:04:38.000Z",
+          "wordCount": 256,
+          "title": "Building a public OSINT lab target"
+        },
+        {
+          "id": "https://medium.com/p/63861612d654",
+          "author": "Fadila Ahmad S",
+          "description": "[Day 14] OSINT Where’s Rudolph?\nContinue reading on Medium »",
+          "link": "https://medium.com/@fadilaahmads/en-tryhackme-25-days-of-cyber-security-day-14-walkthrough-63861612d654?source=rss------osint-5",
+          "publishedOn": "2022-02-11T15:51:44.000Z",
+          "wordCount": 768,
+          "title": "[EN] TryHackMe 25 Days of Cyber Security: Day 14 Walkthrough"
+        },
+        {
+          "id": "https://medium.com/p/2d8b8fc3c2d",
+          "author": "Levent Durdalı",
+          "description": "On Dec 27, 2021, OSINT Dojo shared a OSINT quiz with us. The objective was simple. We had to figure out where the photo was taken. Please…\nContinue reading on Medium »",
+          "link": "https://medium.com/@leventd/tallin-to-search-more-churches-osint-challenge-14-2d8b8fc3c2d?source=rss------osint-5",
+          "publishedOn": "2022-02-11T14:32:51.000Z",
+          "wordCount": 363,
+          "title": "Tallin To Search More Churches — OSINT Challenge 14"
+        },
+        {
           "id": "https://medium.com/p/96eec757544a",
           "author": "Sofia Santos",
           "description": "Today as I was scrolling through my LinkedIn’s home feed I came across this image that had been liked by someone from my network.\nContinue reading on Medium »",
@@ -9620,6 +9755,15 @@
       "siteUrl": "http://windowsir.blogspot.com/",
       "articles": [
         {
+          "id": "tag:blogger.com,1999:blog-9518042.post-1776271109438070301",
+          "author": "noreply@blogger.com (Unknown)",
+          "description": "What, again?!?!\nI know, right?!?\nNot long ago, I read this fascinating article from Joe Helle that discussed malicious uses for Windows shortcuts, or LNK files, and also discussed a Python3 scripts called \"lnkbomb\".\nAs a side note, check out what Joe had to share about persistence via WSL2!\nAs anyone who's followed me for a minute knows, I love...L   O   V   E...me some LNK files. Shortcut files are something that we see all the time, have been around for a long time (much like ADSs), but folks in the DFIR field are so focused on the \"shiny hot newness\", that this file type is very often overlooked and not fully exploited.\nThe technique Joe discusses is similar to modifying the iconfilename field of a shortcut file, so that even if the \"bad guy\" is evicted from an infrastructure, any action that launches the LNK file results in credentials being passed via HTTP or WebDAV, where they can be collected, cracked, and then used by the threat actor.\nLNK files have a lot of uses, and understanding the format and structure is helpful in a lot of different ways. One example is that automatic JumpLists follow the OLE/structured storage format, and all but the DestList stream consist of LNK file formatted streams. Another example is that the building blocks of LNK files, shell items, are also the core building blocks of several Registry-based artifacts, such as shellbags.\nBeyond that, however, threat actors have used LNK files as lures in social engineering and phishing attacks; this means that the threat actor has built the LNK files within their own infrastructure, within their own development environment. As such, sending these files as lures is \"free money\" to both DFIR and CTI analysts, if they're able to leverage those files and their component metadata.\nSo...while I know Windows 11 is out, and everyone's excited about the shiny new hotness, let's not forget that there's a lot that has worked since Windows XP (or even prior to that) and still continues to be an issue today.",
+          "link": "http://windowsir.blogspot.com/2022/02/lnk-files-again.html",
+          "publishedOn": "2022-02-11T21:26:00.000Z",
+          "wordCount": 1170,
+          "title": "LNK Files, Again"
+        },
+        {
           "id": "tag:blogger.com,1999:blog-9518042.post-8738533357962151261",
           "author": "noreply@blogger.com (Unknown)",
           "description": "Over the years, changes in the threat landscape have made attribution more difficult. Attribution has always been challenging, but has been and can continue to be eased through visibility. That is, if your view into an event or campaign is limited to resources such as malware samples pulled from public repositories, then attribution can be challenging. Even adding information regarding infrastructure extracted from the sample configs can still give a somewhat limited view. However, as visibility is expanded to include data from intrusions and incidents, attribution becomes clearer and more granular.\nI ran across A Complex Threat Landscape Muddles Attribution recently and found it to be a fascinating, insightful read, one that anyone involved in threat intelligence, even peripherally, shoul…",
@@ -10174,6 +10318,24 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=30308038",
+          "author": "neustradamus",
+          "description": "Article URL: https://mellium.im/cve/cve-2022-24968/\nComments URL: https://news.ycombinator.com/item?id=30308038\nPoints: 1\n# Comments: 0",
+          "link": "https://mellium.im/cve/cve-2022-24968/",
+          "publishedOn": "2022-02-11T22:59:31.000Z",
+          "wordCount": 167,
+          "title": "Mellium 0.21.1 fixes CVE-2022-24968"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=30304109",
+          "author": "caaqil",
+          "description": "Article URL: https://blog.malwarebytes.com/exploits-and-vulnerabilities/2022/02/update-now-apple-fixes-actively-exploited-zero-day/\nComments URL: https://news.ycombinator.com/item?id=30304109\nPoints: 1\n# Comments: 0",
+          "link": "https://blog.malwarebytes.com/exploits-and-vulnerabilities/2022/02/update-now-apple-fixes-actively-exploited-zero-day/",
+          "publishedOn": "2022-02-11T17:24:10.000Z",
+          "wordCount": 903,
+          "title": "Apple fixes actively exploited zero-day (CVE-2022-22620)"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=30291958",
           "author": "sam4k",
           "description": "Article URL: https://www.openwall.com/lists/oss-security/2022/02/10/1\nComments URL: https://news.ycombinator.com/item?id=30291958\nPoints: 2\n# Comments: 0",
@@ -10720,6 +10882,15 @@
       "feedUrl": "https://hnrss.org/newest?q=vulnerability",
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
+        {
+          "id": "https://news.ycombinator.com/item?id=30308727",
+          "author": "fortran77",
+          "description": "Article URL: https://arstechnica.com/gadgets/2022/02/apple-patches-security-holes-and-bugs-with-ios-15-3-1-and-macos-12-2-1/\nComments URL: https://news.ycombinator.com/item?id=30308727\nPoints: 2\n# Comments: 0",
+          "link": "https://arstechnica.com/gadgets/2022/02/apple-patches-security-holes-and-bugs-with-ios-15-3-1-and-macos-12-2-1/",
+          "publishedOn": "2022-02-12T00:26:41.000Z",
+          "wordCount": 771,
+          "title": "Apple fixes Mac battery drain, WebKit vulnerability in software updates"
+        },
         {
           "id": "https://news.ycombinator.com/item?id=30289291",
           "author": "arkadiyt",
@@ -11547,6 +11718,78 @@
       "siteUrl": "https://www.freebuf.com",
       "articles": [
         {
+          "id": "https://www.freebuf.com/news/321716.html",
+          "author": null,
+          "description": "2022年2月7日至2月11日共收录全球网络安全热点8项，涉及微软、Mandiant、Puma、Swissport等。",
+          "link": "https://www.freebuf.com/news/321716.html",
+          "publishedOn": "2022-02-11T07:13:50.000Z",
+          "wordCount": 172,
+          "title": "黑客攻击欧洲港口石油设施致油价飙升、上海首份《企业数据合规指引》出台、微软计划收购网络安全公司｜网络安全周报"
+        },
+        {
+          "id": "https://www.freebuf.com/news/321703.html",
+          "author": null,
+          "description": "法国监管机构认为，该项服务在数据传输时没有采取足够的措施保障数据隐私权，可被美国情报机构利用。",
+          "link": "https://www.freebuf.com/news/321703.html",
+          "publishedOn": "2022-02-11T06:02:48.000Z",
+          "wordCount": 144,
+          "title": "法国监管机构称谷歌分析存在数据隐私风险"
+        },
+        {
+          "id": "https://www.freebuf.com/articles/network/321702.html",
+          "author": null,
+          "description": "近日，ASEC 分析人员发现 Kimsuky 组织正在使用 xRAT（基于 Quasar RAT 定制的开源 RAT）恶意软件。",
+          "link": "https://www.freebuf.com/articles/network/321702.html",
+          "publishedOn": "2022-02-11T05:47:08.000Z",
+          "wordCount": 245,
+          "title": "Kimsuky 正在使用 xRAT 进行窃密"
+        },
+        {
+          "id": "https://www.freebuf.com/articles/network/321700.html",
+          "author": null,
+          "description": "Arid Viper 组织利用最初发布在土耳其国营通讯社 Anadolu 和巴勒斯坦 MAAN 发展中心的内容为诱饵，针对巴勒斯坦的机构发起攻击。",
+          "link": "https://www.freebuf.com/articles/network/321700.html",
+          "publishedOn": "2022-02-11T05:38:18.000Z",
+          "wordCount": 335,
+          "title": "Arid Viper APT 组织针对巴勒斯坦发起攻击"
+        },
+        {
+          "id": "https://www.freebuf.com/news/321699.html",
+          "author": null,
+          "description": "商业服务公司Morley Companies披露了一起用户数据泄露事件，大量用户数据被窃取。",
+          "link": "https://www.freebuf.com/news/321699.html",
+          "publishedOn": "2022-02-11T05:20:43.000Z",
+          "wordCount": 178,
+          "title": "FreeBuf周报 | 超50万人受Morley勒索软件攻击影响；黑客攻击欧洲港口石油设施"
+        },
+        {
+          "id": "https://www.freebuf.com/jobs/321675.html",
+          "author": null,
+          "description": "上海浦东发展银行信用卡中心诚聘信息安全工程师。",
+          "link": "https://www.freebuf.com/jobs/321675.html",
+          "publishedOn": "2022-02-11T03:24:45.000Z",
+          "wordCount": 144,
+          "title": "浦发银行信用卡中心诚聘信息安全工程师"
+        },
+        {
+          "id": "https://www.freebuf.com/news/321663.html",
+          "author": null,
+          "description": "《管理办法》共八章四十一条，并强调重要数据和核心数据应按照相应法律、法规在境内存储，或依法依规进行数据出境安全评估。",
+          "link": "https://www.freebuf.com/news/321663.html",
+          "publishedOn": "2022-02-11T02:43:09.000Z",
+          "wordCount": 150,
+          "title": "工信部就《工业和信息化领域数据安全管理办法（试行）》再次征求意见"
+        },
+        {
+          "id": "https://www.freebuf.com/articles/319080.html",
+          "author": null,
+          "description": "2.14-2.17，来FB商城过元宵吧",
+          "link": "https://www.freebuf.com/articles/319080.html",
+          "publishedOn": "2022-02-10T09:41:30.000Z",
+          "wordCount": 141,
+          "title": "福利 | 缤纷优选，乐享元宵——来FB商城一起过节吧！"
+        },
+        {
           "id": "https://www.freebuf.com/news/321608.html",
           "author": null,
           "description": "据Cyber​​News安全研究人员发现，5个伪装成著名BT盗版资源网站海盗湾的恶意站点，每月向超过700万名用户提供恶意广告。",
@@ -11563,6 +11806,15 @@
           "publishedOn": "2022-02-10T06:57:34.000Z",
           "wordCount": 138,
           "title": "《广东省公共数据安全管理办法（征求意见稿）》发布，强调公共数据的安全性"
+        },
+        {
+          "id": "https://www.freebuf.com/sectool/321589.html",
+          "author": null,
+          "description": "流程分为两个方面，解包可以挖掘信息泄露问题、隐藏的接口，抓包可以测试一些逻辑漏洞、API安全问题。",
+          "link": "https://www.freebuf.com/sectool/321589.html",
+          "publishedOn": "2022-02-10T06:42:30.000Z",
+          "wordCount": 181,
+          "title": "小程序测试流程"
         },
         {
           "id": "https://www.freebuf.com/news/321585.html",
@@ -14981,6 +15233,15 @@
       "siteUrl": "http://www.sec-wiki.com/",
       "articles": [
         {
+          "id": "http://www.sec-wiki.com/?2022-02-11",
+          "author": null,
+          "description": "[HTB] Love Writeup  by 0x584a\nPendingIntent重定向：一种针对安卓系统和流行App的通用提权方法  by ourren\n自动机器学习的安全风险  by ourren\n解构开源IAST 打造安全灰盒利器  by ourren\n更多最新文章，请访问SecWiki",
+          "link": "http://www.sec-wiki.com/?2022-02-11",
+          "publishedOn": "2022-02-11T15:58:20.000Z",
+          "wordCount": 600,
+          "title": "SecWiki News 2022-02-11 Review"
+        },
+        {
           "id": "http://www.sec-wiki.com/?2022-02-10",
           "author": null,
           "description": "Top 10 web hacking techniques of 2021   by ourren\nA Tale of DOM-based XSS!  by ourren\n利用RITA检测beacon通信  by ourren\nCVE-2021-33742：Internet Explorer MSHTML堆越界写漏洞分析  by ourren\n企业面对APT化攻击的防御困境  by ourren\nCobaltStrike 区块链网络上线方式及检测  by ourren\n更多最新文章，请访问SecWiki",
@@ -15527,6 +15788,69 @@
       "feedUrl": "https://www.reddit.com/r/asknetsec/.rss",
       "siteUrl": "https://www.reddit.com/r/asknetsec/",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/sqas67/how_safe_is_this_obscure_software_my_friend/",
+          "author": null,
+          "description": "My friend is having technical difficulties with his iPad (he reset it and you can’t get through the welcome/setup without allowing remote access management to a certain company, which he doesn’t want to do) and he bought some software on eBay that promises to help bypass that error. \n His computer is old and won’t run the software when he tries to. My MacBook is brand new and so he asked me if I could download the eBay software onto my computer to try to fix the iPad. To me that doesn’t seem like something I want to download onto my new laptop. Maybe I shouldn’t have binged all of the darknet diaries podcast but idk doesn’t feel safe. Here’s what it looks like. Any thoughts?\n    submitted by    /u/aimhighswinglow  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/sqas67/how_safe_is_this_obscure_software_my_friend/",
+          "publishedOn": "2022-02-11T21:58:46.000Z",
+          "wordCount": 1090,
+          "title": "How safe is this obscure software my friend bought on eBay?"
+        },
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/sq5adx/is_is_safe_to_feed_patterns_to_hashing_functions/",
+          "author": null,
+          "description": "I had this idea on how to generate supposedly safe passwords for different websites/accounts that wouldn't require passwords to be memorized or stored.\n The idea is to \n 1 - Come up with a short default string that would never change (say, \"bubly42\")\n 2 - Append the name of the website to that string for each website you make an account. For example, when creating an account for airbnb it'd produce the string \"bubly42airbnb\"\n 3 - Run that string (bubly42airbnb) through a hash function\n 4 - Use the output of the hash function as the password for the website\n This would have the upside of not requiring memorization or storage of passwords, while still generating a unique password for each site. I can just generate the password on the fly. Obvious downside is that if someone figures your pattern out, they pretty much can figure out all of your passwords.\n Is there anything else that I'm missing? Is this considered safe?\n (Btw, sorry if I'm posting on the wrong place. If that's the case, can someone direct me to a good subreddit to post this in?)\n    submitted by    /u/djoncho  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/sq5adx/is_is_safe_to_feed_patterns_to_hashing_functions/",
+          "publishedOn": "2022-02-11T17:53:13.000Z",
+          "wordCount": 1313,
+          "title": "Is is safe to feed patterns to hashing functions in order to create passwords for websites?"
+        },
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/sq4zm1/possible_malware_in_official_torguard_windows_vpn/",
+          "author": null,
+          "description": "Torguard's VPN client intermittently consumes 50% cpu, for long periods, unrelated to any network activity, which I find suspicious. Details below. I've raised this with TG's tech support who have repeatedly denied that any such behavior exists. I'm seeing this consistently on 4 windows machines (including one VM) where I have TG running.\n I'm not sure where to report this as there is no TG subreddit and the VPN subreddit doesn't allow mentioning specific services. Hopefully you folks can point me in the right direction or give advice.\n So, if the app is running and the VPN is connected, even if there are no other apps open, TG client will randomly begin consuming a constant 50% CPU. I can't correlate this with any other condition like network traffic or other app activity or any obvious thing TG is doing. If I minimize the TG client window, it stops. And then it starts again in a few minutes, and so I repeat this remedy, and it stops. If I don't do this it continues indefinitely. So, every computer this is running on experiences a significant heat/wattage increase and CPU performance degradation due to TG.\n I took screenshots of this behavior using task manager. I also watched it using winternals' process monitor, which gave much more detailed info than this. ---- But this forum doesn't allow pictures.\n    submitted by    /u/Dougolicious  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/sq4zm1/possible_malware_in_official_torguard_windows_vpn/",
+          "publishedOn": "2022-02-11T17:39:28.000Z",
+          "wordCount": 516,
+          "title": "Possible malware in official Torguard windows VPN client ??"
+        },
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/sq1224/how_to_get_over_the_unrecognized_apppublisher/",
+          "author": null,
+          "description": "All,\n I am writing an executable to put on a website for download. Every time I go to download it, I get an \"unrecognized app, unknown publisher warning\".\n It's not tagged as malicious, but it's tagged as \"unknown publisher\" which makes it appear that way. Does anyone know how to add a publisher? Is that something a non-corporation can do? Or could I at least add a certificate or something to make Windows calm down?\n    submitted by    /u/iExtrapolate314  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/sq1224/how_to_get_over_the_unrecognized_apppublisher/",
+          "publishedOn": "2022-02-11T14:46:25.000Z",
+          "wordCount": 264,
+          "title": "How to get over the unrecognized app/publisher warning in Windows"
+        },
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/spzuj6/how_to_get_access_on_cleanmxde/",
+          "author": null,
+          "description": "Correct me if I am on the wrong subreddit, I have seen some people talk about this site in here, but how do you get access on clean-mx? I tried creating an account in there(registration form), but I haven't got a response back, unless I am being impatient. I also tried contacting the email, but it is dead as stated in the site. There is multiple sites to register accounts, xlogin.php, xregister.php, etc etc. I can see it's alive because when I search the site up, I see the dates from right now.\n ​\n Is this site restricted to companies only or not? Can you not register anymore?\n ​\n (couldnt post this in a other subreddit, my post kept getting removed because they thought it was a tech-support question)\n    submitted by    /u/RainbowIsRainbow  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/spzuj6/how_to_get_access_on_cleanmxde/",
+          "publishedOn": "2022-02-11T13:48:56.000Z",
+          "wordCount": 232,
+          "title": "How to get access on clean-mx.de"
+        },
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/spyttt/what_are_the_security_monitoring_can_accomplish/",
+          "author": null,
+          "description": "Hi Folks,\n As the title says, what tools can help to achieve these objectives \n  \nReal time scan the network to detect presence of unauthorized hardware, software, and firmware components within the network.\n \nTo scan and detect in real- time the addition of devices into network and notify the security\n administrator via email.\n \n    submitted by    /u/techno_it  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/spyttt/what_are_the_security_monitoring_can_accomplish/",
+          "publishedOn": "2022-02-11T12:57:21.000Z",
+          "wordCount": 1013,
+          "title": "What are the security monitoring can accomplish these scanning and detection?"
+        },
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/spx6e5/pen_test_dropbox_running_win_os_with_kali_vm_with/",
+          "author": null,
+          "description": "Looking for some hardware advice for a pen test dropbox. I'd like the unit to be responsive with desktop-speed chipsets, x86/x64 based, and have an out-of-band 4G SIM callback for when client networks prevent outbound connectivity. \n  \nWith Windows as the primary OS, is there any way to auto connect the 4G/cellular modem with Windows, as there is with Linux (ie wvdial)?\n Are there any capable NUC type devices or mini PCs with inbuilt 4G capability. Want to avoid having USB modems sticking out the side, perhaps similar to rPi's cellular hat, but not rPi (or other SBCs) which would struggle with a Win with Kali VM setup.\n Happy to spend a bit on hardware, are there many notable boxes other than the Intel NUC, Zotac Zbox or MSI Cubi?\n  \nSeen a few decent build docs that almost fit the bill, but not quite:\n https://infosecwriteups.com/part-2-build-the-pen-test-drop-box-69278526886a\n https://www.blackhillsinfosec.com/pentesting-dropbox-on-steroids/\n https://www.blackhillsinfosec.com/how-to-build-your-own-penetration-testing-drop-box/\n https://www.sprocketsecurity.com/blog/penetration-testing-dropbox-setup-part1\n Thanks!\n    submitted by    /u/ama21n  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/spx6e5/pen_test_dropbox_running_win_os_with_kali_vm_with/",
+          "publishedOn": "2022-02-11T11:21:04.000Z",
+          "wordCount": 277,
+          "title": "Pen test dropbox running Win OS with Kali VM - with 4G callback"
+        },
         {
           "id": "https://www.reddit.com/r/AskNetsec/comments/spm2dz/would_a_technical_support_specialist_be_a_good/",
           "author": null,
@@ -18550,6 +18874,33 @@
       "siteUrl": "https://www.reddit.com/r/redteamsec/",
       "articles": [
         {
+          "id": "https://www.reddit.com/r/redteamsec/comments/sq3epc/ad_cs_from_manageca_to_rce_blackarrow/",
+          "author": null,
+          "description": "submitted by    /u/gid0rah  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/redteamsec/comments/sq3epc/ad_cs_from_manageca_to_rce_blackarrow/",
+          "publishedOn": "2022-02-11T16:31:07.000Z",
+          "wordCount": 125,
+          "title": "AD CS: from ManageCA to RCE - BlackArrow"
+        },
+        {
+          "id": "https://www.reddit.com/r/redteamsec/comments/spv961/a_new_version_013_released_for_kubesploit_a/",
+          "author": null,
+          "description": "submitted by    /u/kubiscan  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/redteamsec/comments/spv961/a_new_version_013_released_for_kubesploit_a/",
+          "publishedOn": "2022-02-11T09:18:23.000Z",
+          "wordCount": 148,
+          "title": "🔥🔥 A new version 0.1.3 released for Kubesploit: a post-exploitation framework for Kubernetes🔥🔥"
+        },
+        {
+          "id": "https://www.reddit.com/r/redteamsec/comments/spt6x8/retrieving_syscall_id_with_hells_gate_halos_gate/",
+          "author": null,
+          "description": "submitted by    /u/dmchell  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/redteamsec/comments/spt6x8/retrieving_syscall_id_with_hells_gate_halos_gate/",
+          "publishedOn": "2022-02-11T07:07:02.000Z",
+          "wordCount": 123,
+          "title": "Retrieving Syscall ID with Hell's Gate, Halo's Gate, FreshyCalls and Syswhispers2"
+        },
+        {
           "id": "https://www.reddit.com/r/redteamsec/comments/sp4ul4/watch_welcome_to_c0v3rt_exploration_of_all_things/",
           "author": null,
           "description": "submitted by    /u/Can0pen3r  \n [link]   [comments]",
@@ -19932,6 +20283,60 @@
       "siteUrl": "https://www.reddit.com/r/computerforensics/",
       "articles": [
         {
+          "id": "https://www.reddit.com/r/computerforensics/comments/sq6xls/amcache_sha1_mismatch/",
+          "author": null,
+          "description": "Hoping someone has seen this or has an idea what may be happening. I am performing a review and identified an installer file as an item of interest. I see the file in the host’s Amcache hive with a SHA-1 (“A”) hash. However, the recovered file has a different SHA-1 hash on disk (“B”).\n When running the executable on my test system and comparing it to that test machine’s Amcache, I see the same behavior. Amcache has hash “A” and the executable has hash “B.”\n Every other program I’ve sampled has hash matches; it seems like just this one is off. What gives?\n For specifics, I am using RegistryExplorer and Amcache Parser (both Zimmerman tools) for Amcache analysis. I am hashing with both X-Ways and Hasher (also Zimmerman). When reviewing Amcache Parser, I am matching the hash to the executable …",
+          "link": "https://www.reddit.com/r/computerforensics/comments/sq6xls/amcache_sha1_mismatch/",
+          "publishedOn": "2022-02-11T19:05:12.000Z",
+          "wordCount": 1023,
+          "title": "Amcache SHA-1 mismatch"
+        },
+        {
+          "id": "https://www.reddit.com/r/computerforensics/comments/sq3691/does_anyone_have_magnet_acquire_download_link/",
+          "author": null,
+          "description": "I can't afford the axiom (or whatever it is called) so can anyone provide me the link? Thank you so much!\n    submitted by    /u/Hopelessssssssss  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/computerforensics/comments/sq3691/does_anyone_have_magnet_acquire_download_link/",
+          "publishedOn": "2022-02-11T16:20:46.000Z",
+          "wordCount": 270,
+          "title": "Does anyone have Magnet Acquire download link without filling the form?"
+        },
+        {
+          "id": "https://www.reddit.com/r/computerforensics/comments/sq0rjd/announcing_opensource_xways_hashexporter_extension/",
+          "author": null,
+          "description": "This opensource extension allows you to dump all the hashes from an image using X-Ways command-line.\n https://github.com/PolitoInc/X-Ways-HashExporter-Extension\n    submitted by    /u/Alarming_Arm_7724  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/computerforensics/comments/sq0rjd/announcing_opensource_xways_hashexporter_extension/",
+          "publishedOn": "2022-02-11T14:32:30.000Z",
+          "wordCount": 174,
+          "title": "Announcing Opensource X-Ways HashExporter Extension"
+        },
+        {
+          "id": "https://www.reddit.com/r/computerforensics/comments/spzlqo/what_program_should_i_specialize_in_if_i_cannot/",
+          "author": null,
+          "description": "Computer Science and Engineering with specialisation in Blockchain Technology \n Computer Science and Engineering with specialisation in Information Technology \n Computer Science and Engineering with specialisation in Data Science.\n Or does it not matter as long as it is Csc ?\n    submitted by    /u/nodogsareevil  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/computerforensics/comments/spzlqo/what_program_should_i_specialize_in_if_i_cannot/",
+          "publishedOn": "2022-02-11T13:36:47.000Z",
+          "wordCount": 368,
+          "title": "What program should I specialize in if I cannot chose digital forensics?"
+        },
+        {
+          "id": "https://www.reddit.com/r/computerforensics/comments/spxr1x/what_transferable_skills_does_forensics_provide/",
+          "author": null,
+          "description": "I am currently a digital forensic analyst of both phones and computers for law enforcement. \n I want to transition into a new tech role, such as infosec or another form of cyber sec but looking at the job specs for 90% of these roles I do not meet the requirements. \n I’m considering self funding a cert such as CISSP or Security+ as this will most likely help. \n What sort of jobs can my current role land me in?\n    submitted by    /u/gofigured21  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/computerforensics/comments/spxr1x/what_transferable_skills_does_forensics_provide/",
+          "publishedOn": "2022-02-11T11:56:50.000Z",
+          "wordCount": 1014,
+          "title": "What transferable skills does forensics provide?"
+        },
+        {
+          "id": "https://www.reddit.com/r/computerforensics/comments/spx0xy/chfi_content_weightage/",
+          "author": null,
+          "description": "Hello, Can we guess the content weightage of CHFI in the actual exam? I mean how can we know which modules will have more questions and other modules will have fewer questions in exam? \n I need to take the test and the book is very lengthy that can't be read as a whole so I want to get info about modules' weightage so I can learn them first (which will have more questions in the exam) and then the remaining modules (which have fewer questions). If not exactly any guess about it?\n    submitted by    /u/hardfire005  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/computerforensics/comments/spx0xy/chfi_content_weightage/",
+          "publishedOn": "2022-02-11T11:11:18.000Z",
+          "wordCount": 254,
+          "title": "CHFI Content Weightage"
+        },
+        {
           "id": "https://www.reddit.com/r/computerforensics/comments/splqns/learning_dfir/",
           "author": null,
           "description": "Hi everyone. I am eJPT certified and been doing tryhackme for a year now. I want to move towards blue side, especially forensics and incident response. What i wanna ask is what is best resource/website to learn dfir/soc etc Is CHFI course content good? Are elearn security forensics and incident response courses and certs valuable? Or should i stick with tryhackme (it has less content regarding blue teaming) I have also heard of securityblueteam so is the investment there invaluable? Thanks\n    submitted by    /u/Nightkinnng  \n [link]   [comments]",
@@ -21000,6 +21405,69 @@
       "feedUrl": "https://www.reddit.com/r/netsec/.rss",
       "siteUrl": "https://www.reddit.com/r/netsec/",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/netsec/comments/sqd7ca/simple_tool_to_find_client_side_prototype/",
+          "author": null,
+          "description": "submitted by    /u/boch33n  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/netsec/comments/sqd7ca/simple_tool_to_find_client_side_prototype/",
+          "publishedOn": "2022-02-11T23:45:14.000Z",
+          "wordCount": 112,
+          "title": "Simple tool to find client side prototype pollution vulnerability"
+        },
+        {
+          "id": "https://www.reddit.com/r/netsec/comments/sq5znh/preauth_wan_remote_root_for_cisco_rv340_vpn/",
+          "author": null,
+          "description": "submitted by    /u/ChoiceGrapefruit0  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/netsec/comments/sq5znh/preauth_wan_remote_root_for_cisco_rv340_vpn/",
+          "publishedOn": "2022-02-11T18:23:32.000Z",
+          "wordCount": 114,
+          "title": "Pre-auth WAN remote root for Cisco RV340 VPN Gateway Router"
+        },
+        {
+          "id": "https://www.reddit.com/r/netsec/comments/sq5hjy/cisco_asdm_manage_at_your_own_risk/",
+          "author": null,
+          "description": "submitted by    /u/chicksdigthelongrun  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/netsec/comments/sq5hjy/cisco_asdm_manage_at_your_own_risk/",
+          "publishedOn": "2022-02-11T18:01:24.000Z",
+          "wordCount": 117,
+          "title": "Cisco ASDM: Manage at Your Own Risk"
+        },
+        {
+          "id": "https://www.reddit.com/r/netsec/comments/sq4sak/wordpress_583_object_injection_vulnerability/",
+          "author": null,
+          "description": "submitted by    /u/monoimpact  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/netsec/comments/sq4sak/wordpress_583_object_injection_vulnerability/",
+          "publishedOn": "2022-02-11T17:30:10.000Z",
+          "wordCount": 218,
+          "title": "WordPress < 5.8.3 - Object Injection Vulnerability"
+        },
+        {
+          "id": "https://www.reddit.com/r/netsec/comments/spxi3h/a_simple_tool_to_audit_linux_system_libraries_to/",
+          "author": null,
+          "description": "submitted by    /u/CoolerVoid  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/netsec/comments/spxi3h/a_simple_tool_to_audit_linux_system_libraries_to/",
+          "publishedOn": "2022-02-11T11:41:34.000Z",
+          "wordCount": 218,
+          "title": "A simple tool to audit Linux system libraries to find public security vulnerabilities."
+        },
+        {
+          "id": "https://www.reddit.com/r/netsec/comments/spwz2h/ad_cs_from_manageca_to_rce_blackarrow/",
+          "author": null,
+          "description": "submitted by    /u/Margaruga  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/netsec/comments/spwz2h/ad_cs_from_manageca_to_rce_blackarrow/",
+          "publishedOn": "2022-02-11T11:07:57.000Z",
+          "wordCount": 114,
+          "title": "AD CS: from ManageCA to RCE - BlackArrow"
+        },
+        {
+          "id": "https://www.reddit.com/r/netsec/comments/spsywo/internetwide_study_state_of_spf_dkim_and_dmarc/",
+          "author": null,
+          "description": "submitted by    /u/redhuntlabs  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/netsec/comments/spsywo/internetwide_study_state_of_spf_dkim_and_dmarc/",
+          "publishedOn": "2022-02-11T06:54:59.000Z",
+          "wordCount": 272,
+          "title": "Internet-Wide Study: State Of SPF, DKIM, And DMARC - RedHunt Labs"
+        },
         {
           "id": "https://www.reddit.com/r/netsec/comments/spbexi/five_vulnerabilities_explained_in_moxa_mxview_for/",
           "author": null,
@@ -23176,6 +23644,42 @@
       "feedUrl": "https://www.reddit.com/r/opendirectories/.rss",
       "siteUrl": "https://www.reddit.com/r/opendirectories/",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/opendirectories/comments/sq6ctx/calishot_202202_find_ebooks_among_348_calibre/",
+          "author": null,
+          "description": "submitted by    /u/krazybug  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/opendirectories/comments/sq6ctx/calishot_202202_find_ebooks_among_348_calibre/",
+          "publishedOn": "2022-02-11T18:40:14.000Z",
+          "wordCount": 344,
+          "title": "CALISHOT 2022-02: Find ebooks among 348 Calibre sites this month"
+        },
+        {
+          "id": "https://www.reddit.com/r/opendirectories/comments/sppybj/archaeological_dig_photos_from_iraq/",
+          "author": null,
+          "description": "submitted by    /u/PM_ME_TO_PLAY_A_GAME  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/opendirectories/comments/sppybj/archaeological_dig_photos_from_iraq/",
+          "publishedOn": "2022-02-11T04:08:27.000Z",
+          "wordCount": 388,
+          "title": "archaeological dig photos from Iraq"
+        },
+        {
+          "id": "https://www.reddit.com/r/opendirectories/comments/spp66n/q_index_templatewebsite_script/",
+          "author": null,
+          "description": "Hi guys,\n I hope this is the correct place to ask;\n I want to make a website where I can index certain posts and urls. (like a blog but easier) could you please guide me?\n ​\n tyvm\n    submitted by    /u/zuperfly  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/opendirectories/comments/spp66n/q_index_templatewebsite_script/",
+          "publishedOn": "2022-02-11T03:31:48.000Z",
+          "wordCount": 232,
+          "title": "[q] Index template/website script"
+        },
+        {
+          "id": "https://www.reddit.com/r/opendirectories/comments/spo1p7/a_way_to_clone_an_open_directory/",
+          "author": null,
+          "description": "Is there a can clone/upload all the files from an OD to my shared google drive? i know about rclone but since it's not easy to use, i don't want to waste time with it if can't do the required task.\n + Is there a tool that can upload a shared google drive file to my shared drive? again, i know about \"make a copy option\" but that is not usable if the file is over the size of the free space you drive has.\n    submitted by    /u/CompetitiveMango12  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/opendirectories/comments/spo1p7/a_way_to_clone_an_open_directory/",
+          "publishedOn": "2022-02-11T02:39:50.000Z",
+          "wordCount": 477,
+          "title": "A way to clone an Open Directory?"
+        },
         {
           "id": "https://www.reddit.com/r/opendirectories/comments/sp5hqx/lots_of_porn_photos_nsfw/",
           "author": null,
@@ -26144,6 +26648,15 @@
       "feedUrl": "https://www.netsparker.com/blog/rss/",
       "siteUrl": "https://www.netsparker.com/blog/",
       "articles": [
+        {
+          "id": "https://www.netsparker.com/blog/a5b79d8b-128c-4d98-814e-dc6e48c91767/",
+          "author": "Meaghan McBee",
+          "description": "In the complex and dynamic world of application security, best practices are your best friends. This post shows how you can build an effective AppSec program based on tried and tested workflows and tools for vulnerability testing and remediation. READ MORE",
+          "link": "https://www.netsparker.com/blog/web-security/appsec-best-practices-for-application-security-that-sticks/",
+          "publishedOn": "2022-02-11T10:26:13.000Z",
+          "wordCount": 1651,
+          "title": "AppSec best practices for security that sticks"
+        },
         {
           "id": "https://www.netsparker.com/blog/5905711c-0f2a-4e0a-ab16-6da19d52f9cf/",
           "author": "Zbigniew Banach",
