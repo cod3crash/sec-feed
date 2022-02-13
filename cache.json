@@ -6,6 +6,24 @@
       "siteUrl": "http://h1.nobbd.de/",
       "articles": [
         {
+          "id": "https://hackerone.com/reports/1088159",
+          "author": null,
+          "description": "Shopify disclosed a bug submitted by hogarth45: https://hackerone.com/reports/1088159 - Bounty: $500",
+          "link": "https://hackerone.com/reports/1088159",
+          "publishedOn": "2022-02-12T20:48:26.000Z",
+          "wordCount": 25,
+          "title": "[h1-2102] Break permissions waterfall"
+        },
+        {
+          "id": "https://hackerone.com/reports/1369674",
+          "author": null,
+          "description": "Twitter disclosed a bug submitted by iambouali: https://hackerone.com/reports/1369674 - Bounty: $5040",
+          "link": "https://hackerone.com/reports/1369674",
+          "publishedOn": "2022-02-12T06:32:18.000Z",
+          "wordCount": 25,
+          "title": "Blind XSS on Twitter's internal Jira panel at  allows exfiltration of hackers reports and other sensitive data"
+        },
+        {
           "id": "https://hackerone.com/reports/1439026",
           "author": null,
           "description": "Twitter disclosed a bug submitted by zhirinovskiy: https://hackerone.com/reports/1439026 - Bounty: $5040",
@@ -3404,6 +3422,96 @@
       "siteUrl": "https://medium.com/tag/bugbounty/latest?source=rss------bugbounty-5",
       "articles": [
         {
+          "id": "https://medium.com/p/18fa722e56fe",
+          "author": "Hamit CİBO",
+          "description": "Greetings Everyone from Hippodrome (Constantinople),\nContinue reading on Medium »",
+          "link": "https://hcibo.medium.com/my-pentest-log-6-18fa722e56fe?source=rss------bugbounty-5",
+          "publishedOn": "2022-02-12T20:29:20.000Z",
+          "wordCount": 574,
+          "title": "My Pentest Log -6-"
+        },
+        {
+          "id": "https://medium.com/p/aa28892c857e",
+          "author": "Balaji Anbalagan",
+          "description": "Objectives of day 7 :\nContinue reading on Medium »",
+          "link": "https://astroboy73.medium.com/100-days-of-hacking-day-8-aa28892c857e?source=rss------bugbounty-5",
+          "publishedOn": "2022-02-12T18:30:08.000Z",
+          "wordCount": 260,
+          "title": "100 Days of Hacking — Day 8"
+        },
+        {
+          "id": "https://medium.com/p/cfb662224f4c",
+          "author": "Manan Aggarwal",
+          "description": "Hello Hackers hope so You are doing well. I myself Manan Aggarwal a Btech Student is Here to Present you the blog in the continuation of…\nContinue reading on Medium »",
+          "link": "https://medium.com/@mananaggarwal2001/basic-web-technologies-knowledge-required-for-starting-with-the-web-exploitation-part-3-cfb662224f4c?source=rss------bugbounty-5",
+          "publishedOn": "2022-02-12T18:06:31.000Z",
+          "wordCount": 1777,
+          "title": "Basic Web Technologies Knowledge required for starting with the web Exploitation Part-3"
+        },
+        {
+          "id": "https://medium.com/p/b369cd70e42f",
+          "author": "Firas Fatnassi",
+          "description": "Hey, it’s been a long time since I published a bug bounty write-up. I was in an internship period. So, I had a lot of free time. Anyways…\nContinue reading on Medium »",
+          "link": "https://medium.com/@fatnassifiras45/a-tale-of-0-click-account-takeover-and-2fa-bypass-b369cd70e42f?source=rss------bugbounty-5",
+          "publishedOn": "2022-02-12T16:48:44.000Z",
+          "wordCount": 690,
+          "title": "A tale of 0-Click Account Takeover and 2FA Bypass."
+        },
+        {
+          "id": "https://medium.com/p/12d8ddad492",
+          "author": "Faiyaz Ahmad",
+          "description": "Note: This article is only for educational purpose.\nContinue reading on Medium »",
+          "link": "https://faiyazhacks.medium.com/hacking-my-isp-for-free-internet-12d8ddad492?source=rss------bugbounty-5",
+          "publishedOn": "2022-02-12T13:34:30.000Z",
+          "wordCount": 486,
+          "title": "Hacking My ISP For FREE Internet"
+        },
+        {
+          "id": "https://medium.com/p/68c91a753edd",
+          "author": "Arif ARI",
+          "description": "Access Control (Erişim Kontrolü) veya Authorization (Yetkilendirme), talep edilen eylemlere veya erişim kaynaklarına, kimin veya neyin…\nContinue reading on Medium »",
+          "link": "https://ariarif.medium.com/portswigger-web-security-broken-access-control-lab-%C3%A7%C3%B6z%C3%BCmleri%CC%87-68c91a753edd?source=rss------bugbounty-5",
+          "publishedOn": "2022-02-12T10:28:54.000Z",
+          "wordCount": 2973,
+          "title": "PORTSWIGGER WEB SECURITY - BROKEN ACCESS CONTROL LAB ÇÖZÜMLERİ"
+        },
+        {
+          "id": "https://medium.com/p/1ece3843cd65",
+          "author": "Sreeragpb",
+          "description": "Hey folks,\nContinue reading on Medium »",
+          "link": "https://medium.com/@sreeragpb01/how-i-got-the-bounty-of-280-in-just-a-matter-of-seconds-1ece3843cd65?source=rss------bugbounty-5",
+          "publishedOn": "2022-02-12T09:44:14.000Z",
+          "wordCount": 578,
+          "title": "HOW I GOT THE BOUNTY OF $280+ in just a matter of seconds…"
+        },
+        {
+          "id": "https://medium.com/p/b1e5dec2f703",
+          "author": "Anton Subbotin (skavans)",
+          "description": "I will write more about how I make PoCs in the future. But with special care, I work out scenarios for vulnerabilities that need user…\nContinue reading on Medium »",
+          "link": "https://medium.com/@skavans_/improving-the-impact-of-a-mouse-related-xss-with-styling-and-css-gadgets-b1e5dec2f703?source=rss------bugbounty-5",
+          "publishedOn": "2022-02-12T09:34:24.000Z",
+          "wordCount": 571,
+          "title": "Improving the impact of a mouse-related XSS with styling and CSS-gadgets"
+        },
+        {
+          "id": "https://medium.com/p/90415e863e93",
+          "author": "Denis Makrushin",
+          "description": "The paper introduces the case study for attack surface analysis and monitoring with practical application of open-source intelligence…\nContinue reading on Medium »",
+          "link": "https://medium.com/@makrushin/attack-surface-monitoring-using-open-source-intelligence-90415e863e93?source=rss------bugbounty-5",
+          "publishedOn": "2022-02-12T07:36:23.000Z",
+          "wordCount": 2082,
+          "title": "Attack Surface Monitoring using Open-Source Intelligence"
+        },
+        {
+          "id": "https://medium.com/p/e71c8a3648e2",
+          "author": "Anton Subbotin (skavans)",
+          "description": "This is the post from my Telegram channel about Bug Bounty, where I share my experience and knowledge as well as just write about being…\nContinue reading on Medium »",
+          "link": "https://medium.com/@skavans_/my-first-five-figure-payout-e71c8a3648e2?source=rss------bugbounty-5",
+          "publishedOn": "2022-02-12T06:24:33.000Z",
+          "wordCount": 747,
+          "title": "Bug Bounty: My First Five Figure Payout"
+        },
+        {
           "id": "https://medium.com/p/6359d9069523",
           "author": "Ba7man",
           "description": "Hello! I am back with my 2nd bug bounty write up. This time I’ll be showing you how I found an Insecure Direct Object Reference bug on an…\nContinue reading on Medium »",
@@ -6435,6 +6543,15 @@
       "siteUrl": "https://medium.com/tag/redteam/latest?source=rss------redteam-5",
       "articles": [
         {
+          "id": "https://medium.com/p/a51220620c64",
+          "author": "tox7cv3nom",
+          "description": "In this article, I am going to explain what are SUID binaries how to exploit them for getting root shell i.e privilege escalation on the…\nContinue reading on Medium »",
+          "link": "https://tox7cv3nom.medium.com/exploit-suid-misconfiguration-for-privilege-escalation-a51220620c64?source=rss------redteam-5",
+          "publishedOn": "2022-02-12T16:36:57.000Z",
+          "wordCount": 682,
+          "title": "Exploit SUID misconfiguration for privilege escalation"
+        },
+        {
           "id": "https://medium.com/p/be3c4a808146",
           "author": "Andy Robbins",
           "description": "Prior Work\nContinue reading on Posts By SpecterOps Team Members »",
@@ -8113,6 +8230,42 @@
       "feedUrl": "https://medium.com/feed/tag/osint",
       "siteUrl": "https://medium.com/tag/osint/latest?source=rss------osint-5",
       "articles": [
+        {
+          "id": "https://medium.com/p/afa9b4260475",
+          "author": "Aneesharokkiasamy",
+          "description": "Spiderfoot\nContinue reading on Medium »",
+          "link": "https://medium.com/@aneesharokkiasamy/osint-automation-tool-spiderfoot-afa9b4260475?source=rss------osint-5",
+          "publishedOn": "2022-02-12T15:18:01.000Z",
+          "wordCount": 384,
+          "title": "OSINT Automation Tool — Spiderfoot"
+        },
+        {
+          "id": "https://medium.com/p/f0bc1a26c27c",
+          "author": "Valerie McGilvrey",
+          "description": "Yes, this is really happening. \nNo, I’m not running to cause ballot confusion.\nContinue reading on Medium »",
+          "link": "https://mcgilvrey.medium.com/valerie-vs-valoree-f0bc1a26c27c?source=rss------osint-5",
+          "publishedOn": "2022-02-12T13:37:07.000Z",
+          "wordCount": 276,
+          "title": "Valerie vs Valoree"
+        },
+        {
+          "id": "https://medium.com/p/52be37c8fe4a",
+          "author": "CyberRaya",
+          "description": "Finding exact timestamps in web material is a must-have ability for OSINT and verification researchers, but where do you look?\nContinue reading on Medium »",
+          "link": "https://medium.com/@CyberRaya/how-to-find-timestamps-for-verification-52be37c8fe4a?source=rss------osint-5",
+          "publishedOn": "2022-02-12T12:30:47.000Z",
+          "wordCount": 94,
+          "title": "How To Find Timestamps For Verification"
+        },
+        {
+          "id": "https://medium.com/p/90415e863e93",
+          "author": "Denis Makrushin",
+          "description": "The paper introduces the case study for attack surface analysis and monitoring with practical application of open-source intelligence…\nContinue reading on Medium »",
+          "link": "https://medium.com/@makrushin/attack-surface-monitoring-using-open-source-intelligence-90415e863e93?source=rss------osint-5",
+          "publishedOn": "2022-02-12T07:36:23.000Z",
+          "wordCount": 2082,
+          "title": "Attack Surface Monitoring using Open-Source Intelligence"
+        },
         {
           "id": "https://medium.com/p/3a37c017d9e3",
           "author": "Justin H. Hooper",
@@ -11781,6 +11934,15 @@
           "title": "工信部就《工业和信息化领域数据安全管理办法（试行）》再次征求意见"
         },
         {
+          "id": "https://www.freebuf.com/articles/network/321656.html",
+          "author": null,
+          "description": "最近比赛出的musl题型的越来越多，不得不学习一波musl的堆利用来应对今后的比赛。",
+          "link": "https://www.freebuf.com/articles/network/321656.html",
+          "publishedOn": "2022-02-11T01:50:41.000Z",
+          "wordCount": 159,
+          "title": "浅谈musl堆利用技巧（DEBUG篇）"
+        },
+        {
           "id": "https://www.freebuf.com/articles/319080.html",
           "author": null,
           "description": "2.14-2.17，来FB商城过元宵吧",
@@ -11806,6 +11968,15 @@
           "publishedOn": "2022-02-10T06:57:34.000Z",
           "wordCount": 138,
           "title": "《广东省公共数据安全管理办法（征求意见稿）》发布，强调公共数据的安全性"
+        },
+        {
+          "id": "https://www.freebuf.com/articles/network/321590.html",
+          "author": null,
+          "description": "记一次挖矿病毒的应急响应",
+          "link": "https://www.freebuf.com/articles/network/321590.html",
+          "publishedOn": "2022-02-10T06:46:47.000Z",
+          "wordCount": 159,
+          "title": "记一次挖矿病毒的应急响应"
         },
         {
           "id": "https://www.freebuf.com/sectool/321589.html",
@@ -15232,6 +15403,15 @@
       "feedUrl": "https://www.sec-wiki.com/news/rss",
       "siteUrl": "http://www.sec-wiki.com/",
       "articles": [
+        {
+          "id": "http://www.sec-wiki.com/?2022-02-12",
+          "author": null,
+          "description": "开源软件包与软件供应链安全漏洞修复分析研究  by ourren\n攻防对抗的十八层地狱  by ourren\n更多最新文章，请访问SecWiki",
+          "link": "http://www.sec-wiki.com/?2022-02-12",
+          "publishedOn": "2022-02-12T15:58:20.000Z",
+          "wordCount": 596,
+          "title": "SecWiki News 2022-02-12 Review"
+        },
         {
           "id": "http://www.sec-wiki.com/?2022-02-11",
           "author": null,
@@ -19853,6 +20033,15 @@
       "siteUrl": "https://www.reddit.com/r/exploitdev/",
       "articles": [
         {
+          "id": "https://www.reddit.com/r/ExploitDev/comments/sqnsji/the_top_13_ethical_hacking_courses_on_udemy_2022/",
+          "author": null,
+          "description": "submitted by    /u/Jan_Prince  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/ExploitDev/comments/sqnsji/the_top_13_ethical_hacking_courses_on_udemy_2022/",
+          "publishedOn": "2022-02-12T09:32:17.000Z",
+          "wordCount": 106,
+          "title": "The Top 13 Ethical Hacking Courses on Udemy (2022)"
+        },
+        {
           "id": "https://www.reddit.com/r/ExploitDev/comments/snlzsr/beaconfuzz_a_journey_into_ethereum_20_blockchain/",
           "author": null,
           "description": "submitted by    /u/pat_ventuzelo  \n [link]   [comments]",
@@ -20282,6 +20471,24 @@
       "feedUrl": "https://www.reddit.com/r/computerforensics/.rss",
       "siteUrl": "https://www.reddit.com/r/computerforensics/",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/computerforensics/comments/sqitxb/how_do_i_get_my_foot_in_the_door_with_forensics/",
+          "author": null,
+          "description": "I have my masters in digital forensics but like a fool I never did anything with it. I’m a quick study and will only take me about a week or two to relearn everything. I have a security clearance and currently with in government contracting as a project manager but no company is biting. \n I want to finally make the switch but it’s hard when you don’t have in lab experience or the certs. Any advice on how to get restarted in this field? \n TIA!\n    submitted by    /u/kindreddino  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/computerforensics/comments/sqitxb/how_do_i_get_my_foot_in_the_door_with_forensics/",
+          "publishedOn": "2022-02-12T04:27:03.000Z",
+          "wordCount": 1863,
+          "title": "How do I get my foot in the door with forensics?"
+        },
+        {
+          "id": "https://www.reddit.com/r/computerforensics/comments/sqgbim/imaging_android_and_ios_devices/",
+          "author": null,
+          "description": "Hello, can anyone teach me how to image these devices. Or if you can point me to some tutorials. I have been trying to learn but I keep failing. Thanks in advance.\n    submitted by    /u/Sudden_Ad9859  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/computerforensics/comments/sqgbim/imaging_android_and_ios_devices/",
+          "publishedOn": "2022-02-12T02:16:56.000Z",
+          "wordCount": 271,
+          "title": "Imaging Android and iOS devices"
+        },
         {
           "id": "https://www.reddit.com/r/computerforensics/comments/sq6xls/amcache_sha1_mismatch/",
           "author": null,
@@ -21405,6 +21612,15 @@
       "feedUrl": "https://www.reddit.com/r/netsec/.rss",
       "siteUrl": "https://www.reddit.com/r/netsec/",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/netsec/comments/sqjgg7/cissp_domain_1_episode_5_security_roles_and/",
+          "author": null,
+          "description": "submitted by    /u/Tradition_Wonderful  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/netsec/comments/sqjgg7/cissp_domain_1_episode_5_security_roles_and/",
+          "publishedOn": "2022-02-12T05:01:30.000Z",
+          "wordCount": 178,
+          "title": "CISSP Domain 1 - Episode 5 - Security Roles and Responsibilities, Control Frameworks, Due care & Due Diligence, Policies, Standards, Procedures, Guidelines & Baseline and Threat Modeling by Get Set CISSP"
+        },
         {
           "id": "https://www.reddit.com/r/netsec/comments/sqd7ca/simple_tool_to_find_client_side_prototype/",
           "author": null,
@@ -23644,6 +23860,24 @@
       "feedUrl": "https://www.reddit.com/r/opendirectories/.rss",
       "siteUrl": "https://www.reddit.com/r/opendirectories/",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/opendirectories/comments/sqn7zs/technical_documents_for_joint_polar_satellite/",
+          "author": null,
+          "description": "A little over my head but if any climate geeks want to access raw data, here's the tools.\n Main index directory:\n https://www.jpss.noaa.gov/assets/\n Community Satellite Processing Package (open source direct broadcast):\n http://cimss.ssec.wisc.edu/cspp/\n Example:\n https://www.jpss.noaa.gov/assets/pdfs/technical_documents/472-00340_J2_HRD_to_DBS_RF_ICD_Rev_C.pdf\n API references:\n https://www.jpss.noaa.gov/sciencedocuments/sciencedocs/2015-06/474-00019-01_JPSS-API-Users-Guide-Vol-I_0123A.pdf\n https://www.jpss.noaa.gov/sciencedocuments/sciencedocs/2015-06/474-00019-02_JPSS-API-Users-Guide-Vol-II_0124-.pdf\n    submitted by    /u/inoculatemedia  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/opendirectories/comments/sqn7zs/technical_documents_for_joint_polar_satellite/",
+          "publishedOn": "2022-02-12T08:54:42.000Z",
+          "wordCount": 148,
+          "title": "Technical documents for JOINT POLAR SATELLITE SYSTEM"
+        },
+        {
+          "id": "https://www.reddit.com/r/opendirectories/comments/sqml3z/audio_and_art_programs_mostly_for_atari_2600/",
+          "author": null,
+          "description": "http://www.qotile.net/files/\n    submitted by    /u/inoculatemedia  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/opendirectories/comments/sqml3z/audio_and_art_programs_mostly_for_atari_2600/",
+          "publishedOn": "2022-02-12T08:11:17.000Z",
+          "wordCount": 106,
+          "title": "Audio and art programs (mostly) for Atari 2600"
+        },
         {
           "id": "https://www.reddit.com/r/opendirectories/comments/sq6ctx/calishot_202202_find_ebooks_among_348_calibre/",
           "author": null,
@@ -27196,5 +27430,5 @@
       ]
     }
   ],
-  "cliVersion": "1.12.0"
+  "cliVersion": "1.12.1"
 }
