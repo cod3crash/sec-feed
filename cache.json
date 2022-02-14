@@ -6,6 +6,16 @@
       "siteUrl": "http://h1.nobbd.de/",
       "articles": [
         {
+          "id": "https://hackerone.com/reports/1309435",
+          "author": null,
+          "description": "UPchieve disclosed a bug submitted by zeyu2001: https://hackerone.com/reports/1309435",
+          "link": "https://hackerone.com/reports/1309435",
+          "publishedOn": "2022-02-13T10:38:20.000Z",
+          "wordCount": 25,
+          "title": "Widespread CSRF on authenticated POST endpoints",
+          "imageUrl": "https://hackerone-us-west-2-production-attachments.s3.us-west-2.amazonaws.com/variants/1kw1t5z28ggu09t151xsu5y69c67/00cacaddbe1779b5d2e58ad0fc25dc47a7b12850fd813969a6697a2b1fb8a426?response-content-disposition=inline%3B%20filename%3D%22logo.png%22%3B%20filename%2A%3DUTF-8%27%27logo.png&response-content-type=image%2Fpng&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQGK6FURQ4266KBXA%2F20220214%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220214T010507Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEDQaCXVzLXdlc3QtMiJIMEYCIQCF6IuyMTiZPMXJKV0JJF7LUbKLY7MSub9S9BCRe%2B3xXwIhAIYJhdcdlntVGqQlqO3aoODNPeVBdVEEEChBxrvE%2FCSvKvoDCH0QAhoMMDEzNjE5Mjc0ODQ5Igw4FddRSLFaODVD2ZMq1wPZfkPxwhlIOqezH1i2yAmFnPPgw7A3IrPjuQ9dLA1tuTDMBPC3owrl6tQRp2rhcUwja%2FgIXkHqgj5yOKf%2B%2Fsbtxme4CX8lygldhoc5KvlHBn49ZU%2BGOkR1fonB8SWa0Nu1X%2FrdQ%2BV4GRje%2BmFZ5EXGjQm4bSMKKfr1mKyygeNlgPDAdW%2BLwAG02RcJ70YplpG7ZhYqQYUAd9Rdpw3Sc5JZdeJk7qHT5%2FY%2BD3wWDexi01eDIWY6QnxyQToVsrJVd12bJi%2FJQe10tolbsp%2BCiRT%2BKeKavwFP8JLUYF9L9%2Fi4qBjoe3ygzrsjjsZ%2FcHgykYZceQK9VH%2FRCFplBaJjuOr5ED48FQVUZ0T%2F9kfQ13g8M7oRxt0OdDe4G8UgXuaGJSQA0BnGYyUV0UUmljr3imzu%2BzeMyEDDVppmJaaKzgR6CQ%2F5HR7pbez0F0O7XrMkeF8DUcMa33eexwCmDj4k9%2BbCODOWUNX%2B3VdeP05YTwP%2FWnbTEicqJPuLGjt%2F1UvbpBZbpk9efrFxydkDkqYK6jpKsgrKaFXu%2FFvlhqoCa50ZhyWVjfxKekkQn6UYdaC%2BM7aPqZhRPl2JqJTSPIm1H9fsLXonBcGohJBDA1cluBd8lS%2Btim%2BBOJ0wq7WlkAY6pAEriauPkuZmSedhl0coaUjKzjyvO2UzhnCYX6ru4lk1Fsd7knlJNukmxJ41YAVhzIV92Kaz14EzE1ihSKiYZOF1%2BQzj%2FNTXFJ7PNJW9CwpMAJBQ5MN6P%2B4uPpi51f2rdQCvY%2BBAPRrc5oKuuYSAhPZQTl18fiEpLID%2Bjtee3YApiVWuMh%2BPDBXVkwOXZt1023bXCOxEPZzp7afYDZ8ipIDCHwlb%2BA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=257a7f1aaa43607c0a07008cf634c7d70f56f7f4a027b1f0f319902f680268ac"
+        },
+        {
           "id": "https://hackerone.com/reports/1088159",
           "author": null,
           "description": "Shopify disclosed a bug submitted by hogarth45: https://hackerone.com/reports/1088159 - Bounty: $500",
@@ -3421,6 +3431,96 @@
       "feedUrl": "https://medium.com/feed/tag/bugbounty",
       "siteUrl": "https://medium.com/tag/bugbounty/latest?source=rss------bugbounty-5",
       "articles": [
+        {
+          "id": "https://medium.com/p/bee3d93ad915",
+          "author": "Th3Mind",
+          "description": "XSS challenge by intigriti Solved by Th3Mind\nContinue reading on Medium »",
+          "link": "https://medium.com/@th3mind/intigriti-xss-challenge-0222-write-up-bee3d93ad915?source=rss------bugbounty-5",
+          "publishedOn": "2022-02-13T23:30:13.000Z",
+          "wordCount": 827,
+          "title": "Intigriti XSS Challenge 0222 — Write-Up",
+          "imageUrl": "https://miro.medium.com/max/1165/1*ULetjudCygxk7FLsjUIBLw.png"
+        },
+        {
+          "id": "https://medium.com/p/c19938fecc74",
+          "author": "0xEchidonut",
+          "description": "Today, I will be sharing about my solution on Intigriti’s February XSS Challenge 0222\nContinue reading on InfoSec Write-ups »",
+          "link": "https://infosecwriteups.com/extreme-short-scripting-game-intigritis-february-xss-challenge-c19938fecc74?source=rss------bugbounty-5",
+          "publishedOn": "2022-02-13T22:53:20.000Z",
+          "wordCount": 2,
+          "title": "Intigriti’s February XSS Challenge Walkthrough",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/2f6f7e5b8bf",
+          "author": "|\\|aZeeM /\\riF",
+          "description": "Price Manipulation\nContinue reading on Medium »",
+          "link": "https://nazeemarif.medium.com/how-i-was-able-to-purchased-premium-feature-just-for-1-pkr-by-price-manipulation-2f6f7e5b8bf?source=rss------bugbounty-5",
+          "publishedOn": "2022-02-13T19:47:30.000Z",
+          "wordCount": 338,
+          "title": "#Bug Bounty - How I was able to purchased premium feature  just for “1” PKR by (Parameter…",
+          "imageUrl": "https://miro.medium.com/max/827/1*ftiVhsjNjZnICSQvrsJyBA.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/2e0b0732a6b",
+          "author": "Balaji Anbalagan",
+          "description": "Objectives of day 9 :\nContinue reading on Medium »",
+          "link": "https://astroboy73.medium.com/100-days-of-hacking-day-9-2e0b0732a6b?source=rss------bugbounty-5",
+          "publishedOn": "2022-02-13T16:48:02.000Z",
+          "wordCount": 296,
+          "title": "100 Days of Hacking — DAY 9",
+          "imageUrl": "https://miro.medium.com/max/750/1*SIXLfzdM944J5fBQIa6nuw.png"
+        },
+        {
+          "id": "https://medium.com/p/40a39175ecdb",
+          "author": "Ravindra",
+          "description": "LinkFinder : a tool written in python that finds the endpoints from/in JavaScript files.\nContinue reading on Medium »",
+          "link": "https://medium.com/@sherlock297/install-linkfinder-on-kali-linux-40a39175ecdb?source=rss------bugbounty-5",
+          "publishedOn": "2022-02-13T15:43:00.000Z",
+          "wordCount": 168,
+          "title": "Install LinkFinder on Kali Linux",
+          "imageUrl": "https://miro.medium.com/max/1200/1*Fk65N4wv_wE7Fi-cMD__sQ.png"
+        },
+        {
+          "id": "https://medium.com/p/bc31319d0242",
+          "author": "Hacktube5",
+          "description": "Hello all i am back with another blog on bug bounty we will see how we can setup/configure burpsuite with firefox to intercept all…\nContinue reading on Medium »",
+          "link": "https://medium.com/@Hacktube5_official/how-to-setup-configure-burpsuite-with-firefox-bc31319d0242?source=rss------bugbounty-5",
+          "publishedOn": "2022-02-13T14:30:19.000Z",
+          "wordCount": 150,
+          "title": "How to Setup/Configure Burpsuite with Firefox",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/58cfa488fb51",
+          "author": "Aditya Nama",
+          "description": "In Action View <5.2.2.1, <5.1.6.2, <5.0.7.2, <4.2.11.1, and v3, a File Content Disclosure vulnerability exists where properly designed…\nContinue reading on Medium »",
+          "link": "https://spoofing.medium.com/exploiting-cve-2019-5418-file-content-disclosure-on-rails-58cfa488fb51?source=rss------bugbounty-5",
+          "publishedOn": "2022-02-13T14:23:37.000Z",
+          "wordCount": 181,
+          "title": "Exploiting CVE-2019–5418- File Content Disclosure on Rails",
+          "imageUrl": "https://miro.medium.com/max/1200/1*0QCodcv4LxTivsXpWp7roA.png"
+        },
+        {
+          "id": "https://medium.com/p/cd124297f6e6",
+          "author": "Jerry Shah (Jerry)",
+          "description": "Summary :\nContinue reading on Medium »",
+          "link": "https://shahjerry33.medium.com/broken-link-hijacking-mr-user-agent-cd124297f6e6?source=rss------bugbounty-5",
+          "publishedOn": "2022-02-13T11:31:05.000Z",
+          "wordCount": 832,
+          "title": "Broken Link Hijacking - Mr. User-Agent",
+          "imageUrl": "https://miro.medium.com/max/1126/1*n_onMDIJkJiUSbSbICqHEg.png"
+        },
+        {
+          "id": "https://medium.com/p/4f51ca3006a0",
+          "author": "0xabsiddique",
+          "description": "Don’t stress yourself too much\nContinue reading on Medium »",
+          "link": "https://medium.com/@0xabsiddique/bug-bounty-stress-aka-burnout-do-and-dont-4f51ca3006a0?source=rss------bugbounty-5",
+          "publishedOn": "2022-02-13T06:31:28.000Z",
+          "wordCount": 805,
+          "title": "Bug Bounty Stress aka Burnout: do and don’t",
+          "imageUrl": "https://miro.medium.com/max/1200/1*tvlFmCexwEsy1L1GiY6w-g.jpeg"
+        },
         {
           "id": "https://medium.com/p/18fa722e56fe",
           "author": "Hamit CİBO",
@@ -8231,6 +8331,26 @@
       "siteUrl": "https://medium.com/tag/osint/latest?source=rss------osint-5",
       "articles": [
         {
+          "id": "https://medium.com/p/382cd803da3c",
+          "author": "Char",
+          "description": "Skip tracing is the process of tracking down people who are particularly hard to find, whether they’re persons-of-interest, fact witnesses…\nContinue reading on Medium »",
+          "link": "https://medium.com/@charlottej.arrow/what-is-a-skip-tracer-382cd803da3c?source=rss------osint-5",
+          "publishedOn": "2022-02-13T16:07:19.000Z",
+          "wordCount": 115,
+          "title": "What is a Skip Tracer?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/f2b4cc33385a",
+          "author": "Justin H. Hooper",
+          "description": "First it’s important to describe what a honeypot is and why it’s a good idea to create on. In the cyber security field a honeypot is…\nContinue reading on Medium »",
+          "link": "https://medium.com/@ecojumper30/creating-a-honeypot-f2b4cc33385a?source=rss------osint-5",
+          "publishedOn": "2022-02-13T03:43:24.000Z",
+          "wordCount": 2763,
+          "title": "Creating a Honeypot",
+          "imageUrl": "https://miro.medium.com/max/1038/1*dNskZQ8sxJGA17rB2ej-hA.png"
+        },
+        {
           "id": "https://medium.com/p/afa9b4260475",
           "author": "Aneesharokkiasamy",
           "description": "Spiderfoot\nContinue reading on Medium »",
@@ -10471,6 +10591,26 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=30320463",
+          "author": "floppydisc",
+          "description": "Article URL: https://www.kalmarunionen.dk/writeups/2021/hxp-2021/lkvm/\nComments URL: https://news.ycombinator.com/item?id=30320463\nPoints: 4\n# Comments: 0",
+          "link": "https://www.kalmarunionen.dk/writeups/2021/hxp-2021/lkvm/",
+          "publishedOn": "2022-02-13T09:19:35.000Z",
+          "wordCount": 3377,
+          "title": "CVE-2021-45464 – LKVM Escape",
+          "imageUrl": "https://www.kalmarunionen.dk/"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=30319122",
+          "author": "fomine3",
+          "description": "Article URL: https://lwn.net/SubscriberLink/884052/c946bb7f8d39c54e/\nComments URL: https://news.ycombinator.com/item?id=30319122\nPoints: 8\n# Comments: 0",
+          "link": "https://lwn.net/SubscriberLink/884052/c946bb7f8d39c54e/",
+          "publishedOn": "2022-02-13T04:09:34.000Z",
+          "wordCount": 4788,
+          "title": "The long road to a fix for CVE-2021-20316",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=30308038",
           "author": "neustradamus",
           "description": "Article URL: https://mellium.im/cve/cve-2022-24968/\nComments URL: https://news.ycombinator.com/item?id=30308038\nPoints: 1\n# Comments: 0",
@@ -11035,6 +11175,26 @@
       "feedUrl": "https://hnrss.org/newest?q=vulnerability",
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
+        {
+          "id": "https://news.ycombinator.com/item?id=30324988",
+          "author": "badrabbit",
+          "description": "Hi HN,\nI've always been curious about bug hunting. Finding vulns. I have some foundational knowledge like fuzzing, basic web security and reading assembly, but I am also aware of all the improvements in software and web security and there are so many new tech stacks, languages and platforms these days. Where does one begin? Is it worth learning how to find memory safety vulns given how C and friends are dying (and when they are alive things like CFG and appguard make it impossible to exploit them)?\nAre there any modern books or sites you recommend? Should I be leaning some language (rust/go?) or stack (k8s?) as a prerequisite?\nComments URL: https://news.ycombinator.com/item?id=30324988\nPoints: 1\n# Comments: 0",
+          "link": "https://news.ycombinator.com/item?id=30324988",
+          "publishedOn": "2022-02-13T19:54:43.000Z",
+          "wordCount": 180,
+          "title": "Ask HN: Vulnerability Research in 2032?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=30324643",
+          "author": "laktak",
+          "description": "Article URL: https://www.theregister.com/2022/02/11/apple_emergency_webkit/\nComments URL: https://news.ycombinator.com/item?id=30324643\nPoints: 4\n# Comments: 3",
+          "link": "https://www.theregister.com/2022/02/11/apple_emergency_webkit/",
+          "publishedOn": "2022-02-13T19:17:12.000Z",
+          "wordCount": 2759,
+          "title": "Apple emits emergency fix for exploited-in-the-wild WebKit vulnerability",
+          "imageUrl": "https://regmedia.co.uk/2022/02/11/shutterstock_apple_devices.jpg"
+        },
         {
           "id": "https://news.ycombinator.com/item?id=30308727",
           "author": "fortran77",
@@ -11870,6 +12030,26 @@
       "feedUrl": "https://www.freebuf.com/feed",
       "siteUrl": "https://www.freebuf.com",
       "articles": [
+        {
+          "id": "https://www.freebuf.com/news/321741.html",
+          "author": null,
+          "description": "一名29岁的程序员录某未经公司许可，在离职当天，私自将即将上线的京东到家平台系统代码全部删除。",
+          "link": "https://www.freebuf.com/news/321741.html",
+          "publishedOn": "2022-02-11T11:29:22.000Z",
+          "wordCount": 343,
+          "title": "FreeBuf早报 | 上海一程序员删库跑路被判10个月；500家电商网站被植入信用卡窃取程序",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.freebuf.com/articles/web/321726.html",
+          "author": null,
+          "description": "dnSpy是一款流行的用于调试、修改和反编译.NET程序的工具。网络安全研究人员在分析.NET程序或恶意软件时经常使用。",
+          "link": "https://www.freebuf.com/articles/web/321726.html",
+          "publishedOn": "2022-02-11T08:33:46.000Z",
+          "wordCount": 173,
+          "title": "Fake dnSpy - 这鸡汤里下了毒！",
+          "imageUrl": null
+        },
         {
           "id": "https://www.freebuf.com/news/321716.html",
           "author": null,
@@ -15404,6 +15584,16 @@
       "siteUrl": "http://www.sec-wiki.com/",
       "articles": [
         {
+          "id": "http://www.sec-wiki.com/?2022-02-13",
+          "author": null,
+          "description": "今日暂未更新资讯~\n更多最新文章，请访问SecWiki",
+          "link": "http://www.sec-wiki.com/?2022-02-13",
+          "publishedOn": "2022-02-13T15:58:20.000Z",
+          "wordCount": 596,
+          "title": "SecWiki News 2022-02-13 Review",
+          "imageUrl": null
+        },
+        {
           "id": "http://www.sec-wiki.com/?2022-02-12",
           "author": null,
           "description": "开源软件包与软件供应链安全漏洞修复分析研究  by ourren\n攻防对抗的十八层地狱  by ourren\n更多最新文章，请访问SecWiki",
@@ -15968,6 +16158,46 @@
       "feedUrl": "https://www.reddit.com/r/asknetsec/.rss",
       "siteUrl": "https://www.reddit.com/r/asknetsec/",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/srvbjy/how_do_secrets_managers_help/",
+          "author": null,
+          "description": "Nearly everyone seems to say that the best way to store secrets in a cloud environment is to put them in a secrets manager and only fetch them when needed. This has the advantage of allowing seamless key rotation, adding IAM policies, etc. \n Does this actually increase the security posture of the app though? The app still needs to authenticate with a key manager somehow - I would guess by way of an API token or similar. If the app or the box serving the app get owned, doesn't this basically compromise all the secrets in the secret manager accessible to the app? \n Also, assuming my previous statement is correct, there must be a \"bootstrapping secret\" which is injected to the app that lets it talk to the secrets manager. How does the app get access to that secret? I don't mean in a specific cloud (e.g. Azure, GCP, AWS) - just in general, how does whoever is providing the secret know to trust the app?\n    submitted by    /u/parallelocat  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/srvbjy/how_do_secrets_managers_help/",
+          "publishedOn": "2022-02-13T22:49:59.000Z",
+          "wordCount": 432,
+          "title": "How do Secrets Managers help?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/srqyog/how_do_i_use_kape_to_capture_a_memory_image_and/",
+          "author": null,
+          "description": "I'm in the FOR508 class right now, playing around with around with Kape. I was able to get it to run the !SANS_Triage target and upload the results to an S3 bucket. This will be amazing for doing IR on remote computers, what an awesome tool!\n I'm also able to get Kape to create a memory image using the DumpIt_Memory module but so far I haven't been able to get it to send a memory image to S3. Is that possible?\n Here's a sample for how I got the !SANS_Triage target to send to S3:\n .\\kape.exe --tsource C: --tdest D:\\kape\\acquired\\SANS_Triage_%d%m --tflush --target !SANS_Triage --vss --vhdx S3_SANS_Triage_ --s3r us-east-1 --s3b bucket123 --s3k THISISMYACCESSKEYID --s3s ThIsIsMaHsUpErSeCrEtAcCeSsKey123456789+++ --s3st hQvTyXZmzJgui$c6@KB$ASiQAkRt!BTcMiB%38@XeD&agxzk9#ihiBiqaPKj%gok*iwJeAtRKgapqp8rJ!LFLCAivNmgqu*iBQHg!j&i55eByWxQnqJUcWiAF8YBhe9XhQvTyXZmzJgui$c6@KB$ASiQAkRt!BTcMiB%38@XeD&agxzk9#ihiBiqaPKj%gok*iwJeAtRKgapqp8rJ!LFLCAivNmgqu*iBQHg!j&i55eByWxQnqJUcWiAF8YBhe9XhQvTyXZmzJgui$c6@KB$ASiQAkRt!BTcMiB%38@XeD&agxzk9#ihiBiqaPKj%gok*iwJeAtRKgapqp8rJ!LFLCAivNmgqu*iBQHg!j&i55eByWxQnqJUcWiAF8YBhe9XhQvTyXZmzJgui$c6@KB$ASiQAkRt!BTcMiB%38@XeD&agxzk9#ihiBiqaPKj%gok*iwJeAtRKgapqp8rJ!LFLCAivNmgqu*iBQHg!j&i55eByWxQnqJUcWiAF8YBhe9XhQvTyXZmzJgui$c6@KB$ASiQAkRt!BTcMiB%38@XeD&agxzk9#ihiBiqaPKj%gok*iwJeAtRKgapqp8rJ!LFLCAivNmgqu*iBQHg!j&i55eByWxQnqJUcWiAF8YBhe9X\n Is this the way? From what I can tell the only way to generate a temporary AWS logon was using the CLI. Create a new user that only has put/write access to the S3 bucket you want to use then run:\n PS C:\\Program Files\\Amazon\\AWSCLIV2> aws sts get-session-token --duration-seconds 129600\n    submitted by    /u/mnbitcoin  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/srqyog/how_do_i_use_kape_to_capture_a_memory_image_and/",
+          "publishedOn": "2022-02-13T19:38:58.000Z",
+          "wordCount": 381,
+          "title": "How do I use Kape to capture a memory image and upload it to S3?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/srhyjl/given_that_smart_light_bulbs_can_be_hidden_in/",
+          "author": null,
+          "description": "I was actually looking for something to use as a PWNplug, but even those stand out a bit, whereas wifi light bulbs are ... just light bulbs, with wifi, and a devkit.\n https://hackaday.com/2020/02/11/custom-firmware-for-cheap-smart-bulbs-is-a-cinch-to-tinker-with/\n Most of them seem to be based on the same Expressif chipset\n https://github.com/ct-Open-Source/tuya-convert\n https://github.com/arendst/Tasmota\n This was more of a rhetorical question, but I thought it might interest some of you.\n    submitted by    /u/boli99  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/srhyjl/given_that_smart_light_bulbs_can_be_hidden_in/",
+          "publishedOn": "2022-02-13T12:50:57.000Z",
+          "wordCount": 990,
+          "title": "Given that smart light bulbs can be 'hidden' in plain sight, and most of them are reflashable - how long will it be until the first one is used to gain a foothold inside a target network?",
+          "imageUrl": "https://external-preview.redd.it/i1mj_rnFveaWzo26cBkq6vpq1BVAEA3FsxzwNsWjwso.jpg?auto=webp&s=0bc78454fed66038bfa44f82bf2bee73914e8f1d"
+        },
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/sr7kln/career_in_bug_bounty/",
+          "author": null,
+          "description": "I read an article about a pen tester making 300k off a bug bounty. My question is can someone live off this? Can anyone do this with the right knowledge and training? Do you have to be some sort of genius?\n    submitted by    /u/Bugskee  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/sr7kln/career_in_bug_bounty/",
+          "publishedOn": "2022-02-13T02:15:53.000Z",
+          "wordCount": 906,
+          "title": "Career in Bug Bounty?",
+          "imageUrl": null
+        },
         {
           "id": "https://www.reddit.com/r/AskNetsec/comments/sqas67/how_safe_is_this_obscure_software_my_friend/",
           "author": null,
@@ -19054,6 +19284,26 @@
       "siteUrl": "https://www.reddit.com/r/redteamsec/",
       "articles": [
         {
+          "id": "https://www.reddit.com/r/redteamsec/comments/srx9d9/how_i_hacked_a_reputed_hacker/",
+          "author": null,
+          "description": "submitted by    /u/banginpadr  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/redteamsec/comments/srx9d9/how_i_hacked_a_reputed_hacker/",
+          "publishedOn": "2022-02-14T00:27:56.000Z",
+          "wordCount": 106,
+          "title": "How I Hacked A Reputed Hacker",
+          "imageUrl": "https://external-preview.redd.it/QtuBML3mGODzAuHQ6e55mnheib3-mP9Zl4DYqHPdxlE.jpg?auto=webp&s=ddc436b8afd02e9bcc1ff4fe7dabaf42163ef962"
+        },
+        {
+          "id": "https://www.reddit.com/r/redteamsec/comments/srq7fo/syswhispers_shellcode_loader_w_etw_patching/",
+          "author": null,
+          "description": "submitted by    /u/ChadMotivation  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/redteamsec/comments/srq7fo/syswhispers_shellcode_loader_w_etw_patching/",
+          "publishedOn": "2022-02-13T19:05:38.000Z",
+          "wordCount": 132,
+          "title": "SysWhispers Shellcode Loader w/ ETW patching, anti-sandboxing, and 6 execution options",
+          "imageUrl": "https://external-preview.redd.it/Cgddvyhhs19aRAS0lxvKYSsnW-JRKR4XMotUY5hrIOU.jpg?auto=webp&s=c7d1780ad77902d8fe5e96e7ea0a63811cd46e32"
+        },
+        {
           "id": "https://www.reddit.com/r/redteamsec/comments/sq3epc/ad_cs_from_manageca_to_rce_blackarrow/",
           "author": null,
           "description": "submitted by    /u/gid0rah  \n [link]   [comments]",
@@ -20471,6 +20721,46 @@
       "feedUrl": "https://www.reddit.com/r/computerforensics/.rss",
       "siteUrl": "https://www.reddit.com/r/computerforensics/",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/computerforensics/comments/srs02q/resourcereference_for_crypto_mining_artifacts/",
+          "author": null,
+          "description": "Looking for a good resource (web page, poster, graphic etc.) for locating artifacts that indicate the use of a crypto miner on a computer. Does anyone know of anything?\n    submitted by    /u/admincee  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/computerforensics/comments/srs02q/resourcereference_for_crypto_mining_artifacts/",
+          "publishedOn": "2022-02-13T20:23:15.000Z",
+          "wordCount": 308,
+          "title": "Resource/Reference for Crypto mining Artifacts?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/computerforensics/comments/srry11/magnet_web_page_saver/",
+          "author": null,
+          "description": "Has anyone here had working experience with the free tool Web Page Saver? I am looking into using it at my lab and have some serious questions about how it work and when/what cases it should be used with. Any guidance is appreciated\n    submitted by    /u/trex4n6  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/computerforensics/comments/srry11/magnet_web_page_saver/",
+          "publishedOn": "2022-02-13T20:20:48.000Z",
+          "wordCount": 198,
+          "title": "Magnet Web Page Saver",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/computerforensics/comments/src82t/bulk_extractor_review/",
+          "author": null,
+          "description": "Howdy all!\n Newbie alert!\n So I currently started using Bulk_Extractor with Volatility tor Memory Forensics! My real question is how reliable are the results obtained from Bulk Extractor? \n I see a lot of explicit websites in my Bulk Extractor Domain Histogram results! But can’t be able to find them in Volatility! \n Any idea of how this works?\n    submitted by    /u/GloryHunter9  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/computerforensics/comments/src82t/bulk_extractor_review/",
+          "publishedOn": "2022-02-13T06:34:37.000Z",
+          "wordCount": 267,
+          "title": "Bulk Extractor Review",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/computerforensics/comments/srbj21/how_do_i_use_kape_to_capture_a_memory_image_and/",
+          "author": null,
+          "description": "I'm in the FOR508 class right now, playing around with around with Kape. I was able to get it to run the !SANS_Triage target and upload the results to an S3 bucket. This will be amazing for doing IR on remote computers, what an awesome tool!\n I'm also able to get Kape to create a memory image using the DumpIt_Memory module but so far I haven't been able to get it to send a memory image to S3. Is that possible?\n Here's a sample for how I got the !SANS_Triage target\n .\\kape.exe --tsource C: --tdest D:\\kape\\acquired\\SANS_Triage_%d%m --tflush --target !SANS_Triage --vss --vhdx S3_SANS_Triage_ --s3r us-east-1 --s3b bucket123 --s3k THISISMYACCESSKEYID --s3s ThIsIsMaHsUpErSeCrEtAcCeSsKey123456789+++ --s3st hQvTyXZmzJgui$c6@KB$ASiQAkRt!BTcMiB%38@XeD&agxzk9#ihiBiqaPKj%gok*iwJeAtRKgapqp8rJ!LFLCAivNmgqu*iBQHg!j&i55eByWxQnqJUcWiAF8YBhe9XhQvTyXZmzJgui$c6@KB$ASiQAkRt!BTcMiB%38@XeD&agxzk9#ihiBiqaPKj%gok*iwJeAtRKgapqp8rJ!LFLCAivNmgqu*iBQHg!j&i55eByWxQnqJUcWiAF8YBhe9XhQvTyXZmzJgui$c6@KB$ASiQAkRt!BTcMiB%38@XeD&agxzk9#ihiBiqaPKj%gok*iwJeAtRKgapqp8rJ!LFLCAivNmgqu*iBQHg!j&i55eByWxQnqJUcWiAF8YBhe9XhQvTyXZmzJgui$c6@KB$ASiQAkRt!BTcMiB%38@XeD&agxzk9#ihiBiqaPKj%gok*iwJeAtRKgapqp8rJ!LFLCAivNmgqu*iBQHg!j&i55eByWxQnqJUcWiAF8YBhe9XhQvTyXZmzJgui$c6@KB$ASiQAkRt!BTcMiB%38@XeD&agxzk9#ihiBiqaPKj%gok*iwJeAtRKgapqp8rJ!LFLCAivNmgqu*iBQHg!j&i55eByWxQnqJUcWiAF8YBhe9X\n ​\n From what I can tell the only way to generate a temporary AWS logon was using the CLI. Create a new user that only has put/write access to the S3 bucket you want to use then run:\n PS C:\\Program Files\\Amazon\\AWSCLIV2> aws sts get-session-token --duration-seconds 129600\n    submitted by    /u/mnbitcoin  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/computerforensics/comments/srbj21/how_do_i_use_kape_to_capture_a_memory_image_and/",
+          "publishedOn": "2022-02-13T05:54:22.000Z",
+          "wordCount": 340,
+          "title": "How do I use Kape to capture a memory image and upload it to S3?",
+          "imageUrl": null
+        },
         {
           "id": "https://www.reddit.com/r/computerforensics/comments/sqitxb/how_do_i_get_my_foot_in_the_door_with_forensics/",
           "author": null,
@@ -23860,6 +24150,16 @@
       "feedUrl": "https://www.reddit.com/r/opendirectories/.rss",
       "siteUrl": "https://www.reddit.com/r/opendirectories/",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/opendirectories/comments/srkvh0/mostly_big_boobs_photos_nsfw/",
+          "author": null,
+          "description": "submitted by    /u/Boobalizer  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/opendirectories/comments/srkvh0/mostly_big_boobs_photos_nsfw/",
+          "publishedOn": "2022-02-13T15:18:46.000Z",
+          "wordCount": 93,
+          "title": "Mostly big boobs photos (NSFW)",
+          "imageUrl": null
+        },
         {
           "id": "https://www.reddit.com/r/opendirectories/comments/sqn7zs/technical_documents_for_joint_polar_satellite/",
           "author": null,
@@ -27430,5 +27730,5 @@
       ]
     }
   ],
-  "cliVersion": "1.12.1"
+  "cliVersion": "1.13.0"
 }

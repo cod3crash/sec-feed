@@ -2,10 +2,357 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cod3crash.github.io/sec-feed/index.html</id>
     <title>security feed</title>
-    <updated>2022-02-13T01:12:44.100Z</updated>
-    <generator>osmosfeed 1.12.1</generator>
+    <updated>2022-02-14T01:05:11.296Z</updated>
+    <generator>osmosfeed 1.13.0</generator>
     <link rel="alternate" href="https://cod3crash.github.io/sec-feed/index.html"/>
     <link rel="self" href="https://cod3crash.github.io/sec-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How I Hacked A Reputed Hacker]]></title>
+        <id>https://www.reddit.com/r/redteamsec/comments/srx9d9/how_i_hacked_a_reputed_hacker/</id>
+        <link href="https://www.reddit.com/r/redteamsec/comments/srx9d9/how_i_hacked_a_reputed_hacker/"/>
+        <updated>2022-02-14T00:27:56.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/banginpadr  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Red Team Security</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intigriti XSS Challenge 0222 — Write-Up]]></title>
+        <id>https://medium.com/p/bee3d93ad915</id>
+        <link href="https://medium.com/@th3mind/intigriti-xss-challenge-0222-write-up-bee3d93ad915?source=rss------bugbounty-5"/>
+        <updated>2022-02-13T23:30:13.000Z</updated>
+        <summary type="html"><![CDATA[XSS challenge by intigriti Solved by Th3Mind
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Th3Mind</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intigriti’s February XSS Challenge Walkthrough]]></title>
+        <id>https://medium.com/p/c19938fecc74</id>
+        <link href="https://infosecwriteups.com/extreme-short-scripting-game-intigritis-february-xss-challenge-c19938fecc74?source=rss------bugbounty-5"/>
+        <updated>2022-02-13T22:53:20.000Z</updated>
+        <summary type="html"><![CDATA[Today, I will be sharing about my solution on Intigriti’s February XSS Challenge 0222
+Continue reading on InfoSec Write-ups »]]></summary>
+        <author>
+            <name>0xEchidonut</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How do Secrets Managers help?]]></title>
+        <id>https://www.reddit.com/r/AskNetsec/comments/srvbjy/how_do_secrets_managers_help/</id>
+        <link href="https://www.reddit.com/r/AskNetsec/comments/srvbjy/how_do_secrets_managers_help/"/>
+        <updated>2022-02-13T22:49:59.000Z</updated>
+        <summary type="html"><![CDATA[Nearly everyone seems to say that the best way to store secrets in a cloud environment is to put them in a secrets manager and only fetch them when needed. This has the advantage of allowing seamless key rotation, adding IAM policies, etc. 
+ Does this actually increase the security posture of the app though? The app still needs to authenticate with a key manager somehow - I would guess by way of an API token or similar. If the app or the box serving the app get owned, doesn't this basically compromise all the secrets in the secret manager accessible to the app? 
+ Also, assuming my previous statement is correct, there must be a "bootstrapping secret" which is injected to the app that lets it talk to the secrets manager. How does the app get access to that secret? I don't mean in a specific cloud (e.g. Azure, GCP, AWS) - just in general, how does whoever is providing the secret know to trust the app?
+    submitted by    /u/parallelocat  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>AskNetsec</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Resource/Reference for Crypto mining Artifacts?]]></title>
+        <id>https://www.reddit.com/r/computerforensics/comments/srs02q/resourcereference_for_crypto_mining_artifacts/</id>
+        <link href="https://www.reddit.com/r/computerforensics/comments/srs02q/resourcereference_for_crypto_mining_artifacts/"/>
+        <updated>2022-02-13T20:23:15.000Z</updated>
+        <summary type="html"><![CDATA[Looking for a good resource (web page, poster, graphic etc.) for locating artifacts that indicate the use of a crypto miner on a computer. Does anyone know of anything?
+    submitted by    /u/admincee  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Computer Forensics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Magnet Web Page Saver]]></title>
+        <id>https://www.reddit.com/r/computerforensics/comments/srry11/magnet_web_page_saver/</id>
+        <link href="https://www.reddit.com/r/computerforensics/comments/srry11/magnet_web_page_saver/"/>
+        <updated>2022-02-13T20:20:48.000Z</updated>
+        <summary type="html"><![CDATA[Has anyone here had working experience with the free tool Web Page Saver? I am looking into using it at my lab and have some serious questions about how it work and when/what cases it should be used with. Any guidance is appreciated
+    submitted by    /u/trex4n6  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Computer Forensics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask HN: Vulnerability Research in 2032?]]></title>
+        <id>https://news.ycombinator.com/item?id=30324988</id>
+        <link href="https://news.ycombinator.com/item?id=30324988"/>
+        <updated>2022-02-13T19:54:43.000Z</updated>
+        <summary type="html"><![CDATA[Hi HN,
+I've always been curious about bug hunting. Finding vulns. I have some foundational knowledge like fuzzing, basic web security and reading assembly, but I am also aware of all the improvements in software and web security and there are so many new tech stacks, languages and platforms these days. Where does one begin? Is it worth learning how to find memory safety vulns given how C and friends are dying (and when they are alive things like CFG and appguard make it impossible to exploit them)?
+Are there any modern books or sites you recommend? Should I be leaning some language (rust/go?) or stack (k8s?) as a prerequisite?
+Comments URL: https://news.ycombinator.com/item?id=30324988
+Points: 1
+# Comments: 0]]></summary>
+        <author>
+            <name>badrabbit</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#Bug Bounty - How I was able to purchased premium feature  just for “1” PKR by (Parameter…]]></title>
+        <id>https://medium.com/p/2f6f7e5b8bf</id>
+        <link href="https://nazeemarif.medium.com/how-i-was-able-to-purchased-premium-feature-just-for-1-pkr-by-price-manipulation-2f6f7e5b8bf?source=rss------bugbounty-5"/>
+        <updated>2022-02-13T19:47:30.000Z</updated>
+        <summary type="html"><![CDATA[Price Manipulation
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>|\|aZeeM /\riF</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How do I use Kape to capture a memory image and upload it to S3?]]></title>
+        <id>https://www.reddit.com/r/AskNetsec/comments/srqyog/how_do_i_use_kape_to_capture_a_memory_image_and/</id>
+        <link href="https://www.reddit.com/r/AskNetsec/comments/srqyog/how_do_i_use_kape_to_capture_a_memory_image_and/"/>
+        <updated>2022-02-13T19:38:58.000Z</updated>
+        <summary type="html"><![CDATA[I'm in the FOR508 class right now, playing around with around with Kape. I was able to get it to run the !SANS_Triage target and upload the results to an S3 bucket. This will be amazing for doing IR on remote computers, what an awesome tool!
+ I'm also able to get Kape to create a memory image using the DumpIt_Memory module but so far I haven't been able to get it to send a memory image to S3. Is that possible?
+ Here's a sample for how I got the !SANS_Triage target to send to S3:
+ .\kape.exe --tsource C: --tdest D:\kape\acquired\SANS_Triage_%d%m --tflush --target !SANS_Triage --vss --vhdx S3_SANS_Triage_ --s3r us-east-1 --s3b bucket123 --s3k THISISMYACCESSKEYID --s3s ThIsIsMaHsUpErSeCrEtAcCeSsKey123456789+++ --s3st hQvTyXZmzJgui$c6@KB$ASiQAkRt!BTcMiB%38@XeD&agxzk9#ihiBiqaPKj%gok*iwJeAtRKgapqp8rJ!LFLCAivNmgqu*iBQHg!j&i55eByWxQnqJUcWiAF8YBhe9XhQvTyXZmzJgui$c6@KB$ASiQAkRt!BTcMiB%38@XeD&agxzk9#ihiBiqaPKj%gok*iwJeAtRKgapqp8rJ!LFLCAivNmgqu*iBQHg!j&i55eByWxQnqJUcWiAF8YBhe9XhQvTyXZmzJgui$c6@KB$ASiQAkRt!BTcMiB%38@XeD&agxzk9#ihiBiqaPKj%gok*iwJeAtRKgapqp8rJ!LFLCAivNmgqu*iBQHg!j&i55eByWxQnqJUcWiAF8YBhe9XhQvTyXZmzJgui$c6@KB$ASiQAkRt!BTcMiB%38@XeD&agxzk9#ihiBiqaPKj%gok*iwJeAtRKgapqp8rJ!LFLCAivNmgqu*iBQHg!j&i55eByWxQnqJUcWiAF8YBhe9XhQvTyXZmzJgui$c6@KB$ASiQAkRt!BTcMiB%38@XeD&agxzk9#ihiBiqaPKj%gok*iwJeAtRKgapqp8rJ!LFLCAivNmgqu*iBQHg!j&i55eByWxQnqJUcWiAF8YBhe9X
+ Is this the way? From what I can tell the only way to generate a temporary AWS logon was using the CLI. Create a new user that only has put/write access to the S3 bucket you want to use then run:
+ PS C:\Program Files\Amazon\AWSCLIV2> aws sts get-session-token --duration-seconds 129600
+    submitted by    /u/mnbitcoin  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>AskNetsec</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple emits emergency fix for exploited-in-the-wild WebKit vulnerability]]></title>
+        <id>https://news.ycombinator.com/item?id=30324643</id>
+        <link href="https://www.theregister.com/2022/02/11/apple_emergency_webkit/"/>
+        <updated>2022-02-13T19:17:12.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.theregister.com/2022/02/11/apple_emergency_webkit/
+Comments URL: https://news.ycombinator.com/item?id=30324643
+Points: 4
+# Comments: 3]]></summary>
+        <author>
+            <name>laktak</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SysWhispers Shellcode Loader w/ ETW patching, anti-sandboxing, and 6 execution options]]></title>
+        <id>https://www.reddit.com/r/redteamsec/comments/srq7fo/syswhispers_shellcode_loader_w_etw_patching/</id>
+        <link href="https://www.reddit.com/r/redteamsec/comments/srq7fo/syswhispers_shellcode_loader_w_etw_patching/"/>
+        <updated>2022-02-13T19:05:38.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/ChadMotivation  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Red Team Security</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[100 Days of Hacking — DAY 9]]></title>
+        <id>https://medium.com/p/2e0b0732a6b</id>
+        <link href="https://astroboy73.medium.com/100-days-of-hacking-day-9-2e0b0732a6b?source=rss------bugbounty-5"/>
+        <updated>2022-02-13T16:48:02.000Z</updated>
+        <summary type="html"><![CDATA[Objectives of day 9 :
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Balaji Anbalagan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is a Skip Tracer?]]></title>
+        <id>https://medium.com/p/382cd803da3c</id>
+        <link href="https://medium.com/@charlottej.arrow/what-is-a-skip-tracer-382cd803da3c?source=rss------osint-5"/>
+        <updated>2022-02-13T16:07:19.000Z</updated>
+        <summary type="html"><![CDATA[Skip tracing is the process of tracking down people who are particularly hard to find, whether they’re persons-of-interest, fact witnesses…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Char</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SecWiki News 2022-02-13 Review]]></title>
+        <id>http://www.sec-wiki.com/?2022-02-13</id>
+        <link href="http://www.sec-wiki.com/?2022-02-13"/>
+        <updated>2022-02-13T15:58:20.000Z</updated>
+        <summary type="html"><![CDATA[今日暂未更新资讯~
+更多最新文章，请访问SecWiki]]></summary>
+        <author>
+            <name>SecWiki News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Install LinkFinder on Kali Linux]]></title>
+        <id>https://medium.com/p/40a39175ecdb</id>
+        <link href="https://medium.com/@sherlock297/install-linkfinder-on-kali-linux-40a39175ecdb?source=rss------bugbounty-5"/>
+        <updated>2022-02-13T15:43:00.000Z</updated>
+        <summary type="html"><![CDATA[LinkFinder : a tool written in python that finds the endpoints from/in JavaScript files.
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Ravindra</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mostly big boobs photos (NSFW)]]></title>
+        <id>https://www.reddit.com/r/opendirectories/comments/srkvh0/mostly_big_boobs_photos_nsfw/</id>
+        <link href="https://www.reddit.com/r/opendirectories/comments/srkvh0/mostly_big_boobs_photos_nsfw/"/>
+        <updated>2022-02-13T15:18:46.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/Boobalizer  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Open Directories</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Setup/Configure Burpsuite with Firefox]]></title>
+        <id>https://medium.com/p/bc31319d0242</id>
+        <link href="https://medium.com/@Hacktube5_official/how-to-setup-configure-burpsuite-with-firefox-bc31319d0242?source=rss------bugbounty-5"/>
+        <updated>2022-02-13T14:30:19.000Z</updated>
+        <summary type="html"><![CDATA[Hello all i am back with another blog on bug bounty we will see how we can setup/configure burpsuite with firefox to intercept all…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Hacktube5</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Exploiting CVE-2019–5418- File Content Disclosure on Rails]]></title>
+        <id>https://medium.com/p/58cfa488fb51</id>
+        <link href="https://spoofing.medium.com/exploiting-cve-2019-5418-file-content-disclosure-on-rails-58cfa488fb51?source=rss------bugbounty-5"/>
+        <updated>2022-02-13T14:23:37.000Z</updated>
+        <summary type="html"><![CDATA[In Action View <5.2.2.1, <5.1.6.2, <5.0.7.2, <4.2.11.1, and v3, a File Content Disclosure vulnerability exists where properly designed…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Aditya Nama</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Given that smart light bulbs can be 'hidden' in plain sight, and most of them are reflashable - how long will it be until the first one is used to gain a foothold inside a target network?]]></title>
+        <id>https://www.reddit.com/r/AskNetsec/comments/srhyjl/given_that_smart_light_bulbs_can_be_hidden_in/</id>
+        <link href="https://www.reddit.com/r/AskNetsec/comments/srhyjl/given_that_smart_light_bulbs_can_be_hidden_in/"/>
+        <updated>2022-02-13T12:50:57.000Z</updated>
+        <summary type="html"><![CDATA[I was actually looking for something to use as a PWNplug, but even those stand out a bit, whereas wifi light bulbs are ... just light bulbs, with wifi, and a devkit.
+ https://hackaday.com/2020/02/11/custom-firmware-for-cheap-smart-bulbs-is-a-cinch-to-tinker-with/
+ Most of them seem to be based on the same Expressif chipset
+ https://github.com/ct-Open-Source/tuya-convert
+ https://github.com/arendst/Tasmota
+ This was more of a rhetorical question, but I thought it might interest some of you.
+    submitted by    /u/boli99  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>AskNetsec</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Broken Link Hijacking - Mr. User-Agent]]></title>
+        <id>https://medium.com/p/cd124297f6e6</id>
+        <link href="https://shahjerry33.medium.com/broken-link-hijacking-mr-user-agent-cd124297f6e6?source=rss------bugbounty-5"/>
+        <updated>2022-02-13T11:31:05.000Z</updated>
+        <summary type="html"><![CDATA[Summary :
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Jerry Shah (Jerry)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Widespread CSRF on authenticated POST endpoints]]></title>
+        <id>https://hackerone.com/reports/1309435</id>
+        <link href="https://hackerone.com/reports/1309435"/>
+        <updated>2022-02-13T10:38:20.000Z</updated>
+        <summary type="html"><![CDATA[UPchieve disclosed a bug submitted by zeyu2001: https://hackerone.com/reports/1309435]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CVE-2021-45464 – LKVM Escape]]></title>
+        <id>https://news.ycombinator.com/item?id=30320463</id>
+        <link href="https://www.kalmarunionen.dk/writeups/2021/hxp-2021/lkvm/"/>
+        <updated>2022-02-13T09:19:35.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.kalmarunionen.dk/writeups/2021/hxp-2021/lkvm/
+Comments URL: https://news.ycombinator.com/item?id=30320463
+Points: 4
+# Comments: 0]]></summary>
+        <author>
+            <name>floppydisc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bulk Extractor Review]]></title>
+        <id>https://www.reddit.com/r/computerforensics/comments/src82t/bulk_extractor_review/</id>
+        <link href="https://www.reddit.com/r/computerforensics/comments/src82t/bulk_extractor_review/"/>
+        <updated>2022-02-13T06:34:37.000Z</updated>
+        <summary type="html"><![CDATA[Howdy all!
+ Newbie alert!
+ So I currently started using Bulk_Extractor with Volatility tor Memory Forensics! My real question is how reliable are the results obtained from Bulk Extractor? 
+ I see a lot of explicit websites in my Bulk Extractor Domain Histogram results! But can’t be able to find them in Volatility! 
+ Any idea of how this works?
+    submitted by    /u/GloryHunter9  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Computer Forensics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bug Bounty Stress aka Burnout: do and don’t]]></title>
+        <id>https://medium.com/p/4f51ca3006a0</id>
+        <link href="https://medium.com/@0xabsiddique/bug-bounty-stress-aka-burnout-do-and-dont-4f51ca3006a0?source=rss------bugbounty-5"/>
+        <updated>2022-02-13T06:31:28.000Z</updated>
+        <summary type="html"><![CDATA[Don’t stress yourself too much
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>0xabsiddique</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How do I use Kape to capture a memory image and upload it to S3?]]></title>
+        <id>https://www.reddit.com/r/computerforensics/comments/srbj21/how_do_i_use_kape_to_capture_a_memory_image_and/</id>
+        <link href="https://www.reddit.com/r/computerforensics/comments/srbj21/how_do_i_use_kape_to_capture_a_memory_image_and/"/>
+        <updated>2022-02-13T05:54:22.000Z</updated>
+        <summary type="html"><![CDATA[I'm in the FOR508 class right now, playing around with around with Kape. I was able to get it to run the !SANS_Triage target and upload the results to an S3 bucket. This will be amazing for doing IR on remote computers, what an awesome tool!
+ I'm also able to get Kape to create a memory image using the DumpIt_Memory module but so far I haven't been able to get it to send a memory image to S3. Is that possible?
+ Here's a sample for how I got the !SANS_Triage target
+ .\kape.exe --tsource C: --tdest D:\kape\acquired\SANS_Triage_%d%m --tflush --target !SANS_Triage --vss --vhdx S3_SANS_Triage_ --s3r us-east-1 --s3b bucket123 --s3k THISISMYACCESSKEYID --s3s ThIsIsMaHsUpErSeCrEtAcCeSsKey123456789+++ --s3st hQvTyXZmzJgui$c6@KB$ASiQAkRt!BTcMiB%38@XeD&agxzk9#ihiBiqaPKj%gok*iwJeAtRKgapqp8rJ!LFLCAivNmgqu*iBQHg!j&i55eByWxQnqJUcWiAF8YBhe9XhQvTyXZmzJgui$c6@KB$ASiQAkRt!BTcMiB%38@XeD&agxzk9#ihiBiqaPKj%gok*iwJeAtRKgapqp8rJ!LFLCAivNmgqu*iBQHg!j&i55eByWxQnqJUcWiAF8YBhe9XhQvTyXZmzJgui$c6@KB$ASiQAkRt!BTcMiB%38@XeD&agxzk9#ihiBiqaPKj%gok*iwJeAtRKgapqp8rJ!LFLCAivNmgqu*iBQHg!j&i55eByWxQnqJUcWiAF8YBhe9XhQvTyXZmzJgui$c6@KB$ASiQAkRt!BTcMiB%38@XeD&agxzk9#ihiBiqaPKj%gok*iwJeAtRKgapqp8rJ!LFLCAivNmgqu*iBQHg!j&i55eByWxQnqJUcWiAF8YBhe9XhQvTyXZmzJgui$c6@KB$ASiQAkRt!BTcMiB%38@XeD&agxzk9#ihiBiqaPKj%gok*iwJeAtRKgapqp8rJ!LFLCAivNmgqu*iBQHg!j&i55eByWxQnqJUcWiAF8YBhe9X
+ ​
+ From what I can tell the only way to generate a temporary AWS logon was using the CLI. Create a new user that only has put/write access to the S3 bucket you want to use then run:
+ PS C:\Program Files\Amazon\AWSCLIV2> aws sts get-session-token --duration-seconds 129600
+    submitted by    /u/mnbitcoin  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Computer Forensics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The long road to a fix for CVE-2021-20316]]></title>
+        <id>https://news.ycombinator.com/item?id=30319122</id>
+        <link href="https://lwn.net/SubscriberLink/884052/c946bb7f8d39c54e/"/>
+        <updated>2022-02-13T04:09:34.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://lwn.net/SubscriberLink/884052/c946bb7f8d39c54e/
+Comments URL: https://news.ycombinator.com/item?id=30319122
+Points: 8
+# Comments: 0]]></summary>
+        <author>
+            <name>fomine3</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Creating a Honeypot]]></title>
+        <id>https://medium.com/p/f2b4cc33385a</id>
+        <link href="https://medium.com/@ecojumper30/creating-a-honeypot-f2b4cc33385a?source=rss------osint-5"/>
+        <updated>2022-02-13T03:43:24.000Z</updated>
+        <summary type="html"><![CDATA[First it’s important to describe what a honeypot is and why it’s a good idea to create on. In the cyber security field a honeypot is…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Justin H. Hooper</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Career in Bug Bounty?]]></title>
+        <id>https://www.reddit.com/r/AskNetsec/comments/sr7kln/career_in_bug_bounty/</id>
+        <link href="https://www.reddit.com/r/AskNetsec/comments/sr7kln/career_in_bug_bounty/"/>
+        <updated>2022-02-13T02:15:53.000Z</updated>
+        <summary type="html"><![CDATA[I read an article about a pen tester making 300k off a bug bounty. My question is can someone live off this? Can anyone do this with the right knowledge and training? Do you have to be some sort of genius?
+    submitted by    /u/Bugskee  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>AskNetsec</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[h1-2102] Break permissions waterfall]]></title>
         <id>https://hackerone.com/reports/1088159</id>
@@ -719,6 +1066,16 @@ Continue reading on Medium »]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[FreeBuf早报 | 上海一程序员删库跑路被判10个月；500家电商网站被植入信用卡窃取程序]]></title>
+        <id>https://www.freebuf.com/news/321741.html</id>
+        <link href="https://www.freebuf.com/news/321741.html"/>
+        <updated>2022-02-11T11:29:22.000Z</updated>
+        <summary type="html"><![CDATA[一名29岁的程序员录某未经公司许可，在离职当天，私自将即将上线的京东到家平台系统代码全部删除。]]></summary>
+        <author>
+            <name>FreeBuf网络安全行业门户</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Pen test dropbox running Win OS with Kali VM - with 4G callback]]></title>
         <id>https://www.reddit.com/r/AskNetsec/comments/spx6e5/pen_test_dropbox_running_win_os_with_kali_vm_with/</id>
         <link href="https://www.reddit.com/r/AskNetsec/comments/spx6e5/pen_test_dropbox_running_win_os_with_kali_vm_with/"/>
@@ -784,6 +1141,16 @@ Seen a few decent build docs that almost fit the bill, but not quite:
  [link]   [comments]]]></summary>
         <author>
             <name>Red Team Security</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fake dnSpy - 这鸡汤里下了毒！]]></title>
+        <id>https://www.freebuf.com/articles/web/321726.html</id>
+        <link href="https://www.freebuf.com/articles/web/321726.html"/>
+        <updated>2022-02-11T08:33:46.000Z</updated>
+        <summary type="html"><![CDATA[dnSpy是一款流行的用于调试、修改和反编译.NET程序的工具。网络安全研究人员在分析.NET程序或恶意软件时经常使用。]]></summary>
+        <author>
+            <name>FreeBuf网络安全行业门户</name>
         </author>
     </entry>
     <entry>
