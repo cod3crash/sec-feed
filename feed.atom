@@ -2,10 +2,936 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cod3crash.github.io/sec-feed/index.html</id>
     <title>security feed</title>
-    <updated>2022-02-14T01:05:11.296Z</updated>
-    <generator>osmosfeed 1.13.0</generator>
+    <updated>2022-02-15T01:16:18.858Z</updated>
+    <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://cod3crash.github.io/sec-feed/index.html"/>
     <link rel="self" href="https://cod3crash.github.io/sec-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[“That SweetPot of Data Net-tar” My first Honey Pot Walkthrough Part 3]]></title>
+        <id>https://medium.com/p/3384c899cb8b</id>
+        <link href="https://medium.com/@gino.v.smith/that-sweetpot-of-data-net-tar-my-first-honey-pot-walkthrough-part-3-3384c899cb8b?source=rss------osint-5"/>
+        <updated>2022-02-14T23:16:05.000Z</updated>
+        <summary type="html"><![CDATA[Part 1
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Gino V Smith</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Unobvious About XSS and HTML Encoding]]></title>
+        <id>https://medium.com/p/4e0d536a35d9</id>
+        <link href="https://medium.com/@skavans_/the-unobvious-about-xss-and-html-encoding-4e0d536a35d9?source=rss------bugbounty-5"/>
+        <updated>2022-02-14T23:02:45.000Z</updated>
+        <summary type="html"><![CDATA[Many people know that before getting the value of a tag attribute, the browser decodes the HTML entities inside. Let’s say if you try to…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Anton Subbotin (skavans)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PrivateLoader to new Anubis Loader]]></title>
+        <id>https://www.reddit.com/r/netsec/comments/ssmxv3/privateloader_to_new_anubis_loader/</id>
+        <link href="https://www.reddit.com/r/netsec/comments/ssmxv3/privateloader_to_new_anubis_loader/"/>
+        <updated>2022-02-14T22:11:59.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/sysopfb  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>/r/netsec - Information Security News &amp; Discussion</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Arbitrary File Read at  via filename parameter]]></title>
+        <id>https://hackerone.com/reports/1436223</id>
+        <link href="https://hackerone.com/reports/1436223"/>
+        <updated>2022-02-14T21:35:58.000Z</updated>
+        <summary type="html"><![CDATA[U.S. Dept Of Defense disclosed a bug submitted by shiar: https://hackerone.com/reports/1436223]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Broken Authentication]]></title>
+        <id>https://hackerone.com/reports/409237</id>
+        <link href="https://hackerone.com/reports/409237"/>
+        <updated>2022-02-14T21:29:11.000Z</updated>
+        <summary type="html"><![CDATA[U.S. Dept Of Defense disclosed a bug submitted by websecnl: https://hackerone.com/reports/409237]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IDOR]]></title>
+        <id>https://hackerone.com/reports/389250</id>
+        <link href="https://hackerone.com/reports/389250"/>
+        <updated>2022-02-14T21:27:05.000Z</updated>
+        <summary type="html"><![CDATA[U.S. Dept Of Defense disclosed a bug submitted by websecnl: https://hackerone.com/reports/389250]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CUI Labelled document out in the open]]></title>
+        <id>https://hackerone.com/reports/1436460</id>
+        <link href="https://hackerone.com/reports/1436460"/>
+        <updated>2022-02-14T21:26:10.000Z</updated>
+        <summary type="html"><![CDATA[U.S. Dept Of Defense disclosed a bug submitted by pll25: https://hackerone.com/reports/1436460]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EC2 subdomain takeover at http:///]]></title>
+        <id>https://hackerone.com/reports/1296366</id>
+        <link href="https://hackerone.com/reports/1296366"/>
+        <updated>2022-02-14T21:24:17.000Z</updated>
+        <summary type="html"><![CDATA[U.S. Dept Of Defense disclosed a bug submitted by dreyand72: https://hackerone.com/reports/1296366]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[XSS trigger via HTML Iframe injection in ( https:// ) due to unfiltered HTML tags]]></title>
+        <id>https://hackerone.com/reports/1200770</id>
+        <link href="https://hackerone.com/reports/1200770"/>
+        <updated>2022-02-14T21:23:22.000Z</updated>
+        <summary type="html"><![CDATA[U.S. Dept Of Defense disclosed a bug submitted by rozerx00: https://hackerone.com/reports/1200770]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reflected XSS at https:// via "" parameter]]></title>
+        <id>https://hackerone.com/reports/1457277</id>
+        <link href="https://hackerone.com/reports/1457277"/>
+        <updated>2022-02-14T21:22:15.000Z</updated>
+        <summary type="html"><![CDATA[U.S. Dept Of Defense disclosed a bug submitted by pelegn: https://hackerone.com/reports/1457277]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reflected XSS at https:// via "" parameter]]></title>
+        <id>https://hackerone.com/reports/1457546</id>
+        <link href="https://hackerone.com/reports/1457546"/>
+        <updated>2022-02-14T21:21:37.000Z</updated>
+        <summary type="html"><![CDATA[U.S. Dept Of Defense disclosed a bug submitted by pelegn: https://hackerone.com/reports/1457546]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reflected XSS at https:/// via "" parameter]]></title>
+        <id>https://hackerone.com/reports/1457493</id>
+        <link href="https://hackerone.com/reports/1457493"/>
+        <updated>2022-02-14T21:20:46.000Z</updated>
+        <summary type="html"><![CDATA[U.S. Dept Of Defense disclosed a bug submitted by pelegn: https://hackerone.com/reports/1457493]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reflected XSS at https:/// via "" parameter]]></title>
+        <id>https://hackerone.com/reports/1457444</id>
+        <link href="https://hackerone.com/reports/1457444"/>
+        <updated>2022-02-14T21:20:02.000Z</updated>
+        <summary type="html"><![CDATA[U.S. Dept Of Defense disclosed a bug submitted by pelegn: https://hackerone.com/reports/1457444]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reflected XSS at https:/// via "" parameter]]></title>
+        <id>https://hackerone.com/reports/1457413</id>
+        <link href="https://hackerone.com/reports/1457413"/>
+        <updated>2022-02-14T21:19:22.000Z</updated>
+        <summary type="html"><![CDATA[U.S. Dept Of Defense disclosed a bug submitted by pelegn: https://hackerone.com/reports/1457413]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(CORS) Cross-origin resource sharing misconfiguration on https://]]></title>
+        <id>https://hackerone.com/reports/995144</id>
+        <link href="https://hackerone.com/reports/995144"/>
+        <updated>2022-02-14T21:18:26.000Z</updated>
+        <summary type="html"><![CDATA[U.S. Dept Of Defense disclosed a bug submitted by fiveguyslover: https://hackerone.com/reports/995144]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[default  creds on https://]]></title>
+        <id>https://hackerone.com/reports/711662</id>
+        <link href="https://hackerone.com/reports/711662"/>
+        <updated>2022-02-14T21:17:10.000Z</updated>
+        <summary type="html"><![CDATA[U.S. Dept Of Defense disclosed a bug submitted by pirateducky: https://hackerone.com/reports/711662]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unauthorized access to PII leads to MASS account Takeover]]></title>
+        <id>https://hackerone.com/reports/1061736</id>
+        <link href="https://hackerone.com/reports/1061736"/>
+        <updated>2022-02-14T21:15:46.000Z</updated>
+        <summary type="html"><![CDATA[U.S. Dept Of Defense disclosed a bug submitted by takester: https://hackerone.com/reports/1061736]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RXSS ON https://]]></title>
+        <id>https://hackerone.com/reports/1244145</id>
+        <link href="https://hackerone.com/reports/1244145"/>
+        <updated>2022-02-14T21:14:48.000Z</updated>
+        <summary type="html"><![CDATA[U.S. Dept Of Defense disclosed a bug submitted by iam_a_jinchuriki: https://hackerone.com/reports/1244145]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[CVE-2020-3452] Unauthenticated file read in Cisco ASA]]></title>
+        <id>https://hackerone.com/reports/1415825</id>
+        <link href="https://hackerone.com/reports/1415825"/>
+        <updated>2022-02-14T21:13:45.000Z</updated>
+        <summary type="html"><![CDATA[U.S. Dept Of Defense disclosed a bug submitted by ghostxsec: https://hackerone.com/reports/1415825]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Eliminating Dangling Elastic IP Takeovers with Ghostbuster]]></title>
+        <id>https://www.reddit.com/r/netsec/comments/ssk4lq/eliminating_dangling_elastic_ip_takeovers_with/</id>
+        <link href="https://www.reddit.com/r/netsec/comments/ssk4lq/eliminating_dangling_elastic_ip_takeovers_with/"/>
+        <updated>2022-02-14T20:14:08.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/Mempodipper  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>/r/netsec - Information Security News &amp; Discussion</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Preventing Replay Attacks]]></title>
+        <id>https://www.reddit.com/r/AskNetsec/comments/ssjq5v/preventing_replay_attacks/</id>
+        <link href="https://www.reddit.com/r/AskNetsec/comments/ssjq5v/preventing_replay_attacks/"/>
+        <updated>2022-02-14T19:57:40.000Z</updated>
+        <summary type="html"><![CDATA[Hey all,
+ I'm going to be participating in an Attack/Defend CTF, and apparently one of the biggest vulnerabilities from previous competitions was replay attacks.
+ Some more details:
+  
+The server that is traditionally vulnerable to replay attacks is a headless Arch Linux box with limited disk space and no access to the Internet. I have superuser access this box via SSH;
+ This server exists outside of our defensive LAN. Its sole responsibility is relaying commands to/from external entities. Think like a self-driving Tesla car being told what to do: "Turn left, turn left, turn left...". 
+ I should underscore that if an attacker replayed these commands, the car would inevitably crash.
+ 
+  
+I've configured the IPtables on the box to:
+  
+Drop invalid traffic;
+ Accept existing traffic;
+ Accept SSH from our administrative workstation;
+ Accept commands from our client workstation;
+ Forward traffic to the external entities; and
+ Drop everything else.
+  
+I want to inquire about any lightweight transport layer security options that I could implement to secure the bidirectional communication. I'm exploring IPsec/VPNs but I haven't found success. I just wanted to ask if I was missing anything simple here.
+ Thank you for your time.
+    submitted by    /u/InfamousClyde  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>AskNetsec</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Persistence – Notepad++ Plugins]]></title>
+        <id>https://www.reddit.com/r/netsec/comments/ssj1s7/persistence_notepad_plugins/</id>
+        <link href="https://www.reddit.com/r/netsec/comments/ssj1s7/persistence_notepad_plugins/"/>
+        <updated>2022-02-14T19:29:40.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/netbiosX  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>/r/netsec - Information Security News &amp; Discussion</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Alienvault OSSIM OTX Issue]]></title>
+        <id>https://www.reddit.com/r/AskNetsec/comments/ssiueg/alienvault_ossim_otx_issue/</id>
+        <link href="https://www.reddit.com/r/AskNetsec/comments/ssiueg/alienvault_ossim_otx_issue/"/>
+        <updated>2022-02-14T19:21:03.000Z</updated>
+        <summary type="html"><![CDATA[So I just set up a new OSSIM instance from scratch. I've added my API key (and have subsequently regenerated new ones for troubleshooting). I'm not sure how long I have to wait for the OTX subscriptions to sync and download to the OSSIM client, but when I click the dropdown on the OTX page in OSSIM, and click on View Account Details, it takes me to the otx.alienvault.com webpage, and shows that I'm not following or subscribed to any pulses.. However, if I log into OTX with the same account, it shows that I am subscribed to several. I've ran the 'curl' command to test the OTX-API key and it worked without error. I've also noticed that another alarm I am receiving is "no information available. you are no longer subscribed to this pulse" but there is no information as to what pulse they're referring to. And googling it found an Alienvault KB that said it was fixed in 5.4. I'm on 5.8 (the latest version, up to date as well).
+ ​
+ Anyone else having this issue with Alienvault OSSIM and OTX not syncing? If there's a command to force sync (I've done the option in the console for updating the threat feeds), that would be appreciated.
+    submitted by    /u/Phyxiis  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>AskNetsec</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Check Out The Full Speaker Line-Up of IWCON 2022]]></title>
+        <id>https://medium.com/p/6f62aa747420</id>
+        <link href="https://infosecwriteups.com/check-out-the-full-speaker-line-up-of-iwcon-2022-6f62aa747420?source=rss----7b722bfd1b8d---4"/>
+        <updated>2022-02-14T18:59:12.000Z</updated>
+        <summary type="html"><![CDATA[Book your seats for the coolest, most value-packed cybersecurity event of 2022!]]></summary>
+        <author>
+            <name>InfoSec Write-ups</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Check Out The Full Speaker Line-Up of IWCON 2022]]></title>
+        <id>https://medium.com/p/6f62aa747420</id>
+        <link href="https://infosecwriteups.com/check-out-the-full-speaker-line-up-of-iwcon-2022-6f62aa747420?source=rss----7b722bfd1b8d---4"/>
+        <updated>2022-02-14T18:59:12.000Z</updated>
+        <summary type="html"><![CDATA[Book your seats for the coolest, most value-packed cybersecurity event of 2022!]]></summary>
+        <author>
+            <name>InfoSec Write-ups</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Walkthrough — Hacktoria: Geolocation 11]]></title>
+        <id>https://medium.com/p/1727d1dc4e89</id>
+        <link href="https://gralhix.medium.com/walkthrough-hacktoria-geolocation-11-1727d1dc4e89?source=rss------osint-5"/>
+        <updated>2022-02-14T18:25:03.000Z</updated>
+        <summary type="html"><![CDATA[Once again I am back with a walkthrough to a GEOINT challenge. I will be explaining how to solve Geolocation 11 practice test on…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Sofia Santos</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to get into bug bounties — A list of resources by The XSS Rat]]></title>
+        <id>https://medium.com/p/4ad10dacd966</id>
+        <link href="https://thexssrat.medium.com/how-to-get-into-bug-bounties-a-list-of-resources-by-the-xss-rat-4ad10dacd966?source=rss------bugbounty-5"/>
+        <updated>2022-02-14T18:21:12.000Z</updated>
+        <summary type="html"><![CDATA[Hello friends, I’ve seen this question come by often so I’ve decided to try and group all the resources of myself that I have about…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Thexssrat</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dropping Files on a Domain Controller Using CVE-2021-43893]]></title>
+        <id>https://www.reddit.com/r/redteamsec/comments/ssgrou/dropping_files_on_a_domain_controller_using/</id>
+        <link href="https://www.reddit.com/r/redteamsec/comments/ssgrou/dropping_files_on_a_domain_controller_using/"/>
+        <updated>2022-02-14T17:55:36.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/dmchell  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Red Team Security</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[cube0x0/KrbRelay: Framework for Kerberos relaying]]></title>
+        <id>https://www.reddit.com/r/redteamsec/comments/ssgqy3/cube0x0krbrelay_framework_for_kerberos_relaying/</id>
+        <link href="https://www.reddit.com/r/redteamsec/comments/ssgqy3/cube0x0krbrelay_framework_for_kerberos_relaying/"/>
+        <updated>2022-02-14T17:54:49.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/dmchell  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Red Team Security</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Preventing, Detecting, & Hunting for Exploitation of the Log4j 2 Vulnerability]]></title>
+        <id>https://news.ycombinator.com/item?id=30335183</id>
+        <link href="https://www.microsoft.com/security/blog/2021/12/11/guidance-for-preventing-detecting-and-hunting-for-cve-2021-44228-log4j-2-exploitation/"/>
+        <updated>2022-02-14T17:45:56.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.microsoft.com/security/blog/2021/12/11/guidance-for-preventing-detecting-and-hunting-for-cve-2021-44228-log4j-2-exploitation/
+Comments URL: https://news.ycombinator.com/item?id=30335183
+Points: 2
+# Comments: 0]]></summary>
+        <author>
+            <name>JordanTen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Multiple vulnerabilities in Concrete CMS part2 (Privesc/SSRF/etc.)]]></title>
+        <id>https://www.reddit.com/r/netsec/comments/ssg74g/multiple_vulnerabilities_in_concrete_cms_part2/</id>
+        <link href="https://www.reddit.com/r/netsec/comments/ssg74g/multiple_vulnerabilities_in_concrete_cms_part2/"/>
+        <updated>2022-02-14T17:32:00.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/adrian_rt  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>/r/netsec - Information Security News &amp; Discussion</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is the Bug Bounty ?]]></title>
+        <id>https://medium.com/p/6646d69779b5</id>
+        <link href="https://medium.com/cybersecurity-and-gdpr-compliance/what-is-the-bug-bounty-6646d69779b5?source=rss------bugbounty-5"/>
+        <updated>2022-02-14T17:18:59.000Z</updated>
+        <summary type="html"><![CDATA[Often translated into French as “prime au bogue” or “bounty for the detected flaw”, the bug bounty appeared in the 90s within Netscape…
+Continue reading on CyberSecurity and GDPR compliance »]]></summary>
+        <author>
+            <name>CyberSecura</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[aimbot idea?]]></title>
+        <id>https://www.reddit.com/r/ExploitDev/comments/ssfjap/aimbot_idea/</id>
+        <link href="https://www.reddit.com/r/ExploitDev/comments/ssfjap/aimbot_idea/"/>
+        <updated>2022-02-14T17:04:47.000Z</updated>
+        <summary type="html"><![CDATA[I was thinking that what if there was a type of screen reader or something like that that detected enemy characters in a video game and locked your mouse to it?
+ is that even possible?
+ just an idea I don't know the technicalities
+    submitted by    /u/mr_killlerrrrr  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Exploit Development</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Persistence – Notepad++ Plugins]]></title>
+        <id>https://www.reddit.com/r/redteamsec/comments/ssf01p/persistence_notepad_plugins/</id>
+        <link href="https://www.reddit.com/r/redteamsec/comments/ssf01p/persistence_notepad_plugins/"/>
+        <updated>2022-02-14T16:43:16.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/netbiosX  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Red Team Security</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Install Invisible Malicious Apps Remotely, Acting As Updates]]></title>
+        <id>https://www.reddit.com/r/redteamsec/comments/ssejm4/install_invisible_malicious_apps_remotely_acting/</id>
+        <link href="https://www.reddit.com/r/redteamsec/comments/ssejm4/install_invisible_malicious_apps_remotely_acting/"/>
+        <updated>2022-02-14T16:24:04.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/banginpadr  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Red Team Security</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Netsparker Enterprise achieves WCAG 2.1 accessibility compliance]]></title>
+        <id>https://www.netsparker.com/blog/f1f60e53-60dd-4bfe-93ec-d801b373c069/</id>
+        <link href="https://www.netsparker.com/blog/docs-and-faqs/netsparker-enterprise-achieves-wcag-2-1-accessibility-compliance/"/>
+        <updated>2022-02-14T16:14:30.000Z</updated>
+        <summary type="html"><![CDATA[Invicti is proud to break down barriers of access in software. Learn more about how we’ve achieved WCAG 2.1 AA compliance for accessibility standards. READ MORE]]></summary>
+        <author>
+            <name>Kate Lau</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dropping Files on a Domain Controller Using CVE-2021-43893]]></title>
+        <id>https://news.ycombinator.com/item?id=30333641</id>
+        <link href="https://www.rapid7.com/blog/post/2022/02/14/dropping-files-on-a-domain-controller-using-cve-2021-43893/"/>
+        <updated>2022-02-14T16:05:43.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.rapid7.com/blog/post/2022/02/14/dropping-files-on-a-domain-controller-using-cve-2021-43893/
+Comments URL: https://news.ycombinator.com/item?id=30333641
+Points: 2
+# Comments: 0]]></summary>
+        <author>
+            <name>albinolobster</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SecWiki News 2022-02-14 Review]]></title>
+        <id>http://www.sec-wiki.com/?2022-02-14</id>
+        <link href="http://www.sec-wiki.com/?2022-02-14"/>
+        <updated>2022-02-14T15:58:20.000Z</updated>
+        <summary type="html"><![CDATA[SecWiki周刊（第415期)  by ourren
+Java安全研究与安全开发面试题总结  by ourren
+记一次挖矿病毒的应急响应  by ourren
+更多最新文章，请访问SecWiki]]></summary>
+        <author>
+            <name>SecWiki News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dropping Files on a Domain Controller Using CVE-2021-43893]]></title>
+        <id>https://www.reddit.com/r/netsec/comments/ssdmnv/dropping_files_on_a_domain_controller_using/</id>
+        <link href="https://www.reddit.com/r/netsec/comments/ssdmnv/dropping_files_on_a_domain_controller_using/"/>
+        <updated>2022-02-14T15:45:54.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/chicksdigthelongrun  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>/r/netsec - Information Security News &amp; Discussion</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What are The Red Team and Blue Team in Cyber Security?]]></title>
+        <id>https://medium.com/p/3e9e7f9d78ba</id>
+        <link href="https://medium.com/@TheKomodoconsulting/what-are-the-red-team-and-blue-team-in-cyber-security-3e9e7f9d78ba?source=rss------redteam-5"/>
+        <updated>2022-02-14T15:17:22.000Z</updated>
+        <summary type="html"><![CDATA[The red team comprises offensive security experts that attempt to attack the cybersecurity defenses of an organization. On the other hand…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Komodo Consulting</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Research on Clickjacking & Network Sniffing- Cyber Sapiens Internship Task-14]]></title>
+        <id>https://medium.com/p/627e3fcb2d19</id>
+        <link href="https://sapt.medium.com/research-on-clickjacking-network-sniffing-cyber-sapiens-internship-task-14-627e3fcb2d19?source=rss------bugbounty-5"/>
+        <updated>2022-02-14T14:34:57.000Z</updated>
+        <summary type="html"><![CDATA[Hello guys👋👋 ,Prajit here from the BUG XS Team and Cyber Sapiens United LLP Cybersecurity and Red Team Intern, in this I am regularly…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Prajit Sindhkar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Too Want a Key Collection — OSINT Challenge 15]]></title>
+        <id>https://medium.com/p/ad02214fd02</id>
+        <link href="https://medium.com/@leventd/i-too-want-a-key-collection-osint-challenge-15-ad02214fd02?source=rss------osint-5"/>
+        <updated>2022-02-14T14:33:02.000Z</updated>
+        <summary type="html"><![CDATA[On Jan 20, 2022, Quiztime (contributor @twone2) shared a new OSINT quiz with us. The objective was simple. We had to figure out when the…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Levent Durdalı</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MyloBot 2022 – Analysis of the new version of this evasive botnet that appears to just send extortion emails, but has the potential to do much more.]]></title>
+        <id>https://www.reddit.com/r/netsec/comments/ssbwcp/mylobot_2022_analysis_of_the_new_version_of_this/</id>
+        <link href="https://www.reddit.com/r/netsec/comments/ssbwcp/mylobot_2022_analysis_of_the_new_version_of_this/"/>
+        <updated>2022-02-14T14:27:38.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/woja111  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>/r/netsec - Information Security News &amp; Discussion</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Small Business DFIR Services]]></title>
+        <id>https://www.reddit.com/r/computerforensics/comments/ss9wi2/small_business_dfir_services/</id>
+        <link href="https://www.reddit.com/r/computerforensics/comments/ss9wi2/small_business_dfir_services/"/>
+        <updated>2022-02-14T12:53:09.000Z</updated>
+        <summary type="html"><![CDATA[Hey all, I wanted to discuss something with this community. Recently I got an ask to recommendation DFIR services for a small business (<50 employees) after they were hacked. I started thinking and realized their was not any business I knew of to help small businesses.
+ ​
+ First, if anyone knows of a US-based company for DFIR services I would appreciate a suggestion.
+ ​
+ Second, I do not believe there is any low-cost DFIR company that is meant for small (or medium-sized) business. So, what do you think it would take for these large consulting firms- or even a government service to provide accessible services to any small business that doesn't have the capital to hire the larger cybersecurity or consulting firms? I.e. Create a special LICENSE on open source projects, organize a non for-profit with rotating analysts, pro-bono cyber, etc.
+    submitted by    /u/Jklm264  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Computer Forensics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Persistence – Notepad++ Plugins]]></title>
+        <id>http://pentestlab.blog/?p=30353</id>
+        <link href="https://pentestlab.blog/2022/02/14/persistence-notepad-plugins/"/>
+        <updated>2022-02-14T11:46:00.000Z</updated>
+        <summary type="html"><![CDATA[It is not uncommon a windows environment especially dedicated servers which are managed by developers or IT staff to have installed the Notepad++ text editor.… 
+Continue reading → Persistence – Notepad++ Plugins]]></summary>
+        <author>
+            <name>Administrator</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building a forensics lab - what are must haves? Any templates?]]></title>
+        <id>https://www.reddit.com/r/AskNetsec/comments/ss8okk/building_a_forensics_lab_what_are_must_haves_any/</id>
+        <link href="https://www.reddit.com/r/AskNetsec/comments/ss8okk/building_a_forensics_lab_what_are_must_haves_any/"/>
+        <updated>2022-02-14T11:41:06.000Z</updated>
+        <summary type="html"><![CDATA[We have some spare resources and we're looking to build a dedicated forensics, analysis lab. We have a couple poweredges we can use.
+ The current plan is a segregated environment to clone suspect machines and see how they interact and do whatever analysis is required. I don't really know where to start expect segregating it or having a faux network connection. It seems a lot of people just run labs locally, however we're required to essentially have thin clients. 
+ What have your team built for this? 
+ Any must have tools?
+    submitted by    /u/idnUygelps  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>AskNetsec</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How I did Full Account Takeover (FATO) using forgot password link?]]></title>
+        <id>https://medium.com/p/61b8390b0731</id>
+        <link href="https://a-manonearth.medium.com/how-i-did-full-account-takeover-fato-using-forgot-password-link-61b8390b0731?source=rss------bugbounty-5"/>
+        <updated>2022-02-14T11:32:41.000Z</updated>
+        <summary type="html"><![CDATA[How I was able to takeover admin account by exploiting forgot password functionality.
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Aman Srivastava</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Broken Access Control Overview]]></title>
+        <id>https://medium.com/p/801602f03f00</id>
+        <link href="https://medium.com/@gathereisaac20/broken-access-control-overview-801602f03f00?source=rss------bugbounty-5"/>
+        <updated>2022-02-14T10:57:01.000Z</updated>
+        <summary type="html"><![CDATA[As I was going through web application vulnerabilities during my 100 days of hacking, I came across this interesting topic Broken Access…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Gathereisaac</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BigQuery SQL Injection Cheat Sheet]]></title>
+        <id>https://medium.com/p/65ad70e11eac</id>
+        <link href="https://ozguralp.medium.com/bigquery-sql-injection-cheat-sheet-65ad70e11eac?source=rss------bugbounty-5"/>
+        <updated>2022-02-14T10:12:23.000Z</updated>
+        <summary type="html"><![CDATA[Last year, we (My researcher partner on this topic, Anil and me) and found a SQL injection vulnerability on a target at Synack which was…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Ozgur Alp</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bug Bounty — Bypassing Endpoints]]></title>
+        <id>https://medium.com/p/55254df2cbff</id>
+        <link href="https://aaryanapex.medium.com/bug-bounty-bypassing-endpoints-55254df2cbff?source=rss------bugbounty-5"/>
+        <updated>2022-02-14T09:23:21.000Z</updated>
+        <summary type="html"><![CDATA[Hello there, let’s discuss on how to bypass endpoints. Before moving further, let’s take a quick glance about endpoints.
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Aaryan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FreeBuf早报 | 修订后的《网络安全审查办法》今日施行；知乎称未使用行为感知系统监测员工]]></title>
+        <id>https://www.freebuf.com/news/321836.html</id>
+        <link href="https://www.freebuf.com/news/321836.html"/>
+        <updated>2022-02-14T08:43:36.000Z</updated>
+        <summary type="html"><![CDATA[知乎表示，对于违规收集个人信息安全的行为，本身严重背离知乎价值观，对这类系统我们一向持坚决反对态度。]]></summary>
+        <author>
+            <name>FreeBuf网络安全行业门户</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[超6.02亿美元！2021年勒索软件获得赎金创新高]]></title>
+        <id>https://www.freebuf.com/news/321835.html</id>
+        <link href="https://www.freebuf.com/news/321835.html"/>
+        <updated>2022-02-14T08:32:56.000Z</updated>
+        <summary type="html"><![CDATA[调查显示，2021年全球范围内勒索软件威胁正持续增加。全球的组织、机构在过去一年共支付了超6亿美元的加密货币。]]></summary>
+        <author>
+            <name>FreeBuf网络安全行业门户</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[My First Bounty and How I Got It]]></title>
+        <id>https://medium.com/p/a6dba459c652</id>
+        <link href="https://medium.com/@interc3pt3r/my-first-bounty-and-how-i-got-it-a6dba459c652?source=rss------bugbounty-5"/>
+        <updated>2022-02-14T07:53:20.000Z</updated>
+        <summary type="html"><![CDATA[Hello!! This is my first article, and I really hope you enjoy it! From June 2021, I began looking for issues on the websites.
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Aneesha D</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Javascript Security — Weak Type Bypass]]></title>
+        <id>https://medium.com/p/b3c0895b6e5f</id>
+        <link href="https://mikekitckchan.medium.com/javascript-security-weak-type-bypass-b3c0895b6e5f?source=rss------bugbounty-5"/>
+        <updated>2022-02-14T07:32:09.000Z</updated>
+        <summary type="html"><![CDATA[As you may know, Javascript is a weakly typed language. This features of the language can be used by hackers to bypass some checks within…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>MikeChan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[grave headstones]]></title>
+        <id>https://www.reddit.com/r/opendirectories/comments/ss4scm/grave_headstones/</id>
+        <link href="https://www.reddit.com/r/opendirectories/comments/ss4scm/grave_headstones/"/>
+        <updated>2022-02-14T07:23:29.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/PM_ME_TO_PLAY_A_GAME  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Open Directories</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What are the Open Source Tools Network Scanning Tools?]]></title>
+        <id>https://www.reddit.com/r/AskNetsec/comments/ss4gor/what_are_the_open_source_tools_network_scanning/</id>
+        <link href="https://www.reddit.com/r/AskNetsec/comments/ss4gor/what_are_the_open_source_tools_network_scanning/"/>
+        <updated>2022-02-14T07:02:31.000Z</updated>
+        <summary type="html"><![CDATA[We are a medium size healthcare medical center, maybe 300 nodes. 
+ What are the available open source /free tools I can use to achieve this use case ?
+ Scanner that will say “2 new systems in this". Results should give me the OS version and check if antivirus is installed.
+    submitted by    /u/techno_it  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>AskNetsec</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一份解密的文件披露，中央情报局正秘密搜集美国本土公民信息]]></title>
+        <id>https://www.freebuf.com/news/321804.html</id>
+        <link href="https://www.freebuf.com/news/321804.html"/>
+        <updated>2022-02-14T06:31:10.000Z</updated>
+        <summary type="html"><![CDATA[根据2月10日解密的一份文件，美国中央情报局在未经国会允许的情况下，一直秘密地搜集美国本土公民数据。]]></summary>
+        <author>
+            <name>FreeBuf网络安全行业门户</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using Tomcat Virtual Host Manager]]></title>
+        <id>https://www.reddit.com/r/AskNetsec/comments/ss3f3y/using_tomcat_virtual_host_manager/</id>
+        <link href="https://www.reddit.com/r/AskNetsec/comments/ss3f3y/using_tomcat_virtual_host_manager/"/>
+        <updated>2022-02-14T05:59:37.000Z</updated>
+        <summary type="html"><![CDATA[I found access to Tomcat Virtual Host Manager on Tomcat 9 (not the one that deploys WAR files) which according to docs means the account has the role "admin-gui". I've been asked if I can pivot further using this but I'm completely stuck because I've never used it. All I can use is a form which can "Add Virtual Host" but from my testing (and limited experience with Tomcat) I've run into a halt. Anyone know if this can be used to privesc?
+    submitted by    /u/plutofoxtrot  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>AskNetsec</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intigriti’s February XSS Challenge Walkthrough]]></title>
+        <id>https://medium.com/p/c19938fecc74</id>
+        <link href="https://infosecwriteups.com/extreme-short-scripting-game-intigritis-february-xss-challenge-c19938fecc74?source=rss----7b722bfd1b8d---4"/>
+        <updated>2022-02-14T05:51:42.000Z</updated>
+        <summary type="html"><![CDATA[Today, I will be sharing about my solution on Intigriti’s February XSS Challenge 0222]]></summary>
+        <author>
+            <name>0xEchidonut</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intigriti’s February XSS Challenge Walkthrough]]></title>
+        <id>https://medium.com/p/c19938fecc74</id>
+        <link href="https://infosecwriteups.com/extreme-short-scripting-game-intigritis-february-xss-challenge-c19938fecc74?source=rss----7b722bfd1b8d---4"/>
+        <updated>2022-02-14T05:51:42.000Z</updated>
+        <summary type="html"><![CDATA[Today, I will be sharing about my solution on Intigriti’s February XSS Challenge 0222]]></summary>
+        <author>
+            <name>0xEchidonut</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TryHackMe: Gallery]]></title>
+        <id>https://medium.com/p/25845096170d</id>
+        <link href="https://infosecwriteups.com/thmgallery-25845096170d?source=rss----7b722bfd1b8d---4"/>
+        <updated>2022-02-14T05:42:59.000Z</updated>
+        <summary type="html"><![CDATA[Walkthrough]]></summary>
+        <author>
+            <name>Naman Jain</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TryHackMe: Gallery]]></title>
+        <id>https://medium.com/p/25845096170d</id>
+        <link href="https://infosecwriteups.com/thmgallery-25845096170d?source=rss----7b722bfd1b8d---4"/>
+        <updated>2022-02-14T05:42:59.000Z</updated>
+        <summary type="html"><![CDATA[Walkthrough]]></summary>
+        <author>
+            <name>Naman Jain</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Phishing Emails and Malware Traffic Analysis]]></title>
+        <id>https://medium.com/p/1234f2c1ca12</id>
+        <link href="https://infosecwriteups.com/phishing-emails-and-malware-traffic-analysis-1234f2c1ca12?source=rss----7b722bfd1b8d---4"/>
+        <updated>2022-02-14T05:38:00.000Z</updated>
+        <summary type="html"><![CDATA[In this article, I use NetworkMiner, Wireshark and Hybrid-Analysis to analyze several malicious emails and a PCAP file that captured…]]></summary>
+        <author>
+            <name>Hacktivities</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Phishing Emails and Malware Traffic Analysis]]></title>
+        <id>https://medium.com/p/1234f2c1ca12</id>
+        <link href="https://infosecwriteups.com/phishing-emails-and-malware-traffic-analysis-1234f2c1ca12?source=rss----7b722bfd1b8d---4"/>
+        <updated>2022-02-14T05:38:00.000Z</updated>
+        <summary type="html"><![CDATA[In this article, I use NetworkMiner, Wireshark and Hybrid-Analysis to analyze several malicious emails and a PCAP file that captured…]]></summary>
+        <author>
+            <name>Hacktivities</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Security Awareness — TryHackme]]></title>
+        <id>https://medium.com/p/47c6392d33b</id>
+        <link href="https://infosecwriteups.com/security-awareness-tryhackme-47c6392d33b?source=rss----7b722bfd1b8d---4"/>
+        <updated>2022-02-14T05:37:36.000Z</updated>
+        <summary type="html"><![CDATA[You will understand what is security awareness and the importance of it]]></summary>
+        <author>
+            <name>Mukilan Baskaran</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Security Awareness — TryHackme]]></title>
+        <id>https://medium.com/p/47c6392d33b</id>
+        <link href="https://infosecwriteups.com/security-awareness-tryhackme-47c6392d33b?source=rss----7b722bfd1b8d---4"/>
+        <updated>2022-02-14T05:37:36.000Z</updated>
+        <summary type="html"><![CDATA[You will understand what is security awareness and the importance of it]]></summary>
+        <author>
+            <name>Mukilan Baskaran</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LastPass free account with yubikey?]]></title>
+        <id>https://www.reddit.com/r/AskNetsec/comments/ss31im/lastpass_free_account_with_yubikey/</id>
+        <link href="https://www.reddit.com/r/AskNetsec/comments/ss31im/lastpass_free_account_with_yubikey/"/>
+        <updated>2022-02-14T05:37:13.000Z</updated>
+        <summary type="html"><![CDATA[Lastpass free account by default doesn't support Yubikey. But lastpass support Google auth. 
+ In theory, they are all compatible because of the same protocol. Can I just set select "Google Auth." then go ahead and use my Yubico auth. app? Thanks.
+ Anyone has experience?
+    submitted by    /u/mk_life  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>AskNetsec</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Day 23 Cross-Site Scripting - Part 2#100DaysofHacking]]></title>
+        <id>https://medium.com/p/de0013042470</id>
+        <link href="https://infosecwriteups.com/day-23-hunting-for-xss-100daysofhacking-de0013042470?source=rss----7b722bfd1b8d---4"/>
+        <updated>2022-02-14T05:36:39.000Z</updated>
+        <summary type="html"><![CDATA[Get all the writeups from Day 1 to 21, Click Here Or Click Here.]]></summary>
+        <author>
+            <name>Ayush Verma</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Day 23 Cross-Site Scripting - Part 2#100DaysofHacking]]></title>
+        <id>https://medium.com/p/de0013042470</id>
+        <link href="https://infosecwriteups.com/day-23-hunting-for-xss-100daysofhacking-de0013042470?source=rss----7b722bfd1b8d---4"/>
+        <updated>2022-02-14T05:36:39.000Z</updated>
+        <summary type="html"><![CDATA[Get all the writeups from Day 1 to 21, Click Here Or Click Here.]]></summary>
+        <author>
+            <name>Ayush Verma</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hacking AWS Cognito Misconfiguration to Zero Click Account Takeover]]></title>
+        <id>https://medium.com/p/36a209a0bd8a</id>
+        <link href="https://infosecwriteups.com/hacking-aws-cognito-misconfiguration-to-zero-click-account-takeover-36a209a0bd8a?source=rss----7b722bfd1b8d---4"/>
+        <updated>2022-02-14T05:35:18.000Z</updated>
+        <summary type="html"><![CDATA[Hi all, hope you are keeping well and staying safe. This blog is about my recent Account Takeover finding.
+Continue reading on InfoSec Write-ups »]]></summary>
+        <author>
+            <name>Preetham Bomma</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hacking AWS Cognito Misconfiguration to Zero Click Account Takeover]]></title>
+        <id>https://medium.com/p/36a209a0bd8a</id>
+        <link href="https://infosecwriteups.com/hacking-aws-cognito-misconfiguration-to-zero-click-account-takeover-36a209a0bd8a?source=rss----7b722bfd1b8d---4"/>
+        <updated>2022-02-14T05:35:18.000Z</updated>
+        <summary type="html"><![CDATA[Hi all, hope you are keeping well and staying safe. This blog is about my recent Account Takeover finding.
+Continue reading on InfoSec Write-ups »]]></summary>
+        <author>
+            <name>Preetham Bomma</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cyborg | TryHackMe Walkthrough]]></title>
+        <id>https://medium.com/p/3bb0ce989f85</id>
+        <link href="https://infosecwriteups.com/cyborg-tryhackme-walkthrough-3bb0ce989f85?source=rss----7b722bfd1b8d---4"/>
+        <updated>2022-02-14T05:33:00.000Z</updated>
+        <summary type="html"><![CDATA[Hack the backup file]]></summary>
+        <author>
+            <name>Febi Mudiyanto</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cyborg | TryHackMe Walkthrough]]></title>
+        <id>https://medium.com/p/3bb0ce989f85</id>
+        <link href="https://infosecwriteups.com/cyborg-tryhackme-walkthrough-3bb0ce989f85?source=rss----7b722bfd1b8d---4"/>
+        <updated>2022-02-14T05:33:00.000Z</updated>
+        <summary type="html"><![CDATA[Hack the backup file]]></summary>
+        <author>
+            <name>Febi Mudiyanto</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Day 8] Special by John Hammond Santa’s Bag of Toys | Advent of Cyber 3 (2021)]]></title>
+        <id>https://medium.com/p/8b9a04895096</id>
+        <link href="https://infosecwriteups.com/day-8-special-by-john-hammond-santas-bag-of-toys-advent-of-cyber-3-2021-8b9a04895096?source=rss----7b722bfd1b8d---4"/>
+        <updated>2022-02-14T05:27:06.000Z</updated>
+        <summary type="html"><![CDATA[We will be learn about a little bit of Forensics Analysis in Windows.]]></summary>
+        <author>
+            <name>Febi Mudiyanto</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Day 8] Special by John Hammond Santa’s Bag of Toys | Advent of Cyber 3 (2021)]]></title>
+        <id>https://medium.com/p/8b9a04895096</id>
+        <link href="https://infosecwriteups.com/day-8-special-by-john-hammond-santas-bag-of-toys-advent-of-cyber-3-2021-8b9a04895096?source=rss----7b722bfd1b8d---4"/>
+        <updated>2022-02-14T05:27:06.000Z</updated>
+        <summary type="html"><![CDATA[We will be learn about a little bit of Forensics Analysis in Windows.]]></summary>
+        <author>
+            <name>Febi Mudiyanto</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Install Invisible Malicious Apps Remotely, Acting As Updates]]></title>
+        <id>https://medium.com/p/71178979ff13</id>
+        <link href="https://infosecwriteups.com/install-invisible-malicious-apps-remotely-acting-as-updates-71178979ff13?source=rss----7b722bfd1b8d---4"/>
+        <updated>2022-02-14T05:24:37.000Z</updated>
+        <summary type="html"><![CDATA[Use Flickr app to install malicious apps remotely acting as updates.
+Continue reading on InfoSec Write-ups »]]></summary>
+        <author>
+            <name>c0d3x27</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Install Invisible Malicious Apps Remotely, Acting As Updates]]></title>
+        <id>https://medium.com/p/71178979ff13</id>
+        <link href="https://infosecwriteups.com/install-invisible-malicious-apps-remotely-acting-as-updates-71178979ff13?source=rss----7b722bfd1b8d---4"/>
+        <updated>2022-02-14T05:24:37.000Z</updated>
+        <summary type="html"><![CDATA[Use Flickr app to install malicious apps remotely acting as updates.
+Continue reading on InfoSec Write-ups »]]></summary>
+        <author>
+            <name>c0d3x27</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Find Your Data In Web With Pimeyes And Other Reverse Tools]]></title>
+        <id>https://medium.com/p/8b5798ea9b43</id>
+        <link href="https://cryptospector.medium.com/how-to-find-your-data-in-web-with-pimeyes-and-other-reverse-tools-8b5798ea9b43?source=rss------osint-5"/>
+        <updated>2022-02-14T05:20:50.000Z</updated>
+        <summary type="html"><![CDATA[Reverse Image Search is a web-based tool for finding identical and similar images related to the image you are looking for. Marketers can…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Fred J Dreward</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple 修复了新的“零日”漏洞]]></title>
+        <id>https://www.freebuf.com/news/321795.html</id>
+        <link href="https://www.freebuf.com/news/321795.html"/>
+        <updated>2022-02-14T05:17:19.000Z</updated>
+        <summary type="html"><![CDATA[苹果公司已经成功修复一个新的WebKit零日漏洞。]]></summary>
+        <author>
+            <name>FreeBuf网络安全行业门户</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CVE-2021-23567]]></title>
+        <id>https://news.ycombinator.com/item?id=30328625</id>
+        <link href="https://nvd.nist.gov/vuln/detail/CVE-2021-23567"/>
+        <updated>2022-02-14T05:15:56.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://nvd.nist.gov/vuln/detail/CVE-2021-23567
+Comments URL: https://news.ycombinator.com/item?id=30328625
+Points: 4
+# Comments: 4]]></summary>
+        <author>
+            <name>soheilpro</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cams at an Asian hog farm]]></title>
+        <id>https://www.reddit.com/r/opendirectories/comments/ss2hrt/cams_at_an_asian_hog_farm/</id>
+        <link href="https://www.reddit.com/r/opendirectories/comments/ss2hrt/cams_at_an_asian_hog_farm/"/>
+        <updated>2022-02-14T05:05:55.000Z</updated>
+        <summary type="html"><![CDATA[http://27.156.152.250:8889/
+ If you're lucky you'll see the grumpy old farmer. Warning, possibly some dead animals and cruelty. -edit
+    submitted by    /u/inoculatemedia  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Open Directories</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2021年全球一半的电子邮件是垃圾邮件]]></title>
+        <id>https://www.freebuf.com/articles/321787.html</id>
+        <link href="https://www.freebuf.com/articles/321787.html"/>
+        <updated>2022-02-14T03:29:54.000Z</updated>
+        <summary type="html"><![CDATA[根据卡巴斯基的最新报告，去年超过一半的邮件是垃圾邮件]]></summary>
+        <author>
+            <name>FreeBuf网络安全行业门户</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[喜茶安全部门全部被裁，元芳你怎么看？]]></title>
+        <id>https://www.freebuf.com/news/321781.html</id>
+        <link href="https://www.freebuf.com/news/321781.html"/>
+        <updated>2022-02-14T02:03:18.000Z</updated>
+        <summary type="html"><![CDATA[安全部门是如此不受重视，当企业经营出现问题时，几乎是第一个被裁掉，以此降低企业经营成本。]]></summary>
+        <author>
+            <name>FreeBuf网络安全行业门户</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How I Hacked A Reputed Hacker]]></title>
         <id>https://www.reddit.com/r/redteamsec/comments/srx9d9/how_i_hacked_a_reputed_hacker/</id>
@@ -219,6 +1145,16 @@ Continue reading on Medium »]]></summary>
 Continue reading on Medium »]]></summary>
         <author>
             <name>Aditya Nama</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CTF中PHP相关题目考点总结（上）]]></title>
+        <id>https://www.freebuf.com/articles/web/321768.html</id>
+        <link href="https://www.freebuf.com/articles/web/321768.html"/>
+        <updated>2022-02-13T13:33:01.000Z</updated>
+        <summary type="html"><![CDATA[本文总结了ctfshow题目中遇到的关于PHP的考点。]]></summary>
+        <author>
+            <name>FreeBuf网络安全行业门户</name>
         </author>
     </entry>
     <entry>
@@ -618,6 +1554,16 @@ Continue reading on Medium »]]></summary>
  [link]   [comments]]]></summary>
         <author>
             <name>Computer Forensics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NodeJS堆溢出？原因是默认设限了内存上限。解除封印！]]></title>
+        <id>https://www.freebuf.com/articles/web/321749.html</id>
+        <link href="https://www.freebuf.com/articles/web/321749.html"/>
+        <updated>2022-02-12T02:52:20.000Z</updated>
+        <summary type="html"><![CDATA[使用NodeJS开发的应用，如果需要处理大量数据，可能导致堆溢出。错误提示中，会有“JavaScript heap out of memory”。]]></summary>
+        <author>
+            <name>FreeBuf网络安全行业门户</name>
         </author>
     </entry>
     <entry>
@@ -1371,6 +2317,17 @@ On call rotation for urgent production issues during weekends and holidays
  [link]   [comments]]]></summary>
         <author>
             <name>Computer Forensics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to crack RSA-512 on off-the-shelf hardware in 4 days]]></title>
+        <id>https://www.reddit.com/r/netsec/comments/spkdw3/how_to_crack_rsa512_on_offtheshelf_hardware_in_4/</id>
+        <link href="https://www.reddit.com/r/netsec/comments/spkdw3/how_to_crack_rsa512_on_offtheshelf_hardware_in_4/"/>
+        <updated>2022-02-10T23:53:20.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/ScottContini  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>/r/netsec - Information Security News &amp; Discussion</name>
         </author>
     </entry>
     <entry>
