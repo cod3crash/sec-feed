@@ -2,10 +2,711 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cod3crash.github.io/sec-feed/index.html</id>
     <title>security feed</title>
-    <updated>2022-02-15T01:16:18.858Z</updated>
+    <updated>2022-02-16T01:12:32.841Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://cod3crash.github.io/sec-feed/index.html"/>
     <link rel="self" href="https://cod3crash.github.io/sec-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Book recommendations]]></title>
+        <id>https://www.reddit.com/r/AskNetsec/comments/sti15v/book_recommendations/</id>
+        <link href="https://www.reddit.com/r/AskNetsec/comments/sti15v/book_recommendations/"/>
+        <updated>2022-02-16T00:31:29.000Z</updated>
+        <summary type="html"><![CDATA[Looking for some good books to study up on foundational Network Concepts and maybe some stuff that could help me prepare for Network+
+    submitted by    /u/Wintermane45  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>AskNetsec</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why would a civilian private network be using an public IP range internally for device assignments (military netblock at that)?]]></title>
+        <id>https://www.reddit.com/r/AskNetsec/comments/stgkpa/why_would_a_civilian_private_network_be_using_an/</id>
+        <link href="https://www.reddit.com/r/AskNetsec/comments/stgkpa/why_would_a_civilian_private_network_be_using_an/"/>
+        <updated>2022-02-15T23:24:44.000Z</updated>
+        <summary type="html"><![CDATA[I was visiting a popular big box store today and was looking at one of their WiFi printers and saw this:
+ https://imgur.com/a/fTZ1Emc
+ Any idea why they are using a public ip range instead of something internal like 192, 172, 10 etc for IP assignments? The netblock according to ARIN belongs to the DoD (https://whois.domaintools.com/7.117.1.1)
+ Just to make sure it wasn't a fluke, I also looked at another device on their network which also had a 7.117 IP.
+ I just thought it was very strange.
+ Any ideas?
+    submitted by    /u/LyleTillman  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>AskNetsec</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ImmuneFi Bug Bounty Launched!]]></title>
+        <id>https://medium.com/p/ecf1c35ff4e7</id>
+        <link href="https://medium.com/oct-network/immunefi-bug-bounty-launched-ecf1c35ff4e7?source=rss------bugbounty-5"/>
+        <updated>2022-02-15T22:24:37.000Z</updated>
+        <summary type="html"><![CDATA[Octopus Network is a brand new multichain network born to serve application-specific blockchains, aka appchains. Octopus Network provides…
+Continue reading on Octopus Network »]]></summary>
+        <author>
+            <name>Sheldon Dearr</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What's the Biggest Turn Off in Regards to Offensive Frameworks?]]></title>
+        <id>https://www.reddit.com/r/AskNetsec/comments/stegqg/whats_the_biggest_turn_off_in_regards_to/</id>
+        <link href="https://www.reddit.com/r/AskNetsec/comments/stegqg/whats_the_biggest_turn_off_in_regards_to/"/>
+        <updated>2022-02-15T21:54:01.000Z</updated>
+        <summary type="html"><![CDATA[I'm referring to software such is Metasploit, CobaltStrike, Armitage, Ramcos, etc....
+    submitted by    /u/Blagojee  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>AskNetsec</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A technique to semi-automatically discover new vulnerabilities in WordPress plugins]]></title>
+        <id>https://www.reddit.com/r/netsec/comments/stdwtw/a_technique_to_semiautomatically_discover_new/</id>
+        <link href="https://www.reddit.com/r/netsec/comments/stdwtw/a_technique_to_semiautomatically_discover_new/"/>
+        <updated>2022-02-15T21:29:59.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/kazetkazet  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>/r/netsec - Information Security News &amp; Discussion</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Yet another enumeration of subdomains with statistics]]></title>
+        <id>https://medium.com/p/4953a5a4754f</id>
+        <link href="https://medium.com/@zzzteph/yet-another-enumeration-of-subdomains-with-statistic-4953a5a4754f?source=rss------bugbounty-5"/>
+        <updated>2022-02-15T21:29:06.000Z</updated>
+        <summary type="html"><![CDATA[Or how to collect million of bugbounty subdomains in order to make a few wordlists.
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>zzzteph</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Burp Suite certificate question]]></title>
+        <id>https://www.reddit.com/r/AskNetsec/comments/stchyn/burp_suite_certificate_question/</id>
+        <link href="https://www.reddit.com/r/AskNetsec/comments/stchyn/burp_suite_certificate_question/"/>
+        <updated>2022-02-15T20:28:37.000Z</updated>
+        <summary type="html"><![CDATA[I was wondering if anyone has recently done their burp suite practioner exam cert recently and how relatable it is to their practice test? Is burp suite pro REALLY necessary for the test? 
+ Just curious because it's for work and I don't want to pay for pro to not use it. My work has boxes setup with pro so my personal liscense won't be utilized except for the test.
+    submitted by    /u/phishingsudo  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>AskNetsec</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Is it possible to route ALL traffic from an idevice through a VPN?]]></title>
+        <id>https://www.reddit.com/r/AskNetsec/comments/stbz6y/is_it_possible_to_route_all_traffic_from_an/</id>
+        <link href="https://www.reddit.com/r/AskNetsec/comments/stbz6y/is_it_possible_to_route_all_traffic_from_an/"/>
+        <updated>2022-02-15T20:05:38.000Z</updated>
+        <summary type="html"><![CDATA[I'm somewhat new to idevice admin, so please excuse any ignorance.
+ Is it possible to route literally ALL packets from an iPhone through a VPN? We're trying to get some stuff set up and we implemented a VPN by way of a user-installable app. Unfortunately it seems that on iOS there are a lot of connections that bypass this. For example when first connected to a wifi network the iPhone spams a flurry of connections to Apple's servers which don't go through the VPN. I've confirmed this by creating an "evil" wifi network that supports ipv4 only and blocks any connections to the 17.x.x.x range (which is wholly owned and operated by Apple), and even with the VPN active the logs show hundreds of connection attempts persistently. If I also block all Apple domains then half the stuff on the phone no longer works. App-based connections are routed correctly (Safari, etc), but the phone completely ignores the VPN for both DNS lookups and the connections themselves when it comes to system stuff and I'm not sure why.
+ From my research it seems that maybe we need to ditch the app idea and instead implement an "always on" VPN by way of a mobileconfig file. This appears to require the iPhones to be supervised through MDM, which isn't a problem. I've taken a test phone, wiped and supervised it, but I'm having trouble figuring out how to create a mobileconfig that does what we want. Before I burn too many hours messing with this I'm wondering if anyone can help with the following two questions:
+  
+Will an "always on" VPN on an iPhone actually route ALL packets through the VPN (including the system level phone-home initialization stuff, DNS lookups, ntp, etc) or is this not even the right approach?
+ 
+Assuming (1) is the correct approach, can someone point me to an example mobileconfig file that implements this so I can look at the structure and have a better idea of what I'm doing?
+ 
+    submitted by    /u/sneakertech  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>AskNetsec</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GoIP-1 GSM gateway could be harnessed for phone fraud by hackers]]></title>
+        <id>https://www.reddit.com/r/netsec/comments/stbg5k/goip1_gsm_gateway_could_be_harnessed_for_phone/</id>
+        <link href="https://www.reddit.com/r/netsec/comments/stbg5k/goip1_gsm_gateway_could_be_harnessed_for_phone/"/>
+        <updated>2022-02-15T19:43:34.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/ValtteriLe  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>/r/netsec - Information Security News &amp; Discussion</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Do you want to start your career in Cyber Security — Read This .]]></title>
+        <id>https://medium.com/p/c40c4b3a25e5</id>
+        <link href="https://a-rshukla.medium.com/do-you-want-to-start-your-career-in-cyber-security-read-this-c40c4b3a25e5?source=rss------bugbounty-5"/>
+        <updated>2022-02-15T19:23:45.000Z</updated>
+        <summary type="html"><![CDATA[Cyber Security - Learn hack Secure.
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>A.R shukla</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dependabot alternative for Clojure]]></title>
+        <id>https://www.reddit.com/r/netsec/comments/stawuv/dependabot_alternative_for_clojure/</id>
+        <link href="https://www.reddit.com/r/netsec/comments/stawuv/dependabot_alternative_for_clojure/"/>
+        <updated>2022-02-15T19:20:42.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/mthbernardes  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>/r/netsec - Information Security News &amp; Discussion</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Horizontall HackTheBox Walkthrough]]></title>
+        <id>https://www.hackingarticles.in/?p=27768</id>
+        <link href="https://www.hackingarticles.in/horizontall-hackthebox-walkthrough/"/>
+        <updated>2022-02-15T19:09:31.000Z</updated>
+        <summary type="html"><![CDATA[Introduction Horizontall is an “easy” rated CTF Linux box on Hack The Box platform. The box covers initial compromise by exploiting Strapi RCE vulnerability and
+The post Horizontall HackTheBox Walkthrough appeared first on Hacking Articles.]]></summary>
+        <author>
+            <name>Raj Chandel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What are my options for an encrypted bootable flash drive containing 2 Linux OS, selection of which would be done by password alone at the bootloader / pre-boot stage.]]></title>
+        <id>https://www.reddit.com/r/AskNetsec/comments/st988e/what_are_my_options_for_an_encrypted_bootable/</id>
+        <link href="https://www.reddit.com/r/AskNetsec/comments/st988e/what_are_my_options_for_an_encrypted_bootable/"/>
+        <updated>2022-02-15T18:09:58.000Z</updated>
+        <summary type="html"><![CDATA[I want an encrypted bootable flash drive which contains 2 LINUX OS.
+ The existence of either OS should be impossible to determine without a password.
+ The flash drive should boot to a BOOTLOADER password prompt. 
+ Entering a wrong password should do nothing
+ Entering password A should boot OS A
+ Entering password B should boot OS B
+ After boot of A, it should not be possible to prove the existence of B
+ After boot of B, it should not be possible to prove the existence of A
+ (i.e. if, by booting one of the OS, it is then possible to see that half the flash drive is 'unallocated' then we have probably failed our task)
+ You're already thinking 'plausible deniability' is the phrase im looking for. Yes you're right - thats exactly what I want. I want what Veracrypt can do, but I want it for Linux, not Windows. 
+ Is it possible? I've looked at LUKS, but I dont see that it can do what I want.
+ Thanks for any suggestions.
+    submitted by    /u/boli99  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>AskNetsec</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[100 Days of Hacking — Day 10]]></title>
+        <id>https://medium.com/p/486dcbcc3233</id>
+        <link href="https://astroboy73.medium.com/100-days-of-hacking-day-10-486dcbcc3233?source=rss------bugbounty-5"/>
+        <updated>2022-02-15T17:44:43.000Z</updated>
+        <summary type="html"><![CDATA[What’s up guys it’s the 10th day of #100DaysofHacking. 10% of the goal is achieved let’s go through today’s objectives and report
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Balaji Anbalagan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bug Bounty Stress aka Burnout: do and don’t]]></title>
+        <id>https://medium.com/p/86da71dec93f</id>
+        <link href="https://medium.com/@0xabsiddique/bug-bounty-stress-aka-burnout-do-and-dont-86da71dec93f?source=rss------bugbounty-5"/>
+        <updated>2022-02-15T17:25:19.000Z</updated>
+        <summary type="html"><![CDATA[Don’t stress yourself too much!
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>0xabsiddique</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Rewards Indian Techie With $8.7M in vulnerability rewards]]></title>
+        <id>https://news.ycombinator.com/item?id=30349459</id>
+        <link href="https://www.indiatimes.com/technology/news/google-thanks-indian-researcher-android-chrome-bug-561975.html"/>
+        <updated>2022-02-15T17:20:31.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.indiatimes.com/technology/news/google-thanks-indian-researcher-android-chrome-bug-561975.html
+Comments URL: https://news.ycombinator.com/item?id=30349459
+Points: 9
+# Comments: 1]]></summary>
+        <author>
+            <name>TriNetra</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CVE-2021-44521 – Exploiting Apache Cassandra User-Defined Functions for Remote Code Execution]]></title>
+        <id>https://www.reddit.com/r/netsec/comments/st7zs6/cve202144521_exploiting_apache_cassandra/</id>
+        <link href="https://www.reddit.com/r/netsec/comments/st7zs6/cve202144521_exploiting_apache_cassandra/"/>
+        <updated>2022-02-15T17:17:05.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/SRMish3  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>/r/netsec - Information Security News &amp; Discussion</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A CLI SAST (Static application security testing) tool which was built with the intent of finding vulnerable Clojure code via rules that use a simple pattern language.]]></title>
+        <id>https://www.reddit.com/r/netsec/comments/st7yuh/a_cli_sast_static_application_security_testing/</id>
+        <link href="https://www.reddit.com/r/netsec/comments/st7yuh/a_cli_sast_static_application_security_testing/"/>
+        <updated>2022-02-15T17:15:51.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/mthbernardes  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>/r/netsec - Information Security News &amp; Discussion</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An OSINT Path — In TryHackMe]]></title>
+        <id>https://medium.com/p/89eaa7d5704c</id>
+        <link href="https://ryn0f1sh.medium.com/an-osint-path-in-tryhackme-89eaa7d5704c?source=rss------osint-5"/>
+        <updated>2022-02-15T17:00:03.000Z</updated>
+        <summary type="html"><![CDATA[Hello Friends,
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>[ ryn0f1sh ]</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Honeypot — Seoul, South Korea (Threat Analysis)]]></title>
+        <id>https://medium.com/p/efa4e3c37be9</id>
+        <link href="https://medium.com/@Squiby/honeypot-seoul-south-korea-threat-analysis-efa4e3c37be9?source=rss------osint-5"/>
+        <updated>2022-02-15T16:48:38.000Z</updated>
+        <summary type="html"><![CDATA[안녕하세요!
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>William Watler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SecWiki News 2022-02-15 Review]]></title>
+        <id>http://www.sec-wiki.com/?2022-02-15</id>
+        <link href="http://www.sec-wiki.com/?2022-02-15"/>
+        <updated>2022-02-15T15:58:20.000Z</updated>
+        <summary type="html"><![CDATA[终极Java反序列化Payload缩小技术  by ourren
+求解网络安全问题的可解释机器学习   by ourren
+从一例 Pegasus 误报说开去  by Avenger
+绕过污点分析的一些思考  by ourren
+2021网络金融黑产研究报告  by ourren
+更多最新文章，请访问SecWiki]]></summary>
+        <author>
+            <name>SecWiki News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Question: Different imaging tools for acquisition]]></title>
+        <id>https://www.reddit.com/r/computerforensics/comments/st589c/question_different_imaging_tools_for_acquisition/</id>
+        <link href="https://www.reddit.com/r/computerforensics/comments/st589c/question_different_imaging_tools_for_acquisition/"/>
+        <updated>2022-02-15T15:17:30.000Z</updated>
+        <summary type="html"><![CDATA[I'm very new to computer forensics. Right now I'm exploring different data acquisition tools.
+ I tried to image a usb device using FTK Imager (on a Windows system) and dd from the SIFT workstation (linux).
+ I noticed that: 1. These two imaging tools provide image data of different sizes. 2. FTK automatically verifies the hash of the device and the image - both hashes were the same. 3. For the dd image, I verified it by myself and they were the same. 
+ I have few questions: 1. Why is the hash of the same device different on FTK (running on windows) and when checking on the SIFT Workstation (linux) ? 2. If different tools provide different images, do analysts use a combination of multiple tools? 3. I read about write blockers, I did not use one while imaging, could the difference be because of this?
+ I'd be grateful if you could help me understand more about this process by answering my questions or sharing more resources that I could use. Thanks!
+    submitted by    /u/nybble04  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Computer Forensics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Overview of autopsy data artifacts, analysis results, and reporting. Part 2 of the autopsy series. nmap usage investigation as a case study.]]></title>
+        <id>https://www.reddit.com/r/computerforensics/comments/st4pwf/overview_of_autopsy_data_artifacts_analysis/</id>
+        <link href="https://www.reddit.com/r/computerforensics/comments/st4pwf/overview_of_autopsy_data_artifacts_analysis/"/>
+        <updated>2022-02-15T14:55:00.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/DFIRScience  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Computer Forensics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TryHackMe Sakura Room CTF Write-Up]]></title>
+        <id>https://medium.com/p/47994b800e64</id>
+        <link href="https://medium.com/@leventd/tryhackme-sakura-room-ctf-write-up-47994b800e64?source=rss------osint-5"/>
+        <updated>2022-02-15T14:33:18.000Z</updated>
+        <summary type="html"><![CDATA[My wired, unexplainable urge to get OSINT Dojo's Student Rank Badge has led me to this CTF, and now that I'm here, I realize that I can…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Levent Durdalı</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HigherLogic RCE In _VSTATE .NET]]></title>
+        <id>https://medium.com/p/bcbbb88dfe72</id>
+        <link href="https://medium.com/@jr.mayank1999/higherlogic-rce-in-vstate-net-bcbbb88dfe72?source=rss------bugbounty-5"/>
+        <updated>2022-02-15T14:26:40.000Z</updated>
+        <summary type="html"><![CDATA[Remote code execution (RCE) is a class of software security flaws/vulnerabilities. RCE vulnerabilities will allow a malicious actor to…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Un9nplayer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hacktoria: Geolocation 13 (Walkthrough)]]></title>
+        <id>https://medium.com/p/783593df9829</id>
+        <link href="https://medium.com/@m4d0u1/hacktoria-geolocation-13-walkthrough-783593df9829?source=rss------osint-5"/>
+        <updated>2022-02-15T14:22:49.000Z</updated>
+        <summary type="html"><![CDATA[Hacktoria: Geolocation 13 (Walkthrough)
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>M4d0u1</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PORTSWIGGER WEB SECURITY - FILE UPLOAD LAB ÇÖZÜMLERİ]]></title>
+        <id>https://medium.com/p/be48de3d0657</id>
+        <link href="https://ariarif.medium.com/portswigger-web-security-file-upload-lab-%C3%A7%C3%B6z%C3%BCmleri%CC%87-be48de3d0657?source=rss------bugbounty-5"/>
+        <updated>2022-02-15T13:42:48.000Z</updated>
+        <summary type="html"><![CDATA[File Upload (Dosya Yükleme), kullanıcının bir web sunucusuna dosya yüklemesine denir. Web sayfaları kullanıcıdan dosya yüklemesi için…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Arif ARI</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jax.Money testing: rewards up to $20,000 and more!]]></title>
+        <id>https://medium.com/p/6266a3d26eca</id>
+        <link href="https://medium.com/jax-network/jax-money-testing-rewards-up-to-20-000-and-more-6266a3d26eca?source=rss------bugbounty-5"/>
+        <updated>2022-02-15T13:37:16.000Z</updated>
+        <summary type="html"><![CDATA[by Ramyata Rao, Digital Marketing Manager at Jax.Network
+Continue reading on Jax.Network Blog »]]></summary>
+        <author>
+            <name>Jax.Network</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​​How Did I Start Doing Bug Bounty?]]></title>
+        <id>https://medium.com/p/c4374b2d98af</id>
+        <link href="https://medium.com/@skavans_/how-did-i-start-doing-bug-bounty-c4374b2d98af?source=rss------bugbounty-5"/>
+        <updated>2022-02-15T12:45:21.000Z</updated>
+        <summary type="html"><![CDATA[Since school, I have been reading Hacker (the Russian offensive security magazine) when I had the opportunity to buy it (then it was still…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Anton Subbotin (skavans)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bug Bounty: Low Hanging Fruit]]></title>
+        <id>https://medium.com/p/4ba92ec46f02</id>
+        <link href="https://medium.com/@skavans_/bug-bounty-low-hanging-fruit-4ba92ec46f02?source=rss------bugbounty-5"/>
+        <updated>2022-02-15T12:41:27.000Z</updated>
+        <summary type="html"><![CDATA[Low-hanging fruit are bugs that are very easy to find. I would divide them into 2 more types.
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Anton Subbotin (skavans)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[merOS-virt - Build and Interact with a Set of Virtual Machines.]]></title>
+        <id>https://www.reddit.com/r/netsec/comments/st0v3o/merosvirt_build_and_interact_with_a_set_of/</id>
+        <link href="https://www.reddit.com/r/netsec/comments/st0v3o/merosvirt_build_and_interact_with_a_set_of/"/>
+        <updated>2022-02-15T11:28:56.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/AranAilbhe  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>/r/netsec - Information Security News &amp; Discussion</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Advisory: Western Digital My Cloud Pro Series PR4100 RCE]]></title>
+        <id>https://www.reddit.com/r/netsec/comments/st0oxk/advisory_western_digital_my_cloud_pro_series/</id>
+        <link href="https://www.reddit.com/r/netsec/comments/st0oxk/advisory_western_digital_my_cloud_pro_series/"/>
+        <updated>2022-02-15T11:17:25.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/g_e_r_h_a_r_d  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>/r/netsec - Information Security News &amp; Discussion</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cross-origin resource sharing]]></title>
+        <id>https://hackerone.com/reports/1478449</id>
+        <link href="https://hackerone.com/reports/1478449"/>
+        <updated>2022-02-15T10:37:43.000Z</updated>
+        <summary type="html"><![CDATA[Showmax disclosed a bug submitted by qualin: https://hackerone.com/reports/1478449 - Bounty: $50]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FreeBuf早报 | 美国关基组织又遭勒索软件入侵；欧洲央行要求各银行加强网络防御]]></title>
+        <id>https://www.freebuf.com/news/321966.html</id>
+        <link href="https://www.freebuf.com/news/321966.html"/>
+        <updated>2022-02-15T10:32:39.000Z</updated>
+        <summary type="html"><![CDATA[在乌克兰危机加剧之际，欧洲央行警告各银行可能受到与俄罗斯有关的网络攻击，要求各银行加强网络防御。]]></summary>
+        <author>
+            <name>FreeBuf网络安全行业门户</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国一公司暴露了 700 万用户数据]]></title>
+        <id>https://www.freebuf.com/news/321955.html</id>
+        <link href="https://www.freebuf.com/news/321955.html"/>
+        <updated>2022-02-15T09:23:26.000Z</updated>
+        <summary type="html"><![CDATA[一个存在安全风险的Amazon S3存储桶中，包含约700万人的个人数据信息。]]></summary>
+        <author>
+            <name>FreeBuf网络安全行业门户</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iCloud forensics]]></title>
+        <id>https://www.reddit.com/r/computerforensics/comments/ssynoh/icloud_forensics/</id>
+        <link href="https://www.reddit.com/r/computerforensics/comments/ssynoh/icloud_forensics/"/>
+        <updated>2022-02-15T08:58:19.000Z</updated>
+        <summary type="html"><![CDATA[Anyone has any experience recovering permanently deleted iCloud data using Cellebrite? Or any other forensic tools ?
+    submitted by    /u/Techn0prince  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Computer Forensics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[体育品牌美津浓遭勒索软件攻击致订单延期]]></title>
+        <id>https://www.freebuf.com/news/321945.html</id>
+        <link href="https://www.freebuf.com/news/321945.html"/>
+        <updated>2022-02-15T08:41:45.000Z</updated>
+        <summary type="html"><![CDATA[运动设备与服装品牌美津浓(Mizuno)在2月4日遭受了一次勒索软件攻击。这次攻击严重地导致公司业务中断。]]></summary>
+        <author>
+            <name>FreeBuf网络安全行业门户</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ENCE Certification]]></title>
+        <id>https://www.reddit.com/r/computerforensics/comments/ssy4k0/ence_certification/</id>
+        <link href="https://www.reddit.com/r/computerforensics/comments/ssy4k0/ence_certification/"/>
+        <updated>2022-02-15T08:21:19.000Z</updated>
+        <summary type="html"><![CDATA[Hi all,
+ My Ence cert is up in April 22 and I would like to maintain accreditation. Unfortunately my role has a focus towards E-Discovery and not so much digital forensics so I may struggle to get aid from my employer re training and financing. Anyone have experience renewing? Are there any requirements for renewal? As I am likely having to purchase the training myself I don't want the training to be too expensive (particularly as it's not a skill I use day to day). I would likely benefit the most from Cellebrite or AXIOM training. 
+ TIA
+    submitted by    /u/Genzlol  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Computer Forensics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pretty decent collection of movies that is well organized (as well as software and other stuff)]]></title>
+        <id>https://www.reddit.com/r/opendirectories/comments/ssxn8t/pretty_decent_collection_of_movies_that_is_well/</id>
+        <link href="https://www.reddit.com/r/opendirectories/comments/ssxn8t/pretty_decent_collection_of_movies_that_is_well/"/>
+        <updated>2022-02-15T07:50:06.000Z</updated>
+        <summary type="html"><![CDATA[​
+ http://162.12.215.254/Data/
+ I was looking for the movies and the English ones are mostly good quality, and without any burned in subs or forced dual languages. 
+ ​
+ Sorry if repost. 
+ Found searching, "English" in search box with "video" in ['filegroup or ext'] box on eyedex.org
+    submitted by    /u/Rest-in-Peep  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Open Directories</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[When sharing a Deck card in conversation the metaData can be manipulated to open arbitrary URL]]></title>
+        <id>https://hackerone.com/reports/1358977</id>
+        <link href="https://hackerone.com/reports/1358977"/>
+        <updated>2022-02-15T07:09:15.000Z</updated>
+        <summary type="html"><![CDATA[Nextcloud disclosed a bug submitted by ctulhu: https://hackerone.com/reports/1358977 - Bounty: $100]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[欧洲最大汽车经销商遭遇勒索攻击、谷歌紧急修复零日漏洞｜2月15日全球网络安全热点]]></title>
+        <id>https://www.freebuf.com/news/321932.html</id>
+        <link href="https://www.freebuf.com/news/321932.html"/>
+        <updated>2022-02-15T06:56:29.000Z</updated>
+        <summary type="html"><![CDATA[欧洲最大的汽车经销商之一埃米尔·弗雷(Emil Frey)上个月遭到勒索软件攻击，这家瑞士公司于2月1日出现在Hive勒索软件的受害者名单上。]]></summary>
+        <author>
+            <name>FreeBuf网络安全行业门户</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ability to Disable the Login Attempt of any Shopify Owner for 24 hrs  (Zero_Click)]]></title>
+        <id>https://hackerone.com/reports/1406495</id>
+        <link href="https://hackerone.com/reports/1406495"/>
+        <updated>2022-02-15T06:20:35.000Z</updated>
+        <summary type="html"><![CDATA[Shopify disclosed a bug submitted by saurabhsankhwar3: https://hackerone.com/reports/1406495 - Bounty: $900]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[关于CIS 2021 Spring·春日版活动形式调整的公告]]></title>
+        <id>https://www.freebuf.com/fevents/321917.html</id>
+        <link href="https://www.freebuf.com/fevents/321917.html"/>
+        <updated>2022-02-15T06:04:16.000Z</updated>
+        <summary type="html"><![CDATA[结合线下与线上新玩法，CIS 2021春日版与您不见不散。]]></summary>
+        <author>
+            <name>FreeBuf网络安全行业门户</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Is law enforcement/fed/military experience pretty much mandatory to become good at DFIR?]]></title>
+        <id>https://www.reddit.com/r/AskNetsec/comments/ssvyze/is_law_enforcementfedmilitary_experience_pretty/</id>
+        <link href="https://www.reddit.com/r/AskNetsec/comments/ssvyze/is_law_enforcementfedmilitary_experience_pretty/"/>
+        <updated>2022-02-15T06:00:28.000Z</updated>
+        <summary type="html"><![CDATA[We can say you can self study, learn all the material, join a SOC and pray for a promotion, get certifications, etc. 
+ I don't see a whole ton of jobs open for DFIR without explicit mention of tools, processes, and experience that one would have to accumulate in one of those sectors that isn't gated by 5-10 years of experience doing it. Additionally, it seems to me that most of the people who are pumping out books and learning material come from some kind of government background where they did incident response. Almost all hiring managers I've met have significant LE experience behind them.
+ What I see much more of is people without this govt background going into pentesting, policy work, etc.
+ Are you pretty much screwed for getting into DFIR at a large corp without a three letter agency or military on the resume?
+    submitted by    /u/Different-Area-3053  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>AskNetsec</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TryHackme Principles of Security]]></title>
+        <id>https://medium.com/p/1cd94329d70e</id>
+        <link href="https://infosecwriteups.com/tryhackme-principles-of-security-1cd94329d70e?source=rss----7b722bfd1b8d---4"/>
+        <updated>2022-02-15T05:40:02.000Z</updated>
+        <summary type="html"><![CDATA[Hello, Amazing hackers in this blog you are gonna see about principles of security.]]></summary>
+        <author>
+            <name>Mukilan Baskaran</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TryHackme Principles of Security]]></title>
+        <id>https://medium.com/p/1cd94329d70e</id>
+        <link href="https://infosecwriteups.com/tryhackme-principles-of-security-1cd94329d70e?source=rss----7b722bfd1b8d---4"/>
+        <updated>2022-02-15T05:40:02.000Z</updated>
+        <summary type="html"><![CDATA[Hello, Amazing hackers in this blog you are gonna see about principles of security.]]></summary>
+        <author>
+            <name>Mukilan Baskaran</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pentesting Fundamentals Tryhackme]]></title>
+        <id>https://medium.com/p/717f51d6126b</id>
+        <link href="https://infosecwriteups.com/pentesting-fundamentals-tryhackme-717f51d6126b?source=rss----7b722bfd1b8d---4"/>
+        <updated>2022-02-15T05:38:43.000Z</updated>
+        <summary type="html"><![CDATA[Hi, Amazing Hackers today I come up with another interesting topic on Tryhackme which is Pentesting Fundamental.]]></summary>
+        <author>
+            <name>Mukilan Baskaran</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pentesting Fundamentals Tryhackme]]></title>
+        <id>https://medium.com/p/717f51d6126b</id>
+        <link href="https://infosecwriteups.com/pentesting-fundamentals-tryhackme-717f51d6126b?source=rss----7b722bfd1b8d---4"/>
+        <updated>2022-02-15T05:38:43.000Z</updated>
+        <summary type="html"><![CDATA[Hi, Amazing Hackers today I come up with another interesting topic on Tryhackme which is Pentesting Fundamental.]]></summary>
+        <author>
+            <name>Mukilan Baskaran</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hackeando Wordle]]></title>
+        <id>https://medium.com/p/7d4ca6a9fa90</id>
+        <link href="https://infosecwriteups.com/hackeando-wordle-7d4ca6a9fa90?source=rss----7b722bfd1b8d---4"/>
+        <updated>2022-02-15T05:36:51.000Z</updated>
+        <summary type="html"><![CDATA[Cómo adivinar la palabra del día a través de ingeniería inversa
+Continue reading on InfoSec Write-ups »]]></summary>
+        <author>
+            <name>Héctor Martos</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hackeando Wordle]]></title>
+        <id>https://medium.com/p/7d4ca6a9fa90</id>
+        <link href="https://infosecwriteups.com/hackeando-wordle-7d4ca6a9fa90?source=rss----7b722bfd1b8d---4"/>
+        <updated>2022-02-15T05:36:51.000Z</updated>
+        <summary type="html"><![CDATA[Cómo adivinar la palabra del día a través de ingeniería inversa
+Continue reading on InfoSec Write-ups »]]></summary>
+        <author>
+            <name>Héctor Martos</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A tale of 0-Click Account Takeover and 2FA Bypass.]]></title>
+        <id>https://medium.com/p/b369cd70e42f</id>
+        <link href="https://infosecwriteups.com/a-tale-of-0-click-account-takeover-and-2fa-bypass-b369cd70e42f?source=rss----7b722bfd1b8d---4"/>
+        <updated>2022-02-15T05:35:46.000Z</updated>
+        <summary type="html"><![CDATA[Hey, it’s been a long time since I published a bug bounty write-up. I was in an internship period. So, I had a lot of free time. Anyways…]]></summary>
+        <author>
+            <name>Firas Fatnassi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A tale of 0-Click Account Takeover and 2FA Bypass.]]></title>
+        <id>https://medium.com/p/b369cd70e42f</id>
+        <link href="https://infosecwriteups.com/a-tale-of-0-click-account-takeover-and-2fa-bypass-b369cd70e42f?source=rss----7b722bfd1b8d---4"/>
+        <updated>2022-02-15T05:35:46.000Z</updated>
+        <summary type="html"><![CDATA[Hey, it’s been a long time since I published a bug bounty write-up. I was in an internship period. So, I had a lot of free time. Anyways…]]></summary>
+        <author>
+            <name>Firas Fatnassi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How I was able to take over any account via the Password Reset Functionality.]]></title>
+        <id>https://medium.com/p/ef1659f8b481</id>
+        <link href="https://infosecwriteups.com/how-i-was-able-to-take-over-any-account-via-the-password-reset-functionality-ef1659f8b481?source=rss----7b722bfd1b8d---4"/>
+        <updated>2022-02-15T05:35:00.000Z</updated>
+        <summary type="html"><![CDATA[Hey, This is my first writeup and I will talk about an account takeover that I found in May on a vulnerability disclosure program. Let’s…]]></summary>
+        <author>
+            <name>Firas Fatnassi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How I was able to take over any account via the Password Reset Functionality.]]></title>
+        <id>https://medium.com/p/ef1659f8b481</id>
+        <link href="https://infosecwriteups.com/how-i-was-able-to-take-over-any-account-via-the-password-reset-functionality-ef1659f8b481?source=rss----7b722bfd1b8d---4"/>
+        <updated>2022-02-15T05:35:00.000Z</updated>
+        <summary type="html"><![CDATA[Hey, This is my first writeup and I will talk about an account takeover that I found in May on a vulnerability disclosure program. Let’s…]]></summary>
+        <author>
+            <name>Firas Fatnassi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Forensics Toolkits Recommendations? GCP Linux VM may have been compromised and use for crypto mining :/]]></title>
+        <id>https://www.reddit.com/r/AskNetsec/comments/ssvhvg/forensics_toolkits_recommendations_gcp_linux_vm/</id>
+        <link href="https://www.reddit.com/r/AskNetsec/comments/ssvhvg/forensics_toolkits_recommendations_gcp_linux_vm/"/>
+        <updated>2022-02-15T05:33:13.000Z</updated>
+        <summary type="html"><![CDATA[Hey y'all! I have a VM that was flagged by Google for potential compromise and being used for crypto mining (the CPU was flat out 50%, continuously for last several days). I immediately took down the machine, snapshotted and imaged it; rotated all security keys for GCP account. I don't think there is any nefarious activity and the compromise was likely to this one machine (or maybe I think that).
+ I would like to find a tool that can show me last logins, various logs, any suspicious software etc. so that I can start digging or escalate. What tools, if any, would you recommend? 
+ I have been running individual commands like last, utmpdump, scrubbing logs manually but I figured there has to be a tool to make this easy.
+    submitted by    /u/sidgup  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>AskNetsec</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《网络安全审查办法》今日施行，百万信息级平台国外上市需审查]]></title>
+        <id>https://www.freebuf.com/news/321909.html</id>
+        <link href="https://www.freebuf.com/news/321909.html"/>
+        <updated>2022-02-15T05:08:18.000Z</updated>
+        <summary type="html"><![CDATA[新修订的《网络安全审查办法》以关键信息基础设施的供应链安全为核心，重点加强对数据安全的关注和规范。]]></summary>
+        <author>
+            <name>FreeBuf网络安全行业门户</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[First contribution]]></title>
+        <id>https://www.reddit.com/r/opendirectories/comments/sst9w2/first_contribution/</id>
+        <link href="https://www.reddit.com/r/opendirectories/comments/sst9w2/first_contribution/"/>
+        <updated>2022-02-15T03:32:17.000Z</updated>
+        <summary type="html"><![CDATA[https://who.4386.ltd/Doctor/
+ I think all marvel files are in 4K. there are more movies in the "movies for" tab. https://who.4386.ltd/Heng/
+ P.S. the site is in chinese so let chrome translate the page first.
+    submitted by    /u/CompetitiveMango12  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Open Directories</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[谷歌Chrome紧急修复了在攻击中被利用的零日漏洞]]></title>
+        <id>https://www.freebuf.com/articles/321899.html</id>
+        <link href="https://www.freebuf.com/articles/321899.html"/>
+        <updated>2022-02-15T03:24:41.000Z</updated>
+        <summary type="html"><![CDATA[Google发布了适用于Windows、Mac和Linux的Chrome，以修复威胁参与者在攻击中使用的高严重性零日漏洞。]]></summary>
+        <author>
+            <name>FreeBuf网络安全行业门户</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CISA 在其已知利用漏洞目录中新增15个新漏洞]]></title>
+        <id>https://www.freebuf.com/news/321894.html</id>
+        <link href="https://www.freebuf.com/news/321894.html"/>
+        <updated>2022-02-15T03:06:30.000Z</updated>
+        <summary type="html"><![CDATA[美国网络安全与基础设施安全局(CISA)在“已知被利用漏洞目录”中又增加了15个漏洞。]]></summary>
+        <author>
+            <name>FreeBuf网络安全行业门户</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FBI：BlackByte 勒索软件已入侵美国关键基础设施]]></title>
+        <id>https://www.freebuf.com/news/321888.html</id>
+        <link href="https://www.freebuf.com/news/321888.html"/>
+        <updated>2022-02-15T02:58:50.000Z</updated>
+        <summary type="html"><![CDATA[美国联邦调查局与美国特勤局发布联合网络安全咨询公告，显示BlackByte 勒索软件组织在过去3个月中入侵了至少3 个美国关键基础设施。]]></summary>
+        <author>
+            <name>FreeBuf网络安全行业门户</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“That SweetPot of Data Net-tar” My first Honey Pot Walkthrough Part 3]]></title>
         <id>https://medium.com/p/3384c899cb8b</id>
@@ -284,6 +985,17 @@ I want to inquire about any lightweight transport layer security options that I 
         <summary type="html"><![CDATA[Book your seats for the coolest, most value-packed cybersecurity event of 2022!]]></summary>
         <author>
             <name>InfoSec Write-ups</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Walkthrough — Hacktoria: Geolocation 11]]></title>
+        <id>https://medium.com/p/1727d1dc4e89</id>
+        <link href="https://infosecwriteups.com/walkthrough-hacktoria-geolocation-11-1727d1dc4e89?source=rss------osint-5"/>
+        <updated>2022-02-14T18:25:03.000Z</updated>
+        <summary type="html"><![CDATA[Once again I am back with a walkthrough to a GEOINT challenge. I will be explaining how to solve Geolocation 11 practice test on…
+Continue reading on InfoSec Write-ups »]]></summary>
+        <author>
+            <name>Sofia Santos</name>
         </author>
     </entry>
     <entry>
@@ -933,6 +1645,16 @@ Points: 4
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[如何做好安全研发人才招聘之团队模型的建立]]></title>
+        <id>https://www.freebuf.com/jobs/321778.html</id>
+        <link href="https://www.freebuf.com/jobs/321778.html"/>
+        <updated>2022-02-14T01:25:16.000Z</updated>
+        <summary type="html"><![CDATA[网络安全科技企业，最宝贵的就是人才。一般来说，企业70%左右的成本都是人力成本，没有合适的人，一切远大的科技理想都是镜中花]]></summary>
+        <author>
+            <name>FreeBuf网络安全行业门户</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[How I Hacked A Reputed Hacker]]></title>
         <id>https://www.reddit.com/r/redteamsec/comments/srx9d9/how_i_hacked_a_reputed_hacker/</id>
         <link href="https://www.reddit.com/r/redteamsec/comments/srx9d9/how_i_hacked_a_reputed_hacker/"/>
@@ -1145,6 +1867,16 @@ Continue reading on Medium »]]></summary>
 Continue reading on Medium »]]></summary>
         <author>
             <name>Aditya Nama</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CTF中PHP相关题目考点总结（下）]]></title>
+        <id>https://www.freebuf.com/articles/web/321769.html</id>
+        <link href="https://www.freebuf.com/articles/web/321769.html"/>
+        <updated>2022-02-13T13:37:39.000Z</updated>
+        <summary type="html"><![CDATA[本文主要总结了我在写ctfshow题目中遇到的关于PHP的考点。因为只总结知识点和考点会比较空洞，也不容易理解，所以我都是通过题目来总结考点，这样的话比较容易理解。]]></summary>
+        <author>
+            <name>FreeBuf网络安全行业门户</name>
         </author>
     </entry>
     <entry>
@@ -1474,6 +2206,16 @@ Continue reading on Medium »]]></summary>
  [link]   [comments]]]></summary>
         <author>
             <name>Open Directories</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[现代前后端分离式应用API渗透测试探究]]></title>
+        <id>https://www.freebuf.com/articles/web/321761.html</id>
+        <link href="https://www.freebuf.com/articles/web/321761.html"/>
+        <updated>2022-02-12T08:45:17.000Z</updated>
+        <summary type="html"><![CDATA[越来越多的国内互联网企业为了提高开发测试迭代速度以及前端统一的需求，搭上了前后端分离的快车。基于新的前端框架，如何更高效的进行API测试就变得越加重要。]]></summary>
+        <author>
+            <name>FreeBuf网络安全行业门户</name>
         </author>
     </entry>
     <entry>
