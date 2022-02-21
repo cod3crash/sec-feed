@@ -11971,6 +11971,213 @@
       ]
     },
     {
+      "title": "博客园_首页",
+      "feedUrl": "http://feed.cnblogs.com/blog/sitehome/rss",
+      "siteUrl": null,
+      "articles": [
+        {
+          "id": "https://www.cnblogs.com/HoEn/p/15918440.html",
+          "author": null,
+          "description": "时间序列相似性度量方法 时间序列相似性度量常用方法为欧氏距离ED(Euclidean distance)和动态时间规整DTW(Dynamic Time Warping)。总体被分为两类: 锁步度量(lock-step measures) 和弹性度量(elastic measures) 。锁步度量是时",
+          "link": "https://www.cnblogs.com/HoEn/p/15918440.html",
+          "publishedOn": "2022-02-21T05:19:00.000Z",
+          "wordCount": 433,
+          "title": "使用动态时间规整 (DTW) 解决时间序列相似性度量及河流上下游污染浓度相似性识别分析 - 鸣梦",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cnblogs.com/chopper-poet/p/15915718.html",
+          "author": null,
+          "description": "本篇其实算之前安全整改话题的一点补充，对之前内容感兴趣的可以走以下快捷通道： 安全漏洞整改系列（二） 安全漏洞整改系列（一） 背景 前不久某家客户对我们提供的系统又进行了一轮安全测试，其中有一条我觉得很有意思，也算是刷新了我的认知，那就是“pdf预览存在xss注入”，在此跟大家分享一波，也算是相互提",
+          "link": "https://www.cnblogs.com/chopper-poet/p/15915718.html",
+          "publishedOn": "2022-02-21T05:02:00.000Z",
+          "wordCount": 104,
+          "title": "在线pdf请你谨慎打开 - 踩刀诗人",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cnblogs.com/readbyte/p/15918403.html",
+          "author": null,
+          "description": "​目前创业，最后一家公司任职医疗科技公司的研发中心总经理，之前也在几家公司的任职研发/技术总监岗位，在我理解的范围，目前国内中小企业对于CTO/技术总监的岗位区别没有那么明确的职能区分。 1. 先总结 我先概要性总结一下CTO/技术总监的作用： ❶ CTO/技术总监应具有企业技术方向的整体把控力，也",
+          "link": "https://www.cnblogs.com/readbyte/p/15918403.html",
+          "publishedOn": "2022-02-21T05:01:00.000Z",
+          "wordCount": 100,
+          "title": "CTO（技术总监）平时都在做些什么？ - 程序员守护石",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cnblogs.com/bytedata/p/15918335.html",
+          "author": null,
+          "description": "企业级数仓架构设计与选型的时候需要从开发的便利性、生态、解耦程度、性能、 安全这几个纬度思考。本文作者：惊帆 来自于数据平台 EMR 团队 前言 Apache Hive 经过多年的发展，目前基本已经成了业界构建超大规模数据仓库的事实标准和数据处理工具，Hive 已经不单单是一个技术组件，而是一种设计",
+          "link": "https://www.cnblogs.com/bytedata/p/15918335.html",
+          "publishedOn": "2022-02-21T04:21:00.000Z",
+          "wordCount": 1074,
+          "title": "看SparkSql如何支撑企业数仓 - 字节跳动数据平台",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cnblogs.com/xiaolincoding/p/15918321.html",
+          "author": null,
+          "description": "大家好，我是小林。 在逛牛客网的面经的时候，发现有位同学在面微信的时候，被问到这个问题： 第一个问题就是：一致性哈希是什么，使用场景，解决了什么问题？ 这个问题还挺有意思的，所以今天就来聊聊这个。 发车！ 如何分配请求？ 大多数网站背后肯定不是只有一台服务器提供服务，因为单机的并发量和数据量都是有限",
+          "link": "https://www.cnblogs.com/xiaolincoding/p/15918321.html",
+          "publishedOn": "2022-02-21T04:15:00.000Z",
+          "wordCount": 324,
+          "title": "微信一面：什么是一致性哈希？用在什么场景？解决了什么问题？ - 小林coding",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cnblogs.com/developer-huawei/p/15918312.html",
+          "author": null,
+          "description": "介绍 云函数是一项 Serverless 计算服务，提供 FaaS（Function as a Service）能力，可以帮助开发者大幅简化应用开发与运维相关事务，降低应用功能的实现门槛，快速构建业务能力。下面将介绍如何在 Flutter 框架下集成云函数。 集成步骤 1. 安装 flutter 环",
+          "link": "https://www.cnblogs.com/developer-huawei/p/15918312.html",
+          "publishedOn": "2022-02-21T04:09:00.000Z",
+          "wordCount": 218,
+          "title": "如何在 Flutter 中集成华为云函数服务  - 华为开发者论坛",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cnblogs.com/hyx-hasaki/p/15918036.html",
+          "author": null,
+          "description": "Java与C++之间有一堵由内存动态分配和垃圾收集技术所围成的高墙，墙外面的人想进去，墙里面的人却想出来 垃圾收集概述 Java内存模型中的堆和方法区是垃圾收集技术所需要关注的终点，因为其他的区域会跟随线程的结束而自动回收。 而需要解决垃圾收集的首要目标便是解决如何判断一个对象已经不需要了从而自动进",
+          "link": "https://www.cnblogs.com/hyx-hasaki/p/15918036.html",
+          "publishedOn": "2022-02-21T03:12:00.000Z",
+          "wordCount": 125,
+          "title": "JVM基础学习（二）：内存分配策略与垃圾收集技术 - Huangzzzzz",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cnblogs.com/grey-wolf/p/15915807.html",
+          "author": null,
+          "description": "背景 去年写了一篇“【曹工杂谈】Mysql客户端上，时间为啥和本地差了整整13个小时，就离谱 ”，结果最近还真就用上了。 不是我用上，是组内一位同事，他也是这样：有个服务往数据库insert记录，记录里有时间，比如时间A。然后写进数据库后，数据库里的时间是A-13，晚了13小时。然后就改了这么个地方",
+          "link": "https://www.cnblogs.com/grey-wolf/p/15915807.html",
+          "publishedOn": "2022-02-21T03:10:00.000Z",
+          "wordCount": 247,
+          "title": "【曹工杂谈】Mysql-Connector-Java时区问题的一点理解--写入数据库的时间总是晚13小时问题 - 三国梦回",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cnblogs.com/liuyuelinfighting/p/15854081.html",
+          "author": null,
+          "description": "1、os模块介绍 os模块提供了多数操作系统的功能接口函数。当os模块被导入后，它会自适应于不同的操作系统平台，根据不同的平台进行相应的操作。 在Python编程时，os模块可以处理文件和目录这些我们日常手动需要做的操作，例如：显示当前目录下所有文件、删除某个文件、获取文件大小等等。 在Python",
+          "link": "https://www.cnblogs.com/liuyuelinfighting/p/15854081.html",
+          "publishedOn": "2022-02-21T03:05:00.000Z",
+          "wordCount": 214,
+          "title": "『无为则无心』Python基础 — 44、对文件和文件夹的操作 - 繁华似锦Fighting",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cnblogs.com/coco1s/p/15917870.html",
+          "author": null,
+          "description": "在我们的页面中，经常会出现这样的问题，一块区域内的文本或者边框，在展示的时候，变得特别的模糊，如下(数据经过脱敏处理)： 正常而言，应该是这样的： emmm，可能大图不是很明显，我们取一细节对比，就非常直观了： 何时触发这种现象？ 那么？什么时候会触发这种问题呢？在 Google 上，其实我们能搜到",
+          "link": "https://www.cnblogs.com/coco1s/p/15917870.html",
+          "publishedOn": "2022-02-21T02:39:00.000Z",
+          "wordCount": 229,
+          "title": "疑难杂症：运用 transform 导致文本模糊的现象探究 - ChokCoco",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cnblogs.com/milton/p/15917192.html",
+          "author": null,
+          "description": "LibOpenCM3 是GPL协议(LGPL3)的Cortex-M系列的固件库, 支持stm32、atmel、nxp系列单片机. 这个固件库对标的是 CMSIS, 但是比 CMSIS 提供更多的方法接口, 实现度介于 CMSIS 和 SPL 之间. 对于常见的 STM32F1 系列, 代码已经基本稳...",
+          "link": "https://www.cnblogs.com/milton/p/15917192.html",
+          "publishedOn": "2022-02-21T02:23:00.000Z",
+          "wordCount": 853,
+          "title": "LibOpenCM3(一) Linux下命令行开发环境配置 - Milton",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cnblogs.com/zhenl/p/15914950.html",
+          "author": null,
+          "description": "本文概要介绍使用VS Code开发TypeScript的过程。",
+          "link": "https://www.cnblogs.com/zhenl/p/15914950.html",
+          "publishedOn": "2022-02-21T02:16:00.000Z",
+          "wordCount": 390,
+          "title": "VS Code开发TypeScript - 寻找无名的特质",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cnblogs.com/mic112/p/15917673.html",
+          "author": null,
+          "description": "Environment的中文意思是环境，它表示整个spring应用运行时的环境信息，它包含两个关键因素 profiles properties profiles profiles这个概念相信大家都已经理解了，最常见的就是不同环境下，决定当前spring容器中的不同配置上下文的解决方案。比如针对开发环",
+          "link": "https://www.cnblogs.com/mic112/p/15917673.html",
+          "publishedOn": "2022-02-21T02:08:00.000Z",
+          "wordCount": 261,
+          "title": "Spring中的Environment外部化配置管理详解 - 跟着Mic学架构",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cnblogs.com/forzhaokang/p/15903511.html",
+          "author": null,
+          "description": "《从零开始, 开发一个 Web Office 套件》系列博客目录 这是一个系列博客, 最终目的是要做一个基于HTML Canvas 的, 类似于微软 Office 的 Web Office 套件, 包括: 文档, 表格, 幻灯片... 等等. 对应的Github repo 地址: https://g",
+          "link": "https://www.cnblogs.com/forzhaokang/p/15903511.html",
+          "publishedOn": "2022-02-21T02:05:00.000Z",
+          "wordCount": 227,
+          "title": "从零开始, 开发一个 Web Office 套件（4）：新的问题—— z-index - 赵康",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cnblogs.com/vivotech/p/15917648.html",
+          "author": null,
+          "description": "一、业务背景 当今时代处在信息大爆发的时代，信息借助互联网的潮流在全球自由的流动，产生了各式各样的平台系统和软件系统，越来越多的业务也会导致系统的复杂性。 当核心业务出现了问题影响用户体验，开发人员没有及时发现，发现问题时已经为时已晚，又或者当服务器的CPU持续增高，磁盘空间被打满等，需要运维人员及",
+          "link": "https://www.cnblogs.com/vivotech/p/15917648.html",
+          "publishedOn": "2022-02-21T02:04:00.000Z",
+          "wordCount": 365,
+          "title": "vivo 服务端监控架构设计与实践 - vivo互联网技术",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cnblogs.com/gmmy/p/15917585.html",
+          "author": null,
+          "description": "在之前的系列文章中聊过分布式事务的一种实现方案，即通过在集群中暴露actor服务来实现分布式事务的本地原子化。但是actor服务本身有其特殊性，场景上并不通用。所以今天来讲讲分布式事务实现方案之saga模式，并在文后附上代码供各位读者参考，评论。 目录：一、通过Dapr实现一个简单的基于.net的微",
+          "link": "https://www.cnblogs.com/gmmy/p/15917585.html",
+          "publishedOn": "2022-02-21T01:56:00.000Z",
+          "wordCount": 206,
+          "title": "通过Dapr实现一个简单的基于.net的微服务电商系统(十九)——分布式事务之Saga模式 - a1010",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cnblogs.com/cmt/p/15917549.html",
+          "author": null,
+          "description": "热点随笔： &#183;&#160;2021年度总结 | 葡萄城软件开发技术回顾（下）&#160;(葡萄城技术团队)&#183;&#160;从MVC到DDD的架构演进&#160;(木小丰)&#183;&#160;3.6 万颗星！开源 Web 服务器后起之秀，自带免费 HTTPS 开箱即用&#160;(削微寒)&#183;&#160;ASP.NET Core 6框架揭秘实例演示[01]： 编程初体验&#160;(Art",
+          "link": "https://www.cnblogs.com/cmt/p/15917549.html",
+          "publishedOn": "2022-02-21T01:48:00.000Z",
+          "wordCount": 118,
+          "title": "上周热点回顾（2.14-2.20） - 博客园团队",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cnblogs.com/yan7/p/15881081.html",
+          "author": null,
+          "description": "提示：本系列笔记全部存在于 Github， 可以直接在 Github 查看全部笔记 企业级最流行的私有代码仓库是 Gitlab， 一开始我也打算部署 Gitlab作为私有代码仓库。 但部署完成后发现， Gitlab 资源占用太大了。优化之后也要占用 3g 内存，最后只好放弃这一方案。 随后发现了 G",
+          "link": "https://www.cnblogs.com/yan7/p/15881081.html",
+          "publishedOn": "2022-02-21T01:19:00.000Z",
+          "wordCount": 467,
+          "title": "私有化轻量级持续集成部署方案--04-私有代码仓库服务-Gitea - 莫问今朝乄",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cnblogs.com/kevinwan/p/15917442.html",
+          "author": null,
+          "description": "我们用一个系列来讲解从需求到上线、从代码到k8s部署、从日志到监控等各个方面的微服务完整实践，整个项目使用了go-zero开发，基本包含了go-zero以及go-zero作者开发的一些中间件，所用到的技术栈基本是go-zero的自研组件。",
+          "link": "https://www.cnblogs.com/kevinwan/p/15917442.html",
+          "publishedOn": "2022-02-21T01:17:00.000Z",
+          "wordCount": 361,
+          "title": "微服务从代码到k8s部署应有尽有系列（四、用户中心） - 万俊峰Kevin",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cnblogs.com/youzhibing/p/15908602.html",
+          "author": null,
+          "description": "开心一刻 那天知道她结婚了，我整整一个晚上没睡觉，开了三百公里的车来到她家楼下，缓缓的抽了一支烟...... 天渐渐凉了，响起了鞭炮声，迎亲车队到了，那天披着婚纱的她很美，真的很美！ 我跟着迎亲车队开了几公里的时候，收到了她的信息：别送了，别送了，你的手扶拖拉机太响了 ...... 前情回顾 楼主一",
+          "link": "https://www.cnblogs.com/youzhibing/p/15908602.html",
+          "publishedOn": "2022-02-21T01:07:00.000Z",
+          "wordCount": 346,
+          "title": "四探循环依赖 → 当循环依赖遇上 BeanPostProcessor，爱情可能就产生了！ - 青石路",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
       "title": "Hacker News - Newest: \"Fuzzing\"",
       "feedUrl": "https://hnrss.org/newest?q=Fuzzing",
       "siteUrl": "https://news.ycombinator.com/newest",
@@ -13871,6 +14078,16 @@
       "siteUrl": "https://www.freebuf.com",
       "articles": [
         {
+          "id": "https://www.freebuf.com/articles/web/322580.html",
+          "author": null,
+          "description": "Servlet内存马的最后一篇，直接从加载开始说起。",
+          "link": "https://www.freebuf.com/articles/web/322580.html",
+          "publishedOn": "2022-02-20T17:37:00.000Z",
+          "wordCount": 162,
+          "title": "擅长捉弄的内存马同学：Servlet内存马",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.freebuf.com/articles/322494.html",
           "author": null,
           "description": "Facebook 母公司 Meta 同意支付 9000 万美元，以了结一场十年前的诉讼案件。",
@@ -13958,6 +14175,16 @@
           "publishedOn": "2022-02-18T02:28:47.000Z",
           "wordCount": 180,
           "title": "你的跳蛋，黑客们表示很感兴趣",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.freebuf.com/vuls/322173.html",
+          "author": null,
+          "description": "本篇文章主要是针对CVE-2022-21350的详细分析和研究，以探讨安全技术为目的。",
+          "link": "https://www.freebuf.com/vuls/322173.html",
+          "publishedOn": "2022-02-17T09:25:37.000Z",
+          "wordCount": 339,
+          "title": "Weblogic HomeHandle反序列化漏洞分析和研究",
           "imageUrl": null
         },
         {
@@ -17796,6 +18023,163 @@
       ]
     },
     {
+      "title": "paper - Last paper",
+      "feedUrl": "https://paper.seebug.org/rss/",
+      "siteUrl": "http://paper.seebug.org/",
+      "articles": [
+        {
+          "id": "http://paper.seebug.org/1832/",
+          "author": null,
+          "description": "作者：su18\n本文为作者投稿，Seebug Paper 期待你的分享，凡经采用即有礼品相送！ 投稿邮箱：paper@seebug.org\n当一个 JDBC 连接 URL 可控时，能造成什么影响？相关的若干攻击方法已经被披露很长时间了，但是我还一直都没有学习，随着 HITB2021SIN 中的分享议题 \"Make JDBC Attacks Brilliant Again\" 的视频上传到了 Y...",
+          "link": "http://paper.seebug.org/1832/",
+          "publishedOn": "2022-02-15T09:10:00.000Z",
+          "wordCount": null,
+          "title": "JDBC Connection URL 攻击",
+          "imageUrl": null
+        },
+        {
+          "id": "http://paper.seebug.org/1831/",
+          "author": null,
+          "description": "译者：知道创宇404实验室翻译组\n原文链接：https://threatresearch.ext.hp.com/redline-stealer-disguised-as-a-windows-11-upgrade/\n黑客总是在寻找热门诱饵，以诱骗受害者进入感染系统。我们最近分析了一个这样的诱饵，即一个伪造的 Windows 11安装程序。2022年1月27日，也就是 Windows 11升级最...",
+          "link": "http://paper.seebug.org/1831/",
+          "publishedOn": "2022-02-15T08:46:00.000Z",
+          "wordCount": null,
+          "title": "RedLine Stealer 伪装成 Windows 11 更新程序，窃取用户信息",
+          "imageUrl": null
+        },
+        {
+          "id": "http://paper.seebug.org/1830/",
+          "author": null,
+          "description": "译者：知道创宇404实验室翻译组\n原文链接：https://assets.sentinelone.com/sentinellabs-apt/modified-elephant-apt\n摘要\n\n\n我们的研究将这十年的活动迹象归因于一种我们称之为ModifiedElephant的黑客组织。 \n\n\nModifiedElephant对印度各地的人权活动家、人权捍卫者、学者和律师进行有针对性的攻击，目...",
+          "link": "http://paper.seebug.org/1830/",
+          "publishedOn": "2022-02-14T02:53:00.000Z",
+          "wordCount": null,
+          "title": "ModifiedElephant：十年潜伏，印度黑客组织浮出水面",
+          "imageUrl": null
+        },
+        {
+          "id": "http://paper.seebug.org/1829/",
+          "author": null,
+          "description": "译者：知道创宇404实验室翻译组\n原文链接：https://intel471.com/blog/privateloader-malware\n长久以来，安装付费(PPI)恶意软件服务已经成为网络犯罪生态系统不可分割的一部分。恶意软件运营者提供支付、恶意有效载荷和目标信息，负责运行服务的人把分发和传播部分外包出去。可访问性和合适的成本使得恶意软件运营商可以利用这些服务作为一种武器，用于快速、批量...",
+          "link": "http://paper.seebug.org/1829/",
+          "publishedOn": "2022-02-09T08:03:00.000Z",
+          "wordCount": null,
+          "title": "PrivateLoader: 众多恶意软件方案的第一步",
+          "imageUrl": null
+        },
+        {
+          "id": "http://paper.seebug.org/1828/",
+          "author": null,
+          "description": "作者：Victory@慢雾安全团队\n原文链接：https://mp.weixin.qq.com/s/UECwAt_p8rXn-3kZ4kC2VQ  \n据慢雾区情报，2022 年 1 月 28 日 The Sandbox 官方发布一则 LAND 智能合约迁移的公告，但是在公告中没有说明合约具体是出了什么问题，慢雾安全团队现将简要分析结果分享如下。\n项目背景\nThe Sandbox 是一个虚拟世...",
+          "link": "http://paper.seebug.org/1828/",
+          "publishedOn": "2022-02-09T06:37:00.000Z",
+          "wordCount": null,
+          "title": "重建世界：The Sandbox 任意燃烧漏洞回顾",
+          "imageUrl": null
+        },
+        {
+          "id": "http://paper.seebug.org/1827/",
+          "author": null,
+          "description": "译者：知道创宇404实验室翻译组\n原文链接：https://securelist.com/roaming-mantis-reaches-europe/105596/\n\n漫游螳螂(Roaming Mantis)是一种恶意攻击，目标是 Android 设备，通过钓鱼短信散播移动恶意软件。自2018年以来，我们一直在追踪漫游螳螂，并发表了五篇关于这项活动的博客文章:\n\n漫游螳螂使用 DNS 劫持感...",
+          "link": "http://paper.seebug.org/1827/",
+          "publishedOn": "2022-02-08T09:17:00.000Z",
+          "wordCount": null,
+          "title": "漫游螳螂恶意软件危及欧洲",
+          "imageUrl": null
+        },
+        {
+          "id": "http://paper.seebug.org/1818/",
+          "author": null,
+          "description": "译者:知道创宇404实验室翻译组\n原作者：Jungwon Lim, Yonghwi Jin†, Mansour Alharthi, Xiaokuan Zhang, Jinho Jung, Rajat Gupta, Kuilin Li, Daehee Jang‡, Taesoo Kim\n摘要 \nWeb浏览器是每个人日常生活中不可或缺的一部分。它们经常用于注重安全性和隐私敏感的事情，银行交易和检...",
+          "link": "http://paper.seebug.org/1818/",
+          "publishedOn": "2022-02-08T07:01:00.000Z",
+          "wordCount": null,
+          "title": "SoK: 浏览器安全分析",
+          "imageUrl": null
+        },
+        {
+          "id": "http://paper.seebug.org/1826/",
+          "author": null,
+          "description": "作者：Hcamael@知道创宇404实验室\n相关阅读： 从 0 开始学 V8 漏洞利用之环境搭建（一）\n从 0 开始学 V8 漏洞利用之 V8 通用利用链（二）\n从 0 开始学 V8 漏洞利用之 starctf 2019 OOB（三）\n从 0 开始学 V8 漏洞利用之 CVE-2020-6507（四）\n从0开始学 V8 漏洞利用之 CVE-2021-30632（五）\n从 0 开始学 V8 漏...",
+          "link": "http://paper.seebug.org/1826/",
+          "publishedOn": "2022-02-07T02:00:00.000Z",
+          "wordCount": null,
+          "title": "从 0 开始学 V8 漏洞利用之 CVE-2021-30517（七）",
+          "imageUrl": null
+        },
+        {
+          "id": "http://paper.seebug.org/1825/",
+          "author": null,
+          "description": "作者：Hcamael@知道创宇404实验室\n相关阅读： 从 0 开始学 V8 漏洞利用之环境搭建（一）\n从 0 开始学 V8 漏洞利用之 V8 通用利用链（二）\n从 0 开始学 V8 漏洞利用之 starctf 2019 OOB（三）\n从 0 开始学 V8 漏洞利用之 CVE-2020-6507（四）\n从0开始学 V8 漏洞利用之 CVE-2021-30632（五）\nCVE-2021-380...",
+          "link": "http://paper.seebug.org/1825/",
+          "publishedOn": "2022-02-06T02:00:00.000Z",
+          "wordCount": null,
+          "title": "从 0 开始学 V8 漏洞利用之 CVE-2021-38001（六）",
+          "imageUrl": null
+        },
+        {
+          "id": "http://paper.seebug.org/1824/",
+          "author": null,
+          "description": "作者：Hcamael@知道创宇404实验室\n相关阅读： 从 0 开始学 V8 漏洞利用之环境搭建（一）\n从 0 开始学 V8 漏洞利用之 V8 通用利用链（二）\n从 0 开始学 V8 漏洞利用之 starctf 2019 OOB（三）\n从 0 开始学 V8 漏洞利用之 CVE-2020-6507（四）\n复现CVE-2021-30632\n第三个研究的是CVE-2021-30632，其chrom...",
+          "link": "http://paper.seebug.org/1824/",
+          "publishedOn": "2022-02-05T02:00:00.000Z",
+          "wordCount": null,
+          "title": "从 0 开始学 V8 漏洞利用之 CVE-2021-30632（五）",
+          "imageUrl": null
+        },
+        {
+          "id": "http://paper.seebug.org/1823/",
+          "author": null,
+          "description": "作者：Hcamael@知道创宇404实验室\n相关阅读： 从 0 开始学 V8 漏洞利用之环境搭建（一）\n从 0 开始学 V8 漏洞利用之 V8 通用利用链（二）\n从 0 开始学 V8 漏洞利用之 starctf 2019 OOB（三）\n复现CVE-2020-6507\n信息收集\n在复习漏洞前，我们首先需要有一个信息收集的阶段：\n\n可以从Chrome的官方更新公告得知某个版本的Chrome存在哪...",
+          "link": "http://paper.seebug.org/1823/",
+          "publishedOn": "2022-02-04T02:00:00.000Z",
+          "wordCount": null,
+          "title": "从 0 开始学 V8 漏洞利用之 CVE-2020-6507（四）",
+          "imageUrl": null
+        },
+        {
+          "id": "http://paper.seebug.org/1822/",
+          "author": null,
+          "description": "作者：Hcamael@知道创宇404实验室\n相关阅读： 从 0 开始学 V8 漏洞利用之环境搭建（一）\n从 0 开始学 V8 漏洞利用之 V8 通用利用链（二）\n我是从starctf 2019的一道叫OOB的题目开始入门的，首先来讲讲这道题。\nFreeBuf上有一篇《从一道CTF题零基础学V8漏洞利用》，我觉得对初学者挺友好的，我就是根据这篇文章开始入门v8的漏洞利用。\n环境搭建\n$ git...",
+          "link": "http://paper.seebug.org/1822/",
+          "publishedOn": "2022-02-03T02:00:00.000Z",
+          "wordCount": null,
+          "title": "从 0 开始学 V8 漏洞利用之 starctf 2019 OOB（三）",
+          "imageUrl": null
+        },
+        {
+          "id": "http://paper.seebug.org/1821/",
+          "author": null,
+          "description": "作者：Hcamael@知道创宇404实验室\n相关阅读：从 0 开始学 V8 漏洞利用之环境搭建（一）\n经过一段时间的研究，先进行一波总结，不过因为刚开始研究没多久，也许有一些局限性，以后如果发现了，再进行修正。\n概述\n我认为，在搞漏洞利用前都得明确目标。比如打CTF做二进制的题目，大部分情况下，目标都是执行system(/bin/sh)或者execve(/bin/sh,0,0)。\n在v8利用...",
+          "link": "http://paper.seebug.org/1821/",
+          "publishedOn": "2022-02-02T02:00:00.000Z",
+          "wordCount": null,
+          "title": "从 0 开始学 V8 漏洞利用之 V8 通用利用链（二）",
+          "imageUrl": null
+        },
+        {
+          "id": "http://paper.seebug.org/1820/",
+          "author": null,
+          "description": "作者：Hcamael@知道创宇404实验室\n最近因为某些原因开始学V8的漏洞利用，所以打算写一个系列的文章来记录一下我的学习过程。\n概述\n在开始研究V8之前肯定得有相应版本的环境，搭建v8环境的教程网上挺多的。在国内搭建环境，因为众所周知的原因，我们会遇到第一个瓶颈，网络瓶颈。不过也挺好解决的，把环境搭在vps上，网速是最快的。不过随后就会遇到第二个瓶颈，性能瓶颈，自用的vps一般性能都是1...",
+          "link": "http://paper.seebug.org/1820/",
+          "publishedOn": "2022-02-01T02:00:00.000Z",
+          "wordCount": null,
+          "title": "从 0 开始学 V8 漏洞利用之环境搭建（一）",
+          "imageUrl": null
+        },
+        {
+          "id": "http://paper.seebug.org/1819/",
+          "author": null,
+          "description": "作者：天融信阿尔法实验室\n原文链接：https://mp.weixin.qq.com/s/nfPm0B2Z9dTodsw-VTUxpQ\n1 漏洞背景\n2021年07月14日Google威胁分析团队(TAG：Threat Analysis Group)发布了一篇标题为\"How We Protect Users From 0-Day Attacks\"的文章。这篇文章公布了2021年Google威...",
+          "link": "http://paper.seebug.org/1819/",
+          "publishedOn": "2022-01-24T09:15:00.000Z",
+          "wordCount": null,
+          "title": "CVE-2021-33742：Internet Explorer MSHTML 堆越界写漏洞分析",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
       "title": "NOSEC 安全讯息平台 - 漏洞预警",
       "feedUrl": "https://rsshub.app/nosec/hole",
       "siteUrl": "https://nosec.org/home/index/hole.html",
@@ -17927,6 +18311,12 @@
           "title": "【安全通报】PAN GlobalProtect Portal 内存损坏漏洞（CVE-..."
         }
       ]
+    },
+    {
+      "title": "安全客-有思想的安全新媒体",
+      "feedUrl": "https://api.anquanke.com/data/v1/rss",
+      "siteUrl": "https://www.anquanke.com",
+      "articles": []
     },
     {
       "title": "SecWiki News",
@@ -30935,6 +31325,215 @@
       ]
     },
     {
+      "title": "Positive Technologies - learn and secure",
+      "feedUrl": "http://feeds.feedburner.com/positiveTechnologiesResearchLab",
+      "siteUrl": "http://blog.ptsecurity.com/",
+      "articles": [
+        {
+          "id": "http://blog.ptsecurity.com/2021/08/phdays-10-ids-bypass-contest-writeup.html",
+          "author": null,
+          "description": "For the second time, the IDS Bypass contest was held at the Positive Hack Days conference. Just like last time (see blog.ptsecurity.com/2019/07/ids-bypass-contest-at-phdays-writeup.html), the players were supposed not only to find flaws in the six services and capture the flags, but also bypass the IDS, which would interfere with them. Alert messages about the facts of triggering IDS rules were supposed to help in bypassing them. And as you know from the last competition, there can be infinitely many solutions to tasks. Here we go.\n\n\n192.168.30.10—Apache Tomcat\nOn port 8080, we can see Apache Tomcat version 9.0.17. The first search for an exploit for this version should lead to CVE-2019-0232. \n\n\nThis task was intended as an introductory one and was supposed to be the simplest (although som…",
+          "link": "http://blog.ptsecurity.com/2021/08/phdays-10-ids-bypass-contest-writeup.html",
+          "publishedOn": "2021-08-09T15:01:00.004Z",
+          "wordCount": null,
+          "title": "PHDays 10 IDS Bypass contest: writeup and solutions",
+          "imageUrl": null
+        },
+        {
+          "id": "http://blog.ptsecurity.com/2021/08/apt31-new-dropper-target-destinations.html",
+          "author": null,
+          "description": "Our pros at the PT Expert Security Center regularly spot emerging threats to information security and track the activity of hacker groups. During such monitoring in April 2021, a mailing list with previously unknown malicious content was sent to Mongolia. Similar attacks were subsequently identified in Russia, Belarus, Canada, and the United States. According to PT ESC threat intelligence analysts, from January to July 2021, approximately 10 attacks were carried out using the discovered malware samples.\nSome of the files found during the study had rather interesting names (\"хавсралт.scr\" [\"havsralt.scr\"] (mong. attachment), \"Информация_Рб_июнь_2021_года_2021062826109.exe\") and, as the study showed, they contained a remote access trojan (RAT). A detailed analysis of malware samples, data on…",
+          "link": "http://blog.ptsecurity.com/2021/08/apt31-new-dropper-target-destinations.html",
+          "publishedOn": "2021-08-03T14:38:00.003Z",
+          "wordCount": null,
+          "title": "APT31 new dropper. Target destinations: Mongolia, Russia, the U.S., and elsewhere",
+          "imageUrl": null
+        },
+        {
+          "id": "http://blog.ptsecurity.com/2021/07/how-to-detect-cyberattack-and-prevent.html",
+          "author": null,
+          "description": "Money theft is one of the most important risks for any organization, regardless of its scope of activity. According to our data, 42% of cyberattacks on companies are committed to obtain direct financial benefits.  You can detect an attack at various stages — from network penetration to the moment when attackers start withdrawing money.  In this article, we will show how to detect an attack at each of its stages and minimize the risk, as well as analyze two common scenarios of such attacks: money theft manually using remote control programs and using special malware — a banking trojan.\n\n\n\n\n\n\nWhere to look for signs of the attack\n\n\nPenetration into the company's network\n\n\n\nPhishing emails\n\n\n\n\n\nMost often, attackers get into the local network by sending phishing emails with malicious attachme…",
+          "link": "http://blog.ptsecurity.com/2021/07/how-to-detect-cyberattack-and-prevent.html",
+          "publishedOn": "2021-07-19T10:54:00.007Z",
+          "wordCount": null,
+          "title": "How to detect a cyberattack and prevent money theft",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "Unit42",
+      "feedUrl": "http://feeds.feedburner.com/Unit42",
+      "siteUrl": "https://unit42.paloaltonetworks.com",
+      "articles": [
+        {
+          "id": "https://unit42.paloaltonetworks.com/?p=121951",
+          "author": "Tyler Halfpop",
+          "description": "A new Emotet infection method uses an obfuscated Excel 4.0 macro that, when activated, leads to the retrieval and execution of the final Emotet payload.\nThe post New Emotet Infection Method appeared first on Unit42.",
+          "link": "https://unit42.paloaltonetworks.com/new-emotet-infection-method/",
+          "publishedOn": "2022-02-15T14:00:57.000Z",
+          "wordCount": null,
+          "title": "New Emotet Infection Method",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://unit42.paloaltonetworks.com/?p=121888",
+          "author": "Unit 42",
+          "description": "We continue to monitor Gamaredon. We mapped three large clusters of their infrastructure, identified potential malware testing activity and more.\nThe post Russia’s Gamaredon aka Primitive Bear APT Group Actively Targeting Ukraine (Updated Feb. 16) appeared first on Unit42.",
+          "link": "https://unit42.paloaltonetworks.com/gamaredon-primitive-bear-ukraine-update-2021/",
+          "publishedOn": "2022-02-03T21:00:04.000Z",
+          "wordCount": null,
+          "title": "Russia’s Gamaredon aka Primitive Bear APT Group Actively Targeting Ukraine (Updated Feb. 16)",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://unit42.paloaltonetworks.com/?p=121749",
+          "author": "Alex Hinchliffe",
+          "description": "BlackCat ransomware (aka ALPHV) is notable for its use of the Rust programming language and an aggressive approach to naming and shaming victims.\nThe post Threat Assessment: BlackCat Ransomware appeared first on Unit42.",
+          "link": "https://unit42.paloaltonetworks.com/blackcat-ransomware/",
+          "publishedOn": "2022-01-27T14:00:27.000Z",
+          "wordCount": null,
+          "title": "Threat Assessment: BlackCat Ransomware",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://unit42.paloaltonetworks.com/?p=121706",
+          "author": "Yaron Samuel",
+          "description": "We observed a new surge of Agent Tesla and Dridex malware samples dropped by malicious Excel add-ins (XLL files). We focus here on Agent Tesla.\nThe post Weaponization of Excel Add-Ins Part 1: Malicious XLL Files and Agent Tesla Case Studies appeared first on Unit42.",
+          "link": "https://unit42.paloaltonetworks.com/excel-add-ins-malicious-xll-files-agent-tesla/",
+          "publishedOn": "2022-01-25T14:00:56.000Z",
+          "wordCount": null,
+          "title": "Weaponization of Excel Add-Ins Part 1: Malicious XLL Files and Agent Tesla Case Studies",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://unit42.paloaltonetworks.com/?p=121672",
+          "author": "Robert Falcone",
+          "description": "We analyze and suggest mitigations for CVE-2021-32648 and WhisperGate, two threats that have been targeting Ukrainian organizations.\nThe post Threat Brief: Ongoing Russia and Ukraine Cyber Conflict appeared first on Unit42.",
+          "link": "https://unit42.paloaltonetworks.com/ukraine-cyber-conflict-cve-2021-32648-whispergate/",
+          "publishedOn": "2022-01-20T20:30:38.000Z",
+          "wordCount": null,
+          "title": "Threat Brief: Ongoing Russia and Ukraine Cyber Conflict",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://unit42.paloaltonetworks.com/?p=121536",
+          "author": "Unit 42",
+          "description": "Operation Falcon II, championed by INTERPOL and The Nigeria Police Force, led to the arrest of a number of Nigerian business email compromise actors.\nThe post Operation Falcon II: Unit 42 Helps INTERPOL Identify Nigerian Business Email Compromise Ring Members appeared first on Unit42.",
+          "link": "https://unit42.paloaltonetworks.com/operation-falcon-ii-silverterrier-nigerian-bec/",
+          "publishedOn": "2022-01-19T16:00:57.000Z",
+          "wordCount": null,
+          "title": "Operation Falcon II: Unit 42 Helps INTERPOL Identify Nigerian Business Email Compromise Ring Members",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://unit42.paloaltonetworks.com/?p=121490",
+          "author": "Cecilia Hu",
+          "description": "We identify recent trends in web threats, including top malware families. Web skimmers, difficult to detect and easy to deploy, are highlighted.\nThe post The Year in Web Threats: Web Skimmers Take Advantage of Cloud Hosting and More appeared first on Unit42.",
+          "link": "https://unit42.paloaltonetworks.com/web-threats-trends-web-skimmers/",
+          "publishedOn": "2022-01-14T02:00:10.000Z",
+          "wordCount": null,
+          "title": "The Year in Web Threats: Web Skimmers Take Advantage of Cloud Hosting and More",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://unit42.paloaltonetworks.com/?p=121445",
+          "author": "Taojie Wang",
+          "description": "A supply chain attack leveraging a cloud video platform to distribute web skimmer campaigns compromised more than 100 real estate sites. \nThe post A New Web Skimmer Campaign Targets Real Estate Websites Through Attacking Cloud Video Distribution Supply Chain appeared first on Unit42.",
+          "link": "https://unit42.paloaltonetworks.com/web-skimmer-video-distribution/",
+          "publishedOn": "2022-01-03T20:00:35.000Z",
+          "wordCount": null,
+          "title": "A New Web Skimmer Campaign Targets Real Estate Websites Through Attacking Cloud Video Distribution Supply Chain",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://unit42.paloaltonetworks.com/?p=121381",
+          "author": "Zhanhao Chen",
+          "description": "Strategically aged domain detection can capture domains registered by advanced persistent threats or likely to be used for network abuses.\nThe post Strategically Aged Domain Detection: Capture APT Attacks With DNS Traffic Trends appeared first on Unit42.",
+          "link": "https://unit42.paloaltonetworks.com/strategically-aged-domain-detection/",
+          "publishedOn": "2021-12-29T14:00:33.000Z",
+          "wordCount": null,
+          "title": "Strategically Aged Domain Detection: Capture APT Attacks With DNS Traffic Trends",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://unit42.paloaltonetworks.com/?p=121272",
+          "author": "Yue Guan",
+          "description": "Network attacks observed August-October 2021 included high levels of cross-site scripting, code execution and directory traversal.\nThe post Network Security Trends: August-October 2021 appeared first on Unit42.",
+          "link": "https://unit42.paloaltonetworks.com/network-attacks-trends-august-october-2021/",
+          "publishedOn": "2021-12-21T20:00:34.000Z",
+          "wordCount": null,
+          "title": "Network Security Trends: August-October 2021",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://unit42.paloaltonetworks.com/?p=121161",
+          "author": "Tao Yan",
+          "description": "We provide background and a root cause analysis of CVE-2021-44228, a remote code execution vulnerability in Apache log4j, and we recommend mitigations. \nThe post Another Apache Log4j Vulnerability Is Actively Exploited in the Wild (CVE-2021-44228) (Updated Dec. 28) appeared first on Unit42.",
+          "link": "https://unit42.paloaltonetworks.com/apache-log4j-vulnerability-cve-2021-44228/",
+          "publishedOn": "2021-12-10T21:00:03.000Z",
+          "wordCount": null,
+          "title": "Another Apache Log4j Vulnerability Is Actively Exploited in the Wild (CVE-2021-44228) (Updated Dec. 28)",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://unit42.paloaltonetworks.com/?p=121048",
+          "author": "Fang Liu",
+          "description": "Patient zero web threats are malicious URLs that are being seen for the first time. We discuss how to stop them despite attacker cloaking techniques.\nThe post Detecting Patient Zero Web Threats in Real Time With Advanced URL Filtering appeared first on Unit42.",
+          "link": "https://unit42.paloaltonetworks.com/patient-zero-web-threats/",
+          "publishedOn": "2021-12-09T14:00:47.000Z",
+          "wordCount": null,
+          "title": "Detecting Patient Zero Web Threats in Real Time With Advanced URL Filtering",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://unit42.paloaltonetworks.com/?p=121007",
+          "author": "Robert Falcone",
+          "description": "A persistent and determined APT actor has expanded beyond Zoho ManageEngine ADSelfService Plus and begun an active campaign against ServiceDesk Plus.\nThe post APT Expands Attack on ManageEngine With Active Campaign Against ServiceDesk Plus appeared first on Unit42.",
+          "link": "https://unit42.paloaltonetworks.com/tiltedtemple-manageengine-servicedesk-plus/",
+          "publishedOn": "2021-12-02T14:00:51.000Z",
+          "wordCount": null,
+          "title": "APT Expands Attack on ManageEngine With Active Campaign Against ServiceDesk Plus",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://unit42.paloaltonetworks.com/?p=121025",
+          "author": "Erica Naone",
+          "description": "Wildcard DNS records can be used constructively, but their flexibility also provides attackers with a variety of options for executing attacks.\nThe post Play Your Cards Right: Detecting Wildcard DNS Abuse appeared first on Unit42.",
+          "link": "https://unit42.paloaltonetworks.com/wildcard-dns-abuse/",
+          "publishedOn": "2021-12-01T14:00:54.000Z",
+          "wordCount": null,
+          "title": "Play Your Cards Right: Detecting Wildcard DNS Abuse",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://unit42.paloaltonetworks.com/?p=120983",
+          "author": "Jay Chen",
+          "description": "Insecurely exposed services are common misconfigurations in cloud environments. We used a honeypot infrastructure to learn about attacks against them.\nThe post Observing Attacks Against Hundreds of Exposed Services in Public Clouds appeared first on Unit42.",
+          "link": "https://unit42.paloaltonetworks.com/exposed-services-public-clouds/",
+          "publishedOn": "2021-11-22T20:00:35.000Z",
+          "wordCount": null,
+          "title": "Observing Attacks Against Hundreds of Exposed Services in Public Clouds",
+          "itunes": {},
+          "imageUrl": null
+        }
+      ]
+    },
+    {
       "title": "Fuzzing on Medium",
       "feedUrl": "https://medium.com/feed/tag/fuzzing",
       "siteUrl": "https://medium.com/tag/fuzzing/latest?source=rss------fuzzing-5",
@@ -31173,6 +31772,150 @@
           "publishedOn": "2021-08-02T16:41:55.000Z",
           "wordCount": 2522,
           "title": "HYBRID HACKER SUMMER CAMP 2021 GUIDE — Part Five: FuzzCON"
+        }
+      ]
+    },
+    {
+      "title": "Doyensec's Blog",
+      "feedUrl": "https://blog.doyensec.com/atom.xml",
+      "siteUrl": "https://blog.doyensec.com//atom.xml",
+      "articles": [
+        {
+          "id": "https://blog.doyensec.com//2022/02/16/h1jack-the-game.html",
+          "author": null,
+          "description": "As crazy as it sounds, we’re releasing a casual free-to-play mobile auto-battler for Android and iOS. We’re not changing line of business - just having fun with computers!\nWe believe that the greatest learning lessons come from outside your comfort zone, so whether it is a security audit or a new side hustle we’re always challenging ourself to improve the craft.\nDuring the fall of 2019, we embarked on a pretty ambitious goal despite the virtually zero experience in game design. We partnered with a small game studio that was just getting started and decided to combine forces to design and develop a casual mobile game set in the *cyber* space. After many prototypes and changes of direction, we spent a good portion of 2020 spare time to work on the core mechanics and graphics. Unfortunately, the limited time and budget further delayed beta testing and the final release. Making a game is no joke, especially when it is a combined side project for two thriving businesses.\nDespite all, we’re happy to announce the release of H1.Jack for Android and iOS as a free-to-play with no advertisement. We hope you’ll enjoy the game in between your commutes and lunch breaks!\nAndroid: https://play.google.com/store/apps/details?id=com.CobbleGames.Hijack\niOS (iPhone and iPad)  https://apps.apple.com/app/hijack-game/id1517609205\nNo malware included.\nH1.Jack is a casual mobile auto-battler inspired by cyber security events. Start from the very bottom and spend your money and fame in gaining new techniques and exploits. Heartbleed or Shellshock won’t be enough!\nWhile playing, you might end up talking to John or Luca.\nOur monsters are procedurally generated, meaning there will be tons of unique systems, apps, malware and bots to hack. Battle levels are also dynamically generated. If you want a sneak peek, check out the trailer:",
+          "link": "https://blog.doyensec.com//2022/02/16/h1jack-the-game.html",
+          "publishedOn": "2022-02-15T23:00:00.000Z",
+          "wordCount": 358,
+          "title": "H1.Jack, The Game",
+          "imageUrl": null
+        },
+        {
+          "id": "https://blog.doyensec.com//2021/05/20/graphql-csrf.html",
+          "author": null,
+          "description": "With the increasing popularity of GraphQL on the web, we would like to discuss a particular class of vulnerabilities that is often hidden in GraphQL implementations.\nGraphQL what?\nGraphQL is an open source query language, loved by many, that can help you in building meaningful APIs.\nIts major features are:\nAggregating data from multiple sources\nDecoupling the data from the database underneath, through a graph form\nEnsuring input type correctness with minimal effort from the developers\nCSRF eh?\nCross Site Request Forgery (CSRF) is a type of attack that occurs when a malicious web application causes a web browser to perform an unwanted action on the behalf of an authenticated user. Such an attack works because browser requests automatically include all cookies, including session cookies.\nGra…",
+          "link": "https://blog.doyensec.com//2021/05/20/graphql-csrf.html",
+          "publishedOn": "2021-05-19T22:00:00.000Z",
+          "wordCount": 1355,
+          "title": "That single GraphQL issue that you keep missing",
+          "imageUrl": null
+        },
+        {
+          "id": "https://blog.doyensec.com//2021/03/11/regexploit.html",
+          "author": null,
+          "description": ".ansi{ line-height: 1.1; font-family: monospace; margin-left: 1rem; } .myansi { margin-left: 1rem; } .myansi p { margin-bottom: 0.2rem; } code.regex span { color: #fff; padding: 2px 4px; }\n\nWhen thinking of Denial of Service (DoS), we often focus on Distributed Denial of Service (DDoS) where millions of zombie machines overload a service by launching a tsunami of data.\nHowever, by abusing the algorithms a web application uses, an attacker can bring a server to its knees with as little as a single request.\nDoing that requires finding algorithms which have terrible performance under certain conditions, and then triggering those conditions.\nOne widespread and frequently vulnerable area is in the misuse of regular expressions (regexes).\nRegular expressions are used for all manner of text-proce…",
+          "link": "https://blog.doyensec.com//2021/03/11/regexploit.html",
+          "publishedOn": "2021-03-10T23:00:00.000Z",
+          "wordCount": 1901,
+          "title": "Regexploit: DoS-able Regular Expressions",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "TrustedSec",
+      "feedUrl": "https://www.trustedsec.com/feed/",
+      "siteUrl": "https://www.trustedsec.com",
+      "articles": [
+        {
+          "id": "https://www.trustedsec.com/?p=26050",
+          "author": "Nathan Noll",
+          "description": "Disclaimer: To set up a secure Python server, we need a domain name that we can access. 1. Introduction At some point during penetration testing, bug hunting, and capture the flag competitions, we will likely need to download a file or send a request to a server that we can access. Depending on what we...\nThe post Avoiding Mixed Content Errors with an HTTPS Python Server appeared first on TrustedSec.",
+          "link": "https://www.trustedsec.com/blog/avoiding-mixed-content-errors-with-an-https-python-server/",
+          "publishedOn": "2022-02-17T15:08:33.000Z",
+          "wordCount": 2733,
+          "title": "Avoiding Mixed Content Errors with an HTTPS Python Server",
+          "imageUrl": "https://www.trustedsec.com/wp-content/uploads/2022/02/HTTPPythonServer_LinkedIn.jpg"
+        },
+        {
+          "id": "https://www.trustedsec.com/?p=25796",
+          "author": "Amanda Mates",
+          "description": "For many of us, working from home is here to stay, but it does come with its own challenges. This article contains some of the best tips and tricks from TrustedSec consultants on how to stay focused at home. Set an alarm to start and stop working Alarms can be set in shorter intervals, to...\nThe post Work From Home Productivity Tips appeared first on TrustedSec.",
+          "link": "https://www.trustedsec.com/blog/work-from-home-productivity-tips/",
+          "publishedOn": "2022-02-15T15:58:59.000Z",
+          "wordCount": 978,
+          "title": "Work From Home Productivity Tips",
+          "imageUrl": "https://www.trustedsec.com/wp-content/uploads/2022/02/WorkingFromHome_V2_LinkedIn.jpg"
+        },
+        {
+          "id": "https://www.trustedsec.com/?p=25817",
+          "author": "Nathan Noll",
+          "description": "Technology changes and defenses get better, but some things stay the same—like human gullibility, which can be easily exploited through social engineering. What is social engineering? Social engineering, at its core, is taking advantage of human nature. Humans are innately trusting, often try to help, and want to avoid confrontation. A big facet of social...\nThe post Social Engineering Basics: How to Win Friends and Infiltrate Businesses appeared first on TrustedSec.",
+          "link": "https://www.trustedsec.com/blog/social-engineering-basics-how-to-win-friends-and-infiltrate-businesses/",
+          "publishedOn": "2022-02-10T17:30:33.000Z",
+          "wordCount": 1427,
+          "title": "Social Engineering Basics: How to Win Friends and Infiltrate Businesses",
+          "imageUrl": "https://www.trustedsec.com/wp-content/uploads/2022/02/PhysicalSocialEngineering_LinkedIn.jpg"
+        },
+        {
+          "id": "https://www.trustedsec.com/?p=25970",
+          "author": "Amanda Mates",
+          "description": "Using an OS binary to carry out our bidding has been a tactic employed by Red Teamers for years. This eventually led to us coining the term LOLBIN. This tactic is typically used as a way of flying under the radar of EDR solutions or to bypass application whitelisting by surrounding our code in the...\nThe post Object Overloading appeared first on TrustedSec.",
+          "link": "https://www.trustedsec.com/blog/object-overloading/",
+          "publishedOn": "2022-02-08T14:33:17.000Z",
+          "wordCount": 3487,
+          "title": "Object Overloading",
+          "imageUrl": "https://www.trustedsec.com/wp-content/uploads/2022/02/ObjectOverloading_LinkedIn_1.jpg"
+        },
+        {
+          "id": "https://www.trustedsec.com/?p=25838",
+          "author": "Nathan Noll",
+          "description": "For years now, Internal Penetration Testing teams have been successful in obtaining a foothold or even compromising entire domains through a technique called NTLM relaying. The earliest, most descriptive relaying blog post I could find dates all the way back to 2017 written by Marcello, better known as byt3bl33d3r:https://byt3bl33d3r.github.io/practical-guide-to-ntlm-relaying-in-2017-aka-getting-a-foothold-in-under-5-minutes.html At the time of writing this...\nThe post I’m bringing relaying back: A comprehensive guide on relaying anno 2022 appeared first on TrustedSec.",
+          "link": "https://www.trustedsec.com/blog/a-comprehensive-guide-on-relaying-anno-2022/",
+          "publishedOn": "2022-02-03T14:00:13.000Z",
+          "wordCount": 4631,
+          "title": "I’m bringing relaying back: A comprehensive guide on relaying anno 2022",
+          "imageUrl": "https://www.trustedsec.com/wp-content/uploads/2022/02/ImBringingRelayingBack_LinkedIn.jpg"
+        },
+        {
+          "id": "https://www.trustedsec.com/?p=25692",
+          "author": "Amanda Mates",
+          "description": "Introduction Let’s say an ‘Administrator’ lands on a target network host and wants to look around and ‘administer’ the system without uploading any new tools… How can I do that without burning any of my Script Kiddie tools? WMI or Windows Management Instrumentation or Windows Managed Infrastructure is an interface for managed components that provides...\nThe post WMI for Script Kiddies appeared first on TrustedSec.",
+          "link": "https://www.trustedsec.com/blog/wmi-for-script-kiddies/",
+          "publishedOn": "2022-01-20T14:15:11.000Z",
+          "wordCount": 3648,
+          "title": "WMI for Script Kiddies",
+          "imageUrl": "https://www.trustedsec.com/wp-content/uploads/2022/01/ScriptKiddies_Jan2_LinkedIn.jpg"
+        },
+        {
+          "id": "https://www.trustedsec.com/?p=25720",
+          "author": "Nathan Noll",
+          "description": "1.1      Intro I spent my early IT career working for a Cisco partner that specialized in Cisco phone systems. My work wasn’t directly with the phone systems, but it was usually in an adjacent field like route/switch and security. I did, however, get to see my share of networks that used Cisco phone systems. Today,...\nThe post SeeYouCM-Thief: Exploiting common misconfigurations in Cisco phone systems appeared first on TrustedSec.",
+          "link": "https://www.trustedsec.com/blog/seeyoucm-thief-exploiting-common-misconfigurations-in-cisco-phone-systems/",
+          "publishedOn": "2022-01-18T13:53:50.000Z",
+          "wordCount": 1610,
+          "title": "SeeYouCM-Thief: Exploiting common misconfigurations in Cisco phone systems",
+          "imageUrl": "https://www.trustedsec.com/wp-content/uploads/2022/01/SeeYouCM-Thief_LinkedIn.jpg"
+        },
+        {
+          "id": "https://www.trustedsec.com/?p=25573",
+          "author": "Nathan Noll",
+          "description": "I briefly mentioned using DKIM to verify an email’s sender in a previous blog post that described the steps I took to determine whether a suspicious email was legitimate or a phishing attempt. In this post, we will take a deeper dive into how organizations can help stop email spoofing using a combination of three...\nThe post Real or Fake? Spoof-Proofing Email With SPF, DKIM, and DMARC appeared first on TrustedSec.",
+          "link": "https://www.trustedsec.com/blog/real-or-fake-spoof-proofing-email-with-spf-dkim-and-dmarc/",
+          "publishedOn": "2022-01-13T15:15:43.000Z",
+          "wordCount": 3698,
+          "title": "Real or Fake? Spoof-Proofing Email With SPF, DKIM, and DMARC",
+          "imageUrl": "https://www.trustedsec.com/wp-content/uploads/2022/01/Stopping-Email-Spoofing_LinkedIn.jpg"
+        },
+        {
+          "id": "https://www.trustedsec.com/?p=25563",
+          "author": "Nathan Noll",
+          "description": "I briefly mentioned how easy it is to forge email sender addresses in a previous blog post that described the steps I took to determine whether a suspicious email was legitimate or a phishing attempt. In this post, we will take a deeper dive into why email sender addresses are so easy to forge and...\nThe post Real or Fake? How to Spoof Email appeared first on TrustedSec.",
+          "link": "https://www.trustedsec.com/blog/real-or-fake-how-to-spoof-email/",
+          "publishedOn": "2022-01-11T13:52:07.000Z",
+          "wordCount": 4244,
+          "title": "Real or Fake? How to Spoof Email",
+          "imageUrl": "https://www.trustedsec.com/wp-content/uploads/2022/01/Spoofing-Email_LinkedIn.jpg"
+        },
+        {
+          "id": "https://www.trustedsec.com/?p=25575",
+          "author": "Amanda Mates",
+          "description": "1.0 Introduction On Friday, December 10, 2021, Charlie Clark (@exploitph) published a blog post detailing the weaponization of CVEs 2021-42287 and 2021-42278. In the blog post, Charlie extensively covered the background of the vulnerabilities, how the vulnerabilities were weaponized into Rubeus, with help from Ceri Coburn (@_EthicalChaos_), the full ‘attack chain,’ mitigations, and some detections....\nThe post An ‘Attack Path’ Mapping Approach to CVEs 2021-42287 and 2021-42278 appeared first on TrustedSec.",
+          "link": "https://www.trustedsec.com/blog/an-attack-path-mapping-approach-to-cves-2021-42287-and-2021-42278/",
+          "publishedOn": "2022-01-06T14:01:12.000Z",
+          "wordCount": 2160,
+          "title": "An ‘Attack Path’ Mapping Approach to CVEs 2021-42287 and 2021-42278",
+          "imageUrl": "https://www.trustedsec.com/wp-content/uploads/2022/01/AnAttackPathMappingApproach_LinkedIn.jpg"
         }
       ]
     },
