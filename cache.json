@@ -6,6 +6,16 @@
       "siteUrl": "http://h1.nobbd.de/",
       "articles": [
         {
+          "id": "https://hackerone.com/reports/1442017",
+          "author": null,
+          "description": "Mattermost disclosed a bug submitted by rynexxx: https://hackerone.com/reports/1442017 - Bounty: $50",
+          "link": "https://hackerone.com/reports/1442017",
+          "publishedOn": "2022-02-20T09:08:08.000Z",
+          "wordCount": 25,
+          "title": "Self XSS in Create New Workspace Screen",
+          "imageUrl": "https://profile-photos.hackerone-user-content.com/variants/000/035/268/9c24022b929e7fae94799068cf956f5c69d3ea15_original./0621f211aae8984f02f017decf83d0064fe91a6a16b11f840ecf5b53ddb7b872"
+        },
+        {
           "id": "https://hackerone.com/reports/1343528",
           "author": null,
           "description": "VK.com disclosed a bug submitted by executor: https://hackerone.com/reports/1343528 - Bounty: $3000",
@@ -3932,6 +3942,66 @@
       "siteUrl": "https://medium.com/tag/bugbounty/latest?source=rss------bugbounty-5",
       "articles": [
         {
+          "id": "https://medium.com/p/d741aabddb94",
+          "author": "Faizan Elahi",
+          "description": "Hey there! My name is Faizan and this write up is about an interesting Stored XSS I found earlier today!\nIf you know what an XSS aka Cross…\nContinue reading on Medium »",
+          "link": "https://f4t7.medium.com/interesting-stored-xss-d741aabddb94?source=rss------bugbounty-5",
+          "publishedOn": "2022-02-20T20:03:01.000Z",
+          "wordCount": 392,
+          "title": "Interesting Stored XSS",
+          "imageUrl": "https://miro.medium.com/max/1200/1*QSp56jYx851cC6m9Hz1Tdg.png"
+        },
+        {
+          "id": "https://medium.com/p/5d5b2c60c91d",
+          "author": "Rend",
+          "description": "A restricted browser, that’s all you have… what do you do?\nContinue reading on Medium »",
+          "link": "https://medium.com/@Rend_/give-me-a-browser-ill-give-you-a-shell-5d5b2c60c91d?source=rss------bugbounty-5",
+          "publishedOn": "2022-02-20T18:44:44.000Z",
+          "wordCount": 867,
+          "title": "Give me a browser, I’ll give you a shell",
+          "imageUrl": "https://miro.medium.com/max/1000/1*jYYdqwW9xfmekOA1jEl3hA.png"
+        },
+        {
+          "id": "https://medium.com/p/e5a122f2291b",
+          "author": "Kamal S",
+          "description": "Burp Suite is an intercepting tool which can be used to capture and manipulate all of the data traffic between Client and Server. This…\nContinue reading on Medium »",
+          "link": "https://medium.com/@Kamal_S/burp-suite-tool-overview-and-usage-e5a122f2291b?source=rss------bugbounty-5",
+          "publishedOn": "2022-02-20T18:10:14.000Z",
+          "wordCount": 545,
+          "title": "Burp Suite Tool — Overview and Usage",
+          "imageUrl": "https://miro.medium.com/max/879/1*07zta5zcPDqam8MTAzMjlQ.png"
+        },
+        {
+          "id": "https://medium.com/p/29b5c2c60e95",
+          "author": "Sriram Kesavan",
+          "description": "A Feature that almost broke Google Groups !!\nContinue reading on InfoSec Write-ups »",
+          "link": "https://infosecwriteups.com/send-a-email-to-me-and-get-kicked-out-of-google-groups-29b5c2c60e95?source=rss------bugbounty-5",
+          "publishedOn": "2022-02-20T12:36:55.000Z",
+          "wordCount": 901,
+          "title": "Send a Email to me and get kicked out of Google Groups !!",
+          "imageUrl": "https://miro.medium.com/max/1200/1*HIyxe0m72vmdEtvFmX4c9w.png"
+        },
+        {
+          "id": "https://medium.com/p/a1fdb4ecf132",
+          "author": "Abhishek Kashniyal",
+          "description": "Hello Everyone,\nThis is Abhishek Kashniyal, I am a CSE student with specialization\nin Cyber Security & Forensics, a constant learner and…\nContinue reading on Medium »",
+          "link": "https://akashniyal.medium.com/how-i-make-money-with-hacking-a1fdb4ecf132?source=rss------bugbounty-5",
+          "publishedOn": "2022-02-20T12:09:52.000Z",
+          "wordCount": 642,
+          "title": "How I make money with Hacking …",
+          "imageUrl": "https://miro.medium.com/max/353/1*_9l4S2mr5Wze6Sljxzb6rA.png"
+        },
+        {
+          "id": "https://medium.com/p/be18a1cb3535",
+          "author": "Ruben (Hacker_Yogi)",
+          "description": "What is Algolia?\nContinue reading on Medium »",
+          "link": "https://medium.com/@Hacker_Yogi/bugbounty-algolia-key-disclosure-vulnerability-be18a1cb3535?source=rss------bugbounty-5",
+          "publishedOn": "2022-02-20T08:29:47.000Z",
+          "wordCount": 340,
+          "title": "BugBounty: Algolia key disclosure vulnerability",
+          "imageUrl": "https://miro.medium.com/max/1200/0*svk_UvRbmP8ZixbR"
+        },
+        {
           "id": "https://medium.com/p/905bc64a0b33",
           "author": "Gourab Roy",
           "description": "Local File inclusion\nContinue reading on System Weakness »",
@@ -7613,6 +7683,16 @@
       "siteUrl": "https://medium.com/tag/redteam/latest?source=rss------redteam-5",
       "articles": [
         {
+          "id": "https://medium.com/p/1adb7ecf26eb",
+          "author": "Rabbit",
+          "description": "A short article outlining the phases to go through, while planning a red team engagement.\nContinue reading on Medium »",
+          "link": "https://r4bb1t.medium.com/red-team-engagement-planning-1adb7ecf26eb?source=rss------redteam-5",
+          "publishedOn": "2022-02-20T03:02:46.000Z",
+          "wordCount": 534,
+          "title": "Red Team Engagement Planning",
+          "imageUrl": null
+        },
+        {
           "id": "https://medium.com/p/3ae4bb9af3b4",
           "author": "Cedric Owens",
           "description": "TL;DR This blog post takes a brief look at how to use JXA (native JavaScript for Automation on macOS) to query Spotlight APIs. In…\nContinue reading on Medium »",
@@ -9670,6 +9750,26 @@
       "feedUrl": "https://medium.com/feed/tag/osint",
       "siteUrl": "https://medium.com/tag/osint/latest?source=rss------osint-5",
       "articles": [
+        {
+          "id": "https://medium.com/p/d7bf9cb99a6a",
+          "author": "Sabrina Barbosa",
+          "description": "O quanto de informação pessoal e íntima divulgamos nas mídias sociais de forma espontânea e despreocupada?\nContinue reading on Medium »",
+          "link": "https://medium.com/@brasinaramos96/inventing-anna-engenharia-social-e-osint-qual-o-prospecto-para-o-futuro-no-quesito-de-seguran%C3%A7a-d7bf9cb99a6a?source=rss------osint-5",
+          "publishedOn": "2022-02-20T23:00:07.000Z",
+          "wordCount": 852,
+          "title": "Inventing Anna, engenharia social e OSINT, qual o prospecto para o futuro no quesito de segurança…",
+          "imageUrl": "https://miro.medium.com/max/1200/1*dOtuYVYtcZ08ApcEG0Kwzg.png"
+        },
+        {
+          "id": "https://medium.com/p/df15d8eaef01",
+          "author": "Sofia Santos",
+          "description": "Thirteen. Unlucky for some.\nLet’s see how you could solve Hacktoria’s practice challenge: Geolocation 13.\nI confess I was very excited…\nContinue reading on Medium »",
+          "link": "https://gralhix.medium.com/walkthrough-hacktoria-geolocation-13-df15d8eaef01?source=rss------osint-5",
+          "publishedOn": "2022-02-20T15:14:11.000Z",
+          "wordCount": 966,
+          "title": "Walkthrough — Hacktoria: Geolocation 13",
+          "imageUrl": "https://miro.medium.com/max/1200/1*zCZyAS8zqBqg_TpFMgQk4g.jpeg"
+        },
         {
           "id": "https://medium.com/p/1316dcd4d71d",
           "author": "PME Intelligence",
@@ -12826,6 +12926,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=30403952",
+          "author": "Torress",
+          "description": "Article URL: https://www.thecybersecuritytimes.com/the-red-cross-data-breach-exploited-a-manageengine-vulnerability-by-apt27/\nComments URL: https://news.ycombinator.com/item?id=30403952\nPoints: 1\n# Comments: 1",
+          "link": "https://www.thecybersecuritytimes.com/the-red-cross-data-breach-exploited-a-manageengine-vulnerability-by-apt27/",
+          "publishedOn": "2022-02-20T07:34:46.000Z",
+          "wordCount": 1090,
+          "title": "The Red Cross Data Breach Exploited a ManageEngine Vulnerability by APT27",
+          "imageUrl": "https://www.thecybersecuritytimes.com/wp-content/uploads/2022/02/Vulnerability-Exploited.jpg"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=30401324",
           "author": "thebetatester",
           "description": "Article URL: https://ubuntu.com/security/notices/USN-4728-1\nComments URL: https://news.ycombinator.com/item?id=30401324\nPoints: 1\n# Comments: 0",
@@ -13761,6 +13871,16 @@
       "siteUrl": "https://www.freebuf.com",
       "articles": [
         {
+          "id": "https://www.freebuf.com/articles/322494.html",
+          "author": null,
+          "description": "Facebook 母公司 Meta 同意支付 9000 万美元，以了结一场十年前的诉讼案件。",
+          "link": "https://www.freebuf.com/articles/322494.html",
+          "publishedOn": "2022-02-18T10:56:12.000Z",
+          "wordCount": 234,
+          "title": "FreeBuf早报 | Meta因隐私案赔付九千万美元；谷歌推新隐私保护政策",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.freebuf.com/news/322467.html",
           "author": null,
           "description": "近日，网络安全研究人员破解了一种名为Kraken的新型僵尸网络。该僵尸网络是基于Golang语言开发的，黑客们正在积极对它进行优化升级。",
@@ -13768,6 +13888,26 @@
           "publishedOn": "2022-02-18T09:19:12.000Z",
           "wordCount": 144,
           "title": "一种基于Golang的僵尸网络正在成为新的威胁",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.freebuf.com/news/322456.html",
+          "author": null,
+          "description": "谷歌周三宣布，计划将隐私沙盒引入安卓系统，以期将既注重隐私、又不会对用户造成干扰的广告技术扩展到移动网络。",
+          "link": "https://www.freebuf.com/news/322456.html",
+          "publishedOn": "2022-02-18T09:17:24.000Z",
+          "wordCount": 149,
+          "title": "谷歌宣布将在安卓系统内引入“隐私沙盒”",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.freebuf.com/news/322424.html",
+          "author": null,
+          "description": "物联网恶意软件、加密威胁和加密劫持等都保持了全年的高速增长。",
+          "link": "https://www.freebuf.com/news/322424.html",
+          "publishedOn": "2022-02-18T07:48:17.000Z",
+          "wordCount": 221,
+          "title": "勒索软件猖獗，2021 年检测到 6.23 亿次",
           "imageUrl": null
         },
         {
@@ -17794,6 +17934,16 @@
       "siteUrl": "http://www.sec-wiki.com/",
       "articles": [
         {
+          "id": "http://www.sec-wiki.com/?2022-02-20",
+          "author": null,
+          "description": "今日暂未更新资讯~\n更多最新文章，请访问SecWiki",
+          "link": "http://www.sec-wiki.com/?2022-02-20",
+          "publishedOn": "2022-02-20T15:58:20.000Z",
+          "wordCount": 587,
+          "title": "SecWiki News 2022-02-20 Review",
+          "imageUrl": null
+        },
+        {
           "id": "http://www.sec-wiki.com/?2022-02-19",
           "author": null,
           "description": "今日暂未更新资讯~\n更多最新文章，请访问SecWiki",
@@ -18428,6 +18578,46 @@
       "feedUrl": "https://www.reddit.com/r/asknetsec/.rss",
       "siteUrl": "https://www.reddit.com/r/asknetsec/",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/sx8sd0/i_want_to_know_what_a_day_in_a_life_looks_like_as/",
+          "author": null,
+          "description": "what would a company look for when hiring junior infosec analysts? i just started as a junior help desk technician and i hear that experience is better than certs i just want to get an idea of what a company will look for when hiring a junior infosec analyst also is it possible to go from help desk to infosec?\n    submitted by    /u/Jkarl0880  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/sx8sd0/i_want_to_know_what_a_day_in_a_life_looks_like_as/",
+          "publishedOn": "2022-02-20T19:12:22.000Z",
+          "wordCount": 254,
+          "title": "I want to know what a day in a life looks like as a infosec analyst. also what would company’s look for when hiring a junior infosec analyst",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/sx82ot/any_suggestions_for_gaining_resumeworthy/",
+          "author": null,
+          "description": "I pivoted from a technical security role to a customer facing technical/management role for a cybersecurity SaaS company a couple years ago. I’ve been considering getting back into the security engineering/architect side of things. One area I’m finding seems to be a requirement for most roles is experience in cloud security like mastery of AWS. I’m also noticing requirements for experience in container tools such as Kubernetes. This isn’t experience I can gain on the job right now. Any suggestions on how I can get experience that matters for these technologies? I don’t want to fall behind and lose any chance of working in a direct security role again\n    submitted by    /u/7heJoker  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/sx82ot/any_suggestions_for_gaining_resumeworthy/",
+          "publishedOn": "2022-02-20T18:41:40.000Z",
+          "wordCount": 288,
+          "title": "Any suggestions for gaining resume-worthy experience in cloud security?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/swwk56/sap_cve202222536_technical_analysis/",
+          "author": null,
+          "description": "Anybody by some chance has some sources on the new CVE of score 10 impacting SAP NetWeaver? I can't find any details of the specific vulnerable mechanism that allowed the request smuggling.\n Thanks :)\n    submitted by    /u/Altiverses  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/swwk56/sap_cve202222536_technical_analysis/",
+          "publishedOn": "2022-02-20T08:26:07.000Z",
+          "wordCount": 253,
+          "title": "SAP CVE-2022-22536 technical analysis?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/swuzn2/what_are_the_prerequisite_skillsknowledge_for/",
+          "author": null,
+          "description": "Trying to learn reverse-engineering and binary exploitation and I came across this playlist, Watched a few videos but didn't got a thing, it feels like I'm missing some knowledge gaps in between, Can someone please give me a clear roadmap so that I can start using Radare2?\n ​\n Edit: after radare, I wanna learn Ghidra lol \n    submitted by    /u/The_Intellectualist  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/swuzn2/what_are_the_prerequisite_skillsknowledge_for/",
+          "publishedOn": "2022-02-20T06:43:39.000Z",
+          "wordCount": 675,
+          "title": "What are the prerequisite skills/knowledge for reverse engineering?",
+          "imageUrl": "https://external-preview.redd.it/wVFkpKMmoblHCFPhYmo80yYFuXZIzrrUHwms_KbFnIA.jpg?auto=webp&s=9a3fac3645e56445b9b112daca9d8064e872010c"
+        },
         {
           "id": "https://www.reddit.com/r/AskNetsec/comments/swosxh/how_is_your_day_as_an_entrylevel_soc/",
           "author": null,
@@ -23362,6 +23552,36 @@
       "siteUrl": "https://www.reddit.com/r/computerforensics/",
       "articles": [
         {
+          "id": "https://www.reddit.com/r/computerforensics/comments/sx2vsx/telegram_vs_cellebrite/",
+          "author": null,
+          "description": "\"Telegram for iOS: Access and decode secret chats which can only be accessed on their devices of origin. You can also recover deleted messages.\" im in too deep this forensic thingy is kinda exciting and im in a business major. I guess one can really recover deleted telegram chats using cellebrite! amazing\n    submitted by    /u/b4dboyrere  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/computerforensics/comments/sx2vsx/telegram_vs_cellebrite/",
+          "publishedOn": "2022-02-20T14:51:59.000Z",
+          "wordCount": 319,
+          "title": "Telegram vs Cellebrite",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/computerforensics/comments/sx2fe9/apple_icloud_productions/",
+          "author": null,
+          "description": "What kind of data are included in apple icloud productions ? do they include permanently deleted files notes, media?\n    submitted by    /u/b4dboyrere  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/computerforensics/comments/sx2fe9/apple_icloud_productions/",
+          "publishedOn": "2022-02-20T14:28:59.000Z",
+          "wordCount": 282,
+          "title": "Apple iCloud Productions",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/computerforensics/comments/sx0jkl/jump_from_it_audit_into_computer_forensics/",
+          "author": null,
+          "description": "hello friends \n to make things short, \n I am an IT Auditor with 1.5 years of experience, and I hate the part of dealing with people in IT Audit. \n but its very essential to deal with people there.\n so decided to jump to forensics, do you people deal with humans or simply have to worry about machines and that is it?\n and, i am cisa certified, will that help? \n what certification do you suggest taking for computer forensics? \n and how is the pay for IT Audit vs Computer forensics? in short, do you recommend the shift or not? \n thx\n    submitted by    /u/ItchyPilot9804  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/computerforensics/comments/sx0jkl/jump_from_it_audit_into_computer_forensics/",
+          "publishedOn": "2022-02-20T12:48:08.000Z",
+          "wordCount": 519,
+          "title": "jump from IT Audit into computer forensics",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.reddit.com/r/computerforensics/comments/swl9ka/printer_assigned_a_drive_letter_in_windows/",
           "author": null,
           "description": "Has anyone else come across a printer that was assigned a drive letter? I’ve never seen this in my personal life but it stood out to me while I was working a case. In this instance, it was a Brother printer assigned to D:. Does doing this provide any additional functionality rather than just printing documents?\n    submitted by    /u/ebarboza311  \n [link]   [comments]",
@@ -24692,6 +24912,26 @@
       "feedUrl": "https://www.reddit.com/r/netsec/.rss",
       "siteUrl": "https://www.reddit.com/r/netsec/",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/netsec/comments/sxcfja/analysis_of_cve202136260_exploited_in_the_wild/",
+          "author": null,
+          "description": "submitted by    /u/chicksdigthelongrun  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/netsec/comments/sxcfja/analysis_of_cve202136260_exploited_in_the_wild/",
+          "publishedOn": "2022-02-20T21:52:38.000Z",
+          "wordCount": 115,
+          "title": "Analysis of CVE-2021-36260: Exploited in the Wild Hikvision Camera Vulnerability",
+          "imageUrl": "https://external-preview.redd.it/mGLBoL4KmyEtU4xGloONgLyVDykOOmh-RFFHKzjtJoM.jpg?auto=webp&s=20a396e82615f5a13f0dd7a920c92f0558e9675d"
+        },
+        {
+          "id": "https://www.reddit.com/r/netsec/comments/sx18rj/rconn_consume_services_behind_nat_or_firewall/",
+          "author": null,
+          "description": "submitted by    /u/jafarlihi  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/netsec/comments/sx18rj/rconn_consume_services_behind_nat_or_firewall/",
+          "publishedOn": "2022-02-20T13:26:43.000Z",
+          "wordCount": 238,
+          "title": "rconn - Consume services behind NAT or firewall without opening ports or port-forwarding",
+          "imageUrl": "https://external-preview.redd.it/rTqcO_W2Fo_jOe5C2HekzYnbFfbEcDi_TrwvIADJTN0.jpg?auto=webp&s=ff27217ab19ca873d835c160d8484100d96ad373"
+        },
         {
           "id": "https://www.reddit.com/r/netsec/comments/sw9w19/certipy_20_bloodhound_new_domain_privilege/",
           "author": null,
@@ -27200,6 +27440,26 @@
       "feedUrl": "https://www.reddit.com/r/opendirectories/.rss",
       "siteUrl": "https://www.reddit.com/r/opendirectories/",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/opendirectories/comments/sx9h0c/a_bunch_of_rock_music/",
+          "author": null,
+          "description": "http://djbloom.info/Music/My%20Music/\n    submitted by    /u/CalmWater8439  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/opendirectories/comments/sx9h0c/a_bunch_of_rock_music/",
+          "publishedOn": "2022-02-20T19:42:03.000Z",
+          "wordCount": 179,
+          "title": "A bunch of rock music",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/opendirectories/comments/sx2u11/im_bad_at_coding_how_do_i_create_an_open/",
+          "author": null,
+          "description": "Just what the title says. I have some music, movies, documents, etc that I'd like to share, but I don't want to take up or make an entire Google Drive account just for some files.\n Any help getting started would be greatly appreciated!\n    submitted by    /u/Reggie_Smith_89  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/opendirectories/comments/sx2u11/im_bad_at_coding_how_do_i_create_an_open/",
+          "publishedOn": "2022-02-20T14:49:32.000Z",
+          "wordCount": 1290,
+          "title": "I'm bad at coding. How do I create an Open Directory from scratch?",
+          "imageUrl": null
+        },
         {
           "id": "https://www.reddit.com/r/opendirectories/comments/sw6wl0/pictures_of_people_playing_motorcycle_soccer/",
           "author": null,
