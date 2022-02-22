@@ -6,6 +6,36 @@
       "siteUrl": "http://h1.nobbd.de/",
       "articles": [
         {
+          "id": "https://hackerone.com/reports/1484168",
+          "author": null,
+          "description": "Automattic disclosed a bug submitted by ajoekerr: https://hackerone.com/reports/1484168 - Bounty: $450",
+          "link": "https://hackerone.com/reports/1484168",
+          "publishedOn": "2022-02-21T14:58:39.000Z",
+          "wordCount": null,
+          "title": "De-anonymize anonymous tips through the Tumblr blog network",
+          "imageUrl": null
+        },
+        {
+          "id": "https://hackerone.com/reports/1444539",
+          "author": null,
+          "description": "curl disclosed a bug submitted by nsq11: https://hackerone.com/reports/1444539",
+          "link": "https://hackerone.com/reports/1444539",
+          "publishedOn": "2022-02-21T09:15:57.000Z",
+          "wordCount": null,
+          "title": "Remote memory disclosure vulnerability in libcurl on 64 Bit Windows",
+          "imageUrl": null
+        },
+        {
+          "id": "https://hackerone.com/reports/864712",
+          "author": null,
+          "description": "Zomato disclosed a bug submitted by codersanjay: https://hackerone.com/reports/864712 - Bounty: $200",
+          "link": "https://hackerone.com/reports/864712",
+          "publishedOn": "2022-02-21T08:15:22.000Z",
+          "wordCount": null,
+          "title": "Page has a link to google drive which has logos and a few customer phone recordings",
+          "imageUrl": null
+        },
+        {
           "id": "https://hackerone.com/reports/1442017",
           "author": null,
           "description": "Mattermost disclosed a bug submitted by rynexxx: https://hackerone.com/reports/1442017 - Bounty: $50",
@@ -2423,6 +2453,46 @@
       "siteUrl": "https://infosecwriteups.com?source=rss----7b722bfd1b8d---4",
       "articles": [
         {
+          "id": "https://medium.com/p/760d8bd51fea",
+          "author": "Sergey Vasiliev",
+          "description": "",
+          "link": "https://infosecwriteups.com/why-does-my-app-send-network-requests-when-i-open-an-svg-file-760d8bd51fea?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2022-02-21T06:12:43.000Z",
+          "wordCount": null,
+          "title": "Why does my app send network requests when I open an SVG file?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/8b6e3294a5e0",
+          "author": "Febi Mudiyanto",
+          "description": "",
+          "link": "https://infosecwriteups.com/how-to-setup-mfa-for-linux-machine-8b6e3294a5e0?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2022-02-21T06:09:28.000Z",
+          "wordCount": null,
+          "title": "How to Setup MFA for Linux Machine",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/524acf91f8a3",
+          "author": "Sofia Santos",
+          "description": "",
+          "link": "https://infosecwriteups.com/walkthrough-hacktoria-geolocation-12-524acf91f8a3?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2022-02-21T06:09:15.000Z",
+          "wordCount": null,
+          "title": "Walkthrough — Hacktoria: Geolocation 12",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/29b5c2c60e95",
+          "author": "Sriram Kesavan",
+          "description": "",
+          "link": "https://infosecwriteups.com/send-a-email-to-me-and-get-kicked-out-of-google-groups-29b5c2c60e95?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2022-02-21T06:08:53.000Z",
+          "wordCount": null,
+          "title": "Send a Email to me and get kicked out of Google Groups !!",
+          "imageUrl": null
+        },
+        {
           "id": "https://medium.com/p/86c7eb3a0a9f",
           "author": "InfoSec Write-ups",
           "description": "Infosec Writeups is Organizing Our First Virtual Conference and Networking Event — and we want you to be a part!",
@@ -3941,6 +4011,96 @@
       "feedUrl": "https://medium.com/feed/tag/bugbounty",
       "siteUrl": "https://medium.com/tag/bugbounty/latest?source=rss------bugbounty-5",
       "articles": [
+        {
+          "id": "https://medium.com/p/df30b9e0e06f",
+          "author": "Rend",
+          "description": "What if I told you there is a way to heal the blind SQL injections and turn them into healthy union-based ones?\nContinue reading on Medium »",
+          "link": "https://medium.com/@Rend_/healing-blind-injections-df30b9e0e06f?source=rss------bugbounty-5",
+          "publishedOn": "2022-02-21T19:44:41.000Z",
+          "wordCount": null,
+          "title": "Healing blind injections",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/7602232b53d3",
+          "author": "0xJin",
+          "description": "eLearnSecurity Certified Penetration Tester eXtreme\nContinue reading on Medium »",
+          "link": "https://0xjin.medium.com/ecptx-exam-review-by-0xjin-7602232b53d3?source=rss------bugbounty-5",
+          "publishedOn": "2022-02-21T18:00:36.000Z",
+          "wordCount": null,
+          "title": "eCPTX Exam Review by 0xJin",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/1fcaabfd51e5",
+          "author": "Anton Subbotin (skavans)",
+          "description": "​I somehow came across a page with something like a user survey (the program is private, so I will speak abstractly).\nContinue reading on Medium »",
+          "link": "https://medium.com/@skavans_/what-an-injection-into-jquery-selector-can-lead-to-1fcaabfd51e5?source=rss------bugbounty-5",
+          "publishedOn": "2022-02-21T15:18:52.000Z",
+          "wordCount": null,
+          "title": "What an injection into jQuery-selector can lead to",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/1b98a5fece26",
+          "author": "Faizan Elahi",
+          "description": "Hello again! I’m faizan and today I’m writing about an XSS I found in an input field which was hidden from the page using Content division…\nContinue reading on Medium »",
+          "link": "https://f4t7.medium.com/xss-in-hidden-input-field-1b98a5fece26?source=rss------bugbounty-5",
+          "publishedOn": "2022-02-21T14:35:19.000Z",
+          "wordCount": null,
+          "title": "XSS in hidden input field",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/b121df6064b5",
+          "author": "JayCyberSecurity",
+          "description": "First, What is the Parameter Tampering?\nContinue reading on Medium »",
+          "link": "https://medium.com/@ougojairus/parameter-tampering-b121df6064b5?source=rss------bugbounty-5",
+          "publishedOn": "2022-02-21T13:44:29.000Z",
+          "wordCount": null,
+          "title": "Parameter Tampering",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/ee41b765141f",
+          "author": "Mohit Ahir",
+          "description": "Disclaimer\nContinue reading on Medium »",
+          "link": "https://mohitkumar0786.medium.com/how-i-found-broken-link-hijack-using-python-ee41b765141f?source=rss------bugbounty-5",
+          "publishedOn": "2022-02-21T12:46:53.000Z",
+          "wordCount": null,
+          "title": "How I found broken link hijack using Python",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/43c05cc9b755",
+          "author": "Samip Aryal",
+          "description": "…\nContinue reading on InfoSec Write-ups »",
+          "link": "https://infosecwriteups.com/how-i-couldve-bypassed-the-2fa-security-of-instagram-once-again-43c05cc9b755?source=rss------bugbounty-5",
+          "publishedOn": "2022-02-21T11:05:50.000Z",
+          "wordCount": null,
+          "title": "How I could’ve bypassed the 2FA security of Instagram once again?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/e1b770b95c4b",
+          "author": "Medusa",
+          "description": "This blog covers how to attack Kerberos with Kerberoasting and AS-REP Roasting attacks.\nContinue reading on System Weakness »",
+          "link": "https://systemweakness.com/attacking-kerberos-kerberoasting-as-rep-roasting-active-directory-windows-e1b770b95c4b?source=rss------bugbounty-5",
+          "publishedOn": "2022-02-21T10:19:14.000Z",
+          "wordCount": null,
+          "title": "Attacking Kerberos | Kerberoasting | AS-REP Roasting | Active Directory | Windows |",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/7076ce5047fe",
+          "author": "Immunefi",
+          "description": "Summary\nContinue reading on Immunefi »",
+          "link": "https://medium.com/immunefi/polygon-consensus-bypass-bugfix-review-7076ce5047fe?source=rss------bugbounty-5",
+          "publishedOn": "2022-02-21T09:14:14.000Z",
+          "wordCount": null,
+          "title": "Polygon Consensus Bypass Bugfix Review",
+          "imageUrl": null
+        },
         {
           "id": "https://medium.com/p/d741aabddb94",
           "author": "Faizan Elahi",
@@ -7683,6 +7843,26 @@
       "siteUrl": "https://medium.com/tag/redteam/latest?source=rss------redteam-5",
       "articles": [
         {
+          "id": "https://medium.com/p/1a4cb68bf383",
+          "author": "Komodo Consulting",
+          "description": "This is a story of what both I and Google engineers considered to be an SSRF vulnerability in Google Calendar — but turned out to be some…\nContinue reading on Medium »",
+          "link": "https://medium.com/@TheKomodoconsulting/an-accidental-ssrf-honeypot-in-google-calendar-1a4cb68bf383?source=rss------redteam-5",
+          "publishedOn": "2022-02-21T16:54:13.000Z",
+          "wordCount": null,
+          "title": "An Accidental SSRF Honeypot in Google Calendar",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/55b4bab7d1bd",
+          "author": "Keiran Smith",
+          "description": "Original Post : https://keiran.scot/2022/02/10/exploiting-xxe-vulnerabilities/\nContinue reading on Medium »",
+          "link": "https://medium.com/@Affix/exploiting-xxe-vulnerabilities-55b4bab7d1bd?source=rss------redteam-5",
+          "publishedOn": "2022-02-21T11:02:11.000Z",
+          "wordCount": null,
+          "title": "Exploiting XXE Vulnerabilities",
+          "imageUrl": null
+        },
+        {
           "id": "https://medium.com/p/1adb7ecf26eb",
           "author": "Rabbit",
           "description": "A short article outlining the phases to go through, while planning a red team engagement.\nContinue reading on Medium »",
@@ -8231,6 +8411,46 @@
       "feedUrl": "https://medium.com/feed/bugbountywriteup",
       "siteUrl": "https://infosecwriteups.com?source=rss----7b722bfd1b8d---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/760d8bd51fea",
+          "author": "Sergey Vasiliev",
+          "description": "",
+          "link": "https://infosecwriteups.com/why-does-my-app-send-network-requests-when-i-open-an-svg-file-760d8bd51fea?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2022-02-21T06:12:43.000Z",
+          "wordCount": null,
+          "title": "Why does my app send network requests when I open an SVG file?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/8b6e3294a5e0",
+          "author": "Febi Mudiyanto",
+          "description": "",
+          "link": "https://infosecwriteups.com/how-to-setup-mfa-for-linux-machine-8b6e3294a5e0?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2022-02-21T06:09:28.000Z",
+          "wordCount": null,
+          "title": "How to Setup MFA for Linux Machine",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/524acf91f8a3",
+          "author": "Sofia Santos",
+          "description": "",
+          "link": "https://infosecwriteups.com/walkthrough-hacktoria-geolocation-12-524acf91f8a3?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2022-02-21T06:09:15.000Z",
+          "wordCount": null,
+          "title": "Walkthrough — Hacktoria: Geolocation 12",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/29b5c2c60e95",
+          "author": "Sriram Kesavan",
+          "description": "",
+          "link": "https://infosecwriteups.com/send-a-email-to-me-and-get-kicked-out-of-google-groups-29b5c2c60e95?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2022-02-21T06:08:53.000Z",
+          "wordCount": null,
+          "title": "Send a Email to me and get kicked out of Google Groups !!",
+          "imageUrl": null
+        },
         {
           "id": "https://medium.com/p/86c7eb3a0a9f",
           "author": "InfoSec Write-ups",
@@ -9750,6 +9970,46 @@
       "feedUrl": "https://medium.com/feed/tag/osint",
       "siteUrl": "https://medium.com/tag/osint/latest?source=rss------osint-5",
       "articles": [
+        {
+          "id": "https://medium.com/p/ddaad6b1c313",
+          "author": "RCP",
+          "description": "Continue reading on Medium »",
+          "link": "https://medium.com/@rcprramachandraprasad/owasp-lpu-ctf-osint-ddaad6b1c313?source=rss------osint-5",
+          "publishedOn": "2022-02-21T15:19:19.000Z",
+          "wordCount": null,
+          "title": "OWASP-LPU CTF: OSINT",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/14803c02a1f4",
+          "author": "Sofia Santos",
+          "description": "And here we go to Hacktoria’s geolocation number 14 challenge! They keep on coming and I keep on solving them.\nSo without further ado…\nContinue reading on Medium »",
+          "link": "https://gralhix.medium.com/walkthrough-hacktoria-geolocation-14-14803c02a1f4?source=rss------osint-5",
+          "publishedOn": "2022-02-21T12:21:07.000Z",
+          "wordCount": null,
+          "title": "Walkthrough — Hacktoria: Geolocation 14",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/4ccad3023635",
+          "author": "Levent Durdalı",
+          "description": "On Dec 28, 2021, Quiztime (contributor @bayer_julia) shared a new OSINT quiz with us. The objective was simple. We had to figure out when…\nContinue reading on Medium »",
+          "link": "https://medium.com/@leventd/never-forget-the-moon-osint-challenge-18-4ccad3023635?source=rss------osint-5",
+          "publishedOn": "2022-02-21T09:22:58.000Z",
+          "wordCount": null,
+          "title": "Never Forget The Moon — OSINT Challenge 18",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/83e3cd2f7fdd",
+          "author": "Les Pires Hat",
+          "description": "Du samedi 19 au dimanche 20 février 2022, s’est déroulé le CTF de Capture The Talent. 🏆Classement final: 1/52\nContinue reading on Medium »",
+          "link": "https://lespireshat.medium.com/capture-the-talent-osint-write-ups-83e3cd2f7fdd?source=rss------osint-5",
+          "publishedOn": "2022-02-21T09:07:49.000Z",
+          "wordCount": null,
+          "title": "Capture The Talent — OSINT Write-ups",
+          "imageUrl": null
+        },
         {
           "id": "https://medium.com/p/d7bf9cb99a6a",
           "author": "Sabrina Barbosa",
@@ -12183,6 +12443,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=30414501",
+          "author": "pabs3",
+          "description": "Article URL: https://neverworkintheory.org/2022/02/21/antifuzz.html\nComments URL: https://news.ycombinator.com/item?id=30414501\nPoints: 9\n# Comments: 1",
+          "link": "https://neverworkintheory.org/2022/02/21/antifuzz.html",
+          "publishedOn": "2022-02-21T11:23:28.000Z",
+          "wordCount": null,
+          "title": "AntiFuzz: Impeding Fuzzing Audits of Binary Executables",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=30380994",
           "author": "boyter",
           "description": "Article URL: https://jayconrod.com/posts/123/internals-of-go-s-new-fuzzing-system\nComments URL: https://news.ycombinator.com/item?id=30380994\nPoints: 2\n# Comments: 0",
@@ -12487,6 +12757,16 @@
       "feedUrl": "https://hnrss.org/newest?q=CVE",
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
+        {
+          "id": "https://news.ycombinator.com/item?id=30413955",
+          "author": "jeroenhd",
+          "description": "Article URL: https://ruia-ruia.github.io/NFC-UAF/\nComments URL: https://news.ycombinator.com/item?id=30413955\nPoints: 1\n# Comments: 0",
+          "link": "https://ruia-ruia.github.io/NFC-UAF/",
+          "publishedOn": "2022-02-21T10:13:30.000Z",
+          "wordCount": null,
+          "title": "Linux Kernel Use-After-Free (CVE-2021-23134) PoC",
+          "imageUrl": null
+        },
         {
           "id": "https://news.ycombinator.com/item?id=30393397",
           "author": "neustradamus",
@@ -14078,6 +14358,66 @@
       "siteUrl": "https://www.freebuf.com",
       "articles": [
         {
+          "id": "https://www.freebuf.com/news/322710.html",
+          "author": null,
+          "description": "豆瓣网被爆出在页面中使用难以察觉的隐形水印，水印的信息包括用户 UID、TID 及带时区的完整时间。",
+          "link": "https://www.freebuf.com/news/322710.html",
+          "publishedOn": "2022-02-21T11:05:10.000Z",
+          "wordCount": null,
+          "title": "FreeBuf早报 | 豆瓣被爆APP内截图含个人敏感信息；攻击者通过NFT话题分发木马",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.freebuf.com/articles/neopoints/322672.html",
+          "author": null,
+          "description": "2021年至少发现66个仍在使用中的零日漏洞，数量约是2020年的两倍。",
+          "link": "https://www.freebuf.com/articles/neopoints/322672.html",
+          "publishedOn": "2022-02-21T08:38:24.000Z",
+          "wordCount": null,
+          "title": "华云安·ASM技术篇：应对零日攻击的检测模型（VEAM）",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.freebuf.com/news/322660.html",
+          "author": null,
+          "description": "英国数字银行平台Monzo正成为钓鱼攻击的目标，用户收到了含有钓鱼链接的短信。",
+          "link": "https://www.freebuf.com/news/322660.html",
+          "publishedOn": "2022-02-21T07:43:42.000Z",
+          "wordCount": null,
+          "title": "英国Monzo数字银行用户正受网络钓鱼威胁",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.freebuf.com/news/322656.html",
+          "author": null,
+          "description": "2月21日全球网络安全热点。",
+          "link": "https://www.freebuf.com/news/322656.html",
+          "publishedOn": "2022-02-21T07:29:30.000Z",
+          "wordCount": null,
+          "title": "价值数百万美元的NFT在攻击中被盗、谷歌向全球32亿用户发出紧急警告｜2月21日全球网络安全热点",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.freebuf.com/articles/paper/322632.html",
+          "author": null,
+          "description": "最新报告出炉！",
+          "link": "https://www.freebuf.com/articles/paper/322632.html",
+          "publishedOn": "2022-02-21T03:42:47.000Z",
+          "wordCount": null,
+          "title": "最新报告|深信服2021勒索病毒态势报告",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.freebuf.com/articles/322629.html",
+          "author": null,
+          "description": "近期乌克兰发生的DDoS攻击，被指是俄罗斯主导的黑客攻击。",
+          "link": "https://www.freebuf.com/articles/322629.html",
+          "publishedOn": "2022-02-21T03:29:46.000Z",
+          "wordCount": null,
+          "title": "白宫将乌克兰DDoS攻击锁定在俄罗斯GRU黑客身上",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.freebuf.com/articles/web/322580.html",
           "author": null,
           "description": "Servlet内存马的最后一篇，直接从加载开始说起。",
@@ -14145,6 +14485,16 @@
           "publishedOn": "2022-02-18T05:11:50.000Z",
           "wordCount": 147,
           "title": "黑客潜入Microsoft Teams发送恶意软件",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.freebuf.com/articles/paper/322375.html",
+          "author": null,
+          "description": "Quick Heal披露了一起针对印度国防军和武装部队陆军人员的窃密行动并将其命名为Operation SideCopy。",
+          "link": "https://www.freebuf.com/articles/paper/322375.html",
+          "publishedOn": "2022-02-18T03:51:40.000Z",
+          "wordCount": null,
+          "title": "百密一疏，透明部落与SideCopy共用基础设施露出马脚",
           "imageUrl": null
         },
         {
@@ -18028,6 +18378,36 @@
       "siteUrl": "http://paper.seebug.org/",
       "articles": [
         {
+          "id": "http://paper.seebug.org/1836/",
+          "author": null,
+          "description": "作者：ryze@nop\n本文为作者投稿，Seebug Paper 期待你的分享，凡经采用即有礼品相送！ 投稿邮箱：paper@seebug.org\n0x00 前言\n起因是在某红队项目中，获取到Oracle数据库密码后，利用Github上的某数据库利用工具连接后，利用时执行如 tasklist /svc 、net user 等命令时出现 ORA-24345: 出现截断或空读取错误，且文件管理功...",
+          "link": "http://paper.seebug.org/1836/",
+          "publishedOn": "2022-02-21T08:07:00.000Z",
+          "wordCount": null,
+          "title": "数据库连接利用工具--Sylas",
+          "imageUrl": null
+        },
+        {
+          "id": "http://paper.seebug.org/1835/",
+          "author": null,
+          "description": "作者：墨云科技 VLab Team\n原文链接：https://mp.weixin.qq.com/s/fFx1kQVfotbOqHlSjSJVMQ\n漏洞简述\n这是一个反序列化漏洞,是一条新的gadget,在低版本的JDK中可能会造成RCE风险。\n漏洞分析\n测试环境weblogic14c版本,测试JDK 1.8版本。\n首先会调用BadAttributeValueExpException.read...",
+          "link": "http://paper.seebug.org/1835/",
+          "publishedOn": "2022-02-21T07:58:00.000Z",
+          "wordCount": null,
+          "title": "Oracle WebLogic CVE-2022-21350 漏洞分析",
+          "imageUrl": null
+        },
+        {
+          "id": "http://paper.seebug.org/1833/",
+          "author": null,
+          "description": "译者：知道创宇404实验室翻译组\n原文链接：https://www.proofpoint.com/us/blog/threat-insight/charting-ta2541s-flight\n主要发现\n\nProofpoint研究人员多年来一直在追踪一个针对航空、航天、交通、制造业和国防工业的持续网络犯罪者。\n黑客者一贯使用远程访问木马(rat) ，可用于远程控制受到感染的机器。\n黑客关注了与...",
+          "link": "http://paper.seebug.org/1833/",
+          "publishedOn": "2022-02-16T01:43:00.000Z",
+          "wordCount": null,
+          "title": "黑客组织 TA2541 解析",
+          "imageUrl": null
+        },
+        {
           "id": "http://paper.seebug.org/1832/",
           "author": null,
           "description": "作者：su18\n本文为作者投稿，Seebug Paper 期待你的分享，凡经采用即有礼品相送！ 投稿邮箱：paper@seebug.org\n当一个 JDBC 连接 URL 可控时，能造成什么影响？相关的若干攻击方法已经被披露很长时间了，但是我还一直都没有学习，随着 HITB2021SIN 中的分享议题 \"Make JDBC Attacks Brilliant Again\" 的视频上传到了 Y...",
@@ -18323,6 +18703,16 @@
       "feedUrl": "https://www.sec-wiki.com/news/rss",
       "siteUrl": "http://www.sec-wiki.com/",
       "articles": [
+        {
+          "id": "http://www.sec-wiki.com/?2022-02-21",
+          "author": null,
+          "description": "SecWiki周刊（第416期)  by ourren\n漏洞可用性交流（VEX）介绍  by ourren\nPAM 2022 论文录用列表  by ourren\n更多最新文章，请访问SecWiki",
+          "link": "http://www.sec-wiki.com/?2022-02-21",
+          "publishedOn": "2022-02-21T15:58:20.000Z",
+          "wordCount": null,
+          "title": "SecWiki News 2022-02-21 Review",
+          "imageUrl": null
+        },
         {
           "id": "http://www.sec-wiki.com/?2022-02-20",
           "author": null,
@@ -18968,6 +19358,76 @@
       "feedUrl": "https://www.reddit.com/r/asknetsec/.rss",
       "siteUrl": "https://www.reddit.com/r/asknetsec/",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/sy21ep/i_was_solving_an_xss_lab_on_portswigger_when_i/",
+          "author": null,
+          "description": "Here is the link to the lab : \n https://portswigger.net/web-security/cross-site-scripting/dom-based/lab-angularjs-expression\n    submitted by    /u/_JatinChopra_  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/sy21ep/i_was_solving_an_xss_lab_on_portswigger_when_i/",
+          "publishedOn": "2022-02-21T19:28:02.000Z",
+          "wordCount": null,
+          "title": "I was solving an XSS lab on portswigger when I came across this js payload could anyone please explain me how it works [ {{$on.constructor('alert(1)')()}} ]",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/sy1t4z/are_there_any_sites_with_clear_information_about/",
+          "author": null,
+          "description": "It seems a lot of these sites that I am finding are very vague about the different vulnerabilities. It would be helpful to find a place where I can search the CVE and they can tell me how it is vulnerable and how it can be exploited.\n    submitted by    /u/Ok-Oil2953  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/sy1t4z/are_there_any_sites_with_clear_information_about/",
+          "publishedOn": "2022-02-21T19:18:10.000Z",
+          "wordCount": null,
+          "title": "Are there any sites with clear information about specific CVEs and how they can be exploited?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/sy1cpb/how_are_you_tracking_and_documenting_siem_use/",
+          "author": null,
+          "description": "Curious to see what solutions folks have for documenting and tracking SIEM use cases. Are you just throwing everything into a spreadsheet? Using a KB tool like Confluence? Do you have a formalized process for handling changes to rules or retiring them?\n    submitted by    /u/wowneatlookatthat  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/sy1cpb/how_are_you_tracking_and_documenting_siem_use/",
+          "publishedOn": "2022-02-21T18:59:34.000Z",
+          "wordCount": null,
+          "title": "How are you tracking and documenting SIEM use cases?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/sy0c6q/ssh_which_server_gets_which_keys_to_work/",
+          "author": null,
+          "description": "Sorry if this is a bit of a basic question but I’m setting up my first headless server and could use your advice.\n I have a server which I’d like to access via SSH. I have created a password protected key file to do so. I will be accessing the server from a few different clients, all belonging to me and no-one else. \n Is it correct to only have the public key on the server, and to have both the private and public keys on the clients? Or does the server need the private key?\n Is it even possible for the client to work without both the public and private keys available to it…?\n    submitted by    /u/JamieOvechkin  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/sy0c6q/ssh_which_server_gets_which_keys_to_work/",
+          "publishedOn": "2022-02-21T18:17:06.000Z",
+          "wordCount": null,
+          "title": "SSH: Which server gets which keys to work?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/sxx9w1/common_securitycentric_query_languages/",
+          "author": null,
+          "description": "I'm working on a personal project relating to security-centric query languages, and I'm trying to get an overview of current (popular) languages.\n So far, I've got:\n  \nSplunk Search Processing Language\n Falcon Query Language\n Microsoft Kusto\n Rapid7 Log Entry Query Language\n  \nAre there other major languages in use currently?\n    submitted by    /u/QuirkySpiceBush  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/sxx9w1/common_securitycentric_query_languages/",
+          "publishedOn": "2022-02-21T16:13:23.000Z",
+          "wordCount": null,
+          "title": "Common security-centric query languages?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/sxpgg8/receiving_otps_and_verification_links_for/",
+          "author": null,
+          "description": "Hi all,\n I recently noticed that i am getting the OTPs/reset links for different websites (such as Instagram and Amazon) from the same number. That is the password reset link for instagram was sent to my phone from the same number as the verification link for amazon. \n The number is something like 78549659. Is this normal or does each company have a different number for sending such texts?\n    submitted by    /u/Euphoric_Asparagus90  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/sxpgg8/receiving_otps_and_verification_links_for/",
+          "publishedOn": "2022-02-21T09:26:59.000Z",
+          "wordCount": null,
+          "title": "Receiving OTPs and verification links for different websites from the same number",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/sxnqay/sans_sec522_vs_sec542/",
+          "author": null,
+          "description": "Hey everyone.\n My employer is paying for me to do a SANS certificate of my choosing, I'm interested in the web/appsec based certs. \n I was wondering if anyone's taken either of these or would recommend one over the other. \n Thanks\n    submitted by    /u/n3v327311  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/sxnqay/sans_sec522_vs_sec542/",
+          "publishedOn": "2022-02-21T07:33:35.000Z",
+          "wordCount": null,
+          "title": "SANS SEC522 vs SEC542",
+          "imageUrl": null
+        },
         {
           "id": "https://www.reddit.com/r/AskNetsec/comments/sx8sd0/i_want_to_know_what_a_day_in_a_life_looks_like_as/",
           "author": null,
@@ -22414,6 +22874,46 @@
       "siteUrl": "https://www.reddit.com/r/redteamsec/",
       "articles": [
         {
+          "id": "https://www.reddit.com/r/redteamsec/comments/sy82mb/fun_ideas_for_physical_pentesting/",
+          "author": null,
+          "description": "Hey team!\n So my sec team started a physical security assessment a week ago and its been fun. I got to use the under-the-door tool, tailgate, clone rfid card and bypass motion sensor entrances/exits.\n I was wondering if you guys had any ideas about what you would do if you had “keys to the kingdom” such as the server room or someones desktop?\n Edit: grammar\n    submitted by    /u/Enes_24  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/redteamsec/comments/sy82mb/fun_ideas_for_physical_pentesting/",
+          "publishedOn": "2022-02-21T23:33:47.000Z",
+          "wordCount": null,
+          "title": "Fun ideas for physical pentesting?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/redteamsec/comments/sxst46/codecat_is_an_opensource_tool_to_help_you/",
+          "author": null,
+          "description": "submitted by    /u/CoolerVoid  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/redteamsec/comments/sxst46/codecat_is_an_opensource_tool_to_help_you/",
+          "publishedOn": "2022-02-21T12:52:18.000Z",
+          "wordCount": null,
+          "title": "CodeCat is an open-source tool to help you find/track user input sinks and bugs using static code analysis. These points follow regex rules.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/redteamsec/comments/sxnnd0/automating_a_red_team_lab_with_packer_terraform/",
+          "author": null,
+          "description": "submitted by    /u/nickonos  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/redteamsec/comments/sxnnd0/automating_a_red_team_lab_with_packer_terraform/",
+          "publishedOn": "2022-02-21T07:28:12.000Z",
+          "wordCount": null,
+          "title": "Automating a Red Team lab with Packer, Terraform and Ansible",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/redteamsec/comments/sxm8bn/reading_and_writing_into_processs_memory/",
+          "author": null,
+          "description": "Get the basic understanding on the remote process memory read and write all by windows 32 API and create your own game hacks.\n https://tbhaxor.com/reading-and-writing-into-processs-memory/\n    submitted by    /u/tbhaxor  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/redteamsec/comments/sxm8bn/reading_and_writing_into_processs_memory/",
+          "publishedOn": "2022-02-21T06:02:50.000Z",
+          "wordCount": null,
+          "title": "Reading and Writing into Process's Memory",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.reddit.com/r/redteamsec/comments/sw9wjf/certipy_20_bloodhound_new_domain_privilege/",
           "author": null,
           "description": "submitted by    /u/ly4k_  \n [link]   [comments]",
@@ -23942,6 +24442,36 @@
       "siteUrl": "https://www.reddit.com/r/computerforensics/",
       "articles": [
         {
+          "id": "https://www.reddit.com/r/computerforensics/comments/sy1glh/how_dangerous_is_being_a_digital_forensic/",
+          "author": null,
+          "description": "I am currently doing BSc in Information systems and want to do masters in digital/computer forensics.\n    submitted by    /u/SkillKiller3010  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/computerforensics/comments/sy1glh/how_dangerous_is_being_a_digital_forensic/",
+          "publishedOn": "2022-02-21T19:03:29.000Z",
+          "wordCount": null,
+          "title": "How dangerous is being a digital forensic investigator?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/computerforensics/comments/sxz8m6/why_do_some_investigations_take_longer_and_some/",
+          "author": null,
+          "description": "I often read in news articles that some suspects have been arrested for internet crimes that take “months long investigation”. Why does it take months long if they already have so called evidence especially if they have received tips on it from organizations such as NCMEC\n    submitted by    /u/Ill-Date-1852  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/computerforensics/comments/sxz8m6/why_do_some_investigations_take_longer_and_some/",
+          "publishedOn": "2022-02-21T17:33:35.000Z",
+          "wordCount": null,
+          "title": "Why do some investigations take longer and some shorter?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/computerforensics/comments/sxwd1d/fargate_incident_response/",
+          "author": null,
+          "description": "How do we isolate affected containers for AWS ECS/EKS in fargate?\n Creating a new security group for ECS will result in new tasks being recreated to replace the old tasks, so the affected tasks won't be preserved.\n In EKS, there is no visibility into the security groups of the node. The only way to isolate is through the ACL which is not very ideal as there may be other apps using the same ACL.\n    submitted by    /u/SnooKiwis8248  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/computerforensics/comments/sxwd1d/fargate_incident_response/",
+          "publishedOn": "2022-02-21T15:35:39.000Z",
+          "wordCount": null,
+          "title": "Fargate incident response",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.reddit.com/r/computerforensics/comments/sx2vsx/telegram_vs_cellebrite/",
           "author": null,
           "description": "\"Telegram for iOS: Access and decode secret chats which can only be accessed on their devices of origin. You can also recover deleted messages.\" im in too deep this forensic thingy is kinda exciting and im in a business major. I guess one can really recover deleted telegram chats using cellebrite! amazing\n    submitted by    /u/b4dboyrere  \n [link]   [comments]",
@@ -25302,6 +25832,96 @@
       "feedUrl": "https://www.reddit.com/r/netsec/.rss",
       "siteUrl": "https://www.reddit.com/r/netsec/",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/netsec/comments/sy4jtm/command_line_execution_fuzzer_and_bruteforcer/",
+          "author": null,
+          "description": "submitted by    /u/cryptaureau  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/netsec/comments/sy4jtm/command_line_execution_fuzzer_and_bruteforcer/",
+          "publishedOn": "2022-02-21T21:10:17.000Z",
+          "wordCount": null,
+          "title": "Command line execution fuzzer and bruteforcer (Equivalent of wfuzz for all command line)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/netsec/comments/sy00pu/wrote_a_new_blog_post_on_injecting_fake/",
+          "author": null,
+          "description": "submitted by    /u/m_edmondson  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/netsec/comments/sy00pu/wrote_a_new_blog_post_on_injecting_fake/",
+          "publishedOn": "2022-02-21T18:04:33.000Z",
+          "wordCount": null,
+          "title": "Wrote a new blog post on injecting fake credentials into lsass memory using New-HoneyHash and alerting with Elastic.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/netsec/comments/sxxfnw/my_first_vulnerability_arista_gnmi_authentication/",
+          "author": null,
+          "description": "submitted by    /u/MilesTails  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/netsec/comments/sxxfnw/my_first_vulnerability_arista_gnmi_authentication/",
+          "publishedOn": "2022-02-21T16:20:21.000Z",
+          "wordCount": null,
+          "title": "My first vulnerability - Arista gNMI authentication bypass CVE-2021-28500",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/netsec/comments/sxxb5k/finding_an_unseen_sql_injection_by_bypassing/",
+          "author": null,
+          "description": "submitted by    /u/toyojuni  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/netsec/comments/sxxb5k/finding_an_unseen_sql_injection_by_bypassing/",
+          "publishedOn": "2022-02-21T16:14:51.000Z",
+          "wordCount": null,
+          "title": "Finding an unseen SQL Injection by bypassing escape functions in mysqljs/mysql",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/netsec/comments/sxwt8v/find_you_building_a_stealth_airtag_clone/",
+          "author": null,
+          "description": "submitted by    /u/breakingsystems  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/netsec/comments/sxwt8v/find_you_building_a_stealth_airtag_clone/",
+          "publishedOn": "2022-02-21T15:54:56.000Z",
+          "wordCount": null,
+          "title": "Find You: Building a stealth AirTag clone",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/netsec/comments/sxslp7/codecat_is_an_opensource_tool_to_help_you/",
+          "author": null,
+          "description": "submitted by    /u/CoolerVoid  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/netsec/comments/sxslp7/codecat_is_an_opensource_tool_to_help_you/",
+          "publishedOn": "2022-02-21T12:40:44.000Z",
+          "wordCount": null,
+          "title": "CodeCat is an open-source tool to help you find/track user input sinks and bugs using static code analysis. These points follow regex rules.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/netsec/comments/sxrco3/plone_scanner_version_001/",
+          "author": null,
+          "description": "submitted by    /u/halencarjunior  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/netsec/comments/sxrco3/plone_scanner_version_001/",
+          "publishedOn": "2022-02-21T11:28:18.000Z",
+          "wordCount": null,
+          "title": "Plone Scanner Version 0.01",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/netsec/comments/sxpbxr/nrich_a_new_tool_to_quickly_find_open_ports_and/",
+          "author": null,
+          "description": "submitted by    /u/0xdea  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/netsec/comments/sxpbxr/nrich_a_new_tool_to_quickly_find_open_ports_and/",
+          "publishedOn": "2022-02-21T09:18:50.000Z",
+          "wordCount": null,
+          "title": "nrich: a new tool to quickly find open ports and vulnerabilities via Shodan",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/netsec/comments/sxmkx5/linux_kernel_nfc_useafterfree_cve202123134_poc/",
+          "author": null,
+          "description": "submitted by    /u/awarau888  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/netsec/comments/sxmkx5/linux_kernel_nfc_useafterfree_cve202123134_poc/",
+          "publishedOn": "2022-02-21T06:23:34.000Z",
+          "wordCount": null,
+          "title": "Linux kernel NFC Use-After-Free (CVE-2021-23134) PoC",
+          "imageUrl": null
+        },
         {
           "id": "https://www.reddit.com/r/netsec/comments/sxcfja/analysis_of_cve202136260_exploited_in_the_wild/",
           "author": null,
@@ -27830,6 +28450,36 @@
       "feedUrl": "https://www.reddit.com/r/opendirectories/.rss",
       "siteUrl": "https://www.reddit.com/r/opendirectories/",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/opendirectories/comments/sy60mr/comprehensive_collection_of_bionicle_lego_images/",
+          "author": null,
+          "description": "submitted by    /u/limb_fed  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/opendirectories/comments/sy60mr/comprehensive_collection_of_bionicle_lego_images/",
+          "publishedOn": "2022-02-21T22:08:33.000Z",
+          "wordCount": null,
+          "title": "Comprehensive collection of Bionicle Lego images",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/opendirectories/comments/sxqd2w/electronic_music_and_drum_n_bass_samples/",
+          "author": null,
+          "description": "http://doa.totallyowns.co.uk/\n    submitted by    /u/CalmWater8439  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/opendirectories/comments/sxqd2w/electronic_music_and_drum_n_bass_samples/",
+          "publishedOn": "2022-02-21T10:25:38.000Z",
+          "wordCount": null,
+          "title": "Electronic music and Drum 'n' Bass samples",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/opendirectories/comments/sxnpb0/13_years_of_weird_adult_forum_stuff_organized_by/",
+          "author": null,
+          "description": "submitted by    /u/Rose_Beef  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/opendirectories/comments/sxnpb0/13_years_of_weird_adult_forum_stuff_organized_by/",
+          "publishedOn": "2022-02-21T07:31:51.000Z",
+          "wordCount": null,
+          "title": "13 Years of Weird Adult Forum Stuff - Organized by YYMM",
+          "imageUrl": null
+        },
         {
           "id": "https://www.reddit.com/r/opendirectories/comments/sx9h0c/a_bunch_of_rock_music/",
           "author": null,
@@ -32699,6 +33349,1074 @@
       "articles": []
     },
     {
+      "title": "blog[wuntee]",
+      "feedUrl": "http://blog.wuntee.sexy/atom.xml",
+      "siteUrl": "http://wuntee.github.io//atom.xml",
+      "articles": []
+    },
+    {
+      "title": "Brute XSS",
+      "feedUrl": "http://brutelogic.com.br/blog/feed/",
+      "siteUrl": "https://brutelogic.com.br/blog",
+      "articles": [
+        {
+          "id": "https://brutelogic.com.br/blog/?p=3078",
+          "author": "Brute",
+          "description": "When dealing with JavaScript injection scenarios sometimes we might get into a difficult situation: the target page is not meant to be accessed directly and some of its code is supposed to use some other code in the setup intended. That leads to some broken script blocks and when the injection context is one of … Continue reading XSS With Hoisting\nThe post XSS With Hoisting appeared first on Brute XSS.",
+          "link": "https://brutelogic.com.br/blog/xss-with-hoisting/?utm_source=rss&utm_medium=rss&utm_campaign=xss-with-hoisting",
+          "publishedOn": "2022-01-18T12:45:39.000Z",
+          "wordCount": null,
+          "title": "XSS With Hoisting",
+          "imageUrl": null
+        },
+        {
+          "id": "https://brutelogic.com.br/blog/?p=3031",
+          "author": "Brute",
+          "description": "XSS is all about practice. It requires a lot of time to print in the mind all vectors, payloads and tricks at our disposal. There are lots of XSS cases, each one requiring a different approach and construct to pop the alert box. Thinking on that and following the previous XSS Test Page released with … Continue reading Training XSS Muscles\nThe post Training XSS Muscles appeared first on Brute XSS.",
+          "link": "https://brutelogic.com.br/blog/training-xss-muscles/?utm_source=rss&utm_medium=rss&utm_campaign=training-xss-muscles",
+          "publishedOn": "2021-09-27T14:19:07.000Z",
+          "wordCount": null,
+          "title": "Training XSS Muscles",
+          "imageUrl": null
+        },
+        {
+          "id": "https://brutelogic.com.br/blog/?p=2888",
+          "author": "Brute",
+          "description": "XSS polyglots are quite popular among beginners and lazy XSS testers since they only require a single copy and paste. Although doomed to be easily flagged by any decent filter or WAF, they can be useful to spot most of the XSS cases out there. Here we will try to build a cost-effective XSS polyglot, … Continue reading Building XSS Polyglots\nThe post Building XSS Polyglots appeared first on Brute XSS.",
+          "link": "https://brutelogic.com.br/blog/building-xss-polyglots/?utm_source=rss&utm_medium=rss&utm_campaign=building-xss-polyglots",
+          "publishedOn": "2021-06-23T15:05:27.000Z",
+          "wordCount": null,
+          "title": "Building XSS Polyglots",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "BugiX - Security Research",
+      "feedUrl": "http://bugix-security.blogspot.com/feeds/posts/default",
+      "siteUrl": "http://bugix-security.blogspot.com/",
+      "articles": []
+    },
+    {
+      "title": "cawan's blog",
+      "feedUrl": "http://cawanblog.blogspot.com/feeds/posts/default",
+      "siteUrl": "http://cawanblog.blogspot.com/",
+      "articles": []
+    },
+    {
+      "title": "Coding (In)Security",
+      "feedUrl": "http://coding-insecurity.blogspot.com/feeds/posts/default",
+      "siteUrl": "http://coding-insecurity.blogspot.com/",
+      "articles": []
+    },
+    {
+      "title": "Colt's Blog",
+      "feedUrl": "http://coltf.blogspot.com/feeds/posts/default",
+      "siteUrl": "http://coltf.blogspot.com/",
+      "articles": []
+    },
+    {
+      "title": "contagio",
+      "feedUrl": "http://contagiodump.blogspot.com/feeds/posts/default",
+      "siteUrl": "http://contagiodump.blogspot.com/",
+      "articles": []
+    },
+    {
+      "title": "contagio mobile",
+      "feedUrl": "http://contagiominidump.blogspot.com/feeds/posts/default",
+      "siteUrl": "http://contagiominidump.blogspot.com/",
+      "articles": []
+    },
+    {
+      "title": "CTF Hacker",
+      "feedUrl": "http://ctfhacker.com/feed.xml",
+      "siteUrl": "http://ctfhacker.com/http://ctfhacker.github.io/",
+      "articles": []
+    },
+    {
+      "title": "d0c_s4vage",
+      "feedUrl": "http://d0cs4vage.blogspot.com/feeds/posts/default",
+      "siteUrl": "http://d0cs4vage.blogspot.com/",
+      "articles": []
+    },
+    {
+      "title": "DarkLapu",
+      "feedUrl": "http://darklapu.blogspot.com/feeds/posts/default",
+      "siteUrl": "http://darklapu.blogspot.com/",
+      "articles": []
+    },
+    {
+      "title": "Black.hat",
+      "feedUrl": "http://e-omidfar.blogspot.com/feeds/posts/default",
+      "siteUrl": "http://e-omidfar.blogspot.com/",
+      "articles": []
+    },
+    {
+      "title": "Ele7enxxh's Blog",
+      "feedUrl": "http://ele7enxxh.com/atom.xml",
+      "siteUrl": "/atom.xml",
+      "articles": []
+    },
+    {
+      "title": "Deep Exploit Space",
+      "feedUrl": "http://exploitspace.blogspot.com/feeds/posts/default",
+      "siteUrl": "http://exploitspace.blogspot.com/",
+      "articles": []
+    },
+    {
+      "title": "Attack and Defense Labs",
+      "feedUrl": "http://feeds.feedburner.com/AttackAndDefenseLabs",
+      "siteUrl": "http://blog.andlabs.org/",
+      "articles": []
+    },
+    {
+      "title": "Dancho Danchev's Blog - Mind Streams of Information Security Knowledge",
+      "feedUrl": "http://feeds.feedburner.com/DanchoDanchevOnSecurityAndNewMedia",
+      "siteUrl": "http://ddanchev.blogspot.com/",
+      "articles": [
+        {
+          "id": "tag:blogger.com,1999:blog-18493443.post-152609071844493828",
+          "author": "noreply@blogger.com (Dancho Danchev)",
+          "description": "Dear blog readers,\n\n\nDid you already pull my public and free STIX STIX2 TAXII threat intelligence feed using your and your organization's Lifetime API Key?\n\n\nIn this post I've decided to elaborate more and offer practical advice and links in terms of how you can pull and integrate my daily updated STIX STIX2 TAXII threat intelligence feed in your firewall or security solution and how you can actually use your Lifetime API Key for my feed in Maltego for possible enrichment of your IoCs (Indicators of Compromise).\n\n\nHere's your Lifetime API Key for you and your organization - f8aa0cca-a0ac-4eff-9c03-1c86ad7aee93\n\nPortal: https://ddanchev.ngrok.io\n\n\nAPI: https://ddanchev.ngrok.io/graphql\n\n\nAPI Documentation: https://luatix.notion.site/GraphQL-API-cfe267386c66492eb73924ef059d6d59\n\n\nAPI Client: https://opencti-client-for-python.readthedocs.io/en/3.3.0/pycti/pycti.html\n\n\nAPI requirements: https://github.com/amr-cossi/opencti-maltego/blob/master/config.py.sample\n\n\nTAXII Collection: https://ddanchev.ngrok.io/taxii2/root/collections/c2259b20-9c60-4ddd-8931-8de970440f06/objects\n\n\nBearer Token Authentication Required: https://github.com/OpenCTI-Platform/opencti/issues/1198\n\n\nMaltego transforms available: - https://www.maltego.com/downloads/ - https://www.maltego.com/transform-hub/opencti/ - https://www.maltego.com/transform-hub/stix/\n\n\nAs always feel free to drop me a line at dancho.danchev@hush.com in case you have any questions.\n\n\n\nFull list of solutions compatible with STIX STIX2 and TAXII\nEventLog Analyzer\nThreatConnect\nAzure Sentinel\nSplunk\nCisco\nElemendar\nCortex XSOAR\nTrendMicro\nArcSight\nMicrosoft Sentinel\nEventTracker\nPlixer Scrutinizer\nSumo Logic\nKaspersky CyberTrace\nServiceNow\nCheckPoint ThreatCloud\nCarbon Black EDR\nCisco Email Gateway\nThreatConnect\nLogPoint\nTanium\nSymantec\nLogRhythm\nInfoblox\nCloudera\n\n\nSample screenshots of my STIX STIX2 TAXII Threat Intelligence feed in combination with Maltego:\n\n\n\n\n\n\n\n\n\n\n\n\nEnjoy!",
+          "link": "http://ddanchev.blogspot.com/2022/02/how-to-integrate-or-query-my-public.html",
+          "publishedOn": "2022-02-21T01:02:21.000Z",
+          "wordCount": null,
+          "title": "How To Integrate or Query My Public STIX STIX2 TAXII Threat Actor Specific Threat Intelligence Feed In Your Firewall or Security Solution - An Analysis",
+          "imageUrl": null
+        },
+        {
+          "id": "tag:blogger.com,1999:blog-18493443.post-404925466143934501",
+          "author": "noreply@blogger.com (Dancho Danchev)",
+          "description": "Hi, everyone,\n\nThis is Dancho. Big news! I've decided to make approximately 15 years of active and unique threat actor specific research publicly accessible online for free using the OpenCTI STIX STIX2 TAXII platform and not only convert all the cool and juicy and full of never-published and discussed before niche threat actors both internationally and in Russia but also make them into a free STIX STIX2 TAXII threat intelligence feed and turn them into a machine readable format with the idea to centralize and speed up the communication of my research and potentially allow you to better catch up improve your situational awareness and learn new things about the international bad guys including the bad guys in Russia including their Internet infrastructure and catch up with who they are and w…",
+          "link": "http://ddanchev.blogspot.com/2022/02/public-stix-stix2-taxii-threat-actor.html",
+          "publishedOn": "2022-02-17T19:03:01.000Z",
+          "wordCount": null,
+          "title": "Public STIX STIX2 TAXII Threat Actor Specific Threat Intelligence Feed - Your Lifetime API Key!",
+          "imageUrl": null
+        },
+        {
+          "id": "tag:blogger.com,1999:blog-18493443.post-5693268079683982460",
+          "author": "noreply@blogger.com (Dancho Danchev)",
+          "description": "UPDATE: The feed's official web site including the brochure.\n\n\nDear blog readers,\n\n\nWho needs access to my STIX/STIX2/TAXII Threat Actor Specific IoC (Indicator of Compromise) feed? Drop me a line today at dancho.danchev@hush.com\n\n\n\n\n\n\n\n\n\n\nStay tuned!",
+          "link": "http://ddanchev.blogspot.com/2022/02/who-needs-niche-threat-actor-specific.html",
+          "publishedOn": "2022-02-13T21:37:15.000Z",
+          "wordCount": null,
+          "title": "Who Needs A Niche Threat Actor Specific IoC (Indicator of Compromise) STIX/STIX2/TAXII Feed?",
+          "imageUrl": null
+        },
+        {
+          "id": "tag:blogger.com,1999:blog-18493443.post-7440308395397770720",
+          "author": "noreply@blogger.com (Dancho Danchev)",
+          "description": "Here we go.\n\nhttps://academictorrents.com/details/131080b57d568ca3d05794cde5a3d7774f890373 - Dancho Danchev's Research Compilation 2005-2022 - Direct Torrent Download Available!\nhttps://academictorrents.com/details/e1b755efb9cb7ec5d5bcea4e60911e2a70a86201 - Dancho Danchev's Cybercrime Forum Data Set for 2022 - Second Edition - Direct Torrent Download Available!\nhttps://academictorrents.com/download/131080b57d568ca3d05794cde5a3d7774f890373.torrent - Dancho Danchev's Research Compilation 2005-2022 - Direct Torrent Download Available!\nhttps://academictorrents.com/download/e1b755efb9cb7ec5d5bcea4e60911e2a70a86201.torrent - Dancho Danchev's Cybercrime Forum Data Set for 2022 - Second Edition - Direct Torrent Download Available!\nThe compilation is also available here:\nhttps://www.kaggle.com/danchodanchev/dancho-danchevs-cybercrime-forum-data-set-torrent\nStay tuned!",
+          "link": "http://ddanchev.blogspot.com/2022/02/dancho-danchevs-second-edition-of.html",
+          "publishedOn": "2022-02-05T18:45:53.000Z",
+          "wordCount": null,
+          "title": "Dancho Danchev's Second Edition of \"Cybercrime Forum Data Set for 2022\" Available - 113GB Direct Torrent Download Available! Grab a Free Copy Today!",
+          "imageUrl": null
+        },
+        {
+          "id": "tag:blogger.com,1999:blog-18493443.post-8544709261731896541",
+          "author": "noreply@blogger.com (Dancho Danchev)",
+          "description": "Folks,\nDo you remember who I am? Do you need to do a historical check on the security industry including me as an individual including my personal blog and all the socially-oriented work and contributors that I've made to the industry during the past ten years? If an image is worth a thousand words consider going through these images which I just found and took photos of and guess what - brace yourselves for the ultimate reality where I've officially spend over two decades actively working and researching the security industry.\nWhat's my idea to publish these images? My personal goal and motivation is to make it clear and to ensure that my readers truly know what I've been up to in terms of challenges and all the hard work that I've done and achieved over the past twenty years in the secur…",
+          "link": "http://ddanchev.blogspot.com/2022/02/who-is-dancho-danchev.html",
+          "publishedOn": "2022-02-05T15:05:06.000Z",
+          "wordCount": null,
+          "title": "Who is Dancho Danchev?",
+          "imageUrl": null
+        },
+        {
+          "id": "tag:blogger.com,1999:blog-18493443.post-5308781352108369055",
+          "author": "noreply@blogger.com (Dancho Danchev)",
+          "description": "An image is worth a thousand words. Say no words!\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRelated posts:\nAn Update on My Disappearance and Kidnapping Attempt Courtesy of Bulgarian Law Enforcement Officers from the City of Troyan Bulgaria Circa 2010 - An Analysis\n\nWhat You Get From \"Peasant-aria Land\" - A New Cyber Security Center - Behold Yourself To the Almighty Savior! - An Analysis\nDancho Danchev's Disappearance - An Elaboration - Part Two\nDancho Danchev's Disappearance 2010 - Official Complaint Against Republic of Bulgaria\nDancho Danchev's Disappearance - 2010 - Official Complaint Against Republic of Bulgaria - Part Three\nDancho Danchev's Disappearance - 2010 - Official Complaint Against Republic of Bulgaria - Part Two\nDeep from the Trenches in Bulgaria - Part Three\nDeep from the Trenches in Bulgaria - Part Two\nHow I Got Robbed and Beaten and Illegally Arrested by a Local Troyan Gang in Bulgaria\nA Profile of a Bulgarian Kidnapper – Pavlin Georgiev (Павлин Георгиев/Васил Моев Гачевски/Явор Колев) – An Elaboration on Dancho Danchev’s Disappearance circa 2010 – An Analysis",
+          "link": "http://ddanchev.blogspot.com/2022/02/a-profile-of-bulgarian-dipshit-and.html",
+          "publishedOn": "2022-02-04T13:13:33.000Z",
+          "wordCount": null,
+          "title": "A Profile of a Bulgarian Dipshit and a Kidnapper - An OSINT Analysis",
+          "imageUrl": null
+        },
+        {
+          "id": "tag:blogger.com,1999:blog-18493443.post-7379791008480953136",
+          "author": "noreply@blogger.com (Dancho Danchev)",
+          "description": "Google is your best friend!\n\nHere's the original analysis.\nCheck out the actual Maltego technical details video demonstration here:\n\nEnjoy!",
+          "link": "http://ddanchev.blogspot.com/2022/02/exposing-fbis-most-wanted-cybercriminal.html",
+          "publishedOn": "2022-02-03T08:06:33.000Z",
+          "wordCount": null,
+          "title": "Exposing FBI's Most Wanted Cybercriminal Mujtaba Raza from Forwarderz and SecondEye Solution - An OSINT Analysis - Maltego Technical Details Video Demonstration",
+          "imageUrl": null
+        },
+        {
+          "id": "tag:blogger.com,1999:blog-18493443.post-6072036115516282983",
+          "author": "noreply@blogger.com (Dancho Danchev)",
+          "description": "Amazing!\n\nFeel like it's 2007 -- check out the slides here including the technical details here which I produced for https://whoisxmlapi.com here including the following Maltego technical details video demonstration video:\n\nEnjoy!",
+          "link": "http://ddanchev.blogspot.com/2022/02/exposing-infraud-organization-osint.html",
+          "publishedOn": "2022-02-01T11:54:32.000Z",
+          "wordCount": null,
+          "title": "Exposing the \"InFraud Organization\" - An OSINT Analysis - Maltego Technical Details Video Demonstration",
+          "imageUrl": null
+        },
+        {
+          "id": "tag:blogger.com,1999:blog-18493443.post-3393956850361128406",
+          "author": "noreply@blogger.com (Dancho Danchev)",
+          "description": "Dear blog readers,\nI've decided to share with everyone a currently active portfolio of IM screen names from the infamous Shadow Crew cybercrime-friendly forum community part of a currently ongoing Technical Collection campaign for the purpose of assisting everyone in their cyber attack and cyber threat actor profiling campaigns.\nSample Shadow Crew cybercrime-friendly forum community IM screen names:\naim:goim?screenname=youngglobeman&message=Hello+Are+you+there?\naim:goim?screenname=yeezz0r&message=Hello+Are+you+there?\naim:goim?screenname=xkyroutx&message=Hello+Are+you+there?\naim:goim?screenname=wisie459&message=Hello+Are+you+there?\naim:goim?screenname=whailen&message=Hello+Are+you+there?\naim:goim?screenname=wgrumpke&message=Hello+Are+you+there?\naim:goim?screenname=verbal0g&message=Hello+Are…",
+          "link": "http://ddanchev.blogspot.com/2022/01/exposing-portfolio-of-shadow-crew_77.html",
+          "publishedOn": "2022-01-28T14:20:10.000Z",
+          "wordCount": null,
+          "title": "Exposing A Portfolio of Shadow Crew Cybercrime-Friendly Forum Communities IM Screen Names - An OSINT Analysis",
+          "imageUrl": null
+        },
+        {
+          "id": "tag:blogger.com,1999:blog-18493443.post-2499113828802856376",
+          "author": "noreply@blogger.com (Dancho Danchev)",
+          "description": "Dear blog readers,\nI've decided to share with everyone a currently active portfolio of IM screen names from the infamous Shadow Crew cybercrime-friendly forum community part of a currently ongoing Technical Collection campaign for the purpose of assisting everyone in their cyber attack and cyber threat actor profiling campaigns.\nSample Shadow Crew cybercrime-friendly forum community ICQ UINs:\n999008\n9773639\n974763\n97254007\n95211861\n92754913\n914506\n89531566\n8923240\n86958674\n802820\n777726\n74623265\n7444304\n690033\n6666666\n637321\n62527577\n598629\n59838986\n56714884\n56327073\n5556665\n517196\n48721062\n47564547\n4545\n44203686\n41781\n3727374\n362563\n35\n348140\n33342322\n332163\n330332251\n327539466\n320455282\n320100851\n319326887\n31485639\n304060\n29457002\n288687540\n288670074\n266472842\n26633491\n264975608\n2482045\n236790331\n230406\n222567486\n222409185\n22063094\n219747908\n21386767\n213201784\n212719246\n19457815\n193200333\n1881621\n179251032\n178954300\n178832228\n178420526\n178210999\n178101166\n178020075\n177541908\n177507739\n177394922\n177016428\n176824746\n176531816\n175688952\n175596058\n175521773\n175350857\n175308348\n175157730\n174902318\n174760817\n174537112\n174511919\n174445299\n173846049\n173838529\n173767788\n17359522\n173387414\n173299970\n173254582\n173019781\n173002204\n172674035\n172476811\n172290141\n172252866\n172021743\n171975533\n171805992\n1715300002\n171468368\n171440228\n170627352\n170324565\n170036758\n169769760\n169243371\n169220281\n169006693\n168834059\n168769080\n168675160\n168595955\n168495889\n168422846\n168413916\n167927175\n167897380\n167636937\n167023436\n166657595\n166581197\n166407706\n165969755\n165638624\n165546617\n164872312\n164165878\n164008345\n162852265\n1601617\n158807983\n15652907\n154866004\n152616\n150860495\n139736678\n130915854\n11402050\n1111111\n10966997\n107021\n105233239\n103363810\n100631\n100161\nStay tuned!",
+          "link": "http://ddanchev.blogspot.com/2022/01/exposing-portfolio-of-shadow-crew_66.html",
+          "publishedOn": "2022-01-28T14:20:07.000Z",
+          "wordCount": null,
+          "title": "Exposing A Portfolio of Shadow Crew Cybercrime-Friendly Forum Communities ICQ UINs - An OSINT Analysis",
+          "imageUrl": null
+        },
+        {
+          "id": "tag:blogger.com,1999:blog-18493443.post-3016246868388397501",
+          "author": "noreply@blogger.com (Dancho Danchev)",
+          "description": "Dear blog readers,\nI've decided to share with everyone a currently active portfolio of IM screen names from the infamous Shadow Crew cybercrime-friendly forum community part of a currently ongoing Technical Collection campaign for the purpose of assisting everyone in their cyber attack and cyber threat actor profiling campaigns.\nSample Shadow Crew cybercrime-friendly forum community personal email address accounts:\nshadow@shadowcrew[.]com\nidline@ziplip[.]com\nvengeance_1@ziplip[.]com\ncracker81@ziplip[.]com\nden5013@ziplip[.]com\nonthefringe@ziplip[.]com\nmidhack@ziplip[.]com\ntoastypimp@yahoo[.]com\nfakeid@ziplip[.]com\nanonraider@hotmail[.]com\nKsnowyInc@ziplip[.]com\nspookycat911@ziplip[.]com\nNecromancer01@ziplip[.]com\nscript4dumps@ukr[.]net\ndominican@ziplip[.]com\nrcwizard@ziplip[.]com\nCAYMAN@Veg…",
+          "link": "http://ddanchev.blogspot.com/2022/01/exposing-portfolio-of-shadow-crew_28.html",
+          "publishedOn": "2022-01-28T14:20:04.000Z",
+          "wordCount": null,
+          "title": "Exposing A Portfolio of Shadow Crew Cybercrime-Friendly Forum Communities Personal Email Address Accounts - An OSINT Analysis",
+          "imageUrl": null
+        },
+        {
+          "id": "tag:blogger.com,1999:blog-18493443.post-7507653313714873451",
+          "author": "noreply@blogger.com (Dancho Danchev)",
+          "description": "Dear blog readers,\nI've decided to share with everyone a currently active portfolio of IM screen names from the infamous Shadow Crew cybercrime-friendly forum community part of a currently ongoing Technical Collection campaign for the purpose of assisting everyone in their cyber attack and cyber threat actor profiling campaigns.\nSample Shadow Crew cybercrime-friendly forum community IP addresses accounts:\n61[.]153[.]225[.]253\n61[.]156[.]17[.]164\n61[.]159[.]174[.]31\n216[.]12[.]218[.]213\n61[.]172[.]195[.]167\n1[.]3[.]5[.]112\n61[.]175[.]211[.]198\n64[.]82[.]92[.]118\n218[.]62[.]16[.]38\n61[.]151[.]251[.]199\n61[.]158[.]185[.]39\n213[.]98[.]75[.]135\n5[.]3[.]2[.]34\n211[.]147[.]61[.]151\n64[.]82[.]91[.]117\n212[.]181[.]134[.]31\n194[.]226[.]242[.]33\n217[.]126[.]111[.]6\n61[.]172[.]247[.]85\n212[.]57[.]166[…",
+          "link": "http://ddanchev.blogspot.com/2022/01/exposing-portfolio-of-shadow-crew.html",
+          "publishedOn": "2022-01-28T14:20:00.000Z",
+          "wordCount": null,
+          "title": "Exposing A Portfolio of Shadow Crew Cybercrime-Friendly Forum Communities IP Addresses - An OSINT Analysis",
+          "imageUrl": null
+        },
+        {
+          "id": "tag:blogger.com,1999:blog-18493443.post-2583235668475030612",
+          "author": "noreply@blogger.com (Dancho Danchev)",
+          "description": "Dear blog readers,\nI've decided to share with everyone an article that I've been recently working on namely the rise of the OMEMO real-time Jabber/XMPP encryption protocol and also discuss in-depth the security risks involved in OMEMO type of communications including to offer practical security and privacy recommendation advice which I originally wrote for my ex-employer Armadillo Phone.\nIn a modern and vibrant secure and encrypted mobile device ecosystem facing various hardware and physical security type of threats including the general rise of insecure WiFi hotspots and various other factors including the rise of various nation-state and rogue and malicious advanced persistent threat type of malicious and fraudulent campaigns a new protocol has recently emerged called OMEMO basically lim…",
+          "link": "http://ddanchev.blogspot.com/2022/01/the-evolution-of-encrypted-im.html",
+          "publishedOn": "2022-01-28T14:19:56.000Z",
+          "wordCount": null,
+          "title": "The Evolution of Encrypted IM Messenging Platforms - The Rise and Future of the OMEMO Protocol - An Analysis",
+          "imageUrl": null
+        },
+        {
+          "id": "tag:blogger.com,1999:blog-18493443.post-6980715367654056962",
+          "author": "noreply@blogger.com (Dancho Danchev)",
+          "description": "Dear blog readers,\nI've decided to share with everyone a currently active portfolio of fake and rogue fake tech support scam domains with the idea to assist everyone in their cyber attack attribution efforts.\nSample rogue fraudulent and malicious tech support scam domains include:\n0120-hfjkahgfu-238[.]cf\n1-800-my-apple[.]org\n1serversupport[.]com\n2serversupport[.]com\n3serversupport[.]com\n3stepremoval[.]com\n4serversupport[.]com\n5serversupport[.]com\n6serversupport[.]com\n7serversupport[.]com\n8serversupport[.]com\n9inchmonster[.]us\n9serversupport[.]com\n11serversupport[.]com\n22serversupport[.]com\n24-7helpline[.]co[.]uk\n24hour-apple-support[.]org\n24techhelp[.]com\n24x7livesolution[.]com\n33host[.]net\n33serversupport[.]com\n44serversupport[.]com\n55serversupport[.]com\n66serversupport[.]com\n77serversupp…",
+          "link": "http://ddanchev.blogspot.com/2022/01/exposing-currently-active-portfolio-of.html",
+          "publishedOn": "2022-01-28T14:19:53.000Z",
+          "wordCount": null,
+          "title": "Exposing a Currently Active Portfolio of Rogue and Fake Tech Support Scam Domains Portfolio - An OSINT Analysis",
+          "imageUrl": null
+        },
+        {
+          "id": "tag:blogger.com,1999:blog-18493443.post-5655976819203555004",
+          "author": "noreply@blogger.com (Dancho Danchev)",
+          "description": "In this post I've decided to expose and offer personally identifiable information on Iran's based cybercriminal known as Mohammad Sagegh Ahmadzadegan for the purpose of assisting U.S Law Enforcement on its way to track down and prosecute the cybercriminals behind these campaigns.\nSample personally identifiable information on Mohammad Sagegh Ahmadzadegan includes:\nName: Mohammad Sagegh Ahmadzadegan\nHandle: Nitrojen26\nEmail: nitr0jen26@asia[.]com; Nitrojen26@yahoo[.]com; me@sadahm[.]net\nWeb Site: hxxp://sadahm[.]com\nSocial Media Accounts: https://twitter[.]com/nitrojen26\nSample personally identifiable photos of Mohammad Sagegh Ahmadzadegan include:\n\n\n\nStay tuned!",
+          "link": "http://ddanchev.blogspot.com/2022/01/profiling-fbis-most-wanted-iran-based.html",
+          "publishedOn": "2022-01-28T14:19:49.000Z",
+          "wordCount": null,
+          "title": "Profiling FBI's Most Wanted Iran-based Cybercriminals - Mohammad Sagegh Ahmadzadegan - An OSINT Analysis",
+          "imageUrl": null
+        },
+        {
+          "id": "tag:blogger.com,1999:blog-18493443.post-2621283482750698408",
+          "author": "noreply@blogger.com (Dancho Danchev)",
+          "description": "In this post I've decided to offer in-depth and practical and relevant OSINT analysis of FBI's Most Wanted Cybercriminal Mujtaba Raza from the Forwarderz and SecondEye Solution fake documents and IDs selling Pakistan-based rogue fraudulent and malicious online enterprise with the idea to assist U.S Law Enforcement on its way to track down and prosecute the cybercriminals behind these campaigns.\n\n\n\nshy4angels@gmail[.]com\nshahzadsmb@gmail[.]com\nkhizarh11@yahoo[.]com\nkhizarhayat[.]jaffri@yahoo[.]com\nmuhammadkhizar[.]hayatjaffri@yahoo[.]com\nmygreentree59@yahoo[.]com\nkhizar14hayat@gmail[.]com\nmuhammadkhizarhayatjaffri@yahoo[.]com\nthreatcc@gmail[.]com\nmujtaba@forwarderz[.]com\nsyedaliraza940@gmail[.]com\nraza[.]zaidi92@yahoo[.]com\nkool_boy92@hotmail[.]com\ns[.]alirz92@gmail[.]com\nalimohsin228@gmail[.]com\nmohsinrazaamiri@gmail[.]com\nalimohsin228@yahoo[.]com\namestypezx@yahoo[.]com\nmohsin@forwarderz[.]com\ngreat_guy1102002@yahoo[.]com\nsupport@secondeyesolution[.]com\ninfo@forwarderz[.]com\nforwarderz@yahoo[.]com\nforwarderzlive@google[.]com\nforwarderzlive@hotmail[.]com\nsupport@secondeyehost[.]com\n\n\nSample Web sites known to have been used by Forwarderz and  SecondEye Solution: \n\n\nhxxp://secondeyesolution[.]su\nhxxp:// secondeyesolution[.]ch\nhxxp:// secondeyesolution[.]ru\nhxxp:// secondeyesolution[.]com\nhxxp:// forwarderz[.]com\nhxxp:// secondeyehost[.]com\n\n\nSample screenshots of various Forwarderz and SecondEye Solution domains include:\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nStay tuned!",
+          "link": "http://ddanchev.blogspot.com/2022/01/profing-fbis-most-wanted-cybercriminal.html",
+          "publishedOn": "2022-01-28T14:19:46.000Z",
+          "wordCount": null,
+          "title": "Profing FBI's Most Wanted Cybercriminal Mujtaba Raza from Forwarderz and SecondEye Solution - An OSINT Analysis",
+          "imageUrl": null
+        },
+        {
+          "id": "tag:blogger.com,1999:blog-18493443.post-6102921864346042809",
+          "author": "noreply@blogger.com (Dancho Danchev)",
+          "description": "Dear blog readers,\nI've decided to share with everyone a currently active portfolio of RATs (Remote Access Tools) and trojan horses C&C (Command and Control) communication channels including actual currently active names of RATs (Remote Access Tools) and trojan horses wit the idea to assist everyone in their cyber attack and cyber attribution campaigns where the C&C (Command and Control) communications channels which I'll share exclusive rely and use static and dynamic DNS and IP providers for the actual C&C infrastructure which is a common TTP (Tactics Techniques and Procedures) for this type of malicious software releases.\nSample RATs (Remote Access Tools) and trojan horses names currently in circulation in 2021 include:\nCasa RAT\nBack Orifice\nBandook RAT\nDark Comet Rat\nCerberus\nCybergate…",
+          "link": "http://ddanchev.blogspot.com/2022/01/a-peek-inside-todays-modern-rats-remote.html",
+          "publishedOn": "2022-01-28T14:19:42.000Z",
+          "wordCount": null,
+          "title": "A Peek Inside Today's Modern RATs (Remote Access Tools) and Trojan Horses C&C (Command and Control) Communication Channels - An OSINT Analysis",
+          "imageUrl": null
+        },
+        {
+          "id": "tag:blogger.com,1999:blog-18493443.post-3525441133151177820",
+          "author": "noreply@blogger.com (Dancho Danchev)",
+          "description": "Dear blog readers,\n\nI've decided to share with everyone yet another batch of currently active rogue and malicious CoolWebSearch domains with the idea to assist everyone in their cyber attack attribution campaigns including cyber threat actor attribution campaigns[.]\nSample currently active rogue and malicious CoolWebSearch domains portfolio:\nsmartupdater[.]com\ncash[.]pornocruto[.]nu\npornocruto[.]nu\nADASEARCH[.]COM\nELITE-VIDEO-FEEDS[.]COM\nFUCKING-MACHINE[.]NET\nGREATDILDOS[.]COM\nTEEN-NUDE-PICTURE[.]COM\nBDSM-INC[.]COM\nBOYS-GROUP[.]COM\nBOYS-INC[.]COM\nCOOL-PANTYHOSE[.]COM\nGAYS-CLUB[.]COM\nGAYS-INC[.]COM\nGET-GAY[.]COM\nHENTAI-INC[.]COM\nILLEGALAREA[.]COM\nILLEGALDOMAIN[.]COM\nLESBIAN-INC[.]COM\nMATURE-INC[.]COM\nMATURES-CLUB[.]COM\nMY-SHEMALE[.]COM\nPANTYHOSE-INC[.]COM\nPANTYHOSE-NOW[.]COM\nPANTYHOSE-SITE[…",
+          "link": "http://ddanchev.blogspot.com/2022/01/exposing-currently-active-coolwebsearch_21.html",
+          "publishedOn": "2022-01-28T14:19:39.000Z",
+          "wordCount": null,
+          "title": "Exposing a Currently Active CoolWebSearch Rogue and Malicious Domains Portfolio – Part Three – An OSINT Analysis",
+          "imageUrl": null
+        },
+        {
+          "id": "tag:blogger.com,1999:blog-18493443.post-7611507411595258535",
+          "author": "noreply@blogger.com (Dancho Danchev)",
+          "description": "Dear blog readers,\n\nI've decided to share with everyone a currently active personal email portfolio belonging to members of Iran's  Ashiyane Digital Security Team with the idea to assist everyone in their cyber attack or cyber threat actor attribution campaigns.\nSample currently active personal emails known to belong to members of Iran's Ashiyane Digital Security Team:\nm0stagim@gmail[.]com\nmtn97[.]hacker@yahoo[.]com\nsi13nt_si13nt@yahoo[.]com\nmidia595@yahoo[.]com\nDead[.]Zone@att[.]net\nn0_sec@yahoo[.]it\nMagicC0d3r@gmail[.]com\nFaghat_be_khatere_to6000@yahoo[.]com\nraminshahkar73@yahoo[.]com\nnitr0jen26@asia[.]com\nLord[.]private@ymail[.]com\nmehdy007@hotmail[.]fr\nplus[.]ashiyane@gmail[.]com\npashe_kosh9@yahoo[.]com\nomid[.]ghaffarinia@gmail[.]com\nPashekosh8@gmail[.]com\npashe_kosh8@yahoo[.]com\nSun[.…",
+          "link": "http://ddanchev.blogspot.com/2022/01/profiling-currently-active-personal.html",
+          "publishedOn": "2022-01-28T14:19:35.000Z",
+          "wordCount": null,
+          "title": "Profiling a Currently Active Personal Email Address Portfolio of Members of Iran's Ashiyane Digital Security Team - An OSINT Analysis",
+          "imageUrl": null
+        },
+        {
+          "id": "tag:blogger.com,1999:blog-18493443.post-4763769539420647388",
+          "author": "noreply@blogger.com (Dancho Danchev)",
+          "description": "Dear blog readers,\n\nI've decided to share with everyone yet another batch of currently active rogue and malicious CoolWebSearch domains with the idea to assist everyone in their cyber attack attribution campaigns including cyber threat actor attribution campaigns.\nSample currently active rogue and malicious CoolWebSearch domains portfolio:\nsmartupdater[.]com\ncash[.]pornocruto[.]nu\npornocruto[.]nu\nADASEARCH[.]COM\nELITE-VIDEO-FEEDS[.]COM\nFUCKING-MACHINE[.]NET\nGREATDILDOS[.]COM\nTEEN-NUDE-PICTURE[.]COM\nBDSM-INC[.]COM\nBOYS-GROUP[.]COM\nBOYS-INC[.]COM\nCOOL-PANTYHOSE[.]COM\nGAYS-CLUB[.]COM\nGAYS-INC[.]COM\nGET-GAY[.]COM\nHENTAI-INC[.]COM\nILLEGALAREA[.]COM\nILLEGALDOMAIN[.]COM\nLESBIAN-INC[.]COM\nMATURE-INC[.]COM\nMATURES-CLUB[.]COM\nMY-SHEMALE[.]COM\nPANTYHOSE-INC[.]COM\nPANTYHOSE-NOW[.]COM\nPANTYHOSE-SITE[.]…",
+          "link": "http://ddanchev.blogspot.com/2022/01/exposing-currently-active-coolwebsearch_28.html",
+          "publishedOn": "2022-01-28T14:19:32.000Z",
+          "wordCount": null,
+          "title": "Exposing a Currently Active CoolWebSearch Rogue and Malicious Domains Portfolio - Part Two – An OSINT Analysis",
+          "imageUrl": null
+        },
+        {
+          "id": "tag:blogger.com,1999:blog-18493443.post-7876199798611520669",
+          "author": "noreply@blogger.com (Dancho Danchev)",
+          "description": "Dear blog readers,\n \nI've decided to share with everyone a currently active portfolio of rogue and malicious CoolWebSearch IPs with the idea to help everyone in their cyber attack attribution campaign including cyber threat actor attribution campaigns.\n\n\nSample currently active rogue and malicious CoolWebSearch domains portfolio:\n\n008i[.]com\n008k[.]com\n00hq[.]com\n010402[.]com\n05p[.]com\n0calories[.]net\n0cat[.]com\n0cj[.]net\n100gal[.]net\n100sexlinks[.]com\n101lottery[.]com\n1089288654\n10money[.]us\n123keno[.]com\n130[.]94[.]72[.]17\n143fuck[.]com\n157[.]238[.]62[.]14\n171203[.]com\n193[.]125[.]201[.]50\n195[.]190[.]118[.]140\n195[.]225[.]176[.]14\n195[.]225[.]176[.]31\n195[.]225[.]177[.]13\n195[.]225[.]177[.]8\n198[.]65[.]164[.]168\n198[.]65[.]164[.]170\n198[.]65[.]164[.]171\n1check[.]us\n1cost[.]us\n1-domains-…",
+          "link": "http://ddanchev.blogspot.com/2022/01/exposing-currently-active-coolwebsearch.html",
+          "publishedOn": "2022-01-28T14:19:28.000Z",
+          "wordCount": null,
+          "title": "Exposing a Currently Active CoolWebSearch  Domains Portfolio - An OSINT Analysis",
+          "imageUrl": null
+        },
+        {
+          "id": "tag:blogger.com,1999:blog-18493443.post-6999931814740269407",
+          "author": "noreply@blogger.com (Dancho Danchev)",
+          "description": "It appears that the U.S Justice Department has recently made arrests in the Kaseya ransomware dropping campaign and I've decided to dig a little bit deeper and actually offer and provide the necessary actionable intelligence in the context of exposing the individuals behind these campaigns in the context of assisting U.S Law Enforcement on its way to track down and prosecute the cybercriminals behind these campaigns.\n\n\nSample personally identifiable information on Yaroslav Vasinskyi:\n\n\nMobile: +380993082660\n\n\nPhone: 1-800-225-5324 which is actually the phone number of the FBI\n\n\nPersonal email address accounts: yarik45@gmail[.]com, yaroslav2468@mail[.]ru\n\n\nOnline handles: Yarik45, Yaroslav2468\n\n\nICQ: 635995970\n\n\nincluding the following Web site which is he known to have been offering around…",
+          "link": "http://ddanchev.blogspot.com/2022/01/profiling-yaroslav-vasinskyi-from.html",
+          "publishedOn": "2022-01-28T14:19:23.000Z",
+          "wordCount": null,
+          "title": "Profiling Yaroslav Vasinskyi from the Kaseya Ransomware Attack Campaign - An OSINT Analysis",
+          "imageUrl": null
+        },
+        {
+          "id": "tag:blogger.com,1999:blog-18493443.post-9083490142585745563",
+          "author": "noreply@blogger.com (Dancho Danchev)",
+          "description": "Dear blog readers,\nIn this post I've decided to share actionable intelligence on the online infrastructure of FBI's Most Wanted Iran's Mabna Hackers for the purpose of assisting everyone in their cyber attack and cyber threat actor attribution campaigns.\nmlibo[.]ml\nblibo[.]ga\nazll[.]cf\nazlll[.]cf\nlzll[.]cf\njlll[.]cf\nelll[.]cf\nlllib[.]cf\ntsll[.]cf\nulll[.]tk\ntlll[.]cf\nlibt[.]ga\nlibk[.]ga\nlibf[.]ga\nlibe[.]ga\nliba[.]gq\nlibver[.]ml\nntll[.]tk\nills[.]cf\nvtll[.]cf\nclll[.]tk\nstll[.]tk\nllii[.]xyz\nlill[.]pro\neduv[.]icu\nuniv[.]red\nunir[.]cf\nunir[.]gq\nunisv[.]xyz\nunir[.]ml\nunin[.]icu\nunie[.]ml\nunip[.]gq\nunie[.]ga\nunip[.]cf\nnimc[.]ga\nnimc[.]ml\nsavantaz[.]cf\nunie[.]gq\nunip[.]ga\nunip[.]ml\nunir[.]ga\nuntc[.]me\njhbn[.]me\nunts[.]me\nuncr[.]me\nlib-service[.]com\nunvc[.]me\nuntf[.]me\nnimc[.]cf\nanvc[.]me\nebookfafa[…",
+          "link": "http://ddanchev.blogspot.com/2022/01/exposing-fbis-most-wanted-irans-mabna.html",
+          "publishedOn": "2022-01-27T00:01:37.000Z",
+          "wordCount": null,
+          "title": "Exposing FBI's Most Wanted Iran's Mabna Hackers - An OSINT Analysis",
+          "imageUrl": null
+        },
+        {
+          "id": "tag:blogger.com,1999:blog-18493443.post-4942484559574400186",
+          "author": "noreply@blogger.com (Dancho Danchev)",
+          "description": "Dear blog readers,\nI've decided to share with everyone some practical and actionable threat intelligence information regarding members of the Ashiyane Digital Security Team also known as Behrooz Kamalian's Ashiyane ICT Company for the purpose of assisting everyone in their cyber attack and cyber attack attribution campaigns.\nName: Behrooz Kamalian\nPostal address:\nTajrish Sq, Fana Khosro St,Amir Salam Alley,No 22, Ashiyane ICT Company\nPhone number: 22727284-5\nFax number: 22727283\nemail: nima.salehi@yahoo.com\nTechnical Handle: nic36928h37\nName: Behrooz Kamalian\nemail: nima.salehi@yahoo.com\nDomain Name: ashiyane.ir\nLegal Holder: Behrooz Kamalian\nPostal address:\nUnit 28, Floor Seven, 36 Building , Daneshvar alley, Jamalzadeh St. , Enghelab Sq.\nTehran, IR\n1336925748\nPhone number: +98.2166935551\nFax number: +98.2166930577\nAdmin Contact: nic36928h37\nTechnical Contact: nic36928h37\nDomain Name Server1: ns1.ashiyane.org\nDomain Name Server2: ns2.ashiyane.org\nRequest Date: 29 December 2005\nLast Verification: 21 September 2006\nReseller: Govah Tadbir Rayaneh\nPostal address:\nUnir 1 , 1th Floor , No.376 , North Bahar St .\nPhone number: +98 21 88849956-7\nFax number: +98 21 88307682\nemail: info@tadbir.ir",
+          "link": "http://ddanchev.blogspot.com/2022/01/exposing-behrooz-kamalians-ashiyane-ict.html",
+          "publishedOn": "2022-01-27T00:01:29.000Z",
+          "wordCount": null,
+          "title": "Exposing Behrooz Kamalian's Ashiyane ICT Company - An OSINT Analysis",
+          "imageUrl": null
+        },
+        {
+          "id": "tag:blogger.com,1999:blog-18493443.post-3156582298249094132",
+          "author": "noreply@blogger.com (Dancho Danchev)",
+          "description": "Dear blog readers,\nI've decided to share a recently obtained Emotet botnet C&C server IPs for the purpose of empowering everyone with the necessary technical information on their way to track down and monitor the botnet including to possibly assist and help where necessary in terms of cyber attack campaign attribution including cyber threat actor attribution campaigns.\nSample currently active Emotet botnet C&C server IPs:\nhxxp://109[.]123[.]78[.]10\nhxxp://66[.]54[.]51[.]172\nhxxp://108[.]161[.]128[.]103\nhxxp://195[.]210[.]29[.]237\nhxxp://5[.]35[.]249[.]46\nhxxp://5[.]159[.]57[.]195\nhxxp://206[.]210[.]70[.]175\nhxxp://88[.]80[.]187[.]139\nhxxp://188[.]93[.]174[.]136\nhxxp://130[.]133[.]3[.]7\nhxxp://162[.]144[.]79[.]192\nhxxp://79[.]110[.]90[.]207\nhxxp://72[.]18[.]204[.]17\nhxxp://212[.]129[.]13[.]…",
+          "link": "http://ddanchev.blogspot.com/2022/01/profiling-emotet-botnet-c.html",
+          "publishedOn": "2022-01-27T00:01:19.000Z",
+          "wordCount": null,
+          "title": "Profiling the Emotet Botnet C&C Infrastructure - An OSINT Analysis",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "Malware Intelligence Lab from FireEye - Research & Analysis of Zero-Day & Advanced Targeted Threats",
+      "feedUrl": "http://feeds.feedburner.com/FE_research",
+      "siteUrl": "https://blog.fireeye.com/research/",
+      "articles": []
+    },
+    {
+      "title": "gynvael.coldwind//vx.log (en)",
+      "feedUrl": "http://feeds.feedburner.com/GynvaelColdwindEN",
+      "siteUrl": "https://gynvael.coldwind.pl/",
+      "articles": [
+        {
+          "id": "https://gynvael.coldwind.pl/?id=743",
+          "author": null,
+          "description": "Google CTF nowadays is a pretty large event - or should I say 3 connected events, with the pretty hardcore main CTF being one of them, and Hackceler8 - where speedrunning meets CTFs and game hacking - being the second. The last one, but probably the most popular one is Beginners Quest - a set of CTF challenges tied together with a story (a 001337 spy story in this specific case) and aimed at folks who like challenges, but prefer to take it easy is a stress free (i.e. no scoreboard) environment. Anyway, yesterday I've made an over 4 hour long livestream where I've solved all the challenges from this year's BQ, and here's the recording - enjoy!\n\r\n\r\n\r\n\r\n\r\nTimeline (in order of solving):\r\n    15:46 - Task 1: CCTV (rev)\r\n    23:38 - Task 2: Logic Lock (misc)\r\n    34:27 - Task 3: High Speed Chase (misc)\r\n    49:25 - Task 5: Twisted robot (misc)\r\n  1:07:50 - Task 8: Hide and seek (misc)\r\n  1:22:10 - Task 10: Spycam (hw)\r\n  1:47:15 - Task 12: Old lock (web)\r\n  1:55:47 - Task 13: Noise on the wire (net)\r\n  2:04:45 - Task 15: Just another keypad (rev)\r\n  2:14:48 - Task 17: Playing golf (misc)\r\n  3:01:08 - Task 18: Strange Virtual Machine (rev)\r\n  3:41:49 - Task 4: Electronics Research Lab (hw)\r\n  3:51:41 - Task 6: To the moon (misc)\r\n  4:16:40 - Task 7: ReadySetAction (crypto)\r\n  4:25:30 - Task 9: Konski-Hiakawa Law of Droids (rev)\r\n  4:28:23 - Task 11: pwn-notebook (pwn)\r\n  4:41:59 - Task 14: web-quotedb (web)\r\n  4:45:04 - Task 16: Hash-meee (misc)",
+          "link": "https://gynvael.coldwind.pl/?id=743",
+          "publishedOn": "2021-10-02T00:12:23.000Z",
+          "wordCount": null,
+          "title": "Google's Beginner Quest 2021 - all tasks solved recording",
+          "imageUrl": null
+        },
+        {
+          "id": "https://gynvael.coldwind.pl/?id=742",
+          "author": null,
+          "description": "<img src=\"https://gynvael.coldwind.pl/img/seventh-inferno-small.jpg\"\r\n     alt=\"Name of the vulnerability - Seventh Inferno - in a flaming font on dark rocky background\"\r\n     class=\"banner-fill\">\r\nTL;DR: NETGEAR just patched 3 reported vulnerabilities (Demon's Cries, Draconian Fear and Seventh Inferno) in some managed (smart) switches. If you or your company owns any of these devices, please patch now.\n\r\n\r\nP.S. This vulnerability and exploit chain is actually quite interesting technically. In short, it goes from a newline injection in the password field, through being able to write a file with constant uncontrolled content of 2 (like, one byte 32h), through a DoS and session crafting (which yields an admin web UI user), to an eventual post-auth shell injection (which yields full root).\n\r\n…",
+          "link": "https://gynvael.coldwind.pl/?id=742",
+          "publishedOn": "2021-09-13T00:12:22.000Z",
+          "wordCount": null,
+          "title": "Seventh Inferno vulnerability (some NETGEAR smart switches)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://gynvael.coldwind.pl/?id=741",
+          "author": null,
+          "description": "<img src=\"https://gynvael.coldwind.pl/img/draconian-fear-small.jpg\"\r\n     alt=\"Name of the vulnerability - Draconian Fear - in a red horror-style font on stained black background\"\r\n     class=\"banner-fill\">\r\nTL;DR: NETGEAR just patched 3 reported vulnerabilities (Demon's Cries, Draconian Fear and Seventh Inferno) in some managed (smart) switches. If you or your company owns any of these devices, please patch now.\n\r\n\r\nNote: Details on Seventh Inferno will be publish on or after 13th September.\n\r\n\r\nAffected devices:\n\r\n\r\n  \nGC108P\n\r\n  \nGC108PP\n\r\n  \nGS108Tv3\n\r\n  \nGS110TPP\n\r\n  \nGS110TPv3\n\r\n  \nGS110TUP\n\r\n  \nGS308T\n\r\n  \nGS310TP\n\r\n  \nGS710TUP\n\r\n  \nGS716TP\n\r\n  \nGS716TPP\n\r\n  \nGS724TPP\n\r\n  \nGS724TPv2\n\r\n  \nGS728TPPv2\n\r\n  \nGS728TPv2\n\r\n  \nGS750E\n\r\n  \nGS752TPP\n\r\n  \nGS752TPv2\n\r\n  \nMS510TXM\n\r\n  \nMS510TXUP\n…",
+          "link": "https://gynvael.coldwind.pl/?id=741",
+          "publishedOn": "2021-09-06T00:12:21.000Z",
+          "wordCount": null,
+          "title": "Draconian Fear vulnerability (some NETGEAR smart switches)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://gynvael.coldwind.pl/?id=740",
+          "author": null,
+          "description": "<img src=\"https://gynvael.coldwind.pl/img/demons-cries-small.jpg\"\r\n     alt=\"Name of the vulnerability - Demon's Cries - in a white horror-style font on stained bluish gray background\"\r\n     class=\"banner-fill\">\r\nTL;DR: NETGEAR just patched 3 reported vulnerabilities (Demon's Cries, Draconian Fear and Seventh Inferno) in some managed (smart) switches. If you or your company owns any of these devices, please patch now.\n\r\n\r\nNote: Details on Seventh Inferno will be publish on or after 13th September.\n\r\n\r\nAffected devices:\n\r\n\r\n  \nGC108P\n\r\n  \nGC108PP\n\r\n  \nGS108Tv3\n\r\n  \nGS110TPP\n\r\n  \nGS110TPv3\n\r\n  \nGS110TUP\n\r\n  \nGS308T\n\r\n  \nGS310TP\n\r\n  \nGS710TUP\n\r\n  \nGS716TP\n\r\n  \nGS716TPP\n\r\n  \nGS724TPP\n\r\n  \nGS724TPv2\n\r\n  \nGS728TPPv2\n\r\n  \nGS728TPv2\n\r\n  \nGS750E\n\r\n  \nGS752TPP\n\r\n  \nGS752TPv2\n\r\n  \nMS510TXM\n\r\n  \nMS510…",
+          "link": "https://gynvael.coldwind.pl/?id=740",
+          "publishedOn": "2021-09-06T00:12:20.000Z",
+          "wordCount": null,
+          "title": "Demon's Cries vulnerability (some NETGEAR smart switches)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://gynvael.coldwind.pl/?id=739",
+          "author": null,
+          "description": "div#pydemo {\r\n  display: flex;\r\n  flex-direction: column;\r\n  font-size: 1.4em;\r\n}\r\n\r\n.dup {\r\n  color: #0f0;\r\n}\r\n\r\ndiv.pydemotop {\r\n  display: flex;\r\n  flex-direction: row;\r\n  padding-top: 0.5em;\r\n  padding-bottom: 0.5em;\r\n  background-color: #2a2855;\r\n}\r\n\r\ndiv.pydemobottom {\r\n  display: flex;\r\n  flex-direction: row;\r\n  min-height: 25em;\r\n}\r\n\r\ndiv#pynum {\r\n\r\n  width: 50%;\r\n}\r\n\r\ndiv#pynum input {\r\n  width: 100%;\r\n  text-align: center;\r\n  font-size: 1em;\r\n  background-color: #2a2855;\r\n  color: white;\r\n  border: none;\r\n  padding-top: 0.5em;\r\n  padding-bottom: 0.5em;\r\n}\r\n\r\ndiv#pyast {\r\n  background-color: #2a2855;\r\n  width: 50%;\r\n  text-align: center;\r\n}\r\n\r\ndiv#pyastvalue {\r\n  padding-top: 0.5em;\r\n  padding-bottom: 0.5em;\r\n  color: white;\r\n}\r\n\r\ndiv#pystackbefore {\r\n  padding-top: 0.5em;\r\n  back…",
+          "link": "https://gynvael.coldwind.pl/?id=739",
+          "publishedOn": "2021-07-18T00:12:19.000Z",
+          "wordCount": null,
+          "title": "Making numbers out of thin air, Python bytecode edition",
+          "imageUrl": null
+        },
+        {
+          "id": "https://gynvael.coldwind.pl/?id=738",
+          "author": null,
+          "description": "Just a short reminder to anonymize data on the server-side\r\n  and not in the browser, illustrated by a small privacy vulnerability I've\r\n  found during, well, a security talk I've attended that took place on the\r\n  ClickMeeting platform (it was still 10 minutes before the talk began you\r\n  understand).\n\r\n\r\nProps to ClickMeeting for a fast reaction time and good communication - this\r\nbug is long fixed (reported on April 7th 2021).\n\r\n\r\nOriginal report (though redacted a bit) follows:\n\r\n\r\nHey folks,\r\n\r\nI've joined a webinar hosted on clickmeeting platform today, and noticed one\r\nthing which I found curious.\r\n\r\nThe webinar I attended had chat enabled, however there seem to be some \"privacy\r\nmode\" enabled for attendees - i.e. the chat didn't display the list of people\r\n(which is pretty standard…",
+          "link": "https://gynvael.coldwind.pl/?id=738",
+          "publishedOn": "2021-07-07T00:12:18.000Z",
+          "wordCount": null,
+          "title": "ClickMeeting minor privacy weakness (fixed)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://gynvael.coldwind.pl/?id=737",
+          "author": null,
+          "description": "A few days ago I tweeted about this \"open and read a file with popen+cat\" gem I found in the firmware of one of NETGEAR's devices:\n\r\n\r\n\nHow to read a file in C according to NETGEAR pic.twitter.com/TRbxWC5vsY\n— Gynvael Coldwind (@gynvael) July 1, 2021\n \r\n\r\nSince there were some questions about \"why is this a bad pattern?\", I decided to write a short blog post explaining this.\n\r\n\r\nBut before we get there, please also see this short thread, or just remember to not blame an individual engineer for writing that code – rather blame the procedures NETGEAR has with regards to secure code development and quality assurance.\n\r\n\r\nContext?\n\r\n\r\nLet's start by adding some more context to this tweet – where is this code from, and is it the source code or something else?\n\r\n\r\nThis code was found in the firm…",
+          "link": "https://gynvael.coldwind.pl/?id=737",
+          "publishedOn": "2021-07-03T00:12:17.000Z",
+          "wordCount": null,
+          "title": "popen+cat explained",
+          "imageUrl": null
+        },
+        {
+          "id": "https://gynvael.coldwind.pl/?id=736",
+          "author": null,
+          "description": "<img src=\"https://gynvael.coldwind.pl/img/gears-of-chaos-small.png\"\r\n     alt=\"Name of the vulnerability - Gears of Chaos - in a black horror-style font on stained white-and-black background\"\r\n     style=\"width:100%; height: auto; margin: 0; margin-bottom: 0.5em\">\r\nAs mentioned in previous post, NETGEAR WAC104 access point just had a couple of vulnerabilities patched and you should upgrade its firmware now if you own such a device at your company or at home (or anywhere else).\n\r\n\r\n\r\n  \r\n    <img src=\"https://gynvael.coldwind.pl/img/wac104_t.jpg\"\r\n         alt=\"Photo of a NETGEAR WAC104 access point without the casing.\">\r\n  \r\n  NETGEAR WAC104 access point\r\n\r\n\r\nActually there might be more affected devices:\n\r\n\r\n\r\n  \nWAC104 - fix available\n\r\n  \nWNDR3700v5 - might be vulnerable (unconfirmed), …",
+          "link": "https://gynvael.coldwind.pl/?id=736",
+          "publishedOn": "2021-06-29T00:12:16.000Z",
+          "wordCount": null,
+          "title": "Gears of Chaos vulnerability chain (NETGEAR WAC104 access point)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://gynvael.coldwind.pl/?id=735",
+          "author": null,
+          "description": "Just a short post (I will publish a longer one with details on Monday) – if you have the following NETGEAR access point, you should upgrade your firmware now:\n\r\n\r\n\r\n  \nWAC104\n\r\n\r\n\r\nNETGEAR's advisory and the firmware can be found here:\n\r\n\r\n\r\n  \nSecurity Advisory for Authentication Bypass on WAC104, PSV-2021-0075\n\r\n  \nWAC104 — Dual Band 802.11ac Wireless Access Point – Firmware and Software Downloads\n\r\n\r\n\r\nPlease note that NETGEAR assigned CVSS v3.1 score of 8.8 (High), which is incorrect (unless I misread the CVSS specification) - it's actually 9.8 (Critical):\n\r\nVector String: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H\n\r\n\r\nThis firmware fixes also a couple of other vulnerabilities with lower CVSS scores. More details on Monday.\n\r\n\r\nP.S. This vulnerability chain is dubbed Gears of Chaos (in line with my sense of humor).",
+          "link": "https://gynvael.coldwind.pl/?id=735",
+          "publishedOn": "2021-06-23T00:12:15.000Z",
+          "wordCount": null,
+          "title": "WAC104 vulnerabilities - please go patch (details on Monday)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://gynvael.coldwind.pl/?id=734",
+          "author": null,
+          "description": "Obligatory FAQ note: Sometimes I get asked questions, e.g. on IRC, via e-mail or during my livestreams. And sometimes I get asked the same question repeatedly. To save myself some time (*cough* and be able to give the same answer instead of conflicting ones *cough*) I decided to write up selected question and answer pairs in separate blog posts. Please remember that these answers are by no means authoritative - they are limited by my experience, my knowledge and my opinions on things. Do look in the comment section as well - a lot of smart people read my blog and might have a different, and likely better, answer to the same question. If you disagree or just have something to add - by all means, please do comment.\n\r\n\r\nQ: How to find exploits in software?\n\r\nQ: How did you find this CVE? (in …",
+          "link": "https://gynvael.coldwind.pl/?id=734",
+          "publishedOn": "2021-05-22T00:12:14.000Z",
+          "wordCount": null,
+          "title": "FAQ: Difference between vulnerability, exploit and CVE",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "Blog postings from honeynet.org",
+      "feedUrl": "http://feeds.feedburner.com/HoneynetProjectAggregated",
+      "siteUrl": "http://www.honeynet.org/feed/blogfeed",
+      "articles": []
+    },
+    {
+      "title": "Irongeek's Security Site",
+      "feedUrl": "http://feeds.feedburner.com/IrongeeksSecuritySite",
+      "siteUrl": "http://www.irongeek.com/",
+      "articles": [
+        {
+          "id": "http://www.irongeek.com/i.php?page=security/doxing-footprinting-cyberstalking",
+          "author": null,
+          "description": "Link: http://www.irongeek.com/i.php?page=security/doxing-footprinting-cyberstalking\nI added (https://usersearch.org) to the site. I also moved dead links to the bottom of the page. If you know sites/tools I should add, please contact me. The site has gotten a bit dated I think.",
+          "link": "http://www.irongeek.com/i.php?page=security/doxing-footprinting-cyberstalking",
+          "publishedOn": "2021-09-02T17:03:18.000Z",
+          "wordCount": null,
+          "title": "OSInt, Doxing And Cyberstalking Page Updated",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.irongeek.com/i.php?page=videos/oisf2021/mainlist",
+          "author": null,
+          "description": "OISF 2021 Videos \nThese are the videos from the OISF Anniversary Event\nOpening Remarks\nOISF President\nInside the Mind of a Threat Actor: Beyond Pentesting\nPhillip Wylie\nI Got 99 Problems but a WAF ain't one\nMicah Brown\nCode Hedgehogs - Changing the \"S\" in SDLC to Secure\nPenelope Rozhkova\nA Look at Cellular Services in IoT technology\nDeral Heiland\nChats, Cheats, and Cracks: Abuse of Collaboration Platforms in Malware Campaigns\nEdmund Brumaghin\nLend me your IR's!\nMatt Scheurer\n\n\nDownload from:\nhttps://archive.org/details/oisf2021",
+          "link": "http://www.irongeek.com/i.php?page=videos/oisf2021/mainlist",
+          "publishedOn": "2021-07-11T01:40:35.000Z",
+          "wordCount": null,
+          "title": "OISF 2021 Videos",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.irongeek.com/i.php?page=videos/bsidescleveland2021/mainlist",
+          "author": null,
+          "description": "BSides Cleveland 2021 Videos\nThese are the videos from the Bsides Cleveland conference. Thanks to Rich, securid as the video team. Thanks to twuntymcslore & RockieBrockway for being con mom & dad.\nThese are the first con recordings I've done in 1 year and 3 months. It seems something may have changed after some updates. These OBS videos have variable audio sync problems that are not a set number of milliseconds I could easily set the same sync settings to. I fixed them the best I could, but I've included the raw files if someone can figure a better way to fix variable sync delays. Contact me if you find a better way. Ministraitor (my European counterpart that does more cons than me) gave me some tips to fix future problems.\n\nIntro \nRockie Brockway\nI Don t Know \nSnow\nComputer Forensics Case Files \nTyler Hudak \nImproving Cyber Security\nAlex Kot\nLend Me You IRs \nMatt Scheurer \nTale From The Audit \nJustin Leapline \nTable Top \nJeremy Mio \nVulnerability Disclosure Policies Hack Responsibly \nMzBat \nPentest Stories \nJustin Bollinger \nAdvisor Person \nRick Yocum",
+          "link": "http://www.irongeek.com/i.php?page=videos/bsidescleveland2021/mainlist",
+          "publishedOn": "2021-06-20T18:40:32.000Z",
+          "wordCount": null,
+          "title": "BSides Cleveland 2021 Videos",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "Jeremiah Grossman",
+      "feedUrl": "http://feeds.feedburner.com/JeremiahGrossman",
+      "siteUrl": "http://blog.jeremiahgrossman.com/",
+      "articles": []
+    },
+    {
+      "title": "Flexera Blog - Feed",
+      "feedUrl": "http://feeds.feedburner.com/SecuniaResearch",
+      "siteUrl": "https://www.flexera.com/blog",
+      "articles": [
+        {
+          "id": "https://www.flexera.com/blog/?p=25258",
+          "author": "Kevin Miller",
+          "description": "By now, you’ve probably learned of Apache Log4j 2. As reported across the web, there is the recently disclosed CVE-2021-44228 vulnerability in Apache Log4j 2 (widely referred to as Log4Shell) affecting organizations far and wide. This is a critical vulnerability in Apache Log4j 2, impacting versions from 2.0-beta9 to 2.14.1. And now you’ve likely been asking, “Where is this vulnerability within my own IT ecosystem, and how do I mitigate it if necessary?” Flexera is helping work through the issue with our customers by ensuring immediate visibility of the impact of this and other vulnerabilities within their IT estate. Flexera…",
+          "link": "https://www.flexera.com/blog/vulnerability-management/apache-log4j-2/",
+          "publishedOn": "2021-12-17T09:00:40.000Z",
+          "wordCount": null,
+          "title": "Apache Log4j 2, Flexera and you",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.flexera.com/blog/?p=23088",
+          "author": "Kevin Miller",
+          "description": "Keeping ahead of software vulnerabilities is a tough task. No matter the organization, industry, location or experience, vulnerable applications pop up all over the place all the time. The SolarWinds breach in late 2020 or the ransomware attack that closed down the Colonial Pipeline supplying nearly half the gasoline to the East Coast are just a couple of recent major examples of the effects of a breach, but they’re just waiting to happen every day. Luckily for all of us in the information technology industry, there are plenty of amazing hackers and security experts on the side of stopping these…",
+          "link": "https://www.flexera.com/blog/vulnerability-management/vmware-and-flexera-team-up/",
+          "publishedOn": "2021-05-20T15:33:30.000Z",
+          "wordCount": null,
+          "title": "VMware Workspace One and Flexera Address Software Vulnerabilities",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "Security on the edge",
+      "feedUrl": "http://feeds.feedburner.com/SecurityOnTheEdge",
+      "siteUrl": "http://edge-security.blogspot.com/",
+      "articles": []
+    },
+    {
+      "title": "The Security Shoggoth",
+      "feedUrl": "http://feeds.feedburner.com/TheSecurityShoggoth",
+      "siteUrl": "http://secshoggoth.blogspot.com/",
+      "articles": []
+    },
+    {
+      "title": "Aldeid News",
+      "feedUrl": "http://feeds.feedburner.com/aldeidnews",
+      "siteUrl": "https://www.aldeid.com",
+      "articles": [
+        {
+          "id": "https://www.aldeid.com/wiki/TryHackMe-Unbaked-Pie",
+          "author": null,
+          "description": "Don’t over-baked your pie!\r\n\nPlease allow 5 minutes for this instance to fully deploy before attacking. This VM was developed in collaboration with @ch4rm, thanks to him for the foothold and privilege escalation ideas.\r\n\r\n\nContents\n\n\r\n\r\n1 User Flag\r\n\r\n1.1 Services\n\r\n1.2 Django application\n\r\n1.3 Pickle in the search\n\r\n1.4 Exploit\n\r\n1.5 Evade docker\n\r\n1.6 Database\n\r\n1.7 Brute force ramsey’s SSH account\n\r\n1.8 Ramsey’s flag\n\r\n\r\n\r\n2 Root Flag\r\n\r\n2.1 Lateral move (ramsey -> oliver)\n\r\n2.2 Privilege escalation\n\r\n\r\n\r\n\r\n\r\nUser Flag\n\r\nServices\n\r\nRunning Nmap will only reveal 1 open port:\r\n\r\nPORT     STATE SERVICE    VERSION\r\n5003/tcp open  filemaker?\r\n| fingerprint-strings: \r\n|   GetRequest: \r\n|     HTTP/1.1 200 OK\r\n|     Date: Sat, 05 Jun 2021 05:28:13 GMT\r\n|     Server: WSGIServer/0.2 CPython/3.8.6…",
+          "link": "https://www.aldeid.com/wiki/TryHackMe-Unbaked-Pie",
+          "publishedOn": "2021-06-06T11:34:00.000Z",
+          "wordCount": null,
+          "title": "TryHackMe > Unbaked Pie",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.aldeid.com/wiki/TryHackMe-Cooctus-Stories",
+          "author": null,
+          "description": "This room is about the Cooctus Clan.\r\n\nPreviously on Cooctus Tracker\r\n\nOverpass has been hacked! The SOC team (Paradox, congratulations on the promotion) noticed suspicious activity on a late night shift while looking at shibes, and managed to capture packets as the attack happened. (From Overpass 2 - Hacked by NinjaJc01)\r\n\nPresent times\r\n\nFurther investigation revealed that the hack was made possible by the help of an insider threat. Paradox helped the Cooctus Clan hack overpass in exchange for the secret shiba stash. Now, we have discovered a private server deep down under the boiling hot sands of the Saharan Desert. We suspect it is operated by the Clan and it’s your objective to uncover their plans.\r\n\nNote: A stable shell is recommended, so try and SSH into users when possible.\r\n\r\n\nCon…",
+          "link": "https://www.aldeid.com/wiki/TryHackMe-Cooctus-Stories",
+          "publishedOn": "2021-05-28T06:50:00.000Z",
+          "wordCount": null,
+          "title": "TryHackMe > Cooctus Stories",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.aldeid.com/wiki/TryHackMe-VulnNet-Roasted",
+          "author": null,
+          "description": "VulnNet Entertainment quickly deployed another management instance on their very broad network…\r\n\nVulnNet Entertainment just deployed a new instance on their network with the newly-hired system administrators. Being a security-aware company, they as always hired you to perform a penetration test, and see how system administrators are performing.\r\n\r\n\nDifficulty: Easy\n\r\nOperating System: Windows\n\r\nThis is a much simpler machine, do not overthink. You can do it by following common methodologies.\r\n\nNote: It might take up to 6 minutes for this machine to fully boot.\r\n\r\n\nAuthor: TheCyb3rW0lf\n\r\nDiscord: TheCyb3rW0lf#8594\n\r\nIcon made by DinosoftLabs from www.flaticon.com\r\n\r\n\nContents\n\n\r\n\r\n1 What is the user flag? (Desktop.txt)\r\n\r\n1.1 Services\n\r\n1.2 Samba\n\r\n1.3 Find users\n\r\n1.4 Find users without K…",
+          "link": "https://www.aldeid.com/wiki/TryHackMe-VulnNet-Roasted",
+          "publishedOn": "2021-05-28T06:48:00.000Z",
+          "wordCount": null,
+          "title": "TryHackMe > VulnNet Roasted",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.aldeid.com/wiki/TryHackMe-VulnNet-Internal",
+          "author": null,
+          "description": "VulnNet Entertainment learns from its mistakes, and now they have something new for you…\r\n\nVulnNet Entertainment is a company that learns from its mistakes. They quickly realized that they can’t make a properly secured web application so they gave up on that idea. Instead, they decided to set up internal services for business purposes. As usual, you’re tasked to perform a penetration test of their network and report your findings.\r\n\r\n\nDifficulty: Easy/Medium\n\r\nOperating System: Linux\n\r\nThis machine was designed to be quite the opposite of the previous machines in this series and it focuses on internal services. It’s supposed to show you how you can retrieve interesting information and use it to gain system access. Report your findings by submitting the correct flags.\r\n\nNote: It might take …",
+          "link": "https://www.aldeid.com/wiki/TryHackMe-VulnNet-Internal",
+          "publishedOn": "2021-05-27T11:48:00.000Z",
+          "wordCount": null,
+          "title": "TryHackMe > VulnNet Internal",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.aldeid.com/wiki/TryHackMe-toc2",
+          "author": null,
+          "description": "It’s a setup... Can you get the flags in time?\r\n\nI have a theory that the truth is never told during the nine-to-five hours. - Hunter S. Thompson\r\n\r\n\nContents\n\n\r\n\r\n1 Find and retrieve the user.txt flag\r\n\r\n1.1 Services\n\r\n1.2 CMS information\n\r\n1.3 CMS Made Simple / Reverse Shell\n\r\n1.4 User flag\n\r\n\r\n\r\n2 Escalate your privileges and acquire root.txt\r\n\r\n2.1 Lateral move (www-data -> frank)\n\r\n2.2 The readcreds binary\n\r\n2.3 Race condition\n\r\n2.4 Root flag\n\r\n\r\n\r\n\r\n\r\nFind and retrieve the user.txt flag\n\r\nServices\n\r\nNmap reveals 2 open ports:\r\n\r\nPORT   STATE SERVICE VERSION\r\n22/tcp open  ssh     OpenSSH 7.6p1 Ubuntu 4ubuntu0.3 (Ubuntu Linux; protocol 2.0)\r\n| ssh-hostkey: \r\n|   2048 84:4e:b1:49:31:22:94:84:83:97:91:72:cb:23:33:36 (RSA)\r\n|   256 cc:32:19:3f:f5:b9:a4:d5:ac:32:0f:6e:f0:83:35:71 (ECDSA)\r\n…",
+          "link": "https://www.aldeid.com/wiki/TryHackMe-toc2",
+          "publishedOn": "2021-05-26T07:00:00.000Z",
+          "wordCount": null,
+          "title": "TryHackMe > toc2",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.aldeid.com/wiki/TryHackMe-The-Marketplace",
+          "author": null,
+          "description": "Can you take over The Marketplace’s infrastructure?\r\n\nThe sysadmin of The Marketplace, Michael, has given you access to an internal server of his, so you can pentest the marketplace platform he and his team has been working on. He said it still has a few bugs he and his team need to iron out.\r\n\nCan you take advantage of this and will you be able to gain root access on his server?\r\n\r\n\nContents\n\n\r\n\r\n1 What is flag 1?\r\n\r\n1.1 Services\n\r\n1.2 Web application\n\r\n1.3 Token cookie\n\r\n1.4 XSS vulnerability\n\r\n1.5 Stealing the admin cookie\n\r\n\r\n\r\n2 What is flag 2? (User.txt)\r\n\r\n2.1 SQLi vulnerability\n\r\n2.2 Exploit the SQL injection\r\n\r\n2.2.1 Database and tables\n\r\n2.2.2 Users table\n\r\n2.2.3 Messages table\n\r\n\r\n\r\n2.3 Connect as jake\n\r\n\r\n\r\n3 What is flag 3? (Root.txt)\r\n\r\n3.1 Lateral move (jake -> michael)\n\r\n3.…",
+          "link": "https://www.aldeid.com/wiki/TryHackMe-The-Marketplace",
+          "publishedOn": "2021-05-23T09:05:00.000Z",
+          "wordCount": null,
+          "title": "TryHackMe > The Marketplace",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.aldeid.com/wiki/TryHackMe-Debug",
+          "author": null,
+          "description": "Linux Machine CTF! You’ll learn about enumeration, finding hidden password files and how to exploit php deserialization!\r\n\r\n\nContents\n\n\r\n\r\n1 User flag\r\n\r\n1.1 Open ports\n\r\n1.2 Web enumeration\n\r\n1.3 The index.php.bak file\n\r\n1.4 PHP serialization exploit\n\r\n1.5 James password\n\r\n1.6 User flag\n\r\n\r\n\r\n2 Root flag\r\n\r\n2.1 Message from root\n\r\n2.2 The motd service\n\r\n2.3 Reverse shell and root flag\n\r\n\r\n\r\n\r\n\r\nUser flag\n\r\nOpen ports\n\r\nNmap reveals 2 open ports:\r\n\r\nPORT   STATE SERVICE VERSION\r\n22/tcp open  ssh     OpenSSH 7.2p2 Ubuntu 4ubuntu2.10 (Ubuntu Linux; protocol 2.0)\r\n| ssh-hostkey: \r\n|   2048 44:ee:1e:ba:07:2a:54:69:ff:11:e3:49:d7:db:a9:01 (RSA)\r\n|   256 8b:2a:8f:d8:40:95:33:d5:fa:7a:40:6a:7f:29:e4:03 (ECDSA)\r\n|_  256 65:59:e4:40:2a:c2:d7:05:77:b3:af:60:da:cd:fc:67 (ED25519)\r\n80/tcp open  http  …",
+          "link": "https://www.aldeid.com/wiki/TryHackMe-Debug",
+          "publishedOn": "2021-05-20T16:13:00.000Z",
+          "wordCount": null,
+          "title": "TryHackMe > Debug",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.aldeid.com/wiki/TryHackMe-En-pass",
+          "author": null,
+          "description": "Get what you can’t.\r\n\nThink-out-of-the-box\r\n\r\n\nContents\n\n\r\n\r\n1 Name The Path.\r\n\r\n1.1 Enumeration (1st level)\n\r\n1.2 The zip directory\n\r\n1.3 The web directory\n\r\n\r\n\r\n2 What is the user flag?\r\n\r\n2.1 SSH private key\n\r\n2.2 The reg.php page\n\r\n2.3 403 Fuzzing\n\r\n2.4 SSH Connection\n\r\n\r\n\r\n3 What is the root flag?\r\n\r\n3.1 Cronjob\n\r\n3.2 The script\n\r\n3.3 Exploit\n\r\n3.4 Root shell\n\r\n\r\n\r\n\r\n\r\nName The Path.\n\r\nNmap detects 2 open ports:\r\n\r\nPORT     STATE SERVICE VERSION\r\n22/tcp   open  ssh     OpenSSH 7.2p2 Ubuntu 4ubuntu2.10 (Ubuntu Linux; protocol 2.0)\r\n| ssh-hostkey: \r\n|   2048 8a:bf:6b:1e:93:71:7c:99:04:59:d3:8d:81:04:af:46 (RSA)\r\n|   256 40:fd:0c:fc:0b:a8:f5:2d:b1:2e:34:81:e5:c7:a5:91 (ECDSA)\r\n|_  256 7b:39:97:f0:6c:8a:ba:38:5f:48:7b:cc:da:72:a8:44 (ED25519)\r\n8001/tcp open  http    Apache httpd 2.4.18 ((…",
+          "link": "https://www.aldeid.com/wiki/TryHackMe-En-pass",
+          "publishedOn": "2021-05-16T21:07:00.000Z",
+          "wordCount": null,
+          "title": "TryHackMe > En-pass",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.aldeid.com/wiki/TryHackMe-Wekor",
+          "author": null,
+          "description": "CTF challenge involving Sqli , WordPress , vhost enumeration and recognizing internal services ;)\r\n\nHey Everyone! This Box is just a little CTF I’ve prepared recently. I hope you enjoy it as it is my first time ever creating something like this !\r\n\nThis CTF is focused primarily on enumeration, better understanding of services and thinking out of the box for some parts of this machine.\r\n\nFeel free to ask any questions…It’s okay to be confused in some parts of the box ;)\r\n\nJust a quick note, Please use the domain wekor.thm as it could be useful later on in the box ;)\r\n\r\n\nContents\n\n\r\n\r\n1 User flag\r\n\r\n1.1 Nmap scan\n\r\n1.2 Robots.txt\n\r\n1.3 SQL Injection\n\r\n1.4 Wordpress credentials\n\r\n1.5 Wordpress\n\r\n1.6 Reverse Shell\n\r\n1.7 Lateral move (www-data -> Orka)\n\r\n1.8 User flag\n\r\n\r\n\r\n2 Root flag\r\n\r\n2.1 O…",
+          "link": "https://www.aldeid.com/wiki/TryHackMe-Wekor",
+          "publishedOn": "2021-05-12T11:58:00.000Z",
+          "wordCount": null,
+          "title": "TryHackMe > Wekor",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.aldeid.com/wiki/TryHackMe-Bookstore",
+          "author": null,
+          "description": "A Beginner level box with basic web enumeration and REST API Fuzzing.\r\n\r\n\nContents\n\n\r\n\r\n1 User flag\r\n\r\n1.1 Port 80\n\r\n1.2 Port 5000\n\r\n1.3 Fuzzing the API (v1)\n\r\n1.4 User flag\n\r\n\r\n\r\n2 Root flag\r\n\r\n2.1 Console\n\r\n2.2 Reverse Engineering (try-harder)\n\r\n2.3 Root shell\n\r\n\r\n\r\n\r\n\r\nUser flag\n\r\nNmap discovers 3 open ports:\r\n\r\nPORT     STATE SERVICE VERSION\r\n22/tcp   open  ssh     OpenSSH 7.6p1 Ubuntu 4ubuntu0.3 (Ubuntu Linux; protocol 2.0)\r\n| ssh-hostkey: \r\n|   2048 44:0e:60:ab:1e:86:5b:44:28:51:db:3f:9b:12:21:77 (RSA)\r\n|   256 59:2f:70:76:9f:65:ab:dc:0c:7d:c1:a2:a3:4d:e6:40 (ECDSA)\r\n|_  256 10:9f:0b:dd:d6:4d:c7:7a:3d:ff:52:42:1d:29:6e:ba (ED25519)\r\n80/tcp   open  http    Apache httpd 2.4.29 ((Ubuntu))\r\n|_http-server-header: Apache/2.4.29 (Ubuntu)\r\n|_http-title: Book Store\r\n5000/tcp open  http    Wer…",
+          "link": "https://www.aldeid.com/wiki/TryHackMe-Bookstore",
+          "publishedOn": "2021-05-09T22:29:00.000Z",
+          "wordCount": null,
+          "title": "TryHackMe > Bookstore",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "Orange",
+      "feedUrl": "http://feeds.feedburner.com/blogspot/Aohx",
+      "siteUrl": "http://blog.orange.tw/",
+      "articles": [
+        {
+          "id": "tag:blogger.com,1999:blog-2987759532072489303.post-8052790033965476461",
+          "author": "noreply@blogger.com (Orange Tsai)",
+          "description": "",
+          "link": "http://blog.orange.tw/2021/08/proxyshell-a-new-attack-surface-on-ms-exchange-part-3.html",
+          "publishedOn": "2021-08-18T15:08:00.000Z",
+          "wordCount": null,
+          "title": "A New Attack Surface on MS Exchange Part 3 - ProxyShell!",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "tag:blogger.com,1999:blog-2987759532072489303.post-674306214530021249",
+          "author": "noreply@blogger.com (Orange Tsai)",
+          "description": "",
+          "link": "http://blog.orange.tw/2021/08/proxylogon-a-new-attack-surface-on-ms-exchange-part-1.html",
+          "publishedOn": "2021-08-06T15:57:00.000Z",
+          "wordCount": null,
+          "title": "A New Attack Surface on MS Exchange Part 1 - ProxyLogon!",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "tag:blogger.com,1999:blog-2987759532072489303.post-217206737184460687",
+          "author": "noreply@blogger.com (Orange Tsai)",
+          "description": "",
+          "link": "http://blog.orange.tw/2021/08/proxyoracle-a-new-attack-surface-on-ms-exchange-part-2.html",
+          "publishedOn": "2021-08-06T15:57:00.000Z",
+          "wordCount": null,
+          "title": "A New Attack Surface on MS Exchange Part 2 - ProxyOracle!",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "tag:blogger.com,1999:blog-2987759532072489303.post-6717899733046637874",
+          "author": "noreply@blogger.com (Orange Tsai)",
+          "description": "",
+          "link": "http://blog.orange.tw/2021/02/a-journey-combining-web-and-binary-exploitation.html",
+          "publishedOn": "2021-02-24T07:00:00.000Z",
+          "wordCount": null,
+          "title": "A Journey Combining Web Hacking and Binary Exploitation in Real World!",
+          "itunes": {},
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "Confessions of a Penetration Tester",
+      "feedUrl": "http://feeds.feedburner.com/blogspot/qnNMU",
+      "siteUrl": "http://pentesterconfessions.blogspot.com/",
+      "articles": []
+    },
+    {
+      "title": "Взрывной блог",
+      "feedUrl": "http://feeds.feedburner.com/bo0om",
+      "siteUrl": "https://bo0om.ru",
+      "articles": []
+    },
+    {
+      "title": "HAHWUL",
+      "feedUrl": "http://feeds.feedburner.com/hahwul",
+      "siteUrl": "https://www.hahwul.com/",
+      "articles": [
+        {
+          "id": "https://www.hahwul.com/2022/02/20/cullinan-27/",
+          "author": null,
+          "description": "컬리넌 로그 #27입니다. 조금 오랜만에 올리게되는 것 같습니다.\r\nAdd category cullinan Add OWASP ZAP Add Insecure Deserialization Change SQLMap (Add scanning to X) ZAP과 Insecure Deserialization이 새로 추가됬고, SQLMap 쪽에 일부 수정이 있었습니다.\r\nZAP은 아마… 수정을 굉장히 자주하게 될 것 같습니다. 양이 워낙 방대해서리 😵‍💫\r\n그리고 Cullinan 전체적으로 기능들을 좀 더 추가중인데, 첫 단추로 categories 적용이 완료되었습니다.\r\n그럼 이만 👋🏼",
+          "link": "https://www.hahwul.com/2022/02/20/cullinan-27/",
+          "publishedOn": "2022-02-20T14:01:50.000Z",
+          "wordCount": null,
+          "title": "[Cullinan #27] Improve cullinan and Added more..",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.hahwul.com/cullinan/insecure-deserialization/",
+          "author": null,
+          "description": "🔍 Introduction Insecure Deserialization은 직역한 그대로 안전하지 않은 역직렬화를 의미합니다. Deserialization 시 개발자가 의도하지 않은 Object 까지 Deserialize하여 비즈니스 로직상의 문제를 발생시키거나, 조건에 따라서는 어플리케이션이 공격자가 의도한 코드를 수행하게끔 구성할 수 있어 리스크가 높습니다.\r\n먼저 Serialization/Deserialization 을 알아보면 보통 개발 과정에서 메모리에 있는 Object를 파일 등 외부의 데이터로 변환하는 과정을 Serialization, 반대로 파일 등 외부에 있는 데이터를 프로그램 내 Object로 변환하는 과정을 Deserialization이라고 합니다.\r\n🗡 Offensive techniques Detect Deserialization은 소스코드를 보지 않은 상태에선 명확하게 Deserialization 프로세스라고 확신하기 어렵습니다.",
+          "link": "https://www.hahwul.com/cullinan/insecure-deserialization/",
+          "publishedOn": "2022-02-20T13:54:50.000Z",
+          "wordCount": null,
+          "title": "Insecure Deserialization",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.hahwul.com/cullinan/zap/",
+          "author": null,
+          "description": "Introduction ZAP(Zed Attack Proxy)은 OWASP의 Flagship 프로젝트로 Vulnerability Assessment, Penetration Testing, Runtime Testing, Code Review를 위한 보안 테스팅 도구이자 취약점 스캐너입니다.\r\nBurpsuite와 함께 보안 엔지니어, 버그바운티헌터 등의 주력 도구로 사용되고 있고, Cli command, REST API 그리고 Jenkins plugin, Github action 등을 제공하고 있어 DevSecOps 즉 CI/CD Pipeline 상에서의 DAST 스캐너로도 많이 사용되고 있습니다.\r\n개인적으로 정말 좋아하는 프로젝트입니다. 다른건 몰라도 Fuzzer / Scripting은 비교할 수 있는 도구가 없습니다. 최고에요!\r\nInstallation 아래 URL에서 각 OS 맞는 Installer 패키지를 통해 설치하시면 됩니다.",
+          "link": "https://www.hahwul.com/cullinan/zap/",
+          "publishedOn": "2022-02-20T13:54:08.000Z",
+          "wordCount": null,
+          "title": "OWASP ZAP",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.hahwul.com/2022/02/12/remove-setter-in-document-domain/",
+          "author": null,
+          "description": "Chrome will disable modifying document.domain to relax the same-origin policy\r\n구글에서 최근 document.domain에 대한 크롬 브라우저의 변경을 예고했습니다. 브라우저 3사는 서로 유사하게 정책을 가져가기 때문에 아마 firefox, safari도 비슷한 형태로 변화될 가능성이 높겠죠.\r\n요약하자면 Chrome 106+ 이후부턴 기본적으로 document.domain에 대한 setter가 제거된다고 합니다.\r\ndocument.domain 사실 document.domain은 문제가 좀 있습니다. document.domain이 도메인의 포트 번호 부분을 무시하기 때문에 만약 동일한 도메인에서 포트가 다른 서비스로 서빙되는 경우 원래대로면 서로는 same-origin이 아니지만, document.",
+          "link": "https://www.hahwul.com/2022/02/12/remove-setter-in-document-domain/",
+          "publishedOn": "2022-02-12T00:57:27.000Z",
+          "wordCount": null,
+          "title": "곧 Chrome에서 document.domain을 설정할 수 없습니다 ⚠️",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.hahwul.com/2022/02/12/new-zap-networking-stack/",
+          "author": null,
+          "description": "지난 목요일 밤 ZAP Developers Groups에 simon이 한가지 내용을 공유했습니다. 바로 ZAP의 Networking Layer에 대한 이야기고, 저는 제목을 보자마자 어떤 내용인지 직감했습니다. (제가 정말 기다렸던 내용이거든요 🤩)\r\nWeekly 버전에선 networking stack이 달라졌어!\r\n어떤 것을 개선하기 위해 이러한 작업이 진행되었는지, 그리고 어떻게 바뀌었고 앞으로 어떻게 될지 미리 살펴봅시다 :D\r\nWhy? 먼저 Networking stack, layer는 실제로 사용자에게 보이는 부분은 별로 없습니다. Application 내부에서 네트워크를 처리하기 위한 부분인데, ZAP은 오래된 프로젝트다 보니 베이스로 사용된 Networking 부분이 오래된 Apache Commons HttpClient library를 사용했었습니다.",
+          "link": "https://www.hahwul.com/2022/02/12/new-zap-networking-stack/",
+          "publishedOn": "2022-02-12T00:51:28.000Z",
+          "wordCount": null,
+          "title": "ZAP의 새로운 Networking Stack",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.hahwul.com/2022/02/10/zap-custom-payloads/",
+          "author": null,
+          "description": "오늘은 제가 최근에 ZAP에서 약간 관심있게 보고있던 기능 하나를 소개해드릴까 합니다. 바로 Custom Payloads인데요. Fuzzer나 ZAP의 Scripting engine을 사용하지 않고 조금 더 쉽게 지정된 페이로드 기반으로 테스트를 할 수 있어서 알아두시면 보안 테스팅이나 자동화 구현에서 잘 사용하실 수 있을거란 생각이 듭니다.\r\n그럼 시작해보죠 :D\r\nCustom Payloads Custom Payloads는 ZAP의 Active Scan, Passive Scan에서 사용자가 지정한 Payloads를 기반으로 사용할 수 있도록 제공해주는 기능이자 Addon입니다. 현재까진 2개의 카테고리를 사용할 수 있으며, 스캔에 붙어서 돌기 때문에 카테고리가 늘어날 수록 기능의 이점이 점점 커질거란 생각이 듭니다.",
+          "link": "https://www.hahwul.com/2022/02/10/zap-custom-payloads/",
+          "publishedOn": "2022-02-10T01:09:44.000Z",
+          "wordCount": null,
+          "title": "Custom Payloads로 ZAP 스캐닝 강화 🚀",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.hahwul.com/2022/02/06/u-2029-xss/",
+          "author": null,
+          "description": "Gareth Heyes가 재미있는 XSS 트릭을 하나 공유했는데요. Browser가 이를 처리하는 방식을 잘 생각해보면, 여러 형태로 우회하는데 사용할 수 있을 것 같단 느낌이 들었습니다.\r\n간단한 내용이니 한번 같이 살펴보시죠 😎\r\nU+2029 XSS #!@*% alert(1) 일반적으로 위와 같은 생긴 코드를 눈으로 본다면 절대 실행되지 않을거라 생각하실겁니다. 그럼 한번 복사해서 브라우저에 붙여넣어볼까요?\r\n??!?!?\r\n네 alert이 발생합니다. 이는 $와 alert 사이에 있는 특수문자 <U+2029> 즉 Paragraph Separator로 인해 브라우저가 이를 잘라서 인식했기 떄문에 동작합니다.",
+          "link": "https://www.hahwul.com/2022/02/06/u-2029-xss/",
+          "publishedOn": "2022-02-06T23:42:52.000Z",
+          "wordCount": null,
+          "title": "Paragraph Separator(U+2029) XSS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.hahwul.com/2022/02/06/boop/",
+          "author": null,
+          "description": "저는 종종 재미있는 앱이 있을지 앱스토어를 둘러보곤 합니다. 그러던 중 보안 테스팅에서 쓸만할 것 같은 도구를 찾아 이번 연휴동안 사용해보고, 괜찮다고 느껴서 블로그를 통해 공유해봅니다. 바로 Boop 입니다.\r\nBoop Boop는 개발자를 위한 scratch pad라고 생각하시면 좋습니다. 코드나 여러가지 데이터 등을 작성/수정하면서 쉽게 치환 등을 기능을 사용할 수 있는 작은 에디터입니다. 공식 Github에서도 아래와 같이 소개하고 있습니다.\r\nA scriptable scratchpad for developers. In slow yet steady progress.\r\nBoop에서 CMD+b를 눌러 action 리스트를 불러옵니",
+          "link": "https://www.hahwul.com/2022/02/06/boop/",
+          "publishedOn": "2022-02-06T23:26:15.000Z",
+          "wordCount": null,
+          "title": "개발자만? 아니 우리도 스크래치 패드 필요해! Boop!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.hahwul.com/2022/01/27/cullinan-26/",
+          "author": null,
+          "description": "컬리넌 로그 #26입니다. XXE 항목 추가하였습니다. 보통 컬리넌에 여러개 이력이 누적되면 올리려곤 하는데, 이번에는 텀이 좀 길어져서 로그로 올려봅니다.\r\nXXE 내용 중 대응방안 쪽은 OWASP가 워낙 잘 정리해서 거의 링크 하나로 대체된 상태인데, 요건 제가 따로 한번 더 자세히 정리해서 업데이트하도록 할게요 😅\r\nAdd XXE (XML External Entity)",
+          "link": "https://www.hahwul.com/2022/01/27/cullinan-26/",
+          "publishedOn": "2022-01-27T00:27:59.000Z",
+          "wordCount": null,
+          "title": "[Cullinan #26] Add XXE (XML External Entity)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.hahwul.com/2022/01/26/zap-vs-burpsuite-2022/",
+          "author": null,
+          "description": "Hi :D\r\nI’m going to compare ZAP and Burpsuite after a long time. Of course, it’s extremely subjective, so I hope you light enjoy it.\r\n📌 TL;DR ZAP has powerful scripting engine and automation Burpsuite has powerful scanning engine and That’s Early adopter. They’re both really cool tools. 🔍 Compare ZAP Burpsuite Proxy O , HTTP/1.1 O🎖 HTTP/1.1 , HTTP/2 Paasive Scan O O Active Scan O O Scan Configuration O🎖, Easy, Detail control O Scan Results O, Mapping more information O, Detail results Live Scan O, ATTACK Mode O, Live tasks Manage scope O, Detail O, Easy Manage workspace O O Spidering O, Spider, Ajax Spider O, Powerful Crawler Extensions (Addons) O, High quality O🎖, High quality, Many features Scripting O🎖, Zest 👍, Ruby, Python, JS, Groovy, Etc O, Python, Ruby Performance O, Fast, bu…",
+          "link": "https://www.hahwul.com/2022/01/26/zap-vs-burpsuite-2022/",
+          "publishedOn": "2022-01-26T23:24:57.000Z",
+          "wordCount": null,
+          "title": "ZAP vs Burpsuite in my mind at 2022",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.hahwul.com/cullinan/xxe/",
+          "author": null,
+          "description": "🔍 Introduction XXE(XML External Entity)는 XML을 Parsing하여 사용하는 서비스에 악의적인 XML 구문을 Parsing하도록 유도하여 공격자가 의도한 동작을 수행하도록 하는 공격입니다. 기본적으로 XML Parser가 위치한 곳에서 부터 영향력이 발생하기 때문에 가볍게는 SSRF 같이 내부망 접근부터, RCE까지 큰 영향력을 가질 수 있습니다.\r\n🗡 Offensive techniques Detect 심플하겐 XML Parse가 동작하는 구간을 찾아야합니다. 소스코드를 볼 수 있는 상황이라면 코드에서 검색하는 것이 가장 빠르고 효율적이며, 소스코드 없이 순수하게 동작만으로만 봐야한다면 .xml 파일을 인자값으로 받거나, 에러에서 XML Parsing 관련 에러를 뱉는 구간을 위주로 점검해야합니다.",
+          "link": "https://www.hahwul.com/cullinan/xxe/",
+          "publishedOn": "2022-01-26T15:22:27.000Z",
+          "wordCount": null,
+          "title": "XXE (XML External Entity)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.hahwul.com/2022/01/21/authz0-v1.1.0-released/",
+          "author": null,
+          "description": "Hi security engineers and hackers! Authz0 v1.1.0 has been released 🎉 First of all, I would like to thank many of you for your good feedback.\r\nSummary Add setCred command Add –include-zap flag in new command Add –include-har flag in new command Add –include-burp flag in new command Add –assert-fail-size-margin flag in new command Support multiple same assert type Improve report Fixed bugs Credentials and setCred Now, we can add credentials to the template using the setCred command.",
+          "link": "https://www.hahwul.com/2022/01/21/authz0-v1.1.0-released/",
+          "publishedOn": "2022-01-21T00:45:57.000Z",
+          "wordCount": null,
+          "title": "Authz0 v1.1 Released 🎉",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.hahwul.com/2022/01/17/new-xss-vector-details-tag/",
+          "author": null,
+          "description": "XSS가 가능합니다.\" />XSS 벡터 중 details 태그에 ontoggle 이벤트 핸들러와 open 속성을 이용한 방법이 있습니다. Chrome, Safari, Firefox, IE 모두 사용 가능하고 on* 기반의 XSS 중 비교적 쉽게 사용자 interaction을 줄일 수 있어서 자주 사용되는데요.\r\n<details ontoggle=alert(45) open> test </details> 최근 크롬 97 업데이트에 새로운 기능이 추가됬는데 바로 Auto-expand details elements 입니다. 직역하면 details elements에서 자동으로 expand 처리한다는 의미이고 이는 open 속성을 사용하지 않더라도 ontoggle로만 즉시 스크립트를 실행할 수 있다는 것을 의미합니다.",
+          "link": "https://www.hahwul.com/2022/01/17/new-xss-vector-details-tag/",
+          "publishedOn": "2022-01-17T23:58:49.000Z",
+          "wordCount": null,
+          "title": "Chrome에선 이제 open 속성없이 <details> XSS가 가능합니다.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.hahwul.com/2022/01/17/authz0/",
+          "author": null,
+          "description": "저는 Authorization 테스트 시 ZAP의 Zest Script를 즐겨서 사용합니다. 예전에는 Burpsuite에서 Authz라는 Extension을 자주 사용했었구요.\r\n어쩄던 이 도구들은 ZAP과 Burpsuite에 내장되어 사용되기 때문에 HTTP Raw Request를 사용할 수 있다는 엄청난 강점이 있지만, 반대로 너무 디테일한 기능과 Raw Reqeust의 필수 사용으로 인해 반대로 심플한 작업에서는 약간 불편함이 생기기 마련입니다.\r\n그래서 지난주 주말부터 Authorization 테스트를 위해 도구를 하나 만들었고, 일요일 낮에 릴리즈하여 살짝 공유드려볼까 합니다. 오늘 소개해드릴 도구는 바로 Authz0입니다.\r\nWhat is Authz0 Authz0는 YAML 포맷 기반의 Template 파일을 중심으로 테스트할 URL과 Role을 구성하고, 이를 기반으로 스캔할 수 있는 도구입니다.",
+          "link": "https://www.hahwul.com/2022/01/17/authz0/",
+          "publishedOn": "2022-01-17T00:48:38.000Z",
+          "wordCount": null,
+          "title": "안녕 Authz0, Authorization 테스트를 위한 새로운 도구 🚀",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.hahwul.com/2022/01/08/zest-and-zap/",
+          "author": null,
+          "description": "What is Zest Zest는 Mozilla 보안팀에서 만든 JSON 기반의 스크립팅 언어입니다. 보다 쉬운 웹 테스팅을 위해서 만들어졌고, 저는 테스팅 시 ZAP에서 자주 사용합니다.\r\nZest in ZAP 사실 JSON 포맷 자체가 rewrite가 좋은 포맷은 아니라서(그래서 config는 yaml이나 toml을 많이 쓰죠) 직접 작성하면서 쓰기에는 좀 불편한 감이 많이 있습니다. 다만 이 Zest가 ZAP 안에서 사용하는 경우 GUI Interface를 통해 로직을 통제할 수 있기 때문에 이러한 불편함은 사라지게 됩니다.\r\nZest Structure Zest는 JSON 포맷으로 스크립트의 타입, 파라미터 등을 명시할 수 있습니다.",
+          "link": "https://www.hahwul.com/2022/01/08/zest-and-zap/",
+          "publishedOn": "2022-01-08T01:51:21.000Z",
+          "wordCount": null,
+          "title": "Zest와 ZAP! 강력한 보안 테스트 루틴을 만들어봐요 ⚡️",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.hahwul.com/2022/01/08/cullinan-25-2022/",
+          "author": null,
+          "description": "컬리넌 로그 #25입니다. 사실 이번에는 업데이트 로그라기 보단 앞으로의 계획을 좀 더 공유드릴까 해서 작성해봅니다.\r\nCullinan이란? 먼저 Cullinan은 제가 작년 3월부터 시작한 토이 프로젝트로 흩어진 블로그 글을 하나의 위키 형태로 모으고 지속적으로 관리할 수 있도록 하는 프로젝트였습니다. 그 시작은 여기에 있네요.\r\n기존의 글들을 모아 하나의 항목으로 만들고, 또 제가 안다뤘었던 항목들도 하나하나 추가하다보니 벌써 41개의 페이지가 생겼습니다. 앞으로도 많은 항목을 추가할껀데(노션에 작성중인게 잔뜩 쌓여있습니다 😅), 이제는 이를 표현하는 방법에 대해서도 조금 더 고민할까 합니다.",
+          "link": "https://www.hahwul.com/2022/01/08/cullinan-25-2022/",
+          "publishedOn": "2022-01-08T01:48:42.000Z",
+          "wordCount": null,
+          "title": "[Cullinan #25] 앞으로의 계획",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.hahwul.com/2022/01/05/vscode-extensions/",
+          "author": null,
+          "description": "여러분들은 어떤 코드 에디터를 사용하시나요?\r\n저는 학부생 시절부터 vim 유져었었고 이후 vim + geany, atom + vim 을 거쳐 이제 vscode와 vim을 동시에 사용하는 형태로 전환헀습니다. (말이 vim이지 사실 neovim을 써요 😅)\r\n궁금해서 투표 올렸었는데, 예상보다 퍼센트가 훨씬 많이 차이가 났어요 (전 한 7/3 정도 생각했는데..)\r\n어쨌던 vscode로 넘어오게 되면서 vscode의 extension을 찾아보게 됬었는데요, 여러개 설치해보면서 제가 괜찮다고 느꼈던 것들을 공유해볼까 합니다.\r\nAtom -> Vscode 저는 사실 Atom에 만족하고 잘 사용하던 유저였습니다.",
+          "link": "https://www.hahwul.com/2022/01/05/vscode-extensions/",
+          "publishedOn": "2022-01-05T23:48:00.000Z",
+          "wordCount": null,
+          "title": "Vscode의 유용한 Extensions",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.hahwul.com/2021/12/31/story-of-my-main-weapon/",
+          "author": null,
+          "description": "한국 기준으로 새해까지 약 30분이 남았고, 올해의 글은 이 글이 마지막 글이 될 것 같습니다. 분명 2020 회고한지가 얼마 안된 것 같은데, 벌써 2021도 회고도 이미 지나버렸네요 😱\r\n오늘은 제 회고 내용 중 하나인 Main Weapon에 대한 이야기를 하려고 합니다 :D\r\nMain Weapon? 여러분들은 분석 시 어떤 도구를 제일 좋아하시나요? 여기서 하나 고를 수 있는 도구를 저는 Main Weapon이라고 생각합니다.\r\n저는 긴 시간 동안 Burpsuite 유저였었고, 2018년 정도부터 ZAP에 다시 관심이 크게 생겼고 결국 작년까지는 Burpsuite와 ZAP을 동시에 사용하는 듀얼 스타일을 고수했었습니다.",
+          "link": "https://www.hahwul.com/2021/12/31/story-of-my-main-weapon/",
+          "publishedOn": "2021-12-31T23:33:19.000Z",
+          "wordCount": null,
+          "title": "나의 메인 Weapon 이야기 ⚔️ (ZAP and Proxify)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.hahwul.com/2021/12/30/kubectl-not-found-solution/",
+          "author": null,
+          "description": "평소에 잘 쓰던 kubectl이 갑자기 not found가 발생했습니다. (아마 특정 시점에 brew upgrade로 인해 문제가 됬을 것 같아요)\r\nzsh: command not found: kubectl 이미 설치된 상태이고, 재 설치를 해도 동일했습니다. 여기저기 찾아보니 homebrew로 설치한 경우에서 이 이슈가 발생하는 것 같은데요. brew로 kubectl을 재 설치하고 brew link로 설치된 파일을 심볼릭 링크로 homebrew prefix와 연결해주면 다시 명령을 사용할 수 있습니다.\r\n$ brew reinstall kubectl $ brew link --overwrite kubernetes-cli 참고로 homebrew prefix는 homebrew에서 사용하는 PATH 경로입니다.",
+          "link": "https://www.hahwul.com/2021/12/30/kubectl-not-found-solution/",
+          "publishedOn": "2021-12-30T00:49:13.000Z",
+          "wordCount": null,
+          "title": "갑작스럽게 kubectl not found가 발생했다면 😫",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.hahwul.com/2021/12/29/log4-2.17-jdbcappender-rce/",
+          "author": null,
+          "description": "또… 또나왔네요. 이전 글에서 한번에 쓰기에 너무 긴 내용이라 추가 CVE는 하나씩 분리해둘 생각입니다.\r\nHistory of Log4j RCE [2021-12-10] CVE-2021-44228 (RCE) [2021-12-14] CVE-2021-45046 (DOS / RCE) [2021-12-18] CVE-2021-45105 (DOS) [2021-12-27] CVE-2021-44832 (RCE) Affected ≤2.17, ≤2.12.3, ≤2.3.1\r\n위 버전이 취약합니다. 다만 무조건 취약한 상태는 아니고, 로깅 구성 파일을 수정할 수 있는 권한이 공격자에게 필요하기 때문에 공격 성공을 위해선 MITM 등의 부가적인 요소가 필요합니다. 그래서 이전 RCE 처럼 Critical 이슈는 아니고 Major(CVSS 6.",
+          "link": "https://www.hahwul.com/2021/12/29/log4-2.17-jdbcappender-rce/",
+          "publishedOn": "2021-12-29T12:21:12.000Z",
+          "wordCount": null,
+          "title": "Log4 2.17 JDBCAppender RCE(CVE-2021-44832)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.hahwul.com/2021/12/26/zap-new-import-export/",
+          "author": null,
+          "description": "최근에 ZAP 내 여러가지 Import, Save 관련 기능들이 “Import/Export\"란 이름의 새로운 Addon으로 통합되었습니다. 사용자 Interface 상에선 변화가 없어서 크게 달라진 건 없지만 이를 통해 앞으로의 ZAP에서 Import/Export 기능에 대한 방향성을 엿볼 수 있어서 글로 작성해봅니다 😎\r\nImport files containing URLs Log File Importer Save Raw Message Save XML Message 새로 추가된 Import/Export의 실제 Addon 이름은 exim입니다. EXIM은 EXport & IMport의 약자로 웹에서도 동일한 의미로 많이 쓰이는 말입니다. ZAP의 Addon은 API를 제공하도록 어느정도 강제하고 있는 사항이라 exim도 API로 제공되고 있습니다.",
+          "link": "https://www.hahwul.com/2021/12/26/zap-new-import-export/",
+          "publishedOn": "2021-12-26T23:49:41.000Z",
+          "wordCount": null,
+          "title": "ZAP의 새로운 Import/Export Addon, 그리고 미래에 대한 뇌피셜",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.hahwul.com/2021/12/26/web-cache-vulnerability-scanner/",
+          "author": null,
+          "description": "Web Cache Poisoning, Web Cache Deception 등 Web Cache 관련 취약점은 나름 오래된 기법이지만 요 몇 년 사이 알비노왁스(@albinowax) 등 Portswigger의 연구원들에 의해 빠르게 발전한 것 같습니다. 이러한 취약점들은 여러가지 테스팅 방법을 통해서 식별하고 Exploit 하지만 이전까진 크게 강력하다고 생각하던 도구가 없었던 상태입니다. (그나마 burpsuite의 내장 스캐너가 있겠네요…)\r\n오늘은 Web Cache 취약점을 빠르게 식별할 수 있는 좋은 도구가 있어서 공유할까합니다! 사실 제가 관련 도구를 올 여름(21년 6월쯤?) 정도부터 아주 천천히 만들고 있었는데, Hackmanit에서 선수를 처버렸네요.",
+          "link": "https://www.hahwul.com/2021/12/26/web-cache-vulnerability-scanner/",
+          "publishedOn": "2021-12-26T00:57:42.000Z",
+          "wordCount": null,
+          "title": "Web Cache 취약점들을 스캐닝하자 🔭",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.hahwul.com/2021/12/25/dalfox-2.7-released/",
+          "author": null,
+          "description": "Hi hackers! Dalfox v2.7 has been released 🎉🎉🎉\r\nThere are not many added features this release. But it’s better than before, so I recommend an update! Then let’s start the review. and Have a great holiday 🧑🏼‍🎄\r\nThank you ❤️ First, Thank you so much all contributors !!\r\nThanks to our, this project is getting better and better. Thank you always!\r\nRelease note Github | DockerHub\r\nAdd BAV Module ESI Injection Support to windows/arm64 Upgrade go dependency (1.",
+          "link": "https://www.hahwul.com/2021/12/25/dalfox-2.7-released/",
+          "publishedOn": "2021-12-25T01:07:49.000Z",
+          "wordCount": null,
+          "title": "Dalfox 2.7 Released 🎉",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.hahwul.com/2021/12/22/zap-callhome/",
+          "author": null,
+          "description": "최근에 ZAP의 Core addon 중 하나인 Callhome이 업데이트 되었습니다. 기존에 Callhome은 단순히 메인에 News 정보를 보여주기 위해 만들어진 기능인데, 이번에 Telemetry 관련 부분이 추가됬습니다.\r\nTelemetry는 ZAP 사용성 정보등을 수집하기 위한 기능인데요, ZAP쪽 설명으로는 취약점이나 개인정보 등은 수집하지 않고 단순 통계 정도만 수집한다고 합니다. 어쨌던 저처럼 이런 정보 수집에 민감하신 분들은 별도로 Disable 처리 하셔야할 것 같습니다. (Burpsuite는 오래전부터… 😱)\r\n오늘은 겸사겸사 ZAP과 Burpsuite에서 이러한 사용성 정보를 수집하는 이유와 이를 Disable 하는 방법에 대해 정리해둘까 합니다.",
+          "link": "https://www.hahwul.com/2021/12/22/zap-callhome/",
+          "publishedOn": "2021-12-22T23:56:27.000Z",
+          "wordCount": null,
+          "title": "ZAP과 Burpsuite에서 feedback 정보를 수집하지 못하도록 제한하기",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.hahwul.com/2021/12/19/cullinan-24-add-esii/",
+          "author": null,
+          "description": "컬리넌 업데이트 로그 #24입니다. ESI Injection을 추가했고, SSTI에 RCE 관련 내용 추가, 그리고 도구 업데이트가 있었습니다. 마지막으로 Cullinan의 메인 페이지 디자인의 일부를 수정(max-width 제거)했습니다.\r\nAdd ESI Injection Update SSTI (Add RCE, Update Tools) Update Cullinan Design ESI Injection은 제가 블로그 글로 공유드린지 벌써 3년도 넘은 항목인데요, 실무에서도 자주 보이는 케이스는 아니라서 잊고 있다가 최근에 Cullinan 쪽으로 추가하게 됬습니다. 그래도 재미있는 취약점이니 한번쯤은 읽어보시는 것 추천드립니다 :D",
+          "link": "https://www.hahwul.com/2021/12/19/cullinan-24-add-esii/",
+          "publishedOn": "2021-12-19T00:55:02.000Z",
+          "wordCount": null,
+          "title": "[Cullinan #24] Add ESI Injection and Update Others",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.hahwul.com/cullinan/esii/",
+          "author": null,
+          "description": "🔍 Introduction ESIi는 ESI(Edge Side Include) Injection으로 ESI 사용하는 환경에서 해당 Markup에 대한 Injection 공격을 의미합니다.\r\nESI는 Edge Side Include의 약자로 인터넷의 Edge에서 웹 애플리케이션의 동적 어셈블리 및 전송을 위한 웹 페이지 구성 요소를 정의하는 데 사용되는 간단한 마크업 언어입니다. Page assembly를 위한 표준 태그로 웹 캐시, LB 등의 구조에서 사용됩니다.\r\nHTML 코드 내에서 ESI는 아래와 같이 <esi:> 태그로 웹 브라우저로 Response body가 넘어오기 전에 ESI를 처리할 수 있는 캐시 서버등에서 미리 처리되어 데이터가 넘어오게 됩니다.",
+          "link": "https://www.hahwul.com/cullinan/esii/",
+          "publishedOn": "2021-12-18T15:41:52.000Z",
+          "wordCount": null,
+          "title": "ESI(Edge Side Include) Injection",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.hahwul.com/2021/12/12/make-self-hosted-interactsh-server/",
+          "author": null,
+          "description": "이번 주말은 log4shell로 인해 정말 인터넷이 불타고 있습니다. 자 이제 보안담당자들은 이를 대응하고 자산에 대해 스캐닝을 진행하게 될텐데, 여기서 식별에 사용하는 대표적인 방법인 OOB(Out-Of-Band)를 알려진 서비스들(ZAP OAST, Burpsuite collaborator, Interactsh 등)을 이용하여 편하게 테스팅할 수 있겠지만, 이는 결국 외부에 callback이 발생한 서버의 IP가 남게되고, 이를 통해서 해당 서비스를 운영하는 운영하는 회사 또는 그룹 등 정보를 얻어갈 수 있는 구간이 존재하게 됩니다. (썩 좋은 그림은 아니죠)\r\n그래서 오늘은 Private하게 OOB를 테스트할 수 있도록 VPC와 DNS Glue Record를 이용하여 interactsh 서버를 따로 구축하고 사용하는 방법에 대해 이야기할까 합니다.",
+          "link": "https://www.hahwul.com/2021/12/12/make-self-hosted-interactsh-server/",
+          "publishedOn": "2021-12-12T23:33:46.000Z",
+          "wordCount": null,
+          "title": "Private OOB 테스팅을 위한 Self Hosted Interactsh",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.hahwul.com/2021/12/11/log4shell-internet-is-on-fire/",
+          "author": null,
+          "description": "네 바로 어제(2021-12-10) Java의 logging package인 log4j2 에서 RCE 0-day 취약점이 공개되었습니다. Service, Application에 로그를 쌓을수만 있다면 어떤 환경에서도 공격 가능성이 존재하고, 리스크가 RCE인 만큼 정말 전 세계가 불타오르고 있네요. (하하 DM도 터져나갑니다. 안볼거에요……)\r\n일이 우선이니 어제는 대응에 집중하고, 하루 늦은 오늘 글로 공유하려고 합니다.\r\n어디가… 사실 아직 끝난게 아니야…\r\n이후에도 추가건인 CVE-2021-45046과 CVE-2021-45105로 대응해야 할 것들이 더 있어서 최초 공개인 금요일부터 그 다음주까진 정신없이 보냈던 것 같습니다. 아무튼 모든 Security engineer와 Developer, DevOps 등 이 사건으로 고생하신 모든 분들께 경의를 표합니다 👏🏼",
+          "link": "https://www.hahwul.com/2021/12/11/log4shell-internet-is-on-fire/",
+          "publishedOn": "2021-12-11T10:23:33.000Z",
+          "wordCount": null,
+          "title": "Log4shell 전 세계의 인터넷이 불타고 있습니다 🔥 (CVE-2021-44228/CVE-2021-45046/CVE-2021-45105)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.hahwul.com/2021/12/11/browser-addon-for-webhackers/",
+          "author": null,
+          "description": "여러분들은 보안 테스팅 시 웹 브라우저 Addon 많이 사용하시나요? 저는 한 떄 엄청나게 많이 설치해서 사용했지만, 지금은 5개 미만을 유지하는 것 같네요.\r\n오늘은 보안 테스팅 시 유용한 Addon을 소개하고 제가 어떤식으로 변화하며 사용했는지 공유드릴까 합니다.\r\nTLDR Name Firefox Chrome 😎 Darkreader Firefox Addons Chrome store 🎩 Eval Villian Firefox Addons, Github 🖥 postMessage-tracker Github 🍪 Cookie-quick-manager Firefox Addons, Github 🍪 Edit-This-Cookie Chrome store, Github 🗑 Clear cache Firefox Addons, Github Chrome store 👩🏽‍💻 JWT Debugger (Github) Firefox Addons Chrome store 변화 저는 예전에는 브라우저 Addon을 많이 사용 했었습니다.",
+          "link": "https://www.hahwul.com/2021/12/11/browser-addon-for-webhackers/",
+          "publishedOn": "2021-12-11T00:56:06.000Z",
+          "wordCount": null,
+          "title": "웹 해커를 위한 Browser Addons",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.hahwul.com/2021/12/06/control-zap-rootca-to-network-addon/",
+          "author": null,
+          "description": "ZAP에 새로운 Addon이 추가됬습니다. 이 Addon을 이용하면 ZAP의 인증서, 즉 Root CA를 API나 Cli등으로 컨트롤할 수 있도록 기능이 지원됩니다. 이를 활용하면 Daemon 모드로 동작하거나 CI/CD Pipeline 등에서 사용 시 조금 더 쉽게 인증서 처리를 할 수 있게 됩니다.\r\n오늘은 ZAP의 RootCA, 즉 인증서를 API/CLI의 Arguments 등으로 쉽게 처리할 수 있는 Network addon과 어떻게 동작하는지 알아보도록 합시다 🚀\r\nNetwork addon Network addon은 특별한 기능이 있는 Addon은 아니고, ZAP의 Certificate 지원을 위해 추가된 Addon 입니다.",
+          "link": "https://www.hahwul.com/2021/12/06/control-zap-rootca-to-network-addon/",
+          "publishedOn": "2021-12-06T00:48:26.000Z",
+          "wordCount": null,
+          "title": "ZAP RootCA를 API와 Cli-Arguments로 제어하기",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "Lookout Blog",
+      "feedUrl": "http://feeds.feedburner.com/lookout/blog",
+      "siteUrl": "http://blog.lookout.com",
+      "articles": []
+    },
+    {
+      "title": "pentestmonkey",
+      "feedUrl": "http://feeds.feedburner.com/pentestmonkey",
+      "siteUrl": "https://pentestmonkey.net",
+      "articles": []
+    },
+    {
       "title": "Positive Technologies - learn and secure",
       "feedUrl": "http://feeds.feedburner.com/positiveTechnologiesResearchLab",
       "siteUrl": "http://blog.ptsecurity.com/",
@@ -32734,6 +34452,18 @@
           "imageUrl": null
         }
       ]
+    },
+    {
+      "title": "sirdarckcat",
+      "feedUrl": "http://feeds.feedburner.com/sirdarckcat",
+      "siteUrl": "http://sirdarckcat.blogspot.com/",
+      "articles": []
+    },
+    {
+      "title": "spylogic.net",
+      "feedUrl": "http://feeds.feedburner.com/spylogic",
+      "siteUrl": "https://www.spylogic.net",
+      "articles": []
     },
     {
       "title": "安全客-有思想的安全新媒体",
@@ -34420,7 +36150,7 @@
     {
       "title": "Penetration Testing Lab",
       "feedUrl": "https://pentestlab.blog/feed/",
-      "siteUrl": "http://pentestlab.blog",
+      "siteUrl": "https://pentestlab.blog",
       "articles": [
         {
           "id": "https://pentestlab.blog/?p=30353",
