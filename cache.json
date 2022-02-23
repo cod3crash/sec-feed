@@ -6,6 +6,66 @@
       "siteUrl": "http://h1.nobbd.de/",
       "articles": [
         {
+          "id": "https://hackerone.com/reports/1328546",
+          "author": null,
+          "description": "TikTok disclosed a bug submitted by johnstone: https://hackerone.com/reports/1328546 - Bounty: $15000",
+          "link": "https://hackerone.com/reports/1328546",
+          "publishedOn": "2022-02-23T00:09:52.000Z",
+          "wordCount": null,
+          "title": "Incorrect authorization to the intelbot service leading to ticket information",
+          "imageUrl": null
+        },
+        {
+          "id": "https://hackerone.com/reports/1372216",
+          "author": null,
+          "description": "GitLab disclosed a bug submitted by joaxcar: https://hackerone.com/reports/1372216 - Bounty: $610",
+          "link": "https://hackerone.com/reports/1372216",
+          "publishedOn": "2022-02-22T19:48:17.000Z",
+          "wordCount": null,
+          "title": "IDOR in \"external status check\" API leaks data about any status check on the instance",
+          "imageUrl": null
+        },
+        {
+          "id": "https://hackerone.com/reports/1401891",
+          "author": null,
+          "description": "QIWI disclosed a bug submitted by uddeshaya: https://hackerone.com/reports/1401891 - Bounty: $100",
+          "link": "https://hackerone.com/reports/1401891",
+          "publishedOn": "2022-02-22T14:28:04.000Z",
+          "wordCount": null,
+          "title": "broken authentication (password reset link not expire after use   in  https://network.tochka.com/sign-up)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://hackerone.com/reports/1241149",
+          "author": null,
+          "description": "Acronis disclosed a bug submitted by lu3ky-13: https://hackerone.com/reports/1241149",
+          "link": "https://hackerone.com/reports/1241149",
+          "publishedOn": "2022-02-22T09:09:11.000Z",
+          "wordCount": null,
+          "title": "FULL SSRF",
+          "imageUrl": null
+        },
+        {
+          "id": "https://hackerone.com/reports/1330529",
+          "author": null,
+          "description": "Zomato disclosed a bug submitted by ashoka_rao: https://hackerone.com/reports/1330529 - Bounty: $3250",
+          "link": "https://hackerone.com/reports/1330529",
+          "publishedOn": "2022-02-22T08:51:15.000Z",
+          "wordCount": null,
+          "title": "Claiming the listing of a non-delivery restaurant through OTP manipulation",
+          "imageUrl": null
+        },
+        {
+          "id": "https://hackerone.com/reports/1454965",
+          "author": null,
+          "description": "8x8 disclosed a bug submitted by adnanmalikinfo: https://hackerone.com/reports/1454965",
+          "link": "https://hackerone.com/reports/1454965",
+          "publishedOn": "2022-02-22T07:19:03.000Z",
+          "wordCount": null,
+          "title": "api key exposed in github.com//",
+          "imageUrl": null
+        },
+        {
           "id": "https://hackerone.com/reports/1484168",
           "author": null,
           "description": "Automattic disclosed a bug submitted by ajoekerr: https://hackerone.com/reports/1484168 - Bounty: $450",
@@ -2453,6 +2513,56 @@
       "siteUrl": "https://infosecwriteups.com?source=rss----7b722bfd1b8d---4",
       "articles": [
         {
+          "id": "https://medium.com/p/764545d21373",
+          "author": "InfoSec Write-ups",
+          "description": "",
+          "link": "https://infosecwriteups.com/behind-the-scenes-of-infosec-writeups-764545d21373?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2022-02-22T08:08:25.000Z",
+          "wordCount": null,
+          "title": "Behind-the-Scenes of Infosec Writeups",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/ee4d758506e4",
+          "author": "Kiranghimire",
+          "description": "",
+          "link": "https://infosecwriteups.com/suspicious-usb-stick-ee4d758506e4?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2022-02-22T05:18:39.000Z",
+          "wordCount": null,
+          "title": "Suspicious USB Stick",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/c2c1f5847b28",
+          "author": "Hacktivities",
+          "description": "",
+          "link": "https://infosecwriteups.com/cryptowall-ransomware-malware-traffic-analysis-c2c1f5847b28?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2022-02-22T05:13:55.000Z",
+          "wordCount": null,
+          "title": "CryptoWall Ransomware — Malware Traffic Analysis",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/a2e843a697ee",
+          "author": "Marina Valverde",
+          "description": "",
+          "link": "https://infosecwriteups.com/thm-dav-writeup-a2e843a697ee?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2022-02-22T05:13:21.000Z",
+          "wordCount": null,
+          "title": "[THM] Dav Writeup",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/43c05cc9b755",
+          "author": "Samip Aryal",
+          "description": "",
+          "link": "https://infosecwriteups.com/how-i-couldve-bypassed-the-2fa-security-of-instagram-once-again-43c05cc9b755?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2022-02-22T05:04:29.000Z",
+          "wordCount": null,
+          "title": "How I could’ve bypassed the 2FA security of Instagram once again?",
+          "imageUrl": null
+        },
+        {
           "id": "https://medium.com/p/760d8bd51fea",
           "author": "Sergey Vasiliev",
           "description": "",
@@ -4011,6 +4121,86 @@
       "feedUrl": "https://medium.com/feed/tag/bugbounty",
       "siteUrl": "https://medium.com/tag/bugbounty/latest?source=rss------bugbounty-5",
       "articles": [
+        {
+          "id": "https://medium.com/p/2abca22d3b54",
+          "author": "0xJin",
+          "description": "Easy box made by Jin\nContinue reading on Medium »",
+          "link": "https://0xjin.medium.com/paper-hackthebox-write-up-2abca22d3b54?source=rss------bugbounty-5",
+          "publishedOn": "2022-02-22T19:10:04.000Z",
+          "wordCount": null,
+          "title": "Paper HackTheBox Write-Up",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/cab14ef7faeb",
+          "author": "Sm9l",
+          "description": "One liner tool chains for bug bounty, dependent on one vital tool.\nContinue reading on Medium »",
+          "link": "https://medium.com/@Sm9l/the-most-underrated-tool-in-bug-bounty-and-the-filthiest-one-liner-possible-cab14ef7faeb?source=rss------bugbounty-5",
+          "publishedOn": "2022-02-22T14:06:07.000Z",
+          "wordCount": null,
+          "title": "The most underrated tool in bug bounty. (and the filthiest one liner possible)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/5b1145b83c79",
+          "author": "Rend",
+          "description": "you may have seen some SQL injections that exploiting them are not as straightforward as what you see in the ethical hacking courses. like…\nContinue reading on Medium »",
+          "link": "https://medium.com/@Rend_/sqli-next-level-5b1145b83c79?source=rss------bugbounty-5",
+          "publishedOn": "2022-02-22T13:29:23.000Z",
+          "wordCount": null,
+          "title": "SQLi: next level",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/d3e2aab48840",
+          "author": "StaFi_Protocol",
+          "description": "Overview\nContinue reading on StaFi »",
+          "link": "https://medium.com/stafi/rdex-bug-bounty-recap-d3e2aab48840?source=rss------bugbounty-5",
+          "publishedOn": "2022-02-22T11:36:07.000Z",
+          "wordCount": null,
+          "title": "rDEX Bug Bounty Recap",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/943d034404d",
+          "author": "Arif ARI",
+          "description": "XXE (XML External Entity) Injection, bir saldırganın web uygulama üzerinde XML verilerini enjekte etmesine veya değiştirmesine olanak…\nContinue reading on Medium »",
+          "link": "https://ariarif.medium.com/portswigger-web-security-xxe-xml-external-entity-injection-lab-%C3%A7%C3%B6z%C3%BCmleri%CC%87-943d034404d?source=rss------bugbounty-5",
+          "publishedOn": "2022-02-22T09:13:58.000Z",
+          "wordCount": null,
+          "title": "PORTSWIGGER WEB SECURITY - XXE (XML EXTERNAL ENTITY) INJECTION LAB ÇÖZÜMLERİ",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/764545d21373",
+          "author": "InfoSec Write-ups",
+          "description": "How the publication grew since 2017, one message at a time.\nContinue reading on InfoSec Write-ups »",
+          "link": "https://infosecwriteups.com/behind-the-scenes-of-infosec-writeups-764545d21373?source=rss------bugbounty-5",
+          "publishedOn": "2022-02-22T08:08:25.000Z",
+          "wordCount": null,
+          "title": "Behind-the-Scenes of Infosec Writeups",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/21d3ffc54eb6",
+          "author": "Hamit CİBO",
+          "description": "Greetings to all from Sergius and Bacchus,\nContinue reading on Medium »",
+          "link": "https://hcibo.medium.com/my-pentest-log-7-21d3ffc54eb6?source=rss------bugbounty-5",
+          "publishedOn": "2022-02-22T07:23:15.000Z",
+          "wordCount": null,
+          "title": "My Pentest Log -7-",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/30d5545d1b12",
+          "author": "Binamra Pandey",
+          "description": "I was testing 2FA on a website. At first, I tried to bypass 2FA but I was not successful, then I thought of something else. What if I can…\nContinue reading on Techiepedia »",
+          "link": "https://medium.com/techiepedia/2fa-misconfiguration-leads-to-adding-any-number-as-2fa-verification-30d5545d1b12?source=rss------bugbounty-5",
+          "publishedOn": "2022-02-22T03:50:29.000Z",
+          "wordCount": null,
+          "title": "2FA Misconfiguration leads to adding any number as 2FA verification",
+          "imageUrl": null
+        },
         {
           "id": "https://medium.com/p/df30b9e0e06f",
           "author": "Rend",
@@ -7855,6 +8045,16 @@
         {
           "id": "https://medium.com/p/55b4bab7d1bd",
           "author": "Keiran Smith",
+          "description": "Original Post : https://keiran.scot/2022/02/10/exploiting-xxe-vulnerabilities/\nContinue reading on ITNEXT »",
+          "link": "https://itnext.io/exploiting-xxe-vulnerabilities-55b4bab7d1bd?source=rss------redteam-5",
+          "publishedOn": "2022-02-21T11:02:11.000Z",
+          "wordCount": null,
+          "title": "Exploiting XXE Vulnerabilities",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/55b4bab7d1bd",
+          "author": "Keiran Smith",
           "description": "Original Post : https://keiran.scot/2022/02/10/exploiting-xxe-vulnerabilities/\nContinue reading on Medium »",
           "link": "https://medium.com/@Affix/exploiting-xxe-vulnerabilities-55b4bab7d1bd?source=rss------redteam-5",
           "publishedOn": "2022-02-21T11:02:11.000Z",
@@ -8411,6 +8611,56 @@
       "feedUrl": "https://medium.com/feed/bugbountywriteup",
       "siteUrl": "https://infosecwriteups.com?source=rss----7b722bfd1b8d---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/764545d21373",
+          "author": "InfoSec Write-ups",
+          "description": "",
+          "link": "https://infosecwriteups.com/behind-the-scenes-of-infosec-writeups-764545d21373?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2022-02-22T08:08:25.000Z",
+          "wordCount": null,
+          "title": "Behind-the-Scenes of Infosec Writeups",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/ee4d758506e4",
+          "author": "Kiranghimire",
+          "description": "",
+          "link": "https://infosecwriteups.com/suspicious-usb-stick-ee4d758506e4?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2022-02-22T05:18:39.000Z",
+          "wordCount": null,
+          "title": "Suspicious USB Stick",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/c2c1f5847b28",
+          "author": "Hacktivities",
+          "description": "",
+          "link": "https://infosecwriteups.com/cryptowall-ransomware-malware-traffic-analysis-c2c1f5847b28?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2022-02-22T05:13:55.000Z",
+          "wordCount": null,
+          "title": "CryptoWall Ransomware — Malware Traffic Analysis",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/a2e843a697ee",
+          "author": "Marina Valverde",
+          "description": "",
+          "link": "https://infosecwriteups.com/thm-dav-writeup-a2e843a697ee?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2022-02-22T05:13:21.000Z",
+          "wordCount": null,
+          "title": "[THM] Dav Writeup",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/43c05cc9b755",
+          "author": "Samip Aryal",
+          "description": "",
+          "link": "https://infosecwriteups.com/how-i-couldve-bypassed-the-2fa-security-of-instagram-once-again-43c05cc9b755?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2022-02-22T05:04:29.000Z",
+          "wordCount": null,
+          "title": "How I could’ve bypassed the 2FA security of Instagram once again?",
+          "imageUrl": null
+        },
         {
           "id": "https://medium.com/p/760d8bd51fea",
           "author": "Sergey Vasiliev",
@@ -9970,6 +10220,56 @@
       "feedUrl": "https://medium.com/feed/tag/osint",
       "siteUrl": "https://medium.com/tag/osint/latest?source=rss------osint-5",
       "articles": [
+        {
+          "id": "https://medium.com/p/8d4e7b53ac04",
+          "author": "Chad Warner",
+          "description": "OSINT Investigations: We know what you did that summer by Information Warfare Center is packed with OSINT advice and resources, including…\nContinue reading on Medium »",
+          "link": "https://warnerchad.medium.com/osint-investigations-we-know-what-you-did-that-summer-notes-8d4e7b53ac04?source=rss------osint-5",
+          "publishedOn": "2022-02-22T21:17:27.000Z",
+          "wordCount": null,
+          "title": "“OSINT Investigations: We know what you did that summer” Notes",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/35ac2a00fbbe",
+          "author": "Adnan Afzal",
+          "description": "Following is an OSINT challenge DVLA writeup offered by cybersoc.\nContinue reading on Medium »",
+          "link": "https://medium.com/@adnan.afzal879/cybersoc-dvla-osint-writeup-35ac2a00fbbe?source=rss------osint-5",
+          "publishedOn": "2022-02-22T19:32:06.000Z",
+          "wordCount": null,
+          "title": "Cybersoc DVLA OSINT writeup",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/48937a43d25c",
+          "author": "Aris M",
+          "description": "Steps\nContinue reading on Medium »",
+          "link": "https://medium.com/@somewherehavingahackattack/wonderland-tryhackme-ctf-48937a43d25c?source=rss------osint-5",
+          "publishedOn": "2022-02-22T19:16:58.000Z",
+          "wordCount": null,
+          "title": "Wonderland- Tryhackme CTF",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/9617c56c95ad",
+          "author": "Milanjain",
+          "description": "What is osintgram ?\nContinue reading on Medium »",
+          "link": "https://medium.com/@milanjain7906/osintgram-9617c56c95ad?source=rss------osint-5",
+          "publishedOn": "2022-02-22T17:26:40.000Z",
+          "wordCount": null,
+          "title": "OSINTGRAM",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/ef12389937f0",
+          "author": "Les Pires Hat",
+          "description": "From Saturday, February 19 to Sunday, February 20, 2022, the Capture The Talent CTF was held. 🏆Final ranking: 1/52\nContinue reading on Medium »",
+          "link": "https://lespireshat.medium.com/capture-the-talent-pwn-write-up-global-pandemic-ef12389937f0?source=rss------osint-5",
+          "publishedOn": "2022-02-22T11:24:17.000Z",
+          "wordCount": null,
+          "title": "Capture The Talent — Pwn Write-up : Global Pandemic",
+          "imageUrl": null
+        },
         {
           "id": "https://medium.com/p/ddaad6b1c313",
           "author": "RCP",
@@ -11790,6 +12090,16 @@
       "siteUrl": "https://medium.com/tag/xss/latest?source=rss------xss-5",
       "articles": [
         {
+          "id": "https://medium.com/p/6c414303e4a6",
+          "author": "Frances (Jing) Du",
+          "description": "Greatest Moments in Hacking History: Samy Kamkar Takes Down Myspace — YouTube\nContinue reading on Medium »",
+          "link": "https://francesd919.medium.com/samy-kamkar-takes-down-myspace-6c414303e4a6?source=rss------xss-5",
+          "publishedOn": "2022-02-22T20:37:35.000Z",
+          "wordCount": null,
+          "title": "Samy Kamkar takes down MySpace",
+          "imageUrl": null
+        },
+        {
           "id": "https://medium.com/p/e79e684a66c3",
           "author": "Rodolfo Assis (Brute)",
           "description": "When looking for ways to bypass XSS sanitizing (sanitizing, not filtering), I’ve figured out something interesting but almost useless…\nContinue reading on Medium »",
@@ -12757,6 +13067,16 @@
       "feedUrl": "https://hnrss.org/newest?q=CVE",
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
+        {
+          "id": "https://news.ycombinator.com/item?id=30435871",
+          "author": "neustradamus",
+          "description": "Article URL: https://www.cyrusimap.org/sasl/sasl/release-notes/2.1/index.html#new-in-2-1-28\nComments URL: https://news.ycombinator.com/item?id=30435871\nPoints: 1\n# Comments: 0",
+          "link": "https://www.cyrusimap.org/sasl/sasl/release-notes/2.1/index.html#new-in-2-1-28",
+          "publishedOn": "2022-02-23T00:24:26.000Z",
+          "wordCount": null,
+          "title": "Cyrus SASL 2.1.28 has been released with SCRAM improvements and CVE fixes",
+          "imageUrl": null
+        },
         {
           "id": "https://news.ycombinator.com/item?id=30413955",
           "author": "jeroenhd",
@@ -14358,6 +14678,76 @@
       "siteUrl": "https://www.freebuf.com",
       "articles": [
         {
+          "id": "https://www.freebuf.com/news/322845.html",
+          "author": null,
+          "description": "荷兰安全公司Threat Fabric的研究人员发现了一种名为 Xenomorph的新 Android 银行木马，正对欧洲56家银行的用户下手。",
+          "link": "https://www.freebuf.com/news/322845.html",
+          "publishedOn": "2022-02-22T10:36:36.000Z",
+          "wordCount": null,
+          "title": "新型银行木马正通过Google Play商店攻击英国银行用户",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.freebuf.com/news/322843.html",
+          "author": null,
+          "description": "Meta收到欧盟主要隐私监管机构发来的“修订版”初步决定，有可能影响其向美国传输欧盟用户数据，甚至有可能因此退出欧洲市场。",
+          "link": "https://www.freebuf.com/news/322843.html",
+          "publishedOn": "2022-02-22T10:28:08.000Z",
+          "wordCount": null,
+          "title": "FreeBuf早报 | Meta或因数据难传输而退出欧洲；在线诉讼等司法活动需保护个人隐私",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.freebuf.com/articles/neopoints/322836.html",
+          "author": null,
+          "description": "对于许多组织而言，非人类账户的访问权限通常保持不变。这为网络犯罪分子提供了利用孤立帐户进行未经授权的访问并发起网络攻击的机会。",
+          "link": "https://www.freebuf.com/articles/neopoints/322836.html",
+          "publishedOn": "2022-02-22T09:52:16.000Z",
+          "wordCount": null,
+          "title": "管理非人类账户的生命周期以最小化网络攻击",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.freebuf.com/news/322832.html",
+          "author": null,
+          "description": "OpenSea 数十名用户遭受了网络钓鱼攻击，损失了约价值170万美元的NFT。",
+          "link": "https://www.freebuf.com/news/322832.html",
+          "publishedOn": "2022-02-22T09:35:18.000Z",
+          "wordCount": null,
+          "title": "数十位 OpenSea 用户 NFT 被盗，损失超 170 万美元",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.freebuf.com/news/322798.html",
+          "author": null,
+          "description": "一个基于僵尸网络的流氓网站关联了数千部受感染的安卓手机，这再次揭露了依托SMS进行账户验证的漏洞。",
+          "link": "https://www.freebuf.com/news/322798.html",
+          "publishedOn": "2022-02-22T07:36:31.000Z",
+          "wordCount": null,
+          "title": "安卓用户注意了！黑客利用“一次性”账户开展诈骗",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.freebuf.com/fevents/319509.html",
+          "author": null,
+          "description": "3月9日-10日，CIS 2021 Spring·春日版全议题直播将正式开启，福利活动也将提前上线，参与最高可赢取iPhone13！",
+          "link": "https://www.freebuf.com/fevents/319509.html",
+          "publishedOn": "2022-02-22T07:27:07.000Z",
+          "wordCount": null,
+          "title": "3月9日看CIS 2021大会春日版直播，多重福利拿不停！",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.freebuf.com/news/322759.html",
+          "author": null,
+          "description": "全球第二大炊具分销商Meyer Corporation向美国司法部长办公室披露了影响其数千名员工的数据泄露事件。",
+          "link": "https://www.freebuf.com/news/322759.html",
+          "publishedOn": "2022-02-22T05:14:12.000Z",
+          "wordCount": null,
+          "title": "炊具巨头Meyer披露了影响员工的网络攻击",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.freebuf.com/news/322710.html",
           "author": null,
           "description": "豆瓣网被爆出在页面中使用难以察觉的隐形水印，水印的信息包括用户 UID、TID 及带时区的完整时间。",
@@ -14425,6 +14815,16 @@
           "publishedOn": "2022-02-20T17:37:00.000Z",
           "wordCount": 162,
           "title": "擅长捉弄的内存马同学：Servlet内存马",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.freebuf.com/articles/network/322522.html",
+          "author": null,
+          "description": "研究人员发现了 Lazarus 的新攻击行动，利用国防部门的就业岗位信息进行诱饵钓鱼。",
+          "link": "https://www.freebuf.com/articles/network/322522.html",
+          "publishedOn": "2022-02-19T03:34:44.000Z",
+          "wordCount": null,
+          "title": "Lazarus 组织开始使用 lolbin 技术",
           "imageUrl": null
         },
         {
@@ -18378,6 +18778,16 @@
       "siteUrl": "http://paper.seebug.org/",
       "articles": [
         {
+          "id": "http://paper.seebug.org/1834/",
+          "author": null,
+          "description": "译者：知道创宇404实验室翻译组\n原文链接：https://www.sentinelone.com/labs/log4j2-in-the-wild-iranian-aligned-threat-actor-tunnelvision-actively-exploiting-vmware-horizon/\n摘要\n\nSentinelLabs 一直在追踪一个与伊朗结盟的攻击者，他们在中东和美国活动。...",
+          "link": "http://paper.seebug.org/1834/",
+          "publishedOn": "2022-02-22T05:50:00.000Z",
+          "wordCount": null,
+          "title": "伊朗结盟黑客 TunnelVision 积极利用 VMware Horizon 中的 Log4j2 漏洞",
+          "imageUrl": null
+        },
+        {
           "id": "http://paper.seebug.org/1836/",
           "author": null,
           "description": "作者：ryze@nop\n本文为作者投稿，Seebug Paper 期待你的分享，凡经采用即有礼品相送！ 投稿邮箱：paper@seebug.org\n0x00 前言\n起因是在某红队项目中，获取到Oracle数据库密码后，利用Github上的某数据库利用工具连接后，利用时执行如 tasklist /svc 、net user 等命令时出现 ORA-24345: 出现截断或空读取错误，且文件管理功...",
@@ -18703,6 +19113,16 @@
       "feedUrl": "https://www.sec-wiki.com/news/rss",
       "siteUrl": "http://www.sec-wiki.com/",
       "articles": [
+        {
+          "id": "http://www.sec-wiki.com/?2022-02-22",
+          "author": null,
+          "description": "设备指纹技术介绍与综述（一）  by ourren\n更多最新文章，请访问SecWiki",
+          "link": "http://www.sec-wiki.com/?2022-02-22",
+          "publishedOn": "2022-02-22T15:58:20.000Z",
+          "wordCount": null,
+          "title": "SecWiki News 2022-02-22 Review",
+          "imageUrl": null
+        },
         {
           "id": "http://www.sec-wiki.com/?2022-02-21",
           "author": null,
@@ -19358,6 +19778,96 @@
       "feedUrl": "https://www.reddit.com/r/asknetsec/.rss",
       "siteUrl": "https://www.reddit.com/r/asknetsec/",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/sz3hev/whats_the_deal_about_ip_addresses/",
+          "author": null,
+          "description": "I know this is so fundamental basic stuff but why is this thing so crucial/\n    submitted by    /u/alicia30765  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/sz3hev/whats_the_deal_about_ip_addresses/",
+          "publishedOn": "2022-02-23T00:46:13.000Z",
+          "wordCount": null,
+          "title": "what's the deal about ip addresses?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/syzh4h/best_cs_undergrad_programs_for_a_prospective/",
+          "author": null,
+          "description": "Wondering if anyone here can speak to which college CS programs best prep their students to take on pentesting. I'd prefer a program that focuses on getting me the skills I need to understand the computer and just to give me general depth in my field. I know pentesting is what I want to do professionally, so something that would let me focus on that is preferable.\n    submitted by    /u/NotVeryMega  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/syzh4h/best_cs_undergrad_programs_for_a_prospective/",
+          "publishedOn": "2022-02-22T21:53:27.000Z",
+          "wordCount": null,
+          "title": "Best CS undergrad programs for a prospective pentester?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/syvjru/is_it_possible_i_could_be_targeted/",
+          "author": null,
+          "description": "Kinda what the title says. I started out this morning with the ability to call out. Then my phone just started hanging up instantly. Put Sim in different phone, same thing. Tried calling it, straight to voicemail. Went to Walmart to get a new sim and phone number. Got ten minutes of the ability to make calls, then the same exact thing. Got a new phone, different carrier. Same thing ten minutes, then no more voice ability. Could it be possible some one put out some kinda hit on me?\n    submitted by    /u/YddishMcSquidish  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/syvjru/is_it_possible_i_could_be_targeted/",
+          "publishedOn": "2022-02-22T19:07:57.000Z",
+          "wordCount": null,
+          "title": "Is it possible I could be targeted?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/syoc0c/how_much_day_rate_for_pentester_contractors_in/",
+          "author": null,
+          "description": "Due to an increase surge of work of a new contract, my company needs penetration tester contractors which would be good to use on an ad-hoc basis. What are the typical rates for pentesters and how long do a typical contract go on for? E.g. £500 a day for 3 months for example for someone with 3-5 experience. Is this reasonable pricing?\n I have been asked to find ones in the UK due to familiarity with certain frameworks like cyber essentials and CREST.\n It would be great if someone can share some figures so I can know what to expect with varying experience and qualification such as CRT and CCT as well. Thank you.\n    submitted by    /u/HamsterMoisture  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/syoc0c/how_much_day_rate_for_pentester_contractors_in/",
+          "publishedOn": "2022-02-22T14:02:08.000Z",
+          "wordCount": null,
+          "title": "How much day rate for pentester contractors in the UK?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/sym1hc/edr_etc_for_one_linux_box/",
+          "author": null,
+          "description": "What setup/software/etc do you recommend to protect my personal linux computer?\n E.g. vectors I see: it could get pwned by malicious python packages, malicious VSCode extensions, malicious NPM etc. Less likely: Browser exploits.\n I was experimenting with only letting my browser phone out (the usual malware on linux just connects out naively). But then I have to open everything up again to install stuff.\n ClamAV is a joke, but something like carbon black makes no sense for a single box.\n Ideas?\n    submitted by    /u/medusabadhairday  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/sym1hc/edr_etc_for_one_linux_box/",
+          "publishedOn": "2022-02-22T12:05:47.000Z",
+          "wordCount": null,
+          "title": "EDR etc for ONE linux box?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/syldu1/siem_onboarding_for_iaaspaas_over_azureaws/",
+          "author": null,
+          "description": "As someone who has been witnessing quite an amount of transformation across all sectors. Have been wondering what are the improvements Vendors and OEMs have made on SIEM Onboarding front.\n Do OEM/Vendors still prefer/recommend syslog, installing proprietary agents or the oh so obsolete RPC(for Windows) to onboard systems or have some vendors/OEMs also started pushing for cloud native solutions like Event Hub/SQS.\n A lot of vendors do show greenlight on integration with S3/Event Hub but dont support any sort of parsing for these log sources (Windows and Linux), one cannot expect anyone to actually create parsers from scratch for the entire Windows Ecosystem.\n As large orgs start deploying Control Towers with dedicated logging buckets anyone can poll off and ingest, how do you guys scale your SIEM deployments and utilize these architectural changes ?\n    submitted by    /u/w33ha_AD  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/syldu1/siem_onboarding_for_iaaspaas_over_azureaws/",
+          "publishedOn": "2022-02-22T11:30:11.000Z",
+          "wordCount": null,
+          "title": "SIEM Onboarding for IaaS/PaaS over Azure/AWS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/syigoc/where_to_turn_on_vpn_laptop_vs_phone_when/",
+          "author": null,
+          "description": "Lets get straight to it - I have two questions regarding where to turn on VPN (laptop vs phone)\n  \nLets say im at a hotel and would like to hotspot my phone so that I can access the internet using my laptop. Question is, where do i turn on VPN? On my phone or on my laptop? \n \nBased on my research, many seem to suggest to turn on VPN on the laptop. My question then, is, what if I would like to browse the internet on my phone? Or do stuff on whatsapp, etc. Must I turn on VPN on my phone for these activities too?\n \n    submitted by    /u/AliveandDrive  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/syigoc/where_to_turn_on_vpn_laptop_vs_phone_when/",
+          "publishedOn": "2022-02-22T08:26:21.000Z",
+          "wordCount": null,
+          "title": "Where to turn on VPN (laptop vs phone) when hotspotting my phone",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/syefdu/is_it_sql_injection/",
+          "author": null,
+          "description": "Hey Chief, A friend of mine has set up a website where she used a hosting service, I don't remember its name, The admin login functionality from that hosting service asked for username and password combination, I typed a few SQLi payloads (' or 1=1 kinda stuff) but instead of throwing login password/username incorrect error, it showed pretty unsual error and took pretty long to do so, Is that a sign of SQL based injection? Does that mean the website is likely vulnerable to SQL injection or smtg similar? Please help, because that friend of mine has setup her website for business usage and isn't sure that hosting provider is secure and whatnot.\n    submitted by    /u/The_Intellectualist  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/syefdu/is_it_sql_injection/",
+          "publishedOn": "2022-02-22T04:33:35.000Z",
+          "wordCount": null,
+          "title": "Is it SQL injection?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/sydpte/security_automation/",
+          "author": null,
+          "description": "I have been using node-red to automate a couple of daily tasks.\n for example\n - enrich alerts with virus total intelligence\n - test and verify DLP configuration is set up correctly\n - add IP to block list in AWS WAF\n - pull metrics from crowd strike to PowerBI for manager report\n - etc.\n ​\n I am considering writing a blog or sharing in a security talk.\n Is there anyone interested in this topic?\n Any good platform to speak about this?\n    submitted by    /u/Calm_Scene  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/sydpte/security_automation/",
+          "publishedOn": "2022-02-22T03:58:00.000Z",
+          "wordCount": null,
+          "title": "Security automation",
+          "imageUrl": null
+        },
         {
           "id": "https://www.reddit.com/r/AskNetsec/comments/sy21ep/i_was_solving_an_xss_lab_on_portswigger_when_i/",
           "author": null,
@@ -22874,6 +23384,26 @@
       "siteUrl": "https://www.reddit.com/r/redteamsec/",
       "articles": [
         {
+          "id": "https://www.reddit.com/r/redteamsec/comments/syus3y/operation_cache_pandas/",
+          "author": null,
+          "description": "submitted by    /u/dmchell  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/redteamsec/comments/syus3y/operation_cache_pandas/",
+          "publishedOn": "2022-02-22T18:36:49.000Z",
+          "wordCount": null,
+          "title": "Operation Cache Pandas",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/redteamsec/comments/syagrh/chasing_the_silver_petit_potam_to_domain_admin/",
+          "author": null,
+          "description": "submitted by    /u/ZephrX112  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/redteamsec/comments/syagrh/chasing_the_silver_petit_potam_to_domain_admin/",
+          "publishedOn": "2022-02-22T01:23:28.000Z",
+          "wordCount": null,
+          "title": "Chasing the Silver Petit Potam to Domain Admin",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.reddit.com/r/redteamsec/comments/sy82mb/fun_ideas_for_physical_pentesting/",
           "author": null,
           "description": "Hey team!\n So my sec team started a physical security assessment a week ago and its been fun. I got to use the under-the-door tool, tailgate, clone rfid card and bypass motion sensor entrances/exits.\n I was wondering if you guys had any ideas about what you would do if you had “keys to the kingdom” such as the server room or someones desktop?\n Edit: grammar\n    submitted by    /u/Enes_24  \n [link]   [comments]",
@@ -23983,6 +24513,16 @@
       "siteUrl": "https://www.reddit.com/r/exploitdev/",
       "articles": [
         {
+          "id": "https://www.reddit.com/r/ExploitDev/comments/syp4l8/ethereumevm_smart_contract_reverse_engineering/",
+          "author": null,
+          "description": "submitted by    /u/pat_ventuzelo  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/ExploitDev/comments/syp4l8/ethereumevm_smart_contract_reverse_engineering/",
+          "publishedOn": "2022-02-22T14:38:02.000Z",
+          "wordCount": null,
+          "title": "Ethereum/EVM Smart Contract Reverse Engineering & Disassembly",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.reddit.com/r/ExploitDev/comments/sw613g/analyzing_a_pjl_directory_traversal_vulnerability/",
           "author": null,
           "description": "submitted by    /u/digicat  \n [link]   [comments]",
@@ -24442,6 +24982,46 @@
       "siteUrl": "https://www.reddit.com/r/computerforensics/",
       "articles": [
         {
+          "id": "https://www.reddit.com/r/computerforensics/comments/syyfz5/seeking_freelancer_for_wechat_recovery/",
+          "author": null,
+          "description": "Computer Forensics For WeChat - Seeking A Freelancer\n We need someone who can restore WeChat messages from an iPhone backup. Please contact me privately or details.\n    submitted by    /u/P2T-2022  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/computerforensics/comments/syyfz5/seeking_freelancer_for_wechat_recovery/",
+          "publishedOn": "2022-02-22T21:10:13.000Z",
+          "wordCount": null,
+          "title": "Seeking Freelancer for WeChat Recovery",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/computerforensics/comments/syq65z/volatility_3_commands_and_usage_tips_to_get/",
+          "author": null,
+          "description": "submitted by    /u/DFIRScience  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/computerforensics/comments/syq65z/volatility_3_commands_and_usage_tips_to_get/",
+          "publishedOn": "2022-02-22T15:24:02.000Z",
+          "wordCount": null,
+          "title": "Volatility 3 commands and usage tips to get started with memory forensics. Volatility 3 + plugins make it easy to do advanced memory analysis.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/computerforensics/comments/syeoki/certs/",
+          "author": null,
+          "description": "Any certs you recommend for a cs analyst to get more knowledge and skills in digital forensics?\n    submitted by    /u/mooncrestle  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/computerforensics/comments/syeoki/certs/",
+          "publishedOn": "2022-02-22T04:47:21.000Z",
+          "wordCount": null,
+          "title": "Certs",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/computerforensics/comments/sydg8i/when_carving_a_file_type_without_a_footer_how_do/",
+          "author": null,
+          "description": "I am doing an assignment, and in the assignment volume, I found a Bitmap header. How do I know the range of the file? My professor said he would go over it but never did\n    submitted by    /u/KTthemajicgoat  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/computerforensics/comments/sydg8i/when_carving_a_file_type_without_a_footer_how_do/",
+          "publishedOn": "2022-02-22T03:44:45.000Z",
+          "wordCount": null,
+          "title": "When carving a file type without a footer, how do I know the range?",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.reddit.com/r/computerforensics/comments/sy1glh/how_dangerous_is_being_a_digital_forensic/",
           "author": null,
           "description": "I am currently doing BSc in Information systems and want to do masters in digital/computer forensics.\n    submitted by    /u/SkillKiller3010  \n [link]   [comments]",
@@ -24469,6 +25049,16 @@
           "publishedOn": "2022-02-21T15:35:39.000Z",
           "wordCount": null,
           "title": "Fargate incident response",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/computerforensics/comments/sxtcjt/for_research_breaking_into_computerdigital/",
+          "author": null,
+          "description": "Hey all - hope you're doing well. Doing some research on the Computer/Digital forensics field for a friend - I've looked a bit across Google, postings on job sites, etc. but wanted to get some knowledge from this pretty extensive community!\n  \nHow would someone with an M.A. (Masters) break into Computer or Digital forensics?\n Is a certification or class worth it (i.e. classes on Udemy, Coursera for specializations, or a university/online bootcamp program on digital or computer based forensics)\n What is your day-to-day like, how did you get into the field/how do you like it?\n What are common tools and skills - how much of a technical or IT background is required?\n  \nThank you!\n    submitted by    /u/sora1493  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/computerforensics/comments/sxtcjt/for_research_breaking_into_computerdigital/",
+          "publishedOn": "2022-02-21T13:19:13.000Z",
+          "wordCount": null,
+          "title": "For research - breaking into Computer/Digital Forensics?",
           "imageUrl": null
         },
         {
@@ -25832,6 +26422,46 @@
       "feedUrl": "https://www.reddit.com/r/netsec/.rss",
       "siteUrl": "https://www.reddit.com/r/netsec/",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/netsec/comments/sz3htp/you_can_still_csrf_post_requests_under_the/",
+          "author": null,
+          "description": "submitted by    /u/MysteriousHotel3017  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/netsec/comments/sz3htp/you_can_still_csrf_post_requests_under_the/",
+          "publishedOn": "2022-02-23T00:46:42.000Z",
+          "wordCount": null,
+          "title": "You can still CSRF POST requests under the default browser SameSite cookie policy. How to jump through the required hoops.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/netsec/comments/sz30sl/cyrus_sasl_2128_has_been_released_with_scram/",
+          "author": null,
+          "description": "submitted by    /u/Neustradamus  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/netsec/comments/sz30sl/cyrus_sasl_2128_has_been_released_with_scram/",
+          "publishedOn": "2022-02-23T00:23:33.000Z",
+          "wordCount": null,
+          "title": "Cyrus SASL 2.1.28 has been released with SCRAM improvements and CVE fixes",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/netsec/comments/sytm31/challenge3_weekly_cloud_security_challenge/",
+          "author": null,
+          "description": "submitted by    /u/0xdeadbeef0000  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/netsec/comments/sytm31/challenge3_weekly_cloud_security_challenge/",
+          "publishedOn": "2022-02-22T17:49:45.000Z",
+          "wordCount": null,
+          "title": "Challenge-3 Weekly Cloud Security Challenge",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/netsec/comments/syr2zw/horde_webmail_5222_account_takeover_via_email/",
+          "author": null,
+          "description": "submitted by    /u/monoimpact  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/netsec/comments/syr2zw/horde_webmail_5222_account_takeover_via_email/",
+          "publishedOn": "2022-02-22T16:03:56.000Z",
+          "wordCount": null,
+          "title": "Horde Webmail 5.2.22 - Account Takeover via Email",
+          "imageUrl": null
+        },
         {
           "id": "https://www.reddit.com/r/netsec/comments/sy4jtm/command_line_execution_fuzzer_and_bruteforcer/",
           "author": null,
@@ -28450,6 +29080,36 @@
       "feedUrl": "https://www.reddit.com/r/opendirectories/.rss",
       "siteUrl": "https://www.reddit.com/r/opendirectories/",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/opendirectories/comments/sysob9/for_the_females_gay_members_of_reddit/",
+          "author": null,
+          "description": "Not saying you have to be gay to enjoy good looking\n men getting off ...\n Has rick & morty, Mr Robot plus other stuff so not all men \n getting all hot and sweaty...\n Mp4's images ect...\n    submitted by    /u/xanderTgreat  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/opendirectories/comments/sysob9/for_the_females_gay_members_of_reddit/",
+          "publishedOn": "2022-02-22T17:09:52.000Z",
+          "wordCount": null,
+          "title": "For the females & gay members of reddit...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/opendirectories/comments/syqcyr/construction_company_or_not/",
+          "author": null,
+          "description": "Not been around for a while but found this one \n and wanted to share it...yep porn...\n Look in folders...mp4's\n    submitted by    /u/xanderTgreat  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/opendirectories/comments/syqcyr/construction_company_or_not/",
+          "publishedOn": "2022-02-22T15:32:47.000Z",
+          "wordCount": null,
+          "title": "Construction Company or not...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/opendirectories/comments/syfrnl/a_bunch_of_electronic_music_and_samples_still/",
+          "author": null,
+          "description": "submitted by    /u/subwaytech  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/opendirectories/comments/syfrnl/a_bunch_of_electronic_music_and_samples_still/",
+          "publishedOn": "2022-02-22T05:45:15.000Z",
+          "wordCount": null,
+          "title": "a bunch of electronic music and samples, still looking through it but there's some fun stuff so far",
+          "imageUrl": null
+        },
         {
           "id": "https://www.reddit.com/r/opendirectories/comments/sy60mr/comprehensive_collection_of_bionicle_lego_images/",
           "author": null,
@@ -31755,6 +32415,16 @@
       "siteUrl": "https://www.netsparker.com/blog/",
       "articles": [
         {
+          "id": "https://www.netsparker.com/blog/cbe838e9-bbbd-4ec6-99d4-1e6f8e0489e4/",
+          "author": "Lindsey  Stalnaker",
+          "description": "Invicti sat down with Ryan Cote, former CIO for the Department of Transportation, to chat about AppSec in government and how agencies can modernize security. READ MORE",
+          "link": "https://www.netsparker.com/blog/web-security/cutting-edge-conundrum-why-federal-agencies-cannot-compromise-on-security/",
+          "publishedOn": "2022-02-22T14:45:55.000Z",
+          "wordCount": null,
+          "title": "The cutting-edge conundrum: Why federal agencies can’t compromise on security",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.netsparker.com/blog/96f13991-ba89-4177-bc74-cfa0deb349cf/",
           "author": "Zbigniew Banach",
           "description": "Demonstrating web application compliance with various security standards and practices is crucial in many industries. To help you scan applications and prepare reports for common web security compliance requirements, Netsparker by Invicti comes with a host of predefined compliance checks and reports, including OWASP Top 10, PCI DSS, HIPAA, NIST SP 800-53, and more. READ MORE",
@@ -32016,6 +32686,17 @@
       "feedUrl": "http://feeds.feedburner.com/Unit42",
       "siteUrl": "https://unit42.paloaltonetworks.com",
       "articles": [
+        {
+          "id": "https://unit42.paloaltonetworks.com/?p=122007",
+          "author": "Unit 42",
+          "description": "Recommendations on how to proactively prepare to defend against the potential cyber impact of the escalating Russia-Ukraine crisis.\nThe post Preparing for the Cyber Impact of the Escalating Russia-Ukraine Crisis appeared first on Unit42.",
+          "link": "https://unit42.paloaltonetworks.com/preparing-for-cyber-impact-russia-ukraine-crisis/",
+          "publishedOn": "2022-02-22T23:00:54.000Z",
+          "wordCount": null,
+          "title": "Preparing for the Cyber Impact of the Escalating Russia-Ukraine Crisis",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "https://unit42.paloaltonetworks.com/?p=121951",
           "author": "Tyler Halfpop",
@@ -33464,9 +34145,21 @@
       "articles": []
     },
     {
+      "title": "android cracking",
+      "feedUrl": "http://feeds.feedburner.com/AndroidCracking",
+      "siteUrl": "http://androidcracking.blogspot.com/",
+      "articles": []
+    },
+    {
       "title": "Attack and Defense Labs",
       "feedUrl": "http://feeds.feedburner.com/AttackAndDefenseLabs",
       "siteUrl": "http://blog.andlabs.org/",
+      "articles": []
+    },
+    {
+      "title": "c4an dll",
+      "feedUrl": "http://feeds.feedburner.com/C4anDll",
+      "siteUrl": "http://c4an-dl.blogspot.com/",
       "articles": []
     },
     {
@@ -33928,6 +34621,12 @@
       "articles": []
     },
     {
+      "title": "the world. according to koto",
+      "feedUrl": "http://feeds.feedburner.com/TheWorldAccordingToKoto",
+      "siteUrl": "http://blog.kotowicz.net/",
+      "articles": []
+    },
+    {
       "title": "Aldeid News",
       "feedUrl": "http://feeds.feedburner.com/aldeidnews",
       "siteUrl": "https://www.aldeid.com",
@@ -34086,6 +34785,12 @@
       ]
     },
     {
+      "title": "tessrijogo",
+      "feedUrl": "http://feeds.feedburner.com/blogspot/CqwP",
+      "siteUrl": "http://tessrijogo.blogspot.com/",
+      "articles": []
+    },
+    {
       "title": "Confessions of a Penetration Tester",
       "feedUrl": "http://feeds.feedburner.com/blogspot/qnNMU",
       "siteUrl": "http://pentesterconfessions.blogspot.com/",
@@ -34098,10 +34803,47 @@
       "articles": []
     },
     {
+      "title": "GNUCITIZEN",
+      "feedUrl": "http://feeds.feedburner.com/gnucitizen",
+      "siteUrl": "https://www.gnucitizen.org/feed.xml",
+      "articles": [
+        {
+          "id": "https://www.gnucitizen.org/blog/hacking-with-ml/",
+          "author": "pdp",
+          "description": "Let's say that we want to train an ML model to hack web applications. What would that look like in practice? Let's do this thought experiment.\nWe first need to define an environment where the agent (the ML model) can operate and essentially learn. In principle, this would necessitate boiling down the process of web hacking into a limited number of inputs that the agent needs to send in some combination and get rewarded for in return (let's think of this from the perspective of reinforcement learning).\nFor this thought experiment, let's consider that the input is just three buttons (think of them as a game controller) which the agent can press to manipulate the environment. The agent will smash the buttons, and in return, it may get some reward for finding a vulnerability or getting pretty …",
+          "link": "https://www.gnucitizen.org/blog/hacking-with-ml/",
+          "publishedOn": "2021-04-26T15:10:45.000Z",
+          "wordCount": null,
+          "title": "Hacking with ML",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.gnucitizen.org/blog/innovation-is-nonlinear/",
+          "author": "pdp",
+          "description": "I am getting obsessed with the nonlinear way of discovering things.\nFor example, let's say you want to use machine learning to classify many strings, but you don't know anything about this topic. The linear approach would be to start learning about ML from the basics, and once you have enough knowledge, you will be able to solve your specific problem. By the time you reach this point, you find out that your problem domain is not a good fit for what you've learned (your knowledge is not practical for the problem domain), and thus the experience is disappointing.\nThe nonlinear way would go like this. You want to classify many strings using machine learning, but you don't know anything about this topic. You download brain.js and start doing some random problems not related to your problem domain which ultimately leads to a discovery or an insight in a different area. Now you innovate.\nThe illusion everyone in tech has is that it is possible to develop innovative solutions by following a linear path: A, B, C, D. But, innovation is never linear. If innovation was linear, it would have been repeatable as it will be possible to work forward and backwards with relative ease. Instead, we know that innovation is random, and it comes from unexpected places.",
+          "link": "https://www.gnucitizen.org/blog/innovation-is-nonlinear/",
+          "publishedOn": "2021-04-26T11:38:48.000Z",
+          "wordCount": null,
+          "title": "Innovation is Nonlinear",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
       "title": "HAHWUL",
       "feedUrl": "http://feeds.feedburner.com/hahwul",
       "siteUrl": "https://www.hahwul.com/",
       "articles": [
+        {
+          "id": "https://www.hahwul.com/2022/02/23/check-channel-status-in-go/",
+          "author": null,
+          "description": "고루틴과 채널은 golang에서 가장 핵심적인 기능 중 하나입니다.\r\n다만 꼼꼼하게 체크하고 사용하지 않으면 여러가지 문제들을 만들어낼 수 있습니다. 그 중 하나는 Close된 채널에 값을 전달하는 상황인데요. 이런 경우 Application은 panic으로 종료하게 됩니다.\r\npanic: send on closed channel goroutine 1 [running]: main.main() /tmp/sandbox2358964969/prog.go:19 +0xfc 우선 간단한 방법으로 이를 예방할 수 있는데요. 채널에 값을 보내기 전 채널로 아래 safeCheck 함수와 같이 채널의 Close 여부를 체크하고, 결과에 따라서 값의 송신 여부를 결정하면 됩니다.",
+          "link": "https://www.hahwul.com/2022/02/23/check-channel-status-in-go/",
+          "publishedOn": "2022-02-22T15:34:38.000Z",
+          "wordCount": null,
+          "title": "panic: send on closed channel - 채널을 잘 닫자 🕵🏼‍♂️",
+          "imageUrl": null
+        },
         {
           "id": "https://www.hahwul.com/2022/02/20/cullinan-27/",
           "author": null,
@@ -34466,6 +35208,123 @@
       "articles": []
     },
     {
+      "title": "Sucuri Blog",
+      "feedUrl": "http://feeds.feedburner.com/sucuri/blog",
+      "siteUrl": "https://blog.sucuri.net",
+      "articles": [
+        {
+          "id": "https://blog.sucuri.net/?p=28482",
+          "author": "Ben Martin",
+          "description": "Attackers are regularly exploiting vulnerable plugins to compromise WordPress websites and redirect visitors to spam and scam websites. This has been an ongoing campaign for multiple years. Payload domains are regularly swapped out and updated, but the objective remains largely the same: trick unsuspecting users into clicking on malicious links to propagate adware and push bogus advertisements onto victim’s desktops.\n\r\nThe most recent variation of this WordPress hack involves the following domain:\n\r\nspecialadves[.]com\n\r\nIf your website is redirecting visitors to pages that look something like this then your website is likely compromised:\n\r\n\r\nIn today’s post we will review how to remove the specialadves malware from your WordPress website.\n\r\nContinue reading How to Fix the specialadves WordPress Redirect Hack at Sucuri Blog.",
+          "link": "https://blog.sucuri.net/2022/02/how-to-fix-the-specialadves-wordpress-redirect-hack.html",
+          "publishedOn": "2022-02-22T17:57:25.000Z",
+          "wordCount": null,
+          "title": "How to Fix the specialadves WordPress Redirect Hack",
+          "imageUrl": null
+        },
+        {
+          "id": "https://blog.sucuri.net/?p=28450",
+          "author": "Ben Martin",
+          "description": "One of the more common infections that we see are site-wide redirects to spam and scam sites, achieved by attackers exploiting newly found vulnerabilities in popular WordPress plugins. If you’ve ever been redirected to a page that looks something like this, then you’ve fallen victim to such an attack:\n\r\n\r\nOnce the user clicks through the verification process they are sent to a fake CAPTCHA page asking the user to click to prove they are a human:\n\r\n\r\nAs we have reported in the past on this type of infection:\n\r\nThe goal is to trick visitors into clicking “Allow” when the site asks to subscribe to push notifications.\n\r\nContinue reading Attackers Abuse Poorly Regulated Top-Level Domains in Ongoing Redirect Campaign at Sucuri Blog.",
+          "link": "https://blog.sucuri.net/2022/02/attackers-abuse-poorly-regulated-top-level-domains-in-ongoing-redirect-campaign.html",
+          "publishedOn": "2022-02-18T18:12:45.000Z",
+          "wordCount": null,
+          "title": "Attackers Abuse Poorly Regulated Top-Level Domains in Ongoing Redirect Campaign",
+          "imageUrl": null
+        },
+        {
+          "id": "https://blog.sucuri.net/?p=28442",
+          "author": "Ben Martin",
+          "description": "On Sunday, February 13th, Adobe pushed an emergency update to their Magento2 ecommerce software patching a critical unauthenticated remote code execution vulnerability. It is marked as CVE-2022-24086 with a CVSS score of 9.8. Website administrators of Magento stores should patch immediately.\n\r\nShop owners of Magento 2.3 or 2.4 stores can find the patch to install here. Instructions on how to install Magento security patches via Composer can be found here.\n\r\nOur website firewall generic rules block RCE exploitation attempts by default but given the severity of the vulnerability website administrators should not leave their websites unpatched.\n\r\nContinue reading Adobe Patches Critical RCE Vulnerability in Magento2 at Sucuri Blog.",
+          "link": "https://blog.sucuri.net/2022/02/adobe-patches-critical-rce-vulnerability-in-magento2.html",
+          "publishedOn": "2022-02-16T19:59:31.000Z",
+          "wordCount": null,
+          "title": "Adobe Patches Critical RCE Vulnerability in Magento2",
+          "imageUrl": null
+        },
+        {
+          "id": "https://blog.sucuri.net/?p=28470",
+          "author": "Ashley Sand",
+          "description": "Protecting Content Management Systems (CMS) installed on a hosting server is crucial in today’s ever-growing world wide web, but how to I protect my WordPress website on a tight budget? \n\r\nThere are tons of options available on this front, but it can be overwhelming to make the right decision in website protection that fits into your budget. In this article, however, we’ll be covering the basics of efficiently securing your WordPress website at no cost. \n\r\nContinue reading How do I secure WordPress Websites for Free? at Sucuri Blog.",
+          "link": "https://blog.sucuri.net/2022/02/how-do-i-secure-wordpress-websites-for-free.html",
+          "publishedOn": "2022-02-15T22:49:09.000Z",
+          "wordCount": null,
+          "title": "How do I secure WordPress Websites for Free?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://blog.sucuri.net/?p=28434",
+          "author": "Ashley Sand",
+          "description": "Finding the perfect security plugin for your website is important, but it’s also crucial you find the proper one that suits your needs. WordPress plugins are a dime a dozen, so we’ll be discussing how to narrow your options and what to look for in a reliable plugin so you can safely install it on your website. Some of the most frequent issues with poorly managed plugins include eating up memory in excess, 500 internal server errors, downtime, white pages, and slow response times.\n\r\nContinue reading How to Choose a Security Plugin That’s Right for Your Website at Sucuri Blog.",
+          "link": "https://blog.sucuri.net/2022/02/how-to-choose-a-security-plugin-thats-right-for-your-website.html",
+          "publishedOn": "2022-02-11T21:25:55.000Z",
+          "wordCount": null,
+          "title": "How to Choose a Security Plugin That’s Right for Your Website",
+          "imageUrl": null
+        },
+        {
+          "id": "https://blog.sucuri.net/?p=28429",
+          "author": "Allison Bondi",
+          "description": "As we go through the winter months and whether changes, many of us go to our local pharmacy and take advantage of a flu shot. We do this because maybe we have had the flu before and the second of pain from the jab is nothing in comparison to the hours and days of sickness from catching the flu bug. \n\r\nAs everyone’s grandparents tell them, “An ounce of prevention is worth a pound of cure.\n\r\nContinue reading Top 10 Security Tips to Keep Your WordPress Site Healthy at Sucuri Blog.",
+          "link": "https://blog.sucuri.net/2022/02/top-10-security-tips-to-keep-your-wordpress-site-healthy.html",
+          "publishedOn": "2022-02-09T18:45:49.000Z",
+          "wordCount": null,
+          "title": "Top 10 Security Tips to Keep Your WordPress Site Healthy",
+          "imageUrl": null
+        },
+        {
+          "id": "https://blog.sucuri.net/?p=28419",
+          "author": "Allison Bondi",
+          "description": "What is SEO Spam?\n\r\nSEO spam is what attackers will inject into a website to attempt to use your SEO ranking for something else not ranked otherwise that will further the attackers’ objective. They spam and destroy the website while trying to generate revenue or achieve some other goal. \n\r\nDue to this, generally, the website owner is completely unaware of what’s going on unless they receive warnings or are added to blocklists. \n\r\nUsually, a hacker will try to avoid being detected by rearranging links that aren’t visible to the average site visitor and only crawlers/index engines can see it. \n\r\nContinue reading How to Get Rid of the Most Common Types of SEO Spam at Sucuri Blog.",
+          "link": "https://blog.sucuri.net/2022/02/how-to-get-rid-of-the-most-common-types-of-seo-spam.html",
+          "publishedOn": "2022-02-08T00:15:13.000Z",
+          "wordCount": null,
+          "title": "How to Get Rid of the Most Common Types of SEO Spam",
+          "imageUrl": null
+        },
+        {
+          "id": "https://blog.sucuri.net/?p=28412",
+          "author": "Ashley Sand",
+          "description": "Frankly, no security is 100% secure. As infections continue to surge across the web, and attackers think of more innovative ways to remain undetected, many site owners wonder if they’ll be the next victim. In this article we’ll discuss what to look out for and consider when managing a website, why these hacks may occur, and how to lock down vulnerabilities.\n\r\nWhat kind of sites are the most vulnerable?\n\r\nNo site is 100% fully secure because sites are managed by people, and people are fallible.\n\r\nContinue reading Are all Websites Hackable? Why (not)? at Sucuri Blog.",
+          "link": "https://blog.sucuri.net/2022/02/are-all-websites-hackable-why-not.html",
+          "publishedOn": "2022-02-04T17:32:32.000Z",
+          "wordCount": null,
+          "title": "Are all Websites Hackable? Why (not)?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://blog.sucuri.net/?p=28390",
+          "author": "Ben Martin",
+          "description": "The holidays are always a busy time for ecommerce stores. Dealing with an influx of Christmas shoppers, holiday sales and inventory, shipping, and at times, also hackers. Today’s investigation starts out much like many others, with our client reporting an antivirus warning appearing only on their checkout page, of course at the worst possible time right around the end of December.\n\r\n\r\nWhat first seemed to be a routine case of credit card theft turned out to be a much more interesting infection that leveraged both font, favicon and other less-commonly used files to pilfer credit card details.\n\r\nContinue reading WooCommerce Skimmer Uses Fake Fonts and Favicon to Steal CC Details at Sucuri Blog.",
+          "link": "https://blog.sucuri.net/2022/02/woocommerce-skimmer-uses-fake-fonts-and-favicon-to-steal-cc-details.html",
+          "publishedOn": "2022-02-02T20:22:36.000Z",
+          "wordCount": null,
+          "title": "WooCommerce Skimmer Uses Fake Fonts and Favicon to Steal CC Details",
+          "imageUrl": null
+        },
+        {
+          "id": "https://blog.sucuri.net/?p=28385",
+          "author": "Ashley Sand",
+          "description": "There’s a lot that goes into a website environment in terms of functionality. Due to this, it’s only natural for one of the most commonly asked questions being how websites are usually hacked. In my previous post I talk about the Most Interesting Vulnerabilities of 2021, which should provide more insight into the more recent hacks seen, or caught beforehand. \n\r\nIn this article we’ll be discussing the primary ways websites are infected, and how you can better prevent it from happening. \n\r\nContinue reading Top Ways Websites get Hacked by Spammers at Sucuri Blog.",
+          "link": "https://blog.sucuri.net/2022/01/top-ways-websites-get-hacked-by-spammers.html",
+          "publishedOn": "2022-01-31T23:00:25.000Z",
+          "wordCount": null,
+          "title": "Top Ways Websites get Hacked by Spammers",
+          "imageUrl": null
+        },
+        {
+          "id": "https://blog.sucuri.net/?p=28361",
+          "author": "Ben Martin",
+          "description": "In my years as a security analyst I have worked with many clients who were in very dire straits. A website compromise is never a pleasant experience but there are a number of cases that stick out in my mind as particularly memorable:\n\r\nThe ecommerce website owner whose business was on the brink of disaster after having to pay thousands of dollars in fines to Visa due to the presence of a credit card skimmer.\n\r\nContinue reading The Importance of Responsible Disclosure at Sucuri Blog.",
+          "link": "https://blog.sucuri.net/2022/01/the-importance-of-responsible-disclosure.html",
+          "publishedOn": "2022-01-28T19:11:55.000Z",
+          "wordCount": null,
+          "title": "The Importance of Responsible Disclosure",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
       "title": "安全客-有思想的安全新媒体",
       "feedUrl": "https://api.anquanke.com/data/v1/rss",
       "siteUrl": "https://www.anquanke.com",
@@ -34476,6 +35335,46 @@
       "feedUrl": "https://medium.com/feed/bugbountywriteup",
       "siteUrl": "https://infosecwriteups.com?source=rss----7b722bfd1b8d---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/760d8bd51fea",
+          "author": "Sergey Vasiliev",
+          "description": "",
+          "link": "https://infosecwriteups.com/why-does-my-app-send-network-requests-when-i-open-an-svg-file-760d8bd51fea?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2022-02-21T06:12:43.000Z",
+          "wordCount": null,
+          "title": "Why does my app send network requests when I open an SVG file?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/8b6e3294a5e0",
+          "author": "Febi Mudiyanto",
+          "description": "",
+          "link": "https://infosecwriteups.com/how-to-setup-mfa-for-linux-machine-8b6e3294a5e0?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2022-02-21T06:09:28.000Z",
+          "wordCount": null,
+          "title": "How to Setup MFA for Linux Machine",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/524acf91f8a3",
+          "author": "Sofia Santos",
+          "description": "",
+          "link": "https://infosecwriteups.com/walkthrough-hacktoria-geolocation-12-524acf91f8a3?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2022-02-21T06:09:15.000Z",
+          "wordCount": null,
+          "title": "Walkthrough — Hacktoria: Geolocation 12",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/29b5c2c60e95",
+          "author": "Sriram Kesavan",
+          "description": "",
+          "link": "https://infosecwriteups.com/send-a-email-to-me-and-get-kicked-out-of-google-groups-29b5c2c60e95?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2022-02-21T06:08:53.000Z",
+          "wordCount": null,
+          "title": "Send a Email to me and get kicked out of Google Groups !!",
+          "imageUrl": null
+        },
         {
           "id": "https://medium.com/p/86c7eb3a0a9f",
           "author": "InfoSec Write-ups",
@@ -35996,6 +36895,36 @@
       "siteUrl": "http://paper.seebug.org/",
       "articles": [
         {
+          "id": "http://paper.seebug.org/1836/",
+          "author": null,
+          "description": "作者：ryze@nop\n本文为作者投稿，Seebug Paper 期待你的分享，凡经采用即有礼品相送！ 投稿邮箱：paper@seebug.org\n0x00 前言\n起因是在某红队项目中，获取到Oracle数据库密码后，利用Github上的某数据库利用工具连接后，利用时执行如 tasklist /svc 、net user 等命令时出现 ORA-24345: 出现截断或空读取错误，且文件管理功...",
+          "link": "http://paper.seebug.org/1836/",
+          "publishedOn": "2022-02-21T08:07:00.000Z",
+          "wordCount": null,
+          "title": "数据库连接利用工具--Sylas",
+          "imageUrl": null
+        },
+        {
+          "id": "http://paper.seebug.org/1835/",
+          "author": null,
+          "description": "作者：墨云科技 VLab Team\n原文链接：https://mp.weixin.qq.com/s/fFx1kQVfotbOqHlSjSJVMQ\n漏洞简述\n这是一个反序列化漏洞,是一条新的gadget,在低版本的JDK中可能会造成RCE风险。\n漏洞分析\n测试环境weblogic14c版本,测试JDK 1.8版本。\n首先会调用BadAttributeValueExpException.read...",
+          "link": "http://paper.seebug.org/1835/",
+          "publishedOn": "2022-02-21T07:58:00.000Z",
+          "wordCount": null,
+          "title": "Oracle WebLogic CVE-2022-21350 漏洞分析",
+          "imageUrl": null
+        },
+        {
+          "id": "http://paper.seebug.org/1833/",
+          "author": null,
+          "description": "译者：知道创宇404实验室翻译组\n原文链接：https://www.proofpoint.com/us/blog/threat-insight/charting-ta2541s-flight\n主要发现\n\nProofpoint研究人员多年来一直在追踪一个针对航空、航天、交通、制造业和国防工业的持续网络犯罪者。\n黑客者一贯使用远程访问木马(rat) ，可用于远程控制受到感染的机器。\n黑客关注了与...",
+          "link": "http://paper.seebug.org/1833/",
+          "publishedOn": "2022-02-16T01:43:00.000Z",
+          "wordCount": null,
+          "title": "黑客组织 TA2541 解析",
+          "imageUrl": null
+        },
+        {
           "id": "http://paper.seebug.org/1832/",
           "author": null,
           "description": "作者：su18\n本文为作者投稿，Seebug Paper 期待你的分享，凡经采用即有礼品相送！ 投稿邮箱：paper@seebug.org\n当一个 JDBC 连接 URL 可控时，能造成什么影响？相关的若干攻击方法已经被披露很长时间了，但是我还一直都没有学习，随着 HITB2021SIN 中的分享议题 \"Make JDBC Attacks Brilliant Again\" 的视频上传到了 Y...",
@@ -37094,6 +38023,16 @@
       "feedUrl": "https://www.sec-wiki.com/news/rss",
       "siteUrl": "http://www.sec-wiki.com/",
       "articles": [
+        {
+          "id": "http://www.sec-wiki.com/?2022-02-21",
+          "author": null,
+          "description": "SecWiki周刊（第416期)  by ourren\n漏洞可用性交流（VEX）介绍  by ourren\nPAM 2022 论文录用列表  by ourren\n更多最新文章，请访问SecWiki",
+          "link": "http://www.sec-wiki.com/?2022-02-21",
+          "publishedOn": "2022-02-21T15:58:20.000Z",
+          "wordCount": null,
+          "title": "SecWiki News 2022-02-21 Review",
+          "imageUrl": null
+        },
         {
           "id": "http://www.sec-wiki.com/?2022-02-20",
           "author": null,
