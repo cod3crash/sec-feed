@@ -6,6 +6,16 @@
       "siteUrl": "http://h1.nobbd.de/",
       "articles": [
         {
+          "id": "https://hackerone.com/reports/1443211",
+          "author": null,
+          "description": "Mattermost disclosed a bug submitted by odx09: https://hackerone.com/reports/1443211 - Bounty: $150",
+          "link": "https://hackerone.com/reports/1443211",
+          "publishedOn": "2022-02-26T08:20:49.000Z",
+          "wordCount": null,
+          "title": "Bypass Email Verification in Customer Portal",
+          "imageUrl": null
+        },
+        {
           "id": "https://hackerone.com/reports/1463028",
           "author": null,
           "description": "Lark Technologies disclosed a bug submitted by prateek_thakare: https://hackerone.com/reports/1463028 - Bounty: $550",
@@ -4242,6 +4252,36 @@
       "siteUrl": "https://medium.com/tag/bugbounty/latest?source=rss------bugbounty-5",
       "articles": [
         {
+          "id": "https://medium.com/p/bcc1c75827f6",
+          "author": "Mactress",
+          "description": "What is information gathering?\nContinue reading on Medium »",
+          "link": "https://mactress535.medium.com/kali-linux-top-5-tools-for-information-gathering-bcc1c75827f6?source=rss------bugbounty-5",
+          "publishedOn": "2022-02-26T09:48:31.000Z",
+          "wordCount": null,
+          "title": "Kali Linux: Top 5 tools for information gathering",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/898e8331b1a4",
+          "author": "Custer555",
+          "description": "Olá hacker, hoje vou contar sobre como encontrei meu primeiro bug (vulnerabilidade)em apenas 5 minutos\nContinue reading on Medium »",
+          "link": "https://medium.com/@viniciusreisofficial823/meu-primeiro-bug-em-apenas-5-minutos-898e8331b1a4?source=rss------bugbounty-5",
+          "publishedOn": "2022-02-26T05:36:14.000Z",
+          "wordCount": null,
+          "title": "Meu primeiro bug em apenas 5 minutos",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/321d83b93ec0",
+          "author": "Raymond Lind",
+          "description": "Hello fellow hackers, today I will discuss how I found a Server-Side Request Forgery (SSRF) which lead to a Local File Inclusion (LFI)…\nContinue reading on Medium »",
+          "link": "https://medium.com/@raymond-lind/ssrf-lfi-in-uploads-feature-321d83b93ec0?source=rss------bugbounty-5",
+          "publishedOn": "2022-02-26T03:20:40.000Z",
+          "wordCount": null,
+          "title": "SSRF & LFI In Uploads Feature",
+          "imageUrl": null
+        },
+        {
           "id": "https://medium.com/p/f7189fec246d",
           "author": "Anton Subbotin (skavans)",
           "description": "According to the 2020 H1 report:\nContinue reading on Medium »",
@@ -8353,6 +8393,16 @@
       "siteUrl": "https://medium.com/tag/redteam/latest?source=rss------redteam-5",
       "articles": [
         {
+          "id": "https://medium.com/p/c13aecbd4c5b",
+          "author": "Cedric Owens",
+          "description": "This blog post will dive into what I like to call “execution contexts” on macOS and why it is important to understand these different…\nContinue reading on Medium »",
+          "link": "https://cedowens.medium.com/give-me-some-macos-context-c13aecbd4c5b?source=rss------redteam-5",
+          "publishedOn": "2022-02-26T14:51:44.000Z",
+          "wordCount": null,
+          "title": "Give Me Some (macOS) Context…",
+          "imageUrl": null
+        },
+        {
           "id": "https://medium.com/p/ace78e618d11",
           "author": "Sahil Basia",
           "description": "My journey for CEH practical exam started when I applied for the scholarship sponsored by the EC-Council. The actual exam cost was 550$…\nContinue reading on Medium »",
@@ -10631,6 +10681,26 @@
       "siteUrl": "https://medium.com/tag/osint/latest?source=rss------osint-5",
       "articles": [
         {
+          "id": "https://medium.com/p/c55f05c054a",
+          "author": "Sofia Santos",
+          "description": "And how relying on information from the news can set you back.\nContinue reading on Medium »",
+          "link": "https://gralhix.medium.com/how-to-geolocate-a-twitter-video-using-free-osint-tools-c55f05c054a?source=rss------osint-5",
+          "publishedOn": "2022-02-26T17:21:50.000Z",
+          "wordCount": null,
+          "title": "How to geolocate a Twitter video using free OSINT tools",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/6d0c646605bc",
+          "author": "Aneesharokkiasamy",
+          "description": "Open Source\nContinue reading on Medium »",
+          "link": "https://medium.com/@aneesharokkiasamy/open-source-intelligence-osint-6d0c646605bc?source=rss------osint-5",
+          "publishedOn": "2022-02-26T15:07:10.000Z",
+          "wordCount": null,
+          "title": "Open Source Intelligence — OSINT",
+          "imageUrl": null
+        },
+        {
           "id": "https://medium.com/p/2f4d1c9d37d7",
           "author": "Jeffrey Mader",
           "description": "If you haven’t seen my introduction to this case, please take few minutes and check out Untangling the Razzlekahn Conspiracy: An OSINT…\nContinue reading on Medium »",
@@ -12600,6 +12670,26 @@
       "siteUrl": "https://medium.com/tag/xss/latest?source=rss------xss-5",
       "articles": [
         {
+          "id": "https://medium.com/p/13159f10dc94",
+          "author": "Martin Stoynov",
+          "description": "February’s XSS challenge is here! On the surface the challenge seems simple but it actually gives light upon two very interesting topics …\nContinue reading on Medium »",
+          "link": "https://stnv.medium.com/intigritis-february-xss-challenge-by-aszx87410-13159f10dc94?source=rss------xss-5",
+          "publishedOn": "2022-02-26T22:09:14.000Z",
+          "wordCount": null,
+          "title": "Intigriti’s February XSS challenge By aszx87410",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/f1582523a8f5",
+          "author": "ShonBer",
+          "description": "This article is about what you need to know about Cross-Site-Scripting(AKA. XSS).\nContinue reading on Medium »",
+          "link": "https://medium.com/@shonber16/from-zero-to-hero-xss-f1582523a8f5?source=rss------xss-5",
+          "publishedOn": "2022-02-26T18:43:32.000Z",
+          "wordCount": null,
+          "title": "From zero to hero – XSS",
+          "imageUrl": null
+        },
+        {
           "id": "https://medium.com/p/a0f8a88cd124",
           "author": "Frances (Jing) Du",
           "description": "Man in the middle attack\nContinue reading on Medium »",
@@ -14273,6 +14363,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=30479430",
+          "author": "Brajeshwar",
+          "description": "Article URL: https://blog.zulip.com/2022/02/25/zulip-cloud-invitation-vulnerability/\nComments URL: https://news.ycombinator.com/item?id=30479430\nPoints: 81\n# Comments: 29",
+          "link": "https://blog.zulip.com/2022/02/25/zulip-cloud-invitation-vulnerability/",
+          "publishedOn": "2022-02-26T17:07:37.000Z",
+          "wordCount": null,
+          "title": "Zulip Cloud security vulnerability with reusable invitation links",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=30473688",
           "author": "davikr",
           "description": "Article URL: https://man.fas.org/dod-101/sys/land/row/rusav.htm\nComments URL: https://news.ycombinator.com/item?id=30473688\nPoints: 52\n# Comments: 49",
@@ -15268,6 +15368,16 @@
       "siteUrl": "https://www.freebuf.com",
       "articles": [
         {
+          "id": "https://www.freebuf.com/news/323334.html",
+          "author": null,
+          "description": "美国网络安全基础设施和安全局（CISA） 在其已知利用漏洞目录中新增两个Zabbix 漏洞。",
+          "link": "https://www.freebuf.com/news/323334.html",
+          "publishedOn": "2022-02-25T10:01:00.000Z",
+          "wordCount": null,
+          "title": "CISA 已知被利用漏洞列表中，新增两个 Zabbix  漏洞",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.freebuf.com/articles/neopoints/323278.html",
           "author": null,
           "description": "《个保法》、《数据安全法》、log4爆发，最近一年来安全圈的频繁动作会给今年企业安全预算带来哪些影响？",
@@ -15285,6 +15395,26 @@
           "publishedOn": "2022-02-25T08:35:06.000Z",
           "wordCount": null,
           "title": "微软应用商店现“克隆”游戏，内涵恶意程序Electron Bot",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.freebuf.com/news/323260.html",
+          "author": null,
+          "description": "美国和英国发布警告称，一个已经确定有伊朗国家背景的黑客组织正在俄乌大战期间，针对全球目标开展数字攻击以及其他的恶意活动。",
+          "link": "https://www.freebuf.com/news/323260.html",
+          "publishedOn": "2022-02-25T08:03:04.000Z",
+          "wordCount": null,
+          "title": "俄乌战争期间，美国警告要注意“浑水”趁乱搞事情",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.freebuf.com/news/323266.html",
+          "author": null,
+          "description": "勒索软件Cuba正利用微软Exchange的漏洞进入企业网络并对设备进行加密。",
+          "link": "https://www.freebuf.com/news/323266.html",
+          "publishedOn": "2022-02-25T08:01:24.000Z",
+          "wordCount": null,
+          "title": "微软Exchange服务器被黑客攻击以部署Cuba勒索软件",
           "imageUrl": null
         },
         {
@@ -19655,7 +19785,7 @@
     {
       "title": "paper - Last paper",
       "feedUrl": "https://paper.seebug.org/rss/",
-      "siteUrl": "https://paper.seebug.org/",
+      "siteUrl": "http://paper.seebug.org/",
       "articles": [
         {
           "id": "https://paper.seebug.org/1840/",
@@ -20193,6 +20323,16 @@
       "feedUrl": "https://www.sec-wiki.com/news/rss",
       "siteUrl": "http://www.sec-wiki.com/",
       "articles": [
+        {
+          "id": "http://www.sec-wiki.com/?2022-02-26",
+          "author": null,
+          "description": "今日暂未更新资讯~\n更多最新文章，请访问SecWiki",
+          "link": "http://www.sec-wiki.com/?2022-02-26",
+          "publishedOn": "2022-02-26T15:58:20.000Z",
+          "wordCount": null,
+          "title": "SecWiki News 2022-02-26 Review",
+          "imageUrl": null
+        },
         {
           "id": "http://www.sec-wiki.com/?2022-02-25",
           "author": null,
@@ -20888,6 +21028,36 @@
       "feedUrl": "https://www.reddit.com/r/asknetsec/.rss",
       "siteUrl": "https://www.reddit.com/r/asknetsec/",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/t1rier/android_app_pentest/",
+          "author": null,
+          "description": "Just got into Android App pentest\n The app has a functionality to purchase courses So what can be the best way to bypass it\n Intercepting it through burp and try some manipulation as we do in Web apps\n Or some Reverse Engineering Stuff will work here ( Which I don't think makes sense )\n If anybody has any experience Pentesting apps with similar functionalities\n Your Help is appreciated!!\n    submitted by    /u/Chirag_Offsec22  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/t1rier/android_app_pentest/",
+          "publishedOn": "2022-02-26T07:47:02.000Z",
+          "wordCount": null,
+          "title": "Android App Pentest",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/t1ovq9/moving_into_cyber_security/",
+          "author": null,
+          "description": "Switching careers into security\n Hey everyone!\n So fairly new to the IT world, as title says I’m switching careers from being an executive chef for the past 16 years into cyber security. I’m starting a 6 month boot camp soon with GSU and afterwards I’ll get my sec+. I’ve been doing a lot of my own research by reading as much as I can, being active in a lot of different forums and have already put 50+ hours on tryhackme (which has been awesome) and putting a lot of work into my home network! The goal is to try and get into a SOC position or something similar and skip the help desk, I’m hoping some of the leadership, team building and communication skills i learned being a chef can help me land these roles. Is there anything I can be doing in the meantime to further help myself? How does this plan sound?\n Any advice is super helpful!!\n    submitted by    /u/Immediate-Ad-8996  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/t1ovq9/moving_into_cyber_security/",
+          "publishedOn": "2022-02-26T05:13:32.000Z",
+          "wordCount": null,
+          "title": "Moving Into cyber security!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/t1n3hy/im_getting_post_requests_from_china_a_ukrainian/",
+          "author": null,
+          "description": "TL;DR\n I'm getting POST requests from China, a Ukrainian data center, a TOR exit node, and others to my personal project server, I want to know more and don't know what to do.\n For some time now, I've been building a cryptocurrency trading bot, but I've left it aside for some time now, letting it collect data while I do other stuff. It will be there when I get back to it.\n Now that I am thinking of getting back to it, I decide to check in. So, I SSH into my home server, connect to the screen instance, and realize that I'm getting frequent (~1/min) POST requests from some IPs I don't recognize. Now, the only HTTP requests this app is supposed to make are GET requests to the exchange (Kraken) every 5 minutes, so something strange is going on here.\n In the console, I see multiple lines that l…",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/t1n3hy/im_getting_post_requests_from_china_a_ukrainian/",
+          "publishedOn": "2022-02-26T03:42:14.000Z",
+          "wordCount": null,
+          "title": "I'm getting POST requests from China, a Ukrainian data center, a TOR exit node, and others to my personal project server, any idea what is going on here?",
+          "imageUrl": null
+        },
         {
           "id": "https://www.reddit.com/r/AskNetsec/comments/t1aj0d/pentesting_suite_for_android_suggestions/",
           "author": null,
@@ -24704,6 +24874,16 @@
       "siteUrl": "https://www.reddit.com/r/redteamsec/",
       "articles": [
         {
+          "id": "https://www.reddit.com/r/redteamsec/comments/t1ssoz/alan_c2_framework_v60_alan_javascript/",
+          "author": null,
+          "description": "submitted by    /u/aparata_s4tan  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/redteamsec/comments/t1ssoz/alan_c2_framework_v60_alan_javascript/",
+          "publishedOn": "2022-02-26T09:09:11.000Z",
+          "wordCount": null,
+          "title": "Alan c2 Framework v6.0: Alan + JavaScript = ♡",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.reddit.com/r/redteamsec/comments/t1c13x/readteamtool_simple_and_secure_web_deployment_for/",
           "author": null,
           "description": "Simwigo is a cross-plateform tool, written in Go, that allows you to quickly deploy a secure web service (with a nice and neat display:)).\n It was created to replace the use of tools such as SimpleHTTPServer and http.server from python.\n It implements additional features allowing easy file exchange.\n It can be used for a pentest or a redteam, as well as for personal use.\n An API token authentication, a white list system, and the use of TLS (automatic deployment via Let's Encrypt) are integrated and increase the security of the service.\n Check out the latest release: https://github.com/8iche/simwigo/\n    submitted by    /u/B1che  \n [link]   [comments]",
@@ -27813,6 +27993,26 @@
       "siteUrl": "https://www.reddit.com/r/netsec/",
       "articles": [
         {
+          "id": "https://www.reddit.com/r/netsec/comments/t222v2/fuzzing_network_servers_with_desocketing/",
+          "author": null,
+          "description": "submitted by    /u/martinclauss  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/netsec/comments/t222v2/fuzzing_network_servers_with_desocketing/",
+          "publishedOn": "2022-02-26T17:19:04.000Z",
+          "wordCount": null,
+          "title": "Fuzzing Network Servers with De-Socketing",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/netsec/comments/t1kbgt/the_ransomware_files_podcast_in_2019_23_cities_in/",
+          "author": null,
+          "description": "submitted by    /u/ferrochron1  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/netsec/comments/t1kbgt/the_ransomware_files_podcast_in_2019_23_cities_in/",
+          "publishedOn": "2022-02-26T01:29:52.000Z",
+          "wordCount": null,
+          "title": "The Ransomware Files podcast: In 2019, 23 cities in Texas were infected with the REvil ransomware in a huge attack. The cities recovered quickly but a MSP, whose ScreenConnect software was exploited, was irreparably damaged. It's a heartbreaking story that reveals the human cost of ransomware.",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.reddit.com/r/netsec/comments/t1eq5y/how_to_decrypt_the_files_encrypted_by_the_hive/",
           "author": null,
           "description": "submitted by    /u/CyberMasterV  \n [link]   [comments]",
@@ -27910,6 +28110,16 @@
           "publishedOn": "2022-02-23T22:22:35.000Z",
           "wordCount": null,
           "title": "Automating bug bounties",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/netsec/comments/szlt6m/the_vulnerability_research_team_gitlab_is/",
+          "author": null,
+          "description": "submitted by    /u/howie1001  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/netsec/comments/szlt6m/the_vulnerability_research_team_gitlab_is/",
+          "publishedOn": "2022-02-23T16:42:45.000Z",
+          "wordCount": null,
+          "title": "The vulnerability research team @GitLab is introducing an open-source community-driven advisory database for third-party security dependencies",
           "imageUrl": null
         },
         {
@@ -30600,6 +30810,46 @@
       "feedUrl": "https://www.reddit.com/r/opendirectories/.rss",
       "siteUrl": "https://www.reddit.com/r/opendirectories/",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/opendirectories/comments/t2c2kn/movies_shows_and_more/",
+          "author": null,
+          "description": "http://51.77.66.14/\n some good NSFW stuff in sarasa folder\n    submitted by    /u/LucasImages  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/opendirectories/comments/t2c2kn/movies_shows_and_more/",
+          "publishedOn": "2022-02-27T01:04:50.000Z",
+          "wordCount": null,
+          "title": "Movies, shows and 'more'",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/opendirectories/comments/t1ye2x/wget_security_questions/",
+          "author": null,
+          "description": "Is there any security concerns with using wget? Is there anything I should be aware of to stay relatively safe?\n    submitted by    /u/fenriswolf_411  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/opendirectories/comments/t1ye2x/wget_security_questions/",
+          "publishedOn": "2022-02-26T14:32:02.000Z",
+          "wordCount": null,
+          "title": "Wget security questions",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/opendirectories/comments/t1otdj/this_sub_is_being_mentioned_on_ukraine_related/",
+          "author": null,
+          "description": "There are talks requesting that videos, images, etc be archived from r/Ukraine just in case information starts disappearing. Not sure if you guys do that sort of thing but having seen this sub mentioned I figured Id bring it up here.\n    submitted by    /u/Tripartist1  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/opendirectories/comments/t1otdj/this_sub_is_being_mentioned_on_ukraine_related/",
+          "publishedOn": "2022-02-26T05:10:05.000Z",
+          "wordCount": null,
+          "title": "This sub is being mentioned on Ukraine related subs.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/opendirectories/comments/t1oqbm/the_official_steamos_repo_including_isos_of/",
+          "author": null,
+          "description": "submitted by    /u/wertercatt  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/opendirectories/comments/t1oqbm/the_official_steamos_repo_including_isos_of/",
+          "publishedOn": "2022-02-26T05:05:41.000Z",
+          "wordCount": null,
+          "title": "The official SteamOS repo, including ISOs of internal versions.",
+          "imageUrl": null
+        },
         {
           "id": "https://www.reddit.com/r/opendirectories/comments/t0kxcx/odscalibre_servers_from_russia/",
           "author": null,
@@ -33674,15 +33924,6 @@
           "publishedOn": "2021-03-05T15:07:00.000Z",
           "wordCount": 4756,
           "title": "Web application cartography: mapping out Burp Suite’s crawler"
-        },
-        {
-          "id": "7-burp-suite-professional-exclusive-features-to-help-you-test-smarter",
-          "author": null,
-          "description": "Welcome to the Pro user community So, you've downloaded Burp Suite Professional. What now? It's a big piece of software, and there's a lot of functionality you're probably not aware of - even if you'v",
-          "link": "https://portswigger.net/blog/7-burp-suite-professional-exclusive-features-to-help-you-test-smarter",
-          "publishedOn": "2021-02-26T15:25:00.000Z",
-          "wordCount": 1951,
-          "title": "<span>7 Burp Suite Professional-exclusive features to help you test smarter</span>"
         }
       ]
     },
@@ -34286,6 +34527,17 @@
       "feedUrl": "http://feeds.feedburner.com/Unit42",
       "siteUrl": "https://unit42.paloaltonetworks.com",
       "articles": [
+        {
+          "id": "https://unit42.paloaltonetworks.com/?p=122070",
+          "author": "Unit 42",
+          "description": "An attack in early February targeted an energy organization in Ukraine with OutSteel and SaintBot. The attack is part of a larger campaign.\nThe post Spear Phishing Attacks Target Organizations in Ukraine, Payloads Include the Document Stealer OutSteel and the Downloader SaintBot appeared first on Unit42.",
+          "link": "https://unit42.paloaltonetworks.com/ukraine-targeted-outsteel-saintbot/",
+          "publishedOn": "2022-02-26T01:30:12.000Z",
+          "wordCount": null,
+          "title": "Spear Phishing Attacks Target Organizations in Ukraine, Payloads Include the Document Stealer OutSteel and the Downloader SaintBot",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "https://unit42.paloaltonetworks.com/?p=122009",
           "author": "Unit 42",
@@ -36946,6 +37198,16 @@
       "siteUrl": "https://infosecwriteups.com?source=rss----7b722bfd1b8d---4",
       "articles": [
         {
+          "id": "https://medium.com/p/e640c76e497b",
+          "author": "InfoSec Write-ups",
+          "description": "",
+          "link": "https://infosecwriteups.com/less-than-24-hours-left-for-infosec-writeups-virtual-cybersecurity-conference-e640c76e497b?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2022-02-25T17:10:21.000Z",
+          "wordCount": null,
+          "title": "Less than 24 Hours Left For Infosec Writeups Virtual Cybersecurity Conference",
+          "imageUrl": null
+        },
+        {
           "id": "https://medium.com/p/4d60edf0b945",
           "author": "Pencer",
           "description": "",
@@ -38612,8 +38874,18 @@
     {
       "title": "paper - Last paper",
       "feedUrl": "https://paper.seebug.org/rss/",
-      "siteUrl": "http://paper.seebug.org/",
+      "siteUrl": "https://paper.seebug.org/",
       "articles": [
+        {
+          "id": "https://paper.seebug.org/1840/",
+          "author": null,
+          "description": "作者：IOTsec-Zone\n原文链接：https://mp.weixin.qq.com/s/SWFLV6H1zKWQyvnC0JGGhg\n0x00 描述\n\n测试环境：Ubuntu 18.04\n固件版本：wr740nv1_en_3_12_4_up(100910).bin\n产品厂商：TP-Link\n厂商地址：https://www.tp-link.com.cn/\nZoomEye搜索app：TP...",
+          "link": "https://paper.seebug.org/1840/",
+          "publishedOn": "2022-02-24T09:31:00.000Z",
+          "wordCount": null,
+          "title": "路由器 TP-Link WR740 后门漏洞",
+          "imageUrl": null
+        },
         {
           "id": "http://paper.seebug.org/1840/",
           "author": null,
@@ -38622,6 +38894,16 @@
           "publishedOn": "2022-02-24T09:31:00.000Z",
           "wordCount": null,
           "title": "路由器 TP-Link WR740 后门漏洞",
+          "imageUrl": null
+        },
+        {
+          "id": "https://paper.seebug.org/1839/",
+          "author": null,
+          "description": "作者：SummerSec\n本文为作者投稿，Seebug Paper 期待你的分享，凡经采用即有礼品相送！ 投稿邮箱：paper@seebug.org\nJDK内置\n上文说到，在JDK8u中查到了结果，一共又7个类可以替代ComparableComparator类。但可以直接调用实例化的类只用两个，String#CASE_INSENSITIVE_ORDER和AttrCompare，其他5个类权限...",
+          "link": "https://paper.seebug.org/1839/",
+          "publishedOn": "2022-02-24T09:10:00.000Z",
+          "wordCount": null,
+          "title": "CodeQL 与 Shiro550 碰撞",
           "imageUrl": null
         },
         {
@@ -38635,6 +38917,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://paper.seebug.org/1837/",
+          "author": null,
+          "description": "译者：知道创宇404实验室翻译组\n原文链接：https://thedfirreport.com/2022/02/21/qbot-and-zerologon-lead-to-full-domain-compromise/\n在这次入侵中(从2021年11月开始) ，一个黑客通过使用Qbot(又名 Quakbot/Qakbot)恶意软件在环境中获得了最初的立足点。\n在 Qbot 有效载荷执行后不久...",
+          "link": "https://paper.seebug.org/1837/",
+          "publishedOn": "2022-02-23T09:27:00.000Z",
+          "wordCount": null,
+          "title": "黑客利用 Qbot 和 Zerologon  漏洞导致整个域感染",
+          "imageUrl": null
+        },
+        {
           "id": "http://paper.seebug.org/1837/",
           "author": null,
           "description": "译者：知道创宇404实验室翻译组\n原文链接：https://thedfirreport.com/2022/02/21/qbot-and-zerologon-lead-to-full-domain-compromise/\n在这次入侵中(从2021年11月开始) ，一个黑客通过使用Qbot(又名 Quakbot/Qakbot)恶意软件在环境中获得了最初的立足点。\n在 Qbot 有效载荷执行后不久...",
@@ -38642,6 +38934,16 @@
           "publishedOn": "2022-02-23T09:27:00.000Z",
           "wordCount": null,
           "title": "黑客利用 Qbot 和 Zerologon  漏洞导致整个域感染",
+          "imageUrl": null
+        },
+        {
+          "id": "https://paper.seebug.org/1838/",
+          "author": null,
+          "description": "作者：灰豆\n本文为作者投稿，Seebug Paper 期待你的分享，凡经采用即有礼品相送！ 投稿邮箱：paper@seebug.org\n   \n介绍\nsubstring、getDate、catch 等是常用的 JavaScript API，接下来的几篇文章将对 V8 中 API 的设计思想、源码和关键函数进行讲解，并通过例子讲解 JavaScript 在 V8 中的初始化、运行方式，以及它与...",
+          "link": "https://paper.seebug.org/1838/",
+          "publishedOn": "2022-02-23T06:28:00.000Z",
+          "wordCount": null,
+          "title": "《Chrome V8 源码》—— \"Equal\" 与 \"StrictEqual\" 为什么不同",
           "imageUrl": null
         },
         {
@@ -38655,6 +38957,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://paper.seebug.org/1834/",
+          "author": null,
+          "description": "译者：知道创宇404实验室翻译组\n原文链接：https://www.sentinelone.com/labs/log4j2-in-the-wild-iranian-aligned-threat-actor-tunnelvision-actively-exploiting-vmware-horizon/\n摘要\n\nSentinelLabs 一直在追踪一个与伊朗结盟的攻击者，他们在中东和美国活动。...",
+          "link": "https://paper.seebug.org/1834/",
+          "publishedOn": "2022-02-22T05:50:00.000Z",
+          "wordCount": null,
+          "title": "伊朗结盟黑客 TunnelVision 积极利用 VMware Horizon 中的 Log4j2 漏洞",
+          "imageUrl": null
+        },
+        {
           "id": "http://paper.seebug.org/1834/",
           "author": null,
           "description": "译者：知道创宇404实验室翻译组\n原文链接：https://www.sentinelone.com/labs/log4j2-in-the-wild-iranian-aligned-threat-actor-tunnelvision-actively-exploiting-vmware-horizon/\n摘要\n\nSentinelLabs 一直在追踪一个与伊朗结盟的攻击者，他们在中东和美国活动。...",
@@ -38662,6 +38974,16 @@
           "publishedOn": "2022-02-22T05:50:00.000Z",
           "wordCount": null,
           "title": "伊朗结盟黑客 TunnelVision 积极利用 VMware Horizon 中的 Log4j2 漏洞",
+          "imageUrl": null
+        },
+        {
+          "id": "https://paper.seebug.org/1836/",
+          "author": null,
+          "description": "作者：ryze@nop\n本文为作者投稿，Seebug Paper 期待你的分享，凡经采用即有礼品相送！ 投稿邮箱：paper@seebug.org\n0x00 前言\n起因是在某红队项目中，获取到Oracle数据库密码后，利用Github上的某数据库利用工具连接后，利用时执行如 tasklist /svc 、net user 等命令时出现 ORA-24345: 出现截断或空读取错误，且文件管理功...",
+          "link": "https://paper.seebug.org/1836/",
+          "publishedOn": "2022-02-21T08:07:00.000Z",
+          "wordCount": null,
+          "title": "数据库连接利用工具--Sylas",
           "imageUrl": null
         },
         {
@@ -38675,6 +38997,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://paper.seebug.org/1835/",
+          "author": null,
+          "description": "作者：墨云科技 VLab Team\n原文链接：https://mp.weixin.qq.com/s/fFx1kQVfotbOqHlSjSJVMQ\n漏洞简述\n这是一个反序列化漏洞,是一条新的gadget,在低版本的JDK中可能会造成RCE风险。\n漏洞分析\n测试环境weblogic14c版本,测试JDK 1.8版本。\n首先会调用BadAttributeValueExpException.read...",
+          "link": "https://paper.seebug.org/1835/",
+          "publishedOn": "2022-02-21T07:58:00.000Z",
+          "wordCount": null,
+          "title": "Oracle WebLogic CVE-2022-21350 漏洞分析",
+          "imageUrl": null
+        },
+        {
           "id": "http://paper.seebug.org/1835/",
           "author": null,
           "description": "作者：墨云科技 VLab Team\n原文链接：https://mp.weixin.qq.com/s/fFx1kQVfotbOqHlSjSJVMQ\n漏洞简述\n这是一个反序列化漏洞,是一条新的gadget,在低版本的JDK中可能会造成RCE风险。\n漏洞分析\n测试环境weblogic14c版本,测试JDK 1.8版本。\n首先会调用BadAttributeValueExpException.read...",
@@ -38682,6 +39014,16 @@
           "publishedOn": "2022-02-21T07:58:00.000Z",
           "wordCount": null,
           "title": "Oracle WebLogic CVE-2022-21350 漏洞分析",
+          "imageUrl": null
+        },
+        {
+          "id": "https://paper.seebug.org/1833/",
+          "author": null,
+          "description": "译者：知道创宇404实验室翻译组\n原文链接：https://www.proofpoint.com/us/blog/threat-insight/charting-ta2541s-flight\n主要发现\n\nProofpoint研究人员多年来一直在追踪一个针对航空、航天、交通、制造业和国防工业的持续网络犯罪者。\n黑客者一贯使用远程访问木马(rat) ，可用于远程控制受到感染的机器。\n黑客关注了与...",
+          "link": "https://paper.seebug.org/1833/",
+          "publishedOn": "2022-02-16T01:43:00.000Z",
+          "wordCount": null,
+          "title": "黑客组织 TA2541 解析",
           "imageUrl": null
         },
         {
@@ -38695,6 +39037,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://paper.seebug.org/1832/",
+          "author": null,
+          "description": "作者：su18\n本文为作者投稿，Seebug Paper 期待你的分享，凡经采用即有礼品相送！ 投稿邮箱：paper@seebug.org\n当一个 JDBC 连接 URL 可控时，能造成什么影响？相关的若干攻击方法已经被披露很长时间了，但是我还一直都没有学习，随着 HITB2021SIN 中的分享议题 \"Make JDBC Attacks Brilliant Again\" 的视频上传到了 Y...",
+          "link": "https://paper.seebug.org/1832/",
+          "publishedOn": "2022-02-15T09:10:00.000Z",
+          "wordCount": null,
+          "title": "JDBC Connection URL 攻击",
+          "imageUrl": null
+        },
+        {
           "id": "http://paper.seebug.org/1832/",
           "author": null,
           "description": "作者：su18\n本文为作者投稿，Seebug Paper 期待你的分享，凡经采用即有礼品相送！ 投稿邮箱：paper@seebug.org\n当一个 JDBC 连接 URL 可控时，能造成什么影响？相关的若干攻击方法已经被披露很长时间了，但是我还一直都没有学习，随着 HITB2021SIN 中的分享议题 \"Make JDBC Attacks Brilliant Again\" 的视频上传到了 Y...",
@@ -38702,6 +39054,16 @@
           "publishedOn": "2022-02-15T09:10:00.000Z",
           "wordCount": null,
           "title": "JDBC Connection URL 攻击",
+          "imageUrl": null
+        },
+        {
+          "id": "https://paper.seebug.org/1831/",
+          "author": null,
+          "description": "译者：知道创宇404实验室翻译组\n原文链接：https://threatresearch.ext.hp.com/redline-stealer-disguised-as-a-windows-11-upgrade/\n黑客总是在寻找热门诱饵，以诱骗受害者进入感染系统。我们最近分析了一个这样的诱饵，即一个伪造的 Windows 11安装程序。2022年1月27日，也就是 Windows 11升级最...",
+          "link": "https://paper.seebug.org/1831/",
+          "publishedOn": "2022-02-15T08:46:00.000Z",
+          "wordCount": null,
+          "title": "RedLine Stealer 伪装成 Windows 11 更新程序，窃取用户信息",
           "imageUrl": null
         },
         {
@@ -38715,6 +39077,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://paper.seebug.org/1830/",
+          "author": null,
+          "description": "译者：知道创宇404实验室翻译组\n原文链接：https://assets.sentinelone.com/sentinellabs-apt/modified-elephant-apt\n摘要\n\n\n我们的研究将这十年的活动迹象归因于一种我们称之为ModifiedElephant的黑客组织。 \n\n\nModifiedElephant对印度各地的人权活动家、人权捍卫者、学者和律师进行有针对性的攻击，目...",
+          "link": "https://paper.seebug.org/1830/",
+          "publishedOn": "2022-02-14T02:53:00.000Z",
+          "wordCount": null,
+          "title": "ModifiedElephant：十年潜伏，印度黑客组织浮出水面",
+          "imageUrl": null
+        },
+        {
           "id": "http://paper.seebug.org/1830/",
           "author": null,
           "description": "译者：知道创宇404实验室翻译组\n原文链接：https://assets.sentinelone.com/sentinellabs-apt/modified-elephant-apt\n摘要\n\n\n我们的研究将这十年的活动迹象归因于一种我们称之为ModifiedElephant的黑客组织。 \n\n\nModifiedElephant对印度各地的人权活动家、人权捍卫者、学者和律师进行有针对性的攻击，目...",
@@ -38722,6 +39094,16 @@
           "publishedOn": "2022-02-14T02:53:00.000Z",
           "wordCount": null,
           "title": "ModifiedElephant：十年潜伏，印度黑客组织浮出水面",
+          "imageUrl": null
+        },
+        {
+          "id": "https://paper.seebug.org/1829/",
+          "author": null,
+          "description": "译者：知道创宇404实验室翻译组\n原文链接：https://intel471.com/blog/privateloader-malware\n长久以来，安装付费(PPI)恶意软件服务已经成为网络犯罪生态系统不可分割的一部分。恶意软件运营者提供支付、恶意有效载荷和目标信息，负责运行服务的人把分发和传播部分外包出去。可访问性和合适的成本使得恶意软件运营商可以利用这些服务作为一种武器，用于快速、批量...",
+          "link": "https://paper.seebug.org/1829/",
+          "publishedOn": "2022-02-09T08:03:00.000Z",
+          "wordCount": null,
+          "title": "PrivateLoader: 众多恶意软件方案的第一步",
           "imageUrl": null
         },
         {
@@ -38735,6 +39117,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://paper.seebug.org/1828/",
+          "author": null,
+          "description": "作者：Victory@慢雾安全团队\n原文链接：https://mp.weixin.qq.com/s/UECwAt_p8rXn-3kZ4kC2VQ  \n据慢雾区情报，2022 年 1 月 28 日 The Sandbox 官方发布一则 LAND 智能合约迁移的公告，但是在公告中没有说明合约具体是出了什么问题，慢雾安全团队现将简要分析结果分享如下。\n项目背景\nThe Sandbox 是一个虚拟世...",
+          "link": "https://paper.seebug.org/1828/",
+          "publishedOn": "2022-02-09T06:37:00.000Z",
+          "wordCount": null,
+          "title": "重建世界：The Sandbox 任意燃烧漏洞回顾",
+          "imageUrl": null
+        },
+        {
           "id": "http://paper.seebug.org/1828/",
           "author": null,
           "description": "作者：Victory@慢雾安全团队\n原文链接：https://mp.weixin.qq.com/s/UECwAt_p8rXn-3kZ4kC2VQ  \n据慢雾区情报，2022 年 1 月 28 日 The Sandbox 官方发布一则 LAND 智能合约迁移的公告，但是在公告中没有说明合约具体是出了什么问题，慢雾安全团队现将简要分析结果分享如下。\n项目背景\nThe Sandbox 是一个虚拟世...",
@@ -38745,6 +39137,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://paper.seebug.org/1827/",
+          "author": null,
+          "description": "译者：知道创宇404实验室翻译组\n原文链接：https://securelist.com/roaming-mantis-reaches-europe/105596/\n\n漫游螳螂(Roaming Mantis)是一种恶意攻击，目标是 Android 设备，通过钓鱼短信散播移动恶意软件。自2018年以来，我们一直在追踪漫游螳螂，并发表了五篇关于这项活动的博客文章:\n\n漫游螳螂使用 DNS 劫持感...",
+          "link": "https://paper.seebug.org/1827/",
+          "publishedOn": "2022-02-08T09:17:00.000Z",
+          "wordCount": null,
+          "title": "漫游螳螂恶意软件危及欧洲",
+          "imageUrl": null
+        },
+        {
           "id": "http://paper.seebug.org/1827/",
           "author": null,
           "description": "译者：知道创宇404实验室翻译组\n原文链接：https://securelist.com/roaming-mantis-reaches-europe/105596/\n\n漫游螳螂(Roaming Mantis)是一种恶意攻击，目标是 Android 设备，通过钓鱼短信散播移动恶意软件。自2018年以来，我们一直在追踪漫游螳螂，并发表了五篇关于这项活动的博客文章:\n\n漫游螳螂使用 DNS 劫持感...",
@@ -38752,6 +39154,16 @@
           "publishedOn": "2022-02-08T09:17:00.000Z",
           "wordCount": null,
           "title": "漫游螳螂恶意软件危及欧洲",
+          "imageUrl": null
+        },
+        {
+          "id": "https://paper.seebug.org/1818/",
+          "author": null,
+          "description": "译者:知道创宇404实验室翻译组\n原作者：Jungwon Lim, Yonghwi Jin†, Mansour Alharthi, Xiaokuan Zhang, Jinho Jung, Rajat Gupta, Kuilin Li, Daehee Jang‡, Taesoo Kim\n摘要 \nWeb浏览器是每个人日常生活中不可或缺的一部分。它们经常用于注重安全性和隐私敏感的事情，银行交易和检...",
+          "link": "https://paper.seebug.org/1818/",
+          "publishedOn": "2022-02-08T07:01:00.000Z",
+          "wordCount": null,
+          "title": "SoK: 浏览器安全分析",
           "imageUrl": null
         },
         {
@@ -39354,6 +39766,16 @@
       "siteUrl": "https://nosec.org/home/index/hole.html",
       "articles": [
         {
+          "id": "https://nosec.org/home/detail/4969.html",
+          "author": "AnM1ng",
+          "description": "近日，Github上曝光了Clash For Windows开源代理工具的远程代码执行漏洞。据了解该漏洞利用细节及漏洞利用代码已在网络上公开，其可能已被在野利用。",
+          "link": "https://nosec.org/home/detail/4969.html",
+          "publishedOn": "2022-02-25T18:56:43.000Z",
+          "wordCount": null,
+          "title": "【安全通报】Clash For Windows 远程代码执行漏洞",
+          "imageUrl": null
+        },
+        {
           "id": "https://nosec.org/home/detail/4959.html",
           "author": "fmbd",
           "description": "近日，网络上出现 Linux 下 Polkit 工具集的本地权限提升漏洞，任何非特权本地用户可通过此漏洞获取root权...",
@@ -39486,6 +39908,16 @@
       "feedUrl": "https://www.hackingarticles.in/feed/",
       "siteUrl": "https://www.hackingarticles.in",
       "articles": [
+        {
+          "id": "https://www.hackingarticles.in/?p=27799",
+          "author": "Raj Chandel",
+          "description": "Introduction Will Schroeder and Lee Christensen wrote a research paper on this technique which can be referred to here. In ESC8 technique mentioned in the research\nThe post Domain Escalation: PetitPotam NTLM Relay to ADCS Endpoints appeared first on Hacking Articles.",
+          "link": "https://www.hackingarticles.in/domain-escalation-petitpotam-ntlm-relay-to-adcs-endpoints/",
+          "publishedOn": "2022-02-25T17:05:52.000Z",
+          "wordCount": null,
+          "title": "Domain Escalation: PetitPotam NTLM Relay to ADCS Endpoints",
+          "imageUrl": null
+        },
         {
           "id": "https://www.hackingarticles.in/?p=27789",
           "author": "Raj Chandel",
@@ -39793,6 +40225,16 @@
       "feedUrl": "https://www.sec-wiki.com/news/rss",
       "siteUrl": "http://www.sec-wiki.com/",
       "articles": [
+        {
+          "id": "http://www.sec-wiki.com/?2022-02-25",
+          "author": null,
+          "description": "SecCrawler: 每日安全日报的爬虫和推送程序  by ourren\ncheatsheet: 信安技术羊皮卷  by ourren\n代码分析与自动化重构  by ourren\n企业级安全智能化实践指南  by ourren\n针对Cookie同意和 GDPR 违规的自动化检测工具  by ourren\nCodeQL 与 Shiro550 碰撞  by ourren\n路由器TP-Link WR740后门漏洞  by ourren\nParallels Desktop虚拟机逃逸   by ourren\nk8s安全入门  by ourren\n更多最新文章，请访问SecWiki",
+          "link": "http://www.sec-wiki.com/?2022-02-25",
+          "publishedOn": "2022-02-25T15:58:20.000Z",
+          "wordCount": null,
+          "title": "SecWiki News 2022-02-25 Review",
+          "imageUrl": null
+        },
         {
           "id": "http://www.sec-wiki.com/?2022-02-24",
           "author": null,
