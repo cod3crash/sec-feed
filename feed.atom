@@ -2,10 +2,283 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cod3crash.github.io/sec-feed/index.html</id>
     <title>security feed</title>
-    <updated>2022-02-27T01:16:16.841Z</updated>
+    <updated>2022-02-28T01:15:22.783Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://cod3crash.github.io/sec-feed/index.html"/>
     <link rel="self" href="https://cod3crash.github.io/sec-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Fotoğraflardaki metin nasıl kopyalanır?]]></title>
+        <id>https://medium.com/p/63663e9e80e3</id>
+        <link href="https://medium.com/@ghassemiN/foto%C4%9Fraflardaki-metin-nas%C4%B1l-kopyalan%C4%B1r-63663e9e80e3?source=rss------osint-5"/>
+        <updated>2022-02-27T23:23:20.000Z</updated>
+        <summary type="html"><![CDATA[Açık kaynak istihbaratı’te kullanılan teknikler
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Nasrin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Large Amount of IPs coming from Europe]]></title>
+        <id>https://www.reddit.com/r/AskNetsec/comments/t2ybop/large_amount_of_ips_coming_from_europe/</id>
+        <link href="https://www.reddit.com/r/AskNetsec/comments/t2ybop/large_amount_of_ips_coming_from_europe/"/>
+        <updated>2022-02-27T21:28:31.000Z</updated>
+        <summary type="html"><![CDATA[Hi, 
+ Little background info first. I'm a beginner Networking & Security student so I'm not that unfamiliar with stuff, I don't have anything hosted other than a VPN, and I'm using a consumer grade router that's not capable of VLANs, and other good stuff.
+ I may be just a little paranoid but I've been noticing a lot of blocked IP requests from Russia in the security log for my router. Almost 50% of what I found in the log for February 27 is from over there. One of the IPs I found had 32 hits, another had just 9. Coming in second is the US, then there's Switzerland, Germany, Lithuania. From just the couple foreign IPs that I looked up using https://www.abuseipdb.com/, all of them were flagged for high confidence of abuse.
+ I don't have anything against those countries but I was wondering what all that's going on if I should be more concerned than usual. I'd just like my computer and data to remain in once piece.
+ Not sure if I should be saying anything else about my setup on a public post here but could appreciate some advice. Only tech guy in my family so can't ask anyone else.
+ I'm considering just disabling the VPN so I don't have any more open ports, and using iCloud Private Relay or something else when I'm out. 
+ I'm aware of Pfsense, and I was considering it, but I just don't want to spend $$$ with inflation, chip shortages, and who knows what else.
+ Anyway thanks in advance.
+    submitted by    /u/Expensive-Exit6398  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>AskNetsec</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Qualsys Vulnerability Detection Pipeline]]></title>
+        <id>https://news.ycombinator.com/item?id=30492601</id>
+        <link href="https://qualys-secure.force.com/discussions/s/"/>
+        <updated>2022-02-27T21:17:03.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://qualys-secure.force.com/discussions/s/
+Comments URL: https://news.ycombinator.com/item?id=30492601
+Points: 2
+# Comments: 0]]></summary>
+        <author>
+            <name>opensores</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Various governments open directories]]></title>
+        <id>https://www.reddit.com/r/opendirectories/comments/t2xqbx/various_governments_open_directories/</id>
+        <link href="https://www.reddit.com/r/opendirectories/comments/t2xqbx/various_governments_open_directories/"/>
+        <updated>2022-02-27T21:01:03.000Z</updated>
+        <summary type="html"><![CDATA[https://www.mendoza.gov.ar/wp-content/uploads/
+ https://www.mrt.tas.gov.au/mrtdoc/
+ https://hret.gov.ph/admin.hret.gov.ph/
+ https://tuguegaraocity.gov.ph/public/
+ https://tuguegaraocity.gov.ph/admin/ (sometimes throws a PHP error for some reason)
+ https://web.yme.gov.gr/data/
+ https://geoftp.ibge.gov.br/
+ http://www.pmf.sc.gov.br/arquivos/arquivos/
+ http://maps.six.nsw.gov.au/csv/
+ http://globe.six.nsw.gov.au/csv/
+ https://irs.os.gov.ng/wp-content/uploads/
+ https://online.agriculture.gov.au/static/department/
+ http://itaperuna.rj.gov.br/planoDiretorArquivos/
+ https://www.czj.sh.gov.cn/zss/
+ http://www.mto.gov.on.ca/documents/
+ https://tnlandsurvey.tn.gov.in/assets2/correlation/ (/assets2/ returns 403, /assets/ returns phpinfo())
+ https://info.saude.df.gov.br/wp-content/uploads/
+ http://www…]]></summary>
+        <author>
+            <name>Open Directories</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Attacking IBM MQ — SWIFT to Steal Money$$$]]></title>
+        <id>https://medium.com/p/fa89e5f3e855</id>
+        <link href="https://0xy37.medium.com/attacking-ibm-mq-swift-to-steal-money-fa89e5f3e855?source=rss------bugbounty-5"/>
+        <updated>2022-02-27T18:11:22.000Z</updated>
+        <summary type="html"><![CDATA[What is IBM MQ?
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Yara AlHumaidan (0xy37)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Attacking IBM MQ — SWIFT to Steal Money$$$]]></title>
+        <id>https://medium.com/p/fa89e5f3e855</id>
+        <link href="https://0xy37.medium.com/attacking-ibm-mq-swift-to-steal-money-fa89e5f3e855?source=rss------redteam-5"/>
+        <updated>2022-02-27T18:11:22.000Z</updated>
+        <summary type="html"><![CDATA[What is IBM MQ?
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Yara AlHumaidan (0xy37)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I hate Marinas, It’s too Crowded —OSINT Challenge 21 and 22]]></title>
+        <id>https://medium.com/p/597843374cc2</id>
+        <link href="https://medium.com/@leventd/i-hate-marinas-its-too-crowded-osint-challenge-21-and-22-597843374cc2?source=rss------osint-5"/>
+        <updated>2022-02-27T16:48:44.000Z</updated>
+        <summary type="html"><![CDATA[While I was reading some Medium blogs, I came across @Sofia Santos’s blogs (this writeup specifically: Walkthrough — Hacktoria…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Levent Durdalı</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[We Put A C2 In Your Notetaking App: OffensiveNotion]]></title>
+        <id>https://medium.com/p/3e933bace332</id>
+        <link href="https://medium.com/@huskyhacks.mk/we-put-a-c2-in-your-notetaking-app-offensivenotion-3e933bace332?source=rss------redteam-5"/>
+        <updated>2022-02-27T16:37:04.000Z</updated>
+        <summary type="html"><![CDATA[A Red Teaming Science Fair Project
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>HuskyHacks</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SecWiki News 2022-02-27 Review]]></title>
+        <id>http://www.sec-wiki.com/?2022-02-27</id>
+        <link href="http://www.sec-wiki.com/?2022-02-27"/>
+        <updated>2022-02-27T15:58:20.000Z</updated>
+        <summary type="html"><![CDATA[自定义AWVS的Docker镜像  by sinver
+更多最新文章，请访问SecWiki]]></summary>
+        <author>
+            <name>SecWiki News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gölgene dikkat et: fotoğraftaki gölgelerden fotoğrafın ne zaman çekildiğini nasıl anlarız?]]></title>
+        <id>https://medium.com/p/78f2a621fa69</id>
+        <link href="https://medium.com/@ghassemiN/g%C3%B6lgene-dikkat-et-78f2a621fa69?source=rss------osint-5"/>
+        <updated>2022-02-27T15:53:01.000Z</updated>
+        <summary type="html"><![CDATA[Açık kaynak istihbaratı’te kullanılan teknikler
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Nasrin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How does cross-browser checking work?]]></title>
+        <id>https://www.reddit.com/r/AskNetsec/comments/t2pe13/how_does_crossbrowser_checking_work/</id>
+        <link href="https://www.reddit.com/r/AskNetsec/comments/t2pe13/how_does_crossbrowser_checking_work/"/>
+        <updated>2022-02-27T14:29:28.000Z</updated>
+        <summary type="html"><![CDATA[I am not familiar with technology. But this kinda freaked me out.
+ https://fingerprintjs.com/blog/external-protocol-flooding/
+ Following the article, I went ahead and did this test, https://schemeflood.com/
+ I recently installed fedora on my desktop but it showed all the apps I installed on window previously. (it's not a dual boot) Did I mess something up when installing? or is it a vulnerability?
+    submitted by    /u/manho1e  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>AskNetsec</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[All about Account Takeover]]></title>
+        <id>https://medium.com/p/825d8fcf2d57</id>
+        <link href="https://infosecwriteups.com/all-about-account-takeover-825d8fcf2d57?source=rss------bugbounty-5"/>
+        <updated>2022-02-27T11:43:06.000Z</updated>
+        <summary type="html"><![CDATA[Account Takeover Methods
+Continue reading on InfoSec Write-ups »]]></summary>
+        <author>
+            <name>Xcheater</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A full Google Drive as an archive related to my time in Psychic Tv in the ‘90s. Music, photos, multimedia. And current projects.]]></title>
+        <id>https://www.reddit.com/r/opendirectories/comments/t2kcuc/a_full_google_drive_as_an_archive_related_to_my/</id>
+        <link href="https://www.reddit.com/r/opendirectories/comments/t2kcuc/a_full_google_drive_as_an_archive_related_to_my/"/>
+        <updated>2022-02-27T09:13:27.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/inoculatemedia  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Open Directories</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Circumventing Deep Packet Inspection with Socat and rot13]]></title>
+        <id>https://www.reddit.com/r/netsec/comments/t2ji5n/circumventing_deep_packet_inspection_with_socat/</id>
+        <link href="https://www.reddit.com/r/netsec/comments/t2ji5n/circumventing_deep_packet_inspection_with_socat/"/>
+        <updated>2022-02-27T08:16:16.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/jrj334  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>/r/netsec - Information Security News &amp; Discussion</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Current State of the Cyber War Between Russia and Ukraine — An OSINT Analysis]]></title>
+        <id>https://medium.com/p/ac091a15ee8e</id>
+        <link href="https://medium.com/@danchodanchev/the-current-state-of-the-cyber-war-between-russia-and-ukraine-an-osint-analysis-ac091a15ee8e?source=rss------osint-5"/>
+        <updated>2022-02-27T07:46:38.000Z</updated>
+        <summary type="html"><![CDATA[Go through the following OSINT analysis courtesy of Dancho Danchev on the current state of the cyber war between Russia and Ukraine. Enjoy!
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Dancho Danchev</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[StaFi and Immunefi Partner to Launch A Bug Bounty For rDex Testnet]]></title>
+        <id>https://medium.com/p/7a6a026a63f</id>
+        <link href="https://olalekanalaka11.medium.com/stafi-and-immunefi-partner-to-launch-a-bug-bounty-for-rdex-testnet-7a6a026a63f?source=rss------bugbounty-5"/>
+        <updated>2022-02-27T07:07:05.000Z</updated>
+        <summary type="html"><![CDATA[Introduction
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Alaka Olalekan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Finding EXIF Geo-location of images]]></title>
+        <id>https://medium.com/p/4ea35e9d10e7</id>
+        <link href="https://medium.com/@sathvika03/finding-exif-geo-location-of-images-4ea35e9d10e7?source=rss------bugbounty-5"/>
+        <updated>2022-02-27T06:13:01.000Z</updated>
+        <summary type="html"><![CDATA[Let us learn about finding EXIF Geo-Location of images
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Hackt3r</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Methods to Bypass two factor Authentication]]></title>
+        <id>https://medium.com/p/bc2bd35bd44e</id>
+        <link href="https://technicalsurendra.medium.com/methods-to-bypass-two-factor-authentication-bc2bd35bd44e?source=rss------bugbounty-5"/>
+        <updated>2022-02-27T05:45:30.000Z</updated>
+        <summary type="html"><![CDATA[There are multiple ways to bypass two factor authentication . some of these way is here .
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Surendra Choudhury</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What are your methods for investigating JA3 & JA3S IOC hits?]]></title>
+        <id>https://www.reddit.com/r/AskNetsec/comments/t2fr4u/what_are_your_methods_for_investigating_ja3_ja3s/</id>
+        <link href="https://www.reddit.com/r/AskNetsec/comments/t2fr4u/what_are_your_methods_for_investigating_ja3_ja3s/"/>
+        <updated>2022-02-27T04:23:06.000Z</updated>
+        <summary type="html"><![CDATA[What sites do you use to validate information? Even if the certificate is valid, how are ensuring it’s for that proper site? What if the certificate says self-signed or expired?
+    submitted by    /u/pass-the-word  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>AskNetsec</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BUG BOUNTY CHECK LIST BY C1]]></title>
+        <id>https://medium.com/p/f222e604c2a5</id>
+        <link href="https://rei-hunt.medium.com/bug-bounty-check-list-by-c1-f222e604c2a5?source=rss------bugbounty-5"/>
+        <updated>2022-02-27T03:42:28.000Z</updated>
+        <summary type="html"><![CDATA[C1h2e1
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>rei_hunt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Easy Windows 0 day UAC Bypass!]]></title>
+        <id>https://medium.com/p/df53b1c67c74</id>
+        <link href="https://medium.com/@harishhacker3010/easy-windows-0-day-uac-bypass-df53b1c67c74?source=rss------bugbounty-5"/>
+        <updated>2022-02-27T03:34:19.000Z</updated>
+        <summary type="html"><![CDATA[Hey guys! I am harish, I used to find vulnerabilities on the Microsoft bug bounty program and Google VRP!
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Harish SG</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ZDI-CAN-12671: Windows Kernel DoS/Privilege Escalation via a NULL Pointer Deref]]></title>
+        <id>https://www.reddit.com/r/netsec/comments/t2evbs/zdican12671_windows_kernel_dosprivilege/</id>
+        <link href="https://www.reddit.com/r/netsec/comments/t2evbs/zdican12671_windows_kernel_dosprivilege/"/>
+        <updated>2022-02-27T03:33:26.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/yuhong  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>/r/netsec - Information Security News &amp; Discussion</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Movies, shows and 'more']]></title>
         <id>https://www.reddit.com/r/opendirectories/comments/t2c2kn/movies_shows_and_more/</id>
@@ -88,6 +361,17 @@ Points: 81
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[SecWiki News 2022-02-26 Review]]></title>
+        <id>http://www.sec-wiki.com/?2022-02-26</id>
+        <link href="http://www.sec-wiki.com/?2022-02-26"/>
+        <updated>2022-02-26T15:58:20.000Z</updated>
+        <summary type="html"><![CDATA[今日暂未更新资讯~
+更多最新文章，请访问SecWiki]]></summary>
+        <author>
+            <name>SecWiki News</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Open Source Intelligence — OSINT]]></title>
         <id>https://medium.com/p/6d0c646605bc</id>
         <link href="https://medium.com/@aneesharokkiasamy/open-source-intelligence-osint-6d0c646605bc?source=rss------osint-5"/>
@@ -119,6 +403,19 @@ Continue reading on Medium »]]></summary>
  [link]   [comments]]]></summary>
         <author>
             <name>Open Directories</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Examining a Windows LTSC system]]></title>
+        <id>https://www.reddit.com/r/computerforensics/comments/t1x1y1/examining_a_windows_ltsc_system/</id>
+        <link href="https://www.reddit.com/r/computerforensics/comments/t1x1y1/examining_a_windows_ltsc_system/"/>
+        <updated>2022-02-26T13:25:23.000Z</updated>
+        <summary type="html"><![CDATA[How much more difficult is it to gather evidence from a Windows operating system that is the LTSC version when compared with a regular Windows system?
+ I know LTSC is supposed to be much more privacy friendly and disables telemetry so just though I would ask out of curiosity.
+    submitted by    /u/xnospax  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Computer Forensics</name>
         </author>
     </entry>
     <entry>
@@ -690,6 +987,16 @@ Continue reading on Medium »]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[FreeBuf早报 | 三星上亿部手机曝出严重加密漏洞；乌克兰招募黑客防御俄罗斯网络攻击]]></title>
+        <id>https://www.freebuf.com/news/323287.html</id>
+        <link href="https://www.freebuf.com/news/323287.html"/>
+        <updated>2022-02-25T10:21:11.000Z</updated>
+        <summary type="html"><![CDATA[由于大规模分布式拒绝服务(DDoS)攻击，多个乌克兰政府网站于周三下线了。]]></summary>
+        <author>
+            <name>FreeBuf网络安全行业门户</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[CISA 已知被利用漏洞列表中，新增两个 Zabbix  漏洞]]></title>
         <id>https://www.freebuf.com/news/323334.html</id>
         <link href="https://www.freebuf.com/news/323334.html"/>
@@ -800,6 +1107,16 @@ Continue reading on Medium »]]></summary>
 Continue reading on Medium »]]></summary>
         <author>
             <name>Rend</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何使用PHP Malware Finder检测主机中潜在的恶意PHP文件]]></title>
+        <id>https://www.freebuf.com/articles/web/323228.html</id>
+        <link href="https://www.freebuf.com/articles/web/323228.html"/>
+        <updated>2022-02-25T06:11:37.000Z</updated>
+        <summary type="html"><![CDATA[PHP Malware Finder是一款针对主机安全和PHP安全的强大检测工具，广大研究人员可以轻松检测其主机或服务器中可能存在的潜在恶意PHP文件。]]></summary>
+        <author>
+            <name>FreeBuf网络安全行业门户</name>
         </author>
     </entry>
     <entry>
@@ -52213,16 +52530,6 @@ Regular expressions are used for all manner of text-proce…]]></summary>
         <link href="https://portswigger.net/blog/web-application-cartography-mapping-out-burp-suites-crawler"/>
         <updated>2021-03-05T15:07:00.000Z</updated>
         <summary type="html"><![CDATA[At the core of Burp Suite is Burp Scanner - a powerful tool designed to reduce the number of manual steps users have to take to discover vulnerabilities in their targets. Burp Scanner was first releas]]></summary>
-        <author>
-            <name>PortSwigger Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<span>7 Burp Suite Professional-exclusive features to help you test smarter</span>]]></title>
-        <id>7-burp-suite-professional-exclusive-features-to-help-you-test-smarter</id>
-        <link href="https://portswigger.net/blog/7-burp-suite-professional-exclusive-features-to-help-you-test-smarter"/>
-        <updated>2021-02-26T15:25:00.000Z</updated>
-        <summary type="html"><![CDATA[Welcome to the Pro user community So, you've downloaded Burp Suite Professional. What now? It's a big piece of software, and there's a lot of functionality you're probably not aware of - even if you'v]]></summary>
         <author>
             <name>PortSwigger Blog</name>
         </author>
