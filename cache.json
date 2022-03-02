@@ -6,6 +6,16 @@
       "siteUrl": "http://h1.nobbd.de/",
       "articles": [
         {
+          "id": "https://hackerone.com/reports/1486341",
+          "author": null,
+          "description": "Acronis disclosed a bug submitted by hatnare: https://hackerone.com/reports/1486341",
+          "link": "https://hackerone.com/reports/1486341",
+          "publishedOn": "2022-03-01T09:09:04.000Z",
+          "wordCount": null,
+          "title": "Session Fixation on Acronis",
+          "imageUrl": null
+        },
+        {
           "id": "https://hackerone.com/reports/1443211",
           "author": null,
           "description": "Mattermost disclosed a bug submitted by odx09: https://hackerone.com/reports/1443211 - Bounty: $150",
@@ -4251,6 +4261,56 @@
       "feedUrl": "https://medium.com/feed/tag/bugbounty",
       "siteUrl": "https://medium.com/tag/bugbounty/latest?source=rss------bugbounty-5",
       "articles": [
+        {
+          "id": "https://medium.com/p/3b2a649bdc3",
+          "author": "Jesse Clark",
+          "description": "While testing a web application that used a web GUI over the top of an API, I noted the calls to the API where authorized with a JWT token…\nContinue reading on Techiepedia »",
+          "link": "https://medium.com/techiepedia/password-reset-to-admin-access-3b2a649bdc3?source=rss------bugbounty-5",
+          "publishedOn": "2022-03-01T17:21:16.000Z",
+          "wordCount": null,
+          "title": "Password Reset to Admin Access",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/169ff7b084bc",
+          "author": "Abhishek Kumar Sahu",
+          "description": "This is not an accurate path for an ethical hacker.\nContinue reading on Medium »",
+          "link": "https://themodernhacker.medium.com/what-after-12th-as-an-ethical-hacker-169ff7b084bc?source=rss------bugbounty-5",
+          "publishedOn": "2022-03-01T10:49:57.000Z",
+          "wordCount": null,
+          "title": "What After 12th? as an Ethical Hacker.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/7cd95a55a1d4",
+          "author": "Awez Kagdi",
+          "description": "Vulnerability Category: A6- Security Misconfiguration\nContinue reading on Medium »",
+          "link": "https://medium.com/@awezkagdi.ak/no-rate-limiting-on-forget-password-page-email-triggering-7cd95a55a1d4?source=rss------bugbounty-5",
+          "publishedOn": "2022-03-01T09:32:48.000Z",
+          "wordCount": null,
+          "title": "No Rate Limiting on Forget Password Page (Email Triggering)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/430bd4d56a45",
+          "author": "Dvsteja",
+          "description": "Few weeks back, I too faced the same situation. Tried multiple ways to upgrade my Nuclei version but it just got stuck at version 2.2.0…\nContinue reading on Medium »",
+          "link": "https://medium.com/@vnktsaiteja/facing-issues-with-nuclei-upgrade-430bd4d56a45?source=rss------bugbounty-5",
+          "publishedOn": "2022-03-01T04:08:44.000Z",
+          "wordCount": null,
+          "title": "Facing Issues with Nuclei upgrade??",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/b450c9369006",
+          "author": "Aneesha D",
+          "description": "Hello readers, in this post, we’ll look at XSS and Apache Server furthere on apache server I will post another article.\nContinue reading on Medium »",
+          "link": "https://medium.com/@interc3pt3r/on-the-way-to-2nd-bounty-b450c9369006?source=rss------bugbounty-5",
+          "publishedOn": "2022-03-01T03:31:19.000Z",
+          "wordCount": null,
+          "title": "On the way to 2nd Bounty XSS and Apache server .",
+          "imageUrl": null
+        },
         {
           "id": "https://medium.com/p/5abadc79acd2",
           "author": "Albus Security",
@@ -8523,6 +8583,26 @@
       "siteUrl": "https://medium.com/tag/redteam/latest?source=rss------redteam-5",
       "articles": [
         {
+          "id": "https://medium.com/p/f8190d43ae31",
+          "author": "Marcos Henrique",
+          "description": "Este artigo tem como objetivo reforçar a importância da realização do hardening e/ou revisão de segurança antes de colocar um servidor de…\nContinue reading on 100security »",
+          "link": "https://medium.com/100security/mysql-dumpfile-f8190d43ae31?source=rss------redteam-5",
+          "publishedOn": "2022-03-01T18:34:29.000Z",
+          "wordCount": null,
+          "title": "MySQL DUMPFILE",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/2df3b30bf89d",
+          "author": "Shayan Ahmed Khan",
+          "description": "This blog provides a detailed analysis of anydesk application that has been trojanized and distributed from a ranked unofficial website…\nContinue reading on Medium »",
+          "link": "https://medium.com/@shaddy43/analysis-of-a-trojanized-anydesk-2df3b30bf89d?source=rss------redteam-5",
+          "publishedOn": "2022-03-01T18:04:49.000Z",
+          "wordCount": null,
+          "title": "Analysis of a trojanized anydesk",
+          "imageUrl": null
+        },
+        {
           "id": "https://medium.com/p/b220302768cf",
           "author": "Aneesharokkiasamy",
           "description": "In the digital world everyone using smart device for day to day activity. We’re sharing many information, at the same time receiving many…\nContinue reading on Medium »",
@@ -10850,6 +10930,36 @@
       "feedUrl": "https://medium.com/feed/tag/osint",
       "siteUrl": "https://medium.com/tag/osint/latest?source=rss------osint-5",
       "articles": [
+        {
+          "id": "https://medium.com/p/2afb8311c89e",
+          "author": "Olivier Dupuis",
+          "description": "the discursus Protest Analytics newsletter, March 1st, 2022 edition.\nContinue reading on discursus.io »",
+          "link": "https://blog.discursus.io/protests-against-russias-attack-on-ukraine-more-2afb8311c89e?source=rss------osint-5",
+          "publishedOn": "2022-03-01T20:45:46.000Z",
+          "wordCount": null,
+          "title": "Protests against Russia’s attack on Ukraine + more",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/bc6d0e5f2485",
+          "author": "Nadin Brzezinski",
+          "description": "A critical update has come across my feed. The New York Times lost the lede in a story today.\nContinue reading on Medium »",
+          "link": "https://nadinbrzezinski.medium.com/the-ides-of-march-fall-of-the-russian-bear-bc6d0e5f2485?source=rss------osint-5",
+          "publishedOn": "2022-03-01T20:02:05.000Z",
+          "wordCount": null,
+          "title": "The Ides of March: Fall of the Russian Bear?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/964cb53c4bd3",
+          "author": "Amit Agarwal",
+          "description": "How to use Google Reverse Image Search to verify the source of photos from Ukraine Russian conflict.\nContinue reading on Medium »",
+          "link": "https://medium.com/@labnol/reverse-image-search-964cb53c4bd3?source=rss------osint-5",
+          "publishedOn": "2022-03-01T14:47:14.000Z",
+          "wordCount": null,
+          "title": "Verify Viral Photos with Reverse Search",
+          "imageUrl": null
+        },
         {
           "id": "https://medium.com/p/9d995d66006d",
           "author": "Nasrin",
@@ -13918,6 +14028,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=30511060",
+          "author": "hardenedvault",
+          "description": "Article URL: https://hardenedvault.net/2022/03/01/poc-cve-2021-26708.html\nComments URL: https://news.ycombinator.com/item?id=30511060\nPoints: 2\n# Comments: 0",
+          "link": "https://hardenedvault.net/2022/03/01/poc-cve-2021-26708.html",
+          "publishedOn": "2022-03-01T08:05:50.000Z",
+          "wordCount": null,
+          "title": "Exploiting CVE-2021-26708 (Linux kernel) with sshd",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=30461939",
           "author": "zdw",
           "description": "Article URL: https://gitlab.com/kop316/vvm-disclosure\nComments URL: https://news.ycombinator.com/item?id=30461939\nPoints: 2\n# Comments: 0",
@@ -14602,6 +14722,16 @@
       "feedUrl": "https://hnrss.org/newest?q=vulnerability",
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
+        {
+          "id": "https://news.ycombinator.com/item?id=30510543",
+          "author": "News-Dog",
+          "description": "Article URL: https://eprint.iacr.org/2022/208.pdf\nComments URL: https://news.ycombinator.com/item?id=30510543\nPoints: 1\n# Comments: 0",
+          "link": "https://eprint.iacr.org/2022/208.pdf",
+          "publishedOn": "2022-03-01T06:53:49.000Z",
+          "wordCount": null,
+          "title": "Samsung Encryption Vulnerability [pdf]",
+          "imageUrl": null
+        },
         {
           "id": "https://news.ycombinator.com/item?id=30500104",
           "author": "malloryerik",
@@ -15628,6 +15758,56 @@
       "siteUrl": "https://www.freebuf.com",
       "articles": [
         {
+          "id": "https://www.freebuf.com/news/323609.html",
+          "author": null,
+          "description": "《规定》明确，应用算法推荐技术，是指利用生成合成类、个性化推送类、排序精选类、检索过滤类、调度决策类等算法技术向用户提供信息。",
+          "link": "https://www.freebuf.com/news/323609.html",
+          "publishedOn": "2022-03-01T10:28:46.000Z",
+          "wordCount": null,
+          "title": "算法推荐管理规定3月1日施行，算法备案系统正式上线",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.freebuf.com/news/323578.html",
+          "author": null,
+          "description": "就在Conti 勒索组织选择支持俄罗斯之后，一名乌克兰籍的成员泄露了6万多条Conti 勒索组织内部聊天的消息。",
+          "link": "https://www.freebuf.com/news/323578.html",
+          "publishedOn": "2022-03-01T07:02:13.000Z",
+          "wordCount": null,
+          "title": "Conti支持俄罗斯，乌克兰成员公布了其内部聊天记录",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.freebuf.com/articles/323562.html",
+          "author": null,
+          "description": "微软透露，在入侵前几个小时，乌克兰实体成为了先前未被发现的恶意软件 FoxBlade 的攻击目标。Microsoft 威胁情报中心 (MSTIC) 继续调查针对...的攻击。",
+          "link": "https://www.freebuf.com/articles/323562.html",
+          "publishedOn": "2022-03-01T06:19:05.000Z",
+          "wordCount": null,
+          "title": "FreeBuf早报 | 保险业巨头 AON 周末遭遇网络攻击；莫斯科交易所被网络攻击击落",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.freebuf.com/news/323525.html",
+          "author": null,
+          "description": "因为丰田汽车提供内外饰塑料部件的供应商小岛工业因遭网络攻击，丰田在日工厂从3月1日起暂停生产。",
+          "link": "https://www.freebuf.com/news/323525.html",
+          "publishedOn": "2022-03-01T02:45:31.000Z",
+          "wordCount": null,
+          "title": "丰田日本工厂因供应商遭受网络攻击而停止生产",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.freebuf.com/articles/323502.html",
+          "author": null,
+          "description": "微众银行应用安全团队招聘应用安全岗",
+          "link": "https://www.freebuf.com/articles/323502.html",
+          "publishedOn": "2022-02-28T13:02:57.000Z",
+          "wordCount": null,
+          "title": "微众银行应用安全团队招聘 | 深圳",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.freebuf.com/news/323487.html",
           "author": null,
           "description": "乌克兰意图组建一支志愿 &amp;amp;amp;amp;quot;IT军队&amp;amp;amp;amp;quot;，对俄罗斯进行网络攻击。",
@@ -15655,6 +15835,16 @@
           "publishedOn": "2022-02-28T06:58:38.000Z",
           "wordCount": null,
           "title": "通配符SSL证书的好处及选购方法",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.freebuf.com/jobs/323446.html",
+          "author": null,
+          "description": "招聘安全工程师、安全运营、安全管理等岗位。",
+          "link": "https://www.freebuf.com/jobs/323446.html",
+          "publishedOn": "2022-02-28T06:50:52.000Z",
+          "wordCount": null,
+          "title": "光大银行安全处招聘简章",
           "imageUrl": null
         },
         {
@@ -15715,6 +15905,16 @@
           "publishedOn": "2022-02-28T01:39:45.000Z",
           "wordCount": null,
           "title": "2021年未修补漏洞利用为勒索软件攻击依赖主要切入点",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.freebuf.com/articles/system/323325.html",
+          "author": null,
+          "description": "该工具能够对正在运行的进程进行详细的安全检查，包括进程进程元数据、加载到当前进程中的DLL以及每个DLL元数据。",
+          "link": "https://www.freebuf.com/articles/system/323325.html",
+          "publishedOn": "2022-02-25T16:27:50.000Z",
+          "wordCount": null,
+          "title": "Invoke-EDRChecker：一款功能强大的主机安全产品检测工具",
           "imageUrl": null
         },
         {
@@ -20714,6 +20914,16 @@
       "siteUrl": "http://www.sec-wiki.com/",
       "articles": [
         {
+          "id": "http://www.sec-wiki.com/?2022-03-01",
+          "author": null,
+          "description": "聊一聊《Bvp47 美国NSA方程式的顶级后门》中的BPF隐藏信道  by ourren\nDICOS：在Stack Overflow社区不安全代码发现方法  by ourren\n2022年最热安全技术\"BAS\"详解  by ourren\n更多最新文章，请访问SecWiki",
+          "link": "http://www.sec-wiki.com/?2022-03-01",
+          "publishedOn": "2022-03-01T15:58:20.000Z",
+          "wordCount": null,
+          "title": "SecWiki News 2022-03-01 Review",
+          "imageUrl": null
+        },
+        {
           "id": "http://www.sec-wiki.com/?2022-02-28",
           "author": null,
           "description": "SecWiki周刊（第417期)  by ourren\n以PoC迁移促进漏洞评估  by ourren\n更多最新文章，请访问SecWiki",
@@ -21438,6 +21648,136 @@
       "feedUrl": "https://www.reddit.com/r/asknetsec/.rss",
       "siteUrl": "https://www.reddit.com/r/asknetsec/",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/t4i91v/which_is_the_efficient_way_to_practice_web/",
+          "author": null,
+          "description": "I read two books about web application security.\n  \nWeb Application Security: Exploitation and Countermeasures for Modern Web Applications\n Bug Bounty Bootcamp: The Guide to Finding and Reporting Web Vulnerabilities\n  \nBut I didn't practice enough.\n I have multiple options to practice it\n  \nPort Swigger Web Security Academy\n bWAPP\n Vulnerability Disclosure Programs on HackerOne\n  \nAs I said I already read books about this topic, maybe I don't need to read PortSwigger Academy Articles. bWAPP is good but it consists lots of vulnerabilities and I can't figure out how to prepare a work plan for that (Because of vulnerability count and expertise levels). VDPs on HackerOne are good because they are real-life challenges but I don't even know I am ready or not for testing real applications.\n I am open to any advice.\n    submitted by    /u/pacman0026  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/t4i91v/which_is_the_efficient_way_to_practice_web/",
+          "publishedOn": "2022-03-01T21:01:48.000Z",
+          "wordCount": null,
+          "title": "Which is the efficient way to practice web application security?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/t4i84j/options_for_a_malware_sandbox_with_internet_access/",
+          "author": null,
+          "description": "I am looking for a solution to work with and detonate potentially malicious files & malware. \n A isolated (from rest of LAN) malware sandbox .. with Internet access. \n I have been considering a Type 2 hypervisor such as VirtualBox running Windows 10 Pro. it seems if I go with this solution I may need a 2nd VM running a Firewall to ensure the Win10VM cannot spread malware to other devices on the LAN.\n Seeking input on other methods or options to build such a environment.\n    submitted by    /u/q_logsource  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/t4i84j/options_for_a_malware_sandbox_with_internet_access/",
+          "publishedOn": "2022-03-01T21:00:39.000Z",
+          "wordCount": null,
+          "title": "Options for a malware sandbox with Internet access",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/t4hi5i/help_to_improve_aks_pods_security/",
+          "author": null,
+          "description": "Hello.\n I want to use Azure Kubernetes environment for running Azure DevOps build agents. Besides, tried to make the environment secure, by following the principle of least privilege. As a result - Dockerfile and Pod's definition which runs container as an unprivileged user (nobody) on a read only filesystem (except /tmp and /azp paths).\n What else could be done to improve environment's security?\n    submitted by    /u/groovy-sky  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/t4hi5i/help_to_improve_aks_pods_security/",
+          "publishedOn": "2022-03-01T20:29:36.000Z",
+          "wordCount": null,
+          "title": "Help to improve AKS Pod's security",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/t4gd8d/how_do_you_organize_your_study/",
+          "author": null,
+          "description": "Currently I work as SOC analyst, I do like studying and coding, so after work I usually study some stuff related to security, but from time to time I find myself starting new courses without finishing anything, and read about different topics, but can't focus, which waste much time and effort.\n I'm not sure if anyone else faces the same issue and how can I focus more?\n    submitted by    /u/xoutisx  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/t4gd8d/how_do_you_organize_your_study/",
+          "publishedOn": "2022-03-01T19:41:18.000Z",
+          "wordCount": null,
+          "title": "How do you organize your study?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/t4dlew/what_are_the_biggest_barriers_stopping_netsec/",
+          "author": null,
+          "description": "Specifically, imagine a Virtual Reality tool that would allow you to navigate your entire network in a three dimensional space, to detect vulnerabilities and such. The first barrier that comes to mind would be cost of equipment, especially if organizations need to buy multiple headsets for their employees. But what other barriers do you forsee? VR is already pretty popular, so I'm surprised its not already more adopted in this space.\n Disclaimer: I work for a VR startup in the NetSec space and we are trying to gather feedback from NetSec professionals. You can visit our website if you want to learn more, we are offering headsets in exchange for good user feedback. There's a survey link on our contact us page: https://valkure.com \n TIA\n    submitted by    /u/loshofficial  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/t4dlew/what_are_the_biggest_barriers_stopping_netsec/",
+          "publishedOn": "2022-03-01T17:43:23.000Z",
+          "wordCount": null,
+          "title": "What are the biggest barriers stopping NetSec from going into Virtual Reality?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/t4dh32/entire_infosec_team_replaced_by_it_team/",
+          "author": null,
+          "description": "Anyone ever experience this? I'm the last technical infosec person left on a former team of ~14 people. Now we have replaced the entire infosec team with IT/non-infosec people, who are all basically entry-level in infosec, although they may have skills in other areas such as IT/cloud.\n I feel genuinely concerned because it's clear none of them have the skills, knowledge or experience to do anything in these job functions security wise. They are just having tons of random meetings to try and figure out what to do next, and not actually getting anything done.\n They've been \"talking\" about what to do for 9 months. It's starting to feel like a scam, and I'm having to hold people's hands with extremely basic scripting and technical tasks. At first it was cool, because I had the opportunity to mentor them, but NOTHING is getting done.\n What the hell is going on?\n    submitted by    /u/netipotty  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/t4dh32/entire_infosec_team_replaced_by_it_team/",
+          "publishedOn": "2022-03-01T17:38:16.000Z",
+          "wordCount": null,
+          "title": "Entire infosec team replaced by... IT team?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/t49r3w/is_whitelisting_dns_zones_to_prevent_dns/",
+          "author": null,
+          "description": "I'm concerned about malware which uses DNS channels to communicate home. I'm thinking about ways to mitigate this threat for my servers, and the most obvious measure that comes to mind, is to have my DNS resolver block recursive lookups to zones which are not whitelisted. So, the plan is to (1) make my firewall block all DNS traffic from my server except to my own resolver, and (2) have my own resolver block all lookups to non-whitelisted zones. So e.g., a lookup to *.microsoft.com would be recursively resolved, but not a lookup to *.evildomain.com.\n When Google searching for ways to mitigate DNS tunneling, this is not a commonly suggested countermeasure. Most blogs and articles answer this question by referring to some expensive, \"smart\", enterprisey DNS filter. Is my countermeasure less easy than it sounds? If not, why is this countermeasure not more common?\n    submitted by    /u/engineerL  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/t49r3w/is_whitelisting_dns_zones_to_prevent_dns/",
+          "publishedOn": "2022-03-01T14:57:06.000Z",
+          "wordCount": null,
+          "title": "Is whitelisting DNS zones to prevent DNS tunneling viable? Why is it not more common?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/t49jg1/what_is_the_most_difficult_part_of_being_a_soc/",
+          "author": null,
+          "description": "Every job has pros and cons. What do you think about being a SOC analyst?\n A lot of people are saying about stress and over working. Maybe it's not worth being a SOC analyst? What do you guys think?\n    submitted by    /u/umuttosun  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/t49jg1/what_is_the_most_difficult_part_of_being_a_soc/",
+          "publishedOn": "2022-03-01T14:47:20.000Z",
+          "wordCount": null,
+          "title": "What is the most difficult part of being a SOC Analyst?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/t48k7i/how_to_test_our_avedr/",
+          "author": null,
+          "description": "So if I remember well, a few years ago there were dedicated scripts and binaries to test if your AV/EDR works well, but I can’t find that anywhere. Do you have recommendations for that?\n What I’d like is to go a bit further than just compiling and running netcat/mimikatz… which would not involve running MSF modules at all.\n    submitted by    /u/EsreverEngineering  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/t48k7i/how_to_test_our_avedr/",
+          "publishedOn": "2022-03-01T14:01:03.000Z",
+          "wordCount": null,
+          "title": "How to test our AV/EDR",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/t480dv/not_getting_methodological_approach_to/",
+          "author": null,
+          "description": "https://www.reddit.com/r/audit/comments/t47la5/not_getting_methodological_approach_to/\n    submitted by    /u/whatusernameiscool  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/t480dv/not_getting_methodological_approach_to/",
+          "publishedOn": "2022-03-01T13:33:41.000Z",
+          "wordCount": null,
+          "title": "Not getting methodological approach to information audit. What are they trying to say?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/t438bu/how_do_cybercriminalshackers_defend_themselves/",
+          "author": null,
+          "description": "I've always been puzzled by the idea that hackers are vulnerable themselves? Like how can one say they are 100% defended from counter-attack? In any reading/research on cyber-defence I've ever done, the idea is you can never be 100% secure.\n Is it like an arms race of being \"cleverer\" than whoever might be on the counter-attack? Not sure if anyone can shed insight on this - thanks\n \\editing post to say you can never be 100% secure, previously I had 10%)\n    submitted by    /u/mdgsec  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/t438bu/how_do_cybercriminalshackers_defend_themselves/",
+          "publishedOn": "2022-03-01T08:28:37.000Z",
+          "wordCount": null,
+          "title": "How do cybercriminals/\"hackers\" defend themselves?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/t3zkdx/getting_started_on_pentesting_an_iot_device/",
+          "author": null,
+          "description": "I'm relatively inexperienced at security and am trying to improve my skills. I have a custom made IOT device at home which I am trying to find vulnerabilities in and am looking for suggestions of what to investigate.\n I scanned with nmap using script=vulners. Only port 22 is open and there are a few vulnerabilities (OpenSSH 7.9p1) but nothing very promising as far as I can tell.\n Brute-forcing the SSH password using Hydra is also not very promising as it is fairly slow and I know the device has a reasonably complex password which is not in common password lists like rockyou.\n Any suggestions on other approaches to find vulnerabilities in the device?\n    submitted by    /u/MrKhutz  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/t3zkdx/getting_started_on_pentesting_an_iot_device/",
+          "publishedOn": "2022-03-01T04:43:50.000Z",
+          "wordCount": null,
+          "title": "Getting Started on Pentesting an IOT Device",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/t3xdjj/what_is_vulnerability_sweeping/",
+          "author": null,
+          "description": "I was asked the question what vulnerability sweeping, but I can't seem to find a definitive answer for it, only definitions for vulnerability scanning.\n    submitted by    /u/pleaseweallneedhelp  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/t3xdjj/what_is_vulnerability_sweeping/",
+          "publishedOn": "2022-03-01T02:52:50.000Z",
+          "wordCount": null,
+          "title": "What is vulnerability sweeping?",
+          "imageUrl": null
+        },
         {
           "id": "https://www.reddit.com/r/AskNetsec/comments/t3te55/essential_skills_to_be_a_soc_analyst/",
           "author": null,
@@ -25354,6 +25694,16 @@
       "siteUrl": "https://www.reddit.com/r/redteamsec/",
       "articles": [
         {
+          "id": "https://www.reddit.com/r/redteamsec/comments/t43v0m/demonstration_of_how_use_counterstrike_16_as/",
+          "author": null,
+          "description": "If you're a malware operator who likes to Rush B and want to manage your victims while playing games, this is for you.\n https://www.youtube.com/watch?v=b2L1lWtwBiI&t=1s\n https://twitter.com/kaganisildak/status/1498585440680656896\n    submitted by    /u/kaganisildak  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/redteamsec/comments/t43v0m/demonstration_of_how_use_counterstrike_16_as/",
+          "publishedOn": "2022-03-01T09:13:27.000Z",
+          "wordCount": null,
+          "title": "Demonstration of how use Counter-Strike 1.6 as Malware C2",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.reddit.com/r/redteamsec/comments/t1ssoz/alan_c2_framework_v60_alan_javascript/",
           "author": null,
           "description": "submitted by    /u/aparata_s4tan  \n [link]   [comments]",
@@ -26523,6 +26873,16 @@
       "siteUrl": "https://www.reddit.com/r/exploitdev/",
       "articles": [
         {
+          "id": "https://www.reddit.com/r/ExploitDev/comments/t42uf3/windows_exploitation_research/",
+          "author": null,
+          "description": "Hi, I am starting windows security research to understand how windows internals works and how one can exploit it. If anyone interested he/she can DM me\n    submitted by    /u/i_whiteheart  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/ExploitDev/comments/t42uf3/windows_exploitation_research/",
+          "publishedOn": "2022-03-01T08:02:07.000Z",
+          "wordCount": null,
+          "title": "Windows Exploitation Research",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.reddit.com/r/ExploitDev/comments/t3gjg3/stackbased_buffer_overflow_series_aimed_at/",
           "author": null,
           "description": "submitted by    /u/_CryptoCat23  \n [link]   [comments]",
@@ -27001,6 +27361,66 @@
       "feedUrl": "https://www.reddit.com/r/computerforensics/.rss",
       "siteUrl": "https://www.reddit.com/r/computerforensics/",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/computerforensics/comments/t4mc1w/pagefile_cache_question/",
+          "author": null,
+          "description": "Hey Guys I work in law and as you probably have experienced we are stunningly ignorant on computer forensics. When I have a bit of time I like to research various computer forensic things and evidence from browsers are quite fascinating to me. I have two questions that I'd love help answering.\n 1) I'm assuming that this is a stupid/ basic question but I read that pictures in the cache are copies of the original essentially and as such they would contain meta data like locations and so on, is that also correct for stuff in the pagefile?\n 2) I've messed around with the belkasoft software trail run to view the pagefile on my PC, the categories that the data is broken up into is fairly understandable browsers, instant messengers. And they contain images and urls. However there is a category called other files and I'm not sure what is contained in them?\n    submitted by    /u/curiousstudent99l  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/computerforensics/comments/t4mc1w/pagefile_cache_question/",
+          "publishedOn": "2022-03-02T00:03:09.000Z",
+          "wordCount": null,
+          "title": "Pagefile/ Cache question",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/computerforensics/comments/t4kmi0/4_weeks_to_prep_for_gcfa/",
+          "author": null,
+          "description": "Is this even possible? I was given the material yesterday. I have some training under my belt, but overall still a noob when it comes to DFIR. Currently sitting through a 6 day course with a SANS instructor, but I feel like I am getting the exact same information from just reading the books. My experience in IT is less than 2 years and all training. Sec+ being my only previous cert.\n    submitted by    /u/SnooDogs3246  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/computerforensics/comments/t4kmi0/4_weeks_to_prep_for_gcfa/",
+          "publishedOn": "2022-03-01T22:45:30.000Z",
+          "wordCount": null,
+          "title": "4 Weeks to prep for GCFA",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/computerforensics/comments/t4c4i9/ask_all_nonforensic_data_recovery_questions_here/",
+          "author": null,
+          "description": "This is where all non-forensic data recovery questions should be asked. Please see below for examples of non-forensic data recovery questions that are welcome as comments within this post but are NOT welcome as posts in our subreddit:\n  \nMy phone broke. Can you help me recover/backup my contacts and text messages?\n I accidently wiped my hard drive. Can you help me recover my files?\n I lost messages on Instagram, SnapChat, Facebook, ect. Can you help me recover them?\n  \nPlease note that your question is far more likely to be answered if you describe the whole context of the situation and include as many technical details as possible. One or two sentence questions (such as the ones above) are permissible but are likely to be ignored by our community members as they do not contain the information needed to answer your question. A good example of a non-forensic data recovery question that is detailed enough to be answered is listed below:\n \"Hello. My kid was playing around on my laptop and deleted a very important Microsoft Word document that I had saved on my desktop. I checked the recycle bin and its not there. My laptop is a Dell Inspiron 15 3000 with a 256gb SSD as the main drive and has Windows 10 installed on it. Is there any advice you can give that will help me recover it?\"\n After replying to this post with a non-forensic data recovery question, you might also want to check out r/datarecovery since that subreddit is devoted specifically to answering questions such as the ones asked in this post.\n    submitted by    /u/AutoModerator  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/computerforensics/comments/t4c4i9/ask_all_nonforensic_data_recovery_questions_here/",
+          "publishedOn": "2022-03-01T16:40:15.000Z",
+          "wordCount": null,
+          "title": "ASK ALL NON-FORENSIC DATA RECOVERY QUESTIONS HERE",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/computerforensics/comments/t4bux1/answering_general_digital_investigation_questions/",
+          "author": null,
+          "description": "Last week we ran a stream about forensic hardware and got A LOT of general digital forensic questions. It might be interesting to anyone new to computer forensics. Use the chapter times in the video description to jump around. We also talk about hardware write blockers and forensic imagers.\n https://youtu.be/O1bZvGqmP1Y\n    submitted by    /u/DFIRScience  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/computerforensics/comments/t4bux1/answering_general_digital_investigation_questions/",
+          "publishedOn": "2022-03-01T16:28:49.000Z",
+          "wordCount": null,
+          "title": "Answering general digital investigation questions",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/computerforensics/comments/t4bed5/incident_responder_looking_to_transition_into_a/",
+          "author": null,
+          "description": "Hello everyone!\n I have worked in infosec and IT for 6 years in incident response roles for companies ranging from startups to fortune 50. I currently work at a startup local cybersecurity firm where I am an incident response engineer and consultant. I handle everything on the IR side including ransomware cases, business email compromise, data theft, threat hunting, and compromise assessments. I also have my GSEC, GCIH, GCFE, and GCFA certifications.\n I love what I do, but I am burnt out. I’m tired of being on call 24/7/365, never being able to bring any of the criminals I work against to justice, and much more. My family and I are settling down, and I am interested in transitioning to a more traditional digital forensics role working on criminal cases. I want to have a more steady, stable case load, and actually see the results of my work helping bring people to justice.\n I was wondering if any of you have made a similar transition, and if there are any recommendations or insights that could help me make this switch. I have read the FAQ here and am looking for new jobs in this space, but would love to get some input from this community.\n Any thoughts?\n    submitted by    /u/horizon44  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/computerforensics/comments/t4bed5/incident_responder_looking_to_transition_into_a/",
+          "publishedOn": "2022-03-01T16:08:58.000Z",
+          "wordCount": null,
+          "title": "Incident Responder looking to transition into a digital forensics role",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/computerforensics/comments/t49q80/what_are_some_good_triage_tools_for_live_macos/",
+          "author": null,
+          "description": "A customizable hash list is a must! Thanks\n    submitted by    /u/DHZX  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/computerforensics/comments/t49q80/what_are_some_good_triage_tools_for_live_macos/",
+          "publishedOn": "2022-03-01T14:55:56.000Z",
+          "wordCount": null,
+          "title": "What are some good triage tools for live MacOS and Linux systems?",
+          "imageUrl": null
+        },
         {
           "id": "https://www.reddit.com/r/computerforensics/comments/t3v8qj/homework_help_in_hxd/",
           "author": null,
@@ -28532,6 +28952,56 @@
       "feedUrl": "https://www.reddit.com/r/netsec/.rss",
       "siteUrl": "https://www.reddit.com/r/netsec/",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/netsec/comments/t4f901/5_new_vulnerabilities_in_pjsip_multimedia_library/",
+          "author": null,
+          "description": "submitted by    /u/SRMish3  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/netsec/comments/t4f901/5_new_vulnerabilities_in_pjsip_multimedia_library/",
+          "publishedOn": "2022-03-01T18:53:14.000Z",
+          "wordCount": null,
+          "title": "5 New Vulnerabilities in PJSIP Multimedia Library, including RCE",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/netsec/comments/t4c03m/triaging_a_malicious_docker_container/",
+          "author": null,
+          "description": "submitted by    /u/MiguelHzBz  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/netsec/comments/t4c03m/triaging_a_malicious_docker_container/",
+          "publishedOn": "2022-03-01T16:34:58.000Z",
+          "wordCount": null,
+          "title": "Triaging A Malicious Docker Container",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/netsec/comments/t47vxm/multiple_vulnerabilities_found_in_voip_monitor_by/",
+          "author": null,
+          "description": "submitted by    /u/nathanAbejeM  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/netsec/comments/t47vxm/multiple_vulnerabilities_found_in_voip_monitor_by/",
+          "publishedOn": "2022-03-01T13:27:02.000Z",
+          "wordCount": null,
+          "title": "Multiple vulnerabilities found in voip monitor by an Ethiopian Security firm",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/netsec/comments/t45o0f/teabot_is_now_spreading_across_the_globe_cleafy/",
+          "author": null,
+          "description": "submitted by    /u/f3d_0x0  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/netsec/comments/t45o0f/teabot_is_now_spreading_across_the_globe_cleafy/",
+          "publishedOn": "2022-03-01T11:17:24.000Z",
+          "wordCount": null,
+          "title": "TeaBot is now spreading across the globe | Cleafy Labs",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/netsec/comments/t42vu1/exploiting_cve202126708_linux_kernel_with_sshd/",
+          "author": null,
+          "description": "submitted by    /u/hardenedvault  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/netsec/comments/t42vu1/exploiting_cve202126708_linux_kernel_with_sshd/",
+          "publishedOn": "2022-03-01T08:04:39.000Z",
+          "wordCount": null,
+          "title": "Exploiting CVE-2021-26708 (Linux kernel) with sshd",
+          "imageUrl": null
+        },
         {
           "id": "https://www.reddit.com/r/netsec/comments/t3mjv1/breaking_googles_recaptcha_v2_using_google_again/",
           "author": null,
@@ -31400,6 +31870,36 @@
       "feedUrl": "https://www.reddit.com/r/opendirectories/.rss",
       "siteUrl": "https://www.reddit.com/r/opendirectories/",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/opendirectories/comments/t4iznf/open_directories_kodi_addon_for_version_19_matrix/",
+          "author": null,
+          "description": "Anybody know where there is an updated version of the open directories addon for Kodi?\n We had an addon for Kodi version 18 Leia, but since that version relied on python 2, we now need an updated version for python 3. Or something similar.\n    submitted by    /u/studio222  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/opendirectories/comments/t4iznf/open_directories_kodi_addon_for_version_19_matrix/",
+          "publishedOn": "2022-03-01T21:33:51.000Z",
+          "wordCount": null,
+          "title": "Open Directories Kodi addon for version 19 Matrix?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/opendirectories/comments/t4io41/collection_of_vintage_video_game_and_pc/",
+          "author": null,
+          "description": "http://ftp.kameli.net/pub/pkpvideos/\n    submitted by    /u/inoculatemedia  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/opendirectories/comments/t4io41/collection_of_vintage_video_game_and_pc/",
+          "publishedOn": "2022-03-01T21:19:54.000Z",
+          "wordCount": null,
+          "title": "Collection of vintage video game and pc commercials",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/opendirectories/comments/t4b0ru/ministry_of_economic_development_of_russia_leaked/",
+          "author": null,
+          "description": "The sites seem to be down but I will provide the links in case they are back on.\n https://old.economy.gov.ru/minec/resources/\n https://old.economy.gov.ru/wps/wcm/connect/economylib4/designElements/resources/\n These are the tweets that link me there: https://twitter.com/youranonone/status/1498685800241934342?s=21\n https://twitter.com/anonymous_link/status/1498607316836536320?s=21\n    submitted by    /u/__babygiraffe__  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/opendirectories/comments/t4b0ru/ministry_of_economic_development_of_russia_leaked/",
+          "publishedOn": "2022-03-01T15:52:37.000Z",
+          "wordCount": null,
+          "title": "Ministry of Economic Development of Russia Leaked by anonymous",
+          "imageUrl": null
+        },
         {
           "id": "https://www.reddit.com/r/opendirectories/comments/t3jas7/microscopic_aquatic_animals/",
           "author": null,
@@ -34572,6 +35072,26 @@
       "feedUrl": "https://www.hackingarticles.in/feed/",
       "siteUrl": "https://www.hackingarticles.in",
       "articles": [
+        {
+          "id": "https://www.hackingarticles.in/?p=27806",
+          "author": "Raj Chandel",
+          "description": "Introduction Exe2hex is a tool developed by g0tmilk which can be found here. The tool transcribes EXE into a series of hexadecimal strings which can\nThe post File Transfer Filter Bypass: Exe2Hex appeared first on Hacking Articles.",
+          "link": "https://www.hackingarticles.in/file-transfer-filter-bypass-exe2hex/",
+          "publishedOn": "2022-02-28T11:50:14.000Z",
+          "wordCount": null,
+          "title": "File Transfer Filter Bypass: Exe2Hex",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.hackingarticles.in/?p=27803",
+          "author": "Raj Chandel",
+          "description": "Introduction According to MITRE, “Adversaries may configure system settings to automatically execute a program during system boot or logon to maintain persistence or gain higher-level\nThe post Windows Persistence: Shortcut Modification (T1547) appeared first on Hacking Articles.",
+          "link": "https://www.hackingarticles.in/windows-persistence-shortcut-modification-t1547/",
+          "publishedOn": "2022-02-28T06:31:42.000Z",
+          "wordCount": null,
+          "title": "Windows Persistence: Shortcut Modification (T1547)",
+          "imageUrl": null
+        },
         {
           "id": "https://www.hackingarticles.in/?p=27799",
           "author": "Raj Chandel",
@@ -39921,7 +40441,7 @@
     {
       "title": "Penetration Testing Lab",
       "feedUrl": "https://pentestlab.blog/feed/",
-      "siteUrl": "https://pentestlab.blog",
+      "siteUrl": "http://pentestlab.blog",
       "articles": [
         {
           "id": "https://pentestlab.blog/?p=30353",
@@ -40876,6 +41396,16 @@
       "feedUrl": "https://www.sec-wiki.com/news/rss",
       "siteUrl": "http://www.sec-wiki.com/",
       "articles": [
+        {
+          "id": "http://www.sec-wiki.com/?2022-02-28",
+          "author": null,
+          "description": "SecWiki周刊（第417期)  by ourren\n以PoC迁移促进漏洞评估  by ourren\n更多最新文章，请访问SecWiki",
+          "link": "http://www.sec-wiki.com/?2022-02-28",
+          "publishedOn": "2022-02-28T15:58:20.000Z",
+          "wordCount": null,
+          "title": "SecWiki News 2022-02-28 Review",
+          "imageUrl": null
+        },
         {
           "id": "http://www.sec-wiki.com/?2022-02-27",
           "author": null,
