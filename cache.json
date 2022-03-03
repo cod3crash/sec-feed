@@ -6,6 +6,36 @@
       "siteUrl": "http://h1.nobbd.de/",
       "articles": [
         {
+          "id": "https://hackerone.com/reports/1475520",
+          "author": null,
+          "description": "TikTok disclosed a bug submitted by datph4m: https://hackerone.com/reports/1475520 - Bounty: $5000",
+          "link": "https://hackerone.com/reports/1475520",
+          "publishedOn": "2022-03-02T21:15:56.000Z",
+          "wordCount": null,
+          "title": "IDOR delete any Tickets on ads.tiktok.com",
+          "imageUrl": null
+        },
+        {
+          "id": "https://hackerone.com/reports/1378533",
+          "author": null,
+          "description": "TikTok disclosed a bug submitted by lu3ky-13: https://hackerone.com/reports/1378533 - Bounty: $500",
+          "link": "https://hackerone.com/reports/1378533",
+          "publishedOn": "2022-03-02T21:13:47.000Z",
+          "wordCount": null,
+          "title": "Open Redirect TO  Stealing aadvid",
+          "imageUrl": null
+        },
+        {
+          "id": "https://hackerone.com/reports/1354161",
+          "author": null,
+          "description": "Pornhub disclosed a bug submitted by wh0ru: https://hackerone.com/reports/1354161 - Bounty: $750",
+          "link": "https://hackerone.com/reports/1354161",
+          "publishedOn": "2022-03-02T12:30:35.000Z",
+          "wordCount": null,
+          "title": "Reflected XSS on www.pornhub.com and www.pornhubpremium.com",
+          "imageUrl": null
+        },
+        {
           "id": "https://hackerone.com/reports/1486341",
           "author": null,
           "description": "Acronis disclosed a bug submitted by hatnare: https://hackerone.com/reports/1486341",
@@ -2583,6 +2613,16 @@
       "siteUrl": "https://infosecwriteups.com?source=rss----7b722bfd1b8d---4",
       "articles": [
         {
+          "id": "https://medium.com/p/dea776b1b53d",
+          "author": "Pencer",
+          "description": "",
+          "link": "https://infosecwriteups.com/driver-from-hackthebox-detailed-walkthrough-dea776b1b53d?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2022-03-02T15:07:45.000Z",
+          "wordCount": null,
+          "title": "Driver from HackTheBox — Detailed Walkthrough",
+          "imageUrl": null
+        },
+        {
           "id": "https://medium.com/p/e640c76e497b",
           "author": "InfoSec Write-ups",
           "description": "",
@@ -4261,6 +4301,106 @@
       "feedUrl": "https://medium.com/feed/tag/bugbounty",
       "siteUrl": "https://medium.com/tag/bugbounty/latest?source=rss------bugbounty-5",
       "articles": [
+        {
+          "id": "https://medium.com/p/5386cf492cad",
+          "author": "Nawaf Alkhaldi",
+          "description": "Hello everyone! Today im going to explain how i found a 4300$ IDOR Bug on Instagram.\nContinue reading on Medium »",
+          "link": "https://medium.com/@nvmeeet/4300-instagram-idor-bug-2022-5386cf492cad?source=rss------bugbounty-5",
+          "publishedOn": "2022-03-02T20:58:06.000Z",
+          "wordCount": null,
+          "title": "4300$ Instagram IDOR Bug (2022)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/4b1a13b272a0",
+          "author": "Md. Nur Habib",
+          "description": "1. Nmap (Network Mapper)\nContinue reading on Medium »",
+          "link": "https://medium.com/@thenurhabib/my-personal-favourite-top-20-hacking-tool-4b1a13b272a0?source=rss------bugbounty-5",
+          "publishedOn": "2022-03-02T20:00:44.000Z",
+          "wordCount": null,
+          "title": "My personal favourite top 20 hacking tools.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/31730ca3305c",
+          "author": "Mirabbas Agalarov",
+          "description": "What is the John The Riper?\nContinue reading on Medium »",
+          "link": "https://mirabbasagalarov.medium.com/what-is-the-john-the-riper-jtr-how-to-use-jtr-31730ca3305c?source=rss------bugbounty-5",
+          "publishedOn": "2022-03-02T17:27:43.000Z",
+          "wordCount": null,
+          "title": "What is the John The Riper(JTR)? How to use JTR?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/9b051ed749ca",
+          "author": "Fenrir",
+          "description": "Hello,\nContinue reading on Medium »",
+          "link": "https://medium.com/@1337Fenrir/how-did-i-find-directory-traversal-attack-using-github-9b051ed749ca?source=rss------bugbounty-5",
+          "publishedOn": "2022-03-02T15:28:35.000Z",
+          "wordCount": null,
+          "title": "How did I find Directory Traversal attack using GitHub",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/47e211331386",
+          "author": "apex",
+          "description": "Hello people, it’s me again. In most cases, with automated tools, you can possibly find low level security bugs i.e most likely Blind XSS…\nContinue reading on Medium »",
+          "link": "https://apexvicky.medium.com/bug-bounty-how-to-approach-vulnerabilities-part-1-47e211331386?source=rss------bugbounty-5",
+          "publishedOn": "2022-03-02T14:29:56.000Z",
+          "wordCount": null,
+          "title": "Bug Bounty — How to approach Vulnerabilities ( PART 1 )",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/ff2aa8ea1201",
+          "author": "Brandon Roldan",
+          "description": "I was trying to improve my static analysis code, specifically django apps, so i decided to hack a random project in github. And i found…\nContinue reading on Medium »",
+          "link": "https://noob3xploiter.medium.com/idor-in-support-mozilla-org-through-code-review-ff2aa8ea1201?source=rss------bugbounty-5",
+          "publishedOn": "2022-03-02T14:06:42.000Z",
+          "wordCount": null,
+          "title": "IDOR in support.mozilla.org through Code Review",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/1d679c1a5823",
+          "author": "Pushkarr Vohra",
+          "description": "As the Pandora community continues to grow stronger with each passing day, we would like to take this opportunity to thank everyone for…\nContinue reading on Pandora Protocol »",
+          "link": "https://medium.com/pandoraprotocol/community-newsletter-march-2022-1d679c1a5823?source=rss------bugbounty-5",
+          "publishedOn": "2022-03-02T13:51:03.000Z",
+          "wordCount": null,
+          "title": "Community Newsletter — March 2022",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/9880ec91de63",
+          "author": "Ori Abramovsky",
+          "description": "Secrets in code\nContinue reading on CodeX »",
+          "link": "https://medium.com/codex/do-data-practitioners-are-the-new-security-weakest-link-9880ec91de63?source=rss------bugbounty-5",
+          "publishedOn": "2022-03-02T11:58:48.000Z",
+          "wordCount": null,
+          "title": "Do data practitioners are the new (security) weakest link?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/b6f5f59947d2",
+          "author": "Awez Kagdi",
+          "description": "Vulnerability Category: Business Logic Error\nContinue reading on Medium »",
+          "link": "https://medium.com/@awezkagdi.ak/business-logic-bug-email-existing-bypass-running-2-accounts-with-a-single-email-b6f5f59947d2?source=rss------bugbounty-5",
+          "publishedOn": "2022-03-02T05:52:35.000Z",
+          "wordCount": null,
+          "title": "Business Logic Bug| Email Existing Bypass | Running 2 accounts with a single email",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/69f79aa93221",
+          "author": "rei_hunt",
+          "description": "Cre : https://medium.com/@fcwdbrqmr/400-bounty-again-using-google-dorks-6dc8e438f017\nContinue reading on Medium »",
+          "link": "https://rei-hunt.medium.com/find-bugs-by-google-dork-method-69f79aa93221?source=rss------bugbounty-5",
+          "publishedOn": "2022-03-02T03:53:58.000Z",
+          "wordCount": null,
+          "title": "Find bugs by Google dork method",
+          "imageUrl": null
+        },
         {
           "id": "https://medium.com/p/3b2a649bdc3",
           "author": "Jesse Clark",
@@ -8583,6 +8723,16 @@
       "siteUrl": "https://medium.com/tag/redteam/latest?source=rss------redteam-5",
       "articles": [
         {
+          "id": "https://medium.com/p/112aed524ad",
+          "author": "Allen Butler",
+          "description": "This post outlines techniques to exfiltrate files using curl and encode, encrypt, and save captured files using a custom Flask Web Server\nContinue reading on Maveris Labs »",
+          "link": "https://medium.com/maverislabs/bash-tricks-for-file-exfiltration-over-http-s-using-flask-112aed524ad?source=rss------redteam-5",
+          "publishedOn": "2022-03-02T15:57:42.000Z",
+          "wordCount": null,
+          "title": "Bash Tricks for File Exfiltration over HTTP/S using Flask",
+          "imageUrl": null
+        },
+        {
           "id": "https://medium.com/p/f8190d43ae31",
           "author": "Marcos Henrique",
           "description": "Este artigo tem como objetivo reforçar a importância da realização do hardening e/ou revisão de segurança antes de colocar um servidor de…\nContinue reading on 100security »",
@@ -9251,6 +9401,16 @@
       "feedUrl": "https://medium.com/feed/bugbountywriteup",
       "siteUrl": "https://infosecwriteups.com?source=rss----7b722bfd1b8d---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/dea776b1b53d",
+          "author": "Pencer",
+          "description": "",
+          "link": "https://infosecwriteups.com/driver-from-hackthebox-detailed-walkthrough-dea776b1b53d?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2022-03-02T15:07:45.000Z",
+          "wordCount": null,
+          "title": "Driver from HackTheBox — Detailed Walkthrough",
+          "imageUrl": null
+        },
         {
           "id": "https://medium.com/p/e640c76e497b",
           "author": "InfoSec Write-ups",
@@ -10930,6 +11090,36 @@
       "feedUrl": "https://medium.com/feed/tag/osint",
       "siteUrl": "https://medium.com/tag/osint/latest?source=rss------osint-5",
       "articles": [
+        {
+          "id": "https://medium.com/p/b82fbb561748",
+          "author": "Vigneshwaran J",
+          "description": "One fine day I was Scrolling through tweets and my eyes got a tweet that Dan Conn tweeted a osint challenge on Oct 5, 2021 mentioning his…\nContinue reading on Medium »",
+          "link": "https://medium.com/@vignsh0104/my-first-osint-challenge-b82fbb561748?source=rss------osint-5",
+          "publishedOn": "2022-03-02T14:15:30.000Z",
+          "wordCount": null,
+          "title": "My First Osint Challenge",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/a37d9e8bd775",
+          "author": "Chad Warner",
+          "description": "Maltego is a tool for OSINT and visual link analysis. It can pull data from multiple sources to explore the properties of entities and the…\nContinue reading on Medium »",
+          "link": "https://warnerchad.medium.com/maltego-osint-tool-intro-a37d9e8bd775?source=rss------osint-5",
+          "publishedOn": "2022-03-02T13:08:33.000Z",
+          "wordCount": null,
+          "title": "Maltego OSINT Tool Intro",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/7e8cca3274aa",
+          "author": "Lampyre.io",
+          "description": "Our recent articles mostly tell about Lampyre’s OSINT capabilities. This one will be different as it describes the data analysis side of…\nContinue reading on Medium »",
+          "link": "https://lampyre-io.medium.com/working-with-your-own-data-tips-and-tricks-to-kickstart-your-analytical-task-7e8cca3274aa?source=rss------osint-5",
+          "publishedOn": "2022-03-02T08:55:19.000Z",
+          "wordCount": null,
+          "title": "Working with your own data: tips and tricks to kickstart your analytical task",
+          "imageUrl": null
+        },
         {
           "id": "https://medium.com/p/2afb8311c89e",
           "author": "Olivier Dupuis",
@@ -15758,6 +15948,26 @@
       "siteUrl": "https://www.freebuf.com",
       "articles": [
         {
+          "id": "https://www.freebuf.com/news/323675.html",
+          "author": null,
+          "description": "苹果表示，在俄罗斯对乌克兰发动攻击后，它已经停止在俄罗斯销售其产品并限制苹果支付功能。",
+          "link": "https://www.freebuf.com/news/323675.html",
+          "publishedOn": "2022-03-02T11:38:56.000Z",
+          "wordCount": null,
+          "title": "FreeBuf早报 | 乌研究员泄露 Conti 勒索软件源代码；苹果禁用俄 iPhone 核心功能",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.freebuf.com/articles/database/323667.html",
+          "author": null,
+          "description": "挖矿木马最大的一个特征就是cpu资源占用非常高，top命令查看cpu情况，可以看出xmr这个进程占用cpu资源很高。",
+          "link": "https://www.freebuf.com/articles/database/323667.html",
+          "publishedOn": "2022-03-02T09:16:41.000Z",
+          "wordCount": null,
+          "title": "快速定位挖矿木马！",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.freebuf.com/news/323609.html",
           "author": null,
           "description": "《规定》明确，应用算法推荐技术，是指利用生成合成类、个性化推送类、排序精选类、检索过滤类、调度决策类等算法技术向用户提供信息。",
@@ -15795,6 +16005,16 @@
           "publishedOn": "2022-03-01T02:45:31.000Z",
           "wordCount": null,
           "title": "丰田日本工厂因供应商遭受网络攻击而停止生产",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.freebuf.com/articles/network/323524.html",
+          "author": null,
+          "description": "网络战已经发展成与海、陆、空、天等领域具有相同的领域地位，也被列为“第五战场”。",
+          "link": "https://www.freebuf.com/articles/network/323524.html",
+          "publishedOn": "2022-03-01T02:44:39.000Z",
+          "wordCount": null,
+          "title": "网络战发展成“第五战场”，这些数据告诉你乌克兰的网络现状",
           "imageUrl": null
         },
         {
@@ -15878,6 +16098,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.freebuf.com/articles/web/321245.html",
+          "author": null,
+          "description": "其实也算是很早就听说了文件上传漏洞，并在一些CTF比赛中做了一些题目，再刷一遍port的吧。",
+          "link": "https://www.freebuf.com/articles/web/321245.html",
+          "publishedOn": "2022-02-28T05:10:26.000Z",
+          "wordCount": null,
+          "title": "Portswigger 文件上传系列 File Upload详细笔记",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.freebuf.com/articles/323398.html",
           "author": null,
           "description": "匿名者组织入侵白俄网络，并影响起铁路运营。",
@@ -15905,6 +16135,16 @@
           "publishedOn": "2022-02-28T01:39:45.000Z",
           "wordCount": null,
           "title": "2021年未修补漏洞利用为勒索软件攻击依赖主要切入点",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.freebuf.com/sectool/323345.html",
+          "author": null,
+          "description": "为渗透测试工程师、程序员、网站管理员、IT 管理员以及几乎所有需要以更简单的方式处理远程工作的用户提供大量定制功能。",
+          "link": "https://www.freebuf.com/sectool/323345.html",
+          "publishedOn": "2022-02-26T07:04:17.000Z",
+          "wordCount": null,
+          "title": "开源远程服务器管理工具箱：UltimateShell",
           "imageUrl": null
         },
         {
@@ -20914,6 +21154,16 @@
       "siteUrl": "http://www.sec-wiki.com/",
       "articles": [
         {
+          "id": "http://www.sec-wiki.com/?2022-03-02",
+          "author": null,
+          "description": "合作方数据安全闭环管理实践  by ourren\n更多最新文章，请访问SecWiki",
+          "link": "http://www.sec-wiki.com/?2022-03-02",
+          "publishedOn": "2022-03-02T15:58:20.000Z",
+          "wordCount": null,
+          "title": "SecWiki News 2022-03-02 Review",
+          "imageUrl": null
+        },
+        {
           "id": "http://www.sec-wiki.com/?2022-03-01",
           "author": null,
           "description": "聊一聊《Bvp47 美国NSA方程式的顶级后门》中的BPF隐藏信道  by ourren\nDICOS：在Stack Overflow社区不安全代码发现方法  by ourren\n2022年最热安全技术\"BAS\"详解  by ourren\n更多最新文章，请访问SecWiki",
@@ -21648,6 +21898,66 @@
       "feedUrl": "https://www.reddit.com/r/asknetsec/.rss",
       "siteUrl": "https://www.reddit.com/r/asknetsec/",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/t5fhsh/whats_your_favourite_sandbox/",
+          "author": null,
+          "description": "Hi guys, I'm going to build a simple home lab on a budget . Need recommendations regarding easy to deploy sandbox. What's your favorite sandbox and why?\n    submitted by    /u/breadcrumb2000  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/t5fhsh/whats_your_favourite_sandbox/",
+          "publishedOn": "2022-03-03T01:19:33.000Z",
+          "wordCount": null,
+          "title": "What's your favourite Sandbox ?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/t56x5m/if_you_change_the_sim_card_google_will/",
+          "author": null,
+          "description": "A tech at Verizon put his personal SIM in my phone to see if it could support the network. I'm attempting to change from ATT to Verizon on my unlocked android phone.\n A little while later, a notification from google that his personal phone number has been added to my Google account(s), alongside my own phone #.\n Does this mean that you can access someone's Google account(s) by surreptitiously inserting a SIM into their phone, even if you don't have their pin# or severed finger?\n    submitted by    /u/Dougolicious  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/t56x5m/if_you_change_the_sim_card_google_will/",
+          "publishedOn": "2022-03-02T18:39:17.000Z",
+          "wordCount": null,
+          "title": "If you change the SIM card, google will automatically add that number to your google account.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/t5427a/ghosted_after_vulnerability_disclosure/",
+          "author": null,
+          "description": "I recently disclosed a unauthenticated RCE to a company that provides virtual network appliances, the process was going good and they patched the vulnerability, but upon my request for patch release/notes they ghosted me. \n I already have CVE numbers assigned but would like to have mitre publish them but don't know what to do if the company is not being cooperative, anyone have any suggestions?\n    submitted by    /u/BasedThug  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/t5427a/ghosted_after_vulnerability_disclosure/",
+          "publishedOn": "2022-03-02T16:35:22.000Z",
+          "wordCount": null,
+          "title": "Ghosted after vulnerability disclosure",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/t4rui2/should_i_pursue_the_oscp_certification/",
+          "author": null,
+          "description": "I have 6 years of experience as a software engineer, and recently started working as an Application Security Engineer doing mostly static and dynamic analysis of our apps. I have plenty of books and online courses to work through, and recently started tinkering with HackTheBox. I thought about pursuing the OSCP cert. Realistically with a full-time security job and other obligations I probably won't be able to commit all my spare time to this, so the 30/60/90 day lab access periods probably won't be enough time to finish the course. The 1 year long lab access is $2500, which is quite a steep price. I'm curious to know if the OSCP training will benefit me in a way that my job and HackTheBox won't.\n    submitted by    /u/cppnewb  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/t4rui2/should_i_pursue_the_oscp_certification/",
+          "publishedOn": "2022-03-02T04:38:38.000Z",
+          "wordCount": null,
+          "title": "Should I pursue the OSCP certification?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/t4qqjx/iso_270012021_gap_analysis/",
+          "author": null,
+          "description": "Hi , I'm working for a company which is ISO 27001:2013 certified and i was asked to do a GAP analysis on ISO 27001:2021 stranded. So If there are any useful article or any references , please share it. TIA\n    submitted by    /u/darkwolf-95  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/t4qqjx/iso_270012021_gap_analysis/",
+          "publishedOn": "2022-03-02T03:40:40.000Z",
+          "wordCount": null,
+          "title": "ISO 27001:2021 GAP analysis",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/t4pt3m/thoughts_on_kaspersky_avantimalware_after_recent/",
+          "author": null,
+          "description": "Hey all,\n Wondering what your thoughts are on kaspersky as an AV tool, and as a company given recent events. \n Do you think with all the independent reviewers that they could still be compromised by say KGB/Russian government?\n Sorry, not trying to be political, but the recent events can be directly tied to multiple netsec topics.\n    submitted by    /u/Fizgriz  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/t4pt3m/thoughts_on_kaspersky_avantimalware_after_recent/",
+          "publishedOn": "2022-03-02T02:54:04.000Z",
+          "wordCount": null,
+          "title": "Thoughts on Kaspersky AV/Anti-malware after recent events?",
+          "imageUrl": null
+        },
         {
           "id": "https://www.reddit.com/r/AskNetsec/comments/t4i91v/which_is_the_efficient_way_to_practice_web/",
           "author": null,
@@ -25694,6 +26004,16 @@
       "siteUrl": "https://www.reddit.com/r/redteamsec/",
       "articles": [
         {
+          "id": "https://www.reddit.com/r/redteamsec/comments/t538a2/bash_tricks_for_file_exfiltration_over_https/",
+          "author": null,
+          "description": "submitted by    /u/cyberbutler  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/redteamsec/comments/t538a2/bash_tricks_for_file_exfiltration_over_https/",
+          "publishedOn": "2022-03-02T15:58:54.000Z",
+          "wordCount": null,
+          "title": "Bash Tricks for File Exfiltration over HTTP/S using Flask",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.reddit.com/r/redteamsec/comments/t43v0m/demonstration_of_how_use_counterstrike_16_as/",
           "author": null,
           "description": "If you're a malware operator who likes to Rush B and want to manage your victims while playing games, this is for you.\n https://www.youtube.com/watch?v=b2L1lWtwBiI&t=1s\n https://twitter.com/kaganisildak/status/1498585440680656896\n    submitted by    /u/kaganisildak  \n [link]   [comments]",
@@ -27362,6 +27682,26 @@
       "siteUrl": "https://www.reddit.com/r/computerforensics/",
       "articles": [
         {
+          "id": "https://www.reddit.com/r/computerforensics/comments/t57kkf/could_artifacts_be_missing_from_magnet_axiom/",
+          "author": null,
+          "description": "Hi there, hoping some of you are Magnet Axiom users and may be able to help me with this conundrum I have *some nonessential information has been altered for protection*:\n I have received a Portable Case from someone who has full license to the platform. I understand how the Portable Case is created (via watching the Magnet tutorial videos). The Portable Case is supposed to contain the contents of John Doe's cell phone. \n Separately, I have Snapchat Returns for John Doe's Snapchat account, and as far as is known John Doe only owned the one aforementioned cell phone. \n In looking at the Artifacts in the Portable Case, there seem to be things missing.\n For example: The Portable Case is supposed to cover a time period of 01/01/2XXX through 05/15/2XXX. When comparing the Snapchat Returns > Snapchat Memories I am able to see a specific video file - I'll call it \"Selfie A\" - from 02/03/2XXX 08-48-56 UTC.\n But when looking at the Portable Case > CHAT > Snapchat Memories artifacts there is no corresponding artifact. There are other video artifacts from that same date and around that time, but not \"Selfie A.\"\n There are many files I have identified with this same issue. \n So now the question: I will admit I have not had formal training on Axiom (nor am I a digital forensics professional by trade) so I am willing to withhold suspicion for now, but, is it possible that artifacts could appear from Snapchat Returns that were missed in Axiom? Maybe \"Selfie A\" was deleted from the phone so it doesn't appear in Axiom but it does appear in the Returns data from Snapchat? (I hate even typing that question because I know even \"deleted\" things can be forensically recovered but go with me here).\n Or, is it more likely that the \"Selfie A\" artifact is visible in the Snapchat Returns but not in the Portable Case because the creator of said Portable Case chose not to include the artifact?\n    submitted by    /u/mclaughlinkessell  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/computerforensics/comments/t57kkf/could_artifacts_be_missing_from_magnet_axiom/",
+          "publishedOn": "2022-03-02T19:07:44.000Z",
+          "wordCount": null,
+          "title": "Could artifacts be missing from Magnet Axiom?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/computerforensics/comments/t52qat/tips_on_the_gdat_certification_sec599/",
+          "author": null,
+          "description": "Hi all,\n I have just enrolled for the SEC599 (OnDemand) and will be going through the GDAT exam as well. Are there any tips which could help me prepare better and pass the exam?\n My intro - Have been into SOC and IR for 5+ years now, and this is going to be my first certification\n    submitted by    /u/Suchi-Bee  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/computerforensics/comments/t52qat/tips_on_the_gdat_certification_sec599/",
+          "publishedOn": "2022-03-02T15:35:21.000Z",
+          "wordCount": null,
+          "title": "Tips on the GDAT certification (SEC599)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.reddit.com/r/computerforensics/comments/t4mc1w/pagefile_cache_question/",
           "author": null,
           "description": "Hey Guys I work in law and as you probably have experienced we are stunningly ignorant on computer forensics. When I have a bit of time I like to research various computer forensic things and evidence from browsers are quite fascinating to me. I have two questions that I'd love help answering.\n 1) I'm assuming that this is a stupid/ basic question but I read that pictures in the cache are copies of the original essentially and as such they would contain meta data like locations and so on, is that also correct for stuff in the pagefile?\n 2) I've messed around with the belkasoft software trail run to view the pagefile on my PC, the categories that the data is broken up into is fairly understandable browsers, instant messengers. And they contain images and urls. However there is a category called other files and I'm not sure what is contained in them?\n    submitted by    /u/curiousstudent99l  \n [link]   [comments]",
@@ -28952,6 +29292,36 @@
       "feedUrl": "https://www.reddit.com/r/netsec/.rss",
       "siteUrl": "https://www.reddit.com/r/netsec/",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/netsec/comments/t54e5g/moodle_2nd_order_sqli_0day/",
+          "author": null,
+          "description": "submitted by    /u/mufinnnnnnn  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/netsec/comments/t54e5g/moodle_2nd_order_sqli_0day/",
+          "publishedOn": "2022-03-02T16:49:53.000Z",
+          "wordCount": null,
+          "title": "moodle 2nd order sqli 0-day",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/netsec/comments/t50wij/how_to_analyze_malicious_documents_case_study_of/",
+          "author": null,
+          "description": "submitted by    /u/CyberMasterV  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/netsec/comments/t50wij/how_to_analyze_malicious_documents_case_study_of/",
+          "publishedOn": "2022-03-02T14:08:07.000Z",
+          "wordCount": null,
+          "title": "How to analyze malicious documents – Case study of an attack targeting Ukrainian Organizations",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/netsec/comments/t4vjcm/guardio_security_team_discovered_an_active/",
+          "author": null,
+          "description": "submitted by    /u/oldrobgin  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/netsec/comments/t4vjcm/guardio_security_team_discovered_an_active/",
+          "publishedOn": "2022-03-02T08:23:23.000Z",
+          "wordCount": null,
+          "title": "Guardio security team discovered an active network of sophisticated crypto attacks targeting the MetaMask wallet",
+          "imageUrl": null
+        },
         {
           "id": "https://www.reddit.com/r/netsec/comments/t4f901/5_new_vulnerabilities_in_pjsip_multimedia_library/",
           "author": null,
@@ -31870,6 +32240,26 @@
       "feedUrl": "https://www.reddit.com/r/opendirectories/.rss",
       "siteUrl": "https://www.reddit.com/r/opendirectories/",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/opendirectories/comments/t57eq5/thought_this_might_be_of_interest/",
+          "author": null,
+          "description": "​\n ​\n https://46.mangovideo.pw/contents/videos/\n http://server217.mangovideo.pw/contents/videos/\n https://177.mangovideo.pw/contents/videos/\n https://68.mangovideo.pw/contents/videos/\n https://server9.mangovideo.pw/contents/videos/\n https://45.mangovideo.pw/contents/videos/\n https://new.mangovideo.pw/contents/videos/\n https://5.mangovideo.pw/contents/videos/\n https://234.mangovideo.pw/contents/videos/\n https://183.mangovideo.pw/contents/videos/\n https://31.mangovideo.pw/contents/videos/\n https://60.mangovideo.pw/contents/videos/\n https://s10.mangovideo.pw/contents/videos/\n https://183.mangovideo.pw/contents/videos/\n    submitted by    /u/TiThelis  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/opendirectories/comments/t57eq5/thought_this_might_be_of_interest/",
+          "publishedOn": "2022-03-02T19:00:39.000Z",
+          "wordCount": null,
+          "title": "Thought this might be of interest",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/opendirectories/comments/t4wk1v/calishot_202203_find_ebooks_amongst_395_calibre/",
+          "author": null,
+          "description": "submitted by    /u/throwaway176535  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/opendirectories/comments/t4wk1v/calishot_202203_find_ebooks_amongst_395_calibre/",
+          "publishedOn": "2022-03-02T09:36:28.000Z",
+          "wordCount": null,
+          "title": "CALISHOT 2022-03: Find ebooks amongst 395 Calibre sites this month.",
+          "imageUrl": null
+        },
         {
           "id": "https://www.reddit.com/r/opendirectories/comments/t4iznf/open_directories_kodi_addon_for_version_19_matrix/",
           "author": null,
@@ -35697,6 +36087,17 @@
       "feedUrl": "http://feeds.feedburner.com/Unit42",
       "siteUrl": "https://unit42.paloaltonetworks.com",
       "articles": [
+        {
+          "id": "https://unit42.paloaltonetworks.com/?p=122161",
+          "author": "Erica Naone",
+          "description": "Scans of more than 200,000 infusion pumps on the networks of hospitals and other healthcare organizations found 75% had known security gaps.\nThe post Know Your Infusion Pump Vulnerabilities and Secure Your Healthcare Organization appeared first on Unit42.",
+          "link": "https://unit42.paloaltonetworks.com/infusion-pump-vulnerabilities/",
+          "publishedOn": "2022-03-02T14:00:41.000Z",
+          "wordCount": null,
+          "title": "Know Your Infusion Pump Vulnerabilities and Secure Your Healthcare Organization",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "https://unit42.paloaltonetworks.com/?p=122070",
           "author": "Unit 42",
@@ -41080,6 +41481,26 @@
       "siteUrl": "https://www.hackingarticles.in",
       "articles": [
         {
+          "id": "https://www.hackingarticles.in/?p=27806",
+          "author": "Raj Chandel",
+          "description": "Introduction Exe2hex is a tool developed by g0tmilk which can be found here. The tool transcribes EXE into a series of hexadecimal strings which can\nThe post File Transfer Filter Bypass: Exe2Hex appeared first on Hacking Articles.",
+          "link": "https://www.hackingarticles.in/file-transfer-filter-bypass-exe2hex/",
+          "publishedOn": "2022-02-28T11:50:14.000Z",
+          "wordCount": null,
+          "title": "File Transfer Filter Bypass: Exe2Hex",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.hackingarticles.in/?p=27803",
+          "author": "Raj Chandel",
+          "description": "Introduction According to MITRE, “Adversaries may configure system settings to automatically execute a program during system boot or logon to maintain persistence or gain higher-level\nThe post Windows Persistence: Shortcut Modification (T1547) appeared first on Hacking Articles.",
+          "link": "https://www.hackingarticles.in/windows-persistence-shortcut-modification-t1547/",
+          "publishedOn": "2022-02-28T06:31:42.000Z",
+          "wordCount": null,
+          "title": "Windows Persistence: Shortcut Modification (T1547)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.hackingarticles.in/?p=27799",
           "author": "Raj Chandel",
           "description": "Introduction Will Schroeder and Lee Christensen wrote a research paper on this technique which can be referred to here. In ESC8 technique mentioned in the research\nThe post Domain Escalation: PetitPotam NTLM Relay to ADCS Endpoints appeared first on Hacking Articles.",
@@ -41396,6 +41817,16 @@
       "feedUrl": "https://www.sec-wiki.com/news/rss",
       "siteUrl": "http://www.sec-wiki.com/",
       "articles": [
+        {
+          "id": "http://www.sec-wiki.com/?2022-03-01",
+          "author": null,
+          "description": "聊一聊《Bvp47 美国NSA方程式的顶级后门》中的BPF隐藏信道  by ourren\nDICOS：在Stack Overflow社区不安全代码发现方法  by ourren\n2022年最热安全技术\"BAS\"详解  by ourren\n更多最新文章，请访问SecWiki",
+          "link": "http://www.sec-wiki.com/?2022-03-01",
+          "publishedOn": "2022-03-01T15:58:20.000Z",
+          "wordCount": null,
+          "title": "SecWiki News 2022-03-01 Review",
+          "imageUrl": null
+        },
         {
           "id": "http://www.sec-wiki.com/?2022-02-28",
           "author": null,
