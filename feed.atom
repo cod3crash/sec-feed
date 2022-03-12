@@ -2,10 +2,514 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cod3crash.github.io/sec-feed/index.html</id>
     <title>security feed</title>
-    <updated>2022-03-11T01:24:11.236Z</updated>
+    <updated>2022-03-12T01:13:22.184Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://cod3crash.github.io/sec-feed/index.html"/>
     <link rel="self" href="https://cod3crash.github.io/sec-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Insecure comparison in PHP — Business Logic Bypass vulnerability]]></title>
+        <id>https://medium.com/p/83e08190f2e2</id>
+        <link href="https://infosecwriteups.com/insecure-comparison-in-php-business-logic-bypass-vulnerability-83e08190f2e2?source=rss------bugbounty-5"/>
+        <updated>2022-03-11T23:12:05.000Z</updated>
+        <summary type="html"><![CDATA[I have recently spotted an interesting vulnerability in a PHP application, which was in scope of a private bug bounty program. This…
+Continue reading on InfoSec Write-ups »]]></summary>
+        <author>
+            <name>Marcin Szydlowski</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Did I Leak 5.2k Customer Data From a Large Company? (via Broken Access Control)]]></title>
+        <id>https://medium.com/p/709eb4027409</id>
+        <link href="https://canmustdie.medium.com/how-did-i-leak-5-2k-customer-data-from-a-large-company-via-broken-access-control-709eb4027409?source=rss------bugbounty-5"/>
+        <updated>2022-03-11T23:08:48.000Z</updated>
+        <summary type="html"><![CDATA[Hello everyone!
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>can1337</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Content!]]></title>
+        <id>https://medium.com/p/3ac6beef528d</id>
+        <link href="https://passkwall.medium.com/new-content-3ac6beef528d?source=rss------redteam-5"/>
+        <updated>2022-03-11T23:07:23.000Z</updated>
+        <summary type="html"><![CDATA[Hello! If you happen to find this page, all content has been moved and will be published to my new site going forward.
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Pasquale</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[As an IT veteran, getting into Cybersecurity. What are my best next steps to move toward an IT/Cybersecurity Forensics career?]]></title>
+        <id>https://www.reddit.com/r/computerforensics/comments/tc0mfp/as_an_it_veteran_getting_into_cybersecurity_what/</id>
+        <link href="https://www.reddit.com/r/computerforensics/comments/tc0mfp/as_an_it_veteran_getting_into_cybersecurity_what/"/>
+        <updated>2022-03-11T21:29:51.000Z</updated>
+        <summary type="html"><![CDATA[Hello everyone. 
+ I will achieve my Security+ degree this year (mere months away). Currently, I have lots of IT experience, over 20 years of IT analyst, Helpdesk, and IT Desktop support, but I'm new to IT Security beyond what those roles entail. 
+ My question is: What should my next step(s) be to getting a solid Cybersecurity Forensics career underway? I love remote (WFH) work and hope to one day have more of that, and less office time needed, but starting out, I'll do what I have to do.
+ Do I need to study for a more advanced cert right away after getting the Security+? I know I need to work in a more entry-level IT Security-based job FIRST, get my feet wet obviously, prove I can do the basics, but beyond that, what should I be focusing on to move in the IT forensics direction?
+ I really do appreciate any help, tips, play by plays, or just guidance for this general.
+    submitted by    /u/cleverestx  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Computer Forensics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SATCOM terminals under attack in Europe: a plausible analysis.]]></title>
+        <id>https://www.reddit.com/r/netsec/comments/tbzdkh/satcom_terminals_under_attack_in_europe_a/</id>
+        <link href="https://www.reddit.com/r/netsec/comments/tbzdkh/satcom_terminals_under_attack_in_europe_a/"/>
+        <updated>2022-03-11T20:31:33.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/eberkut  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>/r/netsec - Information Security News &amp; Discussion</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LockBit 2.0 ransomware bugs and database recovery attempts]]></title>
+        <id>https://www.reddit.com/r/redteamsec/comments/tbz5vm/lockbit_20_ransomware_bugs_and_database_recovery/</id>
+        <link href="https://www.reddit.com/r/redteamsec/comments/tbz5vm/lockbit_20_ransomware_bugs_and_database_recovery/"/>
+        <updated>2022-03-11T20:21:34.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/SCI_Rusher  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Red Team Security</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google search warrant return question]]></title>
+        <id>https://www.reddit.com/r/computerforensics/comments/tbyvx9/google_search_warrant_return_question/</id>
+        <link href="https://www.reddit.com/r/computerforensics/comments/tbyvx9/google_search_warrant_return_question/"/>
+        <updated>2022-03-11T20:08:41.000Z</updated>
+        <summary type="html"><![CDATA[As you can tell by reading, I'm new to this. Thanks for any insights:
+  
+Is it normal that some of the elements of a Google search warrant are formatted in HTML as a bunch of boxes containing information? I'm surprised that it wouldn't just be all in CSV or some other easy to parse/sort format.
+ Under MyActivity, there's a document that lists browser/search activity (in boxes) that say "Visited Google Search" but none of these appear to contain any detail about what was searched. Am I not able to see what was actually searched? Is that something the user elected to keep private or is that standard reporting behavior of a Google return?
+ Is folder-by-folder, file-by-file examination of these various HTML and CSV files the way most people approach looking through these things? Is there an obvious, better way?
+  
+   submitted by    /u/PieWithIceCreamCrust  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Computer Forensics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CVE-2022-24696 – Glance by Mirametrix Privilege Escalation]]></title>
+        <id>https://www.trustedsec.com/?p=26231</id>
+        <link href="https://www.trustedsec.com/blog/cve-2022-24696-glance-by-mirametrix-privilege-escalation/"/>
+        <updated>2022-03-11T19:58:12.000Z</updated>
+        <summary type="html"><![CDATA[When investigating my laptop, I stumbled upon something interesting that resulted in privilege escalation. I use a Lenovo ThinkPad X1 Extreme Gen 1, which has an installed software named Glance, for my day-to-day work. The purpose of this software is to use the advanced web camera to figure out if you are speaking when the...
+The post CVE-2022-24696 – Glance by Mirametrix Privilege Escalation appeared first on TrustedSec.]]></summary>
+        <author>
+            <name>Nathan Noll</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What's the best free security scan tool for C/C++ files?]]></title>
+        <id>https://www.reddit.com/r/AskNetsec/comments/tbxlbc/whats_the_best_free_security_scan_tool_for_cc/</id>
+        <link href="https://www.reddit.com/r/AskNetsec/comments/tbxlbc/whats_the_best_free_security_scan_tool_for_cc/"/>
+        <updated>2022-03-11T19:07:52.000Z</updated>
+        <summary type="html"><![CDATA[My team needs to run a security analysis on an entire Github repo that includes mostly C/C++ files (a couple of non-C/C++ files are there too). What's the best free security scan tool that can be used to scan a repo in a Linux environment and scan all C/C++ files in the directories/subdirectories of the repo for bugs, vulnerabilities, code smells, etc.?
+    submitted by    /u/techsavvynerd91  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>AskNetsec</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Are the type of "Flood" attacks really important?]]></title>
+        <id>https://www.reddit.com/r/AskNetsec/comments/tbxdeh/are_the_type_of_flood_attacks_really_important/</id>
+        <link href="https://www.reddit.com/r/AskNetsec/comments/tbxdeh/are_the_type_of_flood_attacks_really_important/"/>
+        <updated>2022-03-11T18:57:58.000Z</updated>
+        <summary type="html"><![CDATA[Hey folks,
+ I'm learning about DDoS attacks, and I see a lot of ICMP floods, UDP floods, HTTP floods, etc.
+ At the end of the day, the attacker sends Ethernet frames to the victim server and its network, so if we look only at how it affects the bandwidth of server or network devices, there isn't any.
+ In my point of view, it's can only help to pass some obstacles. For example, the Firewall blocks ICMP requests, but not HTTP because it legitimate requests from a web server like Amazon.
+ Maybe the difference can be significant if we talk about exhausting CPU and RAM because probably HTTP GET or POST can require the server to do a lot more than ICMP protocol.
+ I get it right or totally messed up something?
+ Thanks.
+    submitted by    /u/Webly99  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>AskNetsec</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CVE-2020-3452 Cisco ASA / Firepower Read-Only Path Traversal Vulnerability - https://esccvc.de.ibm.com]]></title>
+        <id>https://hackerone.com/reports/938684</id>
+        <link href="https://hackerone.com/reports/938684"/>
+        <updated>2022-03-11T18:57:27.000Z</updated>
+        <summary type="html"><![CDATA[IBM disclosed a bug submitted by 0xelkomy: https://hackerone.com/reports/938684]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rate Limit Bypass at Readme.com]]></title>
+        <id>https://medium.com/p/35c4fb0c7f85</id>
+        <link href="https://medium.com/@girishbo58/rate-limit-bypass-at-readme-com-35c4fb0c7f85?source=rss------bugbounty-5"/>
+        <updated>2022-03-11T18:50:55.000Z</updated>
+        <summary type="html"><![CDATA[Hey Community !!
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Girishbo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Public Jenkins instance with /script enabled]]></title>
+        <id>https://hackerone.com/reports/1492447</id>
+        <link href="https://hackerone.com/reports/1492447"/>
+        <updated>2022-03-11T18:47:00.000Z</updated>
+        <summary type="html"><![CDATA[IBM disclosed a bug submitted by thesanjok: https://hackerone.com/reports/1492447]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Yamagata XSS journey]]></title>
+        <id>https://medium.com/p/9d35c6597527</id>
+        <link href="https://medium.com/@pragyagupta16/yamagata-xss-journey-9d35c6597527?source=rss------xss-5"/>
+        <updated>2022-03-11T18:35:12.000Z</updated>
+        <summary type="html"><![CDATA[Hi readers! This write-up is about my yamagata XSS labs journey. There is a total of 19 stages in this lab. We have to execute the…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Pragya Gupta</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How i chained open-redirect to SSRF(Server Side Request Forgery)?]]></title>
+        <id>https://medium.com/p/1123c584ccb7</id>
+        <link href="https://medium.com/@sahiloj5/how-i-chained-open-redirect-to-ssrf-server-side-request-forgery-1123c584ccb7?source=rss------bugbounty-5"/>
+        <updated>2022-03-11T17:48:40.000Z</updated>
+        <summary type="html"><![CDATA[So you are here, i have seen people reporting open-redirect without exploiting it for SSRF and being happy with low impact. You should…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Sahil Ojha</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Car transmission hack]]></title>
+        <id>https://www.reddit.com/r/AskNetsec/comments/tbv1xq/car_transmission_hack/</id>
+        <link href="https://www.reddit.com/r/AskNetsec/comments/tbv1xq/car_transmission_hack/"/>
+        <updated>2022-03-11T17:22:49.000Z</updated>
+        <summary type="html"><![CDATA[I'm a target of hackers right now. They have hacked my car alarm to beep nonstop. Now for the first time yesterday my car was hacked to go from D to Neutral while driving. Any thoughts on how they did it? Don't tell me to get maintenance on my car, I'm a former mechanic and it's not a transmission problem...
+    submitted by    /u/Dogfish18  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>AskNetsec</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘We are not ready’: a cyber expert on US vulnerability to a Russian attack]]></title>
+        <id>https://news.ycombinator.com/item?id=30642010</id>
+        <link href="https://www.theguardian.com/technology/2022/mar/10/us-russia-cyber-attack-prepared"/>
+        <updated>2022-03-11T16:32:29.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.theguardian.com/technology/2022/mar/10/us-russia-cyber-attack-prepared
+Comments URL: https://news.ycombinator.com/item?id=30642010
+Points: 1
+# Comments: 0]]></summary>
+        <author>
+            <name>LinuxBender</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Accessing home server from outside home - Possible methods without publicly opening access?]]></title>
+        <id>https://www.reddit.com/r/AskNetsec/comments/tbtj6d/accessing_home_server_from_outside_home_possible/</id>
+        <link href="https://www.reddit.com/r/AskNetsec/comments/tbtj6d/accessing_home_server_from_outside_home_possible/"/>
+        <updated>2022-03-11T16:13:37.000Z</updated>
+        <summary type="html"><![CDATA[Hello! I have a very basic homeserver connected to a router via LAN. I use it for Plex and nextcloud. I am pretty technologically adept, but I am not close to being adept at networking or security. 
+ I do take my privacy some what seriously and I'm assuming that simply portforwarding my Plex and Nextcloud instances to be able to access them outside of my house is dangerous. But I'm also in a position where I'm not informed enough to do something different. I can easily follow guides to do stuff and can troubleshoot. The homeserver runs Ubuntu.
+ Are my doubts about portforwarding unfounded? If not, what other alternatives can I use to remotely access my homeserver and how would I go about installing them?
+ I'm sorry if this is a very stupid question, as I said before, I'm not adept when it comes to networking and security.. 
+ Thanks in advance!
+    submitted by    /u/sadhgurukilledmywife  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>AskNetsec</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[ Hack The Box ] Kryptic Ransomware - Writeup]]></title>
+        <id>https://medium.com/p/f57ea5bebf73</id>
+        <link href="https://ghi11.medium.com/hack-the-box-kryptic-ransomware-writeup-f57ea5bebf73?source=rss------osint-5"/>
+        <updated>2022-03-11T15:20:41.000Z</updated>
+        <summary type="html"><![CDATA[Europol EC3 is looking for clues that will lead to the arrest and prosecution of the Enigma Team leader.
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Ghi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Introducing the mystery lab challenge]]></title>
+        <id>introducing-the-mystery-lab-challenge</id>
+        <link href="https://portswigger.net/blog/introducing-the-mystery-lab-challenge"/>
+        <updated>2022-03-11T14:30:00.000Z</updated>
+        <summary type="html"><![CDATA[For anyone who's used the Web Security Academy before, you'll be pretty familiar with the format. For those of you who haven't had the pleasure, the process goes a little bit like this: Select a set o]]></summary>
+        <author>
+            <name>PortSwigger Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TryHackMe | Red Team Fundamentals WriteUp]]></title>
+        <id>https://medium.com/p/f813fb3611f4</id>
+        <link href="https://medium.com/@tr1n1ty8/tryhackme-red-team-fundamentals-writeup-f813fb3611f4?source=rss------redteam-5"/>
+        <updated>2022-03-11T10:28:24.000Z</updated>
+        <summary type="html"><![CDATA[This room is an introduction to red teaming
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Trnty</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux 内核权限提升漏洞“DirtyPipe”（CVE-2022-0847）分析]]></title>
+        <id>http://paper.seebug.org/1844/</id>
+        <link href="http://paper.seebug.org/1844/"/>
+        <updated>2022-03-11T10:14:00.000Z</updated>
+        <summary type="html"><![CDATA[作者：启明星辰ADLab
+原文链接：https://mp.weixin.qq.com/s/RoGHvNW2Y6dZOjgsBVVm5Q
+01 漏洞详情
+近日，研究人员披露了一个Linux内核本地权限提升漏洞，发现在copy_page_to_iter_pipe和 push_pipe函数中，新分配的pipe_buffer结构体成员“flags”未被正确地初始化，可能包含旧值PIPE_BUF_FL...]]></summary>
+        <author>
+            <name>paper - Last paper</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How I was able to takeover any users account on a major telecoms website]]></title>
+        <id>https://medium.com/p/2cd5aa43e3d6</id>
+        <link href="https://medium.com/@tobydavenn/how-i-was-able-to-takeover-any-users-account-on-a-major-telecoms-website-2cd5aa43e3d6?source=rss------bugbounty-5"/>
+        <updated>2022-03-11T09:21:32.000Z</updated>
+        <summary type="html"><![CDATA[Hello, todays write up is about multiple instances of the same vulnerability I found on a major African telecoms providers website, we…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Tobydavenn</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An unexpected Redis sandbox escape affecting only Debian, Ubuntu, and other Debian derivatives]]></title>
+        <id>https://www.reddit.com/r/netsec/comments/tbmaon/an_unexpected_redis_sandbox_escape_affecting_only/</id>
+        <link href="https://www.reddit.com/r/netsec/comments/tbmaon/an_unexpected_redis_sandbox_escape_affecting_only/"/>
+        <updated>2022-03-11T09:19:24.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/albinowax  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>/r/netsec - Information Security News &amp; Discussion</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Managing your licenses in Lampyre]]></title>
+        <id>https://medium.com/p/41e7b977ff63</id>
+        <link href="https://lampyre-io.medium.com/managing-your-licenses-in-lampyre-41e7b977ff63?source=rss------osint-5"/>
+        <updated>2022-03-11T09:18:05.000Z</updated>
+        <summary type="html"><![CDATA[If you have been following us on Medium for a while, you might have read our ‘OSINT 101 with Lampyre’ article, which is basically a good…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Lampyre.io</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FreeBuf周报 | 三星被公开了源代码和190GB机密数据；Firefox再爆两个0Day漏洞]]></title>
+        <id>https://www.freebuf.com/news/324530.html</id>
+        <link href="https://www.freebuf.com/news/324530.html"/>
+        <updated>2022-03-11T09:11:13.000Z</updated>
+        <summary type="html"><![CDATA[继NVIDIA核心源代码75GB的机密数据和核心源代码被泄露后，勒索组织公开了韩国三星电子150GB的机密数据和核心源代码。]]></summary>
+        <author>
+            <name>FreeBuf网络安全行业门户</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OhSint Machine]]></title>
+        <id>https://medium.com/p/27378530a5e2</id>
+        <link href="https://medium.com/@v.v.adithya.2007/ohsint-machine-27378530a5e2?source=rss------osint-5"/>
+        <updated>2022-03-11T08:48:24.000Z</updated>
+        <summary type="html"><![CDATA[This is a walkthrough for the Osint Machine from TryHackMe . They just give us an image. Let’s open the image, we get the image of…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>V V Adithya</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to find someone on OnlyFans?]]></title>
+        <id>https://medium.com/p/59697f7b9e4</id>
+        <link href="https://medium.com/@CyberGuyknows/how-to-find-someone-on-onlyfans-59697f7b9e4?source=rss------osint-5"/>
+        <updated>2022-03-11T08:40:53.000Z</updated>
+        <summary type="html"><![CDATA[How to find someone on OnlyFans? We’ve been chatting to some experts in online investigations, what we found out was pretty useful.
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>CyberGuy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Find Someone on POF?]]></title>
+        <id>https://medium.com/p/67ab855520df</id>
+        <link href="https://medium.com/@CyberGuyknows/how-to-find-someone-on-pof-67ab855520df?source=rss------osint-5"/>
+        <updated>2022-03-11T08:33:37.000Z</updated>
+        <summary type="html"><![CDATA[Are you trying to find someone, that perhaps shouldn’t be on Plenty of Fish (POF)?
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>CyberGuy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[挑战亚马逊微软云市场“一哥”地位，谷歌拟54亿美元收购网安公司Mandiant]]></title>
+        <id>https://www.freebuf.com/articles/network/324504.html</id>
+        <link href="https://www.freebuf.com/articles/network/324504.html"/>
+        <updated>2022-03-11T07:35:05.000Z</updated>
+        <summary type="html"><![CDATA[如收购成功，Mandiant将加入谷歌的云计算部门，以更好地和亚马逊AWS和微软Azure在云市场开展竞争。]]></summary>
+        <author>
+            <name>FreeBuf网络安全行业门户</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[观仔讲堂 | APT钓鱼邮件分析]]></title>
+        <id>https://www.freebuf.com/articles/network/324500.html</id>
+        <link href="https://www.freebuf.com/articles/network/324500.html"/>
+        <updated>2022-03-11T07:11:23.000Z</updated>
+        <summary type="html"><![CDATA[近期有同事反映疑似收到了钓鱼邮件。发件人也是公司同事的名字，但发件邮箱 comercial1@qualitypro.com.co不是公司的邮箱]]></summary>
+        <author>
+            <name>FreeBuf网络安全行业门户</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CIS2021 春日版安全合规专场线上直播回顾，网安大咖建言献策共谋实践与发展]]></title>
+        <id>https://www.freebuf.com/articles/324498.html</id>
+        <link href="https://www.freebuf.com/articles/324498.html"/>
+        <updated>2022-03-11T06:49:39.000Z</updated>
+        <summary type="html"><![CDATA[安全合规是不少企业的痛点，在CIS2021 春日版安全合规专场，5位大咖通过各自具有建设性的议题，探讨企业合规建设之路。]]></summary>
+        <author>
+            <name>FreeBuf网络安全行业门户</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gallery Tryhackme Walkthrough part-1]]></title>
+        <id>https://medium.com/p/21cdf044b3b8</id>
+        <link href="https://infosecwriteups.com/gallery-tryhackme-walkthrough-part-1-21cdf044b3b8?source=rss----7b722bfd1b8d---4"/>
+        <updated>2022-03-11T05:46:37.000Z</updated>
+        <author>
+            <name>Mukilan Baskaran</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gallery Tryhackme Walkthrough part-1]]></title>
+        <id>https://medium.com/p/21cdf044b3b8</id>
+        <link href="https://infosecwriteups.com/gallery-tryhackme-walkthrough-part-1-21cdf044b3b8?source=rss----7b722bfd1b8d---4"/>
+        <updated>2022-03-11T05:46:37.000Z</updated>
+        <author>
+            <name>Mukilan Baskaran</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TryHackMe writeup: Steel Mountain]]></title>
+        <id>https://medium.com/p/d052141f8901</id>
+        <link href="https://infosecwriteups.com/tryhackme-writeup-steel-mountain-d052141f8901?source=rss----7b722bfd1b8d---4"/>
+        <updated>2022-03-11T05:45:52.000Z</updated>
+        <summary type="html"><![CDATA[Steel Mountain is a TryHackMe room that sports a Mr. Robot theme. It is great for those into hacking shows an new to the scene!
+Continue reading on InfoSec Write-ups »]]></summary>
+        <author>
+            <name>Aleksey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TryHackMe writeup: Steel Mountain]]></title>
+        <id>https://medium.com/p/d052141f8901</id>
+        <link href="https://infosecwriteups.com/tryhackme-writeup-steel-mountain-d052141f8901?source=rss------redteam-5"/>
+        <updated>2022-03-11T05:45:52.000Z</updated>
+        <summary type="html"><![CDATA[Steel Mountain is a TryHackMe room that sports a Mr. Robot theme. It is great for those into hacking shows an new to the scene!
+Continue reading on InfoSec Write-ups »]]></summary>
+        <author>
+            <name>Aleksey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TryHackMe writeup: Steel Mountain]]></title>
+        <id>https://medium.com/p/d052141f8901</id>
+        <link href="https://infosecwriteups.com/tryhackme-writeup-steel-mountain-d052141f8901?source=rss----7b722bfd1b8d---4"/>
+        <updated>2022-03-11T05:45:52.000Z</updated>
+        <summary type="html"><![CDATA[Steel Mountain is a TryHackMe room that sports a Mr. Robot theme. It is great for those into hacking shows an new to the scene!
+Continue reading on InfoSec Write-ups »]]></summary>
+        <author>
+            <name>Aleksey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FREE LABS TO TEST YOUR PENTEST/CTF SKILLS]]></title>
+        <id>https://medium.com/p/6855bc2bfb5b</id>
+        <link href="https://thenurhabib.medium.com/free-labs-to-test-your-pentest-ctf-skills-6855bc2bfb5b?source=rss------bugbounty-5"/>
+        <updated>2022-03-11T05:00:23.000Z</updated>
+        <summary type="html"><![CDATA[· Academy Hackaflag BR - https://hackaflag.com.br/
+· Attack-Defense - https://attackdefense.com
+· Alert to win - https://alf.nu/alert1
+·…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Md. Nur Habib</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CIS 2021春日版「5G与人工智能安全」专场议题回顾：5G助力安全走上快车道]]></title>
+        <id>https://www.freebuf.com/fevents/324478.html</id>
+        <link href="https://www.freebuf.com/fevents/324478.html"/>
+        <updated>2022-03-11T04:50:55.000Z</updated>
+        <summary type="html"><![CDATA[人工智能与产业结合推动爆发式增长是未来我国移动互联网发展的重大趋势之一。这样的大背景下，网络信息安全也被赋予了更广泛更深刻的定义。]]></summary>
+        <author>
+            <name>FreeBuf网络安全行业门户</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[黑客使用受污染的DDoS工具瞄准乌克兰的IT军队]]></title>
+        <id>https://www.freebuf.com/news/324477.html</id>
+        <link href="https://www.freebuf.com/news/324477.html"/>
+        <updated>2022-03-11T04:23:41.000Z</updated>
+        <summary type="html"><![CDATA[威胁参与者正在使用 一种模仿Liberator的窃取信息恶意软件，这种工具是亲乌克兰黑客用于攻击俄宣传网站的常用工具。]]></summary>
+        <author>
+            <name>FreeBuf网络安全行业门户</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[汽车之家招聘网络安全实习生]]></title>
+        <id>https://www.freebuf.com/jobs/324473.html</id>
+        <link href="https://www.freebuf.com/jobs/324473.html"/>
+        <updated>2022-03-11T03:42:19.000Z</updated>
+        <summary type="html"><![CDATA[汽车之家成立于2005年，致力于为消费者提供一站式的看车、买车、用车服务，提供优质的汽车消费和汽车生活服务。]]></summary>
+        <author>
+            <name>FreeBuf网络安全行业门户</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[浅谈云时代如何解决身份管理]]></title>
+        <id>https://www.freebuf.com/articles/neopoints/324468.html</id>
+        <link href="https://www.freebuf.com/articles/neopoints/324468.html"/>
+        <updated>2022-03-11T03:18:31.000Z</updated>
+        <summary type="html"><![CDATA[基于云的 OneAuth 服务可以通过在所有这些应用程序中提供单点登录 (SSO) 来缓解这些问题，为用户提供一个使用单个用户名和密码访问其所有资源的中心位置。]]></summary>
+        <author>
+            <name>FreeBuf网络安全行业门户</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux 内核提权 DirtyPipe(CVE-2022-0847) 漏洞分析]]></title>
+        <id>http://paper.seebug.org/1843/</id>
+        <link href="http://paper.seebug.org/1843/"/>
+        <updated>2022-03-11T02:45:00.000Z</updated>
+        <summary type="html"><![CDATA[作者：ghost461@知道创宇404实验室
+时间：2022年3月11日
+简介
+2022年2月23日, Linux内核发布漏洞补丁, 修复了内核5.8及之后版本存在的任意文件覆盖的漏洞(CVE-2022-0847), 该漏洞可导致普通用户本地提权至root特权, 因为与之前出现的DirtyCow(CVE-2016-5195)漏洞原理类似, 该漏洞被命名为DirtyPipe。
+在3月7日, 漏...]]></summary>
+        <author>
+            <name>paper - Last paper</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A bug bounty mistake…]]></title>
+        <id>https://medium.com/p/305ddf77b075</id>
+        <link href="https://adamwize.medium.com/a-bug-bounty-mistake-305ddf77b075?source=rss------bugbounty-5"/>
+        <updated>2022-03-11T01:53:19.000Z</updated>
+        <summary type="html"><![CDATA[Sometimes if it looks like XSS, it may not actually be XSS.
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Adam W.</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tencent's VooV Meeting - Thoughts?]]></title>
         <id>https://www.reddit.com/r/AskNetsec/comments/tbcvzg/tencents_voov_meeting_thoughts/</id>
@@ -156,6 +660,18 @@ Continue reading on Medium »]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[SecWiki News 2022-03-10 Review]]></title>
+        <id>http://www.sec-wiki.com/?2022-03-10</id>
+        <link href="http://www.sec-wiki.com/?2022-03-10"/>
+        <updated>2022-03-10T15:58:20.000Z</updated>
+        <summary type="html"><![CDATA[使用 CodeQL 分析 Dubbo RCE  by ourren
+基于依赖性分析的软件供应链评估指标对预测npm包的流行程度变化  by ourren
+更多最新文章，请访问SecWiki]]></summary>
+        <author>
+            <name>SecWiki News</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Pentesting toolkit: all you need to know]]></title>
         <id>https://medium.com/p/5377f734ff59</id>
         <link href="https://medium.com/faraday/pentesting-toolkit-all-you-need-to-know-5377f734ff59?source=rss------redteam-5"/>
@@ -210,6 +726,36 @@ Continue reading on DeNet | DFILE »]]></summary>
 Continue reading on Immunefi »]]></summary>
         <author>
             <name>Immunefi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[K8S安全学习(一)]]></title>
+        <id>https://www.freebuf.com/articles/container/324421.html</id>
+        <link href="https://www.freebuf.com/articles/container/324421.html"/>
+        <updated>2022-03-10T09:54:20.000Z</updated>
+        <summary type="html"><![CDATA[最近在学习K8S相关云原生技术，因为工作中正好接触到，便一直想找个机会深入学习一下这个方向的利用与防御，于是便有了这篇文章]]></summary>
+        <author>
+            <name>FreeBuf网络安全行业门户</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[从网络空间认知战到对俄大规模网络致瘫攻击]]></title>
+        <id>https://www.freebuf.com/articles/network/324419.html</id>
+        <link href="https://www.freebuf.com/articles/network/324419.html"/>
+        <updated>2022-03-10T09:47:16.000Z</updated>
+        <summary type="html"><![CDATA[此次监测到的大规模网络攻击事件，战术手段和攻击发动方式历史鲜有，绿盟科技天元实验室对此次网络攻击进行了详细的技战术研判分析。]]></summary>
+        <author>
+            <name>FreeBuf网络安全行业门户</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[21万FB用户「跨越时空」共享CIS 2021春日大会]]></title>
+        <id>https://www.freebuf.com/fevents/324418.html</id>
+        <link href="https://www.freebuf.com/fevents/324418.html"/>
+        <updated>2022-03-10T09:30:55.000Z</updated>
+        <summary type="html"><![CDATA[数说CIS 2021大会春日版，我们用数据呈现答案。]]></summary>
+        <author>
+            <name>FreeBuf网络安全行业门户</name>
         </author>
     </entry>
     <entry>
@@ -295,6 +841,16 @@ Edit : One more point I would like to add after seeing the comment from this guy
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[​APP合规实践3000问之二]]></title>
+        <id>https://www.freebuf.com/articles/compliance/324372.html</id>
+        <link href="https://www.freebuf.com/articles/compliance/324372.html"/>
+        <updated>2022-03-10T07:07:19.000Z</updated>
+        <summary type="html"><![CDATA[上一篇文章《App合规实践3000问》发出后得到了大家的热烈反响，盼望着，盼望着，我们带着合规实践3000问第二篇大步走来了。]]></summary>
+        <author>
+            <name>FreeBuf网络安全行业门户</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[小数据人工智能的巨大潜力]]></title>
         <id>https://www.freebuf.com/news/324339.html</id>
         <link href="https://www.freebuf.com/news/324339.html"/>
@@ -324,6 +880,19 @@ Edit : One more point I would like to add after seeing the comment from this guy
  [link]   [comments]]]></summary>
         <author>
             <name>Computer Forensics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[先知蜘蛛黑客利用 CVE-2021-22941漏洞传送Webshell]]></title>
+        <id>http://paper.seebug.org/1842/</id>
+        <link href="http://paper.seebug.org/1842/"/>
+        <updated>2022-03-10T03:21:00.000Z</updated>
+        <summary type="html"><![CDATA[译者：知道创宇404实验室翻译组
+原文链接:https://www.crowdstrike.com/blog/prophet-spider-exploits-citrix-sharefile/
+
+2022年初，CrowdStrike Intelligence 和 CrowdStrike Services 调查了一起事件，在这起事件中，PROPHET SPIDER（先知蜘蛛） 利用了影响 Ci...]]></summary>
+        <author>
+            <name>paper - Last paper</name>
         </author>
     </entry>
     <entry>
@@ -621,6 +1190,17 @@ The post Linux Privilege Escalation: DirtyPipe (CVE 2022-0847) appeared first on
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Linux Privilege Escalation: DirtyPipe (CVE 2022-0847)]]></title>
+        <id>https://www.hackingarticles.in/?p=27819</id>
+        <link href="https://www.hackingarticles.in/linux-privilege-escalation-dirtypipe-cve-2022-0847/"/>
+        <updated>2022-03-09T17:54:01.000Z</updated>
+        <summary type="html"><![CDATA[Introduction CVE 2022-0847 is a privilege escalation vulnerability discovered by Max Kellerman present in Linux Kernel itself post versions 5.8 which allows overwriting data in
+The post Linux Privilege Escalation: DirtyPipe (CVE 2022-0847) appeared first on Hacking Articles.]]></summary>
+        <author>
+            <name>Raj Chandel</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[RXSS on https://equifax.gr8people.com on Password Reset page in the username parameter]]></title>
         <id>https://hackerone.com/reports/1463638</id>
         <link href="https://hackerone.com/reports/1463638"/>
@@ -661,6 +1241,20 @@ Continue reading on Posts By SpecterOps Team Members »]]></summary>
  [link]   [comments]]]></summary>
         <author>
             <name>/r/netsec - Information Security News &amp; Discussion</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SecWiki News 2022-03-09 Review]]></title>
+        <id>http://www.sec-wiki.com/?2022-03-09</id>
+        <link href="http://www.sec-wiki.com/?2022-03-09"/>
+        <updated>2022-03-09T15:58:20.000Z</updated>
+        <summary type="html"><![CDATA[用户视角下的网络威胁情报共享平台  by ourren
+CodeBERT: A Pre-Trained Model for Programming and Natural Languages  by ourren
+浅谈一下，Linux中基于eBPF的恶意利用与检测机制  by ourren
+安全的未来是上下文  by ourren
+更多最新文章，请访问SecWiki]]></summary>
+        <author>
+            <name>SecWiki News</name>
         </author>
     </entry>
     <entry>
@@ -775,6 +1369,16 @@ The post Back to Basics: The TrustedSec Guide to Strong Cyber Hygiene appeared f
 Continue reading on Medium »]]></summary>
         <author>
             <name>Md. Nur Habib</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【安全通报】2022年3月微软漏洞补丁日修复多个高危漏洞]]></title>
+        <id>https://nosec.org/home/detail/4975.html</id>
+        <link href="https://nosec.org/home/detail/4975.html"/>
+        <updated>2022-03-09T11:51:59.000Z</updated>
+        <summary type="html"><![CDATA[近日，微软发布 2022年3月 安全补丁，修复了针对 29 款微软产品的 71 个CVE漏洞 （其中不包括 21 个 Micros...]]></summary>
+        <author>
+            <name>AnM1ng</name>
         </author>
     </entry>
     <entry>
@@ -1018,6 +1622,15 @@ Continue reading on CodeX »]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Phonebook, the way to DoS a company]]></title>
+        <id>https://medium.com/p/87d342c613b5</id>
+        <link href="https://infosecwriteups.com/phonebook-the-way-to-dos-a-company-87d342c613b5?source=rss----7b722bfd1b8d---4"/>
+        <updated>2022-03-09T06:28:43.000Z</updated>
+        <author>
+            <name>Rend</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Healing blind injections]]></title>
         <id>https://medium.com/p/df30b9e0e06f</id>
         <link href="https://infosecwriteups.com/healing-blind-injections-df30b9e0e06f?source=rss----7b722bfd1b8d---4"/>
@@ -1033,6 +1646,24 @@ Continue reading on CodeX »]]></summary>
         <updated>2022-03-09T06:28:17.000Z</updated>
         <author>
             <name>Rend</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Healing blind injections]]></title>
+        <id>https://medium.com/p/df30b9e0e06f</id>
+        <link href="https://infosecwriteups.com/healing-blind-injections-df30b9e0e06f?source=rss----7b722bfd1b8d---4"/>
+        <updated>2022-03-09T06:28:17.000Z</updated>
+        <author>
+            <name>Rend</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How I created a Trojan Malware — Ethical Hacking]]></title>
+        <id>https://medium.com/p/82239a6b64c6</id>
+        <link href="https://infosecwriteups.com/how-i-created-a-trojan-malware-ethical-hacking-82239a6b64c6?source=rss----7b722bfd1b8d---4"/>
+        <updated>2022-03-09T06:26:49.000Z</updated>
+        <author>
+            <name>Gourav Dhar</name>
         </author>
     </entry>
     <entry>
@@ -1062,6 +1693,19 @@ Continue reading on CodeX »]]></summary>
  [link]   [comments]]]></summary>
         <author>
             <name>Red Team Security</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[付费账单是假，Agent Tesla 攻击是真]]></title>
+        <id>http://paper.seebug.org/1841/</id>
+        <link href="http://paper.seebug.org/1841/"/>
+        <updated>2022-03-09T02:29:00.000Z</updated>
+        <summary type="html"><![CDATA[译者：知道创宇404实验室翻译组
+原文链接：https://www.fortinet.com/blog/threat-research/fake-purchase-order-used-to-deliver-agent-tesla
+自网络钓鱼出现以来，欺诈性的付费账单一直是最常见的诱惑之一。通常的操作方法包括迎合接受者避免债务的愿望，尤其是在可能牵涉到商业利益的情况。
+FortiGuard ...]]></summary>
+        <author>
+            <name>paper - Last paper</name>
         </author>
     </entry>
     <entry>
@@ -1392,6 +2036,22 @@ Points: 1
  [link]   [comments]]]></summary>
         <author>
             <name>Computer Forensics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SecWiki News 2022-03-08 Review]]></title>
+        <id>http://www.sec-wiki.com/?2022-03-08</id>
+        <link href="http://www.sec-wiki.com/?2022-03-08"/>
+        <updated>2022-03-08T15:58:20.000Z</updated>
+        <summary type="html"><![CDATA[用户层下API的逆向分析及重构  by ourren
+符号和解释  by ourren
+ROME改造计划   by ourren
+记一次自建 Gitea + Drone 实例被挖矿的经历  by ourren
+容器安全在野攻击调查  by ourren
+ATT&CK 在野数据分析  by Avenger
+更多最新文章，请访问SecWiki]]></summary>
+        <author>
+            <name>SecWiki News</name>
         </author>
     </entry>
     <entry>
@@ -2002,6 +2662,19 @@ Points: 213
         <summary type="html"><![CDATA[Glassdoor disclosed a bug submitted by bombon: https://hackerone.com/reports/1424094 - Bounty: $2000]]></summary>
         <author>
             <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SecWiki News 2022-03-07 Review]]></title>
+        <id>http://www.sec-wiki.com/?2022-03-07</id>
+        <link href="http://www.sec-wiki.com/?2022-03-07"/>
+        <updated>2022-03-07T15:58:20.000Z</updated>
+        <summary type="html"><![CDATA[优秀 ATT&CK 项目巡礼  by Avenger
+SecWiki周刊（第418期)  by ourren
+软件工程能力漫谈(视频 & PPT)  by ourren
+更多最新文章，请访问SecWiki]]></summary>
+        <author>
+            <name>SecWiki News</name>
         </author>
     </entry>
     <entry>
@@ -58473,16 +59146,6 @@ The article illustrates, via fig 4, Powershell being used to add a printer port 
         <link href="https://portswigger.net/blog/browser-powered-scanning-in-burp-suite"/>
         <updated>2021-03-22T14:29:00.000Z</updated>
         <summary type="html"><![CDATA[Since the release of Browser powered scanning back in Burp Suite Professional 2020.8.1 we have had a lot of customers asking us about our motivation for choosing to integrate with Chromium and fo]]></summary>
-        <author>
-            <name>PortSwigger Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<span>API Scanning with Burp Suite</span>]]></title>
-        <id>api-scanning-with-burp-suite</id>
-        <link href="https://portswigger.net/blog/api-scanning-with-burp-suite"/>
-        <updated>2021-03-11T16:08:00.000Z</updated>
-        <summary type="html"><![CDATA[Both Burp Suite Professional and Burp Suite Enterprise Edition contain Burp Scanner - allowing users to easily scan web applications for vulnerabilities. Other blog posts cover how Burp Scanner’s craw]]></summary>
         <author>
             <name>PortSwigger Blog</name>
         </author>
