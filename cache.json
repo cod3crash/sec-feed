@@ -6,6 +6,36 @@
       "siteUrl": "http://h1.nobbd.de/",
       "articles": [
         {
+          "id": "https://hackerone.com/reports/785833",
+          "author": null,
+          "description": "Reddit disclosed a bug submitted by whitehacker18: https://hackerone.com/reports/785833",
+          "link": "https://hackerone.com/reports/785833",
+          "publishedOn": "2022-03-14T21:13:24.000Z",
+          "wordCount": null,
+          "title": "registering with the same email address multiple times leads to account takeover",
+          "imageUrl": null
+        },
+        {
+          "id": "https://hackerone.com/reports/1338781",
+          "author": null,
+          "description": "Nextcloud disclosed a bug submitted by ctulhu: https://hackerone.com/reports/1338781 - Bounty: $350",
+          "link": "https://hackerone.com/reports/1338781",
+          "publishedOn": "2022-03-14T15:41:56.000Z",
+          "wordCount": null,
+          "title": "User files is disclosed when someone called while the screen is locked",
+          "imageUrl": null
+        },
+        {
+          "id": "https://hackerone.com/reports/1253732",
+          "author": null,
+          "description": "Mattermost disclosed a bug submitted by thesecuritydev: https://hackerone.com/reports/1253732 - Bounty: $150",
+          "link": "https://hackerone.com/reports/1253732",
+          "publishedOn": "2022-03-14T05:05:54.000Z",
+          "wordCount": null,
+          "title": "Specially crafted message request crashes the webapp for users who view the message",
+          "imageUrl": null
+        },
+        {
           "id": "https://hackerone.com/reports/938684",
           "author": null,
           "description": "IBM disclosed a bug submitted by 0xelkomy: https://hackerone.com/reports/938684",
@@ -2833,6 +2863,86 @@
       "siteUrl": "https://infosecwriteups.com?source=rss----7b722bfd1b8d---4",
       "articles": [
         {
+          "id": "https://medium.com/p/504e617956ce",
+          "author": "YoKo Kho",
+          "description": "",
+          "link": "https://infosecwriteups.com/from-recon-via-censys-and-dnsdumpster-to-getting-p1-by-login-using-weak-password-password-504e617956ce?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2022-03-14T11:35:17.000Z",
+          "wordCount": null,
+          "title": "From Recon via Censys and DNSdumpster, to Getting P1 by Login Using Weak Password — “password”",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/83e08190f2e2",
+          "author": "Marcin Szydlowski",
+          "description": "",
+          "link": "https://infosecwriteups.com/insecure-comparison-in-php-business-logic-bypass-vulnerability-83e08190f2e2?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2022-03-14T11:25:59.000Z",
+          "wordCount": null,
+          "title": "Insecure comparison in PHP — Business Logic Bypass vulnerability",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/709eb4027409",
+          "author": "can1337",
+          "description": "",
+          "link": "https://infosecwriteups.com/how-did-i-leak-5-2k-customer-data-from-a-large-company-via-broken-access-control-709eb4027409?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2022-03-14T10:22:50.000Z",
+          "wordCount": null,
+          "title": "How Did I Leak 5.2k Customer Data From a Large Company? (via Broken Access Control)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/5b1145b83c79",
+          "author": "Rend",
+          "description": "",
+          "link": "https://infosecwriteups.com/sqli-next-level-5b1145b83c79?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2022-03-14T10:22:15.000Z",
+          "wordCount": null,
+          "title": "SQLi: Next Level",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/52378519fb5b",
+          "author": "hac#",
+          "description": "",
+          "link": "https://infosecwriteups.com/shocker-from-hackthebox-52378519fb5b?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2022-03-14T10:22:08.000Z",
+          "wordCount": null,
+          "title": "Shocker From Hackthebox",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/bae590064817",
+          "author": "Febi Mudiyanto",
+          "description": "",
+          "link": "https://infosecwriteups.com/setup-armitage-as-a-command-control-c2-framework-for-free-bae590064817?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2022-03-14T06:05:45.000Z",
+          "wordCount": null,
+          "title": "Setup Armitage as a Command & Control (C2) Framework for Free",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/de956bfe0bf3",
+          "author": "Vishnuram Rajkumar",
+          "description": "",
+          "link": "https://infosecwriteups.com/utctf-2022-writeup-de956bfe0bf3?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2022-03-14T06:01:54.000Z",
+          "wordCount": null,
+          "title": "UTCTF 2022 — Writeup",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/dd9817b52d2b",
+          "author": "Bogdan Deac",
+          "description": "",
+          "link": "https://infosecwriteups.com/return-oriented-programming-on-risc-v-part-1-dd9817b52d2b?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2022-03-14T06:01:09.000Z",
+          "wordCount": null,
+          "title": "Return-Oriented Programming on RISC-V — Part 1",
+          "imageUrl": null
+        },
+        {
           "id": "https://medium.com/p/21cdf044b3b8",
           "author": "Mukilan Baskaran",
           "description": "",
@@ -4691,6 +4801,106 @@
       "feedUrl": "https://medium.com/feed/tag/bugbounty",
       "siteUrl": "https://medium.com/tag/bugbounty/latest?source=rss------bugbounty-5",
       "articles": [
+        {
+          "id": "https://medium.com/p/7f5d73aaeae7",
+          "author": "MARSBASE OTC",
+          "description": "Right after the release of the dOTC of the Marsbase platform, we are launching a Bug Bounty program to find bugs. This program provides…\nContinue reading on Medium »",
+          "link": "https://marsbaseotc.medium.com/bug-bounty-on-marsbase-7f5d73aaeae7?source=rss------bugbounty-5",
+          "publishedOn": "2022-03-15T00:26:40.000Z",
+          "wordCount": null,
+          "title": "Bug Bounty on Marsbase",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/63be6378dbad",
+          "author": "Adam W.",
+          "description": "Please avoid it because it is preventable.\nContinue reading on Medium »",
+          "link": "https://adamwize.medium.com/burnout-and-me-63be6378dbad?source=rss------bugbounty-5",
+          "publishedOn": "2022-03-14T23:23:16.000Z",
+          "wordCount": null,
+          "title": "Burnout and me",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/2767df24db75",
+          "author": "Marsbase RU",
+          "description": "В связи с релизом dOTC платформы Marsbase мы запускаем программу Bug Bounty по поиску багов. Данная программа предусматривает, что…\nContinue reading on Medium »",
+          "link": "https://medium.com/@marsbase/marsbase-otc-bug-bounty-2767df24db75?source=rss------bugbounty-5",
+          "publishedOn": "2022-03-14T23:20:42.000Z",
+          "wordCount": null,
+          "title": "Баг Баунти миссия на Marsbase dOTC",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/6050f360c218",
+          "author": "Haroon Hameed",
+          "description": "$whoami:\nContinue reading on Medium »",
+          "link": "https://medium.com/@haroonhameed_76621/achieving-remote-code-execution-via-unrestricted-file-upload-6050f360c218?source=rss------bugbounty-5",
+          "publishedOn": "2022-03-14T22:27:15.000Z",
+          "wordCount": null,
+          "title": "Achieving Remote Code Execution via Unrestricted File Upload",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/d19e0861ddf0",
+          "author": "Eslam Akl",
+          "description": "SQL Injection at Spotify.\nContinue reading on Medium »",
+          "link": "https://eslam3kl.medium.com/sql-injection-at-spotify-d19e0861ddf0?source=rss------bugbounty-5",
+          "publishedOn": "2022-03-14T18:00:04.000Z",
+          "wordCount": null,
+          "title": "SQL Injection at Spotify",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/78f98bf69b49",
+          "author": "dhakal_bibek",
+          "description": "Hello GUYS,\nContinue reading on Medium »",
+          "link": "https://dhakalbibek.medium.com/story-about-more-than-3-5-million-pii-leakage-in-yahoo-78f98bf69b49?source=rss------bugbounty-5",
+          "publishedOn": "2022-03-14T16:58:50.000Z",
+          "wordCount": null,
+          "title": "Story about more than 3.5 million PII leakage in Yahoo!!!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/2c816fa515d7",
+          "author": "Tobydavenn",
+          "description": "Happy Monday to anyone reading this write up. Today I am going to describe how I was able to make the BBC Hall Of Fame 3 times. My…\nContinue reading on Medium »",
+          "link": "https://medium.com/@tobydavenn/how-i-made-the-bbc-hall-of-fame-3-times-2c816fa515d7?source=rss------bugbounty-5",
+          "publishedOn": "2022-03-14T10:50:45.000Z",
+          "wordCount": null,
+          "title": "How I Made The BBC Hall Of Fame 3 Times",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/44f3c32a5746",
+          "author": "Hamit CİBO",
+          "description": "Greetings to all from Khrysokeras,\nContinue reading on Medium »",
+          "link": "https://hcibo.medium.com/my-pentest-log-10-a-little-tip-44f3c32a5746?source=rss------bugbounty-5",
+          "publishedOn": "2022-03-14T08:51:24.000Z",
+          "wordCount": null,
+          "title": "My Pentest Log -10- (A Little Tip)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/504e617956ce",
+          "author": "YoKo Kho",
+          "description": "A simple story when Allah allowed me to get P1 by combining several issues, one of which was related to “weak credentials”.\nContinue reading on InfoSec Write-ups »",
+          "link": "https://infosecwriteups.com/from-recon-via-censys-and-dnsdumpster-to-getting-p1-by-login-using-weak-password-password-504e617956ce?source=rss------bugbounty-5",
+          "publishedOn": "2022-03-14T06:32:20.000Z",
+          "wordCount": null,
+          "title": "From Recon via Censys and DNSdumpster, to Getting P1 by Login Using Weak Password — “password”",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/4625692d6a2d",
+          "author": "Kurt Russelle Marmol",
+          "description": "Hi, it’s me again haha Kurt Russelle Marmol aka xkurtph, Web Developer (noobie) and Security Researcher.\nContinue reading on Medium »",
+          "link": "https://xkurtph.medium.com/how-i-access-other-domains-in-infinityfree-net-using-directory-traversal-4625692d6a2d?source=rss------bugbounty-5",
+          "publishedOn": "2022-03-14T02:09:12.000Z",
+          "wordCount": null,
+          "title": "How I access other domains in infinityfree.net using Directory Traversal",
+          "imageUrl": null
+        },
         {
           "id": "https://medium.com/p/9bdafa060ba9",
           "author": "Ethan Roberts",
@@ -9683,6 +9893,26 @@
       "siteUrl": "https://medium.com/tag/redteam/latest?source=rss------redteam-5",
       "articles": [
         {
+          "id": "https://medium.com/p/b18d553debb",
+          "author": "Stassy Hiller",
+          "description": "A red team plays a crucial role in cyber security as they pose as “ethical hackers.”\nContinue reading on Medium »",
+          "link": "https://medium.com/@itsstassyhiller/how-important-is-the-red-team-in-cyber-security-b18d553debb?source=rss------redteam-5",
+          "publishedOn": "2022-03-14T18:26:14.000Z",
+          "wordCount": null,
+          "title": "How Important is The Red Team in Cyber Security?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/56321088d163",
+          "author": "Shefali Kumari",
+          "description": "Task 1 Introduction -\nContinue reading on Medium »",
+          "link": "https://medium.com/@kumarishefu.4507/try-hack-me-intro-to-c2-write-up-56321088d163?source=rss------redteam-5",
+          "publishedOn": "2022-03-14T13:22:49.000Z",
+          "wordCount": null,
+          "title": "TRY HACK ME: Intro to C2 Write-Up",
+          "imageUrl": null
+        },
+        {
           "id": "https://medium.com/p/3ac6beef528d",
           "author": "Pasquale",
           "description": "Hello! If you happen to find this page, all content has been moved and will be published to my new site going forward.\nContinue reading on Medium »",
@@ -10481,6 +10711,86 @@
       "feedUrl": "https://medium.com/feed/bugbountywriteup",
       "siteUrl": "https://infosecwriteups.com?source=rss----7b722bfd1b8d---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/504e617956ce",
+          "author": "YoKo Kho",
+          "description": "",
+          "link": "https://infosecwriteups.com/from-recon-via-censys-and-dnsdumpster-to-getting-p1-by-login-using-weak-password-password-504e617956ce?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2022-03-14T11:35:17.000Z",
+          "wordCount": null,
+          "title": "From Recon via Censys and DNSdumpster, to Getting P1 by Login Using Weak Password — “password”",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/83e08190f2e2",
+          "author": "Marcin Szydlowski",
+          "description": "",
+          "link": "https://infosecwriteups.com/insecure-comparison-in-php-business-logic-bypass-vulnerability-83e08190f2e2?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2022-03-14T11:25:59.000Z",
+          "wordCount": null,
+          "title": "Insecure comparison in PHP — Business Logic Bypass vulnerability",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/709eb4027409",
+          "author": "can1337",
+          "description": "",
+          "link": "https://infosecwriteups.com/how-did-i-leak-5-2k-customer-data-from-a-large-company-via-broken-access-control-709eb4027409?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2022-03-14T10:22:50.000Z",
+          "wordCount": null,
+          "title": "How Did I Leak 5.2k Customer Data From a Large Company? (via Broken Access Control)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/5b1145b83c79",
+          "author": "Rend",
+          "description": "",
+          "link": "https://infosecwriteups.com/sqli-next-level-5b1145b83c79?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2022-03-14T10:22:15.000Z",
+          "wordCount": null,
+          "title": "SQLi: Next Level",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/52378519fb5b",
+          "author": "hac#",
+          "description": "",
+          "link": "https://infosecwriteups.com/shocker-from-hackthebox-52378519fb5b?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2022-03-14T10:22:08.000Z",
+          "wordCount": null,
+          "title": "Shocker From Hackthebox",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/bae590064817",
+          "author": "Febi Mudiyanto",
+          "description": "",
+          "link": "https://infosecwriteups.com/setup-armitage-as-a-command-control-c2-framework-for-free-bae590064817?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2022-03-14T06:05:45.000Z",
+          "wordCount": null,
+          "title": "Setup Armitage as a Command & Control (C2) Framework for Free",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/de956bfe0bf3",
+          "author": "Vishnuram Rajkumar",
+          "description": "",
+          "link": "https://infosecwriteups.com/utctf-2022-writeup-de956bfe0bf3?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2022-03-14T06:01:54.000Z",
+          "wordCount": null,
+          "title": "UTCTF 2022 — Writeup",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/dd9817b52d2b",
+          "author": "Bogdan Deac",
+          "description": "",
+          "link": "https://infosecwriteups.com/return-oriented-programming-on-risc-v-part-1-dd9817b52d2b?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2022-03-14T06:01:09.000Z",
+          "wordCount": null,
+          "title": "Return-Oriented Programming on RISC-V — Part 1",
+          "imageUrl": null
+        },
         {
           "id": "https://medium.com/p/21cdf044b3b8",
           "author": "Mukilan Baskaran",
@@ -12340,6 +12650,26 @@
       "feedUrl": "https://medium.com/feed/tag/osint",
       "siteUrl": "https://medium.com/tag/osint/latest?source=rss------osint-5",
       "articles": [
+        {
+          "id": "https://medium.com/p/f359ea0b094f",
+          "author": "Liam Hall",
+          "description": "Now, more than ever we are bombarded with news on and offline. Friends share stories or post them on their walls, but how do you tell what…\nContinue reading on Medium »",
+          "link": "https://zeph456.medium.com/how-to-fact-check-news-f359ea0b094f?source=rss------osint-5",
+          "publishedOn": "2022-03-14T06:31:35.000Z",
+          "wordCount": null,
+          "title": "How to Fact Check News",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/35a5b4c6f20a",
+          "author": "Ivan_H",
+          "description": "A few months ago I participated in the CTF of https://investigator.cybersoc.wales/.\nContinue reading on Medium »",
+          "link": "https://osint4fun.medium.com/solution-to-some-ctf-challenges-from-https-investigator-cybersoc-wales-35a5b4c6f20a?source=rss------osint-5",
+          "publishedOn": "2022-03-14T03:21:44.000Z",
+          "wordCount": null,
+          "title": "Solution to some CTF challenges from https://investigator.cybersoc.wales",
+          "imageUrl": null
+        },
         {
           "id": "https://medium.com/p/af91b0cebe82",
           "author": "Aneesharokkiasamy",
@@ -14809,6 +15139,26 @@
       "feedUrl": "https://medium.com/feed/tag/xss",
       "siteUrl": "https://medium.com/tag/xss/latest?source=rss------xss-5",
       "articles": [
+        {
+          "id": "https://medium.com/p/86252e99aa65",
+          "author": "Rodney McGill",
+          "description": "If you pre-ordered, you know where I am going with this!\nContinue reading on Medium »",
+          "link": "https://medium.com/@videogamegenius11/tonight-at-midnight-presenting-86252e99aa65?source=rss------xss-5",
+          "publishedOn": "2022-03-14T17:33:29.000Z",
+          "wordCount": null,
+          "title": "Tonight at Midnight Presenting…",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/247168f76827",
+          "author": "Ed Travis",
+          "description": "X is, indeed, gonna give it to ya\nContinue reading on Cinapse »",
+          "link": "https://cinapse.co/sxsw-2022-ti-wests-x-horror-executed-247168f76827?source=rss------xss-5",
+          "publishedOn": "2022-03-14T16:07:13.000Z",
+          "wordCount": null,
+          "title": "SXSW 2022: Ti West’s X: Horror, Executed",
+          "imageUrl": null
+        },
         {
           "id": "https://medium.com/p/686c0f0b4453",
           "author": "Md. Nur Habib",
@@ -17808,6 +18158,96 @@
       "siteUrl": "https://www.freebuf.com",
       "articles": [
         {
+          "id": "https://www.freebuf.com/articles/neopoints/324775.html",
+          "author": null,
+          "description": "浅谈数据安全制度体系。",
+          "link": "https://www.freebuf.com/articles/neopoints/324775.html",
+          "publishedOn": "2022-03-14T16:49:19.000Z",
+          "wordCount": null,
+          "title": "小白谈数据安全2",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.freebuf.com/news/324758.html",
+          "author": null,
+          "description": "近日，Anonymous 向俄罗斯公民发布了一条新信息，邀请他们一起“消灭”正在牺牲他们并杀害乌克兰人的总统普京。",
+          "link": "https://www.freebuf.com/news/324758.html",
+          "publishedOn": "2022-03-14T10:35:04.000Z",
+          "wordCount": null,
+          "title": "FreeBuf早报 | 匿名者号召俄罗斯人“消灭普京”；因网络攻击海贼王停播",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.freebuf.com/news/324744.html",
+          "author": null,
+          "description": "随着数字化的广泛应用，SSL数字证书已成为网络不可或缺的一部分，保护敏感数据通信和用户隐私比以往任何时候都更加重要",
+          "link": "https://www.freebuf.com/news/324744.html",
+          "publishedOn": "2022-03-14T09:00:01.000Z",
+          "wordCount": null,
+          "title": "HIPAA合规SSL数字证书是什么？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.freebuf.com/news/324742.html",
+          "author": null,
+          "description": "《条例》共七章六十七条，指出家庭、学校和其他教育机构应当教育引导未成年人参加有益身心健康的活动，预防和干预未成年人沉迷网络。",
+          "link": "https://www.freebuf.com/news/324742.html",
+          "publishedOn": "2022-03-14T08:49:32.000Z",
+          "wordCount": null,
+          "title": "《未成年人网络保护条例（征求意见稿）》再次公开征求意见",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.freebuf.com/vuls/324718.html",
+          "author": null,
+          "description": "找回密码时使用位数较少的短信验证码，或者验证码没有设置有效时间限制，导致攻击者借助自动化工具在一定时间范围内爆破获得短信验证码，从而导致重置任意账号密码。",
+          "link": "https://www.freebuf.com/vuls/324718.html",
+          "publishedOn": "2022-03-14T06:39:10.000Z",
+          "wordCount": null,
+          "title": "网站只有一个登录框怎么办？———用户名密码重置的6种绕过情况",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.freebuf.com/news/324709.html",
+          "author": null,
+          "description": "Escobar作为Aberebot恶意软件的新版本，迭代了新功能，包括窃取 Google Authenticator 多因素身份验证代码。",
+          "link": "https://www.freebuf.com/news/324709.html",
+          "publishedOn": "2022-03-14T05:37:23.000Z",
+          "wordCount": null,
+          "title": "当心，安卓银行木马Escobar 正伺机而动",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.freebuf.com/news/324704.html",
+          "author": null,
+          "description": "有关育碧遭到网络攻击的谣言在网上流传，而数据勒索组织LAPSUS$则表明这并不是留言，他们已经入侵了育碧。",
+          "link": "https://www.freebuf.com/news/324704.html",
+          "publishedOn": "2022-03-14T03:45:52.000Z",
+          "wordCount": null,
+          "title": "育碧遭遇网络攻击，造成服务暂时中断",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.freebuf.com/news/324694.html",
+          "author": null,
+          "description": "清单共包含34项标准，其中制定标准20项，修订标准14项。",
+          "link": "https://www.freebuf.com/news/324694.html",
+          "publishedOn": "2022-03-14T02:57:39.000Z",
+          "wordCount": null,
+          "title": "全国信安标委公布《2022年网络安全国家标准需求清单》",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.freebuf.com/articles/network/324672.html",
+          "author": null,
+          "description": "基于风险的身份验证（RBA）也称为自适应身份验证，是一种在不强制用户使用两因素身份验证（2FA）的情况下提高网站账户安全性的方法。",
+          "link": "https://www.freebuf.com/articles/network/324672.html",
+          "publishedOn": "2022-03-14T01:42:01.000Z",
+          "wordCount": null,
+          "title": "盘点：12种基于风险的身份验证工具",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.freebuf.com/articles/324670.html",
           "author": null,
           "description": "谷歌官方博客宣布向乌克兰安卓用户推送空袭警报系统。谷歌称，有数百万人依赖于空袭警报系统，它通过Play Services推送。",
@@ -17838,6 +18278,36 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.freebuf.com/articles/security-management/324633.html",
+          "author": null,
+          "description": "<p>随着5G、云计算、大数据、物联网等新兴数字产业的发展，信息基础设施的建设规模也随之扩大，这无疑会导致越来越多的网络资产暴露在互联网上。这些资产一旦被DDoS攻击者所利用，将会对网络安全带来严重威",
+          "link": "https://www.freebuf.com/articles/security-management/324633.html",
+          "publishedOn": "2022-03-13T15:16:00.000Z",
+          "wordCount": null,
+          "title": "《2021 DDoS攻击态势报告》解读 | 基于威胁情报的DDoS攻击防护",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.freebuf.com/articles/web/324632.html",
+          "author": null,
+          "description": "帮助广大研究人员将Kali Linux中的各种工具轻松移植到Debian和Ubuntu等Linux操作系统中。",
+          "link": "https://www.freebuf.com/articles/web/324632.html",
+          "publishedOn": "2022-03-13T13:53:00.000Z",
+          "wordCount": null,
+          "title": "如何使用Katoolin3将Kali中的所有程序轻松移植到Debian和Ubuntu",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.freebuf.com/news/324623.html",
+          "author": null,
+          "description": "俄罗斯互联网监督机构 Roskomnadzor 将在俄罗斯禁止 Instagram。",
+          "link": "https://www.freebuf.com/news/324623.html",
+          "publishedOn": "2022-03-13T12:39:29.000Z",
+          "wordCount": null,
+          "title": "俄罗斯将禁止 Instagram",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.freebuf.com/articles/network/324614.html",
           "author": null,
           "description": "iptables&Netfilter简介",
@@ -17865,6 +18335,16 @@
           "publishedOn": "2022-03-11T10:58:36.000Z",
           "wordCount": null,
           "title": "约翰·卡马克：怎么会有人不喜欢电子游戏呢？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.freebuf.com/fevents/324556.html",
+          "author": null,
+          "description": "3月9日下午，「CIS 2021网络安全创新大会Spring·春日版」金融科技安全专场成功进行线上直播。",
+          "link": "https://www.freebuf.com/fevents/324556.html",
+          "publishedOn": "2022-03-11T10:43:13.000Z",
+          "wordCount": null,
+          "title": "用安全守护金融，CIS 2021春日版金融科技分论坛回顾",
           "imageUrl": null
         },
         {
@@ -23258,6 +23738,26 @@
       "siteUrl": "http://paper.seebug.org/",
       "articles": [
         {
+          "id": "http://paper.seebug.org/1846/",
+          "author": null,
+          "description": "作者：Glassy\n原文链接：https://g1asssy.com/2022/03/11/fuzz/\n引言\n安全防护产品在进行防护的时候是需要对流量中的数据进行处理的，同样，被攻击的应用也需要处理这些数据以保证业务的正常进行，然而在很多情况下，安全产品处理数据流的框架和应用处理数据流的框架往往不同，在针对常规数据方面，当然不会出现问题，然而一旦被防护应用的数据处理框架的兼容性大于安全产品数...",
+          "link": "http://paper.seebug.org/1846/",
+          "publishedOn": "2022-03-14T07:39:00.000Z",
+          "wordCount": null,
+          "title": "攻防 tricks — 通过兼容性差异突破安全防护",
+          "imageUrl": null
+        },
+        {
+          "id": "http://paper.seebug.org/1845/",
+          "author": null,
+          "description": "作者：Dig2\n本文为作者投稿，Seebug Paper 期待你的分享，凡经采用即有礼品相送！ 投稿邮箱：paper@seebug.org\n背景介绍\nThe idols是以太坊上的NFT项目，其特点在于会按照用户持有idols NFT的数量，分红Lido质押奖励(资金来源为项目公售获得的约2250 ETH)。该项目同时发行$VIRTUE代币，购买并质押代币的用户会分红idols NFT的交易...",
+          "link": "http://paper.seebug.org/1845/",
+          "publishedOn": "2022-03-14T06:18:00.000Z",
+          "wordCount": null,
+          "title": "The idols NFT marketplace 重入漏洞分析",
+          "imageUrl": null
+        },
+        {
           "id": "http://paper.seebug.org/1844/",
           "author": null,
           "description": "作者：启明星辰ADLab\n原文链接：https://mp.weixin.qq.com/s/RoGHvNW2Y6dZOjgsBVVm5Q\n01 漏洞详情\n近日，研究人员披露了一个Linux内核本地权限提升漏洞，发现在copy_page_to_iter_pipe和 push_pipe函数中，新分配的pipe_buffer结构体成员“flags”未被正确地初始化，可能包含旧值PIPE_BUF_FL...",
@@ -23863,6 +24363,16 @@
       "feedUrl": "https://www.sec-wiki.com/news/rss",
       "siteUrl": "http://www.sec-wiki.com/",
       "articles": [
+        {
+          "id": "http://www.sec-wiki.com/?2022-03-14",
+          "author": null,
+          "description": "[HTB] Ophiuchi Writeup  by 0x584a\nWatchdog 还是 TeamTNT？一例攻击归因刍议  by Avenger\nSecWiki周刊（第419期)  by ourren\n更多最新文章，请访问SecWiki",
+          "link": "http://www.sec-wiki.com/?2022-03-14",
+          "publishedOn": "2022-03-14T15:58:20.000Z",
+          "wordCount": null,
+          "title": "SecWiki News 2022-03-14 Review",
+          "imageUrl": null
+        },
         {
           "id": "http://www.sec-wiki.com/?2022-03-13",
           "author": null,
@@ -24718,6 +25228,86 @@
       "feedUrl": "https://www.reddit.com/r/asknetsec/.rss",
       "siteUrl": "https://www.reddit.com/r/asknetsec/",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/te5hs4/wanting_to_be_pentester/",
+          "author": null,
+          "description": "Just finished High school and am wanting to be a Pentester.Got inspired by Mr.Robot Really. Got little knowledge of Python and C , what are the ways to learn more and what to take in college for it.\n    submitted by    /u/Small_Run9123  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/te5hs4/wanting_to_be_pentester/",
+          "publishedOn": "2022-03-14T19:23:46.000Z",
+          "wordCount": null,
+          "title": "Wanting to be Pentester",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/te4jsi/is_it_too_late_for_me_to_become_a_pentesfer/",
+          "author": null,
+          "description": "Hello. I'm about to graduate college. I have some decent programming experience but no security experience. \n I can't do the most basic CTFs. If I get OSCP and some other certs will that be enough to do a Jr pentesting job? Will that enable me to do some CTFs? \n I feel like I should have started when I was like 13. Is it too late for me?\n    submitted by    /u/Hellothere6667  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/te4jsi/is_it_too_late_for_me_to_become_a_pentesfer/",
+          "publishedOn": "2022-03-14T18:42:35.000Z",
+          "wordCount": null,
+          "title": "is it too late for me to become a pentesfer",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/te24y4/general_advice_needed_for_dealing_with_ips_alerts/",
+          "author": null,
+          "description": "We have set up IPS monitoring on our firewall and I've been taking a look through the IPS events. Some are obvious on how to deal with, but some are harder, and I wondered if I could get some insight on what the process you guys would follow is for these?\n For example, one of our laptops on the remote VPN is triggering a IPS alert - 'TCP Segment Overwrite'\n I google the text and I see that \"This signature fires when one or more TCP segments in the same stream overwrite data from one or more segments located earlier in the stream. This may indicate an attempt to hide an attack.\" and also \"Overwriting TCP segments does not normally occur and should be treated with suspicion\"\n OK, sounds suspicious? So I run an AV scan, and the machine comes up clean. So where would I go from here?\n Disclaimer, I'm no \"Mr Robot\" lol. I can understand TCPdump in terms of tracing where a packet is going and which interface it goes in / out etc but when it comes down to analysing packet contents etc with Wireshark, well..my abilities just don't stretch that far :(\n I always seem to hit this brick wall with a lot of IPS alerts where I'm just sat thinking, I don't know exactly what's causing it so I can't say it's a false positive or not. It's very frustrating! :/\n Thanks for any advice you can give!\n    submitted by    /u/EffectiveClock  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/te24y4/general_advice_needed_for_dealing_with_ips_alerts/",
+          "publishedOn": "2022-03-14T16:57:59.000Z",
+          "wordCount": null,
+          "title": "General advice needed for dealing with IPS alerts",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/te1t88/foss_app_whitelisting_suggestions_for_win_10_home/",
+          "author": null,
+          "description": "I'm running Windows 10 Home on a personal computer and am seeking a FOSS-alternative to AppLocker (AppLocker can only be managed on Windows 10 Enterprise, Education, etc.). \n Does anyone have any suggestions?\n    submitted by    /u/cyberphor  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/te1t88/foss_app_whitelisting_suggestions_for_win_10_home/",
+          "publishedOn": "2022-03-14T16:44:07.000Z",
+          "wordCount": null,
+          "title": "FOSS App Whitelisting Suggestions for Win 10 Home",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/te1smv/how_to_clean_a_infected_usb/",
+          "author": null,
+          "description": "Hi everyone,\n Let's say I have a USB and I'm sure there is some kind of virus in it. What is the best way to clean and secure it so I can use it on my further days?\n    submitted by    /u/emir0723  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/te1smv/how_to_clean_a_infected_usb/",
+          "publishedOn": "2022-03-14T16:43:26.000Z",
+          "wordCount": null,
+          "title": "How to clean a infected USB",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/tdzaya/im_losing_hope/",
+          "author": null,
+          "description": "In October I realized I hated my job and I've decided to learn IT because I've always wanted to work in that field. I did CS50 to the end and I loved it. Since I couldn't decide in what domain of IT I wanted to pursue my learning path (because everything interests me in IT), I went into cyber security since it's pretty much the IT domain that includes all the IT domains. I did TryHackMe's Pre Security path and now I'm almost done with the Jr Pentester path. I'm planning to do the Blue Team path. I also do CTFs to practice along. At this point I suppose that if this field was not for me I would've known by now, but so far I love it. I want to become a Blue Teamer\n Now I'm reading here and there on Reddit that it's impossible to start in cybersec for a beginner because you need real IT experience for instance years as a software/network engineer. Back when I started learning, people told me that I just needed Lab practice and Certifications and then boom I could apply for entry level jobs in cybersec. I wanted to get my foot in the door by starting as a Help Desk and then as a Sys Admin, mastering the fundamentals is obviously mandatory so I know I can't just start as a Blue Team Expert, but do I really need to be a network engineer for multiple years to then have enough XP to enter cybersec's (cybersex) field ? Thank you for guiding me\n ​\n TLDR: Is it mandatory to be an ex software/network engineer to then work in cyber security ?\n    submitted by    /u/No-Lead497  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/tdzaya/im_losing_hope/",
+          "publishedOn": "2022-03-14T14:54:13.000Z",
+          "wordCount": null,
+          "title": "I'm losing hope",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/tdwkjx/converting_nessus_files_to_csv/",
+          "author": null,
+          "description": "Hello AskNetsec,\n I have been performing CIS Benchmark scans and I am trying to find a good method for keeping track of audits while trying to remediate them. This is both for myself, our engineers and management. \n I have been struggling trying to find the right format to do this. I would like to convert .nessus files into CSV, I hope that will do the trick.\n Does anyone know a good method of converting from .nessus to CSV? \n If you have any other recommendations as to how to streamline this process you are most welcome to comment it.\n Thank you in advance!\n    submitted by    /u/Gabbana2  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/tdwkjx/converting_nessus_files_to_csv/",
+          "publishedOn": "2022-03-14T12:40:26.000Z",
+          "wordCount": null,
+          "title": "Converting .nessus files to CSV",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/tdtnwa/about_which_cert_should_i_pick/",
+          "author": null,
+          "description": "my uni is providing few certs under institutional training. the certs are. \n  \nCompTIA A+ \n \nCompTIA Linux+ \n \nCompTIA Network+ \n \nCompTIA Server+ \n \nCompTIA Security+ \n \nVMWare Virtualization and Software Defined Network Concepts. \n \nPalo Alto Cloud Security Fundamentals. \n \nPalo Alto Security Operations Fundamentals. \n \n my goal is to become penetration tester and I an currently first year student. I had plans to get security+ in 3rd year but since our uni has partnered I am confused which of these certs is best for me so that these help me in placement drive and so that I can focus on studying for oscp from 2nd year. \n so basically which cert should I choose. I am very grateful for your help!!\n    submitted by    /u/Otaku531  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/tdtnwa/about_which_cert_should_i_pick/",
+          "publishedOn": "2022-03-14T09:39:37.000Z",
+          "wordCount": null,
+          "title": "about which cert should I pick",
+          "imageUrl": null
+        },
         {
           "id": "https://www.reddit.com/r/AskNetsec/comments/tdlnc1/could_russia_create_a_true_splinternet/",
           "author": null,
@@ -33253,6 +33843,46 @@
       "siteUrl": "https://www.reddit.com/r/netsec/",
       "articles": [
         {
+          "id": "https://www.reddit.com/r/netsec/comments/te4vnv/awsgitlab_selfhosted_ctf/",
+          "author": null,
+          "description": "submitted by    /u/RedTermSession  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/netsec/comments/te4vnv/awsgitlab_selfhosted_ctf/",
+          "publishedOn": "2022-03-14T18:57:05.000Z",
+          "wordCount": null,
+          "title": "AWS/GitLab Self-Hosted CTF",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/netsec/comments/te1k51/shodan_introducing_the_internetdb_api/",
+          "author": null,
+          "description": "submitted by    /u/D4r1  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/netsec/comments/te1k51/shodan_introducing_the_internetdb_api/",
+          "publishedOn": "2022-03-14T16:33:30.000Z",
+          "wordCount": null,
+          "title": "Shodan: Introducing the InternetDB API",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/netsec/comments/tdtc2i/making_sense_of_the_dirty_pipe_vulnerability/",
+          "author": null,
+          "description": "submitted by    /u/redhuntlabs  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/netsec/comments/tdtc2i/making_sense_of_the_dirty_pipe_vulnerability/",
+          "publishedOn": "2022-03-14T09:17:27.000Z",
+          "wordCount": null,
+          "title": "Making Sense Of The Dirty Pipe Vulnerability (CVE-2022-0847) - RedHunt Labs",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/netsec/comments/tdrt0i/firmwire_is_a_fullsystem_baseband_firmware/",
+          "author": null,
+          "description": "submitted by    /u/domenukk  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/netsec/comments/tdrt0i/firmwire_is_a_fullsystem_baseband_firmware/",
+          "publishedOn": "2022-03-14T07:27:58.000Z",
+          "wordCount": null,
+          "title": "FirmWire is a full-system baseband firmware emulation platform",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.reddit.com/r/netsec/comments/tdfz4c/reverse_engineering_a_netgear_nday/",
           "author": null,
           "description": "submitted by    /u/lightgrains  \n [link]   [comments]",
@@ -36550,6 +37180,16 @@
       "feedUrl": "https://www.reddit.com/r/opendirectories/.rss",
       "siteUrl": "https://www.reddit.com/r/opendirectories/",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/opendirectories/comments/tdpgki/is_there_a_way_to_see_how_someones_api_is/",
+          "author": null,
+          "description": "I have the source files of the react app, it uses the next.js framework.\n The .env file has\n process.env.NEXT_PUBLIC_API \n and\n process.env.NEXT_PUBLIC_API_TOKEN \n I was able to get both values by using the inspect tool on the live page.\n They are\n NEXT_PUBLIC_API=https://api.example.com NEXT_PUBLIC_API_TOKEN=thetokenstring \n The next.config.js file reads\n module.exports = { webpack: (config, { isServer }) => { // Fixes npm packages that depend on `fs` module if (!isServer) { config.node = { fs: 'empty' } } return config } } \n I am trying to re-create the api so I can use my own in my app.\n When I use the inspect tool again on the live app and click the network tab, I can see the data the api is pulling it. It seems to be just in simple json formatting.\n When I enter the site through builtwith.com I can see some of it is hosted on AWS EC2 in addition to vercel.\n In the a .js file - the API is pulled in like:\n _getPairs = async () => { try { const response = await fetch(`${process.env.NEXT_PUBLIC_API}/api/v1/pairs`, { method: 'get', headers: { 'Authorization': `Basic ${process.env.NEXT_PUBLIC_API_TOKEN}`, } }) const pairsCall = await response.json() return pairsCall.data } catch(ex) { console.log(ex) return [] } } \n and\n updatePairsCall = async ( account) => { try { const response = await fetch(`${process.env.NEXT_PUBLIC_API}/api/v1/updatePairs`, { method: 'get', headers: { 'Authorization': `Basic ${process.env.NEXT_PUBLIC_API_TOKEN}`, } }) const pairsCall = await response.json() this.setStore({ pairs: pairsCall.data }) await this._getPairInfo( account, pairsCall.data) } catch(ex) { console.log(ex) } } \n ​\n Is there an easy way to re-create this API? Im a totally off base?\n Thank you\n    submitted by    /u/tokentrader  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/opendirectories/comments/tdpgki/is_there_a_way_to_see_how_someones_api_is/",
+          "publishedOn": "2022-03-14T04:51:14.000Z",
+          "wordCount": null,
+          "title": "Is there a way to see how someones API is formatted?",
+          "imageUrl": null
+        },
         {
           "id": "https://www.reddit.com/r/opendirectories/comments/tczlpb/korean_and_english_folder_names_movie_names_stuff/",
           "author": null,
@@ -39874,6 +40514,16 @@
       "feedUrl": "https://www.hackingarticles.in/feed/",
       "siteUrl": "https://www.hackingarticles.in",
       "articles": [
+        {
+          "id": "https://www.hackingarticles.in/?p=27827",
+          "author": "Raj Chandel",
+          "description": "Introduction httpx is a fast web application reconnaissance tool coded in go by www.projectidscovery.io. With a plethora of multiple modules effective in manipulating HTTP requests\nThe post A Detailed Guide on httpx appeared first on Hacking Articles.",
+          "link": "https://www.hackingarticles.in/a-detailed-guide-on-httpx/",
+          "publishedOn": "2022-03-14T18:43:28.000Z",
+          "wordCount": null,
+          "title": "A Detailed Guide on httpx",
+          "imageUrl": null
+        },
         {
           "id": "https://www.hackingarticles.in/?p=27823",
           "author": "Raj Chandel",
@@ -46277,6 +46927,16 @@
       "siteUrl": "https://www.hackingarticles.in",
       "articles": [
         {
+          "id": "https://www.hackingarticles.in/?p=27823",
+          "author": "Raj Chandel",
+          "description": "Introduction Delegation has been a part of Microsoft’s Active Directory environment since the early 2000s and has remained one of few ignored threats by system\nThe post Domain Escalation: Resource Based Constrained Delegation appeared first on Hacking Articles.",
+          "link": "https://www.hackingarticles.in/domain-escalation-resource-based-constrained-delegation/",
+          "publishedOn": "2022-03-12T18:09:30.000Z",
+          "wordCount": null,
+          "title": "Domain Escalation: Resource Based Constrained Delegation",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.hackingarticles.in/?p=27819",
           "author": "Raj Chandel",
           "description": "Introduction CVE 2022-0847 is a privilege escalation vulnerability discovered by Max Kellerman present in Linux Kernel itself post versions 5.8 which allows overwriting data in\nThe post Linux Privilege Escalation: DirtyPipe (CVE 2022-0847) appeared first on Hacking Articles.",
@@ -46633,6 +47293,36 @@
       "feedUrl": "https://www.sec-wiki.com/news/rss",
       "siteUrl": "http://www.sec-wiki.com/",
       "articles": [
+        {
+          "id": "http://www.sec-wiki.com/?2022-03-13",
+          "author": null,
+          "description": "Linux系统安全强化指南  by ourren\n更多最新文章，请访问SecWiki",
+          "link": "http://www.sec-wiki.com/?2022-03-13",
+          "publishedOn": "2022-03-13T15:58:20.000Z",
+          "wordCount": null,
+          "title": "SecWiki News 2022-03-13 Review",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.sec-wiki.com/?2022-03-12",
+          "author": null,
+          "description": "安全中间件的设计思路和简单实践  by ourren\n威胁情报平台OpenCTI的搭建  by ourren\n人工智能（AI）&网络安全  by ourren\n安全和美-我对网络安全的观察和思考  by ourren\n开源组件治理的实践与思考  by ourren\nAKG：攻击者知识图谱  by ourren\n更多最新文章，请访问SecWiki",
+          "link": "http://www.sec-wiki.com/?2022-03-12",
+          "publishedOn": "2022-03-12T15:58:20.000Z",
+          "wordCount": null,
+          "title": "SecWiki News 2022-03-12 Review",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.sec-wiki.com/?2022-03-11",
+          "author": null,
+          "description": "网络安全2022：守望高质量-PDF  by ourren\n更多最新文章，请访问SecWiki",
+          "link": "http://www.sec-wiki.com/?2022-03-11",
+          "publishedOn": "2022-03-11T15:58:20.000Z",
+          "wordCount": null,
+          "title": "SecWiki News 2022-03-11 Review",
+          "imageUrl": null
+        },
         {
           "id": "http://www.sec-wiki.com/?2022-03-10",
           "author": null,
