@@ -6,6 +6,36 @@
       "siteUrl": "http://h1.nobbd.de/",
       "articles": [
         {
+          "id": "https://hackerone.com/reports/1472721",
+          "author": null,
+          "description": "U.S. General Services Administration disclosed a bug submitted by hollaatm3: https://hackerone.com/reports/1472721",
+          "link": "https://hackerone.com/reports/1472721",
+          "publishedOn": "2022-03-17T16:23:22.000Z",
+          "wordCount": null,
+          "title": "IDOR at https://demo.sftool.gov/TwsHome/ScorecardManage/ via scorecard name",
+          "imageUrl": null
+        },
+        {
+          "id": "https://hackerone.com/reports/1514863",
+          "author": null,
+          "description": "Internet Bug Bounty disclosed a bug submitted by chamal: https://hackerone.com/reports/1514863 - Bounty: $2400",
+          "link": "https://hackerone.com/reports/1514863",
+          "publishedOn": "2022-03-17T15:01:23.000Z",
+          "wordCount": null,
+          "title": "Use of uninitialized value of in req_parsebody method of lua_request.c",
+          "imageUrl": null
+        },
+        {
+          "id": "https://hackerone.com/reports/1454002",
+          "author": null,
+          "description": "ownCloud disclosed a bug submitted by n00b-cyborg: https://hackerone.com/reports/1454002 - Bounty: $50",
+          "link": "https://hackerone.com/reports/1454002",
+          "publishedOn": "2022-03-17T08:42:53.000Z",
+          "wordCount": null,
+          "title": "Theft of protected files on Android",
+          "imageUrl": null
+        },
+        {
           "id": "https://hackerone.com/reports/1478930",
           "author": null,
           "description": "TikTok disclosed a bug submitted by arsene_lupin: https://hackerone.com/reports/1478930 - Bounty: $200",
@@ -2903,6 +2933,96 @@
       "siteUrl": "https://infosecwriteups.com?source=rss----7b722bfd1b8d---4",
       "articles": [
         {
+          "id": "https://medium.com/p/ba33db2b0ab1",
+          "author": "Takshal(tojojo)",
+          "description": "",
+          "link": "https://infosecwriteups.com/how-i-was-able-to-find-50-cross-site-scripting-xss-security-vulnerabilities-on-bugcrowd-public-ba33db2b0ab1?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2022-03-17T16:09:53.000Z",
+          "wordCount": null,
+          "title": "How I was able to find 50+ Cross-site scripting (XSS) Security Vulnerabilities on Bugcrowd Public…",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/1333bcbaaba4",
+          "author": "WeSecureApp",
+          "description": "",
+          "link": "https://infosecwriteups.com/how-contact-forms-can-be-exploited-to-conduct-large-scale-phishing-activity-1333bcbaaba4?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2022-03-17T16:04:11.000Z",
+          "wordCount": null,
+          "title": "How contact forms can be exploited to conduct large-scale phishing activity?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/23a711a701a7",
+          "author": "Security Lit Limited",
+          "description": "",
+          "link": "https://infosecwriteups.com/securing-your-linux-servers-part-3-23a711a701a7?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2022-03-17T13:05:01.000Z",
+          "wordCount": null,
+          "title": "Securing your Linux Servers Part 3",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/90b0f9d027f0",
+          "author": "Vishnuram Rajkumar",
+          "description": "",
+          "link": "https://infosecwriteups.com/synkcon-ctf-2021-not-hot-dog-writeup-90b0f9d027f0?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2022-03-17T13:04:39.000Z",
+          "wordCount": null,
+          "title": "Synkcon CTF 2021 not-hot-dog Writeup",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/920f5c5936d4",
+          "author": "Eslam Akl",
+          "description": "",
+          "link": "https://infosecwriteups.com/simple-recon-methodology-920f5c5936d4?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2022-03-17T11:04:09.000Z",
+          "wordCount": null,
+          "title": "Simple Recon Methodology",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/39b7271cf802",
+          "author": "Naman Jain",
+          "description": "",
+          "link": "https://infosecwriteups.com/thm-basic-pentesting-39b7271cf802?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2022-03-17T10:52:33.000Z",
+          "wordCount": null,
+          "title": "TryHackMe: Basic Pentesting",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/94a48def69d3",
+          "author": "Naman Jain",
+          "description": "",
+          "link": "https://infosecwriteups.com/thm-rootme-94a48def69d3?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2022-03-17T07:54:11.000Z",
+          "wordCount": null,
+          "title": "TryHackMe: RootMe",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/5166cedadead",
+          "author": "Naman Jain",
+          "description": "",
+          "link": "https://infosecwriteups.com/tryhackme-blue-5166cedadead?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2022-03-17T07:19:36.000Z",
+          "wordCount": null,
+          "title": "TryHackMe: Blue",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/5e814acff6ed",
+          "author": "Naman Jain",
+          "description": "",
+          "link": "https://infosecwriteups.com/tryhackme-res-5e814acff6ed?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2022-03-17T06:52:03.000Z",
+          "wordCount": null,
+          "title": "TryHackMe: RES",
+          "imageUrl": null
+        },
+        {
           "id": "https://medium.com/p/4520e4808286",
           "author": "Manash",
           "description": "",
@@ -4911,6 +5031,66 @@
       "feedUrl": "https://medium.com/feed/tag/bugbounty",
       "siteUrl": "https://medium.com/tag/bugbounty/latest?source=rss------bugbounty-5",
       "articles": [
+        {
+          "id": "https://medium.com/p/df2772a36561",
+          "author": "Yaj Desu",
+          "description": "Summary:\nContinue reading on Medium »",
+          "link": "https://yajdesu.medium.com/bypass-confirmation-to-add-payment-method-df2772a36561?source=rss------bugbounty-5",
+          "publishedOn": "2022-03-18T00:03:25.000Z",
+          "wordCount": null,
+          "title": "Bypass confirmation to add payment method.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/3feb86ee8a02",
+          "author": "Jerry Shah (Jerry)",
+          "description": "Summary :\nContinue reading on Medium »",
+          "link": "https://shahjerry33.medium.com/parameter-pollution-zero-day-3feb86ee8a02?source=rss------bugbounty-5",
+          "publishedOn": "2022-03-17T12:41:52.000Z",
+          "wordCount": null,
+          "title": "Parameter Pollution - Zero Day",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/c2bfb3bfce17",
+          "author": "Md. Nur Habib",
+          "description": "Reconnaissance is one of the first steps to conduct within a pen test engagement. During this stage, information is gathered using…\nContinue reading on Medium »",
+          "link": "https://thenurhabib.medium.com/cansina-open-source-hidden-content-discovery-tool-on-linux-c2bfb3bfce17?source=rss------bugbounty-5",
+          "publishedOn": "2022-03-17T12:24:38.000Z",
+          "wordCount": null,
+          "title": "Cansina — Open Source Hidden Content Discovery Tool on Linux",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/7db4b5e5c66d",
+          "author": "T VAMSHI",
+          "description": "Hello Hackers and security community..\nContinue reading on Medium »",
+          "link": "https://medium.com/@vamshivaran110/my-first-blind-sql-injection-7db4b5e5c66d?source=rss------bugbounty-5",
+          "publishedOn": "2022-03-17T07:58:02.000Z",
+          "wordCount": null,
+          "title": "My First Blind SQL Injection",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/82b720994f36",
+          "author": "T VAMSHI",
+          "description": "Hello Hackers and Security community..\nContinue reading on Medium »",
+          "link": "https://medium.com/@vamshivaran110/sensitive-information-disclosure-through-unrestricted-directories-82b720994f36?source=rss------bugbounty-5",
+          "publishedOn": "2022-03-17T07:04:25.000Z",
+          "wordCount": null,
+          "title": "Sensitive Information disclosure through unrestricted Directories",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/fa615fbbb1b4",
+          "author": "Adam W.",
+          "description": "A odd Google Dorking method I used to successfully find a sql dump.\nContinue reading on Medium »",
+          "link": "https://adamwize.medium.com/google-dorks-and-a-sql-dump-fa615fbbb1b4?source=rss------bugbounty-5",
+          "publishedOn": "2022-03-17T03:09:55.000Z",
+          "wordCount": null,
+          "title": "Google Dorks and a SQL Dump",
+          "imageUrl": null
+        },
         {
           "id": "https://medium.com/p/8e10c38ba0a8",
           "author": "Md. Nur Habib",
@@ -10103,6 +10283,26 @@
       "siteUrl": "https://medium.com/tag/redteam/latest?source=rss------redteam-5",
       "articles": [
         {
+          "id": "https://medium.com/p/66f83d9421ee",
+          "author": "Nasreddine Bencherchali",
+          "description": "Continue reading on Medium »",
+          "link": "https://nasbench.medium.com/lolbined-f-secure-support-tool-fsdiag-66f83d9421ee?source=rss------redteam-5",
+          "publishedOn": "2022-03-17T22:54:23.000Z",
+          "wordCount": null,
+          "title": "LOLBINed — F-Secure Support Tool (FSDIAG)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/22c492501d49",
+          "author": "Mehmet Demirbağ",
+          "description": "Kablosuz iletişim teknolojilerinde en önemli paya sahip olan Wi-Fi, radyo dalgalarının kullanılması yoluyla belirli mesafelerde bulunan…\nContinue reading on Medium »",
+          "link": "https://mehmetdmrbg.medium.com/kablosuz-a%C4%9F-sizma-tekni%CC%87kleri%CC%87-nelerdi%CC%87r-ve-kablosuz-a%C4%9F-g%C3%BCvenli%CC%87%C4%9Fi%CC%87-nasil-sa%C4%9Flanir-22c492501d49?source=rss------redteam-5",
+          "publishedOn": "2022-03-17T13:48:33.000Z",
+          "wordCount": null,
+          "title": "KABLOSUZ AĞ SIZMA TEKNİKLERİ NELERDİR VE KABLOSUZ AĞ GÜVENLİĞİ NASIL SAĞLANIR?",
+          "imageUrl": null
+        },
+        {
           "id": "https://medium.com/p/fb761b827efd",
           "author": "Sean McDonald",
           "description": "Step 1: We being Enumeration.\nContinue reading on Medium »",
@@ -10931,6 +11131,96 @@
       "feedUrl": "https://medium.com/feed/bugbountywriteup",
       "siteUrl": "https://infosecwriteups.com?source=rss----7b722bfd1b8d---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/ba33db2b0ab1",
+          "author": "Takshal(tojojo)",
+          "description": "",
+          "link": "https://infosecwriteups.com/how-i-was-able-to-find-50-cross-site-scripting-xss-security-vulnerabilities-on-bugcrowd-public-ba33db2b0ab1?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2022-03-17T16:09:53.000Z",
+          "wordCount": null,
+          "title": "How I was able to find 50+ Cross-site scripting (XSS) Security Vulnerabilities on Bugcrowd Public…",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/1333bcbaaba4",
+          "author": "WeSecureApp",
+          "description": "",
+          "link": "https://infosecwriteups.com/how-contact-forms-can-be-exploited-to-conduct-large-scale-phishing-activity-1333bcbaaba4?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2022-03-17T16:04:11.000Z",
+          "wordCount": null,
+          "title": "How contact forms can be exploited to conduct large-scale phishing activity?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/23a711a701a7",
+          "author": "Security Lit Limited",
+          "description": "",
+          "link": "https://infosecwriteups.com/securing-your-linux-servers-part-3-23a711a701a7?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2022-03-17T13:05:01.000Z",
+          "wordCount": null,
+          "title": "Securing your Linux Servers Part 3",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/90b0f9d027f0",
+          "author": "Vishnuram Rajkumar",
+          "description": "",
+          "link": "https://infosecwriteups.com/synkcon-ctf-2021-not-hot-dog-writeup-90b0f9d027f0?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2022-03-17T13:04:39.000Z",
+          "wordCount": null,
+          "title": "Synkcon CTF 2021 not-hot-dog Writeup",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/920f5c5936d4",
+          "author": "Eslam Akl",
+          "description": "",
+          "link": "https://infosecwriteups.com/simple-recon-methodology-920f5c5936d4?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2022-03-17T11:04:09.000Z",
+          "wordCount": null,
+          "title": "Simple Recon Methodology",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/39b7271cf802",
+          "author": "Naman Jain",
+          "description": "",
+          "link": "https://infosecwriteups.com/thm-basic-pentesting-39b7271cf802?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2022-03-17T10:52:33.000Z",
+          "wordCount": null,
+          "title": "TryHackMe: Basic Pentesting",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/94a48def69d3",
+          "author": "Naman Jain",
+          "description": "",
+          "link": "https://infosecwriteups.com/thm-rootme-94a48def69d3?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2022-03-17T07:54:11.000Z",
+          "wordCount": null,
+          "title": "TryHackMe: RootMe",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/5166cedadead",
+          "author": "Naman Jain",
+          "description": "",
+          "link": "https://infosecwriteups.com/tryhackme-blue-5166cedadead?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2022-03-17T07:19:36.000Z",
+          "wordCount": null,
+          "title": "TryHackMe: Blue",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/5e814acff6ed",
+          "author": "Naman Jain",
+          "description": "",
+          "link": "https://infosecwriteups.com/tryhackme-res-5e814acff6ed?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2022-03-17T06:52:03.000Z",
+          "wordCount": null,
+          "title": "TryHackMe: RES",
+          "imageUrl": null
+        },
         {
           "id": "https://medium.com/p/4520e4808286",
           "author": "Manash",
@@ -15490,6 +15780,16 @@
       "siteUrl": "https://medium.com/tag/xss/latest?source=rss------xss-5",
       "articles": [
         {
+          "id": "https://medium.com/p/77ecae6b5039",
+          "author": "Dan Tabor",
+          "description": "BOOGIE NIGHTS meets THE TEXAS CHAINSAW MASSACRE in Ti West’s latest\nContinue reading on Cinapse »",
+          "link": "https://cinapse.co/x-is-a-new-horror-cult-classic-77ecae6b5039?source=rss------xss-5",
+          "publishedOn": "2022-03-17T13:22:29.000Z",
+          "wordCount": null,
+          "title": "X is a New Horror Cult Classic",
+          "imageUrl": null
+        },
+        {
           "id": "https://medium.com/p/86252e99aa65",
           "author": "Rodney McGill",
           "description": "If you pre-ordered, you know where I am going with this!\nContinue reading on Medium »",
@@ -16578,6 +16878,26 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=30714414",
+          "author": "amasad",
+          "description": "Article URL: https://blog.replit.com/dirtypipe-kernel-vulnerability\nComments URL: https://news.ycombinator.com/item?id=30714414\nPoints: 1\n# Comments: 0",
+          "link": "https://blog.replit.com/dirtypipe-kernel-vulnerability",
+          "publishedOn": "2022-03-17T18:34:28.000Z",
+          "wordCount": null,
+          "title": "Escaping Dirty Pipe (a.k.a. CVE-2022-0847), mostly unscathed",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=30707728",
+          "author": "lvass",
+          "description": "Article URL: https://nvd.nist.gov/vuln/detail/CVE-2022-23812\nComments URL: https://news.ycombinator.com/item?id=30707728\nPoints: 39\n# Comments: 2",
+          "link": "https://nvd.nist.gov/vuln/detail/CVE-2022-23812",
+          "publishedOn": "2022-03-17T04:40:19.000Z",
+          "wordCount": null,
+          "title": "CVE-2022-23812: node-ipc contains malicious code targeting Russia and Belarus",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=30702130",
           "author": "detaro",
           "description": "Article URL: https://connormcgarr.github.io/type-confusion-part-1/\nComments URL: https://news.ycombinator.com/item?id=30702130\nPoints: 1\n# Comments: 1",
@@ -17372,6 +17692,16 @@
       "feedUrl": "https://hnrss.org/newest?q=vulnerability",
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
+        {
+          "id": "https://news.ycombinator.com/item?id=30711545",
+          "author": "aw9f70gae",
+          "description": "Article URL: https://github.com/RIAEvangelist/node-ipc/issues/308\nComments URL: https://news.ycombinator.com/item?id=30711545\nPoints: 25\n# Comments: 13",
+          "link": "https://github.com/RIAEvangelist/node-ipc/issues/308",
+          "publishedOn": "2022-03-17T14:26:34.000Z",
+          "wordCount": null,
+          "title": "American NGO affected by your recklessness (node-ipc vulnerability)",
+          "imageUrl": null
+        },
         {
           "id": "https://news.ycombinator.com/item?id=30696255",
           "author": "samwillis",
@@ -18558,6 +18888,56 @@
       "siteUrl": "https://www.freebuf.com",
       "articles": [
         {
+          "id": "https://www.freebuf.com/news/325298.html",
+          "author": null,
+          "description": "乌克兰安全局（SSU）声称已拘捕一名为俄罗斯部队提供技术支援的黑客。",
+          "link": "https://www.freebuf.com/news/325298.html",
+          "publishedOn": "2022-03-17T11:49:33.000Z",
+          "wordCount": null,
+          "title": "FreeBuf 早报 | 2025年中国网安市场规模将超214亿美元；乌安全机构逮捕支持俄军的黑客",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.freebuf.com/articles/325277.html",
+          "author": null,
+          "description": "研究人员在“dompdf”中发现了一个未修补的安全漏洞，如果该漏洞被成功利用，可能会导致某些配置中的远程代码被执行。",
+          "link": "https://www.freebuf.com/articles/325277.html",
+          "publishedOn": "2022-03-17T09:39:36.000Z",
+          "wordCount": null,
+          "title": "dompdf中未修补的RCE漏洞会影响HTML到PDF转换器",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.freebuf.com/news/325232.html",
+          "author": null,
+          "description": "GoDaddy管理服务器上托管的部分WordPress网站，被部署了大量后门。",
+          "link": "https://www.freebuf.com/news/325232.html",
+          "publishedOn": "2022-03-17T05:31:36.000Z",
+          "wordCount": null,
+          "title": "GoDaddy 托管的数百个网站，短时间内被部署了后门",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.freebuf.com/news/325221.html",
+          "author": null,
+          "description": "这种新的B1txor20恶意软件能够将目标设备纳入僵尸网络并充当下载和安装rootkit 的渠道。",
+          "link": "https://www.freebuf.com/news/325221.html",
+          "publishedOn": "2022-03-17T03:20:06.000Z",
+          "wordCount": null,
+          "title": "新的“B1txor20”Linux 僵尸网络正利用 Log4J 漏洞进行传播",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.freebuf.com/news/325219.html",
+          "author": null,
+          "description": "最近Facebook删除了一段社交网络上传播的假视频，在这则假视频中，乌克兰总统泽连斯基要求乌克兰军队放下武器投降。",
+          "link": "https://www.freebuf.com/news/325219.html",
+          "publishedOn": "2022-03-17T03:10:30.000Z",
+          "wordCount": null,
+          "title": "Facebook删除了伪造的乌克兰总统泽连斯基假视频",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.freebuf.com/articles/325134.html",
           "author": null,
           "description": "美国联邦调查局表示，俄罗斯政府支持的黑客组织正积极利用错误配置的默认多因素认证(MFA)协议从而进入一些非政府组织的云端。",
@@ -18575,6 +18955,16 @@
           "publishedOn": "2022-03-16T09:28:15.000Z",
           "wordCount": null,
           "title": "FreeBuf早报 | 美国帮助乌克兰加强网络战防御；德国建议公民卸载卡巴斯基杀毒软件",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.freebuf.com/articles/network/325076.html",
+          "author": null,
+          "description": "",
+          "link": "https://www.freebuf.com/articles/network/325076.html",
+          "publishedOn": "2022-03-16T06:29:56.000Z",
+          "wordCount": null,
+          "title": "俄乌冲突导致关键信息基础设施面临风险",
           "imageUrl": null
         },
         {
@@ -18628,6 +19018,26 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.freebuf.com/articles/network/325003.html",
+          "author": null,
+          "description": "2022 年 2 月以来，研究人员发现欧洲的移动恶意软件传播增加了 500%。",
+          "link": "https://www.freebuf.com/articles/network/325003.html",
+          "publishedOn": "2022-03-15T14:30:36.000Z",
+          "wordCount": null,
+          "title": "2月以来，欧洲移动恶意软件激增 500%",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.freebuf.com/articles/web/324950.html",
+          "author": null,
+          "description": "从西方APT组织的攻击历史及已经泄露的网络武器看，高隐匿、高持久化(Low&amp;amp;Slow)是其关键特征，而 Rootkit 则是达成此目的的重要技术之一。",
+          "link": "https://www.freebuf.com/articles/web/324950.html",
+          "publishedOn": "2022-03-15T08:59:09.000Z",
+          "wordCount": null,
+          "title": "【Rootkit 系列研究】Linux平台的高隐匿、高持久化威胁",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.freebuf.com/news/324920.html",
           "author": null,
           "description": "近日，乌克兰国防部宣布将Clearview公司提供的人工智能面部识别技术运营到战场。",
@@ -18665,6 +19075,16 @@
           "publishedOn": "2022-03-15T05:17:41.000Z",
           "wordCount": null,
           "title": "FreeBuf早报 | 大规模DDoS攻击袭击以色列；汽车巨头DENSO遭勒索攻击",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.freebuf.com/articles/neopoints/324800.html",
+          "author": null,
+          "description": "乌克兰与俄罗斯之间爆发全面军事战争，网络成为了真实的战场空间。",
+          "link": "https://www.freebuf.com/articles/neopoints/324800.html",
+          "publishedOn": "2022-03-15T03:11:34.000Z",
+          "wordCount": null,
+          "title": "俄乌网络战时间线全回顾及对抗特点研究梳理",
           "imageUrl": null
         },
         {
@@ -24258,6 +24678,16 @@
       "siteUrl": "http://paper.seebug.org/",
       "articles": [
         {
+          "id": "http://paper.seebug.org/1850/",
+          "author": null,
+          "description": "作者：Hcamael@知道创宇404实验室\n时间：2022年02月21日\n第六个研究的是CVE-2021-21220，其chrome的bug编号为：1196683\n可以很容易找到其相关信息：\n受影响的Chrome最高版本为：89.0.4389.114\n受影响的V8最高版本为：8.9.255.24\n并且还附带了exp\n搭建环境\n一键编译相关环境：\n$ ./build.sh 8.9.255.24...",
+          "link": "http://paper.seebug.org/1850/",
+          "publishedOn": "2022-03-17T07:24:00.000Z",
+          "wordCount": null,
+          "title": "从 0 开始学 V8 漏洞利用之 CVE-2021-21220（八）",
+          "imageUrl": null
+        },
+        {
           "id": "http://paper.seebug.org/1849/",
           "author": null,
           "description": "译者：知道创宇404实验室翻译组\n原文链接:https://securelist.com/webinar-on-cyberattacks-in-ukraine-summary-and-qa/106075/\n\n关于网络研讨会\n2022年3月10日，卡巴斯基的全球研究和分析小组(GReAT)分享了他们对乌克兰当前(和过往)网络攻击的见解。在这篇文章中，我们解决了我们没有时间回答的问题，并提供了能...",
@@ -24913,6 +25343,16 @@
       "feedUrl": "https://www.sec-wiki.com/news/rss",
       "siteUrl": "http://www.sec-wiki.com/",
       "articles": [
+        {
+          "id": "http://www.sec-wiki.com/?2022-03-17",
+          "author": null,
+          "description": "在野无状态扫描的综合研究  by Avenger\n更多最新文章，请访问SecWiki",
+          "link": "http://www.sec-wiki.com/?2022-03-17",
+          "publishedOn": "2022-03-17T15:58:20.000Z",
+          "wordCount": null,
+          "title": "SecWiki News 2022-03-17 Review",
+          "imageUrl": null
+        },
         {
           "id": "http://www.sec-wiki.com/?2022-03-16",
           "author": null,
@@ -25798,6 +26238,106 @@
       "feedUrl": "https://www.reddit.com/r/asknetsec/.rss",
       "siteUrl": "https://www.reddit.com/r/asknetsec/",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/tgpe36/kaspersky_alternatives/",
+          "author": null,
+          "description": "Well with the warning that BSI put out alerting users that Kaspersky could possibly be compromised (either now or in the future) my company is looking for alternatives for their Antivirus software. We'll probably begin the process of evaluation next week but I wanted to get a head start and hear some of the netsec communities opinions on alternatives to Kaspersky. We are in the process of becoming ISO 27001 compliant so every procedure is under extreme scrutiny and requires extensive documentation. \n Some current candidates are Sopho, Bitdefender and Trend Micro. What are your thoughts on ease of deployment, cost, security and privacy policies of the aforementioned alternatives? Any other suggestions for alternatives? Any comments or suggestions are greatly appreciated, thanks.\n    submitted by    /u/Goldsound  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/tgpe36/kaspersky_alternatives/",
+          "publishedOn": "2022-03-18T01:05:45.000Z",
+          "wordCount": null,
+          "title": "Kaspersky alternatives?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/tgmucy/is_this_networking_knowledge_enough/",
+          "author": null,
+          "description": "Is learning how to manage a network,network simulation with GNS3,and installing physical network has to do with security? I can’t deal with gns3 but i can use packet tracer. \n But what i am asking is that is it enough to learn about the protocols,routing,ip addressing ,and the tcp/ip stack if i want to work in penetration testing. Or should i use a network simulation and dig deeper? I feel that practicing thorough htb and thm teaches me more now that i learned the fundamentals. And when i am stuck with something like active directory i just go into a room in thm or read about it.\n    submitted by    /u/Ramseesthe4th  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/tgmucy/is_this_networking_knowledge_enough/",
+          "publishedOn": "2022-03-17T23:01:38.000Z",
+          "wordCount": null,
+          "title": "Is this networking knowledge enough ?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/tglzbw/http_put_method_is_enabled_on_printers_web_server/",
+          "author": null,
+          "description": "Hey everyone,\n I'm a new infosec analyst and I've been tasked to run a vulnerability scan against our company's printers. Our scanner found that the HTTP 'PUT' method is enabled on several of our printers' webservers. How would I go about remediating this vulnerability if it's a HP Embedded Web Server? Right now, there is zero access control configured to log into the web server. Would enabling that help fix the vulnerability? I don't see anywhere in the server settings to disable the method.\n Thanks so much!\n    submitted by    /u/Zgame200  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/tglzbw/http_put_method_is_enabled_on_printers_web_server/",
+          "publishedOn": "2022-03-17T22:21:09.000Z",
+          "wordCount": null,
+          "title": "HTTP 'PUT' method is enabled on Printer's Web Server",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/tgiq9y/advice_for_an_security_analyst_interview_at_a_bank/",
+          "author": null,
+          "description": "Background about me: few years of low level SOC. mainly just looking at alerts and logs, vuln scanning. honestly dont really do much\n About the position: not entry level; the requirements look pretty heavy. seems to be a mix of both technical (alerts, incident response, playbooks, risk assessment, threat analysis, vulnerability, backups, pentesting, and more) and GRC stuff. \n The technical stuff, I have familiarity with most of the stuff, but little practical experience. GRC/compliance stuff, I have no experience whatsoever and have no clue on what to study. Do I just familiarize myself with a bunch of standards like iso 27001? \n Anyone have experience interviewing or working at a bank? Looking for general tips or guidance on how to prepare for this interview. Thanks!\n    submitted by    /u/mygumsaredying  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/tgiq9y/advice_for_an_security_analyst_interview_at_a_bank/",
+          "publishedOn": "2022-03-17T19:55:14.000Z",
+          "wordCount": null,
+          "title": "Advice for an security analyst interview at a bank?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/tghp6b/is_a_cloud_provider_considered_to_be_a_data/",
+          "author": null,
+          "description": "Help me settle a debate. Is a cloud provider considered to be a Data Steward or a Data Custodian?\n My vote is they are the Data Steward. A colleague insists they are the Data Custodian.\n Either way, they have shared responsibility, but again, I'm looking to make sure to use the correct terminology.\n    submitted by    /u/paulexander  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/tghp6b/is_a_cloud_provider_considered_to_be_a_data/",
+          "publishedOn": "2022-03-17T19:08:07.000Z",
+          "wordCount": null,
+          "title": "Is a cloud provider considered to be a Data Steward or a Data Custodian?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/tgfvz8/eli5_investigating_a_suspicious_website/",
+          "author": null,
+          "description": "Can someone walk me through how I would investigate a URL that’s been flagged as suspicious?\n a good example:\n omnatuor[.]com\n    submitted by    /u/annonuk2020  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/tgfvz8/eli5_investigating_a_suspicious_website/",
+          "publishedOn": "2022-03-17T17:48:07.000Z",
+          "wordCount": null,
+          "title": "ELI5 Investigating a Suspicious Website",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/tgfcv2/openssl_resources/",
+          "author": null,
+          "description": "How do you started on OpenSSL? Currently doing some CTF and I encounter some OpenSSL questions, I don't have any idea how to study this one (done with searching on Youtube)\n Thank you\n    submitted by    /u/pldc_bulok  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/tgfcv2/openssl_resources/",
+          "publishedOn": "2022-03-17T17:23:29.000Z",
+          "wordCount": null,
+          "title": "OpenSSL resources?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/tgds6p/building_a_security_program_at_a_startup/",
+          "author": null,
+          "description": "I'm a mid-level software engineer with some security experience interviewing with early stage startups for application security engineering positions. Many of these companies are either building a security team from scratch, or have 1-2 security engineers already. I'll primarily be working with developers on doing source code reviews, tool development and automation. I'm assuming there won't be much real mentorship/guidance, so I'd like to know what are some of the first things a new security engineer at an early stage startup should do to hit the ground running.\n    submitted by    /u/cppnewb  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/tgds6p/building_a_security_program_at_a_startup/",
+          "publishedOn": "2022-03-17T16:13:08.000Z",
+          "wordCount": null,
+          "title": "Building a security program at a startup?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/tg6vpd/bachelor_thesis_topic_ideas/",
+          "author": null,
+          "description": "Hello everyone,\n I'm doing my bachelor's in computer science and I'll be writing my bachelor's thesis. Actually my professor offered a thesis topic related to implementation of access control with certificates on vpn. It's nice but requires me to be at the university and unfortunately I can't be at the same city in the next semester. So I'm looking for more research oriented topics related to security and preferably defensive side. I'd appreciate if anyone can suggest me some topics, so I can talk to my prof in the next meeting with different ideas.\n Thank you in advance.\n    submitted by    /u/guneysss  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/tg6vpd/bachelor_thesis_topic_ideas/",
+          "publishedOn": "2022-03-17T10:13:06.000Z",
+          "wordCount": null,
+          "title": "Bachelor Thesis Topic Ideas",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/tg2euy/good_security_dashboard_template/",
+          "author": null,
+          "description": "Hi Security Folks,\n What are the security metrics you are collecting and reporting every week? \n Is there a good security dashboard template that I can use for my team/upper c-level manager report？\n    submitted by    /u/Calm_Scene  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/tg2euy/good_security_dashboard_template/",
+          "publishedOn": "2022-03-17T05:00:19.000Z",
+          "wordCount": null,
+          "title": "Good Security dashboard Template",
+          "imageUrl": null
+        },
         {
           "id": "https://www.reddit.com/r/AskNetsec/comments/tfubnh/just_wondering/",
           "author": null,
@@ -30844,6 +31384,16 @@
       "siteUrl": "https://www.reddit.com/r/redteamsec/",
       "articles": [
         {
+          "id": "https://www.reddit.com/r/redteamsec/comments/tglpje/analyzing_malware_with_hooks_stomps_and/",
+          "author": null,
+          "description": "submitted by    /u/dmchell  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/redteamsec/comments/tglpje/analyzing_malware_with_hooks_stomps_and/",
+          "publishedOn": "2022-03-17T22:08:41.000Z",
+          "wordCount": null,
+          "title": "Analyzing Malware with Hooks, Stomps, and Return-addresses",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.reddit.com/r/redteamsec/comments/tfwjf3/tool_ntlmrelayx2proxychains/",
           "author": null,
           "description": "ntlmrelayx2proxychains aims to connect the tool of the SecureAuthCorps' impacket suite, ntlmrelayx.py (hereafter referred to as \"ntlmrelayx\"), along with @byt3bl33d3r's tool, CrackMapExec (hereafter referred to as \"CME\"), over proxychains, developped by haad.\n Currently, when having active relays via ntlmrelayx.py, you need to manually provide user, domain, and ip address in CME over proxychains. The idea behind this tool is to automate this process.\n So have you ever felt too lazy to explore all shares, loggedin users, sessions, disks, and/or password policy manually after using ntlmrelayx or felt too lazy to dump the lsa, sam, and/or ntds on all systems where you found a local administrator? If so, you'll for sure enjoy ntlmrelayx2proxychains! :)\n Link: https://github.com/He-No/ntlmrelayx2proxychains\n    submitted by    /u/BugbearB  \n [link]   [comments]",
@@ -32173,6 +32723,16 @@
       "siteUrl": "https://www.reddit.com/r/exploitdev/",
       "articles": [
         {
+          "id": "https://www.reddit.com/r/ExploitDev/comments/tgciyn/bypassing_stack_canaries_and_nxdep_ret2libc_bird/",
+          "author": null,
+          "description": "submitted by    /u/_CryptoCat23  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/ExploitDev/comments/tgciyn/bypassing_stack_canaries_and_nxdep_ret2libc_bird/",
+          "publishedOn": "2022-03-17T15:16:39.000Z",
+          "wordCount": null,
+          "title": "Bypassing Stack Canaries and NX/DEP (Ret2Lib-C) - Bird - [Intigriti 1337UP LIVE CTF 2022]",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.reddit.com/r/ExploitDev/comments/tejyei/the_dirty_pipe_vulnerability_the_dirty_pipe/",
           "author": null,
           "description": "submitted by    /u/AttitudeAdjuster  \n [link]   [comments]",
@@ -32701,6 +33261,26 @@
       "feedUrl": "https://www.reddit.com/r/computerforensics/.rss",
       "siteUrl": "https://www.reddit.com/r/computerforensics/",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/computerforensics/comments/tgdc2h/unable_to_run_plaso_autopsy_ingest_module_on/",
+          "author": null,
+          "description": "I’m running Autopsy 4.19.3 on Windows 10 and I’m unable to run the plaso module against any data source. The logs show this error:\n SEVERE: Plaso experienced an error during analysis (data source = Y247388.E01, objId = 1, pipeline id = 3, ingest job id = 2) java.nio.file.InvalidPathException: Illegal char <:> at index 92: C:\\Users\\forensics\\Documents\\Cases\\Y247388-New\\ModuleOutput\\plaso\\2022-03-16 15-15-11 GMT-07:00\n It looks like the plaso module is trying to create a file or folder with a colon in it from the timezone information. Is there any way to get around this?\n    submitted by    /u/thenebular  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/computerforensics/comments/tgdc2h/unable_to_run_plaso_autopsy_ingest_module_on/",
+          "publishedOn": "2022-03-17T15:53:10.000Z",
+          "wordCount": null,
+          "title": "Unable to run Plaso Autopsy ingest module on Windows 10. Anyone know a workaround?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/computerforensics/comments/tg0ogb/an_employee_downloaded_a_virus_to_computer/",
+          "author": null,
+          "description": "What are the chances it was able to access entire server? Have a team working on it but waiting and wondering.\n    submitted by    /u/Otherwise-Special-95  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/computerforensics/comments/tg0ogb/an_employee_downloaded_a_virus_to_computer/",
+          "publishedOn": "2022-03-17T03:18:32.000Z",
+          "wordCount": null,
+          "title": "An employee downloaded a virus to computer.",
+          "imageUrl": null
+        },
         {
           "id": "https://www.reddit.com/r/computerforensics/comments/tfigdg/autopsy_sample_images_to_learn_practice/",
           "author": null,
@@ -34673,6 +35253,36 @@
       "siteUrl": "https://www.reddit.com/r/netsec/",
       "articles": [
         {
+          "id": "https://www.reddit.com/r/netsec/comments/tgnut5/random_number_generator_enhancements_for_linux/",
+          "author": null,
+          "description": "submitted by    /u/zx2c4  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/netsec/comments/tgnut5/random_number_generator_enhancements_for_linux/",
+          "publishedOn": "2022-03-17T23:50:28.000Z",
+          "wordCount": null,
+          "title": "Random number generator enhancements for Linux 5.17 and 5.18",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/netsec/comments/tgc9uz/unraveling_assets_from_android_apps_at_scale_an/",
+          "author": null,
+          "description": "submitted by    /u/alt-glitch  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/netsec/comments/tgc9uz/unraveling_assets_from_android_apps_at_scale_an/",
+          "publishedOn": "2022-03-17T15:04:46.000Z",
+          "wordCount": null,
+          "title": "Unraveling Assets from Android Apps at Scale - An OSINT API allows you to scan over half a million Android apps for subdomains, S3 buckets, URL Params and more.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/netsec/comments/tg8ex1/mitigating_cve20220811_arbitrary_code_execution/",
+          "author": null,
+          "description": "submitted by    /u/MiguelHzBz  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/netsec/comments/tg8ex1/mitigating_cve20220811_arbitrary_code_execution/",
+          "publishedOn": "2022-03-17T11:51:28.000Z",
+          "wordCount": null,
+          "title": "Mitigating CVE-2022-0811: Arbitrary code execution affecting CRI-O",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.reddit.com/r/netsec/comments/tfwklh/tool_ntlmrelayx2proxychains_combiningautomating/",
           "author": null,
           "description": "submitted by    /u/BugbearB  \n [link]   [comments]",
@@ -34760,6 +35370,26 @@
           "publishedOn": "2022-03-16T12:34:33.000Z",
           "wordCount": null,
           "title": "HermeticWiper Technical Analysis Report",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/netsec/comments/tffofn/threatmapper_130_update_runtime_sbom_secret/",
+          "author": null,
+          "description": "submitted by    /u/foobarbazwibble  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/netsec/comments/tffofn/threatmapper_130_update_runtime_sbom_secret/",
+          "publishedOn": "2022-03-16T11:41:11.000Z",
+          "wordCount": null,
+          "title": "ThreatMapper 1.3.0 update - +runtime SBOM, +secret scanning, +attack path",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/netsec/comments/tfet61/from_xss_to_rce_dompdf_0day/",
+          "author": null,
+          "description": "submitted by    /u/mckirk_  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/netsec/comments/tfet61/from_xss_to_rce_dompdf_0day/",
+          "publishedOn": "2022-03-16T10:46:40.000Z",
+          "wordCount": null,
+          "title": "From XSS to RCE (dompdf 0day)",
           "imageUrl": null
         },
         {
@@ -38151,6 +38781,26 @@
       "siteUrl": "https://www.reddit.com/r/opendirectories/",
       "articles": [
         {
+          "id": "https://www.reddit.com/r/opendirectories/comments/tgpf5e/how_to_deploy_api_to_netlify/",
+          "author": null,
+          "description": "The API I have works fine locally, but It keeps failing when i try to deploy to netlify. I keep getting this error: \n node:internal/url:552 5:51:22 PM: throw new ERR_INVALID_URL(input); 5:51:22 PM: ^ 5:51:22 PM: TypeError [ERR_INVALID_URL]: Invalid URL 5:51:22 PM: at new NodeError (node:internal/errors:371:5) 5:51:22 PM: at onParseError (node:internal/url:552:9) 5:51:22 PM: at new URL (node:internal/url:628:5) 5:51:22 PM: at Function.parseURL (/opt/build/repo/node_modules/@node-redis/client/dist/lib/client/index.js:113:76) 5:51:22 PM: at Commander._RedisClient_initiateOptions (/opt/build/repo/node_modules/@node-redis/client/dist/lib/client/index.js:294:36) 5:51:22 PM: at new RedisClient (/opt/build/repo/node_modules/@node-redis/client/dist/lib/client/index.js:77:148) 5:51:22 PM: at new Com…",
+          "link": "https://www.reddit.com/r/opendirectories/comments/tgpf5e/how_to_deploy_api_to_netlify/",
+          "publishedOn": "2022-03-18T01:07:16.000Z",
+          "wordCount": null,
+          "title": "How to deploy API to Netlify",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/opendirectories/comments/tg65f8/diagrams_and_instructions_for_toilets/",
+          "author": null,
+          "description": "submitted by    /u/PM_ME_TO_PLAY_A_GAME  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/opendirectories/comments/tg65f8/diagrams_and_instructions_for_toilets/",
+          "publishedOn": "2022-03-17T09:22:28.000Z",
+          "wordCount": null,
+          "title": "Diagrams and instructions for toilets.",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.reddit.com/r/opendirectories/comments/tfr5f6/windows_stuff_spongebob_favicon/",
           "author": null,
           "description": "submitted by    /u/ilikemacsalot  \n [link]   [comments]",
@@ -41515,6 +42165,16 @@
       "siteUrl": "https://www.hackingarticles.in",
       "articles": [
         {
+          "id": "https://www.hackingarticles.in/?p=27833",
+          "author": "Raj Chandel",
+          "description": "Introduction Indirect Command Execution is a defense evasion technique that is often used by Red Teams in which an adversary tries to bypass certain defense\nThe post Indirect Command Execution: Defense Evasion (T1202) appeared first on Hacking Articles.",
+          "link": "https://www.hackingarticles.in/indirect-command-execution-defense-evasion-t1202/",
+          "publishedOn": "2022-03-17T18:05:02.000Z",
+          "wordCount": null,
+          "title": "Indirect Command Execution: Defense Evasion (T1202)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.hackingarticles.in/?p=27827",
           "author": "Raj Chandel",
           "description": "Introduction httpx is a fast web application reconnaissance tool coded in go by www.projectidscovery.io. With a plethora of multiple modules effective in manipulating HTTP requests\nThe post A Detailed Guide on httpx appeared first on Hacking Articles.",
@@ -42189,6 +42849,17 @@
       "feedUrl": "http://feeds.feedburner.com/Unit42",
       "siteUrl": "https://unit42.paloaltonetworks.com",
       "articles": [
+        {
+          "id": "https://unit42.paloaltonetworks.com/?p=122376",
+          "author": "Erica Naone",
+          "description": "CVE-2021-28372, a vulnerability in third-party software commonly built into many IP cameras, highlights issues in IoT supply chain security. \nThe post CVE-2021-28372: How a Vulnerability in Third-Party Technology Is Leaving Many IP Cameras and Surveillance Systems Vulnerable appeared first on Unit42.",
+          "link": "https://unit42.paloaltonetworks.com/iot-supply-chain-cve-2021-28372/",
+          "publishedOn": "2022-03-17T19:00:49.000Z",
+          "wordCount": null,
+          "title": "CVE-2021-28372: How a Vulnerability in Third-Party Technology Is Leaving Many IP Cameras and Surveillance Systems Vulnerable",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "https://unit42.paloaltonetworks.com/?p=122324",
           "author": "Chris Navarrete",
@@ -45004,6 +45675,76 @@
       "siteUrl": "https://infosecwriteups.com?source=rss----7b722bfd1b8d---4",
       "articles": [
         {
+          "id": "https://medium.com/p/4520e4808286",
+          "author": "Manash",
+          "description": "",
+          "link": "https://infosecwriteups.com/hackthebox-devzat-4520e4808286?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2022-03-16T11:59:46.000Z",
+          "wordCount": null,
+          "title": "HackTheBox — Devzat",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/91ee2be5a200",
+          "author": "Eslam Akl",
+          "description": "",
+          "link": "https://infosecwriteups.com/cisco-broadworks-vulnerabilities-cve-2021-34785-cve-2021-34786-91ee2be5a200?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2022-03-16T10:15:04.000Z",
+          "wordCount": null,
+          "title": "Cisco BroadWorks Vulnerabilities CVE-2021–34785 & CVE-2021–34786",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/438c121b61cf",
+          "author": "Eslam Akl",
+          "description": "",
+          "link": "https://infosecwriteups.com/how-to-write-simple-script-to-automate-finding-bugs-438c121b61cf?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2022-03-16T09:23:33.000Z",
+          "wordCount": null,
+          "title": "How to write simple script to automate finding bugs",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/b0884525236f",
+          "author": "Krishnadev P Melevila",
+          "description": "",
+          "link": "https://infosecwriteups.com/otp-bypass-and-account-takeover-at-rajagiri-hospital-b0884525236f?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2022-03-16T07:04:19.000Z",
+          "wordCount": null,
+          "title": "OTP Bypass and Account Takeover at Rajagiri Hospital",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/d19e0861ddf0",
+          "author": "Eslam Akl",
+          "description": "",
+          "link": "https://infosecwriteups.com/sql-injection-at-spotify-d19e0861ddf0?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2022-03-16T06:01:01.000Z",
+          "wordCount": null,
+          "title": "SQL Injection at Spotify",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/97a02bb16e93",
+          "author": "Mukilan Baskaran",
+          "description": "",
+          "link": "https://infosecwriteups.com/bounty-hacker-tryhackme-97a02bb16e93?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2022-03-15T17:11:49.000Z",
+          "wordCount": null,
+          "title": "Bounty Hacker Tryhackme",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/48b827d54979",
+          "author": "Asem Eleraky",
+          "description": "",
+          "link": "https://infosecwriteups.com/how-i-bypassed-disable-functions-in-php-to-get-a-remote-shell-48b827d54979?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2022-03-15T17:11:10.000Z",
+          "wordCount": null,
+          "title": "How I bypassed disable_functions in php to get a remote shell",
+          "imageUrl": null
+        },
+        {
           "id": "https://medium.com/p/504e617956ce",
           "author": "YoKo Kho",
           "description": "",
@@ -46943,6 +47684,36 @@
       "siteUrl": "http://paper.seebug.org/",
       "articles": [
         {
+          "id": "http://paper.seebug.org/1849/",
+          "author": null,
+          "description": "译者：知道创宇404实验室翻译组\n原文链接:https://securelist.com/webinar-on-cyberattacks-in-ukraine-summary-and-qa/106075/\n\n关于网络研讨会\n2022年3月10日，卡巴斯基的全球研究和分析小组(GReAT)分享了他们对乌克兰当前(和过往)网络攻击的见解。在这篇文章中，我们解决了我们没有时间回答的问题，并提供了能...",
+          "link": "http://paper.seebug.org/1849/",
+          "publishedOn": "2022-03-16T01:56:00.000Z",
+          "wordCount": null,
+          "title": "关于乌克兰网络攻击的网络研讨会 -- 摘要和问答",
+          "imageUrl": null
+        },
+        {
+          "id": "http://paper.seebug.org/1848/",
+          "author": null,
+          "description": "作者：lxraa@识链实验室  \n前言\n由于无法绕过沙箱，该漏洞已被忽略。\n\n谷歌在V8相关漏洞修复一段时间后，会公布（https://bugs.chromium.org/）漏洞的poc，有些漏洞有exp。但是公布的exp一般是存在漏洞的最后一个版本，由于不同版本V8的数据结构有变化，造成堆布局不同，公布的exp在非实验环境往往不能直接使用，本文以最新版微信远程命令执行为例介绍了从exp到实...",
+          "link": "http://paper.seebug.org/1848/",
+          "publishedOn": "2022-03-15T03:22:00.000Z",
+          "wordCount": null,
+          "title": "v8 漏洞在 windows 微信下利用的研究",
+          "imageUrl": null
+        },
+        {
+          "id": "http://paper.seebug.org/1847/",
+          "author": null,
+          "description": "译者：知道创宇404实验室翻译组\n原文链接:https://blog.cyble.com/2022/03/11/new-wiper-malware-attacking-russia-deep-dive-into-ruransom-malware/\n在定期的 OSINT 研究中，Cyble 研究实验室偶然发现了 MalwareHunter 团队的一个 twitter 帖子，强调了一个名为 RU...",
+          "link": "http://paper.seebug.org/1847/",
+          "publishedOn": "2022-03-15T01:22:00.000Z",
+          "wordCount": null,
+          "title": "俄罗斯新雨刷恶意软件: 深入研究 RURansom 恶意软件",
+          "imageUrl": null
+        },
+        {
           "id": "http://paper.seebug.org/1846/",
           "author": null,
           "description": "作者：Glassy\n原文链接：https://g1asssy.com/2022/03/11/fuzz/\n引言\n安全防护产品在进行防护的时候是需要对流量中的数据进行处理的，同样，被攻击的应用也需要处理这些数据以保证业务的正常进行，然而在很多情况下，安全产品处理数据流的框架和应用处理数据流的框架往往不同，在针对常规数据方面，当然不会出现问题，然而一旦被防护应用的数据处理框架的兼容性大于安全产品数...",
@@ -48424,6 +49195,26 @@
       "feedUrl": "https://www.sec-wiki.com/news/rss",
       "siteUrl": "http://www.sec-wiki.com/",
       "articles": [
+        {
+          "id": "http://www.sec-wiki.com/?2022-03-16",
+          "author": null,
+          "description": "[HTB] TheNotebook Writeup  by 0x584a\nICD（集成网络防御）概念参考模型  by ourren\n企业安全运营实践：四个阶段实现风险处置的快和准  by ourren\n更多最新文章，请访问SecWiki",
+          "link": "http://www.sec-wiki.com/?2022-03-16",
+          "publishedOn": "2022-03-16T15:58:20.000Z",
+          "wordCount": null,
+          "title": "SecWiki News 2022-03-16 Review",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.sec-wiki.com/?2022-03-15",
+          "author": null,
+          "description": "今日暂未更新资讯~\n更多最新文章，请访问SecWiki",
+          "link": "http://www.sec-wiki.com/?2022-03-15",
+          "publishedOn": "2022-03-15T15:58:20.000Z",
+          "wordCount": null,
+          "title": "SecWiki News 2022-03-15 Review",
+          "imageUrl": null
+        },
         {
           "id": "http://www.sec-wiki.com/?2022-03-14",
           "author": null,
