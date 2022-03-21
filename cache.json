@@ -6,6 +6,36 @@
       "siteUrl": "http://h1.nobbd.de/",
       "articles": [
         {
+          "id": "https://hackerone.com/reports/1418413",
+          "author": null,
+          "description": "SecurityScorecard disclosed a bug submitted by ww1: https://hackerone.com/reports/1418413",
+          "link": "https://hackerone.com/reports/1418413",
+          "publishedOn": "2022-03-20T06:55:20.000Z",
+          "wordCount": null,
+          "title": "RXSS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://hackerone.com/reports/838817",
+          "author": null,
+          "description": "MTN Group disclosed a bug submitted by xlife: https://hackerone.com/reports/838817",
+          "link": "https://hackerone.com/reports/838817",
+          "publishedOn": "2022-03-20T05:31:53.000Z",
+          "wordCount": null,
+          "title": "Insecure crossdomain.xml on https://vdc.mtnonline.com/",
+          "imageUrl": null
+        },
+        {
+          "id": "https://hackerone.com/reports/801437",
+          "author": null,
+          "description": "MTN Group disclosed a bug submitted by xlife: https://hackerone.com/reports/801437",
+          "link": "https://hackerone.com/reports/801437",
+          "publishedOn": "2022-03-20T05:31:11.000Z",
+          "wordCount": null,
+          "title": "Exposed .bash_history at http://21days2017.mtncameroon.net/.bash_history",
+          "imageUrl": null
+        },
+        {
           "id": "https://hackerone.com/reports/1257586",
           "author": null,
           "description": "Yoti disclosed a bug submitted by ww1: https://hackerone.com/reports/1257586 - Bounty: $1000",
@@ -5181,6 +5211,106 @@
       "feedUrl": "https://medium.com/feed/tag/bugbounty",
       "siteUrl": "https://medium.com/tag/bugbounty/latest?source=rss------bugbounty-5",
       "articles": [
+        {
+          "id": "https://medium.com/p/a13ab0d806c5",
+          "author": "Mohamed Laajimi",
+          "description": "Vuln Type\nPrivacy / Authorization\nContinue reading on Medium »",
+          "link": "https://medium.com/@mohamedajimi59/pages-banned-by-other-pages-is-still-able-to-creat-publication-on-event-a13ab0d806c5?source=rss------bugbounty-5",
+          "publishedOn": "2022-03-20T20:22:52.000Z",
+          "wordCount": null,
+          "title": "Pages banned by other pages is still able to take action on event(comment+post)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/d116fedaea05",
+          "author": "Wombat Exchange 中文",
+          "description": "贏取高達 US$100,000 的賞金！\nContinue reading on Wombat Exchange »",
+          "link": "https://medium.com/wombat-exchange/wombat-exchange-%E6%BC%8F%E6%B4%9E%E8%B3%9E%E9%87%91%E8%A8%88%E5%8A%83%E6%AD%A3%E5%BC%8F%E4%B8%8A%E7%B7%9A-d116fedaea05?source=rss------bugbounty-5",
+          "publishedOn": "2022-03-20T14:50:35.000Z",
+          "wordCount": null,
+          "title": "Wombat Exchange 漏洞賞金計劃正式上線",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/2506ecd37a83",
+          "author": "Sathvika",
+          "description": "Let us learn about IDOR\nContinue reading on Medium »",
+          "link": "https://medium.com/@sathvika03/insecure-direct-object-reference-2506ecd37a83?source=rss------bugbounty-5",
+          "publishedOn": "2022-03-20T14:44:52.000Z",
+          "wordCount": null,
+          "title": "Insecure Direct Object Reference",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/f17e0d3ae9dc",
+          "author": "BkRqbbit",
+          "description": "Companies spend a part of their budget in different areas such as marketing to improve their position and people’s opinion, but there is…\nContinue reading on Medium »",
+          "link": "https://medium.com/@bkrqbbit/what-is-a-bug-bounty-program-f17e0d3ae9dc?source=rss------bugbounty-5",
+          "publishedOn": "2022-03-20T13:44:22.000Z",
+          "wordCount": null,
+          "title": "What Is A Bug Bounty Program?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/4ba244760fda",
+          "author": "Md. Nur Habib",
+          "description": "What is XSS?\nContinue reading on Medium »",
+          "link": "https://thenurhabib.medium.com/ultimate-and-advance-way-to-find-xss-4ba244760fda?source=rss------bugbounty-5",
+          "publishedOn": "2022-03-20T11:49:08.000Z",
+          "wordCount": null,
+          "title": "ultimate and advance way to find xss!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/9f4358ca1428",
+          "author": "Md. Nur Habib",
+          "description": "fstScan is a fastest tool to scan an entire website.\nContinue reading on Medium »",
+          "link": "https://thenurhabib.medium.com/fstscan-massive-vulnerability-scanner-9f4358ca1428?source=rss------bugbounty-5",
+          "publishedOn": "2022-03-20T11:41:59.000Z",
+          "wordCount": null,
+          "title": "fstScan — Massive Vulnerability scanner.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/1ffac6513909",
+          "author": "Wombat Exchange",
+          "description": "Get up to US$100,00 in Rewards!\nContinue reading on Medium »",
+          "link": "https://medium.com/@wombatexchange/launching-wombat-exchange-bug-bounty-program-1ffac6513909?source=rss------bugbounty-5",
+          "publishedOn": "2022-03-20T11:32:41.000Z",
+          "wordCount": null,
+          "title": "Launching Wombat Exchange Bug Bounty Program",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/5bba7077469f",
+          "author": "TutorialBoy",
+          "description": "Introduction\nContinue reading on Medium »",
+          "link": "https://tutorialboy24.medium.com/a-study-of-double-write-bypass-for-sqlmap-tamper-5bba7077469f?source=rss------bugbounty-5",
+          "publishedOn": "2022-03-20T10:02:00.000Z",
+          "wordCount": null,
+          "title": "A Study of Double-Write Bypass for SQLMap — Tamper",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/84e31ac16fe4",
+          "author": "Naveenroy",
+          "description": "A lot of people might know how to share the private video and can access that video but here the interesting thing is now this…\nContinue reading on Medium »",
+          "link": "https://naveenroy008.medium.com/broken-session-control-leads-to-access-private-videos-using-the-shared-link-even-after-revoking-the-84e31ac16fe4?source=rss------bugbounty-5",
+          "publishedOn": "2022-03-20T09:25:36.000Z",
+          "wordCount": null,
+          "title": "Broken session control leads to access private videos using the shared link even after revoking the…",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/1abba4bcaf76",
+          "author": "Surendra Choudhury",
+          "description": "A detail blog on Top hacking tool which is used by skill hackers !\nContinue reading on InfoSec Write-ups »",
+          "link": "https://infosecwriteups.com/top-ethical-hacking-tools-and-software-for-2022-1abba4bcaf76?source=rss------bugbounty-5",
+          "publishedOn": "2022-03-20T03:37:34.000Z",
+          "wordCount": null,
+          "title": "Top Ethical Hacking Tools and Software for 2022",
+          "imageUrl": null
+        },
         {
           "id": "https://medium.com/p/25386d493d07",
           "author": "Burak Duman",
@@ -10553,6 +10683,16 @@
       "siteUrl": "https://medium.com/tag/redteam/latest?source=rss------redteam-5",
       "articles": [
         {
+          "id": "https://medium.com/p/3ab15112c183",
+          "author": "Gabor Matuz",
+          "description": "Thoughts on how to simplify your tests while keeping it real and a realistic, easy to expand initial access case.\nContinue reading on Medium »",
+          "link": "https://medium.com/@matuzg/testing-edrs-for-linux-things-i-wish-i-knew-before-getting-started-3ab15112c183?source=rss------redteam-5",
+          "publishedOn": "2022-03-20T19:50:11.000Z",
+          "wordCount": null,
+          "title": "Testing EDRs for Linux — Things I wish I knew before getting started",
+          "imageUrl": null
+        },
+        {
           "id": "https://medium.com/p/addbb4fe3f64",
           "author": "Nasreddine Bencherchali",
           "description": "Very Total, Much Security\nContinue reading on Medium »",
@@ -13540,6 +13680,66 @@
       "feedUrl": "https://medium.com/feed/tag/osint",
       "siteUrl": "https://medium.com/tag/osint/latest?source=rss------osint-5",
       "articles": [
+        {
+          "id": "https://medium.com/p/dd8b98da6184",
+          "author": "Djeex",
+          "description": "Les dernières 24h\nContinue reading on Medium »",
+          "link": "https://medium.com/@Djeex/ukraine-point-de-situation-au-21-mars-dd8b98da6184?source=rss------osint-5",
+          "publishedOn": "2022-03-20T19:44:32.000Z",
+          "wordCount": null,
+          "title": "Ukraine — Point de situation au 21 mars",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/d847b7c2615a",
+          "author": "CyberRaya",
+          "description": "Introduction\nContinue reading on Medium »",
+          "link": "https://medium.com/@CyberRaya/recon-ng-powerful-reconaissance-tool-d847b7c2615a?source=rss------osint-5",
+          "publishedOn": "2022-03-20T16:27:42.000Z",
+          "wordCount": null,
+          "title": "Recon-ng: Powerful Reconaissance Tool",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/ef0e9e89166c",
+          "author": "NK Scanner",
+          "description": "[0x0] The Beginning\nContinue reading on Medium »",
+          "link": "https://medium.com/@nkscanner/a-sneak-peek-into-the-forbidden-state-exploring-the-cyberspace-of-north-korea-ef0e9e89166c?source=rss------osint-5",
+          "publishedOn": "2022-03-20T15:50:55.000Z",
+          "wordCount": null,
+          "title": "A Sneak Peek into the Forbidden State: Exploring the CyberSpace of North Korea",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/2bf1bd69c7c1",
+          "author": "Sanjana hegde",
+          "description": "Sock Puppet is an alternative online identity or in simple words it’s a Fake account\nContinue reading on Medium »",
+          "link": "https://medium.com/@sanjanahegda1997/the-art-of-sock-puppet-2bf1bd69c7c1?source=rss------osint-5",
+          "publishedOn": "2022-03-20T12:29:44.000Z",
+          "wordCount": null,
+          "title": "THE ART OF SOCK PUPPET",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/629d6f2a18a4",
+          "author": "Mukkaram Satti",
+          "description": "In this guide I will be showing you how to install and use the functions of Osintgram in Kali Linux.\nContinue reading on System Weakness »",
+          "link": "https://systemweakness.com/osintgram-gather-instagram-target-information-step-by-step-guide-629d6f2a18a4?source=rss------osint-5",
+          "publishedOn": "2022-03-20T06:16:59.000Z",
+          "wordCount": null,
+          "title": "OSINTGRAM : Gather Instagram Target Information (Step-by-Step Guide)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/74a15fa2407",
+          "author": "Awais Afzal Kamboh",
+          "description": "https://www.youtube.com/watch?v=sr54QBU2lBc\nContinue reading on Medium »",
+          "link": "https://medium.com/@awaisafzal0/us-defense-budget-allocation-for-language-interpretation-74a15fa2407?source=rss------osint-5",
+          "publishedOn": "2022-03-20T04:17:30.000Z",
+          "wordCount": null,
+          "title": "US defense budget allocation for language interpretation",
+          "imageUrl": null
+        },
         {
           "id": "https://medium.com/p/725fa1005456",
           "author": "Djeex",
@@ -18123,6 +18323,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=30741595",
+          "author": "StephanStS",
+          "description": "Article URL: https://dietpi.com/blog/?p=1379\nComments URL: https://news.ycombinator.com/item?id=30741595\nPoints: 2\n# Comments: 0",
+          "link": "https://dietpi.com/blog/?p=1379",
+          "publishedOn": "2022-03-20T10:44:12.000Z",
+          "wordCount": null,
+          "title": "Dirty Pipe Vulnerability in Linux",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=30725737",
           "author": "News-Dog",
           "description": "Article URL: https://isc.sans.edu/forums/diary/Scans+for+Movable+Type+Vulnerability+CVE202120837/28454\nComments URL: https://news.ycombinator.com/item?id=30725737\nPoints: 1\n# Comments: 0",
@@ -19337,6 +19547,16 @@
       "feedUrl": "https://www.freebuf.com/feed",
       "siteUrl": "https://www.freebuf.com",
       "articles": [
+        {
+          "id": "https://www.freebuf.com/articles/325465.html",
+          "author": null,
+          "description": "CISA与FBI今天表示，他们正意识到美国和世界各地的卫星通信网络面临“可能的威胁”。",
+          "link": "https://www.freebuf.com/articles/325465.html",
+          "publishedOn": "2022-03-19T08:40:00.000Z",
+          "wordCount": null,
+          "title": "FreeBuf 早报 | 钓鱼软件利用对乌入侵获取加密货币；欧洲警告与俄入侵有关飞机GPS中断",
+          "imageUrl": null
+        },
         {
           "id": "https://www.freebuf.com/articles/325390.html",
           "author": null,
@@ -25874,6 +26094,16 @@
       "siteUrl": "http://www.sec-wiki.com/",
       "articles": [
         {
+          "id": "http://www.sec-wiki.com/?2022-03-20",
+          "author": null,
+          "description": "利用抽象语法树挖掘Fastjson可用的Gadget  by ourren\n利用 gateway-api 攻击 kubernetes  by ourren\n更多最新文章，请访问SecWiki",
+          "link": "http://www.sec-wiki.com/?2022-03-20",
+          "publishedOn": "2022-03-20T15:58:20.000Z",
+          "wordCount": null,
+          "title": "SecWiki News 2022-03-20 Review",
+          "imageUrl": null
+        },
+        {
           "id": "http://www.sec-wiki.com/?2022-03-19",
           "author": null,
           "description": "今日暂未更新资讯~\n更多最新文章，请访问SecWiki",
@@ -26788,6 +27018,36 @@
       "feedUrl": "https://www.reddit.com/r/asknetsec/.rss",
       "siteUrl": "https://www.reddit.com/r/asknetsec/",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/tisiif/fully_understand_syn_flood_tcp_backlog_and_other/",
+          "author": null,
+          "description": "Hey,I have multiple questions about the subject:\n  \nI do know what port states are (Like listen,syn_recived, established, etc).But I don't understand exactly how the TCB queue works with them.Does the kernel open a new TCB every time the port state needs to be changed or something else?\n If so, does it necessarily needs to be a syn attack? it can be also an \"ack\" attack or every other state name attack. I think the only advantage is that syn is faster to send in massive traffic.\n I didn't understand if today the famous OS like RedHat Linux, windows server, windows home, etc do limit the backlog by default or not. I saw different sources say different things.Usually, organizations manually limit the TCP backlog (I know it depends), or just trust third-party systems like Big-IP of F5?\n IP and port spoofing is necessary for the attack? The victim's OS won't create a new TCB if I won't change my socket?\n If clause 2 is right, third party solutions also implement the same method of syn cookies on any other possible state?\n  \nThanks!\n    submitted by    /u/Webly99  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/tisiif/fully_understand_syn_flood_tcp_backlog_and_other/",
+          "publishedOn": "2022-03-20T19:17:31.000Z",
+          "wordCount": null,
+          "title": "Fully understand SYN Flood (TCP backlog and other stuff)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/tim1e2/what_should_i_use_to_share_secret_with_someone_of/",
+          "author": null,
+          "description": "In this case I can't have physical access to the person.\n    submitted by    /u/that_random_bear  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/tim1e2/what_should_i_use_to_share_secret_with_someone_of/",
+          "publishedOn": "2022-03-20T14:17:44.000Z",
+          "wordCount": null,
+          "title": "What should I use to share secret with someone of another company (client) ?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/tikb4v/guide_for_how_to_design_an_account_system/",
+          "author": null,
+          "description": "My company is overhauling its customer account system for our website, moving from simple username and password to having some form of 2FA. Now’s also a good time for us to go through all of our policies, such as the process for password reset, what to do if a customer no longer has access to their email, what to do if they no longer have access to their second-factor, if their phone number changed and they forgot to update it… lots of little questions that go into having a secure account system.\n Is there a book or long guide with current industry best practices? Thanks.\n    submitted by    /u/tvtb  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/tikb4v/guide_for_how_to_design_an_account_system/",
+          "publishedOn": "2022-03-20T12:47:21.000Z",
+          "wordCount": null,
+          "title": "Guide for how to design an account system?",
+          "imageUrl": null
+        },
         {
           "id": "https://www.reddit.com/r/AskNetsec/comments/thxgca/where_to_focus_further_learning/",
           "author": null,
@@ -31974,6 +32234,16 @@
       "siteUrl": "https://www.reddit.com/r/redteamsec/",
       "articles": [
         {
+          "id": "https://www.reddit.com/r/redteamsec/comments/tikk67/creating_a_reverse_c2_channel_using_powershell_c/",
+          "author": null,
+          "description": "https://www.youtube.com/watch?v=Yoj0bQkIRqU\n    submitted by    /u/luzunov  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/redteamsec/comments/tikk67/creating_a_reverse_c2_channel_using_powershell_c/",
+          "publishedOn": "2022-03-20T13:01:28.000Z",
+          "wordCount": null,
+          "title": "Creating a reverse C2 channel using powershell c# and python",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.reddit.com/r/redteamsec/comments/thxhlz/browser_in_the_browser/",
           "author": null,
           "description": "submitted by    /u/dmchell  \n [link]   [comments]",
@@ -33891,6 +34161,16 @@
       "feedUrl": "https://www.reddit.com/r/computerforensics/.rss",
       "siteUrl": "https://www.reddit.com/r/computerforensics/",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/computerforensics/comments/tigdxe/bulk_extractor_showing_explicit_websites/",
+          "author": null,
+          "description": "Howdy all,\n Okay, so whilst I was going through data of my client I found some explicit websites in the domain_histogram result from Bulk Extractor!\n Now, the thing that has me awake is, same link was available over at all hosts!\n So, I downloaded a fresh Iso Image from Windows official link, Made a Virtual Machine and Captured its ram! Found the same links xD\n I've no idea to what and how is this happening. Any leads anyone can help me with?\n    submitted by    /u/GloryHunter9  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/computerforensics/comments/tigdxe/bulk_extractor_showing_explicit_websites/",
+          "publishedOn": "2022-03-20T08:16:38.000Z",
+          "wordCount": null,
+          "title": "Bulk Extractor showing Explicit Websites",
+          "imageUrl": null
+        },
         {
           "id": "https://www.reddit.com/r/computerforensics/comments/ti1rz4/ram_memory_analysis_volatility/",
           "author": null,
@@ -35912,6 +36192,36 @@
       "feedUrl": "https://www.reddit.com/r/netsec/.rss",
       "siteUrl": "https://www.reddit.com/r/netsec/",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/netsec/comments/titi7f/linux_edr_testing_simple_to_extend_but_realistic/",
+          "author": null,
+          "description": "submitted by    /u/4lreadytekken  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/netsec/comments/titi7f/linux_edr_testing_simple_to_extend_but_realistic/",
+          "publishedOn": "2022-03-20T20:02:40.000Z",
+          "wordCount": null,
+          "title": "Linux EDR testing: simple to extend but realistic initial access test case and ideas where to focus when testing",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/netsec/comments/tiowuh/github_fgsectfitm_fitm_the_fuzzer_in_the_middle/",
+          "author": null,
+          "description": "submitted by    /u/domenukk  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/netsec/comments/tiowuh/github_fgsectfitm_fitm_the_fuzzer_in_the_middle/",
+          "publishedOn": "2022-03-20T16:33:48.000Z",
+          "wordCount": null,
+          "title": "GitHub - fgsect/FitM: FitM, the Fuzzer in the Middle, can fuzz client and server binaries at the same time using userspace snapshot-fuzzing and network emulation. It's fast and comparably easy to set up.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/netsec/comments/tijqtq/xepor_the_web_routing_framework_brings_the_best/",
+          "author": null,
+          "description": "submitted by    /u/ttimasdf  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/netsec/comments/tijqtq/xepor_the_web_routing_framework_brings_the_best/",
+          "publishedOn": "2022-03-20T12:13:25.000Z",
+          "wordCount": null,
+          "title": "Xepor: the web routing framework, brings the best of mitmproxy & Flask",
+          "imageUrl": null
+        },
         {
           "id": "https://www.reddit.com/r/netsec/comments/ti48p2/frelatage_a_fuzzing_library_to_find/",
           "author": null,
@@ -49659,6 +49969,16 @@
       "siteUrl": "https://www.hackingarticles.in",
       "articles": [
         {
+          "id": "https://www.hackingarticles.in/?p=27837",
+          "author": "Raj Chandel",
+          "description": "Introduction Parent PID spoofing is an access token manipulation technique that may aid an attacker to evade defense techniques such as heuristic detection by spoofing\nThe post Parent PID Spoofing (Mitre:T1134) appeared first on Hacking Articles.",
+          "link": "https://www.hackingarticles.in/parent-pid-spoofing-mitret1134/",
+          "publishedOn": "2022-03-19T18:34:57.000Z",
+          "wordCount": null,
+          "title": "Parent PID Spoofing (Mitre:T1134)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.hackingarticles.in/?p=27833",
           "author": "Raj Chandel",
           "description": "Introduction Indirect Command Execution is a defense evasion technique that is often used by Red Teams in which an adversary tries to bypass certain defense\nThe post Indirect Command Execution: Defense Evasion (T1202) appeared first on Hacking Articles.",
@@ -50045,6 +50365,16 @@
       "feedUrl": "https://www.sec-wiki.com/news/rss",
       "siteUrl": "http://www.sec-wiki.com/",
       "articles": [
+        {
+          "id": "http://www.sec-wiki.com/?2022-03-19",
+          "author": null,
+          "description": "今日暂未更新资讯~\n更多最新文章，请访问SecWiki",
+          "link": "http://www.sec-wiki.com/?2022-03-19",
+          "publishedOn": "2022-03-19T15:58:20.000Z",
+          "wordCount": null,
+          "title": "SecWiki News 2022-03-19 Review",
+          "imageUrl": null
+        },
         {
           "id": "http://www.sec-wiki.com/?2022-03-18",
           "author": null,
