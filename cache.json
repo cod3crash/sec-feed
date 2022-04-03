@@ -6,6 +6,16 @@
       "siteUrl": "http://h1.nobbd.de/",
       "articles": [
         {
+          "id": "https://hackerone.com/reports/1483327",
+          "author": null,
+          "description": "Stripe disclosed a bug submitted by d_sharad: https://hackerone.com/reports/1483327 - Bounty: $2500",
+          "link": "https://hackerone.com/reports/1483327",
+          "publishedOn": "2022-04-02T13:22:33.000Z",
+          "wordCount": null,
+          "title": "CSRF token validation system is disabled on Stripe Dashboard",
+          "imageUrl": null
+        },
+        {
           "id": "https://hackerone.com/reports/864489",
           "author": null,
           "description": "Slack disclosed a bug submitted by kadusantiago: https://hackerone.com/reports/864489 - Bounty: $3500",
@@ -3713,6 +3723,26 @@
       "siteUrl": "https://infosecwriteups.com?source=rss----7b722bfd1b8d---4",
       "articles": [
         {
+          "id": "https://medium.com/p/2ef31ac7547f",
+          "author": "Security Lit Limited",
+          "description": "",
+          "link": "https://infosecwriteups.com/advanced-docker-security-2ef31ac7547f?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2022-04-02T10:14:55.000Z",
+          "wordCount": null,
+          "title": "Advanced Docker Security",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/b93aecbd46dd",
+          "author": "hac#",
+          "description": "",
+          "link": "https://infosecwriteups.com/manager-from-hackthebox-b93aecbd46dd?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2022-04-02T10:11:36.000Z",
+          "wordCount": null,
+          "title": "Manager From Hackthebox",
+          "imageUrl": null
+        },
+        {
           "id": "https://medium.com/p/a9993aea16ba",
           "author": "Shriyans Sudhi",
           "description": "",
@@ -6031,6 +6061,86 @@
       "feedUrl": "https://medium.com/feed/tag/bugbounty",
       "siteUrl": "https://medium.com/tag/bugbounty/latest?source=rss------bugbounty-5",
       "articles": [
+        {
+          "id": "https://medium.com/p/7e291aad043a",
+          "author": "Amit Kumar",
+          "description": "I’m Going to share one of my other Reflected Cross-Site Scripting Scenario.\nContinue reading on Medium »",
+          "link": "https://amit-lt.medium.com/multiple-times-i-hacked-duke-university-with-rxss-vulnerability-7e291aad043a?source=rss------bugbounty-5",
+          "publishedOn": "2022-04-02T20:28:02.000Z",
+          "wordCount": null,
+          "title": "MULTIPLE TIMES I HACKED DUKE UNIVERSITY WITH RXSS VULNERABILITY!!!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/a9ef05181083",
+          "author": "Akash Hamal",
+          "description": "This is my first writeup here on medium. Hope you enjoy it :). Feedbacks are always appreciated!\nContinue reading on Medium »",
+          "link": "https://medium.com/@AkashHamal0x01/design-flaw-a-tale-of-permanent-dos-a9ef05181083?source=rss------bugbounty-5",
+          "publishedOn": "2022-04-02T17:44:13.000Z",
+          "wordCount": null,
+          "title": "Design Flaw — A Tale of Permanent DOS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/9a7717bbd002",
+          "author": "CypherTheThird",
+          "description": "Hello everyone, my name is Кристиян Радев but many of you may know me as CypherTheThird. I have been studying ethical hacking for a while…\nContinue reading on Medium »",
+          "link": "https://medium.com/@cypherthethird/cross-site-scripting-xss-for-dummies-9a7717bbd002?source=rss------bugbounty-5",
+          "publishedOn": "2022-04-02T17:17:29.000Z",
+          "wordCount": null,
+          "title": "Cross Site Scripting (XSS) for Dummies",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/10db3097f2e1",
+          "author": "Oceanland",
+          "description": "Early bird catches the worm 🐛\nContinue reading on Medium »",
+          "link": "https://oceanland.medium.com/oceanland-testnet-bug-bounty-program-10db3097f2e1?source=rss------bugbounty-5",
+          "publishedOn": "2022-04-02T12:03:00.000Z",
+          "wordCount": null,
+          "title": "Oceanland Testnet Bug Bounty Program",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/a3ee189dd822",
+          "author": "Amit Kumar",
+          "description": "Today I’m going to share one of my RXSS Scenarios.\nContinue reading on Medium »",
+          "link": "https://amit-lt.medium.com/scenario-of-reflected-cross-site-scripting-vulnerability-a3ee189dd822?source=rss------bugbounty-5",
+          "publishedOn": "2022-04-02T11:05:41.000Z",
+          "wordCount": null,
+          "title": "SCENARIO OF REFLECTED CROSS-SITE SCRIPTING VULNERABILITY $$$$",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/b93aecbd46dd",
+          "author": "hac#",
+          "description": "Part Of Intro to Android Exploitation\nContinue reading on InfoSec Write-ups »",
+          "link": "https://infosecwriteups.com/manager-from-hackthebox-b93aecbd46dd?source=rss------bugbounty-5",
+          "publishedOn": "2022-04-02T10:11:36.000Z",
+          "wordCount": null,
+          "title": "Manager From Hackthebox",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/edeb6af5640b",
+          "author": "Ph.Hitachi",
+          "description": "Hello guys,\nContinue reading on Medium »",
+          "link": "https://ph-hitachi.medium.com/view-friends-list-of-any-users-using-view-as-facebook-bug-bounty-edeb6af5640b?source=rss------bugbounty-5",
+          "publishedOn": "2022-04-02T10:11:35.000Z",
+          "wordCount": null,
+          "title": "View Friends List of any users using “View as” | Facebook Bug bounty",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/2869a1b14abc",
+          "author": "Quincy Gleichner",
+          "description": "You’re My Little Cuddle Bug Read Online\n \n Download Link => You’re My Little Cuddle Bug \n \n Deskripsi Book\n Celebrate your little cuddle…\nContinue reading on Medium »",
+          "link": "https://medium.com/@odeliagy.cp.9.63/read-pdf-youre-my-little-cuddle-bug-full-2869a1b14abc?source=rss------bugbounty-5",
+          "publishedOn": "2022-04-02T07:06:50.000Z",
+          "wordCount": null,
+          "title": "(READ-PDF!) You’re My Little Cuddle Bug Full",
+          "imageUrl": null
+        },
         {
           "id": "https://medium.com/p/bfbb89c8a614",
           "author": "Stacks Blockchain News",
@@ -12023,6 +12133,26 @@
       "siteUrl": "https://medium.com/tag/redteam/latest?source=rss------redteam-5",
       "articles": [
         {
+          "id": "https://medium.com/p/cf0d5238ca07",
+          "author": "Karim Reda",
+          "description": "Shibboleth writeup | HackTheBox\nContinue reading on Medium »",
+          "link": "https://karim0x10.medium.com/shibboleth-writeup-hackthebox-cf0d5238ca07?source=rss------redteam-5",
+          "publishedOn": "2022-04-02T17:05:12.000Z",
+          "wordCount": null,
+          "title": "Shibboleth writeup | HackTheBox",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/b25343257209",
+          "author": "Cedric Owens",
+          "description": "TL;DR Security researcher Ron Masas (twitter: @RonMasas) recently wrote a tool (chrome-bandit) that extracts saved password from…\nContinue reading on Medium »",
+          "link": "https://cedowens.medium.com/remotely-dumping-chrome-cookies-revisited-b25343257209?source=rss------redteam-5",
+          "publishedOn": "2022-04-02T12:00:40.000Z",
+          "wordCount": null,
+          "title": "Remotely Dumping Chrome Cookies…Revisited",
+          "imageUrl": null
+        },
+        {
           "id": "https://medium.com/p/e76bb54308f5",
           "author": "Urshila",
           "description": "DCSync Attack is a type of “credential dumping” attack that makes use of commands present in Microsoft Directory Replication Service…\nContinue reading on Medium »",
@@ -13111,6 +13241,26 @@
       "feedUrl": "https://medium.com/feed/bugbountywriteup",
       "siteUrl": "https://infosecwriteups.com?source=rss----7b722bfd1b8d---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/2ef31ac7547f",
+          "author": "Security Lit Limited",
+          "description": "",
+          "link": "https://infosecwriteups.com/advanced-docker-security-2ef31ac7547f?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2022-04-02T10:14:55.000Z",
+          "wordCount": null,
+          "title": "Advanced Docker Security",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/b93aecbd46dd",
+          "author": "hac#",
+          "description": "",
+          "link": "https://infosecwriteups.com/manager-from-hackthebox-b93aecbd46dd?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2022-04-02T10:11:36.000Z",
+          "wordCount": null,
+          "title": "Manager From Hackthebox",
+          "imageUrl": null
+        },
         {
           "id": "https://medium.com/p/a9993aea16ba",
           "author": "Shriyans Sudhi",
@@ -15430,6 +15580,56 @@
       "feedUrl": "https://medium.com/feed/tag/osint",
       "siteUrl": "https://medium.com/tag/osint/latest?source=rss------osint-5",
       "articles": [
+        {
+          "id": "https://medium.com/p/2bf3921409b7",
+          "author": "Djeex",
+          "description": "Les dernières 24h\nContinue reading on Medium »",
+          "link": "https://medium.com/@Djeex/ukraine-point-de-situation-au-3-avril-2bf3921409b7?source=rss------osint-5",
+          "publishedOn": "2022-04-02T20:34:48.000Z",
+          "wordCount": null,
+          "title": "Ukraine — Point de situation au 3 avril",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/7c030047c960",
+          "author": "Molfar",
+          "description": "The Molfar team sends a daily newsletter about the war in Ukraine. You can subscribe to the newsletter by sending your email address to…\nContinue reading on Medium »",
+          "link": "https://molfar.medium.com/war-in-ukraine-april-1-7c030047c960?source=rss------osint-5",
+          "publishedOn": "2022-04-02T17:09:44.000Z",
+          "wordCount": null,
+          "title": "War in Ukraine / April 1",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/7cf8560b54f6",
+          "author": "Hacktivities",
+          "description": "In this article, I learn how to use Open Source Intelligence (OSINT) techniques and tools to gather information from image or video files…\nContinue reading on InfoSec Write-ups »",
+          "link": "https://infosecwriteups.com/image-geospatial-osint-7cf8560b54f6?source=rss------osint-5",
+          "publishedOn": "2022-04-02T12:28:02.000Z",
+          "wordCount": null,
+          "title": "Image & Geospatial OSINT",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/fa3fedff2fe0",
+          "author": "Igor S. Bederov",
+          "description": "I publish simple and free tools for verifying (checking) photographic and video content posted in the news.\nContinue reading on Medium »",
+          "link": "https://medium.com/@ibederov_en/how-to-identify-fake-photos-and-videos-fa3fedff2fe0?source=rss------osint-5",
+          "publishedOn": "2022-04-02T11:58:06.000Z",
+          "wordCount": null,
+          "title": "How to identify fake photos and videos?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/ae32801a6772",
+          "author": "Igor S. Bederov",
+          "description": "Today we will analyze the topic of checking nicknames in the process of OSINT research. Did you know that the average person usually has…\nContinue reading on Medium »",
+          "link": "https://medium.com/@ibederov_en/search-by-nickname-and-username-ae32801a6772?source=rss------osint-5",
+          "publishedOn": "2022-04-02T11:29:50.000Z",
+          "wordCount": null,
+          "title": "Search by nickname and username",
+          "imageUrl": null
+        },
         {
           "id": "https://medium.com/p/38af7d9eca33",
           "author": "Djeex",
@@ -19751,6 +19951,26 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=30890139",
+          "author": "nairvarun",
+          "description": "Article URL: https://spring.io/blog/2022/03/31/spring-framework-rce-early-announcement\nComments URL: https://news.ycombinator.com/item?id=30890139\nPoints: 1\n# Comments: 0",
+          "link": "https://spring.io/blog/2022/03/31/spring-framework-rce-early-announcement",
+          "publishedOn": "2022-04-02T17:48:49.000Z",
+          "wordCount": null,
+          "title": "RCE vulnerability with Java Spring framework (CVE-2022-22965)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=30886025",
+          "author": "pqlx",
+          "description": "Article URL: https://blog.dbouman.nl/2022/04/02/How-The-Tables-Have-Turned-CVE-2022-1015-1016/\nComments URL: https://news.ycombinator.com/item?id=30886025\nPoints: 1\n# Comments: 0",
+          "link": "https://blog.dbouman.nl/2022/04/02/How-The-Tables-Have-Turned-CVE-2022-1015-1016/",
+          "publishedOn": "2022-04-02T05:30:04.000Z",
+          "wordCount": null,
+          "title": "How The Tables Have Turned: Analysis of Linux CVE-2022-10{15,16} in nf_tables",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=30874271",
           "author": "kickdaddy",
           "description": "Article URL: https://www.fastly.com/blog/spring-has-sprung-breaking-down-cve-2022-22963-and-spring4shell-cve-2022\nComments URL: https://news.ycombinator.com/item?id=30874271\nPoints: 1\n# Comments: 0",
@@ -20685,6 +20905,16 @@
       "feedUrl": "https://hnrss.org/newest?q=vulnerability",
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
+        {
+          "id": "https://news.ycombinator.com/item?id=30890139",
+          "author": "nairvarun",
+          "description": "Article URL: https://spring.io/blog/2022/03/31/spring-framework-rce-early-announcement\nComments URL: https://news.ycombinator.com/item?id=30890139\nPoints: 1\n# Comments: 0",
+          "link": "https://spring.io/blog/2022/03/31/spring-framework-rce-early-announcement",
+          "publishedOn": "2022-04-02T17:48:49.000Z",
+          "wordCount": null,
+          "title": "RCE vulnerability with Java Spring framework (CVE-2022-22965)",
+          "imageUrl": null
+        },
         {
           "id": "https://news.ycombinator.com/item?id=30878924",
           "author": "lelf",
@@ -22041,6 +22271,66 @@
       "siteUrl": "https://www.freebuf.com",
       "articles": [
         {
+          "id": "https://www.freebuf.com/news/327344.html",
+          "author": null,
+          "description": "《规定》共十三条，进一步明确企业信息安全责任，为境内企业境外发行证券和上市活动中境内企业、机构在保密和档案管理方面提供更清晰明确的指引。",
+          "link": "https://www.freebuf.com/news/327344.html",
+          "publishedOn": "2022-04-02T09:42:21.000Z",
+          "wordCount": null,
+          "title": "重磅！证监会修订境内企业赴境外上市相关保密和档案管理规定",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.freebuf.com/articles/327343.html",
+          "author": null,
+          "description": "近期，欧洲议会在反洗钱新立法的道路上迈出了坚实的第一步，新提案主要针对加密货币交易。",
+          "link": "https://www.freebuf.com/articles/327343.html",
+          "publishedOn": "2022-04-02T09:41:45.000Z",
+          "wordCount": null,
+          "title": "欧盟法律草案为所有加密交易增加安全检查",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.freebuf.com/news/327280.html",
+          "author": null,
+          "description": "GitLab 爆出漏洞，目前已被解决。",
+          "link": "https://www.freebuf.com/news/327280.html",
+          "publishedOn": "2022-04-02T07:36:40.000Z",
+          "wordCount": null,
+          "title": "GitLab 存在漏洞，允许攻击者接管用户账户",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.freebuf.com/news/327267.html",
+          "author": null,
+          "description": "Wyze Cam被曝存在三个严重的安全漏洞，黑客利用这些漏洞可以执行任意代码，完全控制摄像头，并且访问设备中的视频资源。",
+          "link": "https://www.freebuf.com/news/327267.html",
+          "publishedOn": "2022-04-02T06:46:23.000Z",
+          "wordCount": null,
+          "title": "Wyze摄像头曝出大漏洞，近三年时间才修复",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.freebuf.com/news/327248.html",
+          "author": null,
+          "description": "西班牙一家领先的业务流程外包(BPO)服务提供商表示，因遭遇勒索软件攻击导致其损失超过数千万美元。",
+          "link": "https://www.freebuf.com/news/327248.html",
+          "publishedOn": "2022-04-02T04:00:52.000Z",
+          "wordCount": null,
+          "title": "IT服务巨头遭勒索软件攻击，损失超4200万美元",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.freebuf.com/vuls/168980.html",
+          "author": null,
+          "description": "该漏洞存在于带有 eBPF bpf(2)系统（CONFIG_BPF_SYSCALL）编译支持的Linux内核中，是一个内存任意读写漏洞。",
+          "link": "https://www.freebuf.com/vuls/168980.html",
+          "publishedOn": "2022-04-01T17:21:31.000Z",
+          "wordCount": null,
+          "title": "CVE-2017-16995 Ubuntu本地提权测试（任意地址读写利用）",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.freebuf.com/news/327062.html",
           "author": null,
           "description": "SentinelLabs 研究人员发现，美国卫星通信服务提供商 Viasat 遭受了一轮网络攻击，结果导致中东欧地区的服务出现了中断。",
@@ -22071,6 +22361,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.freebuf.com/sectool/106747.html",
+          "author": null,
+          "description": "在我们平时做渗透测试的时候，难免会遇到各种WAF的阻挡。",
+          "link": "https://www.freebuf.com/sectool/106747.html",
+          "publishedOn": "2022-04-01T03:58:59.000Z",
+          "wordCount": null,
+          "title": "WAFNinja：一款绕过WAF的渗透测试工具",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.freebuf.com/news/326992.html",
           "author": null,
           "description": "各位FreeBufer周末好~以下是本周的「FreeBuf周报」，我们总结推荐了本周的热点资讯、优质文章和省心工具，保证大家不错过本周的每一个重点！热点资讯1、国家信息安全漏洞共享平台收录Spring框架远程命令执行漏洞，安全补丁更新2、Facebook因算法漏洞连推糟糕内容，一直持续半年3、《华盛顿邮报》长文批评Meta雇佣公司攻击TikTok，引发数据隐私担忧4、WordPress网站被黑，利",
@@ -22088,6 +22388,16 @@
           "publishedOn": "2022-04-01T03:52:34.000Z",
           "wordCount": null,
           "title": "《信息安全技术 基于密码令牌的主叫用户可信身份鉴别技术规范》等征求意见稿发布",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.freebuf.com/articles/others-articles/106534.html",
+          "author": null,
+          "description": "鉴于曾经做过腾讯找招聘-安全技术笔试题目，故留此一记，以作怀念。",
+          "link": "https://www.freebuf.com/articles/others-articles/106534.html",
+          "publishedOn": "2022-04-01T03:44:55.000Z",
+          "wordCount": null,
+          "title": "某厂2016实习招聘安全技术试题答案及解析",
           "imageUrl": null
         },
         {
@@ -22138,6 +22448,26 @@
           "publishedOn": "2022-03-31T11:19:02.000Z",
           "wordCount": null,
           "title": "FreeBuf甲方群话题讨论 | 聊聊疫情期间企业网络安全",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.freebuf.com/vuls/325920.html",
+          "author": null,
+          "description": "&lt;h1 data-nodeid=&quot;4292&quot; class=&quot;&quot;&gt;从0到1完全掌握 SQL 注入&lt;/h1&gt;&lt;ul data-node",
+          "link": "https://www.freebuf.com/vuls/325920.html",
+          "publishedOn": "2022-03-31T06:41:01.000Z",
+          "wordCount": null,
+          "title": "从0到1完全掌握 SQL 注入",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.freebuf.com/articles/paper/325750.html",
+          "author": null,
+          "description": "脑机接口是指在大脑与外部设备之间创建的直接连接，实现脑与外部设备之间的信息交换。其工作流程包括脑电信号的采集和获取、信号处理、信号的输出和执行，最终再将信号反馈给大脑。",
+          "link": "https://www.freebuf.com/articles/paper/325750.html",
+          "publishedOn": "2022-03-31T06:36:34.000Z",
+          "wordCount": null,
+          "title": "脑机接口技术调研报告",
           "imageUrl": null
         },
         {
@@ -28741,6 +29071,36 @@
       "siteUrl": "https://paper.seebug.org/",
       "articles": [
         {
+          "id": "https://paper.seebug.org/1875/",
+          "author": null,
+          "description": "作者：王铁磊\n原文链接：https://mp.weixin.qq.com/s/Lj8c5PLzLGIfdBoDzairsQ\n1 引言\n虚拟内存 (Virtual Memory, VM) ⼦系统是现代操作系统基础核⼼组件，不仅负责虚拟地址和物理内存的映射关系，管理调度物理内存的使⽤，为程序开发提供统⼀透明的地址空间，同时也要为不同执⾏环境提供隔离，管控物理页⾯读、写、执⾏等权限，是系统安全的基...",
+          "link": "https://paper.seebug.org/1875/",
+          "publishedOn": "2022-04-02T07:15:00.000Z",
+          "wordCount": null,
+          "title": "XNU 虚拟内存安全往事",
+          "imageUrl": null
+        },
+        {
+          "id": "https://paper.seebug.org/1874/",
+          "author": null,
+          "description": "作者：Y4er\n原文链接：https://y4er.com/post/cve-2022-26503-veeam-agent-for-microsoft-windows-lpe/\n继上文\n漏洞分析\n补丁\n\nVeeam.Common.Remoting.CSrvTcpChannelRegistration.CSrvTcpChannelRegistration(string, int, CSrvTc...",
+          "link": "https://paper.seebug.org/1874/",
+          "publishedOn": "2022-04-02T06:49:00.000Z",
+          "wordCount": null,
+          "title": "CVE-2022-26503 Veeam Agent for Microsoft Windows LPE",
+          "imageUrl": null
+        },
+        {
+          "id": "https://paper.seebug.org/1873/",
+          "author": null,
+          "description": "作者：Y4er\n原文链接：https://y4er.com/post/cve-2022-26500-veeam-backup-replication-rce/\n看推特又爆了cve，感觉挺牛逼的洞，于是分析一手。\n官方公告\nhttps://www.veeam.com/kb4288\n\nThe Veeam Distribution Service (TCP 9380 by default) all...",
+          "link": "https://paper.seebug.org/1873/",
+          "publishedOn": "2022-04-02T05:59:00.000Z",
+          "wordCount": null,
+          "title": "CVE-2022-26500 Veeam Backup & Replication RCE",
+          "imageUrl": null
+        },
+        {
           "id": "https://paper.seebug.org/1872/",
           "author": null,
           "description": "作者：深信服千里目安全实验室\n相关阅读：\n1、【Rootkit 系列研究】序章：悬顶的达摩克利斯之剑\n2、【Rootkit 系列研究】Windows平台的高隐匿、高持久化威胁\n3、【Rootkit 系列研究】Linux平台的高隐匿、高持久化威胁\n4、【Rootkit 系列研究】Rootkit检测技术发展现状\n5、【Rootkit 系列研究】Windows平台的高隐匿、高持久化威胁（二）\n序言...",
@@ -29746,6 +30106,16 @@
       "feedUrl": "https://www.sec-wiki.com/news/rss",
       "siteUrl": "http://www.sec-wiki.com/",
       "articles": [
+        {
+          "id": "http://www.sec-wiki.com/?2022-04-02",
+          "author": null,
+          "description": "加密数字货币合约交易的匿名性保护与对抗  by ourren\nXNU虚拟内存安全往事  by ourren\n更多最新文章，请访问SecWiki",
+          "link": "http://www.sec-wiki.com/?2022-04-02",
+          "publishedOn": "2022-04-02T15:58:20.000Z",
+          "wordCount": null,
+          "title": "SecWiki News 2022-04-02 Review",
+          "imageUrl": null
+        },
         {
           "id": "http://www.sec-wiki.com/?2022-04-01",
           "author": null,
@@ -30791,6 +31161,36 @@
       "feedUrl": "https://www.reddit.com/r/asknetsec/.rss",
       "siteUrl": "https://www.reddit.com/r/asknetsec/",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/tuvoei/is_there_any_good_friendly_conference_for_sharing/",
+          "author": null,
+          "description": "As the title said, \n Are you good-friendly conferences suitable for sharing security knowledge such as security automation? (besides black hat and Defcon)\n    submitted by    /u/Calm_Scene  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/tuvoei/is_there_any_good_friendly_conference_for_sharing/",
+          "publishedOn": "2022-04-02T22:57:06.000Z",
+          "wordCount": null,
+          "title": "Is there any good friendly conference for sharing security knowledge such as incident response or automation?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/tuli37/how_valuable_is_the_certificate_of_cloud_security/",
+          "author": null,
+          "description": "Hi,\n I have been working in the cybersecurity space for around 2 years now and have now decided to go for this cert: Certificate of Cloud Security Knowledge (CCSK)\n If and when I do complete the CCSK, how valuable will this be for future job prospects?\n Thanks\n    submitted by    /u/securm0n  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/tuli37/how_valuable_is_the_certificate_of_cloud_security/",
+          "publishedOn": "2022-04-02T15:31:01.000Z",
+          "wordCount": null,
+          "title": "How valuable is the Certificate of Cloud Security Knowledge (CCSK)?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/tua2gx/syn_flooding_one_port/",
+          "author": null,
+          "description": "So I’m analyzing a wire shark PCAP, and I’m dumbfounded as to what is going on maybe someone here can help.\n So I’m analyzing A lot of packets from one Machine to another. These are the same machines over and over. It seems like one machine is targeting port 636 over TCP. It looks like an Nmap SYN scan Except that the initiating machine keeps changing the ports it uses while targeting one single port on the other machine.\n So it goes like this: X==Randomport\n A:X[SYN]>>B:636\n B:636[SYN, ACK]>>A:X\n A:X[ACK]>>B:636\n A:X[TLSv1 Client Hello]>>B:636\n B:636[RST, ACK]>>A:X\n Then it will repeat but X increments by 1.\n Anyone familiar with this type of pattern that can shed some light I have no idea what this even is. I know port 636 is ldap but I can’t figure out what the machine inquiring(A) is doing I don’t know any scans that actively target only one port. Anyway any help is greatly appreciated.\n    submitted by    /u/Forsaken-Summer-4844  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/tua2gx/syn_flooding_one_port/",
+          "publishedOn": "2022-04-02T04:08:29.000Z",
+          "wordCount": null,
+          "title": "Syn flooding one port?",
+          "imageUrl": null
+        },
         {
           "id": "https://www.reddit.com/r/AskNetsec/comments/ttpe05/is_psp_to_be_very_worried/",
           "author": null,
@@ -36747,6 +37147,16 @@
       "siteUrl": "https://www.reddit.com/r/redteamsec/",
       "articles": [
         {
+          "id": "https://www.reddit.com/r/redteamsec/comments/turi0m/found_a_useful_open_source_security_guide/",
+          "author": null,
+          "description": "submitted by    /u/Khaotic_Kernel  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/redteamsec/comments/turi0m/found_a_useful_open_source_security_guide/",
+          "publishedOn": "2022-04-02T19:48:52.000Z",
+          "wordCount": null,
+          "title": "Found a useful Open Source Security Guide",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.reddit.com/r/redteamsec/comments/ttq82i/hunting_for_malicious_binaries_and_backdoors_in/",
           "author": null,
           "description": "submitted by    /u/tbhaxor  \n [link]   [comments]",
@@ -38296,6 +38706,16 @@
       "siteUrl": "https://www.reddit.com/r/exploitdev/",
       "articles": [
         {
+          "id": "https://www.reddit.com/r/ExploitDev/comments/tufei7/beginning_reverse_engineering_and_exploitation/",
+          "author": null,
+          "description": "Hello,\n I'm a 21 years old finishing his computer science university degree. I've always been fascinated by security and after having a look around, the two areas that intrigue me are reverse engineering/malware analysis and exploitation in general.\n The entry barriers in both these fields are very hard and the learning curve is very steep. I've seen the pwn2own videos for exploitation and oalabs for malware analysis and, I have to admit it, I understood like less than 5% of what they said, so it'll be a lot of work.\n ​\n I've done some research and I came up with a roadmap for reverse engineering/malware analysis:\n -C/C++ and Assembly (for asm I think it's best to start with a simple architecture, like MIPS, then move into x32/x64)\n -start writing small programs and reverse them using both a debugger/disassembler, learning about how they translate into assembly\n -learn about common malware techniques: unpacking, persistence techniques, process injection, obfuscation, building a sandbox, building a honeypot for capturing samples and so on.\n ​\n The problems start with exploitation, here I am completely lost. I was able to find some basic explanations and tutorials about buffer/heap overflows, integer overflow, double free, use after free, null pointer dereference. It seems however that going from theory to practice is very very hard. Another subject that goes hand in hand with exploitation is fuzzing, which of course I don't understand.\n ​\n Last thing, I've seen a blog post where someone was able to get code execution on a program using DLL Sideloading, is this related to exploitation?\n ​\n What resources, courses, books, tips, tricks can I follow in order to get better and better in these two fields?\n Last but not least, English is not my mother tongue, sorry for any mistakes. Thanks for taking your time to read and for an eventual reply, have a good day ahead!\n    submitted by    /u/worldpwner  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/ExploitDev/comments/tufei7/beginning_reverse_engineering_and_exploitation/",
+          "publishedOn": "2022-04-02T10:01:15.000Z",
+          "wordCount": null,
+          "title": "Beginning reverse engineering and exploitation",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.reddit.com/r/ExploitDev/comments/tt7fvi/exploring_a_new_class_of_kernel_exploit_primitive/",
           "author": null,
           "description": "submitted by    /u/soupcreamychicken  \n [link]   [comments]",
@@ -38904,6 +39324,46 @@
       "feedUrl": "https://www.reddit.com/r/computerforensics/.rss",
       "siteUrl": "https://www.reddit.com/r/computerforensics/",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/computerforensics/comments/tuxne7/via_the_command_line_can_you_search_a_forensic/",
+          "author": null,
+          "description": "Had some ideas to make life easier around the office. \n I wanted to use PowerShell (or software that is CMD based) to search an E01 file and pull out specific files in set locations. Effectively like any other GUI based viewer such as FTK imager (but via command line instead.)\n I don't know of any software/scripts that allow me to do this? any advice?\n An alternative is, I could auto mount an E01 file with some software, and then search the mounted file system for artefacts in set locations such as prefetch files. then export them to my workstation. What do you think?\n Cheers!\n    submitted by    /u/GEAR-IT-UP  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/computerforensics/comments/tuxne7/via_the_command_line_can_you_search_a_forensic/",
+          "publishedOn": "2022-04-03T01:33:21.000Z",
+          "wordCount": null,
+          "title": "Via the command line, can you search a forensic image and pull out files?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/computerforensics/comments/turek4/ftk_imager_unavailable/",
+          "author": null,
+          "description": "I was going to download FTK imager today, but the download link on both accessdata.com and exterro.com are broken. I went to their Twitter to check if there was any info there, but @AccessDataGroup is suspended and no info on @exterro. What's going on?\n    submitted by    /u/Bulletorpedo  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/computerforensics/comments/turek4/ftk_imager_unavailable/",
+          "publishedOn": "2022-04-02T19:44:32.000Z",
+          "wordCount": null,
+          "title": "FTK Imager unavailable?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/computerforensics/comments/tur6wt/help_with_identifying_names_of_transferred_files/",
+          "author": null,
+          "description": "I am trying to identify exactly what files did attacker transfer from his work PC to his USB drive.\n I have access to registry hives of attacked machine and vhdx file which i can mount and explore.\n Vhdx contains system logs in /System32/winevt/logs. Among those logs are Security.evtx , System.evtx and bunch of others.\n I know GUID of the USB that was used. \n The USB was encrypted with VeraCrypt.\n I know drive letters on which the USB was connected to the machine.\n I am trying to find all files that exist or existed on this USB.\n I tried to analyze the Secuirty.evtx file with windows events viewer and filtered for ID numbers 4656, 4660, 4663, 4670 but with no success. \n What am I doing wrong and what would be your methodology ?\n    submitted by    /u/threepairs  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/computerforensics/comments/tur6wt/help_with_identifying_names_of_transferred_files/",
+          "publishedOn": "2022-04-02T19:35:10.000Z",
+          "wordCount": null,
+          "title": "Help with identifying names of transferred files",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/computerforensics/comments/tuj8rc/how_does_computer_forensics_people_deal_with/",
+          "author": null,
+          "description": "I used to use tails when I lived in China because I was too cheap to get a vpn (I ended up getting one anyways because tails is soooo slow). I still use it sometimes here back home in Sweden because it kind of makes me feel like haxor. \n Tails is supposedly completely amnesic and leaves 0 trace on the system after you've used it and shut it down. \n In Sweden, you need \"physical\" evidence to convict someone of a cyber crime. Just having logs of a specific IP doing something is (as far as I know) not enough, you also need logs or files etc on the suspects computer proving that the person did what they did. For example, if they have tracked that a specific IP address is buying illegal drugs, they also need to find evidence on the suspects computer of illegal activity. \n If Tails really is completely amnesic, would that not mean that its impossible to convict tails users of cyber crimes in countries with the same laws as Sweden unless you actually swat them and catch them in the act before they can shut it down?\n    submitted by    /u/CompoteDizzy  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/computerforensics/comments/tuj8rc/how_does_computer_forensics_people_deal_with/",
+          "publishedOn": "2022-04-02T13:46:58.000Z",
+          "wordCount": null,
+          "title": "How does computer forensics people deal with amnesic systems like Tails?",
+          "imageUrl": null
+        },
         {
           "id": "https://www.reddit.com/r/computerforensics/comments/tsyv2p/collecting_artefacts_from_a_windowslinux_system/",
           "author": null,
@@ -41165,6 +41625,26 @@
       "feedUrl": "https://www.reddit.com/r/netsec/.rss",
       "siteUrl": "https://www.reddit.com/r/netsec/",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/netsec/comments/tutz5f/introducing_packetstreamer_packet_capture_for/",
+          "author": null,
+          "description": "submitted by    /u/foobarbazwibble  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/netsec/comments/tutz5f/introducing_packetstreamer_packet_capture_for/",
+          "publishedOn": "2022-04-02T21:38:56.000Z",
+          "wordCount": null,
+          "title": "Introducing PacketStreamer - packet capture for Kubernetes and other platforms",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/netsec/comments/tugux4/dos_vulnerability_in_firmware_v303_of_knxnetip/",
+          "author": null,
+          "description": "submitted by    /u/robertguetzkow  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/netsec/comments/tugux4/dos_vulnerability_in_firmware_v303_of_knxnetip/",
+          "publishedOn": "2022-04-02T11:35:46.000Z",
+          "wordCount": null,
+          "title": "DoS vulnerability in firmware v3.0.3 of KNXnet/IP Secure router SCN-IP100.03",
+          "imageUrl": null
+        },
         {
           "id": "https://www.reddit.com/r/netsec/comments/ttnelh/resources_search_engine_for_infosec_based_on/",
           "author": null,
@@ -45423,6 +45903,16 @@
       "feedUrl": "https://www.reddit.com/r/opendirectories/.rss",
       "siteUrl": "https://www.reddit.com/r/opendirectories/",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/opendirectories/comments/tusb21/lots_of_nsfw_videos_lots/",
+          "author": null,
+          "description": "submitted by    /u/brother_p  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/opendirectories/comments/tusb21/lots_of_nsfw_videos_lots/",
+          "publishedOn": "2022-04-02T20:24:41.000Z",
+          "wordCount": null,
+          "title": "Lots of NSFW videos. Lots.",
+          "imageUrl": null
+        },
         {
           "id": "https://www.reddit.com/r/opendirectories/comments/tt6q5c/sec_filings_for_nova_scotia_bank/",
           "author": null,
@@ -52595,6 +53085,16 @@
       "siteUrl": "https://infosecwriteups.com?source=rss----7b722bfd1b8d---4",
       "articles": [
         {
+          "id": "https://medium.com/p/a9993aea16ba",
+          "author": "Shriyans Sudhi",
+          "description": "",
+          "link": "https://infosecwriteups.com/finding-bugs-that-doesnt-exists-a9993aea16ba?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2022-04-01T07:45:26.000Z",
+          "wordCount": null,
+          "title": "Finding bugs that doesn’t exists",
+          "imageUrl": null
+        },
+        {
           "id": "https://medium.com/p/fca43dba2c0c",
           "author": "Hacktivities",
           "description": "",
@@ -55973,6 +56473,16 @@
       "siteUrl": "https://portswigger.net/blog",
       "articles": [
         {
+          "id": "passive-aggressive-scan-checks",
+          "author": null,
+          "description": "Here at PortSwigger, our goal is to enable the world to secure the web. Our scanner sits at the core of this value - quickly surfacing issues and vulnerabilities that may be present in a web applicati",
+          "link": "https://portswigger.net/blog/passive-aggressive-scan-checks",
+          "publishedOn": "2022-04-01T08:00:00.000Z",
+          "wordCount": null,
+          "title": "Passive-aggressive scan checks",
+          "imageUrl": null
+        },
+        {
           "id": "introducing-the-mystery-lab-challenge",
           "author": null,
           "description": "For anyone who's used the Web Security Academy before, you'll be pretty familiar with the format. For those of you who haven't had the pleasure, the process goes a little bit like this: Select a set o",
@@ -56789,6 +57299,16 @@
       "feedUrl": "https://www.sec-wiki.com/news/rss",
       "siteUrl": "http://www.sec-wiki.com/",
       "articles": [
+        {
+          "id": "http://www.sec-wiki.com/?2022-04-01",
+          "author": null,
+          "description": "Chrome Zero-Day from North Korea  by ourren\n【Rootkit 系列研究】Windows 平台的高隐匿、高持久化威胁  by ourren\n基于 OpenAFS 文件系统的反射攻击深度分析  by ourren\n关于如何更好地呈现红蓝对抗价值的思考   by ourren\n使用DNS Tunnel技术的Linux后门B1txor20正在通过Log4j漏洞传播  by ourren\n商业数字证书签发和使用情况简介  by ourren\nSpring Cloud Function SpEL表达式注入  by ourren\nCodeQl 从0到0.1   by ourren\ncodeql挖掘java二次反序列化  by ourren\nK8s安全入门学习扫盲贴  by ourren\nMalbox: 恶意软件容器靶机  by ourren\n《深入理解CodeQL》Finding vulnerabilities with CodeQL.  by ourren\n使用 CodeQL 分析 AOSP  by ourren\nJava内存马分析集合  by ourren\nCVE-2021-29454—Smarty模板注入分析复现  by ourren\n机器学习系统：设计和实现  by ourren\n混合办公（Hybrid Work）安全的“三年”技术落地趋势推演  by ourren\nLAPSUS$安全攻击的胡乱分析  by ourren\n更多最新文章，请访问SecWiki",
+          "link": "http://www.sec-wiki.com/?2022-04-01",
+          "publishedOn": "2022-04-01T15:58:20.000Z",
+          "wordCount": null,
+          "title": "SecWiki News 2022-04-01 Review",
+          "imageUrl": null
+        },
         {
           "id": "http://www.sec-wiki.com/?2022-03-31",
           "author": null,
