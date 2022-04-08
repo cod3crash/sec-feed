@@ -6,6 +6,186 @@
       "siteUrl": "http://h1.nobbd.de/",
       "articles": [
         {
+          "id": "https://hackerone.com/reports/1385906",
+          "author": null,
+          "description": "Uber disclosed a bug submitted by boobalan123: https://hackerone.com/reports/1385906 - Bounty: $500",
+          "link": "https://hackerone.com/reports/1385906",
+          "publishedOn": "2022-04-07T20:52:34.000Z",
+          "wordCount": null,
+          "title": "Exposed Golang Pprof debugger at https://cn-geo1.uber.com/",
+          "imageUrl": null
+        },
+        {
+          "id": "https://hackerone.com/reports/1148697",
+          "author": null,
+          "description": "Uber disclosed a bug submitted by hunt4p1zza: https://hackerone.com/reports/1148697 - Bounty: $10250",
+          "link": "https://hackerone.com/reports/1148697",
+          "publishedOn": "2022-04-07T20:49:44.000Z",
+          "wordCount": null,
+          "title": "Chain of IDORs Between U4B and Vouchers APIs Allows Attackers to View and Modify Program/Voucher Policies and to Obtain Organization Employees' PII",
+          "imageUrl": null
+        },
+        {
+          "id": "https://hackerone.com/reports/1267380",
+          "author": null,
+          "description": "U.S. Dept Of Defense disclosed a bug submitted by saajanbhujel: https://hackerone.com/reports/1267380",
+          "link": "https://hackerone.com/reports/1267380",
+          "publishedOn": "2022-04-07T20:09:29.000Z",
+          "wordCount": null,
+          "title": "Reflected XSS on []",
+          "imageUrl": null
+        },
+        {
+          "id": "https://hackerone.com/reports/1159371",
+          "author": null,
+          "description": "U.S. Dept Of Defense disclosed a bug submitted by geeknik: https://hackerone.com/reports/1159371",
+          "link": "https://hackerone.com/reports/1159371",
+          "publishedOn": "2022-04-07T20:08:56.000Z",
+          "wordCount": null,
+          "title": "[www.] Path-based reflected Cross Site Scripting",
+          "imageUrl": null
+        },
+        {
+          "id": "https://hackerone.com/reports/1234925",
+          "author": null,
+          "description": "U.S. Dept Of Defense disclosed a bug submitted by splint3rsec: https://hackerone.com/reports/1234925",
+          "link": "https://hackerone.com/reports/1234925",
+          "publishedOn": "2022-04-07T20:06:57.000Z",
+          "wordCount": null,
+          "title": "[CVE-2020-3452] on",
+          "imageUrl": null
+        },
+        {
+          "id": "https://hackerone.com/reports/1512199",
+          "author": null,
+          "description": "U.S. Dept Of Defense disclosed a bug submitted by ibrahimatix_: https://hackerone.com/reports/1512199",
+          "link": "https://hackerone.com/reports/1512199",
+          "publishedOn": "2022-04-07T20:04:23.000Z",
+          "wordCount": null,
+          "title": "username and password leaked via pptx for  website",
+          "imageUrl": null
+        },
+        {
+          "id": "https://hackerone.com/reports/1493007",
+          "author": null,
+          "description": "U.S. Dept Of Defense disclosed a bug submitted by lubak: https://hackerone.com/reports/1493007",
+          "link": "https://hackerone.com/reports/1493007",
+          "publishedOn": "2022-04-07T20:03:26.000Z",
+          "wordCount": null,
+          "title": "Broken access control, can lead to legitimate user data loss",
+          "imageUrl": null
+        },
+        {
+          "id": "https://hackerone.com/reports/1489470",
+          "author": null,
+          "description": "U.S. Dept Of Defense disclosed a bug submitted by lubak: https://hackerone.com/reports/1489470",
+          "link": "https://hackerone.com/reports/1489470",
+          "publishedOn": "2022-04-07T20:02:38.000Z",
+          "wordCount": null,
+          "title": "Authorization bypass -> IDOR -> PII Leakage",
+          "imageUrl": null
+        },
+        {
+          "id": "https://hackerone.com/reports/1370746",
+          "author": null,
+          "description": "U.S. Dept Of Defense disclosed a bug submitted by mamunwhh: https://hackerone.com/reports/1370746",
+          "link": "https://hackerone.com/reports/1370746",
+          "publishedOn": "2022-04-07T20:00:53.000Z",
+          "wordCount": null,
+          "title": "Cross-site Scripting (XSS) - Reflected at https:///",
+          "imageUrl": null
+        },
+        {
+          "id": "https://hackerone.com/reports/1489744",
+          "author": null,
+          "description": "U.S. Dept Of Defense disclosed a bug submitted by lubak: https://hackerone.com/reports/1489744",
+          "link": "https://hackerone.com/reports/1489744",
+          "publishedOn": "2022-04-07T19:59:52.000Z",
+          "wordCount": null,
+          "title": "SQL Injection in",
+          "imageUrl": null
+        },
+        {
+          "id": "https://hackerone.com/reports/1252020",
+          "author": null,
+          "description": "U.S. Dept Of Defense disclosed a bug submitted by homosec: https://hackerone.com/reports/1252020",
+          "link": "https://hackerone.com/reports/1252020",
+          "publishedOn": "2022-04-07T19:57:50.000Z",
+          "wordCount": null,
+          "title": "XSS on https:///' parameter",
+          "imageUrl": null
+        },
+        {
+          "id": "https://hackerone.com/reports/1252229",
+          "author": null,
+          "description": "U.S. Dept Of Defense disclosed a bug submitted by homosec: https://hackerone.com/reports/1252229",
+          "link": "https://hackerone.com/reports/1252229",
+          "publishedOn": "2022-04-07T19:57:11.000Z",
+          "wordCount": null,
+          "title": "XSS on https:/// parameter",
+          "imageUrl": null
+        },
+        {
+          "id": "https://hackerone.com/reports/1252059",
+          "author": null,
+          "description": "U.S. Dept Of Defense disclosed a bug submitted by homosec: https://hackerone.com/reports/1252059",
+          "link": "https://hackerone.com/reports/1252059",
+          "publishedOn": "2022-04-07T19:56:34.000Z",
+          "wordCount": null,
+          "title": "XSS on https:/// via  parameter",
+          "imageUrl": null
+        },
+        {
+          "id": "https://hackerone.com/reports/1251868",
+          "author": null,
+          "description": "U.S. Dept Of Defense disclosed a bug submitted by homosec: https://hackerone.com/reports/1251868",
+          "link": "https://hackerone.com/reports/1251868",
+          "publishedOn": "2022-04-07T19:55:49.000Z",
+          "wordCount": null,
+          "title": "XSS on https:/// via  parameter",
+          "imageUrl": null
+        },
+        {
+          "id": "https://hackerone.com/reports/1317031",
+          "author": null,
+          "description": "U.S. Dept Of Defense disclosed a bug submitted by whoisbinit: https://hackerone.com/reports/1317031",
+          "link": "https://hackerone.com/reports/1317031",
+          "publishedOn": "2022-04-07T19:54:34.000Z",
+          "wordCount": null,
+          "title": "Open Akamai ARL XSS at",
+          "imageUrl": null
+        },
+        {
+          "id": "https://hackerone.com/reports/1092125",
+          "author": null,
+          "description": "U.S. Dept Of Defense disclosed a bug submitted by whoisbinit: https://hackerone.com/reports/1092125",
+          "link": "https://hackerone.com/reports/1092125",
+          "publishedOn": "2022-04-07T19:53:34.000Z",
+          "wordCount": null,
+          "title": "Bypassing CORS Misconfiguration Leads to Sensitive Exposure at https:///",
+          "imageUrl": null
+        },
+        {
+          "id": "https://hackerone.com/reports/1223575",
+          "author": null,
+          "description": "U.S. Dept Of Defense disclosed a bug submitted by drauschkolb: https://hackerone.com/reports/1223575",
+          "link": "https://hackerone.com/reports/1223575",
+          "publishedOn": "2022-04-07T19:50:53.000Z",
+          "wordCount": null,
+          "title": "XSS Reflected -",
+          "imageUrl": null
+        },
+        {
+          "id": "https://hackerone.com/reports/1278261",
+          "author": null,
+          "description": "Rockstar Games disclosed a bug submitted by toxiqcitee: https://hackerone.com/reports/1278261 - Bounty: $250",
+          "link": "https://hackerone.com/reports/1278261",
+          "publishedOn": "2022-04-07T12:56:21.000Z",
+          "wordCount": null,
+          "title": "Uninstalling Rockstar Games Launcher for Windows (64-bit), then reinstalling keeps you logged in without authentication",
+          "imageUrl": null
+        },
+        {
           "id": "https://hackerone.com/reports/1523584",
           "author": null,
           "description": "Zomato disclosed a bug submitted by schutzx0r: https://hackerone.com/reports/1523584 - Bounty: $300",
@@ -3773,6 +3953,26 @@
       "siteUrl": "https://infosecwriteups.com?source=rss----7b722bfd1b8d---4",
       "articles": [
         {
+          "id": "https://medium.com/p/1526e53cb721",
+          "author": "Themistocles",
+          "description": "",
+          "link": "https://infosecwriteups.com/module-2-owasp-modsecurity-core-rule-set-pentesting-bypassing-cloud-web-application-firewall-1526e53cb721?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2022-04-07T07:31:29.000Z",
+          "wordCount": null,
+          "title": "Module-2 | OWASP ModSecurity Core Rule Set -Pentesting & Bypassing Cloud Web Application Firewall…",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/a1adada9dbdb",
+          "author": "C M UPPIN",
+          "description": "",
+          "link": "https://infosecwriteups.com/series-of-network-fundamentals-5-ports-protocols-to-get-started-in-cyber-security-a1adada9dbdb?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2022-04-07T07:26:33.000Z",
+          "wordCount": null,
+          "title": "Series of Network Fundamentals #5 (Ports & Protocols),to get started in Cyber Security.",
+          "imageUrl": null
+        },
+        {
           "id": "https://medium.com/p/37c0fded88b",
           "author": "Hacktivities",
           "description": "",
@@ -6191,6 +6391,76 @@
       "feedUrl": "https://medium.com/feed/tag/bugbounty",
       "siteUrl": "https://medium.com/tag/bugbounty/latest?source=rss------bugbounty-5",
       "articles": [
+        {
+          "id": "https://medium.com/p/c99e4a50b377",
+          "author": "Ahmad A Abdulla",
+          "description": "I’m here to tell you how I account takeover in TikTok I submitted this bug in HackerOne and I got 1000$ for this bug\nContinue reading on Medium »",
+          "link": "https://ahmadaabdulla.medium.com/vulnerabilitymultiple-vulnerability-leading-to-account-takeover-in-tiktok-smb-subdomain-c99e4a50b377?source=rss------bugbounty-5",
+          "publishedOn": "2022-04-07T17:46:45.000Z",
+          "wordCount": null,
+          "title": "vulnerabilityMultiple vulnerability leading to account takeover in TikTok SMB subdomain.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/4832ebca6194",
+          "author": "SuperBots",
+          "description": "Continue reading on Medium »",
+          "link": "https://medium.com/@superbots/superbots-bug-bounty-is-here-win-up-to-25-000-4832ebca6194?source=rss------bugbounty-5",
+          "publishedOn": "2022-04-07T17:32:19.000Z",
+          "wordCount": null,
+          "title": "SuperBots Bug Bounty is here! Win up to $25,000!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/2377ba551654",
+          "author": "Pentester Club Pvt Ltd",
+          "description": "Dumping revelant information on compromised targets without AV detection \nDPAPI dumping\nContinue reading on Medium »",
+          "link": "https://medium.com/@pentesterclubpvtltd/donpapi-dumping-dpapi-credz-remotely-2377ba551654?source=rss------bugbounty-5",
+          "publishedOn": "2022-04-07T14:33:46.000Z",
+          "wordCount": null,
+          "title": "DonPAPI — Dumping DPAPI Credz Remotely",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/b197eedfdc7a",
+          "author": "Recon shell",
+          "description": "A curated checklist of tips to protect your digital security and privacy\nContinue reading on Medium »",
+          "link": "https://medium.com/@reconshell.com/personal-security-checklist-b197eedfdc7a?source=rss------bugbounty-5",
+          "publishedOn": "2022-04-07T12:57:14.000Z",
+          "wordCount": null,
+          "title": "Personal Security Checklist",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/9dcb6b037f00",
+          "author": "Recon shell",
+          "description": "Layla is a python script that automatically performs recon on a given URL. It combines the outputs of other known tools into a single one.\nContinue reading on Medium »",
+          "link": "https://medium.com/@reconshell.com/recon-tool-for-bug-bounty-9dcb6b037f00?source=rss------bugbounty-5",
+          "publishedOn": "2022-04-07T04:18:57.000Z",
+          "wordCount": null,
+          "title": "Recon tool for bug bounty",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/e4cffaa88e94",
+          "author": "Pentester Club Pvt Ltd",
+          "description": "This tool can scan websites with CVE-2021–41773 Vulnerability that are affecting Apache2 Webserver, ScaRCE can run too for executing…\nContinue reading on Medium »",
+          "link": "https://medium.com/@pentesterclubpvtltd/scarce-apache2-a-framework-for-bug-hunting-or-pentesting-targeting-websites-that-have-cve-2021-41773-e4cffaa88e94?source=rss------bugbounty-5",
+          "publishedOn": "2022-04-07T03:32:09.000Z",
+          "wordCount": null,
+          "title": "scarce-apache2-a-framework-for-bug-hunting-or-pentesting-targeting-websites-that-have-cve-2021–41773…",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/53bbb9f659dc",
+          "author": "Pentester Club Pvt Ltd",
+          "description": "A multi-platform web hacking toolkit Docker image with Graphical User Interface (GUI) support.\nInstallation\nContinue reading on Medium »",
+          "link": "https://medium.com/@pentesterclubpvtltd/web-hacking-toolkit-a-multi-platform-web-hacking-toolkit-docker-image-with-graphical-user-53bbb9f659dc?source=rss------bugbounty-5",
+          "publishedOn": "2022-04-07T03:20:04.000Z",
+          "wordCount": null,
+          "title": "Web-Hacking-Toolkit — A Multi-Platform Web Hacking Toolkit Docker Image With Graphical User…",
+          "imageUrl": null
+        },
         {
           "id": "https://medium.com/p/56ce7731e33f",
           "author": "Dasha Korotkykh",
@@ -13582,6 +13852,26 @@
       "siteUrl": "https://infosecwriteups.com?source=rss----7b722bfd1b8d---4",
       "articles": [
         {
+          "id": "https://medium.com/p/1526e53cb721",
+          "author": "Themistocles",
+          "description": "",
+          "link": "https://infosecwriteups.com/module-2-owasp-modsecurity-core-rule-set-pentesting-bypassing-cloud-web-application-firewall-1526e53cb721?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2022-04-07T07:31:29.000Z",
+          "wordCount": null,
+          "title": "Module-2 | OWASP ModSecurity Core Rule Set -Pentesting & Bypassing Cloud Web Application Firewall…",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/a1adada9dbdb",
+          "author": "C M UPPIN",
+          "description": "",
+          "link": "https://infosecwriteups.com/series-of-network-fundamentals-5-ports-protocols-to-get-started-in-cyber-security-a1adada9dbdb?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2022-04-07T07:26:33.000Z",
+          "wordCount": null,
+          "title": "Series of Network Fundamentals #5 (Ports & Protocols),to get started in Cyber Security.",
+          "imageUrl": null
+        },
+        {
           "id": "https://medium.com/p/37c0fded88b",
           "author": "Hacktivities",
           "description": "",
@@ -16000,6 +16290,56 @@
       "feedUrl": "https://medium.com/feed/tag/osint",
       "siteUrl": "https://medium.com/tag/osint/latest?source=rss------osint-5",
       "articles": [
+        {
+          "id": "https://medium.com/p/db2759f244a5",
+          "author": "Djeex",
+          "description": "Les dernières 24h\nContinue reading on Medium »",
+          "link": "https://medium.com/@Djeex/ukraine-point-de-situation-au-8-avril-db2759f244a5?source=rss------osint-5",
+          "publishedOn": "2022-04-07T21:03:34.000Z",
+          "wordCount": null,
+          "title": "Ukraine — Point de situation au 8 avril",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/de84e2de9446",
+          "author": "KR. Laboratories",
+          "description": "Під “мережевою розвідкою” розуміється збір інформації про домен з відкритих джерел, себто Open Source Intelligence (OSINT). У цій статті я…\nContinue reading on Medium »",
+          "link": "https://kr-laboratories.medium.com/%D1%83%D1%82%D0%B8%D0%BB%D1%96%D1%82%D0%B8-%D0%BA%D0%BE%D0%BD%D1%81%D0%BE%D0%BB%D1%96-linux-%D0%B4%D0%BB%D1%8F-%D0%BC%D0%B5%D1%80%D0%B5%D0%B6%D0%B5%D0%B2%D0%BE%D1%97-%D1%80%D0%BE%D0%B7%D0%B2%D1%96%D0%B4%D0%BA%D0%B8-%D0%B4%D0%BE%D0%BC%D0%B5%D0%BD%D1%96%D0%B2-de84e2de9446?source=rss------osint-5",
+          "publishedOn": "2022-04-07T19:55:50.000Z",
+          "wordCount": null,
+          "title": "Утиліти консолі Linux для мережевої розвідки доменів",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/182c268b613d",
+          "author": "Molfar",
+          "description": "The Molfar team sends a daily newsletter about the war in Ukraine.\nContinue reading on Medium »",
+          "link": "https://molfar.medium.com/war-in-ukraine-april-6-182c268b613d?source=rss------osint-5",
+          "publishedOn": "2022-04-07T16:59:34.000Z",
+          "wordCount": null,
+          "title": "War in Ukraine / April 6",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/59e79a8cc09d",
+          "author": "Igor S. Bederov",
+          "description": "Let’s talk about masking logged links using the https://telegra.ph/\nContinue reading on Medium »",
+          "link": "https://medium.com/@ibederov_en/logging-information-about-users-through-news-59e79a8cc09d?source=rss------osint-5",
+          "publishedOn": "2022-04-07T09:51:46.000Z",
+          "wordCount": null,
+          "title": "Logging information about users through news",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/46b43cb01a4a",
+          "author": "Igor S. Bederov",
+          "description": "Small topic. But without it, you just can’t. Virtual OSINT labs that will be useful for security researchers as well. Choose your……\nContinue reading on Medium »",
+          "link": "https://medium.com/@ibederov_en/virtual-osint-labs-46b43cb01a4a?source=rss------osint-5",
+          "publishedOn": "2022-04-07T05:11:50.000Z",
+          "wordCount": null,
+          "title": "Virtual OSINT labs…",
+          "imageUrl": null
+        },
         {
           "id": "https://medium.com/p/990b98739677",
           "author": "Djeex",
@@ -20531,6 +20871,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=30941327",
+          "author": "freeqaz",
+          "description": "Article URL: https://github.com/alt3kx/CVE-2022-22965\nComments URL: https://news.ycombinator.com/item?id=30941327\nPoints: 1\n# Comments: 0",
+          "link": "https://github.com/alt3kx/CVE-2022-22965",
+          "publishedOn": "2022-04-07T06:36:51.000Z",
+          "wordCount": null,
+          "title": "Spring Framework RCE (CVE-2022-22965) NMAP (NSE) Checker (Non-Intrusive)",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=30915803",
           "author": "gbrown_",
           "description": "Article URL: https://www.trendmicro.com/en_us/research/22/d/macos-suhelper-root-privilege-escalation-vulnerability-a-deep-di.html\nComments URL: https://news.ycombinator.com/item?id=30915803\nPoints: 2\n# Comments: 0",
@@ -22901,6 +23251,56 @@
       "siteUrl": "https://www.freebuf.com",
       "articles": [
         {
+          "id": "https://www.freebuf.com/news/327847.html",
+          "author": null,
+          "description": "据称，涉事人是蔚来汽车员工，此前担任某集群服务器管理员。在职期间，利用职务上的便利，用公司服务器挖虚拟货币。",
+          "link": "https://www.freebuf.com/news/327847.html",
+          "publishedOn": "2022-04-07T10:03:22.000Z",
+          "wordCount": null,
+          "title": "FreeBuf 早报 | 谷歌下架数款收集用户数据的应用；蔚来员工被曝利用公司服务器挖矿",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.freebuf.com/news/327794.html",
+          "author": null,
+          "description": "近日，美国支付巨头Block披露了一项与投资应用Cash App有关的数据泄露事件，并将此事件告知了其820万美国用户。",
+          "link": "https://www.freebuf.com/news/327794.html",
+          "publishedOn": "2022-04-07T06:12:37.000Z",
+          "wordCount": null,
+          "title": "Cash App数据泄露恐将影响820万美国用户",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.freebuf.com/news/327800.html",
+          "author": null,
+          "description": "VMware 多个产品中存在关键漏洞，攻击者能够利用这些漏洞发起远程代码执行攻击。",
+          "link": "https://www.freebuf.com/news/327800.html",
+          "publishedOn": "2022-04-07T06:10:10.000Z",
+          "wordCount": null,
+          "title": "VMware 多个产品中爆出严重漏洞",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.freebuf.com/news/327769.html",
+          "author": null,
+          "description": "南非和美国调查人员联手逮捕了和臭名昭著的尼日利亚商业电子邮件诈骗(BEC)集团相关联的数名诈骗团伙成员。",
+          "link": "https://www.freebuf.com/news/327769.html",
+          "publishedOn": "2022-04-07T04:34:39.000Z",
+          "wordCount": null,
+          "title": "南非和美国调查人员联手突袭BEC诈骗团伙",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.freebuf.com/news/327763.html",
+          "author": null,
+          "description": "Zscaler的研究人员表示，该恶意软件通过窃取存储在浏览器中的凭证和 cookie 以劫持受害者的​​社交媒体帐户。",
+          "link": "https://www.freebuf.com/news/327763.html",
+          "publishedOn": "2022-04-07T02:52:33.000Z",
+          "wordCount": null,
+          "title": "值得警惕！新型恶意软件FFDroider正对 Facebook等社交帐户下手",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.freebuf.com/news/327662.html",
           "author": null,
           "description": "Twitter 限制了来自 300 多个俄罗斯政府官方账号的内容，其中包括俄罗斯总统普京的账号。",
@@ -23011,6 +23411,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.freebuf.com/articles/network/327253.html",
+          "author": null,
+          "description": "杰哥教你用Python开发威胁情报提取工具之商马Emotet初始宏代码Excel表格",
+          "link": "https://www.freebuf.com/articles/network/327253.html",
+          "publishedOn": "2022-04-02T05:45:11.000Z",
+          "wordCount": null,
+          "title": "杰哥教你用Python对Emotet投递的恶意Excel表格提取IoCs",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.freebuf.com/news/327248.html",
           "author": null,
           "description": "西班牙一家领先的业务流程外包(BPO)服务提供商表示，因遭遇勒索软件攻击导致其损失超过数千万美元。",
@@ -23028,6 +23438,16 @@
           "publishedOn": "2022-04-01T17:21:31.000Z",
           "wordCount": null,
           "title": "CVE-2017-16995 Ubuntu本地提权测试（任意地址读写利用）",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.freebuf.com/articles/web/327201.html",
+          "author": null,
+          "description": "今天继续打靶场，这个靶场不难，但是我花了一天的时间，感觉被作者骗了。",
+          "link": "https://www.freebuf.com/articles/web/327201.html",
+          "publishedOn": "2022-04-01T15:06:49.000Z",
+          "wordCount": null,
+          "title": "lazysysadmin 靶场",
           "imageUrl": null
         },
         {
@@ -29821,6 +30241,26 @@
       "siteUrl": "https://paper.seebug.org/",
       "articles": [
         {
+          "id": "https://paper.seebug.org/1879/",
+          "author": null,
+          "description": "作者：Y4er\n原文链接：https://y4er.com/post/fileupload-bypass-with-dotnet/\n前言\n看了赛博群的《从commons-fileupload源码看文件上传绕waf》，文末提到了dotnet也有这种问题，于是看了下dotnet的源码。\n环境\npublic ActionResult Index()\n{\n    if (Request.Files....",
+          "link": "https://paper.seebug.org/1879/",
+          "publishedOn": "2022-04-07T06:40:00.000Z",
+          "wordCount": null,
+          "title": "从 dotnet 源码看文件上传绕 waf",
+          "imageUrl": null
+        },
+        {
+          "id": "https://paper.seebug.org/1878/",
+          "author": null,
+          "description": "作者：Y4er\n原文链接：https://y4er.com/post/cve-2022-22947-springcloud-gateway-spel-rce-echo-response/\n环境\ngit clone https://github.com/spring-cloud/spring-cloud-gateway\ncd spring-cloud-gateway\ngit checkout ...",
+          "link": "https://paper.seebug.org/1878/",
+          "publishedOn": "2022-04-07T06:14:00.000Z",
+          "wordCount": null,
+          "title": "CVE-2022-22947 SpringCloud GateWay SPEL RCE Echo Response",
+          "imageUrl": null
+        },
+        {
           "id": "https://paper.seebug.org/1877/",
           "author": null,
           "description": "作者：麦兜\n本文为作者投稿，Seebug Paper 期待你的分享，凡经采用即有礼品相送！ 投稿邮箱：paper@seebug.org\n前言\n上周网上爆出Spring框架存在RCE漏洞，野外流传了一小段时间后，Spring官方在3月31日正式发布了漏洞信息，漏洞编号为CVE-2022-22965。本文章对该漏洞进行了复现和分析，希望能够帮助到有相关有需要的人员进一步研究。\n一、前置知识\n1....",
@@ -30876,6 +31316,16 @@
       "feedUrl": "https://www.sec-wiki.com/news/rss",
       "siteUrl": "http://www.sec-wiki.com/",
       "articles": [
+        {
+          "id": "http://www.sec-wiki.com/?2022-04-07",
+          "author": null,
+          "description": "APT取证分析中的数据压缩  by ourren\n元宇宙与国家数据安全：构建生态化治理体系的挑战与趋势  by ourren\n更多最新文章，请访问SecWiki",
+          "link": "http://www.sec-wiki.com/?2022-04-07",
+          "publishedOn": "2022-04-07T15:58:20.000Z",
+          "wordCount": null,
+          "title": "SecWiki News 2022-04-07 Review",
+          "imageUrl": null
+        },
         {
           "id": "http://www.sec-wiki.com/?2022-04-06",
           "author": null,
@@ -31971,6 +32421,86 @@
       "feedUrl": "https://www.reddit.com/r/asknetsec/.rss",
       "siteUrl": "https://www.reddit.com/r/asknetsec/",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/tyrit1/getting_into_scripting_zeek_vs_python/",
+          "author": null,
+          "description": "I'm trying to get more insight into scripting for networking security purposes. Does anyone have a preference of using zeek vs python? Should I learn python before zeek? Is there anything more beneficial of using one language vs the other? Thanks!\n    submitted by    /u/alkior70  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/tyrit1/getting_into_scripting_zeek_vs_python/",
+          "publishedOn": "2022-04-08T00:57:38.000Z",
+          "wordCount": null,
+          "title": "Getting into scripting Zeek vs Python",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/tyiamo/looking_for_advice_on_my_next_sans_course/",
+          "author": null,
+          "description": "Company is buying...\n I'm in Incident Response (3 years). Passed my 508 last year and now I have the opportunity to take another course.\n I have been tossing around the idea of moving from IR to a different area like detection engineering, hunting/intel or attempting to move to a dedicated Purple Team full time.\n Would taking FOR578 be the best step forward as far as flexibility in career advancements go? Maybe something else?\n    submitted by    /u/SlowBoatToHades  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/tyiamo/looking_for_advice_on_my_next_sans_course/",
+          "publishedOn": "2022-04-07T17:37:19.000Z",
+          "wordCount": null,
+          "title": "Looking for advice on my next SANS course.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/tygasm/getting_back_on_track_after_a_long_break/",
+          "author": null,
+          "description": "Hi guys, I'm a cybersec engineer that had some kind of break from security (I learnt lots of web development for the last 6 months or so) and well I really got out of shape. Now, I would like to get back on track and I was looking for resources / advice on how to do this better if any of you want to share.\n I really appreciate the help!\n    submitted by    /u/GeologistLegitimate6  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/tygasm/getting_back_on_track_after_a_long_break/",
+          "publishedOn": "2022-04-07T16:03:41.000Z",
+          "wordCount": null,
+          "title": "Getting back on track after a long break",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/tyev9i/been_studying_for_oscp_for_250_hours_and_im/",
+          "author": null,
+          "description": "Some background on me:\n  \nI used to be a programmer (2.5 years)\n Quit my job to pursue my passion, offensive cyber security\n OSCP seemed like a great option for someone who hates written exams like me and loved the brutal nature of a 24 hour skill based exam\n been documenting my noob to OSCP journey on youtube, week by week: https://youtube.com/playlist?list=PLSGxDsVUZ-zzB4DzUb4b2lfihBFgj53eU\n  \nThe OSCP exam is a network penetration testing exam, strictly. There is little to no web exploitation. I was having a talk with a friend of mine on a CTF team I joined and he mentioned that network penetration testing is less relevant than it was in the past. Now, the OSCP does cover active directory and basic buffer overflow, which seems nice to know for sure. However the initial foothold often relies on heavily out of date software (think: 2006) for which an RCE exploit is readily available on exploit-db.\n Having worked as a developer for a few years, yeah i can confirm everything we do is based on web apps. Everything. Especially with work from home, i mean sometimes in companies that utilize remote work heavily there is no \"domain controller\". Just a bunch of devs collaborating on github or bitbucket.\n I'd say i'm about 250 more hours away from being OSCP ready (half way there) and i think that time would be better served on hackthebox, hackerone, and doing CTF's with my team. Given what i know about the OSCP i don't believe these things will help much with passing the exam even though they would make me a better professional. It's really one or the other.\n TLDR: Penetration testers, security engineers, etc: how important is network penetration to your job functions? (AKA, how relevant is OSCP?)\n Thanks in advance for your guidance.\n    submitted by    /u/NSP781  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/tyev9i/been_studying_for_oscp_for_250_hours_and_im/",
+          "publishedOn": "2022-04-07T14:56:30.000Z",
+          "wordCount": null,
+          "title": "Been studying for OSCP for 250+ hours and i'm starting to doubt it's relevance to real pentesting. Looking for guidance",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/tyeh8i/i_feel_like_i_am_wasting_my_time/",
+          "author": null,
+          "description": "Hi,24 [M]\n basically I was in computer engineering school 4 years ago. But it was shit,the exams were literally copy paste from past exams and people didn’t study they just memorised. I had anxiety during exams and could never think with a clear head,i was very depressed,and i failed 3 semester straight with all F’s . So i transferred to MIS school,business informatics. I took programming courses,basic networks,and basic hardware,and introduction to information security course . But i self studied many concepts in computer science like ML,web,game dev,and finally security. Right now I am doing an internship as a technical support, i am learning about Sophos firewall and later will learn about Azure and cloud security. I am ‘Script kiddie’ on hackthebox but i am getting better, i consider m…",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/tyeh8i/i_feel_like_i_am_wasting_my_time/",
+          "publishedOn": "2022-04-07T14:37:57.000Z",
+          "wordCount": null,
+          "title": "I feel like i am wasting my time .",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/tyee2i/gaqm_cisp_good_next_step/",
+          "author": null,
+          "description": "Hi everyone going to do my security + soon wondering if CISP from GAQM is a good next step after sec+. when ever i try to find info on it the search is over run by CISSP which is a more challenging certification.\n    submitted by    /u/Namibguy  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/tyee2i/gaqm_cisp_good_next_step/",
+          "publishedOn": "2022-04-07T14:33:48.000Z",
+          "wordCount": null,
+          "title": "GAQM CISP good next step?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/tybhda/looking_for_cybersecurity_or_digital_privacy/",
+          "author": null,
+          "description": "Hi,\n I'm in the planning phase of my bachelors degree in information technology. I want to write about either cybersecurity and / or digital privacy. I have two main ideas currently:\n  \nTo set up a / or several honeypot services (WordPress sites, E-commerce website and or incomplete web apps) and collect the data running through them from bots and hopefully unsuspecting bad actors.\n To create a browser add-on or web app to visualize, in 3D (webgl), the trackers that are currently tracking you on a website.\n  \nAny comments on the above mentioned topics, or any other interesting topics regarding: cybersecurity, digital privacy, big brother society and / or cryptography would be highly appreciated.\n    submitted by    /u/krullmizter  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/tybhda/looking_for_cybersecurity_or_digital_privacy/",
+          "publishedOn": "2022-04-07T11:59:56.000Z",
+          "wordCount": null,
+          "title": "Looking for cybersecurity or digital privacy ideas / topics for my undergraduate degree",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/AskNetsec/comments/ty36ha/netskope_accidental_install_on_personal_pc_what/",
+          "author": null,
+          "description": "I am a consultant and work with many companies. One incorrectly pegged me as an FTE and sent an urgent email to download Netskope to access their data. I downloaded it and opened but didn't realize it actually installed anything. Got some text box that I thought was an error. Later that day found out it was not necessary for me to have Netskope.\n Today, I tried to access a website blocked by the company's acceptable use policy and found out that Netskope was in fact installed and has been active for a couple of weeks.\n I uninstalled it and have been able to access all websites again.\n Questions:\n 1) what exactly can a tool like this see? I assume my web browsing history which is whatever, but can it see what Google Analytics data or otherwise I accessed for my other clients? What if I didn't download anything? Can it see my Google Drive documents not related to the specific company email? Can it see all of my passwords?\n 2) is it worthwhile to ask the client company to delete my data?\n 3) i uninstalled it which stopped it from blocking my access to websites. Is this enough or should I hard reset my entire computer?\n    submitted by    /u/phillytrees  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/ty36ha/netskope_accidental_install_on_personal_pc_what/",
+          "publishedOn": "2022-04-07T02:51:02.000Z",
+          "wordCount": null,
+          "title": "Netskope - Accidental install on personal PC, What can be seen?",
+          "imageUrl": null
+        },
         {
           "id": "https://www.reddit.com/r/AskNetsec/comments/txvwmx/ok_so_how_do_i_know_for_sure_if_my_iphone_is/",
           "author": null,
@@ -38117,6 +38647,16 @@
       "siteUrl": "https://www.reddit.com/r/redteamsec/",
       "articles": [
         {
+          "id": "https://www.reddit.com/r/redteamsec/comments/tyicbi/hunting_secrets_from_containers_by_analysing/",
+          "author": null,
+          "description": "submitted by    /u/tbhaxor  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/redteamsec/comments/tyicbi/hunting_secrets_from_containers_by_analysing/",
+          "publishedOn": "2022-04-07T17:39:54.000Z",
+          "wordCount": null,
+          "title": "Hunting Secrets from Containers by Analysing Docker Images",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.reddit.com/r/redteamsec/comments/txwe5l/fin7_power_hour_adversary_archaeology_and_the/",
           "author": null,
           "description": "submitted by    /u/dmchell  \n [link]   [comments]",
@@ -40344,6 +40884,16 @@
       "feedUrl": "https://www.reddit.com/r/computerforensics/.rss",
       "siteUrl": "https://www.reddit.com/r/computerforensics/",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/computerforensics/comments/tyd2vc/getting_more_information_about_ip_hosted_by_aws/",
+          "author": null,
+          "description": "I am trying to prove that a phishing email that I received was sent from the IT department at my institution as a way to help people \"learn\" not to click on links from unknown senders. The email header traces back to an IP at AWS. I know very little about tools and resources to dig further into the real source of a message like this. Is it possible, and if so, can anyone suggest some tools that I should look in to?\n    submitted by    /u/sudomakemetacos  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/computerforensics/comments/tyd2vc/getting_more_information_about_ip_hosted_by_aws/",
+          "publishedOn": "2022-04-07T13:27:13.000Z",
+          "wordCount": null,
+          "title": "Getting more information about IP hosted by AWS",
+          "imageUrl": null
+        },
         {
           "id": "https://www.reddit.com/r/computerforensics/comments/tx91qc/anyone_got_an_extra_sans_gcfa_practice_test/",
           "author": null,
@@ -42685,6 +43235,56 @@
       "feedUrl": "https://www.reddit.com/r/netsec/.rss",
       "siteUrl": "https://www.reddit.com/r/netsec/",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/netsec/comments/typ6m9/pci_dss_v40_resource_hub/",
+          "author": null,
+          "description": "submitted by    /u/Pomerium_CMo  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/netsec/comments/typ6m9/pci_dss_v40_resource_hub/",
+          "publishedOn": "2022-04-07T22:57:49.000Z",
+          "wordCount": null,
+          "title": "PCI DSS v4.0 Resource Hub",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/netsec/comments/tyo31y/fullhuntspring4shellscan_a_fully_automated/",
+          "author": null,
+          "description": "submitted by    /u/mazen160  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/netsec/comments/tyo31y/fullhuntspring4shellscan_a_fully_automated/",
+          "publishedOn": "2022-04-07T22:03:54.000Z",
+          "wordCount": null,
+          "title": "fullhunt/spring4shell-scan: A fully automated, reliable, and accurate scanner for finding Spring4Shell and Spring Cloud RCE vulnerabilities",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/netsec/comments/tyjpav/denonia_the_first_malware_specifically_targeting/",
+          "author": null,
+          "description": "submitted by    /u/lormayna  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/netsec/comments/tyjpav/denonia_the_first_malware_specifically_targeting/",
+          "publishedOn": "2022-04-07T18:41:47.000Z",
+          "wordCount": null,
+          "title": "Denonia: The First Malware Specifically Targeting Lambda",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/netsec/comments/tyh1j3/spiderfoot_40_release_introducing_yaml/",
+          "author": null,
+          "description": "submitted by    /u/smicallef  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/netsec/comments/tyh1j3/spiderfoot_40_release_introducing_yaml/",
+          "publishedOn": "2022-04-07T16:38:09.000Z",
+          "wordCount": null,
+          "title": "SpiderFoot 4.0 release - introducing YAML correlation rules",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/netsec/comments/ty1u2b/spring_framework_rce_cve202222965_nmap_nse/",
+          "author": null,
+          "description": "submitted by    /u/alt3kx  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/netsec/comments/ty1u2b/spring_framework_rce_cve202222965_nmap_nse/",
+          "publishedOn": "2022-04-07T01:41:03.000Z",
+          "wordCount": null,
+          "title": "Spring Framework RCE (CVE-2022-22965) Nmap (NSE) Checker (Non-Intrusive)",
+          "imageUrl": null
+        },
         {
           "id": "https://www.reddit.com/r/netsec/comments/txom0k/validate_aws_cloudformation_templates_for/",
           "author": null,
@@ -50722,6 +51322,16 @@
       "siteUrl": "https://www.hackingarticles.in",
       "articles": [
         {
+          "id": "https://www.hackingarticles.in/?p=27872",
+          "author": "Raj Chandel",
+          "description": "Hi, Pentesters! In this article, we are going to focus on the Kali Linux tool “Cewl” which will basically help you to create a wordlist.\nThe post A Detailed Guide on Cewl appeared first on Hacking Articles.",
+          "link": "https://www.hackingarticles.in/a-detailed-guide-on-cewl/",
+          "publishedOn": "2022-04-07T17:50:31.000Z",
+          "wordCount": null,
+          "title": "A Detailed Guide on Cewl",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.hackingarticles.in/?p=27868",
           "author": "Raj Chandel",
           "description": "Introduction According to MITRE, “Adversaries can use the COM system to insert malicious code that can be executed in place of legitimate software through hijacking\nThe post Windows Persistence: COM Hijacking (MITRE: T1546.015) appeared first on Hacking Articles.",
@@ -54405,6 +55015,26 @@
       "siteUrl": "https://infosecwriteups.com?source=rss----7b722bfd1b8d---4",
       "articles": [
         {
+          "id": "https://medium.com/p/37c0fded88b",
+          "author": "Hacktivities",
+          "description": "",
+          "link": "https://infosecwriteups.com/osint-dojo-sakura-37c0fded88b?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2022-04-06T07:17:16.000Z",
+          "wordCount": null,
+          "title": "OSINT Dojo: Sakura",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/53633ac84ed6",
+          "author": "Vishnuram Rajkumar",
+          "description": "",
+          "link": "https://infosecwriteups.com/picoctf-2022-writeup-53633ac84ed6?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2022-04-06T07:16:35.000Z",
+          "wordCount": null,
+          "title": "picoCTF 2022- Writeup",
+          "imageUrl": null
+        },
+        {
           "id": "https://medium.com/p/bf9d8653803",
           "author": "Security Lit Limited",
           "description": "Introduction\nContinue reading on InfoSec Write-ups »",
@@ -56804,6 +57434,26 @@
       "siteUrl": "https://paper.seebug.org/",
       "articles": [
         {
+          "id": "https://paper.seebug.org/1877/",
+          "author": null,
+          "description": "作者：麦兜\n本文为作者投稿，Seebug Paper 期待你的分享，凡经采用即有礼品相送！ 投稿邮箱：paper@seebug.org\n前言\n上周网上爆出Spring框架存在RCE漏洞，野外流传了一小段时间后，Spring官方在3月31日正式发布了漏洞信息，漏洞编号为CVE-2022-22965。本文章对该漏洞进行了复现和分析，希望能够帮助到有相关有需要的人员进一步研究。\n一、前置知识\n1....",
+          "link": "https://paper.seebug.org/1877/",
+          "publishedOn": "2022-04-06T07:08:00.000Z",
+          "wordCount": null,
+          "title": "Spring 远程命令执行漏洞（CVE-2022-22965）原理分析和思考",
+          "imageUrl": null
+        },
+        {
+          "id": "https://paper.seebug.org/1876/",
+          "author": null,
+          "description": "作者：天玄安全实验室\n原文链接：https://mp.weixin.qq.com/s/tGwCwOQ8eAwm26fHXTCy5A\n漏洞说明\nIssue-1062091为chrom中存在的一个UAF漏洞，此漏洞存在于chromium的Mojo框架中，利用此漏洞可以导致chrome与基于chromium的浏览器沙箱逃逸。这个漏洞是在Chrome 81.0.4041.0的提交中引入的。在几周后，...",
+          "link": "https://paper.seebug.org/1876/",
+          "publishedOn": "2022-04-06T06:27:00.000Z",
+          "wordCount": null,
+          "title": "Chrome Mojo 组件的沙箱逃逸漏洞分析",
+          "imageUrl": null
+        },
+        {
           "id": "https://paper.seebug.org/1875/",
           "author": null,
           "description": "作者：王铁磊\n原文链接：https://mp.weixin.qq.com/s/Lj8c5PLzLGIfdBoDzairsQ\n1 引言\n虚拟内存 (Virtual Memory, VM) ⼦系统是现代操作系统基础核⼼组件，不仅负责虚拟地址和物理内存的映射关系，管理调度物理内存的使⽤，为程序开发提供统⼀透明的地址空间，同时也要为不同执⾏环境提供隔离，管控物理页⾯读、写、执⾏等权限，是系统安全的基...",
@@ -57903,6 +58553,16 @@
       "siteUrl": "https://portswigger.net/blog",
       "articles": [
         {
+          "id": "burp-scanner-can-now-crawl-static-sites-between-6x-9x-faster",
+          "author": null,
+          "description": "Burp Suite Professional version 2022.2.3 made Burp Scanner's crawler between 6x - 9x faster when used against static or stateless sites. This helps you to carry out automated reconnaissance much faste",
+          "link": "https://portswigger.net/blog/burp-scanner-can-now-crawl-static-sites-between-6x-9x-faster",
+          "publishedOn": "2022-04-06T10:43:39.000Z",
+          "wordCount": null,
+          "title": "Burp Scanner can now crawl static sites between 6x - 9x faster",
+          "imageUrl": null
+        },
+        {
           "id": "burp-suite-enterprise-edition-kubernetes-deployment-and-auto-scaling",
           "author": null,
           "description": "Burp Suite Enterprise Edition is the dynamic vulnerability scanner that can help you to secure your whole web portfolio. And with release 2022.3, we've taken those same flexible Burp scans and made th",
@@ -58312,6 +58972,16 @@
       "feedUrl": "https://www.hackingarticles.in/feed/",
       "siteUrl": "https://www.hackingarticles.in",
       "articles": [
+        {
+          "id": "https://www.hackingarticles.in/?p=27868",
+          "author": "Raj Chandel",
+          "description": "Introduction According to MITRE, “Adversaries can use the COM system to insert malicious code that can be executed in place of legitimate software through hijacking\nThe post Windows Persistence: COM Hijacking (MITRE: T1546.015) appeared first on Hacking Articles.",
+          "link": "https://www.hackingarticles.in/windows-persistence-com-hijacking-mitre-t1546-015/",
+          "publishedOn": "2022-04-06T09:30:11.000Z",
+          "wordCount": null,
+          "title": "Windows Persistence: COM Hijacking (MITRE: T1546.015)",
+          "imageUrl": null
+        },
         {
           "id": "https://www.hackingarticles.in/?p=27855",
           "author": "Raj Chandel",
@@ -58739,6 +59409,16 @@
       "feedUrl": "https://www.sec-wiki.com/news/rss",
       "siteUrl": "http://www.sec-wiki.com/",
       "articles": [
+        {
+          "id": "http://www.sec-wiki.com/?2022-04-06",
+          "author": null,
+          "description": "Netgear R8300栈溢出漏洞分析  by chamd5\n无人机MAVLINK协议安全剖析  by chamd5\nMITRE ATT&CK 第四轮评估结果发布  by Avenger\n更多最新文章，请访问SecWiki",
+          "link": "http://www.sec-wiki.com/?2022-04-06",
+          "publishedOn": "2022-04-06T15:58:20.000Z",
+          "wordCount": null,
+          "title": "SecWiki News 2022-04-06 Review",
+          "imageUrl": null
+        },
         {
           "id": "http://www.sec-wiki.com/?2022-04-05",
           "author": null,
