@@ -2,10 +2,563 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cod3crash.github.io/sec-feed/index.html</id>
     <title>security feed</title>
-    <updated>2026-06-05T04:26:42.865Z</updated>
+    <updated>2026-06-06T04:09:17.189Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://cod3crash.github.io/sec-feed/index.html"/>
     <link rel="self" href="https://cod3crash.github.io/sec-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Luogu P11721 题解 - hnczy]]></title>
+        <id>https://www.cnblogs.com/hnczy/p/20340859</id>
+        <link href="https://www.cnblogs.com/hnczy/p/20340859"/>
+        <updated>2026-06-06T03:02:00.000Z</updated>
+        <summary type="html"><![CDATA[似乎没有块门。 这题分块也是可以做的，时间复杂度 \(O(n\sqrt n)\) 是大手子 @ 在场上想出来的，非常浅显易懂也好码。 首先对修改分块，每一次修改到块的最右边的时候，对块进行构造。具体的说，将块内修改的 \(l\) 和 \(r+1\) 离散化并且记录 \(1\sim n\) 每一个点的]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Some Hunters Make $10k a Month and Others Make Nothing]]></title>
+        <id>https://medium.com/p/e9a301b8a55a</id>
+        <link href="https://medium.com/@bughunting/why-some-hunters-make-10k-a-month-and-others-make-nothing-e9a301b8a55a?source=rss------bugbounty-5"/>
+        <updated>2026-06-06T02:53:23.000Z</updated>
+        <summary type="html"><![CDATA[It’s not skill. It’s not luck. Here’s the actual difference.
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Decline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一款接入20+免费大模型渠道的AI编程工具 - WellingFengX]]></title>
+        <id>https://www.cnblogs.com/cnshark/p/20339776</id>
+        <link href="https://www.cnblogs.com/cnshark/p/20339776"/>
+        <updated>2026-06-06T02:18:00.000Z</updated>
+        <summary type="html"><![CDATA[一款接入20+免费大模型渠道的AI编程工具 我做了十几年游戏开发，从 Unity C# 做到 Unreal C++，后来又碰了不少自研引擎。去年开始深度用 Claude Code 和 Codex CLI 写代码——不是那种&quot;帮我写个排序&quot;的用法，是让它读整条渲染管线，跨十几个文件改逻辑，加物理调试工]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Inner-Parser SSRF]]></title>
+        <id>https://medium.com/p/e940b76514e7</id>
+        <link href="https://sin99xx.medium.com/inner-parser-ssrf-e940b76514e7?source=rss------bugbounty-5"/>
+        <updated>2026-06-06T01:53:01.000Z</updated>
+        <summary type="html"><![CDATA[The bug class your URL validator was never going to catch
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>sin99xx</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[洛谷P15799 [GESP202603 五级] 找数 题解 - _wyt001]]></title>
+        <id>https://www.cnblogs.com/wyt1/p/20339392</id>
+        <link href="https://www.cnblogs.com/wyt1/p/20339392"/>
+        <updated>2026-06-06T01:52:00.000Z</updated>
+        <summary type="html"><![CDATA[P15799 [GESP202603 五级] 找数 题目传送门:https://www.luogu.com.cn/problem/P15799 题目背景 对应的选择、判断题：https://ti.luogu.com.cn/problemset/1209 题目描述 给定一个包含 n 个互不相同的正整数]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[nvp6021调试记录 - 假-正-经]]></title>
+        <id>https://www.cnblogs.com/jiazhengjing/p/20313880</id>
+        <link href="https://www.cnblogs.com/jiazhengjing/p/20313880"/>
+        <updated>2026-06-06T01:50:00.000Z</updated>
+        <summary type="html"><![CDATA[平台：rk3576 方案：原生bt1120 tx接nvp6021芯片 转为ahd信号 接ahd显示屏幕 1、硬件确认 1.1 rk3576 bt1120硬件确认 查阅硬件设计指南可以确认 rk3576是支持 16bit bt1120模式 ，最高支持1080p60Hz。 对应引脚可以查阅引脚设计指南或]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mastering CSRF: PortSwigger Academy Walkthrough Guide Community Edition From Practitioner LAB 07]]></title>
+        <id>https://medium.com/p/c1274cbf2b86</id>
+        <link href="https://medium.com/@ayeshaaghafoor48/mastering-csrf-portswigger-academy-walkthrough-guide-community-edition-from-practitioner-lab-07-c1274cbf2b86?source=rss------bugbounty-5"/>
+        <updated>2026-06-06T01:03:16.000Z</updated>
+        <summary type="html"><![CDATA[🛑 Lab 7: SameSite Lax bypass via method override
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Ayeshaaghafoor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI沉默的二十年，是数据和算力的厚积薄发，更是从机器学习到深度学习算法的一次次突破 - 岳小哥AI]]></title>
+        <id>https://www.cnblogs.com/hawk2026/p/20211477</id>
+        <link href="https://www.cnblogs.com/hawk2026/p/20211477"/>
+        <updated>2026-06-06T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[2016年，AlphaGo的胜利让AI成为全民话题，但这并非凭空降临，而是机器学习、图像识别、自然语言处理等多项基础技术二十年来不断积累与融合的结果。]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[当 AgentGateway 遇上 OpenClaw.NET：企业级智能体基础设施的深度协同实战 - 张善友]]></title>
+        <id>https://www.cnblogs.com/shanyou/p/20337134</id>
+        <link href="https://www.cnblogs.com/shanyou/p/20337134"/>
+        <updated>2026-06-05T23:51:00.000Z</updated>
+        <summary type="html"><![CDATA[2026 年 6 月，Linux 基金会旗下的[智能体 AI 基金会（AAIF）正式接纳 AgentGateway 为第四大核心托管项目](https://aaif.io/blog/agentgateway-joins-aaif-as-an-open-gateway-for-agentic-ai-i]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Secure Implementation Of Link Previews In Chat Applications]]></title>
+        <id>https://medium.com/p/07ddbd02e6ec</id>
+        <link href="https://thisis23.medium.com/secure-implementation-of-link-previews-in-chat-applications-07ddbd02e6ec?source=rss------bugbounty-5"/>
+        <updated>2026-06-05T23:17:59.000Z</updated>
+        <summary type="html"><![CDATA[Don’t let link previews pwn your infrastructure — a complete security guide.
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>23</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Secure Implementation Of Link Previews In Chat Applications]]></title>
+        <id>https://medium.com/p/07ddbd02e6ec</id>
+        <link href="https://thisis23.medium.com/secure-implementation-of-link-previews-in-chat-applications-07ddbd02e6ec?source=rss------redteam-5"/>
+        <updated>2026-06-05T23:17:59.000Z</updated>
+        <summary type="html"><![CDATA[Don’t let link previews pwn your infrastructure — a complete security guide.
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>23</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[API Fuzzing for Security Testing: Part 1: Recon, Discovery & Mapping the Attack Surface]]></title>
+        <id>https://medium.com/p/924c458ce621</id>
+        <link href="https://osintteam.blog/api-fuzzing-for-security-testing-part-1-recon-discovery-mapping-the-attack-surface-924c458ce621?source=rss------bugbounty-5"/>
+        <updated>2026-06-05T23:00:48.000Z</updated>
+        <summary type="html"><![CDATA[Learn how to discover undocumented APIs, enumerate endpoints, uncover exposed Swagger files, and build a complete attack surface map before
+Continue reading on OSINT Team »]]></summary>
+        <author>
+            <name>Fuzzyy Duck</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Password Reset Flow Testing — The Most Overlooked Account Takeover Vulnerability]]></title>
+        <id>https://medium.com/p/cac0c1c5369c</id>
+        <link href="https://osintteam.blog/password-reset-flow-testing-the-most-overlooked-account-takeover-vulnerability-cac0c1c5369c?source=rss------bugbounty-5"/>
+        <updated>2026-06-05T23:00:34.000Z</updated>
+        <summary type="html"><![CDATA[Hackers don’t always crack passwords. Sometimes they just click “Forgot Password?” and walk right in through a broken back door.
+Continue reading on OSINT Team »]]></summary>
+        <author>
+            <name>Yamini Yadav_369</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Session Management Testing: How Session Tokens Work, How Hackers Steal Them, and How Security…]]></title>
+        <id>https://medium.com/p/b5909daa34ac</id>
+        <link href="https://osintteam.blog/session-management-testing-how-session-tokens-work-how-hackers-steal-them-and-how-security-b5909daa34ac?source=rss------bugbounty-5"/>
+        <updated>2026-06-05T23:00:27.000Z</updated>
+        <summary type="html"><![CDATA[When you log in to a website, you don’t have to enter your username and password on every page.
+Continue reading on OSINT Team »]]></summary>
+        <author>
+            <name>Yamini Yadav_369</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JS事件深度解析四  事件的循环和异步 - 用户新]]></title>
+        <id>https://www.cnblogs.com/f20171110/p/20336719</id>
+        <link href="https://www.cnblogs.com/f20171110/p/20336719"/>
+        <updated>2026-06-05T20:27:00.000Z</updated>
+        <summary type="html"><![CDATA[四、 事件的循环和异步 半年前写的这个js的事件系列，一直没完结。中间又写了个V8引擎入门的系列，也写到了执行部分。先把这个js事件系列写完。事件本身是强依赖浏览器的，尤其是循环和异步，所以在深度上，可能会比前三部分略微深入一点。对V8感兴趣的朋友可以看我写的另一个系列 V8引擎精品漫游指南 。 这]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HTB File Upload Attacks Skills Assessment Walkthrough]]></title>
+        <id>https://medium.com/p/faf18de8b221</id>
+        <link href="https://meetcyber.net/htb-file-upload-attacks-skills-assessment-walkthrough-faf18de8b221?source=rss------bugbounty-5"/>
+        <updated>2026-06-05T19:56:02.000Z</updated>
+        <summary type="html"><![CDATA[Chaining SVG XXE, source code disclosure, Apache misconfiguration, and EXIF injection to achieve remote code execution.
+Continue reading on MeetCyber »]]></summary>
+        <author>
+            <name>0x4rt1st</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Complete Wazuh Setup Guide for Windows and Linux Endpoints]]></title>
+        <id>https://medium.com/p/b9f4f3516275</id>
+        <link href="https://medium.com/@vrushalipagar31/complete-wazuh-setup-guide-for-windows-and-linux-endpoints-b9f4f3516275?source=rss------redteam-5"/>
+        <updated>2026-06-05T16:12:40.000Z</updated>
+        <summary type="html"><![CDATA[Security monitoring is one of those topics that seems overwhelming at first.
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Vrushalipagar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[扩展 Lucas 定理（exLucas）学习笔记 & 详解，一文带你彻底看懂扩展 Lucas 定理。 - EtherealYz]]></title>
+        <id>https://www.cnblogs.com/Yzu-EtherealYz/p/20334937</id>
+        <link href="https://www.cnblogs.com/Yzu-EtherealYz/p/20334937"/>
+        <updated>2026-06-05T16:06:00.000Z</updated>
+        <summary type="html"><![CDATA[背景 考虑这样一个问题： 给定 \(n, r, p\) ，求 \[\binom{n}{r} \bmod m \]不保证 \(m\) 是质数。\(1\le r\le n\le 10^{18}\)。 显然此时普通 Lucas 定理就无能为力了。这时需要用到扩展 Lucas 定理（exLucas）。 前置]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows CMD-Only Low-Noise Enumeration]]></title>
+        <id>https://medium.com/p/82d5741230c5</id>
+        <link href="https://medium.com/@ayushmohansah/windows-cmd-only-low-noise-enumeration-82d5741230c5?source=rss------redteam-5"/>
+        <updated>2026-06-05T15:56:13.000Z</updated>
+        <summary type="html"><![CDATA[Windows CMD-Only Low-Noise Enumeration Handbook
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Ayushmohansah</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2026 XCPC 杂题选解 - lingfunny]]></title>
+        <id>https://www.cnblogs.com/lingfunny/p/20335306</id>
+        <link href="https://www.cnblogs.com/lingfunny/p/20335306"/>
+        <updated>2026-06-05T15:42:00.000Z</updated>
+        <summary type="html"><![CDATA[XCPC 2026 WEEK 14 C - Quadratic Jumps tag(s): math, brute force CodeForces - 2231F 首先由 Fermat Polygonal Number Theorem，答案不会超过 4。 考虑什么时候答案为 1，直接检测 \(b]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​ Automated Reconnaissance: Advanced SQL Injection Dumping with SQLmap
+​Manual exploitation of…]]></title>
+        <id>https://medium.com/p/83de0871a738</id>
+        <link href="https://medium.com/@microtrees0/automated-reconnaissance-advanced-sql-injection-dumping-with-sqlmap-manual-exploitation-of-83de0871a738?source=rss------redteam-5"/>
+        <updated>2026-06-05T15:33:27.000Z</updated>
+        <summary type="html"><![CDATA[sqlmap -r request.txt --batch
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Qasim Jabbar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GnuTLS OCSP stapling accepts unrelated SingleResponse (no cert-ID binding)]]></title>
+        <id>https://hackerone.com/reports/3784125</id>
+        <link href="https://hackerone.com/reports/3784125"/>
+        <updated>2026-06-05T15:11:38.000Z</updated>
+        <summary type="html"><![CDATA[curl disclosed a bug submitted by argus-systems: https://hackerone.com/reports/3784125]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GnuTLS OCSP stapling accepts unrelated SingleResponse (no cert-ID binding)]]></title>
+        <id>https://hackerone.com/reports/3784125</id>
+        <link href="https://hackerone.com/reports/3784125"/>
+        <updated>2026-06-05T15:11:38.000Z</updated>
+        <summary type="html"><![CDATA[curl disclosed a bug submitted by argus-systems: https://hackerone.com/reports/3784125]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Advanced Evasion Tradecraft: Precision Module Stomping]]></title>
+        <id>https://medium.com/p/b51feb0978fe</id>
+        <link href="https://medium.com/@toneillcodes/advanced-evasion-tradecraft-precision-module-stomping-b51feb0978fe?source=rss------redteam-5"/>
+        <updated>2026-06-05T15:04:44.000Z</updated>
+        <summary type="html"><![CDATA[Mapping process memory for calculated, stable execution
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Tom O'Neill</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[多Agent开发笔记:为什么4个Codex加1个Claude会把cpu跑满 - 养肥胖虎]]></title>
+        <id>https://www.cnblogs.com/FatTiger4399/p/20332877</id>
+        <link href="https://www.cnblogs.com/FatTiger4399/p/20332877"/>
+        <updated>2026-06-05T10:03:00.000Z</updated>
+        <summary type="html"><![CDATA[多Agent开发笔记:为什么4个Codex加1个Claude会把9700X跑满 好家伙, vscode里开了四个codex拓展 + 一个 claude把我cpu吃满了,不是哥们,我9700X啊 按理说,8 核 16 线程的桌面 CPU,日常开发应该不算弱. 但我同时开了: 4 个 Codex 1 个]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[对于Prompt的思考：从“手写”到提示词采样、A/B Test 与自动化评测 - Whitejoce]]></title>
+        <id>https://www.cnblogs.com/Whitejoce/p/20332387</id>
+        <link href="https://www.cnblogs.com/Whitejoce/p/20332387"/>
+        <updated>2026-06-05T09:45:00.000Z</updated>
+        <summary type="html"><![CDATA[tldr: 1、好 prompt 是激活正确分布：底层原理 2、对于强 agentic 模型，过度规则会造成模型开始“执行规则”，而不是进入状态：不同模型，不同策略 3、编写prompt的采样也是在挖掘自己的真正需求：模型可以走多远、现在这个路径是不是正确的？ 4、模型采样输出prompt和对应回答]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LLM 数据可视化：从“硬编码”到“Generative UI”的五种范式 - BurningFish]]></title>
+        <id>https://www.cnblogs.com/haihai1203/p/20329300</id>
+        <link href="https://www.cnblogs.com/haihai1203/p/20329300"/>
+        <updated>2026-06-05T09:34:00.000Z</updated>
+        <summary type="html"><![CDATA[声明：本文在写作过程中使用了AI辅助工具进行资料整理、结构优化与语言润色。核心观点、技术判断与工程经验均为作者原创。 一、问题：卡在渲染层 项目里有这样一条链路：用 LLM 按指定的 schema 抽取领域数据（structured output），拿到结构化数据后，前端写代码把它渲染出来： typ]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[基于大模型、AiInsight问数框架的高炉冶炼智能体研究与应用（面向高炉历史诊断、目标优化与生产决策辅助） - iNeuOS工业互联网系统]]></title>
+        <id>https://www.cnblogs.com/lsjwq/p/20331341</id>
+        <link href="https://www.cnblogs.com/lsjwq/p/20331341"/>
+        <updated>2026-06-05T09:09:00.000Z</updated>
+        <summary type="html"><![CDATA[AiInsight 问数框架将大模型、技能包、数据源、工艺知识库和工具执行统一到一个智能体流程中。用户可以用自然语言或明确命令发起任务，系统根据已选大模型、技能、数据源、文件和知识库构造上下文，分步骤完成数据查询、工艺推理、脚本分析和报告生成等过程。]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[测试人必备的用例评审SKILL，采纳率提升至95%以上 - AITest研究员]]></title>
+        <id>https://www.cnblogs.com/easy-test/p/20331009</id>
+        <link href="https://www.cnblogs.com/easy-test/p/20331009"/>
+        <updated>2026-06-05T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[做测试的同学都知道，用例评审是个&quot;苦力活&quot;。 每次需求变更，都要手动对比：现有用例覆盖了哪些功能点？需求里的功能是否还有遗漏？边界条件考虑了吗？异常场景测了吗？ 拿着Excel用例，对着几十页的PRD文档，一条一条核对，眼睛看花了不说，还容易漏。更要命的是——评审结果全靠人工判断，不同人评审标准还不]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用SymPy自动计算抛物线求根、判别式与顶点 - wang_yb]]></title>
+        <id>https://www.cnblogs.com/wang_yb/p/20329945</id>
+        <link href="https://www.cnblogs.com/wang_yb/p/20329945"/>
+        <updated>2026-06-05T08:31:00.000Z</updated>
+        <summary type="html"><![CDATA[做 Manim 动画时，我想让抛物线 $ y=x^2+bx+2 $随着系数 b 的变化，自动、精准地显示它与 x 轴的交点。 手写求根公式不仅繁琐，还要自己处理判别式为负的情况，稍不注意 math.sqrt 就会让整个动画崩溃。 本文我们就用 SymPy 彻底解决这个痛点。 1. 痛点场景还原 假设]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web Server Attacks- 1 Walkthrough | TryHackMe]]></title>
+        <id>https://medium.com/p/d9dc4f9dfe46</id>
+        <link href="https://medium.com/@gowrishankar.a391/web-server-attacks-1-walkthrough-tryhackme-d9dc4f9dfe46?source=rss------redteam-5"/>
+        <updated>2026-06-05T07:48:34.000Z</updated>
+        <summary type="html"><![CDATA[Enumerate and identify misconfigurations across Apache, Nginx, Node.js, and Python HTTP Server.
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Gowrishankar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[自建 Copilot Cli 代理：让 GitHub Copilot 真正"Bring Your Own Key" - 胖纸不争]]></title>
+        <id>https://www.cnblogs.com/donpangpang/p/20328879</id>
+        <link href="https://www.cnblogs.com/donpangpang/p/20328879"/>
+        <updated>2026-06-05T07:43:00.000Z</updated>
+        <summary type="html"><![CDATA[自建 Copilot Cli 代理：让 GitHub Copilot 真正&quot;Bring Your Own Key&quot; Github: https://github.com/wosledon/copilot-auto-byok 一个基于 .NET 10 的轻量级模型代理，解决 Copilot Cli 只]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JuiceFS 1.4｜大规模元数据操作优化：批量删除、克隆与 Redis 缓存全解析 - JuiceFS]]></title>
+        <id>https://www.cnblogs.com/JuiceData/p/20328812</id>
+        <link href="https://www.cnblogs.com/JuiceData/p/20328812"/>
+        <updated>2026-06-05T07:40:00.000Z</updated>
+        <summary type="html"><![CDATA[在 AI 训练、数据集管理等大规模文件访问场景中，随着文件数量和访问并发增加，元数据层往往更早成为性能瓶颈。无论是删除百万级小文件、克隆大规模数据集，还是高并发目录遍历，元数据引擎的响应能力都会直接影响上层业务效率。 JuiceFS 社区版 1.4 在元数据引擎层面引入了三项优化：批量删除（Batc]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[大话电容传感器和电容SOC芯片，看这一篇就够了 - FreakStudio]]></title>
+        <id>https://www.cnblogs.com/FreakEmbedded/p/20327804</id>
+        <link href="https://www.cnblogs.com/FreakEmbedded/p/20327804"/>
+        <updated>2026-06-05T07:11:00.000Z</updated>
+        <summary type="html"><![CDATA[从口袋里的手机屏幕，到工厂里不知疲倦的生产线；从农田里监测土壤的探头，到管道中识别介质的开关，电容传感器早已成为现代社会中 “看不见的感知触手”。它无需物理接触，却能感知万物的细微变化，以多样的形态适配着消费电子、工业控制、农业监测等无数场景，渗透到我们生活与生产的每一个角落。]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CURLOPT_PROXY_CRLFILE / CURLOPT_PROXY_ISSUERCERT / CURLOPT_PROXY_ISSUERCERT_BLOB silently ignored on backends that don't support them]]></title>
+        <id>https://hackerone.com/reports/3717552</id>
+        <link href="https://hackerone.com/reports/3717552"/>
+        <updated>2026-06-05T07:03:00.000Z</updated>
+        <summary type="html"><![CDATA[curl disclosed a bug submitted by bagder: https://hackerone.com/reports/3717552]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CURLOPT_PROXY_CRLFILE / CURLOPT_PROXY_ISSUERCERT / CURLOPT_PROXY_ISSUERCERT_BLOB silently ignored on backends that don't support them]]></title>
+        <id>https://hackerone.com/reports/3717552</id>
+        <link href="https://hackerone.com/reports/3717552"/>
+        <updated>2026-06-05T07:03:00.000Z</updated>
+        <summary type="html"><![CDATA[curl disclosed a bug submitted by bagder: https://hackerone.com/reports/3717552]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shared HSTS cache accessed without lock]]></title>
+        <id>https://hackerone.com/reports/3718265</id>
+        <link href="https://hackerone.com/reports/3718265"/>
+        <updated>2026-06-05T07:02:33.000Z</updated>
+        <summary type="html"><![CDATA[curl disclosed a bug submitted by bagder: https://hackerone.com/reports/3718265]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shared HSTS cache accessed without lock]]></title>
+        <id>https://hackerone.com/reports/3718265</id>
+        <link href="https://hackerone.com/reports/3718265"/>
+        <updated>2026-06-05T07:02:33.000Z</updated>
+        <summary type="html"><![CDATA[curl disclosed a bug submitted by bagder: https://hackerone.com/reports/3718265]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Started Learning AWS and Realised I Didn’t Fully Understand the Internet]]></title>
+        <id>https://medium.com/p/a5abfd709343</id>
+        <link href="https://infosecwriteups.com/i-started-learning-aws-and-realised-i-didnt-fully-understand-the-internet-a5abfd709343?source=rss----7b722bfd1b8d---4"/>
+        <updated>2026-06-05T06:43:40.000Z</updated>
+        <author>
+            <name>PriOFF</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Started Learning AWS and Realised I Didn’t Fully Understand the Internet]]></title>
+        <id>https://medium.com/p/a5abfd709343</id>
+        <link href="https://infosecwriteups.com/i-started-learning-aws-and-realised-i-didnt-fully-understand-the-internet-a5abfd709343?source=rss----7b722bfd1b8d---4"/>
+        <updated>2026-06-05T06:43:40.000Z</updated>
+        <author>
+            <name>PriOFF</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[旧手机别扔！用 Termux 搭个私人云盘，比网盘香多了 - 一名程序媛呀]]></title>
+        <id>https://www.cnblogs.com/ymtianyu/p/20326979</id>
+        <link href="https://www.cnblogs.com/ymtianyu/p/20326979"/>
+        <updated>2026-06-05T06:41:00.000Z</updated>
+        <summary type="html"><![CDATA[你是不是也有台旧安卓在抽屉里吃灰？其实只要装上Termux，再跑个FileBrowser，十分钟就能变成一台7&#215;24小时在线的私人云盘，再也不用忍受网盘限速和和谐。这篇文章不仅手把手带你实战搭建，还会横向对比几种常见方案，把我踩过的坑、最稳的配置一次讲清楚，让你少走冤枉路。]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Host & Network Penetration Testing: System-Host Based Attacks CTF 1 — eJPT (INE)]]></title>
+        <id>https://medium.com/p/9cca24e33039</id>
+        <link href="https://infosecwriteups.com/host-network-penetration-testing-system-host-based-attacks-ctf-1-ejpt-ine-9cca24e33039?source=rss----7b722bfd1b8d---4"/>
+        <updated>2026-06-05T06:40:13.000Z</updated>
+        <author>
+            <name>Suraj Apar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Host & Network Penetration Testing: System-Host Based Attacks CTF 1 — eJPT (INE)]]></title>
+        <id>https://medium.com/p/9cca24e33039</id>
+        <link href="https://infosecwriteups.com/host-network-penetration-testing-system-host-based-attacks-ctf-1-ejpt-ine-9cca24e33039?source=rss----7b722bfd1b8d---4"/>
+        <updated>2026-06-05T06:40:13.000Z</updated>
+        <author>
+            <name>Suraj Apar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“Bug Bounty Bootcamp #44: No Login?]]></title>
+        <id>https://medium.com/p/c3302844a47e</id>
+        <link href="https://infosecwriteups.com/bug-bounty-bootcamp-44-no-login-c3302844a47e?source=rss----7b722bfd1b8d---4"/>
+        <updated>2026-06-05T06:40:01.000Z</updated>
+        <summary type="html"><![CDATA[You stumble on a login page. No “Register”, no “Forgot Password”. Just two lonely text boxes staring back at you. Most hunters give up…
+Continue reading on InfoSec Write-ups »]]></summary>
+        <author>
+            <name>Aman Sharma</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“Bug Bounty Bootcamp #44: No Login?]]></title>
+        <id>https://medium.com/p/c3302844a47e</id>
+        <link href="https://infosecwriteups.com/bug-bounty-bootcamp-44-no-login-c3302844a47e?source=rss----7b722bfd1b8d---4"/>
+        <updated>2026-06-05T06:40:01.000Z</updated>
+        <summary type="html"><![CDATA[You stumble on a login page. No “Register”, no “Forgot Password”. Just two lonely text boxes staring back at you. Most hunters give up…
+Continue reading on InfoSec Write-ups »]]></summary>
+        <author>
+            <name>Aman Sharma</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Docker--搭建私有镜像中心Harbor - NE_STOP]]></title>
+        <id>https://www.cnblogs.com/alineverstop/p/20326631</id>
+        <link href="https://www.cnblogs.com/alineverstop/p/20326631"/>
+        <updated>2026-06-05T06:31:00.000Z</updated>
+        <summary type="html"><![CDATA[公网镜像中心 Docker Hub 和阿里云都是Docker 的公网镜像中心，用户可以将镜像push到镜像中心的镜像仓库里，可以将仓库设为私有库，他人无法访问，保证镜像安全。 但是，实际工作中，一般在公司内部搭建一个私有镜像中心。 发布镜像到阿里云 注册一个阿里云账号，并完成实名认证 创建镜像中心实]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RTSP Digest auth state leaks across origins on reused libcurl easy handle]]></title>
+        <id>https://hackerone.com/reports/3776535</id>
+        <link href="https://hackerone.com/reports/3776535"/>
+        <updated>2026-06-05T05:50:15.000Z</updated>
+        <summary type="html"><![CDATA[curl disclosed a bug submitted by hamaowo: https://hackerone.com/reports/3776535]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RTSP Digest auth state leaks across origins on reused libcurl easy handle]]></title>
+        <id>https://hackerone.com/reports/3776535</id>
+        <link href="https://hackerone.com/reports/3776535"/>
+        <updated>2026-06-05T05:50:15.000Z</updated>
+        <summary type="html"><![CDATA[curl disclosed a bug submitted by hamaowo: https://hackerone.com/reports/3776535]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TFTP upload ignores --continue-at / CURLOPT_RESUME_FROM and leaks skipped local file prefix]]></title>
+        <id>https://hackerone.com/reports/3776433</id>
+        <link href="https://hackerone.com/reports/3776433"/>
+        <updated>2026-06-05T05:50:03.000Z</updated>
+        <summary type="html"><![CDATA[curl disclosed a bug submitted by bowen111: https://hackerone.com/reports/3776433]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TFTP upload ignores --continue-at / CURLOPT_RESUME_FROM and leaks skipped local file prefix]]></title>
+        <id>https://hackerone.com/reports/3776433</id>
+        <link href="https://hackerone.com/reports/3776433"/>
+        <updated>2026-06-05T05:50:03.000Z</updated>
+        <summary type="html"><![CDATA[curl disclosed a bug submitted by bowen111: https://hackerone.com/reports/3776433]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[libcurl 8.20.0 ignores HTTP Digest domain protection space and preemptively leaks Digest auth outside the declared scope]]></title>
+        <id>https://hackerone.com/reports/3774977</id>
+        <link href="https://hackerone.com/reports/3774977"/>
+        <updated>2026-06-05T05:49:45.000Z</updated>
+        <summary type="html"><![CDATA[curl disclosed a bug submitted by skksndk: https://hackerone.com/reports/3774977]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[libcurl 8.20.0 ignores HTTP Digest domain protection space and preemptively leaks Digest auth outside the declared scope]]></title>
+        <id>https://hackerone.com/reports/3774977</id>
+        <link href="https://hackerone.com/reports/3774977"/>
+        <updated>2026-06-05T05:49:45.000Z</updated>
+        <summary type="html"><![CDATA[curl disclosed a bug submitted by skksndk: https://hackerone.com/reports/3774977]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CURLOPT_COOKIE leaked to cross-origin redirect target  CURLOPT_UNRESTRICTED_AUTH bypass for the STRING_COOKIE path]]></title>
+        <id>https://hackerone.com/reports/3766065</id>
+        <link href="https://hackerone.com/reports/3766065"/>
+        <updated>2026-06-05T05:49:33.000Z</updated>
+        <summary type="html"><![CDATA[curl disclosed a bug submitted by azraelxuemo: https://hackerone.com/reports/3766065]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CURLOPT_COOKIE leaked to cross-origin redirect target  CURLOPT_UNRESTRICTED_AUTH bypass for the STRING_COOKIE path]]></title>
+        <id>https://hackerone.com/reports/3766065</id>
+        <link href="https://hackerone.com/reports/3766065"/>
+        <updated>2026-06-05T05:49:33.000Z</updated>
+        <summary type="html"><![CDATA[curl disclosed a bug submitted by azraelxuemo: https://hackerone.com/reports/3766065]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我有一点隐隐的不安：AI时代，知识会不会被少数人“圈养”起来？ - 奔跑的小虾米]]></title>
         <id>https://www.cnblogs.com/sllbwcoding/p/20322374</id>
@@ -4844,21 +5397,6 @@ Is that cool? Running Lua code when Python calls into a C function to do some th
 <p><img src="/images/pasted-923.png" alt="upload successful"></p>]]></summary>
         <author>
             <name>m0d9's blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chrome achieves highest score ever on Speedometer 3.1, saving users millions of hours]]></title>
-        <id>https://blog.chromium.org/2025/06/chrome-achieves-highest-score-ever-on.html</id>
-        <link href="https://blog.chromium.org/2025/06/chrome-achieves-highest-score-ever-on.html"/>
-        <updated>2025-06-05T17:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Update (6/10/2025): This blog was updated to reflect that testing was done using the Speedometer 3.1 benchmark, and resulted in a 22% performance improvement. The previous version incorrectly noted that the performance improvement was 10% and that the benchmark was Speedometer 3. 
-
-
-Performance has always been one of the core pillars of Chrome and it’s something we’ve never stopped investing in.  Publicly available and open benchmarks, which we create in open collaboration with other browsers, are useful tools for tracking our overall progress, understanding new areas of improvement, and validating potential optimizations. In today’s The Fast and the Curious post,  we’d like to go through Chrome’s recent work that enabled it to achieve the highest score ever on the Speedometer benchmark.
-
-…]]></summary>
-        <author>
-            <name>Chromium Blog</name>
         </author>
     </entry>
 </feed>
