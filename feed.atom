@@ -2,10 +2,335 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cod3crash.github.io/sec-feed/index.html</id>
     <title>security feed</title>
-    <updated>2026-06-06T04:09:17.189Z</updated>
+    <updated>2026-06-07T04:45:29.764Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://cod3crash.github.io/sec-feed/index.html"/>
     <link rel="self" href="https://cod3crash.github.io/sec-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Windows Authentication Explained: LSASS, Access Tokens, and Why Logon Types Matter]]></title>
+        <id>https://medium.com/p/023ff1330853</id>
+        <link href="https://medium.com/@w0lfstrong/windows-authentication-explained-lsass-access-tokens-and-why-logon-types-matter-023ff1330853?source=rss------redteam-5"/>
+        <updated>2026-06-07T04:18:28.000Z</updated>
+        <summary type="html"><![CDATA[Blog 5 of “Mastering Active Directory — Simplified.” Module 1 covered the architecture of Active Directory. Module 2 is where we get into…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Atharva Deshmukh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The $0 Purchase Bug: How Perfectly Working Code Cost a Company Thousands]]></title>
+        <id>https://medium.com/p/23133a455f93</id>
+        <link href="https://su6osec.medium.com/the-0-purchase-bug-how-perfectly-working-code-cost-a-company-thousands-23133a455f93?source=rss------bugbounty-5"/>
+        <updated>2026-06-07T04:02:33.000Z</updated>
+        <summary type="html"><![CDATA[A company spent years securing its platform.
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Đeepanshu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Fine-Tuned a 72B Security LLM From Scratch Then Open-Sourced Everything]]></title>
+        <id>https://medium.com/p/c90c8b755cc3</id>
+        <link href="https://medium.com/@jabirkhan1/i-fine-tuned-a-72b-security-llm-from-scratch-then-open-sourced-everything-c90c8b755cc3?source=rss------bugbounty-5"/>
+        <updated>2026-06-07T03:20:27.000Z</updated>
+        <summary type="html"><![CDATA[A 72B model. Honest results including what broke. Here’s the full story, and why the repo is public anyway.
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>jabir khan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[15天学会AI应用开发（五）使用AI摘要来压缩上下文消息 - aqi00]]></title>
+        <id>https://www.cnblogs.com/aqi00/p/20342437</id>
+        <link href="https://www.cnblogs.com/aqi00/p/20342437"/>
+        <updated>2026-06-07T03:14:00.000Z</updated>
+        <summary type="html"><![CDATA[​前面两篇文章分别介绍了根据消息数量截断历史对话和根据Token长度截断历史对话，可是这两种方式有两个共同的问题： 1、被删去的早期记录可能包含关键信息，直接截断会导致信息丢失。 2、原始的对话记录可能存在重复、冗余、拖沓的文字内容。 一、为什么要对原始记录做摘要 要知道，重复、冗余、拖沓的文字内容]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[人机Agent团队协同：从Managed Agents原理到Multica实践 - 许雪里]]></title>
+        <id>https://www.cnblogs.com/xuxueli/p/20355646</id>
+        <link href="https://www.cnblogs.com/xuxueli/p/20355646"/>
+        <updated>2026-06-07T03:05:00.000Z</updated>
+        <summary type="html"><![CDATA[一、Managed Agents 原理 1.1、诞生背景：从 “单体” 走向 “全托管” 随着大模型工具调用与自主决策能力持续升级，AI Agent 已逐渐深入研发各落地场景。 但单体 Agent 普遍存在「架构耦合、运维成本高、无法团队协作、能力沉淀复用难」等痛点，分析原因为： 多数单体 Agen]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Bug That Almost Made Me Quit Cybersecurity — And the Lesson That Changed My Career Forever]]></title>
+        <id>https://medium.com/p/34184d0eb578</id>
+        <link href="https://medium.com/@subscribeall05/the-bug-that-almost-made-me-quit-cybersecurity-and-the-lesson-that-changed-my-career-forever-34184d0eb578?source=rss------bugbounty-5"/>
+        <updated>2026-06-07T01:31:48.000Z</updated>
+        <summary type="html"><![CDATA[For months, I hunted for vulnerabilities across countless websites.
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Chisom</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Understanding SSL Pinning: What it is and how to bypass it]]></title>
+        <id>https://medium.com/p/a0010349e88c</id>
+        <link href="https://wahbakamaluddin.medium.com/understanding-ssl-pinning-what-it-is-and-how-to-bypass-it-a0010349e88c?source=rss------bugbounty-5"/>
+        <updated>2026-06-07T01:17:06.000Z</updated>
+        <summary type="html"><![CDATA[Introduction
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Wahba Kamaluddin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一、为什么要学习 USB 协议 - PlayerPencil]]></title>
+        <id>https://www.cnblogs.com/PlayerPencil/p/20353484</id>
+        <link href="https://www.cnblogs.com/PlayerPencil/p/20353484"/>
+        <updated>2026-06-07T00:13:00.000Z</updated>
+        <summary type="html"><![CDATA[这是一篇学习笔记，分享给大家，如果大家喜欢，也会开启USB的专辑 一、为什么要学习 USB 协议 USB 是 Universal Serial Bus 的缩写，中文通常叫通用串行总线。它是电脑、手机、工控机、单片机开发板和各种外设之间最常见的连接方式之一。 在嵌入式开发中，USB 常用于： 虚拟串口]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一篇标题只有5个单词的论文，改变了整个AI世界，并打开了AI大语言模型时代 - 岳小哥AI]]></title>
+        <id>https://www.cnblogs.com/hawk2026/p/20212274</id>
+        <link href="https://www.cnblogs.com/hawk2026/p/20212274"/>
+        <updated>2026-06-07T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[从GPT-1的诞生到ChatGPT的横空出世，AI从专家的实验室走进了每个人的日常，这背后是数据、算力与算法长达七十年的厚积薄发。]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mastering Clickjacking: Bypassing CSRF Protection via UI Redressing]]></title>
+        <id>https://medium.com/p/15daffe29bce</id>
+        <link href="https://medium.com/@ayeshaaghafoor48/mastering-clickjacking-bypassing-csrf-protection-via-ui-redressing-15daffe29bce?source=rss------bugbounty-5"/>
+        <updated>2026-06-06T22:17:20.000Z</updated>
+        <summary type="html"><![CDATA[In web security, we often look at vulnerabilities hidden deep within backend code or API endpoints. However, some of the most clever…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Ayeshaaghafoor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How I Passed the CLLMSP — LLM Security From an Enterprise Practitioner’s Perspective]]></title>
+        <id>https://medium.com/p/370098e770af</id>
+        <link href="https://medium.com/@timothy_jameseusebio/how-i-passed-the-cllmsp-llm-security-from-an-enterprise-practitioners-perspective-370098e770af?source=rss------redteam-5"/>
+        <updated>2026-06-06T19:18:35.000Z</updated>
+        <summary type="html"><![CDATA[I don’t write about certifications I haven’t used in the real world.
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Eusebio@IT-SEC</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Didn’t Hack the App. I Hacked the AI. Web LLM is breached !]]></title>
+        <id>https://medium.com/p/79d7aa57c471</id>
+        <link href="https://medium.com/@nilanjan.calculus/i-didnt-hack-the-app-i-hacked-the-ai-web-llm-is-breached-79d7aa57c471?source=rss------bugbounty-5"/>
+        <updated>2026-06-06T18:51:40.000Z</updated>
+        <summary type="html"><![CDATA[Author : Nilanjan Chowdhury
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Nilanjan Chowdhury</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一条信息在 PowerMem 中的完整旅程，从写入到淘汰的工程拆解 - knqiufan]]></title>
+        <id>https://www.cnblogs.com/knqiufan/p/20351993</id>
+        <link href="https://www.cnblogs.com/knqiufan/p/20351993"/>
+        <updated>2026-06-06T18:23:00.000Z</updated>
+        <summary type="html"><![CDATA[第一篇：PowerMem 记忆系统的遗忘设计，从神经元到代码工程 上一篇 PowerMem 记忆系统的遗忘设计，从神经元到代码工程 从认知科学的角度聊了遗忘机制，包括突触可塑性、艾宾浩斯遗忘曲线、间隔重复和理想的困难。都是一些很有意思的认知学理论。 这一篇换个视角，以一条消息的流转路径为线索，跟踪它]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hunting Android Lockscreen Bypasses on Pixel: A Campaign Walkthrough — Contd. — III]]></title>
+        <id>https://medium.com/p/3977139bb9ba</id>
+        <link href="https://medium.com/@salamsajid7/hunting-android-lockscreen-bypasses-on-pixel-a-campaign-walkthrough-contd-iii-3977139bb9ba?source=rss------bugbounty-5"/>
+        <updated>2026-06-06T18:09:19.000Z</updated>
+        <summary type="html"><![CDATA[06 — L5: WindowManager Occlusion — showWhenLocked and Friends
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Farhad Sajid Barbhuiya</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hunting Android Lockscreen Bypasses on Pixel: A Campaign Walkthrough — Contd. — II]]></title>
+        <id>https://medium.com/p/26baaf2c37cb</id>
+        <link href="https://medium.com/@salamsajid7/hunting-android-lockscreen-bypasses-on-pixel-a-campaign-walkthrough-contd-ii-26baaf2c37cb?source=rss------bugbounty-5"/>
+        <updated>2026-06-06T18:03:48.000Z</updated>
+        <summary type="html"><![CDATA[05 — L4: Biometric Framework — The HAL Is the Whole Story
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Farhad Sajid Barbhuiya</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Business Logic Flaw — Users Can Manipulate Their Own Subscription Price via Exposed A/B Testing API]]></title>
+        <id>https://medium.com/p/33d75365778c</id>
+        <link href="https://medium.com/@divakarvasani3938/business-logic-flaw-users-can-manipulate-their-own-subscription-price-via-exposed-a-b-testing-api-33d75365778c?source=rss------bugbounty-5"/>
+        <updated>2026-06-06T16:51:43.000Z</updated>
+        <summary type="html"><![CDATA[By Divakar Vasani
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Divakarvasani</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Leaking Production Stripe Promo Codes via Unauthenticated PayloadCMS API — From Information…]]></title>
+        <id>https://medium.com/p/2a5db238bc97</id>
+        <link href="https://medium.com/@divakarvasani3938/leaking-production-stripe-promo-codes-via-unauthenticated-payloadcms-api-from-information-2a5db238bc97?source=rss------bugbounty-5"/>
+        <updated>2026-06-06T16:42:18.000Z</updated>
+        <summary type="html"><![CDATA[By Divakar Vasani
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Divakarvasani</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Winter is Coming：当AI疯王们举起屠刀，弑君者已在路上 - boonya]]></title>
+        <id>https://www.cnblogs.com/boonya/p/20350938</id>
+        <link href="https://www.cnblogs.com/boonya/p/20350938"/>
+        <updated>2026-06-06T15:48:00.000Z</updated>
+        <summary type="html"><![CDATA[铁王座从不是永恒的。当OpenAI与Anthropic疯狂封锁+86、猎杀中文开发者时，它们不知道——真正的“凛冬”，正由那些被它们亲手推开的弑君者带来。 凛冬已至，疯王犹在炉边添野火 《权力的游戏》里，史塔克家族世代传诵一句警言：“Winter is Coming.” 凛冬降临时，长城之外的白鬼会]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ECC安装与配置：把 Claude Code 装进一个能稳定发挥的 Harness - 叫授_pront]]></title>
+        <id>https://www.cnblogs.com/pronting/p/20350905</id>
+        <link href="https://www.cnblogs.com/pronting/p/20350905"/>
+        <updated>2026-06-06T15:36:00.000Z</updated>
+        <summary type="html"><![CDATA[一、从一次&quot;差口气&quot;说起 老陈做了五年前端，最近接了个全栈私活：Python 后端加 React 前端，登录、注册、JWT、邮箱验证，外加一个管理后台。 听起来不大。干起来才发现处处别扭。 本地跑得挺顺的代码，一推到线上就报错。pip install 装出来的版本和 lock 文件对不上，celer]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Threat Hunting with Email Security - LetsDefend]]></title>
+        <id>https://medium.com/p/b4ceb0f077d1</id>
+        <link href="https://medium.com/@firdansp/threat-hunting-with-email-security-letsdefend-b4ceb0f077d1?source=rss------redteam-5"/>
+        <updated>2026-06-06T14:01:02.000Z</updated>
+        <summary type="html"><![CDATA[This write-up is based on a training scenario from LetsDefend and is shared for educational purposes only.
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>0verRida</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[25. AI 总是 “失忆“？3 行代码让它记住你！ - 老陈说编程]]></title>
+        <id>https://www.cnblogs.com/halfcode/p/20349605</id>
+        <link href="https://www.cnblogs.com/halfcode/p/20349605"/>
+        <updated>2026-06-06T11:23:00.000Z</updated>
+        <summary type="html"><![CDATA[你有没有遇到过这种令人抓狂的情况？和 AI 智能体聊了半天，它帮你计算了复杂数据、处理了多个文件，结果你下一句问 &quot;刚才算的结果是多少？&quot;，它却一脸茫然地说 &quot;抱歉，我不记得之前的对话了&quot;。 这就是 AI 最让人头疼的 &quot;先天性失忆症&quot;——默认情况下，所有大模型和智能体都是无状态的。每次 API 调]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Luogu P2801 教主的魔法 题解 - EtherealYz]]></title>
+        <id>https://www.cnblogs.com/Yzu-EtherealYz/p/20349058</id>
+        <link href="https://www.cnblogs.com/Yzu-EtherealYz/p/20349058"/>
+        <updated>2026-06-06T10:25:00.000Z</updated>
+        <summary type="html"><![CDATA[前言 题目传送门 Luogu P2801 教主的魔法 。 好题，将分块的精髓——整块维护，局部暴力——体现得淋漓尽致。 题意 给定 \(n\) 个数，实现以下两种操作： M L R W ，表示将 \([L,R]\) 内每个数加上 \(W\) 。 A L R C ，表示询问 \([L,R]\) 内有多]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[理解 Agent 中的 Slash Command：从概念到自定义命令实践 - SharpCJ]]></title>
+        <id>https://www.cnblogs.com/joy99/p/20348947</id>
+        <link href="https://www.cnblogs.com/joy99/p/20348947"/>
+        <updated>2026-06-06T10:17:00.000Z</updated>
+        <summary type="html"><![CDATA[一、为什么要单独理解 Slash Command 用 Agent 做事时，经常会遇到以 / 开头的输入： /help /new /model /skill markdown-to-wechat-richtext 这类输入就是 Slash Command。 它看起来像一句聊天消息，但本质上更接近“命令]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Network Pusulası #9 — ARP: IP ile MAC Arasındaki Köprü ve Saldırgan İçin Açık Kapı]]></title>
+        <id>https://medium.com/p/b9f111fd1fcc</id>
+        <link href="https://medium.com/@toprakkulekcioglu/network-pusulas%C4%B1-9-arp-ip-ile-mac-aras%C4%B1ndaki-k%C3%B6pr%C3%BC-ve-sald%C4%B1rgan-i%CC%87%C3%A7in-a%C3%A7%C4%B1k-kap%C4%B1-b9f111fd1fcc?source=rss------redteam-5"/>
+        <updated>2026-06-06T10:05:04.000Z</updated>
+        <summary type="html"><![CDATA[Ağda iki tür adresimiz olduğunu öğrendiğimde — IP ve MAC — aklıma bir soru takılı kalmıştı: “Madem IP adresi var, MAC adresine ne gerek…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Toprak Külekçioğlu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[当AI成“棋王父亲”，人类驾驶会沦为“3岁棋手”的奢侈游戏吗？ - patton88]]></title>
+        <id>https://www.cnblogs.com/ybmj/p/20348448</id>
+        <link href="https://www.cnblogs.com/ybmj/p/20348448"/>
+        <updated>2026-06-06T09:29:00.000Z</updated>
+        <summary type="html"><![CDATA[2022年，索尼AI车手GT Sophy在《GT赛车》里，用比人类冠军快2秒的圈速证明：AI已经能在公平竞争中“征服”赛道。就像围棋国手古力9岁时赢了父亲古巨山，从此父亲的角色从“对手”变成“陪练”——未来的AI，或许就是那个永远比人类强的“棋王父亲”。而这个“超越时刻”，可能比我们想象的更近。 一]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI时代一届计算机学生本科生 四年生活 保研记录: 四非本科 -> 中流985 - xuhe2]]></title>
+        <id>https://www.cnblogs.com/xuhe2/p/20344555</id>
+        <link href="https://www.cnblogs.com/xuhe2/p/20344555"/>
+        <updated>2026-06-06T08:58:00.000Z</updated>
+        <summary type="html"><![CDATA[谨以此篇Blog记录我的大学四年生活. 我们这一届学生是刚好大一的时候ChatGPT开始出名, 然后AI快速发展, 到现在快毕业了, Claude都厉害成这个样子了 一个南方四非计算机学生的记录, 较多踩坑, 少量信息差. 即使是这样卷也没有看到所谓的光明未来, 研究生完全不一定是我需要的, 只是本]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[基于 superpowers 实现复杂前端改造 - 袋鼠云数栈前端]]></title>
+        <id>https://www.cnblogs.com/dtux/p/20346706</id>
+        <link href="https://www.cnblogs.com/dtux/p/20346706"/>
+        <updated>2026-06-06T08:19:00.000Z</updated>
+        <summary type="html"><![CDATA[superpower 是开源社区非常出名的 harness 框架， 我们在本文通过数栈产品 easyIndex 的复杂需求实现来探究 superpower 的价值。]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[莫比乌斯反演学习笔记 - Billlly]]></title>
+        <id>https://www.cnblogs.com/CR-J/p/20345764</id>
+        <link href="https://www.cnblogs.com/CR-J/p/20345764"/>
+        <updated>2026-06-06T07:38:00.000Z</updated>
+        <summary type="html"><![CDATA[莫比乌斯反演 学习笔记 因为在 NDPC 中发现自己并不会莫比乌斯反演于是来学习了 目录莫比乌斯反演 学习笔记积性函数常见的积性函数狄利克雷卷积莫比乌斯反演求解莫比乌斯函数例题互质数对个数朴素做法反演做法优化：整除分块YY的GCD推导过程NDPC_L - LCM题意做法复杂度代码实现更进一步！ 积性]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[数据库查询优化器<1>查询重写 / 逻辑优化 - aixueforever]]></title>
+        <id>https://www.cnblogs.com/aslanvon/p/20343374</id>
+        <link href="https://www.cnblogs.com/aslanvon/p/20343374"/>
+        <updated>2026-06-06T06:10:00.000Z</updated>
+        <summary type="html"><![CDATA[前置知识 语法树 AST 是 Abstract Syntax Tree，中文通常叫 抽象语法树。 在数据库里，用户写的 SQL 文本会先经过词法分析和语法分析，被转换成一种树形结构，这棵树就是 AST。它描述的是 SQL 的语法结构，而不是最终怎么执行。 例如 SQL： SELECT name, a]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[4.9 Million Attacks in 30 Days: What a Distributed Honeypot Taught Me]]></title>
+        <id>https://medium.com/p/d75879fd0c58</id>
+        <link href="https://medium.com/@patpratt2/4-9-million-attacks-in-30-days-what-a-distributed-honeypot-taught-me-d75879fd0c58?source=rss------redteam-5"/>
+        <updated>2026-06-06T05:08:11.000Z</updated>
+        <summary type="html"><![CDATA[For 30 days I left two deliberately vulnerable servers exposed on the open internet one in London, one in Bangalore and recorded…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>shinzo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[15天学会AI应用开发（四）根据Token长度截断历史对话 - aqi00]]></title>
+        <id>https://www.cnblogs.com/aqi00/p/20342058</id>
+        <link href="https://www.cnblogs.com/aqi00/p/20342058"/>
+        <updated>2026-06-06T04:11:00.000Z</updated>
+        <summary type="html"><![CDATA[​上一篇文章说到按照消息数量来截断历史对话，这种方式有个问题，就是每次对话的内容可长可短，导致固定消息数量的对话内容忽长忽短。 历史对话内容不光要存入数据库，还要作为初始提示词发给下次新会话的大模型。太长的提示词不仅冗余，还会消耗大量Token，让用户钱包快速缩水。太短的提示词容纳的信息量不足，难以]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Luogu P11721 题解 - hnczy]]></title>
         <id>https://www.cnblogs.com/hnczy/p/20340859</id>
