@@ -6,6 +6,26 @@
       "siteUrl": "http://h1.nobbd.de/",
       "articles": [
         {
+          "id": "https://hackerone.com/reports/3785919",
+          "author": null,
+          "description": "curl disclosed a bug submitted by torkd1: https://hackerone.com/reports/3785919",
+          "link": "https://hackerone.com/reports/3785919",
+          "publishedOn": "2026-06-08T06:30:49.000Z",
+          "wordCount": 25,
+          "title": "libcurl: HTTP/1.x bare LF byte in response header value enables cookie jar pollution and POST body/credential exfiltration via redirect  RC=0, curl 8",
+          "imageUrl": "https://profile-photos.hackerone-user-content.com/variants/000/035/663/2faf4c279d437d64bfda6d23d62ce1833813a4d9_original.png/d6d8259739a2a4d509639b7804214d057bca547cc3fafe509ec3e3a86321b1d1"
+        },
+        {
+          "id": "https://hackerone.com/reports/3780733",
+          "author": null,
+          "description": "curl disclosed a bug submitted by maxhearnden: https://hackerone.com/reports/3780733",
+          "link": "https://hackerone.com/reports/3780733",
+          "publishedOn": "2026-06-08T06:30:36.000Z",
+          "wordCount": 25,
+          "title": "DNS domain search list followed for extant domain missing A or AAAA records",
+          "imageUrl": "https://profile-photos.hackerone-user-content.com/variants/000/035/663/2faf4c279d437d64bfda6d23d62ce1833813a4d9_original.png/d6d8259739a2a4d509639b7804214d057bca547cc3fafe509ec3e3a86321b1d1"
+        },
+        {
           "id": "https://hackerone.com/reports/3781305",
           "author": null,
           "description": "curl disclosed a bug submitted by awofjawofjfawf: https://hackerone.com/reports/3781305",
@@ -1480,6 +1500,106 @@
       "siteUrl": "https://medium.com/tag/bugbounty/latest?source=rss------bugbounty-5",
       "articles": [
         {
+          "id": "https://medium.com/p/4d621ca06a89",
+          "author": "Decline",
+          "description": "No complex setups. No secret tools. Just you and your browser.\nContinue reading on Medium »",
+          "link": "https://medium.com/@bughunting/api-hacking-sounds-scary-until-you-realize-its-just-changing-numbers-4d621ca06a89?source=rss------bugbounty-5",
+          "publishedOn": "2026-06-09T04:03:40.000Z",
+          "wordCount": null,
+          "title": "API Hacking Sounds Scary Until You Realize It’s Just Changing Numbers",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/7894df815109",
+          "author": "mrx_w_",
+          "description": "Hi, I’m mrx_w_ (Adem Ziane Berroudja), a bug bounty hunter on Bugcrowd. You can find me on Twitter and LinkedIn under mrx_w_ .In this…\nContinue reading on Medium »",
+          "link": "https://medium.com/@mrx_w_/how-i-discovered-23-000-leaked-records-through-google-dorking-7894df815109?source=rss------bugbounty-5",
+          "publishedOn": "2026-06-09T00:22:55.000Z",
+          "wordCount": null,
+          "title": "How I Discovered 23,000+ Leaked Records Through Google Dorking",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/1908ca07f2a9",
+          "author": "Raccoon",
+          "description": "Hello Raccoonians,\nContinue reading on Medium »",
+          "link": "https://medium.com/@0xRaccoon/broken-access-control-leads-to-delete-any-users-comment-1908ca07f2a9?source=rss------bugbounty-5",
+          "publishedOn": "2026-06-08T21:34:23.000Z",
+          "wordCount": null,
+          "title": "Broken Access Control leads to delete any user’s comment",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/dcdd6d821eb3",
+          "author": "0xlumi",
+          "description": "Hey hey : )\nContinue reading on Medium »",
+          "link": "https://medium.com/@obafemipelumi2003/when-the-frontend-lies-simple-business-logic-and-access-control-bug-dcdd6d821eb3?source=rss------bugbounty-5",
+          "publishedOn": "2026-06-08T21:19:09.000Z",
+          "wordCount": null,
+          "title": "When the Frontend Lies: Simple Business Logic and Access Control Bug",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/55e23758975e",
+          "author": "Raccoon",
+          "description": "Hello raccoonians,\nContinue reading on Medium »",
+          "link": "https://medium.com/@0xRaccoon/how-i-found-race-conditions-leading-to-premium-subscribtion-bypass-via-concurrent-user-addition-55e23758975e?source=rss------bugbounty-5",
+          "publishedOn": "2026-06-08T20:29:23.000Z",
+          "wordCount": null,
+          "title": "How i found race conditions leading to premium subscribtion bypass via concurrent user addition",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/8b865b8d38f6",
+          "author": "Alexander Pym Atà Allison",
+          "description": "Continue reading on Medium »",
+          "link": "https://apallison.medium.com/the-7-billion-bug-and-the-pim-protocol-answer-8b865b8d38f6?source=rss------bugbounty-5",
+          "publishedOn": "2026-06-08T20:05:58.000Z",
+          "wordCount": null,
+          "title": "The $7 Billion Bug\nand the Pim Protocol Answer",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/ea675de83861",
+          "author": "httpzuz",
+          "description": "Hey Guys and Welcome Back 👋\nContinue reading on Medium »",
+          "link": "https://medium.com/@mahmodziad40/how-i-forced-a-b-experiments-on-any-user-via-an-unauthenticated-endpoint-missing-auth-ea675de83861?source=rss------bugbounty-5",
+          "publishedOn": "2026-06-08T19:56:38.000Z",
+          "wordCount": null,
+          "title": "How I Forced A/B Experiments on Any User via an Unauthenticated Endpoint (Missing Auth)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/05d709f3e766",
+          "author": "Davi Moura",
+          "description": "Welcome to Part 2. If you haven’t read Part 1 yet, start there : LINK\nContinue reading on Medium »",
+          "link": "https://medium.com/@davimouar/tap-to-exploit-analyzing-and-manipulating-mastercard-contactless-transactions-part-2-05d709f3e766?source=rss------bugbounty-5",
+          "publishedOn": "2026-06-08T18:55:23.000Z",
+          "wordCount": null,
+          "title": "Tap to Exploit: Analyzing and Manipulating Mastercard Contactless Transactions (Part 2)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/732c124fb7b4",
+          "author": "Davi Moura",
+          "description": "1. Introduction\nContinue reading on Medium »",
+          "link": "https://medium.com/@davimouar/tap-to-exploit-analyzing-and-manipulating-mastercard-contactless-transactions-part-1-732c124fb7b4?source=rss------bugbounty-5",
+          "publishedOn": "2026-06-08T18:54:21.000Z",
+          "wordCount": null,
+          "title": "Tap to Exploit: Analyzing and Manipulating Mastercard Contactless Transactions (Part 1)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/6d80ee383e50",
+          "author": "cyber security",
+          "description": "The hunter who collects the most URLs doesn’t win. The hunter who collects URLs nobody else has — wins.Every tool in this article has been…\nContinue reading on Medium »",
+          "link": "https://medium.com/@tanvir.infosec/the-advanced-url-enumeration-guide-for-recon-in-2026-6d80ee383e50?source=rss------bugbounty-5",
+          "publishedOn": "2026-06-08T18:18:06.000Z",
+          "wordCount": null,
+          "title": "The Advanced URL Enumeration Guide for Recon in 2026",
+          "imageUrl": null
+        },
+        {
           "id": "https://medium.com/p/d14c759836e0",
           "author": "Hacker MD",
           "description": "Series: Web3 Security Zero se Advance 🛡️ | Article #12\nBy HackerMD | 25 min read\nContinue reading on Medium »",
@@ -1966,6 +2086,46 @@
       "feedUrl": "https://medium.com/feed/tag/redteam",
       "siteUrl": "https://medium.com/tag/redteam/latest?source=rss------redteam-5",
       "articles": [
+        {
+          "id": "https://medium.com/p/7894df815109",
+          "author": "mrx_w_",
+          "description": "Hi, I’m mrx_w_ (Adem Ziane Berroudja), a bug bounty hunter on Bugcrowd. You can find me on Twitter and LinkedIn under mrx_w_ .In this…\nContinue reading on Medium »",
+          "link": "https://medium.com/@mrx_w_/how-i-discovered-23-000-leaked-records-through-google-dorking-7894df815109?source=rss------redteam-5",
+          "publishedOn": "2026-06-09T00:22:55.000Z",
+          "wordCount": null,
+          "title": "How I Discovered 23,000+ Leaked Records Through Google Dorking",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/bf914b423c6d",
+          "author": "Kazi Sabbir",
+          "description": "The most advanced firewall in the world cannot stop a well-crafted phishing email that makes someone panic.\nContinue reading on Medium »",
+          "link": "https://medium.com/@kazixabbir/social-engineering-cheat-sheet-how-hackers-exploit-human-emotions-to-bypass-every-security-control-bf914b423c6d?source=rss------redteam-5",
+          "publishedOn": "2026-06-08T13:12:44.000Z",
+          "wordCount": null,
+          "title": "Social Engineering Cheat Sheet: How Hackers Exploit Human Emotions to Bypass Every Security Control…",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/f295734cd136",
+          "author": "Dharanis",
+          "description": "1. Overview\nContinue reading on Medium »",
+          "link": "https://medium.com/@dhxrxx/cve-2024-10914-d-link-nas-unauthenticated-command-injection-root-shell-f295734cd136?source=rss------redteam-5",
+          "publishedOn": "2026-06-08T05:54:04.000Z",
+          "wordCount": null,
+          "title": "CVE-2024–10914\nD-Link NAS: Unauthenticated\nCommand Injection → Root Shell",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/befec12ff8a6",
+          "author": "Viral Vaghela",
+          "description": "If you spend five minutes on tech Twitter or LinkedIn right now, you’d think securing AI agents requires an entirely new branch of…\nContinue reading on Medium »",
+          "link": "https://vaghelaviral.medium.com/stop-treating-ai-security-like-a-mystery-why-agentic-bugs-are-just-90s-web-vulns-in-disguise-befec12ff8a6?source=rss------redteam-5",
+          "publishedOn": "2026-06-08T05:48:58.000Z",
+          "wordCount": null,
+          "title": "Stop Treating AI Security Like a Mystery: Why Agentic Bugs are Just 90s Web Vulns in Disguise",
+          "imageUrl": null
+        },
         {
           "id": "https://medium.com/p/55b649067ec8",
           "author": "idk",
@@ -3569,6 +3729,206 @@
       "siteUrl": null,
       "articles": [
         {
+          "id": "https://www.cnblogs.com/uniqueDong/p/20396078",
+          "author": null,
+          "description": "有一件事我直到用了 Claude Code 三个月才搞清楚—— 它的上下文窗口是 200K tokens，但这个数字在大型代码库里根本撑不了多久。 粗略换算：一个普通 Java 服务文件大约 200-500 行，按每行 10 个 token 计算，200K tokens 大约能容纳 400-1000",
+          "link": "https://www.cnblogs.com/uniqueDong/p/20396078",
+          "publishedOn": "2026-06-09T04:11:00.000Z",
+          "wordCount": 1252,
+          "title": "用 Claude Code 写了半年大型项目，这 10 个坑踩完才知道怎么用对 - 码哥字节",
+          "imageUrl": "https://img2024.cnblogs.com/blog/735767/202605/735767-20260526114014236-744639895.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/accordion/p/20395101",
+          "author": null,
+          "description": "1. 先区分两个概念：多头和多层 Multi-Head Attention 和多层 Transformer Block 不是一回事。 一句话区分： Multi-Head Attention：同一层里，多个 attention head 并行看上下文。 多层 Transformer Block：很多层",
+          "link": "https://www.cnblogs.com/accordion/p/20395101",
+          "publishedOn": "2026-06-09T03:42:00.000Z",
+          "wordCount": 1947,
+          "title": "微调LLM前你需要了解的一些概念2--多头注意力机制 - royalrover",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/juziyu/p/20394417",
+          "author": null,
+          "description": ".NET 是一个开源、跨平台的开发平台，运行稳定，资源消耗低，AOT 编译进一步降低了交付体积。本文基于 .NET 10 实现一个零配置的热重载服务器，核心代码不到 50 行。 依赖安装：dotnet add package PicoServer NuGet：https://www.nuget.or",
+          "link": "https://www.cnblogs.com/juziyu/p/20394417",
+          "publishedOn": "2026-06-09T03:29:00.000Z",
+          "wordCount": 646,
+          "title": "C# 实现优雅的热重载：基于 PicoServer 的 Live Reload 方案 - 桔子雨",
+          "imageUrl": "https://img2024.cnblogs.com/blog/2807317/202606/2807317-20260609112755624-1604598221.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/Goblinscholar/p/20393375",
+          "author": null,
+          "description": "上一篇我们介绍了 KV Cache：它把每一步重复的 K、V 计算存进缓存，让自回归推理的计算量骤降。 但这个加速不是没有代价的。KV Cache 的大小正比于多项参数，因此又反过来推动了注意力结构本身的改进。 这便是本篇内容：分组查询注意力（Grouped-Query Attention，GQA）",
+          "link": "https://www.cnblogs.com/Goblinscholar/p/20393375",
+          "publishedOn": "2026-06-09T03:10:00.000Z",
+          "wordCount": 841,
+          "title": "深度学习进阶（二十九）现代 LLM 的核心架构设计其四：GQA - 哥布林学者",
+          "imageUrl": "https://img2024.cnblogs.com/blog/3708248/202606/3708248-20260609110841720-1456140677.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/newbe36524/p/20393164",
+          "author": null,
+          "description": "从零开始：如何将 Reasonix CLI 集成到 HagiCode 系统中 本文分享了将 Reasonix CLI 作为一等 Agent Provider 集成到 HagiCode 系统的完整技术实践，涵盖三层架构设计、关键技术决策和前后端实现细节。 背景 Reasonix CLI，说起来也是个挺",
+          "link": "https://www.cnblogs.com/newbe36524/p/20393164",
+          "publishedOn": "2026-06-09T03:01:00.000Z",
+          "wordCount": null,
+          "title": "从零开始：如何将 Reasonix CLI 集成到 HagiCode 系统中 - Newbe36524",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cnblogs.com/gegeblog/p/20393096",
+          "author": null,
+          "description": "你是否曾幻想过，只用一个自然语言指令，AI就能帮你完成从需求分析到代码提交的整个开发流程？现在，这个幻想正通过MonkeyCode变为现实。  什么是MonkeyCode？ MonkeyCode是由长亭科技推出的企业级在线AI开发平台，已在GitHub上获得3.2k Star。它不仅仅是一个代码",
+          "link": "https://www.cnblogs.com/gegeblog/p/20393096",
+          "publishedOn": "2026-06-09T02:58:00.000Z",
+          "wordCount": 547,
+          "title": "MonkeyCode：长亭开源的企业级AI开发平台，GitHub 3.2k Star！ - 半页の时光",
+          "imageUrl": "https://img2024.cnblogs.com/blog/3418714/202606/3418714-20260609105758833-2024315963.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/token-ai/p/20392986",
+          "author": null,
+          "description": "本文基于 2026-06-09 对 OpenDeepWiki 与 AIDotNet/Means 生成页 的一次源码与页面抽检。样本里的生成配置是：目录由 gpt-5.5 生成，正文由 Mimo-2.5 生成；Mimo 侧累计消费约 1.3B token，总成本约 39 RMB，折算约 0.03 RM",
+          "link": "https://www.cnblogs.com/token-ai/p/20392986",
+          "publishedOn": "2026-06-09T02:55:00.000Z",
+          "wordCount": 687,
+          "title": "用 39 元跑出 1.3B token 的代码知识库：OpenDeepWiki 最新 wiki 质量抽检 - 239573049",
+          "imageUrl": "https://img2024.cnblogs.com/blog/3578564/202606/3578564-20260609105347069-1858723223.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/ulricqin/p/20392039",
+          "author": null,
+          "description": "做过 on-call 的人都熟悉这几个瞬间： 半夜被一条告警吵醒，盯着手机想&quot;这到底是真的挂了，还是又误报了&quot;，爬起来开电脑、翻指标、看邻居机器，二十分钟过去，结论是&quot;虚惊一场&quot;。 新接了一个业务，要给上百台机器配一套监控，PromQL、阈值、持续时间、通知规则一项项点，一两个小时就没了。 新人来值",
+          "link": "https://www.cnblogs.com/ulricqin/p/20392039",
+          "publishedOn": "2026-06-09T02:33:00.000Z",
+          "wordCount": null,
+          "title": "开源夜莺 v9 AI 尝鲜版：给每个 SRE 配一个 7x24 在线的资深副驾驶 - IT运维监控",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cnblogs.com/houleixx/p/20391788/ccglass",
+          "author": null,
+          "description": "这两年，AI 编程工具的进化速度非常快。 从最早的代码补全，到现在的 Claude Code、Codex、Cursor、Cline、OpenCode，各类 Agent 已经不只是“帮你写一段函数”了。它们可以读项目、改代码、跑命令、调用工具、分析报错，甚至连续执行一整套开发任务。 这当然很爽。 但问",
+          "link": "https://www.cnblogs.com/houleixx/p/20391788/ccglass",
+          "publishedOn": "2026-06-09T02:29:00.000Z",
+          "wordCount": 896,
+          "title": "AI 编程 Agent 不是黑箱了：用 ccglass 看清 Claude Code 和 Codex 的真实请求 - 侯垒",
+          "imageUrl": "https://img2024.cnblogs.com/blog/24951/202606/24951-20260609102543383-904959298.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/MeteorSeed/p/20355988",
+          "author": null,
+          "description": "出色的开发工作有着一套固定节奏：构思、尝试、检查、调整。本月的 Visual Studio 更新便贴合了这套开发节奏。无论您是在修改任何文件前借助 Plan Agent 拟定开发思路，评审多个文件的改动内容，还是精细调校 Copilot 的工作上下文，五月版本更新在从想法落地到修改定稿的过程中增设了",
+          "link": "https://www.cnblogs.com/MeteorSeed/p/20355988",
+          "publishedOn": "2026-06-09T01:37:00.000Z",
+          "wordCount": 489,
+          "title": "【译】Visual Studio 五月更新 —— 计划、评审、优化 - MeteorSeed",
+          "imageUrl": "https://img2024.cnblogs.com/blog/270073/202605/270073-20260525141542679-310797037.webp"
+        },
+        {
+          "id": "https://www.cnblogs.com/ai-old-six/p/20389523",
+          "author": null,
+          "description": "把判断留给 Skill、把鉴权与执行收敛到 CLI，经验才会从文档沉淀成稳定交付链路。 原文链接：AI小老六 导语 团队里经常会出现一种很尴尬的能力：大家都知道这件事怎么做，也有人能把它讲清楚，可它始终停留在&quot;得找熟人问&quot;&quot;得翻上次会话记录&quot;这种状态。看上去经验很多，真正能稳定复用的却不多。 在 A",
+          "link": "https://www.cnblogs.com/ai-old-six/p/20389523",
+          "publishedOn": "2026-06-09T01:20:00.000Z",
+          "wordCount": 542,
+          "title": "Agent 工具链工程化： Skill 负责编排判断，CLI 稳定交付的执行边界 - AI小老六",
+          "imageUrl": "https://img2024.cnblogs.com/blog/3798513/202606/3798513-20260609092010376-324858352.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/artech/p/20388547/chat-client-pipeline-05",
+          "author": null,
+          "description": "调用`IChatClient`的`GetResponseAsync`或者`GetStreamingResponseAsync`方法时，我们通常会传入一个`ChatOptions`对象来控制运行行为。`ConfigureOptionsChatClient`利用指定的委托对象来动态设置`ChatOpti...",
+          "link": "https://www.cnblogs.com/artech/p/20388547/chat-client-pipeline-05",
+          "publishedOn": "2026-06-09T00:53:00.000Z",
+          "wordCount": 773,
+          "title": "[MAF预定义ChatClient中间件-05]动态修改ChatOptions和请求消息 - Artech",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/xiezhr/p/20387832",
+          "author": null,
+          "description": "Codex简介 AI时代真的风水轮流转，前段时间最火的还是Claude Code,转眼间Codex就火得一塌糊涂。 Codex是由OpenAI 推出的AI智能体。 起初呢主要用于编程开发，后面慢慢进化成了通用智能体。界面和操作对于小白来说可谓是非常友好。 它不仅能回答问题，编写代码，还能读取电脑本地",
+          "link": "https://www.cnblogs.com/xiezhr/p/20387832",
+          "publishedOn": "2026-06-09T00:01:00.000Z",
+          "wordCount": 644,
+          "title": "折腾了一下午，终于让Codex用上了DeepSeek - 程序员晓凡",
+          "imageUrl": "https://img2024.cnblogs.com/blog/2381533/202606/2381533-20260609080001787-442211494.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/shenchuanchao/p/20368616/ef-core-8-sql-server-contains-with-syntax-error-guide",
+          "author": null,
+          "description": "升级到 EF Core 8 后，原本文能正常运行的 Contains 查询可能因生成 CTE 语法且缺少前置分号，而触发 SQL Server 错误（错误号 156）。这是 EF Core 8 有意引入的重大变更。为此，文章推荐使用参数化 Raw SQL、FindAsync 或内存过滤作为解决方案；...",
+          "link": "https://www.cnblogs.com/shenchuanchao/p/20368616/ef-core-8-sql-server-contains-with-syntax-error-guide",
+          "publishedOn": "2026-06-08T23:57:00.000Z",
+          "wordCount": 1103,
+          "title": "EF Core 8 + SQL Server：Contains() 突然报 \"关键字 WITH 附近有语法错误\"？一篇避坑指南 - 码农刚子",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/znlgis/p/20387402",
+          "author": null,
+          "description": "开篇：GIS 的&quot;数据富矿&quot;与&quot;效率洼地&quot; 地理信息系统（GIS）是技术领域一个独特的存在。它的数据来源横跨卫星遥感、无人机航拍、激光雷达、物联网传感器、政府普查和众包采集，数据量以 PB 计，更新频率从年度到实时不等。它处理的不是抽象的数字，而是带有空间坐标的、与真实世界一一对应的信息——每一栋建",
+          "link": "https://www.cnblogs.com/znlgis/p/20387402",
+          "publishedOn": "2026-06-08T22:54:00.000Z",
+          "wordCount": 569,
+          "title": "当 GIS 遇见 AI - 我才是银古",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/firefly-star/p/20386283",
+          "author": null,
+          "description": "Pwn 时间跳跃 先用ida看看 普通的菜单题，第一个这个比较的是字符的1234，所以输字符，输入2有栈溢出，打ret2libc即可。exp如下： #!/usr/bin/env python3 from pwn import * import sys from ctypes import * #fr",
+          "link": "https://www.cnblogs.com/firefly-star/p/20386283",
+          "publishedOn": "2026-06-08T17:20:00.000Z",
+          "wordCount": 1339,
+          "title": "第二届“星途杯”网络安全竞赛pwn全解及第一道ai的wp - firefly_star",
+          "imageUrl": "https://img2024.cnblogs.com/blog/3728044/202606/3728044-20260609011416835-684255067.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/fanliang11/p/20385768",
+          "author": null,
+          "description": "在AI与微服务深度融合的开发场景中，传统智能体组件普遍存在对接方式单一、工具扩展困难、微服务适配性差、知识体系零散等问题，难以适配企业级复杂研发流程。基于云驿插件平台构建的AI Agent组件（开发助手智能体 AgentForge），打造了一套轻量化、高兼容、可扩展的智能开发解决方案，既支持本地工具",
+          "link": "https://www.cnblogs.com/fanliang11/p/20385768",
+          "publishedOn": "2026-06-08T15:45:00.000Z",
+          "wordCount": 343,
+          "title": "AgentForge 智能体组件：与云驿插件平台构建全生态化的微服务一体化智能开发引擎 - fanly11",
+          "imageUrl": "https://img2024.cnblogs.com/blog/192878/202606/192878-20260608232549650-1551255280.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/xifenfei/p/20385714",
+          "author": null,
+          "description": "有硬件恢复圈朋友找到我,说硬件恢复之后dbv报dbv-00102错误,让我给看看是否可以处理 这个是oracle dbv中一种常见错误,一般是由于block 0 不对,或者是由于文件大小不对引起,让把恢复文件发给我,进行检查 SQL&gt; select name,bytes/1024/1024/1024",
+          "link": "https://www.cnblogs.com/xifenfei/p/20385714",
+          "publishedOn": "2026-06-08T15:28:00.000Z",
+          "wordCount": null,
+          "title": "硬件故障后数据文件大小不对故障处理—Oracle碎片扫描恢复 - 惜分飞",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cnblogs.com/jarryli/p/20385539",
+          "author": null,
+          "description": "DDD 领域驱动设计思想原理 本文聚焦 DDD 的思想内核与分层框架，主要在于搞清楚&quot;DDD理论原理是什么？&quot; 、&quot;DDD 为什么这样设计？“ 一、DDD 想解决的核心问题 领域驱动设计（Domain-Driven Design，DDD）由 Eric Evans 于 2003 年在同名著作中系统提出",
+          "link": "https://www.cnblogs.com/jarryli/p/20385539",
+          "publishedOn": "2026-06-08T14:45:00.000Z",
+          "wordCount": 2214,
+          "title": "一文搞懂DDD 领域驱动设计思想原理 - 刀法如飞",
+          "imageUrl": "https://img2024.cnblogs.com/blog/2285565/202606/2285565-20260608231435883-772573120.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/rockey627/p/20385305",
+          "author": null,
+          "description": "说到执行动态脚本，大多使用Lua、Python、JS等语言，为什么没有SQL动态脚本语言呢？现在它来了！ AScript是一个开源的C#动态脚本解析执行引擎，支持扩展多种脚本语言，2026年6月8日正式发布了SQL脚本语言AScript.Lang.Sql，快来试试吧！ 一、介绍 支持SqlServe",
+          "link": "https://www.cnblogs.com/rockey627/p/20385305",
+          "publishedOn": "2026-06-08T13:57:00.000Z",
+          "wordCount": 1570,
+          "title": "基于AScript的SQL脚本语言发布啦！ - rockey627",
+          "imageUrl": "https://img2024.cnblogs.com/blog/417450/202606/417450-20260608215659060-1614956253.png"
+        },
+        {
           "id": "https://www.cnblogs.com/egodprime/p/20371718",
           "author": null,
           "description": "当Agent决定“改造环境”：记一次因弱模型作弊导致的实验数据全零事件 故事背景 最近有一篇论文在做实验，发现了一个很有趣的实验现象，那就是我的最弱的模型所在的对照组，其中最复杂的测试对象——PaddlePaddle库总是所有数据都是0。 这篇论文的一个核心任务是让大模型针对某一个被测Python库",
@@ -4884,6 +5244,26 @@
       "feedUrl": "http://h1.nobbd.de/reports_rss.xml",
       "siteUrl": "http://h1.nobbd.de/",
       "articles": [
+        {
+          "id": "https://hackerone.com/reports/3785919",
+          "author": null,
+          "description": "curl disclosed a bug submitted by torkd1: https://hackerone.com/reports/3785919",
+          "link": "https://hackerone.com/reports/3785919",
+          "publishedOn": "2026-06-08T06:30:49.000Z",
+          "wordCount": 25,
+          "title": "libcurl: HTTP/1.x bare LF byte in response header value enables cookie jar pollution and POST body/credential exfiltration via redirect  RC=0, curl 8",
+          "imageUrl": "https://profile-photos.hackerone-user-content.com/variants/000/035/663/2faf4c279d437d64bfda6d23d62ce1833813a4d9_original.png/d6d8259739a2a4d509639b7804214d057bca547cc3fafe509ec3e3a86321b1d1"
+        },
+        {
+          "id": "https://hackerone.com/reports/3780733",
+          "author": null,
+          "description": "curl disclosed a bug submitted by maxhearnden: https://hackerone.com/reports/3780733",
+          "link": "https://hackerone.com/reports/3780733",
+          "publishedOn": "2026-06-08T06:30:36.000Z",
+          "wordCount": 25,
+          "title": "DNS domain search list followed for extant domain missing A or AAAA records",
+          "imageUrl": "https://profile-photos.hackerone-user-content.com/variants/000/035/663/2faf4c279d437d64bfda6d23d62ce1833813a4d9_original.png/d6d8259739a2a4d509639b7804214d057bca547cc3fafe509ec3e3a86321b1d1"
+        },
         {
           "id": "https://hackerone.com/reports/3781305",
           "author": null,
