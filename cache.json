@@ -6,6 +6,36 @@
       "siteUrl": "http://h1.nobbd.de/",
       "articles": [
         {
+          "id": "https://hackerone.com/reports/3788506",
+          "author": null,
+          "description": "curl disclosed a bug submitted by byteray_ltd: https://hackerone.com/reports/3788506",
+          "link": "https://hackerone.com/reports/3788506",
+          "publishedOn": "2026-06-09T06:30:39.000Z",
+          "wordCount": 25,
+          "title": "SSH/SFTP connection reuse can bypass SSH key identity after ssh_config_matches removal",
+          "imageUrl": "https://profile-photos.hackerone-user-content.com/variants/000/035/663/2faf4c279d437d64bfda6d23d62ce1833813a4d9_original.png/d6d8259739a2a4d509639b7804214d057bca547cc3fafe509ec3e3a86321b1d1"
+        },
+        {
+          "id": "https://hackerone.com/reports/3786077",
+          "author": null,
+          "description": "curl disclosed a bug submitted by kalfkinen: https://hackerone.com/reports/3786077",
+          "link": "https://hackerone.com/reports/3786077",
+          "publishedOn": "2026-06-09T06:30:23.000Z",
+          "wordCount": 25,
+          "title": "SOCKS5 no-auth accepted despite username/password-only authentication",
+          "imageUrl": "https://profile-photos.hackerone-user-content.com/variants/000/035/663/2faf4c279d437d64bfda6d23d62ce1833813a4d9_original.png/d6d8259739a2a4d509639b7804214d057bca547cc3fafe509ec3e3a86321b1d1"
+        },
+        {
+          "id": "https://hackerone.com/reports/2389431",
+          "author": null,
+          "description": "Ruby on Rails disclosed a bug submitted by ooooooo_q: https://hackerone.com/reports/2389431",
+          "link": "https://hackerone.com/reports/2389431",
+          "publishedOn": "2026-06-09T04:37:55.000Z",
+          "wordCount": 25,
+          "title": "Action Text ReDoS (Ruby 3.1  or lower)",
+          "imageUrl": "https://profile-photos.hackerone-user-content.com/variants/000/000/022/5e2b46658c8b86bed62f574d8e1793f353cbbc63_original.png/d6d8259739a2a4d509639b7804214d057bca547cc3fafe509ec3e3a86321b1d1"
+        },
+        {
           "id": "https://hackerone.com/reports/3785919",
           "author": null,
           "description": "curl disclosed a bug submitted by torkd1: https://hackerone.com/reports/3785919",
@@ -1163,6 +1193,96 @@
       "siteUrl": "https://infosecwriteups.com?source=rss----7b722bfd1b8d---4",
       "articles": [
         {
+          "id": "https://medium.com/p/6d68ab7f9b7a",
+          "author": "DeepCodeX",
+          "description": "",
+          "link": "https://infosecwriteups.com/zero-click-ip-leak-in-a-privacy-search-engine-indirect-prompt-injection-silent-patching-6d68ab7f9b7a?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2026-06-09T08:53:12.000Z",
+          "wordCount": null,
+          "title": "Zero-Click IP Leak in a Privacy Search Engine: Indirect Prompt Injection & Silent Patching",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/65c631272d58",
+          "author": "Loay Salah",
+          "description": "",
+          "link": "https://infosecwriteups.com/solardisruption-lab-writeup-cyberdefenders-65c631272d58?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2026-06-09T08:48:00.000Z",
+          "wordCount": null,
+          "title": "SolarDisruption Lab Writeup (CyberDefenders)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/9c84daa0d953",
+          "author": "Loay Salah",
+          "description": "",
+          "link": "https://infosecwriteups.com/raining-dinosaurs-storm-2603-lab-writeup-cyberdefenders-9c84daa0d953?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2026-06-09T08:47:19.000Z",
+          "wordCount": null,
+          "title": "Raining Dinosaurs  —  Storm-2603 Lab Writeup [CyberDefenders]",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/c788db767598",
+          "author": "ReFang",
+          "description": "",
+          "link": "https://infosecwriteups.com/i-found-the-entire-admin-ui-of-a-live-platformjust-by-tweaking-traffic-in-burp-suite-c788db767598?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2026-06-09T08:46:28.000Z",
+          "wordCount": null,
+          "title": "I Found the Entire Admin UI of a Live PlatformJust By Tweaking Traffic in Burp Suite",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/9c11f35cbcd6",
+          "author": "Suraj Apar",
+          "description": "",
+          "link": "https://infosecwriteups.com/host-network-penetration-testing-system-host-based-attacks-ctf-2-ejpt-ine-9c11f35cbcd6?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2026-06-09T08:45:36.000Z",
+          "wordCount": null,
+          "title": "Host & Network Penetration Testing: System-Host Based Attacks CTF 2 — eJPT (INE)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/a0635b2f3997",
+          "author": "Abhishek meena",
+          "description": "A small GraphQL behavior created a very real availability problem.\nContinue reading on InfoSec Write-ups »",
+          "link": "https://infosecwriteups.com/how-graphql-mutation-aliasing-led-to-a-12-500-dos-bug-in-hackerones-account-recovery-flow-a0635b2f3997?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2026-06-09T08:45:17.000Z",
+          "wordCount": null,
+          "title": "How GraphQL Mutation Aliasing Led to a $12,500 DoS Bug in HackerOne’s Account Recovery Flow",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/f091269b9fec",
+          "author": "LordofHeaven",
+          "description": "",
+          "link": "https://infosecwriteups.com/sql-injection-in-password-reset-full-database-one-email-f091269b9fec?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2026-06-09T08:42:43.000Z",
+          "wordCount": null,
+          "title": "SQL Injection in Password Reset: Full Database, One Email",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/10ddfb745ced",
+          "author": "Loay Salah",
+          "description": "",
+          "link": "https://infosecwriteups.com/lfi-escalation-lab-writeup-cyberdefenders-10ddfb745ced?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2026-06-09T08:42:13.000Z",
+          "wordCount": null,
+          "title": "LFI Escalation Lab Writeup [CyberDefenders]",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/287437ccb79f",
+          "author": "Loay Salah",
+          "description": "",
+          "link": "https://infosecwriteups.com/greyctf-2026-crimewatch-forensics-challenge-writeup-287437ccb79f?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2026-06-09T08:42:00.000Z",
+          "wordCount": null,
+          "title": "GreyCTF 2026  —  Crimewatch Forensics Challenge Writeup",
+          "imageUrl": null
+        },
+        {
           "id": "https://medium.com/p/33142ad7553b",
           "author": "Andrey Pautov",
           "description": "",
@@ -1499,6 +1619,96 @@
       "feedUrl": "https://medium.com/feed/tag/bugbounty",
       "siteUrl": "https://medium.com/tag/bugbounty/latest?source=rss------bugbounty-5",
       "articles": [
+        {
+          "id": "https://medium.com/p/744e9f73204c",
+          "author": "Genbounty Blog",
+          "description": "AI is cumbersome to test, LLM applications can accept any input and produce any output, each response id probabilistic and the number of…\nContinue reading on Medium »",
+          "link": "https://genbounty.medium.com/build-in-public-test-in-private-on-the-genbounty-ai-bug-bounty-platform-744e9f73204c?source=rss------bugbounty-5",
+          "publishedOn": "2026-06-09T23:16:54.000Z",
+          "wordCount": null,
+          "title": "Build in Public, Test in Private - on the Genbounty AI Bug Bounty Platform",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/2d3b8cd3bc7c",
+          "author": "Ayeshaaghafoor",
+          "description": "API documentation is a goldmine for security researchers and attackers alike. While it is essential for developers, leaving interactive or…\nContinue reading on Medium »",
+          "link": "https://medium.com/@ayeshaaghafoor48/portswigger-lab-writeup-exploiting-an-api-endpoint-using-documentation-2d3b8cd3bc7c?source=rss------bugbounty-5",
+          "publishedOn": "2026-06-09T21:50:14.000Z",
+          "wordCount": null,
+          "title": "PortSwigger Lab Writeup: Exploiting an API Endpoint Using Documentation",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/02190e736cfc",
+          "author": "Grayxploit",
+          "description": "The AI workflow that’s quietly changing who finds the bugs and who doesn’t.\nContinue reading on Medium »",
+          "link": "https://grayxploit.medium.com/i-spent-2-weeks-researching-how-bug-bounty-hunters-are-secretly-using-claude-code-heres-what-i-02190e736cfc?source=rss------bugbounty-5",
+          "publishedOn": "2026-06-09T21:10:51.000Z",
+          "wordCount": null,
+          "title": "I Spent 2 Weeks Researching How Bug Bounty Hunters Are Secretly Using Claude Code -Here’s What I…",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/57df26c54121",
+          "author": "Emre Koca",
+          "description": "Claude Code, SAST skills, biraz sabır ve Traccar’da bulunan iki güvenlik açığı\nContinue reading on Medium »",
+          "link": "https://kocaemre.medium.com/i%CC%87lk-cvelerim-traccar-da-iki-k%C3%BC%C3%A7%C3%BCk-varsay%C4%B1m%C4%B1n-pe%C5%9Finden-gitmek-57df26c54121?source=rss------bugbounty-5",
+          "publishedOn": "2026-06-09T20:51:36.000Z",
+          "wordCount": null,
+          "title": "İlk CVE’lerim: Traccar’da iki küçük varsayımın peşinden gitmek",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/7263d8767d3b",
+          "author": "R.H Rizvi",
+          "description": "The platforms are free to join. HackerOne, Bugcrowd, Intigriti — sign up, pick a program, start testing. No degree required. No…\nContinue reading on Medium »",
+          "link": "https://medium.com/@R.H_Rizvi/most-beginner-bug-bounty-hunters-never-earn-their-first-100-the-reason-isnt-technical-skills-7263d8767d3b?source=rss------bugbounty-5",
+          "publishedOn": "2026-06-09T19:23:17.000Z",
+          "wordCount": null,
+          "title": "Most Beginner Bug Bounty Hunters Never Earn Their First $100 The Reason Isn’t Technical Skills",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/85d43817b8f3",
+          "author": "Raymond Van Wart",
+          "description": "The hardest part of building a Burp extension used to be the code — now it’s just coming up with the idea.\nContinue reading on InfoSec Write-ups »",
+          "link": "https://infosecwriteups.com/how-i-built-a-burp-extension-efficiently-with-claude-85d43817b8f3?source=rss------bugbounty-5",
+          "publishedOn": "2026-06-09T18:53:07.000Z",
+          "wordCount": null,
+          "title": "How I Built a Burp Extension Efficiently with Claude",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/6c8b20b1ec7f",
+          "author": "C0deRevenant",
+          "description": "“No methodology. No fancy tools. Just a meme, a hunch, and a chatbot that really should have stayed in its lane.”\nContinue reading on Medium »",
+          "link": "https://medium.com/@C0deRevenant/from-chicken-mcnuggets-to-a-bug-bounty-how-a-viral-meme-started-my-best-finding-6c8b20b1ec7f?source=rss------bugbounty-5",
+          "publishedOn": "2026-06-09T16:53:59.000Z",
+          "wordCount": null,
+          "title": "From Chicken McNuggets to a Bug Bounty: How a Viral Meme Started My Best Finding",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/09dd229ef78a",
+          "author": "Nitheesh D R",
+          "description": "A Responsible Disclosure Case Study on DRM, CDN, API Security, and Subscription Bypass\nContinue reading on Medium »",
+          "link": "https://medium.com/@nitheeraj1/how-i-found-20-security-vulnerabilities-in-a-major-ott-streaming-platform-09dd229ef78a?source=rss------bugbounty-5",
+          "publishedOn": "2026-06-09T16:17:34.000Z",
+          "wordCount": null,
+          "title": "How I Found 20 Security Vulnerabilities in a Major OTT Streaming Platform",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/d0dc4a4becd5",
+          "author": "Musab Sarı",
+          "description": "I have been hunting for a while on the Hackerone public program and what I learned is If you choose the right program and spend more time…\nContinue reading on Medium »",
+          "link": "https://medium.com/@sari.mmusab/easy-150-bounty-delete-all-votes-d0dc4a4becd5?source=rss------bugbounty-5",
+          "publishedOn": "2026-06-09T15:31:56.000Z",
+          "wordCount": null,
+          "title": "Easy 150$ Bounty: Delete all votes",
+          "imageUrl": null
+        },
         {
           "id": "https://medium.com/p/4d621ca06a89",
           "author": "Decline",
@@ -2087,6 +2297,56 @@
       "siteUrl": "https://medium.com/tag/redteam/latest?source=rss------redteam-5",
       "articles": [
         {
+          "id": "https://medium.com/p/6e4a4c0dcc0d",
+          "author": "0zex",
+          "description": "lab write-up\nContinue reading on Medium »",
+          "link": "https://0z3x.medium.com/webverse-pro-keyem-6e4a4c0dcc0d?source=rss------redteam-5",
+          "publishedOn": "2026-06-09T23:55:38.000Z",
+          "wordCount": null,
+          "title": "Webverse-Pro Keyem",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/fecde4d954d8",
+          "author": "Harini Abey",
+          "description": "The 7 Stages of the Cyber Kill Chain\nContinue reading on Medium »",
+          "link": "https://medium.com/@hariab/how-attackers-think-a-beginners-guide-to-the-cyber-kill-chain-fecde4d954d8?source=rss------redteam-5",
+          "publishedOn": "2026-06-09T17:33:33.000Z",
+          "wordCount": null,
+          "title": "How Attackers Think: A Beginner’s Guide to the Cyber Kill Chain",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/4290535a846c",
+          "author": "Vlad",
+          "description": "I red-teamed a Maximo deployment pipeline I built myself. The scanners found almost nothing ~ and that turned out to be the most important…\nContinue reading on Medium »",
+          "link": "https://medium.com/@vladconstu/the-slip-through-the-cracks-4290535a846c?source=rss------redteam-5",
+          "publishedOn": "2026-06-09T13:56:23.000Z",
+          "wordCount": null,
+          "title": "The Slip Through The Cracks",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/88ae6e71e64b",
+          "author": "Jas",
+          "description": "The cybersecurity industry is experiencing a significant transformation as Artificial Intelligence and automation become increasingly…\nContinue reading on Medium »",
+          "link": "https://medium.com/@jasmitharouthu_58441/autonomous-offensive-security-platforms-signal-the-future-of-proactive-cyber-defense-88ae6e71e64b?source=rss------redteam-5",
+          "publishedOn": "2026-06-09T09:58:59.000Z",
+          "wordCount": null,
+          "title": "Autonomous Offensive Security Platforms Signal the Future of Proactive Cyber Defense",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/5209d4802d8e",
+          "author": "Andre Garrido 101",
+          "description": "Introdução\nContinue reading on Medium »",
+          "link": "https://medium.com/@andregarrido101/as-rep-roasting-5209d4802d8e?source=rss------redteam-5",
+          "publishedOn": "2026-06-09T04:46:00.000Z",
+          "wordCount": null,
+          "title": "AS-REP Roasting",
+          "imageUrl": null
+        },
+        {
           "id": "https://medium.com/p/7894df815109",
           "author": "mrx_w_",
           "description": "Hi, I’m mrx_w_ (Adem Ziane Berroudja), a bug bounty hunter on Bugcrowd. You can find me on Twitter and LinkedIn under mrx_w_ .In this…\nContinue reading on Medium »",
@@ -2474,6 +2734,96 @@
       "siteUrl": "https://infosecwriteups.com?source=rss----7b722bfd1b8d---4",
       "articles": [
         {
+          "id": "https://medium.com/p/6d68ab7f9b7a",
+          "author": "DeepCodeX",
+          "description": "",
+          "link": "https://infosecwriteups.com/zero-click-ip-leak-in-a-privacy-search-engine-indirect-prompt-injection-silent-patching-6d68ab7f9b7a?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2026-06-09T08:53:12.000Z",
+          "wordCount": null,
+          "title": "Zero-Click IP Leak in a Privacy Search Engine: Indirect Prompt Injection & Silent Patching",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/65c631272d58",
+          "author": "Loay Salah",
+          "description": "",
+          "link": "https://infosecwriteups.com/solardisruption-lab-writeup-cyberdefenders-65c631272d58?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2026-06-09T08:48:00.000Z",
+          "wordCount": null,
+          "title": "SolarDisruption Lab Writeup (CyberDefenders)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/9c84daa0d953",
+          "author": "Loay Salah",
+          "description": "",
+          "link": "https://infosecwriteups.com/raining-dinosaurs-storm-2603-lab-writeup-cyberdefenders-9c84daa0d953?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2026-06-09T08:47:19.000Z",
+          "wordCount": null,
+          "title": "Raining Dinosaurs  —  Storm-2603 Lab Writeup [CyberDefenders]",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/c788db767598",
+          "author": "ReFang",
+          "description": "",
+          "link": "https://infosecwriteups.com/i-found-the-entire-admin-ui-of-a-live-platformjust-by-tweaking-traffic-in-burp-suite-c788db767598?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2026-06-09T08:46:28.000Z",
+          "wordCount": null,
+          "title": "I Found the Entire Admin UI of a Live PlatformJust By Tweaking Traffic in Burp Suite",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/9c11f35cbcd6",
+          "author": "Suraj Apar",
+          "description": "",
+          "link": "https://infosecwriteups.com/host-network-penetration-testing-system-host-based-attacks-ctf-2-ejpt-ine-9c11f35cbcd6?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2026-06-09T08:45:36.000Z",
+          "wordCount": null,
+          "title": "Host & Network Penetration Testing: System-Host Based Attacks CTF 2 — eJPT (INE)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/a0635b2f3997",
+          "author": "Abhishek meena",
+          "description": "A small GraphQL behavior created a very real availability problem.\nContinue reading on InfoSec Write-ups »",
+          "link": "https://infosecwriteups.com/how-graphql-mutation-aliasing-led-to-a-12-500-dos-bug-in-hackerones-account-recovery-flow-a0635b2f3997?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2026-06-09T08:45:17.000Z",
+          "wordCount": null,
+          "title": "How GraphQL Mutation Aliasing Led to a $12,500 DoS Bug in HackerOne’s Account Recovery Flow",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/f091269b9fec",
+          "author": "LordofHeaven",
+          "description": "",
+          "link": "https://infosecwriteups.com/sql-injection-in-password-reset-full-database-one-email-f091269b9fec?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2026-06-09T08:42:43.000Z",
+          "wordCount": null,
+          "title": "SQL Injection in Password Reset: Full Database, One Email",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/10ddfb745ced",
+          "author": "Loay Salah",
+          "description": "",
+          "link": "https://infosecwriteups.com/lfi-escalation-lab-writeup-cyberdefenders-10ddfb745ced?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2026-06-09T08:42:13.000Z",
+          "wordCount": null,
+          "title": "LFI Escalation Lab Writeup [CyberDefenders]",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/287437ccb79f",
+          "author": "Loay Salah",
+          "description": "",
+          "link": "https://infosecwriteups.com/greyctf-2026-crimewatch-forensics-challenge-writeup-287437ccb79f?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2026-06-09T08:42:00.000Z",
+          "wordCount": null,
+          "title": "GreyCTF 2026  —  Crimewatch Forensics Challenge Writeup",
+          "imageUrl": null
+        },
+        {
           "id": "https://medium.com/p/33142ad7553b",
           "author": "Andrey Pautov",
           "description": "",
@@ -2822,6 +3172,16 @@
       "feedUrl": "https://acassis.wordpress.com/feed/",
       "siteUrl": "https://acassis.wordpress.com",
       "articles": [
+        {
+          "id": "http://acassis.wordpress.com/?p=12956",
+          "author": "acassis",
+          "description": "I was having a strange error with my DJI Air3s drone, it was reporting that I wasn’t connected. Then after I try to connect typing my email (and confirming the agree checkbox) it was reporting “Check network” error. And it no matter which WiFi network or hotspot I use, it always was reporting this error. … Continue reading Fixing the DJI RC2 login error “Check network” →",
+          "link": "https://acassis.wordpress.com/2026/06/09/fixing-the-dji-rc2-login-error-check-network/",
+          "publishedOn": "2026-06-09T13:57:14.000Z",
+          "wordCount": 3320,
+          "title": "Fixing the DJI RC2 login error “Check network”",
+          "imageUrl": "https://secure.gravatar.com/blavatar/96b4e96ab15f6d879cefa55e3b925a85c71ff4a86fee7843b2e3d794a5b1efb3?s=200&ts=1781065395"
+        },
         {
           "id": "http://acassis.wordpress.com/?p=12954",
           "author": "acassis",
@@ -3728,6 +4088,206 @@
       "feedUrl": "https://feed.cnblogs.com/blog/sitehome/rss",
       "siteUrl": null,
       "articles": [
+        {
+          "id": "https://www.cnblogs.com/lhy-dev/p/20406521",
+          "author": null,
+          "description": "创建型模式关心的核心问题只有一个：对象怎么来的？ 把&quot;怎么创建对象&quot;这件事封装起来，让使用者不需要知道细节，拿来就用。",
+          "link": "https://www.cnblogs.com/lhy-dev/p/20406521",
+          "publishedOn": "2026-06-10T04:02:00.000Z",
+          "wordCount": 2619,
+          "title": "创建型模式：对象的诞生艺术 - 江鸟Dev",
+          "imageUrl": "https://img2024.cnblogs.com/blog/3788330/202606/3788330-20260610120128444-891112452.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/jazz-z/p/20418355",
+          "author": null,
+          "description": "PDF是日常工作中最常用的文档格式之一。借助 Python，我们可以批量提取 PDF 中的文本、图片、表格等数据，从而实现自动化处理。本文将介绍如何使用 Free Spire.PDF for Python 这个免费库来完成常见的 PDF 读取任务。 1. 环境准备 1.1 安装免费 Python P",
+          "link": "https://www.cnblogs.com/jazz-z/p/20418355",
+          "publishedOn": "2026-06-10T03:56:00.000Z",
+          "wordCount": 694,
+          "title": "Python PDF 解析入门：提取信息、表格与元数据 - LAYONTHEGROUND",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/liuziyi1/p/20418235",
+          "author": null,
+          "description": "引言：无监控，不运维 在关键信息基础设施安全保障体系中，实时、精准的资源监控是发现性能瓶颈、预防故障的第一道防线。MySQL数据库作为业务数据的承载核心，其CPU和内存的消耗直接决定了服务的吞吐量与稳定性。很多性能故障（如上一篇文章分析的CPU间歇性飙高）若能被及时监控和预警，就完全可以在恶化前被扼",
+          "link": "https://www.cnblogs.com/liuziyi1/p/20418235",
+          "publishedOn": "2026-06-10T03:54:00.000Z",
+          "wordCount": 560,
+          "title": "MySQL数据库CPU与内存监控全攻略：从系统到内核的立体化观测体系 - 刘子毅",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/ulricqin/p/20418140",
+          "author": null,
+          "description": "很多团队说自己在做稳定性治理。真正落到日常工作里，往往还是事故复盘：系统出故障，开会，写原因、影响和改进项；过一阵子，又出故障，再开会。这当然比什么都不记录要好，但它还不是治理。它只是把事故写进文档。 稳定性治理要回答的是更难、也更持续的问题：核心服务这个月到底可用多久，哪些接口消耗了最多不可用时间",
+          "link": "https://www.cnblogs.com/ulricqin/p/20418140",
+          "publishedOn": "2026-06-10T03:52:00.000Z",
+          "wordCount": 591,
+          "title": "如何用 SLO 报表管理核心服务可用性 - IT运维监控",
+          "imageUrl": "https://img2024.cnblogs.com/blog/2036615/202606/2036615-20260610114943384-487423839.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/Jiang-hh/p/20417644",
+          "author": null,
+          "description": "numpy学习 前言 本节内容目录清晰，可以依据目录进行查找相应的方法完成对应操作 导入： import numpy as np 1. 出现原因 为什么需要Numpy？ 它是python专门设计的一个工具库，适合高性能的数据处理应用场景。 如下例子：可以清楚对比出numpy数组和list数组计算同一",
+          "link": "https://www.cnblogs.com/Jiang-hh/p/20417644",
+          "publishedOn": "2026-06-10T03:40:00.000Z",
+          "wordCount": 3560,
+          "title": "数据分析基础：numpy学习 - 聪明猪^(*￣(oo)￣)^",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/uniqueDong/p/20417509",
+          "author": null,
+          "description": "你有没有这种感受：早上开完站会，拿起手机一看，项目群、运营群、技术交流群——三个群加起来 400 条消息，最重要的那条结论被淹没在表情包和「收到」里面，根本找不着。 我之前每天要花将近 40 分钟翻群——不是认真看，就是怕漏掉什么重要的事。直到我把 wx-cli 和 Claude Code Skil",
+          "link": "https://www.cnblogs.com/uniqueDong/p/20417509",
+          "publishedOn": "2026-06-10T03:37:00.000Z",
+          "wordCount": 836,
+          "title": "手动翻群 40 分钟变 5 分钟，我用 wx-cli + Claude Skill 搭了个本地总结器 - 码哥字节",
+          "imageUrl": "https://img2024.cnblogs.com/blog/735767/202605/735767-20260526114014236-744639895.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/vipsoft/p/20381825",
+          "author": null,
+          "description": "目录短期记忆-基于内存完整代码长期记忆-基于数据库完整代码记忆管理示例代码 https://docs.langchain.com/oss/python/langchain/short-term-memory Agent 的记忆（Memory）分两类： 短期记忆（short-term memory）：",
+          "link": "https://www.cnblogs.com/vipsoft/p/20381825",
+          "publishedOn": "2026-06-10T03:09:00.000Z",
+          "wordCount": 1482,
+          "title": "LangChain 入门 Memory 会话记忆 - VipSoft",
+          "imageUrl": "https://img2024.cnblogs.com/blog/80824/202606/80824-20260608181829299-228254026.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/nextdata/p/20416072",
+          "author": null,
+          "description": "探索生成式AI如何帮助小型企业提升生产力、自动化任务、改善客户体验、降低成本，并在2026年及未来驱动业务增长。 引言 生成式AI正在改变小型企业的运营方式。曾经被认为只有大型企业才能使用的技术，如今已变得更加经济实惠且易于使用，使初创公司和小型企业也能利用其能力实现增长和效率提升。 从创建营销内容",
+          "link": "https://www.cnblogs.com/nextdata/p/20416072",
+          "publishedOn": "2026-06-10T03:04:00.000Z",
+          "wordCount": 470,
+          "title": "生成式AI助力小型企业：2026年完整指南 - nextdata",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/newbe36524/p/20415557",
+          "author": null,
+          "description": "如何集成和使用 impeccable 其实也没啥，就是在 HagiCode 项目里集成个设计工具，勉强算是个完整方案吧——包括仓库结构、多语言工作流、内容维护这些，都是在实践里慢慢摸索出来的。 背景 说起软件开发里的 UI/UX 设计质量，其实还挺重要的，毕竟能直接决定产品的用户体验和商业成功。只是",
+          "link": "https://www.cnblogs.com/newbe36524/p/20415557",
+          "publishedOn": "2026-06-10T02:48:00.000Z",
+          "wordCount": 927,
+          "title": "如何集成和使用 impeccable - Newbe36524",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/NathonA/p/20403812",
+          "author": null,
+          "description": "原题链接 闲话 赛时看到 F 马上就想到点分树，只剩十分多钟口胡了一下就跑了。 赛后看题解发现全是线段树分治做的，去原题 P2056 学习了一下点分树做法。发现赛时的口胡离正解还差得远。 思路 首先做一个重链剖分，进而可以以 \\(O(\\log n)\\) 的时间求出任意两点间的距离。 把点分树建出来，",
+          "link": "https://www.cnblogs.com/NathonA/p/20403812",
+          "publishedOn": "2026-06-10T02:46:00.000Z",
+          "wordCount": 1390,
+          "title": "ABC460F 题解 - Natho_nA",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/gegeblog/p/20414317",
+          "author": null,
+          "description": "废话不多说，先上 IDEA 2026.1 版本安装成功的截图，如下图，可以看到已经成功安装到 2099 年辣，舒服的很！ 卸载老版本 接下来，我就将通过图文的方式, 来详细讲解如何安装 IDEA 2026.1 版本至 2099 年。首先，如果小伙伴的电脑上有安装老版本的 IDEA , 需要将其彻底卸",
+          "link": "https://www.cnblogs.com/gegeblog/p/20414317",
+          "publishedOn": "2026-06-10T02:16:00.000Z",
+          "wordCount": 425,
+          "title": "IDEA 2026.1最新版安装教程 - 半页の时光",
+          "imageUrl": "https://img2024.cnblogs.com/blog/3418714/202606/3418714-20260610101529054-1753997002.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/zhuoshengjie/p/20413774",
+          "author": null,
+          "description": "项目上线了，群里一片欢腾。 产品经理发了朋友圈，后端同事被疯狂 @ 夸接口稳，老板周会上点名表扬了架构设计。 唯独前端，没人提。 就好像这个项目里，前端从来没存在过。 但登录页是谁写的？表单校验是谁调的？那个丝滑的加载动画是谁做的？兼容各种浏览器又是谁加班到凌晨？ 都是前端。 做了 6 年前端，太熟",
+          "link": "https://www.cnblogs.com/zhuoshengjie/p/20413774",
+          "publishedOn": "2026-06-10T02:04:00.000Z",
+          "wordCount": 335,
+          "title": "前端岗位歧视：做得最多，凭什么最不被看见？ - 微山湖上静悄悄",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/noear/p/20413209",
+          "author": null,
+          "description": "SolonCode，基于&quot;Java 运行时 + Web 交互&quot;的架构设计，天然具备跨平台能力。在鸿蒙 PC 发布之初，SolonCode 即可运行。",
+          "link": "https://www.cnblogs.com/noear/p/20413209",
+          "publishedOn": "2026-06-10T01:46:00.000Z",
+          "wordCount": 693,
+          "title": "SolonCode（编码智能体）支持鸿蒙 PC - 带刺的坐椅",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/wucy/p/20292775/csharp-multi-region",
+          "author": null,
+          "description": "前言 近一年以来，AI Agent的发展速度非常快。 如果经常使用一些Agent CLI工具，例如 Claude Code、Gemini CLI、OpenCode 等产品，会发现它们有一个共同特点： 虽然运行在终端之中，但已经完全不是传统命令行程序的样子。 在执行任务过程中，它们通常会同时展示： A",
+          "link": "https://www.cnblogs.com/wucy/p/20292775/csharp-multi-region",
+          "publishedOn": "2026-06-10T00:39:00.000Z",
+          "wordCount": 866,
+          "title": "C#实现控制台多区域输出 - yi念之间",
+          "imageUrl": "https://img2024.cnblogs.com/blog/2042116/202606/2042116-20260603170641606-1283791519.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/artech/p/20410861/chat-client-pipeline-06",
+          "author": null,
+          "description": "我们目前已经有相当专业的图片生成的模型，它可以利用我们提供的文本提示来生成高质量的图片，但是由于我们对文字的驾驭能力不够，写不出迎合LLM的提示词。ImageGeneratingChatClient中间件结合我们注册的ImageGenerator将两者结合在一起：我们通过与Agent对话的方式说出我...",
+          "link": "https://www.cnblogs.com/artech/p/20410861/chat-client-pipeline-06",
+          "publishedOn": "2026-06-10T00:24:00.000Z",
+          "wordCount": 1932,
+          "title": "[MAF预定义ChatClient中间件-06]利用ImageGeneratingChatClient开发专业图片生成Agent - Artech",
+          "imageUrl": "https://img2024.cnblogs.com/blog/19327/202606/19327-20260610082402394-1211961286.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/Can-daydayup/p/20408715",
+          "author": null,
+          "description": "前言 在数字化办公与娱乐需求日益增长的今天，Windows 系统的流畅度与稳定性直接影响着我们的日常体验。为了帮助大家告别系统卡顿、冗余服务以及隐私泄露的困扰，大姚给大家分享 5 款基于 .NET 开源、功能强大且免费的 Windows 系统优化工具。 Optimizer Optimizer 是一款",
+          "link": "https://www.cnblogs.com/Can-daydayup/p/20408715",
+          "publishedOn": "2026-06-09T15:55:00.000Z",
+          "wordCount": 484,
+          "title": "精选 5 款基于 .NET 开源免费、功能强大的 Windows 系统优化工具 - 追逐时光者",
+          "imageUrl": "https://img2024.cnblogs.com/blog/1336199/202606/1336199-20260609235247862-219511164.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/xuliuzai/p/20408033",
+          "author": null,
+          "description": "大家可以先看本文的结论【即 4. 总结】，如有兴趣再顺读。 1.&#160;Online DDL Support for Column Operations OperationIn PlaceRebuilds TablePermits Concurrent DMLOnly Modifies Metadata",
+          "link": "https://www.cnblogs.com/xuliuzai/p/20408033",
+          "publishedOn": "2026-06-09T15:07:00.000Z",
+          "wordCount": 800,
+          "title": "补充MySQL官网知识--解锁Online VARCHAR字段扩展与Index的关系 - 东山絮柳仔",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/cup11/p/20287335",
+          "author": null,
+          "description": "Meta Assistant 是一个为 Windows 打造的任务栏托盘 Python 脚本启动器，以解决 Vibe Coding 时代下“生成脚本易，寻找脚本难”的困境。安装 Meta Assistant，快速利用本地已有环境启动对应的脚本，并原生支持 Windows 自启动，不再需要在打包、配置...",
+          "link": "https://www.cnblogs.com/cup11/p/20287335",
+          "publishedOn": "2026-06-09T12:59:00.000Z",
+          "wordCount": 409,
+          "title": "[开源] Meta Assistant / 告别命令行，我为一堆 Python 脚本做了一个 Windows 任务栏的“家” - cup11",
+          "imageUrl": "https://img2024.cnblogs.com/blog/2862691/202606/2862691-20260609205053969-2088066057.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/sheng_chao/p/20407746",
+          "author": null,
+          "description": "在最近给一个大客户制作技术方案时，客户提出了一个要求：对他们已经部署测试运行的环境，分析其运行性能数据，并制作分析报告。",
+          "link": "https://www.cnblogs.com/sheng_chao/p/20407746",
+          "publishedOn": "2026-06-09T12:52:00.000Z",
+          "wordCount": 552,
+          "title": "使用 dotnet-counters 观测升讯威客服系统内存占用情况和数据吞吐性能 - 升讯威在线客服系统",
+          "imageUrl": "https://img2024.cnblogs.com/blog/78019/202606/78019-20260609200030119-222706402.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/rossiXYZ/p/20407294",
+          "author": null,
+          "description": "【Agentic RL / 强化学习框架】Uni-Agent 深度技术分析（1） 总体 目录【Agentic RL / 强化学习框架】Uni-Agent 深度技术分析（1） 总体0x00 概要0x01 基本功能1.1 竞品对比与定位1.1.1 三者定位1.1.2 七维度对比表1.2 Uni-Agen",
+          "link": "https://www.cnblogs.com/rossiXYZ/p/20407294",
+          "publishedOn": "2026-06-09T12:13:00.000Z",
+          "wordCount": 4118,
+          "title": "【Agentic RL / 强化学习框架】Uni-Agent 深度技术分析（1）--- 总体 - 罗西的思考",
+          "imageUrl": "https://img2024.cnblogs.com/blog/1850883/202606/1850883-20260609195655549-276129436.png"
+        },
         {
           "id": "https://www.cnblogs.com/uniqueDong/p/20396078",
           "author": null,
@@ -5245,6 +5805,36 @@
       "siteUrl": "http://h1.nobbd.de/",
       "articles": [
         {
+          "id": "https://hackerone.com/reports/3788506",
+          "author": null,
+          "description": "curl disclosed a bug submitted by byteray_ltd: https://hackerone.com/reports/3788506",
+          "link": "https://hackerone.com/reports/3788506",
+          "publishedOn": "2026-06-09T06:30:39.000Z",
+          "wordCount": 25,
+          "title": "SSH/SFTP connection reuse can bypass SSH key identity after ssh_config_matches removal",
+          "imageUrl": "https://profile-photos.hackerone-user-content.com/variants/000/035/663/2faf4c279d437d64bfda6d23d62ce1833813a4d9_original.png/d6d8259739a2a4d509639b7804214d057bca547cc3fafe509ec3e3a86321b1d1"
+        },
+        {
+          "id": "https://hackerone.com/reports/3786077",
+          "author": null,
+          "description": "curl disclosed a bug submitted by kalfkinen: https://hackerone.com/reports/3786077",
+          "link": "https://hackerone.com/reports/3786077",
+          "publishedOn": "2026-06-09T06:30:23.000Z",
+          "wordCount": 25,
+          "title": "SOCKS5 no-auth accepted despite username/password-only authentication",
+          "imageUrl": "https://profile-photos.hackerone-user-content.com/variants/000/035/663/2faf4c279d437d64bfda6d23d62ce1833813a4d9_original.png/d6d8259739a2a4d509639b7804214d057bca547cc3fafe509ec3e3a86321b1d1"
+        },
+        {
+          "id": "https://hackerone.com/reports/2389431",
+          "author": null,
+          "description": "Ruby on Rails disclosed a bug submitted by ooooooo_q: https://hackerone.com/reports/2389431",
+          "link": "https://hackerone.com/reports/2389431",
+          "publishedOn": "2026-06-09T04:37:55.000Z",
+          "wordCount": 25,
+          "title": "Action Text ReDoS (Ruby 3.1  or lower)",
+          "imageUrl": "https://profile-photos.hackerone-user-content.com/variants/000/000/022/5e2b46658c8b86bed62f574d8e1793f353cbbc63_original.png/d6d8259739a2a4d509639b7804214d057bca547cc3fafe509ec3e3a86321b1d1"
+        },
+        {
           "id": "https://hackerone.com/reports/3785919",
           "author": null,
           "description": "curl disclosed a bug submitted by torkd1: https://hackerone.com/reports/3785919",
@@ -6432,6 +7022,16 @@
       "siteUrl": "https://www.malware-traffic-analysis.net/index.html",
       "articles": [
         {
+          "id": "https://www.malware-traffic-analysis.net/2026/06/09/index.html",
+          "author": null,
+          "description": "",
+          "link": "https://www.malware-traffic-analysis.net/2026/06/09/index.html",
+          "publishedOn": "2026-06-09T23:36:00.000Z",
+          "wordCount": 141,
+          "title": "2026-06-09: Atomic macOS (AMOS) Stealer infection",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.malware-traffic-analysis.net/2026/05/22/index.html",
           "author": null,
           "description": "",
@@ -7119,16 +7719,6 @@
           "wordCount": 4102,
           "title": "Vanna CVE-2025-47277 看CodeQL Python 方法映射",
           "imageUrl": "http://m0d9.me/images/pasted-925.png"
-        },
-        {
-          "id": "http://m0d9.me/2025/06/10/CodeQL-%E7%B1%BB%E5%9E%8B%E8%BF%BD%E8%B8%AA/",
-          "author": null,
-          "description": "<p>在分析CodeQL Python 污点分析时候发现，有用到shared 的新模块typetracking。从前面Python 的Extractor 分析中，我们知道它的DB 内是没有类型信息的，没有类型信息是怎么做污点呢？</p>\n<p>Java 是在编译的时候创建的DB，这一过程中可以拿到了AST 节点对应的类型信息，例如call 节点函数信息，可以直接关联callable，知道调的是哪个函数。但是纯AST 要怎么做？</p>\n<p>联想之前做Java 反射Patch 的时候，印象中也需要用到类型跟踪,但是是自己实现的，改动颇大，不知道这个typetracking 是否能够更优雅的解决，分析下。</p>\n<p><img src=\"/images/pasted-923.png\" alt=\"upload successful\"></p>",
-          "link": "http://m0d9.me/2025/06/10/CodeQL-%E7%B1%BB%E5%9E%8B%E8%BF%BD%E8%B8%AA/",
-          "publishedOn": "2025-06-10T12:56:00.000Z",
-          "wordCount": 3484,
-          "title": "CodeQL Python 类型追踪",
-          "imageUrl": "http://m0d9.me/images/pasted-923.png"
         }
       ]
     }
