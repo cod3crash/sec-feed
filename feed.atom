@@ -2,10 +2,511 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cod3crash.github.io/sec-feed/index.html</id>
     <title>security feed</title>
-    <updated>2026-06-10T04:23:57.754Z</updated>
+    <updated>2026-06-11T04:46:11.868Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://cod3crash.github.io/sec-feed/index.html"/>
     <link rel="self" href="https://cod3crash.github.io/sec-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[MagicWorld 实现长时交互视频世界建模 - vivo互联网技术]]></title>
+        <id>https://www.cnblogs.com/vivotech/p/20442935</id>
+        <link href="https://www.cnblogs.com/vivotech/p/20442935"/>
+        <updated>2026-06-11T04:02:00.000Z</updated>
+        <summary type="html"><![CDATA[MagicWorld 针对当前视频世界模型在长时间交互中易出现运动不合理与场景崩坏的问题，提出了一种面向长时稳定性的交互式建模框架。该方法通过引入基于光流的运动约束提升动态真实性，利用历史检索机制增强跨时间一致性，并通过多步聚合的训练策略优化整体交互序列质量，从而有效缓解误差累积问题。整体上，Mag...]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用匿名内部类优雅地计算方法执行时间 - MalouP]]></title>
+        <id>https://www.cnblogs.com/mhpblog/p/20440234/anonymous-inner-class-time-calculation</id>
+        <link href="https://www.cnblogs.com/mhpblog/p/20440234/anonymous-inner-class-time-calculation"/>
+        <updated>2026-06-11T03:27:00.000Z</updated>
+        <summary type="html"><![CDATA[写代码时总要在每个方法里复制粘贴计时逻辑？本文用匿名内部类实现了一个优雅的耗时计算模板，从&quot;笨办法&quot;到Lambda表达式，一步步优化代码结构，适合想提升代码设计能力的Java学习者。]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SAP中FI和MM的核心集成—物料移动自动生成凭证 - tageerxing]]></title>
+        <id>https://www.cnblogs.com/xxkj/p/20439239</id>
+        <link href="https://www.cnblogs.com/xxkj/p/20439239"/>
+        <updated>2026-06-11T02:38:00.000Z</updated>
+        <summary type="html"><![CDATA[一、相关表格介绍 1、 T156：移动类型主表 Movement Type (Inventory Management) 你可以把它理解为一张基础信息登记表。 主要作用：定义了所有可用的移动类型代码，并存储其最基本、最通用的描述信息。它是 T156SC 中 BWART 字段的检查表，保证了数据的合法]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apache Doris全链路性能优化实战指南：从架构设计到生产落地 - 刘子毅]]></title>
+        <id>https://www.cnblogs.com/liuziyi1/p/20438155</id>
+        <link href="https://www.cnblogs.com/liuziyi1/p/20438155"/>
+        <updated>2026-06-11T01:56:00.000Z</updated>
+        <summary type="html"><![CDATA[引言 在数字化转型加速推进的今天，实时数据仓库已成为企业数据驱动决策的核心基础设施。Apache Doris作为一款高性能、易运维的开源MPP分析型数据库，凭借其极简架构、亚秒级查询响应和一站式分析能力，被广泛应用于用户行为分析、实时报表、数据集市等核心业务场景。然而，随着企业数据量的爆发式增长和查]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI-提效模板之--SKILL.md - 威兰达]]></title>
+        <id>https://www.cnblogs.com/lgg20/p/20438146</id>
+        <link href="https://www.cnblogs.com/lgg20/p/20438146"/>
+        <updated>2026-06-11T01:56:00.000Z</updated>
+        <summary type="html"><![CDATA[Skills 是人与 AI 协作的桥梁（在这里等于 xx.md文件）： 1. 人类把领域知识、流程经验、环境约束写进 Skill, AI 读懂后去执行。 Skills 就是这座桥——人类专注定义怎么做，AI 负责真正去做。 2. 让任务执行变得准确、稳定、可复用。 3. Skills 以 MarkD]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[写爬虫时用了代理还被封？Python 代理的那些隐藏坑，我替你踩明白了 - 一名程序媛呀]]></title>
+        <id>https://www.cnblogs.com/ymtianyu/p/20437916</id>
+        <link href="https://www.cnblogs.com/ymtianyu/p/20437916"/>
+        <updated>2026-06-11T01:49:00.000Z</updated>
+        <summary type="html"><![CDATA[写爬虫或调用API时，IP被封是家常便饭。很多人以为加上代理就万事大吉，结果反而更慢、报错更多。这篇文章从实战出发，一次性讲透http、https、socks代理的区别和用法，教你如何高效遍历代理列表，并扒开那些官方文档不会告诉你的常见坑。读完你会知道，代理用不好，比不用还危险。]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenVINO™ C# API 3.3 全新发布！正式接入 OpenVINO GenAI，C# 本地大模型开发全面启航！ - 椒颜皮皮虾]]></title>
+        <id>https://www.cnblogs.com/guojin-blogs/p/20437610</id>
+        <link href="https://www.cnblogs.com/guojin-blogs/p/20437610"/>
+        <updated>2026-06-11T01:42:00.000Z</updated>
+        <summary type="html"><![CDATA[OpenVINO™ C# API 3.3 全新发布！这次升级的重点，是把 OpenVINO GenAI 正式带进 C#/.NET 生态。开发者可以在 C# 项目中直接调用本地 LLM 文本生成、Whisper 语音识别、VLM 图文问答等能力，不再必须绕 Python 服务或外部脚本。
+
+3.3 继...]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[MAF预定义ChatClient中间件-07]PerServiceCallChatHistoryPersistingChatClient——基于ReAct循环的一步一存档 - Artech]]></title>
+        <id>https://www.cnblogs.com/artech/p/20436414/chat-client-pipeline-07</id>
+        <link href="https://www.cnblogs.com/artech/p/20436414/chat-client-pipeline-07"/>
+        <updated>2026-06-11T00:53:00.000Z</updated>
+        <summary type="html"><![CDATA[在默认的情况下，`ChatHistoryProvider`基于**调用**对产生的请求和消息进行存档。如果一次调用涉及多轮ReAct循环，意味着每次调用可能会很多条消息，但是它们只会在ReAct循环结束之后才会被存档一次。如果最后存单失败，意味着这些消息将全部丢失，所以有时候我们ReAct循环的每次...]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI Native 竞争力：真正稀缺的不是会用 AI，而是把事往前推的人 - AI小老六]]></title>
+        <id>https://www.cnblogs.com/ai-old-six/p/20436392</id>
+        <link href="https://www.cnblogs.com/ai-old-six/p/20436392"/>
+        <updated>2026-06-11T00:51:00.000Z</updated>
+        <summary type="html"><![CDATA[AI 时代，拉开差距的不是工具熟练度，而是在不确定里启动、验证和接力的能力。 原文链接：AI 小老六 我现在越来越不相信一种说法：只要把 AI 工具 用熟，人就会自然变强。 工具当然重要，但它解决的是“怎么做得更快”，没有自动解决“什么值得做”“该从哪里下手”“做砸以后怎么办”。真正拉开差距的，往往]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Guía Fundamental Sobre Information Disclosure]]></title>
+        <id>https://medium.com/p/8e489a8ae3cd</id>
+        <link href="https://medium.com/@jpablo13/gu%C3%ADa-fundamental-sobre-information-disclosure-8e489a8ae3cd?source=rss------bugbounty-5"/>
+        <updated>2026-06-11T00:01:01.000Z</updated>
+        <summary type="html"><![CDATA[Domina las vulnerabilidades de divulgación de información: descubre vectores, explota fugas y mitiga riesgos de seguridad web.
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>JPablo13</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[做 AI 工具出海一个月，我赚到了 0 美元，但学到了这些 - 码农刚子]]></title>
+        <id>https://www.cnblogs.com/shenchuanchao/p/20405690/ai-tool-overseas-zero-dollars-lessons-learned</id>
+        <link href="https://www.cnblogs.com/shenchuanchao/p/20405690/ai-tool-overseas-zero-dollars-lessons-learned"/>
+        <updated>2026-06-10T23:57:00.000Z</updated>
+        <summary type="html"><![CDATA[本文描述了刚子使用AI开发两个出海工具、一个月后收入为零的完整经历，深刻揭示了成功故事背后的诸多陷阱：开发仅占全部工作量的10%，推广运营才是真正的关键；同质化竞争异常激烈，免费用户转付费的转化率极低；真正能赚钱的方式其实是卖课卖社群。刚子最后建议开发者务必先验证需求、主动避开红海赛道、提前想好明确...]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Found a Critical OAuth Vulnerability in Open edX — Here’s How It Happened]]></title>
+        <id>https://medium.com/p/48b01b2370d9</id>
+        <link href="https://medium.com/@abdurrahimjamalzada/i-found-a-critical-oauth-vulnerability-in-open-edx-heres-how-it-happened-48b01b2370d9?source=rss------bugbounty-5"/>
+        <updated>2026-06-10T23:23:39.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2026–53636 | CVSS 7.5 High | Affecting 45M+ users worldwide
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Abdurrahim Jamalzada</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[curl-ipv4-percent-normalization-SSRF]]></title>
+        <id>https://hackerone.com/reports/3791168</id>
+        <link href="https://hackerone.com/reports/3791168"/>
+        <updated>2026-06-10T21:53:00.000Z</updated>
+        <summary type="html"><![CDATA[curl disclosed a bug submitted by monk17: https://hackerone.com/reports/3791168]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[curl-ipv4-percent-normalization-SSRF]]></title>
+        <id>https://hackerone.com/reports/3791168</id>
+        <link href="https://hackerone.com/reports/3791168"/>
+        <updated>2026-06-10T21:53:00.000Z</updated>
+        <summary type="html"><![CDATA[curl disclosed a bug submitted by monk17: https://hackerone.com/reports/3791168]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trailing-Dot Hostname in Redirect Silently Strips Client Certificate and Auth Credentials]]></title>
+        <id>https://hackerone.com/reports/3791191</id>
+        <link href="https://hackerone.com/reports/3791191"/>
+        <updated>2026-06-10T21:52:50.000Z</updated>
+        <summary type="html"><![CDATA[curl disclosed a bug submitted by azraelxuemo: https://hackerone.com/reports/3791191]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trailing-Dot Hostname in Redirect Silently Strips Client Certificate and Auth Credentials]]></title>
+        <id>https://hackerone.com/reports/3791191</id>
+        <link href="https://hackerone.com/reports/3791191"/>
+        <updated>2026-06-10T21:52:50.000Z</updated>
+        <summary type="html"><![CDATA[curl disclosed a bug submitted by azraelxuemo: https://hackerone.com/reports/3791191]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[curl/libcurl vulnerable to TLS truncation attacks]]></title>
+        <id>https://hackerone.com/reports/1826392</id>
+        <link href="https://hackerone.com/reports/1826392"/>
+        <updated>2026-06-10T21:52:37.000Z</updated>
+        <summary type="html"><![CDATA[curl disclosed a bug submitted by nyymi: https://hackerone.com/reports/1826392]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[curl/libcurl vulnerable to TLS truncation attacks]]></title>
+        <id>https://hackerone.com/reports/1826392</id>
+        <link href="https://hackerone.com/reports/1826392"/>
+        <updated>2026-06-10T21:52:37.000Z</updated>
+        <summary type="html"><![CDATA[curl disclosed a bug submitted by nyymi: https://hackerone.com/reports/1826392]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using a Nonlinear Crystal KTP to create a SFG/SHG solution]]></title>
+        <id>http://acassis.wordpress.com/?p=12962</id>
+        <link href="https://acassis.wordpress.com/2026/06/10/using-a-nonlinear-crystal-ktp-to-create-a-sfg-shg-solution/"/>
+        <updated>2026-06-10T21:15:05.000Z</updated>
+        <summary type="html"><![CDATA[I’m doing an experiment with KTP and two lasers (1052nm and 1550nm), this is the first time I try to create some more advanced optic project. Initially I was thinking it was just shining the laser light in the KTP crystal and everything was fine. Then I discovered that I need to use two mirrors … Continue reading Using a Nonlinear Crystal KTP to create a SFG/SHG solution →]]></summary>
+        <author>
+            <name>acassis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SSRF Exploitation: From Reading Internal Pages to Dumping System Files]]></title>
+        <id>https://medium.com/p/4ebe9dbc566a</id>
+        <link href="https://infosecwriteups.com/ssrf-exploitation-from-reading-internal-pages-to-dumping-system-files-4ebe9dbc566a?source=rss------bugbounty-5"/>
+        <updated>2026-06-10T21:02:49.000Z</updated>
+        <summary type="html"><![CDATA[We already proved the server takes requests from us. Now let’s see how far that actually goes. Part 2 of the SSRF series.
+Continue reading on InfoSec Write-ups »]]></summary>
+        <author>
+            <name>0x4rt1st</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Como o MDM da Apple Realmente Funciona – e Por Que Ele Pode Ser Contornado]]></title>
+        <id>https://medium.com/p/a3047e3fabee</id>
+        <link href="https://medium.com/@kailima/como-o-mdm-da-apple-realmente-funciona-e-por-que-ele-pode-ser-contornado-a3047e3fabee?source=rss------redteam-5"/>
+        <updated>2026-06-10T20:34:50.000Z</updated>
+        <summary type="html"><![CDATA[Você já se perguntou o que acontece nos bastidores quando um Mac corporativo “sabe” que pertence a uma empresa antes mesmo de você criar…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Kaique Lima</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Webverse-Pro GeoJearyy]]></title>
+        <id>https://medium.com/p/919c868cfa20</id>
+        <link href="https://0z3x.medium.com/webverse-pro-geojearyy-919c868cfa20?source=rss------redteam-5"/>
+        <updated>2026-06-10T18:29:30.000Z</updated>
+        <summary type="html"><![CDATA[lab write-up
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>0zex</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[️‍♂️ Cache Deception: The Silent Bug That Tricks CDNs Into Leaking Private Data]]></title>
+        <id>https://medium.com/p/35bdd118c67f</id>
+        <link href="https://medium.com/@feyzzzhanna/%EF%B8%8F-%EF%B8%8F-cache-deception-the-silent-bug-that-tricks-cdns-into-leaking-private-data-35bdd118c67f?source=rss------redteam-5"/>
+        <updated>2026-06-10T18:16:54.000Z</updated>
+        <summary type="html"><![CDATA[Continue reading on Medium »]]></summary>
+        <author>
+            <name>HaNam0n | HANAFEYZ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ghost Sender: Why Your Email Gateway Isn’t Protecting Exchange Online]]></title>
+        <id>https://medium.com/p/671cbe8cb177</id>
+        <link href="https://sanaullahamankorai.medium.com/ghost-sender-why-your-email-gateway-isnt-protecting-exchange-online-671cbe8cb177?source=rss------bugbounty-5"/>
+        <updated>2026-06-10T17:53:01.000Z</updated>
+        <summary type="html"><![CDATA[Continue reading on Medium »]]></summary>
+        <author>
+            <name>Sanaullah Aman Korai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[黄河流域pwn的wp(缺的比较多) - firefly_star]]></title>
+        <id>https://www.cnblogs.com/firefly-star/p/20433099</id>
+        <link href="https://www.cnblogs.com/firefly-star/p/20433099"/>
+        <updated>2026-06-10T17:23:00.000Z</updated>
+        <summary type="html"><![CDATA[前言 这比赛我也是被ai乱杀了，pwn第二轮上题写了会我就没打了。有点太恐怖了，后面我打星途杯去了。现在回头看其实pwn题出的很好，也是感谢ziran申出这么多题和分享自己的学习经历了，ziran是申！！！这里贴一下官方wp，我这只有部分题的题解(我太菜了)，要看全解可以直接去ziran申那里看看黄]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Spent 30 Days Learning Bug Bounties. Here Is What Nobody Tells You.]]></title>
+        <id>https://medium.com/p/061778ceb0e3</id>
+        <link href="https://medium.com/@masood.nfc77/i-spent-30-days-learning-bug-bounties-here-is-what-nobody-tells-you-061778ceb0e3?source=rss------bugbounty-5"/>
+        <updated>2026-06-10T17:09:10.000Z</updated>
+        <summary type="html"><![CDATA[The honest diary of a beginner, week by week.
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Masood Nfc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building a Real Bug Bounty Toolkit on Windows 11 in 2026]]></title>
+        <id>https://medium.com/p/147a21c703b0</id>
+        <link href="https://medium.com/@masood.nfc77/building-a-real-bug-bounty-toolkit-on-windows-11-in-2026-147a21c703b0?source=rss------bugbounty-5"/>
+        <updated>2026-06-10T17:05:05.000Z</updated>
+        <summary type="html"><![CDATA[Every command, every tool, every setting. Copy, paste, you are running.
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Masood Nfc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Advanced Subdomain Enumeration for Bug Bounty Hunters in 2026]]></title>
+        <id>https://medium.com/p/fc4acc919790</id>
+        <link href="https://medium.com/@tanvir.infosec/advanced-subdomain-enumeration-for-bug-bounty-hunters-in-2026-fc4acc919790?source=rss------bugbounty-5"/>
+        <updated>2026-06-10T16:57:52.000Z</updated>
+        <summary type="html"><![CDATA[Most hunters run subfinder and call it recon. The hunters finding critical bugs run six sources, permutate every result, chase…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>cyber security</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Exposing Nearly 2,000 User Records Through a SQL Injection]]></title>
+        <id>https://medium.com/p/fd8f89e8646a</id>
+        <link href="https://medium.com/@andrewdehghan/exposing-nearly-2-000-user-records-through-a-sql-injection-fd8f89e8646a?source=rss------bugbounty-5"/>
+        <updated>2026-06-10T16:20:02.000Z</updated>
+        <summary type="html"><![CDATA[How a seemingly simple SQL Injection led to the exposure of nearly 2,000 user records and highlighted the dangers of plaintext password…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Amir Dehghan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Self-Healing Network Attack Nobody Saw Coming]]></title>
+        <id>https://medium.com/p/79868a07d497</id>
+        <link href="https://medium.com/@neonmaxima/the-self-healing-network-attack-nobody-saw-coming-79868a07d497?source=rss------redteam-5"/>
+        <updated>2026-06-10T16:15:08.000Z</updated>
+        <summary type="html"><![CDATA[Everyone is still wardriving like it is 2017. Meanwhile, something else is already out there. And it does not sleep. It does not forget…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA]</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ghost Networks + Silent C2: The Invisible Attack Stack of 2026]]></title>
+        <id>https://medium.com/p/f08b9e409507</id>
+        <link href="https://medium.com/@neonmaxima/ghost-networks-silent-c2-the-invisible-attack-stack-of-2026-f08b9e409507?source=rss------redteam-5"/>
+        <updated>2026-06-10T16:12:44.000Z</updated>
+        <summary type="html"><![CDATA[Two things are converging right now. And when they collide, the entire offensive security landscape does not just change. It becomes…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA]</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Digital Nuclear Bomb: Understanding Zip Bombs]]></title>
+        <id>https://medium.com/p/fff46e1076fe</id>
+        <link href="https://medium.com/@higherdas09/the-digital-nuclear-bomb-understanding-zip-bombs-fff46e1076fe?source=rss------redteam-5"/>
+        <updated>2026-06-10T15:43:08.000Z</updated>
+        <summary type="html"><![CDATA[By Soumodeep Das
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Soumodeep Das</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From Service Account to SYSTEM: Abusing SeImpersonatePrivilege on Windows]]></title>
+        <id>https://medium.com/p/54a1ff0c3b6b</id>
+        <link href="https://medium.com/@christopherarock482004/from-service-account-to-system-abusing-seimpersonateprivilege-on-windows-54a1ff0c3b6b?source=rss------redteam-5"/>
+        <updated>2026-06-10T14:33:31.000Z</updated>
+        <summary type="html"><![CDATA[A practical guide to Potato attacks for penetration testers
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Christopher Arock</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Find Every Vulnerability with AI Hacklabs + WSTG]]></title>
+        <id>https://medium.com/p/361d7f4737b3</id>
+        <link href="https://medium.com/@pentesterclubpvtltd/find-every-vulnerability-with-ai-hacklabs-wstg-361d7f4737b3?source=rss------bugbounty-5"/>
+        <updated>2026-06-10T14:03:55.000Z</updated>
+        <summary type="html"><![CDATA[The Future of AI-Powered Web Application Security Testing
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Pentester Club</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[C# .NET 周刊｜2026年4月2期 - InCerry]]></title>
+        <id>https://www.cnblogs.com/InCerry/p/-/dotnet_week_26_4_2</id>
+        <link href="https://www.cnblogs.com/InCerry/p/-/dotnet_week_26_4_2"/>
+        <updated>2026-06-10T14:02:00.000Z</updated>
+        <summary type="html"><![CDATA[各位亲爱的周刊订阅者，久等了！上月因不可抗力因素，不得已停更了一个月。现已恢复更新，会抓紧赶上进度。感谢大家的守候，久等了！ 国内文章 去中心化的内网聊天软件Lachat是如何实现的？ https://www.cnblogs.com/zhuweisky/p/19836680 本文介绍了一款名为Lac]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Full Clock 技术复盘] 二、SvelteKit 实战避坑指南：PWA、SSR 样式断裂、持久化防抖 - cup11]]></title>
+        <id>https://www.cnblogs.com/cup11/p/20259313</id>
+        <link href="https://www.cnblogs.com/cup11/p/20259313"/>
+        <updated>2026-06-10T13:47:00.000Z</updated>
+        <summary type="html"><![CDATA[作为第二篇技术复盘，本文通过弃用 vite-plugin-pwa，改用 $service-worker 解决了 PWA 报错 Uncaught (in promise) non-precached-url: non-precached-url :: [{&quot;url&quot;:&quot;index.html&quot;}]；添加...]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[批量改图片DPI的Python脚本 - Laurentianelle]]></title>
+        <id>https://www.cnblogs.com/Laurentianelle/p/20431495</id>
+        <link href="https://www.cnblogs.com/Laurentianelle/p/20431495"/>
+        <updated>2026-06-10T12:47:00.000Z</updated>
+        <summary type="html"><![CDATA[批量改图片DPI的Python脚本 | 写论文终于不用一张张改了 做学术论文、投期刊的朋友应该都懂，图片DPI这玩意儿平时不起眼，投稿的时候真能急死人。大部分期刊都要求300dpi以上，有的甚至要600dpi。但平时ArcGIS出图、截图啥的，默认都是72或者96dpi，每次投稿前都得一张张改，烦得]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Local File Inclusion (LFI) via page Parameter Leading to Source Code Disclosure]]></title>
+        <id>https://medium.com/p/ce722de0c407</id>
+        <link href="https://medium.com/@hemantrajbhati5555/local-file-inclusion-lfi-via-page-parameter-leading-to-source-code-disclosure-ce722de0c407?source=rss------redteam-5"/>
+        <updated>2026-06-10T12:01:29.000Z</updated>
+        <summary type="html"><![CDATA[Vulnerability Summary
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Hemant Raj Bhati</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Privilege Escalation via Session Fixation Leading to Session Hijacking]]></title>
+        <id>https://medium.com/p/081b20363904</id>
+        <link href="https://medium.com/@vivekbhatt.sec/privilege-escalation-via-session-fixation-leading-to-session-hijacking-081b20363904?source=rss------bugbounty-5"/>
+        <updated>2026-06-10T12:00:07.000Z</updated>
+        <summary type="html"><![CDATA[Abstract
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Vivekbhatt Sec</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Critical — Authenticated Remote Code Execution (RCE) via Unrestricted File Upload]]></title>
+        <id>https://medium.com/p/5a4a313ea1f1</id>
+        <link href="https://medium.com/@hemantrajbhati5555/critical-authenticated-remote-code-execution-rce-via-unrestricted-file-upload-5a4a313ea1f1?source=rss------redteam-5"/>
+        <updated>2026-06-10T11:52:29.000Z</updated>
+        <summary type="html"><![CDATA[Executive Summary
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Hemant Raj Bhati</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Azure AI Search】 searchMode=any 和 searchMode=all 有什么区别？ - 编码者卢布]]></title>
+        <id>https://www.cnblogs.com/lulight/p/20430919</id>
+        <link href="https://www.cnblogs.com/lulight/p/20430919"/>
+        <updated>2026-06-10T11:44:00.000Z</updated>
+        <summary type="html"><![CDATA[问题描述 在 Azure AI Search 中查询同一组关键词时，经常会遇到一个现象：searchMode=any 返回很多结果，改成 searchMode=all 后结果数量明显下降，甚至只剩很少几条。 例如查询下面这组关键词： audit brief report compliance 如果使]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Snowflake Summit 26 见闻实感：Goodbye Data, Hello AI - ApacheSeaTunnel]]></title>
+        <id>https://www.cnblogs.com/seatunnel/p/20429947</id>
+        <link href="https://www.cnblogs.com/seatunnel/p/20429947"/>
+        <updated>2026-06-10T10:12:00.000Z</updated>
+        <summary type="html"><![CDATA[感谢 Snowflake 这次邀请我以 Snowflake 雪花大使身份参加 Snowflake Summit。这次大会给我的触动比预想中更大，大家知道，我一直做从事数据行业，早期在 Teradata，后来在 IBM，后来在企业里 Lenovo、中金、万达等管大数据，后来成为 Apache Soft...]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[微调LLM前你需要了解的一些概念-- 基于 Qwen3 配置文件的实践 - royalrover]]></title>
+        <id>https://www.cnblogs.com/accordion/p/20426858</id>
+        <link href="https://www.cnblogs.com/accordion/p/20426858"/>
+        <updated>2026-06-10T09:02:00.000Z</updated>
+        <summary type="html"><![CDATA[本文基于如下 Qwen3 配置文件进行讲解： { &quot;architectures&quot;: [ &quot;Qwen3ForSequenceClassification&quot; ], &quot;attention_bias&quot;: false, &quot;attention_dropout&quot;: 0.0, &quot;bos_token_id&quot;: 151]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Agentic AI Security: The Hidden Attack Surface Beyond Prompt Injection]]></title>
+        <id>https://payatu.com/?p=16148</id>
+        <link href="https://payatu.com/blog/agentic-ai-security-the-hidden-attack-surface-beyond-prompt-injection/"/>
+        <updated>2026-06-10T08:19:51.000Z</updated>
+        <summary type="html"><![CDATA[Artificial intelligence is not just responding to prompts and generating text anymore. The age of agentic artificial intelligence has arrived. With it comes the ability to think, make decisions, plan and act independently. What Is Agentic AI? While regular AI models just respond to inputs with outputs, an agentic AI system uses APIs, databases, cloud […]
+The post Agentic AI Security: The Hidden Attack Surface Beyond Prompt Injection appeared first on Payatu.]]></summary>
+        <author>
+            <name>Rehan_Ansari</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Binwalk Path Traversal Vulnerability: Turning Firmware Analysis into Code Execution]]></title>
+        <id>https://payatu.com/?p=16134</id>
+        <link href="https://payatu.com/blog/binwalk-path-traversal-vulnerability-turning-firmware-analysis-into-code-execution/"/>
+        <updated>2026-06-10T08:12:09.000Z</updated>
+        <summary type="html"><![CDATA[The Bug That Turns Security Tools Against Researchers I found a bug in binwalk that lets an attacker write files anywhere on your computer. If you are a security researcher, you have probably used binwalk to pull apart firmware files. It comes pre-installed on Kali Linux. Hundreds of thousands of people use it every day. […]
+The post Binwalk Path Traversal Vulnerability: Turning Firmware Analysis into Code Execution appeared first on Payatu.]]></summary>
+        <author>
+            <name>Dhabaleshwar Das</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Raft算法处理细节 - NE_STOP]]></title>
+        <id>https://www.cnblogs.com/alineverstop/p/20423850</id>
+        <link href="https://www.cnblogs.com/alineverstop/p/20423850"/>
+        <updated>2026-06-10T07:41:00.000Z</updated>
+        <summary type="html"><![CDATA[Raft算法 Raft算法 是通过日志复制管理来达到集群节点一致性算法，这个日志复制管理发生在节点中的Leader和Followers之间。Leader节点负责管理日志复制过程，以实现各个节点间数据的一致性。 角色、人气及角色转变 Raft中，节点有三种角色： Leader：唯一复制客户端请求的节点]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[洛谷P14637 [NOIP2025] 树的价值超详细题解与碎碎念 - 司马只因锥]]></title>
+        <id>https://www.cnblogs.com/Simazhiyinzhui/p/20422301</id>
+        <link href="https://www.cnblogs.com/Simazhiyinzhui/p/20422301"/>
+        <updated>2026-06-10T06:57:00.000Z</updated>
+        <summary type="html"><![CDATA[前言 本文去掉代码全文共 4800 字。 这篇博客并非完全意义上的题解，主要是对我学习这道题的思路回顾与总结，基于以下两篇题解融合和补充（所以记号不是我原创的，我觉得尤其是第二篇题解定义的名词非常形象易懂直接抄了），以及一些碎碎念。 写了很多细节问题，都是我在学习这个题时思考过的，所以这篇文章非常长]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[当 leader 被隔离: etcd 网络分区深度分析 - 胡云Troy]]></title>
+        <id>https://www.cnblogs.com/xingzheanan/p/20422212</id>
+        <link href="https://www.cnblogs.com/xingzheanan/p/20422212"/>
+        <updated>2026-06-10T06:55:00.000Z</updated>
+        <summary type="html"><![CDATA[etcd-raft 节点在 follow，leader 和 candidate 状态流转。状态转移图如下： 图片摘自 https://raft.github.io/raft.pdf 正常情况下，各节点在自己的角色里好好干活。但是如果出现异常，比如网络分区后，各个节点会做什么呢？ 本文主要讨论网络分区]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[创建型模式：对象的诞生艺术 - 江鸟Dev]]></title>
         <id>https://www.cnblogs.com/lhy-dev/p/20406521</id>
