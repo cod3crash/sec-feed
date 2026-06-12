@@ -6,6 +6,86 @@
       "siteUrl": "http://h1.nobbd.de/",
       "articles": [
         {
+          "id": "https://hackerone.com/reports/3558713",
+          "author": null,
+          "description": "AWS VDP disclosed a bug submitted by inkerton: https://hackerone.com/reports/3558713",
+          "link": "https://hackerone.com/reports/3558713",
+          "publishedOn": "2026-06-11T16:54:20.000Z",
+          "wordCount": 25,
+          "title": "Command Injection via Unsanitized Bundling Options in `aws-cdk-lib/aws-lambda-nodejs`",
+          "imageUrl": "https://profile-photos.hackerone-user-content.com/variants/fgfqam8gl7lzo8u8v0kiphkxfyt8/5d27521e1b671a8e8bc4f016cace6a876120e5addf7dcc35ae4a5eac091669a9"
+        },
+        {
+          "id": "https://hackerone.com/reports/3738654",
+          "author": null,
+          "description": "AWS VDP disclosed a bug submitted by terrynini38514: https://hackerone.com/reports/3738654",
+          "link": "https://hackerone.com/reports/3738654",
+          "publishedOn": "2026-06-11T15:00:03.000Z",
+          "wordCount": 25,
+          "title": "Firecracker Out-of-bounds Read/Write Local Privilege Escalation Vulnerability",
+          "imageUrl": "https://profile-photos.hackerone-user-content.com/variants/fgfqam8gl7lzo8u8v0kiphkxfyt8/5d27521e1b671a8e8bc4f016cace6a876120e5addf7dcc35ae4a5eac091669a9"
+        },
+        {
+          "id": "https://hackerone.com/reports/3741744",
+          "author": null,
+          "description": "curl disclosed a bug submitted by bugthiru: https://hackerone.com/reports/3741744",
+          "link": "https://hackerone.com/reports/3741744",
+          "publishedOn": "2026-06-11T14:35:26.000Z",
+          "wordCount": 25,
+          "title": "CRLF Injection via Custom HTTP Headers",
+          "imageUrl": "https://profile-photos.hackerone-user-content.com/variants/000/035/663/2faf4c279d437d64bfda6d23d62ce1833813a4d9_original.png/f0e07660005686ec92c43da54c0094c1ac1b490ea8c5eac04a4081d912d6ce36"
+        },
+        {
+          "id": "https://hackerone.com/reports/3774279",
+          "author": null,
+          "description": "curl disclosed a bug submitted by fg0x0: https://hackerone.com/reports/3774279",
+          "link": "https://hackerone.com/reports/3774279",
+          "publishedOn": "2026-06-11T14:35:15.000Z",
+          "wordCount": 25,
+          "title": "heap-use-after-free in state.referer when CURLOPT_REFERER replaced or cleared after perform",
+          "imageUrl": "https://profile-photos.hackerone-user-content.com/variants/000/035/663/2faf4c279d437d64bfda6d23d62ce1833813a4d9_original.png/f0e07660005686ec92c43da54c0094c1ac1b490ea8c5eac04a4081d912d6ce36"
+        },
+        {
+          "id": "https://hackerone.com/reports/3619288",
+          "author": null,
+          "description": "DuckDuckGo disclosed a bug submitted by 6r1ff1n: https://hackerone.com/reports/3619288",
+          "link": "https://hackerone.com/reports/3619288",
+          "publishedOn": "2026-06-11T14:30:26.000Z",
+          "wordCount": 25,
+          "title": "RCE + PAT Exfiltration via pull_request_target in privacy-configuration/auto-respond-pr.yml  Direct Supply Chain to All DDG Browsers",
+          "imageUrl": "https://profile-photos.hackerone-user-content.com/variants/4mpaehke5u0ubioeqvys0hcesjle/f0e07660005686ec92c43da54c0094c1ac1b490ea8c5eac04a4081d912d6ce36"
+        },
+        {
+          "id": "https://hackerone.com/reports/3619287",
+          "author": null,
+          "description": "DuckDuckGo disclosed a bug submitted by 6r1ff1n: https://hackerone.com/reports/3619287",
+          "link": "https://hackerone.com/reports/3619287",
+          "publishedOn": "2026-06-11T14:28:34.000Z",
+          "wordCount": 25,
+          "title": "RCE + Supply Chain Attack via pull_request_target in content-scope-scripts/semver-label.yml  Affects All DuckDuckGo Browsers",
+          "imageUrl": "https://profile-photos.hackerone-user-content.com/variants/4mpaehke5u0ubioeqvys0hcesjle/f0e07660005686ec92c43da54c0094c1ac1b490ea8c5eac04a4081d912d6ce36"
+        },
+        {
+          "id": "https://hackerone.com/reports/3383079",
+          "author": null,
+          "description": "Rocket.Chat disclosed a bug submitted by button142857: https://hackerone.com/reports/3383079",
+          "link": "https://hackerone.com/reports/3383079",
+          "publishedOn": "2026-06-11T11:52:32.000Z",
+          "wordCount": 25,
+          "title": "SSRF via Improper Redirect Validation in Rocket.Chat oEmbed Function",
+          "imageUrl": "https://profile-photos.hackerone-user-content.com/variants/000/019/858/ada6c92a338715afad123af214dd6e22fd8dc6ff_original.png/f0e07660005686ec92c43da54c0094c1ac1b490ea8c5eac04a4081d912d6ce36"
+        },
+        {
+          "id": "https://hackerone.com/reports/3393664",
+          "author": null,
+          "description": "Rocket.Chat disclosed a bug submitted by button142857: https://hackerone.com/reports/3393664",
+          "link": "https://hackerone.com/reports/3393664",
+          "publishedOn": "2026-06-11T11:52:25.000Z",
+          "wordCount": 25,
+          "title": "SSRF via improper validation after DNS name resolution in the link-preview feature",
+          "imageUrl": "https://profile-photos.hackerone-user-content.com/variants/000/019/858/ada6c92a338715afad123af214dd6e22fd8dc6ff_original.png/f0e07660005686ec92c43da54c0094c1ac1b490ea8c5eac04a4081d912d6ce36"
+        },
+        {
           "id": "https://hackerone.com/reports/3791168",
           "author": null,
           "description": "curl disclosed a bug submitted by monk17: https://hackerone.com/reports/3791168",
@@ -1223,6 +1303,106 @@
       "siteUrl": "https://infosecwriteups.com?source=rss----7b722bfd1b8d---4",
       "articles": [
         {
+          "id": "https://medium.com/p/4e63637f7fd1",
+          "author": "JEETPAL",
+          "description": "",
+          "link": "https://infosecwriteups.com/ai-security-explanation-to-exploitation-part-1-4e63637f7fd1?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2026-06-11T18:41:50.000Z",
+          "wordCount": null,
+          "title": "AI Security: explanation to Exploitation || Part 1",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/909d20edf903",
+          "author": "Sandiyo Christan",
+          "description": "",
+          "link": "https://infosecwriteups.com/chaining-stored-xss-and-csrf-in-typemill-cms-a-deep-dive-into-attribute-injection-909d20edf903?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2026-06-11T18:41:26.000Z",
+          "wordCount": null,
+          "title": "Chaining Stored XSS and CSRF in Typemill CMS: A Deep Dive into Attribute Injection",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/85d43817b8f3",
+          "author": "Raymond Van Wart",
+          "description": "",
+          "link": "https://infosecwriteups.com/how-i-built-a-burp-extension-efficiently-with-claude-85d43817b8f3?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2026-06-11T18:41:18.000Z",
+          "wordCount": null,
+          "title": "How I Built a Burp Extension Efficiently with Claude",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/55e78851d04a",
+          "author": "Loay Salah",
+          "description": "",
+          "link": "https://infosecwriteups.com/ramnit-blue-team-lab-cyberdefenders-55e78851d04a?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2026-06-11T18:40:33.000Z",
+          "wordCount": null,
+          "title": "Ramnit Blue Team Lab (CyberDefenders)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/795964b602db",
+          "author": "ShadowForge",
+          "description": "",
+          "link": "https://infosecwriteups.com/making-a-sqli-lab-is-not-difficult-build-one-with-me-795964b602db?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2026-06-11T18:40:27.000Z",
+          "wordCount": null,
+          "title": "Making A SQLi Lab Is Not Difficult, Build One With Me.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/bda648238293",
+          "author": "Peter Uzs",
+          "description": "",
+          "link": "https://infosecwriteups.com/analyzing-cve-2026-32743-px4-mavlink-buffer-overflow-dos-bda648238293?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2026-06-11T18:40:21.000Z",
+          "wordCount": null,
+          "title": "Analyzing CVE-2026-32743: PX4 MAVLink Buffer Overflow DoS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/8f4620c035b2",
+          "author": "Alimuhammadsecured",
+          "description": "",
+          "link": "https://infosecwriteups.com/part-1-of-abusing-envoy-kubernetes-staging-servers-verb-tampering-to-achieve-xss-idors-and-8f4620c035b2?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2026-06-11T18:40:10.000Z",
+          "wordCount": null,
+          "title": "Hacking a Fortune 500 Finance Company via Envoy Proxy Misconfiguration",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/7886b59fa090",
+          "author": "Red",
+          "description": "Yes, There are Still Servers That Use It\nContinue reading on InfoSec Write-ups »",
+          "link": "https://infosecwriteups.com/hacking-into-a-server-through-ftp-7886b59fa090?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2026-06-11T18:37:27.000Z",
+          "wordCount": null,
+          "title": "Hacking Into A Server Through FTP",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/5fc2fc68fc5d",
+          "author": "Khaledyassen",
+          "description": "",
+          "link": "https://infosecwriteups.com/android-app-penetration-testing-from-apk-decompilation-to-runtime-exploitation-tools-and-labs-5fc2fc68fc5d?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2026-06-11T18:37:14.000Z",
+          "wordCount": null,
+          "title": "Android App Penetration Testing: From APK Decompilation to Runtime Exploitation [Tools and Labs]",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/01c27ab92b4e",
+          "author": "ShadowForge",
+          "description": "",
+          "link": "https://infosecwriteups.com/building-another-vulnerable-lab-ssrf-01c27ab92b4e?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2026-06-11T18:36:34.000Z",
+          "wordCount": null,
+          "title": "Building Another Vulnerable Lab — SSRF.",
+          "imageUrl": null
+        },
+        {
           "id": "https://medium.com/p/6d68ab7f9b7a",
           "author": "DeepCodeX",
           "description": "",
@@ -1649,6 +1829,96 @@
       "feedUrl": "https://medium.com/feed/tag/bugbounty",
       "siteUrl": "https://medium.com/tag/bugbounty/latest?source=rss------bugbounty-5",
       "articles": [
+        {
+          "id": "https://medium.com/p/85b61f8c9dea",
+          "author": "Jerry PM",
+          "description": "And the Patterns That Prevent Them\nContinue reading on Medium »",
+          "link": "https://21zerixpm.medium.com/7-swift-concurrency-bugs-that-shipped-to-production-85b61f8c9dea?source=rss------bugbounty-5",
+          "publishedOn": "2026-06-12T02:11:00.000Z",
+          "wordCount": null,
+          "title": "7 Swift Concurrency Bugs That Shipped to Production",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/fd4fd51ffcb3",
+          "author": "Vipul Sonule",
+          "description": "Hi, I’m Vipul 👋 — the human behind TheHackersLog Let me tell you something most people get wrong about bug bounty hunting.\nContinue reading on OSINT Team »",
+          "link": "https://osintteam.blog/top-platforms-to-earn-from-hacking-in-2026-fd4fd51ffcb3?source=rss------bugbounty-5",
+          "publishedOn": "2026-06-11T22:54:45.000Z",
+          "wordCount": null,
+          "title": "Top Platforms to Earn from Hacking in 2026",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/50c65e6347fc",
+          "author": "Kalyan Dev",
+          "description": "A balanced breakdown of the root cause, the exploit chain, and what defenders — and pentesters — should take away.\nContinue reading on Medium »",
+          "link": "https://medium.com/@kalyan.dev.me/cve-2025-0282-how-a-one-line-bug-in-ivantis-vpn-let-attackers-walk-through-the-front-door-50c65e6347fc?source=rss------bugbounty-5",
+          "publishedOn": "2026-06-11T21:54:37.000Z",
+          "wordCount": null,
+          "title": "CVE-2025–0282: How a One-Line Bug in Ivanti’s VPN Let Attackers Walk Through the Front Door",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/17ecffc0cd09",
+          "author": "Kalyan Dev",
+          "description": "The questions nobody asks — and the attacks that follow when they don’t\nContinue reading on Medium »",
+          "link": "https://medium.com/@kalyan.dev.me/we-encrypt-with-aes-256-is-not-a-security-architecture-17ecffc0cd09?source=rss------bugbounty-5",
+          "publishedOn": "2026-06-11T21:25:44.000Z",
+          "wordCount": null,
+          "title": "“We Encrypt With AES-256” Is Not a Security Architecture",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/5a8b8a2c1a96",
+          "author": "Fuzzyy Duck",
+          "description": "JWT Attacks, IDOR/BOLA, Mass Assignment, and Authorization Abuse in Real-World APIs\nContinue reading on OSINT Team »",
+          "link": "https://osintteam.blog/api-fuzzing-for-security-testing-part-2a-breaking-authentication-authorization-5a8b8a2c1a96?source=rss------bugbounty-5",
+          "publishedOn": "2026-06-11T20:03:05.000Z",
+          "wordCount": null,
+          "title": "API Fuzzing for Security Testing: Part 2A: Breaking Authentication & Authorization",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/ad3bf67a0513",
+          "author": "Prince Raj",
+          "description": "A few weeks ago, while interacting with the Bihar State Education Finance Corporation (BSEFCL) portal, I came across something that seemed…\nContinue reading on Medium »",
+          "link": "https://medium.com/@theprinceraj/discovering-a-security-flaw-in-a-government-portal-used-by-3-lakh-students-ad3bf67a0513?source=rss------bugbounty-5",
+          "publishedOn": "2026-06-11T18:54:08.000Z",
+          "wordCount": null,
+          "title": "Discovering a Security Flaw in a Government Portal Used by 3 Lakh+ Students",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/647075b02d27",
+          "author": "0x4rt1st",
+          "description": "The server is still making requests. You just have to find a different way to know that. Part 3 of the SSRF series.\nContinue reading on System Weakness »",
+          "link": "https://systemweakness.com/blind-ssrf-you-cant-see-the-response-you-don-t-need-to-647075b02d27?source=rss------bugbounty-5",
+          "publishedOn": "2026-06-11T17:54:57.000Z",
+          "wordCount": null,
+          "title": "Blind SSRF: You Can’t See the Response. You Don’t Need To.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/00a52a828aa8",
+          "author": "Pentester Club",
+          "description": "How AI Is Transforming Modern Bug Bounty Hunting and Penetration Testing\nContinue reading on Medium »",
+          "link": "https://medium.com/@pentesterclubpvtltd/claude-bughunter-ai-the-ultimate-ai-tool-for-bug-hunting-00a52a828aa8?source=rss------bugbounty-5",
+          "publishedOn": "2026-06-11T14:00:23.000Z",
+          "wordCount": null,
+          "title": "Claude BugHunter AI: The Ultimate AI Tool for Bug Hunting",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/1af57daa97ac",
+          "author": "Ariel404",
+          "description": "Hello! 👋\nContinue reading on Medium »",
+          "link": "https://medium.com/@vidhyagoswami026/my-first-step-into-cybersecurity-why-i-chose-penetration-testing-1af57daa97ac?source=rss------bugbounty-5",
+          "publishedOn": "2026-06-11T13:35:51.000Z",
+          "wordCount": null,
+          "title": "My First Step into Cybersecurity: Why I Chose Penetration Testing",
+          "imageUrl": null
+        },
         {
           "id": "https://medium.com/p/8e489a8ae3cd",
           "author": "JPablo13",
@@ -2427,6 +2697,56 @@
       "siteUrl": "https://medium.com/tag/redteam/latest?source=rss------redteam-5",
       "articles": [
         {
+          "id": "https://medium.com/p/b5fa95350a7b",
+          "author": "0xJBsec",
+          "description": "So far in this series, we’ve learned how networks work.\nContinue reading on Medium »",
+          "link": "https://medium.com/@0xJBsec/setting-up-your-cybersecurity-lab-b5fa95350a7b?source=rss------redteam-5",
+          "publishedOn": "2026-06-12T04:31:03.000Z",
+          "wordCount": null,
+          "title": "Setting Up Your Cybersecurity Lab",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/e3d49dec8675",
+          "author": "Osec",
+          "description": "NTDS.dit (New Technology Directory Services Directory Information Tree) is the core database of Active Directory Domain Services, storing…\nContinue reading on Medium »",
+          "link": "https://medium.com/@osec403/active-directory-attacks-ntds-dit-extraction-e3d49dec8675?source=rss------redteam-5",
+          "publishedOn": "2026-06-11T22:02:33.000Z",
+          "wordCount": null,
+          "title": "Active Directory Attacks — NTDS.dit Extraction",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/018ecd3d16cc",
+          "author": "Christopher Arock",
+          "description": "Part 2 of the Windows Privilege Escalation series\nContinue reading on Medium »",
+          "link": "https://medium.com/@christopherarock482004/windows-privesc-unquoted-service-paths-explained-018ecd3d16cc?source=rss------redteam-5",
+          "publishedOn": "2026-06-11T17:59:25.000Z",
+          "wordCount": null,
+          "title": "Windows PrivEsc: Unquoted Service Paths Explained",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/89d9a73c5d8a",
+          "author": "redacted",
+          "description": "Every security analyst remembers the first time they realized that the systems we trust to protect enterprise infrastructure are, by…\nContinue reading on Medium »",
+          "link": "https://medium.com/@devjoel880/insider-threat-i-simulating-an-advanced-malicious-actor-and-engineering-the-splunk-telemetry-89d9a73c5d8a?source=rss------redteam-5",
+          "publishedOn": "2026-06-11T15:23:00.000Z",
+          "wordCount": null,
+          "title": "Insider-Threat-I: Simulating an Advanced Malicious Actor and Engineering the Splunk Telemetry…",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/7b97a61211b6",
+          "author": "Bl00d",
+          "description": "Introduction\nContinue reading on Medium »",
+          "link": "https://medium.com/@findyourbugs/blacktop-bugthrive-ctf-lab-writeup-7b97a61211b6?source=rss------redteam-5",
+          "publishedOn": "2026-06-11T09:01:34.000Z",
+          "wordCount": null,
+          "title": "Blacktop — BugThrive CTF Lab Writeup",
+          "imageUrl": null
+        },
+        {
           "id": "https://medium.com/p/a3047e3fabee",
           "author": "Kaique Lima",
           "description": "Você já se perguntou o que acontece nos bastidores quando um Mac corporativo “sabe” que pertence a uma empresa antes mesmo de você criar…\nContinue reading on Medium »",
@@ -2953,6 +3273,106 @@
       "feedUrl": "https://medium.com/feed/bugbountywriteup",
       "siteUrl": "https://infosecwriteups.com?source=rss----7b722bfd1b8d---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/4e63637f7fd1",
+          "author": "JEETPAL",
+          "description": "",
+          "link": "https://infosecwriteups.com/ai-security-explanation-to-exploitation-part-1-4e63637f7fd1?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2026-06-11T18:41:50.000Z",
+          "wordCount": null,
+          "title": "AI Security: explanation to Exploitation || Part 1",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/909d20edf903",
+          "author": "Sandiyo Christan",
+          "description": "",
+          "link": "https://infosecwriteups.com/chaining-stored-xss-and-csrf-in-typemill-cms-a-deep-dive-into-attribute-injection-909d20edf903?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2026-06-11T18:41:26.000Z",
+          "wordCount": null,
+          "title": "Chaining Stored XSS and CSRF in Typemill CMS: A Deep Dive into Attribute Injection",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/85d43817b8f3",
+          "author": "Raymond Van Wart",
+          "description": "",
+          "link": "https://infosecwriteups.com/how-i-built-a-burp-extension-efficiently-with-claude-85d43817b8f3?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2026-06-11T18:41:18.000Z",
+          "wordCount": null,
+          "title": "How I Built a Burp Extension Efficiently with Claude",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/55e78851d04a",
+          "author": "Loay Salah",
+          "description": "",
+          "link": "https://infosecwriteups.com/ramnit-blue-team-lab-cyberdefenders-55e78851d04a?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2026-06-11T18:40:33.000Z",
+          "wordCount": null,
+          "title": "Ramnit Blue Team Lab (CyberDefenders)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/795964b602db",
+          "author": "ShadowForge",
+          "description": "",
+          "link": "https://infosecwriteups.com/making-a-sqli-lab-is-not-difficult-build-one-with-me-795964b602db?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2026-06-11T18:40:27.000Z",
+          "wordCount": null,
+          "title": "Making A SQLi Lab Is Not Difficult, Build One With Me.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/bda648238293",
+          "author": "Peter Uzs",
+          "description": "",
+          "link": "https://infosecwriteups.com/analyzing-cve-2026-32743-px4-mavlink-buffer-overflow-dos-bda648238293?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2026-06-11T18:40:21.000Z",
+          "wordCount": null,
+          "title": "Analyzing CVE-2026-32743: PX4 MAVLink Buffer Overflow DoS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/8f4620c035b2",
+          "author": "Alimuhammadsecured",
+          "description": "",
+          "link": "https://infosecwriteups.com/part-1-of-abusing-envoy-kubernetes-staging-servers-verb-tampering-to-achieve-xss-idors-and-8f4620c035b2?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2026-06-11T18:40:10.000Z",
+          "wordCount": null,
+          "title": "Hacking a Fortune 500 Finance Company via Envoy Proxy Misconfiguration",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/7886b59fa090",
+          "author": "Red",
+          "description": "Yes, There are Still Servers That Use It\nContinue reading on InfoSec Write-ups »",
+          "link": "https://infosecwriteups.com/hacking-into-a-server-through-ftp-7886b59fa090?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2026-06-11T18:37:27.000Z",
+          "wordCount": null,
+          "title": "Hacking Into A Server Through FTP",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/5fc2fc68fc5d",
+          "author": "Khaledyassen",
+          "description": "",
+          "link": "https://infosecwriteups.com/android-app-penetration-testing-from-apk-decompilation-to-runtime-exploitation-tools-and-labs-5fc2fc68fc5d?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2026-06-11T18:37:14.000Z",
+          "wordCount": null,
+          "title": "Android App Penetration Testing: From APK Decompilation to Runtime Exploitation [Tools and Labs]",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/01c27ab92b4e",
+          "author": "ShadowForge",
+          "description": "",
+          "link": "https://infosecwriteups.com/building-another-vulnerable-lab-ssrf-01c27ab92b4e?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2026-06-11T18:36:34.000Z",
+          "wordCount": null,
+          "title": "Building Another Vulnerable Lab — SSRF.",
+          "imageUrl": null
+        },
         {
           "id": "https://medium.com/p/6d68ab7f9b7a",
           "author": "DeepCodeX",
@@ -4318,6 +4738,206 @@
       "feedUrl": "https://feed.cnblogs.com/blog/sitehome/rss",
       "siteUrl": null,
       "articles": [
+        {
+          "id": "https://www.cnblogs.com/ka1kai/p/20473430",
+          "author": null,
+          "description": "2026 年中大促正式开启。6 月 16 日至 6 月 30 日，凌霞软件旗下 Halo 建站系统与 1Panel 服务器管理面板全线产品一律 5 折优惠，新购、订阅续期、版本升级、版本变更四类订单均享折扣，无需输码、无需凑单。同期开放两轮大额满减券，可与半价折扣叠加使用，最高额外再省 &#165;800。",
+          "link": "https://www.cnblogs.com/ka1kai/p/20473430",
+          "publishedOn": "2026-06-12T04:14:00.000Z",
+          "wordCount": 389,
+          "title": "凌霞 618 年中大促，全线半价，叠加满减！ - kaika1",
+          "imageUrl": "https://img2024.cnblogs.com/blog/3591619/202606/3591619-20260612121323317-1731855434.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/ulricqin/p/20471719",
+          "author": null,
+          "description": "很多团队已经有 APM 了。 Java 服务接了 SkyWalking，云上应用用了 ARMS，部分云原生团队接了 Jaeger，新项目开始按 OpenTelemetry 做链路追踪。慢接口、错误调用、服务拓扑、Trace 瀑布图，也都能看。 所以当有人再提“统一可观测平台”时，团队会有一个很自然的",
+          "link": "https://www.cnblogs.com/ulricqin/p/20471719",
+          "publishedOn": "2026-06-12T03:42:00.000Z",
+          "wordCount": 575,
+          "title": "SkyWalking / Jaeger / ARMS 已经有了，还需要统一可观测平台吗 - IT运维监控",
+          "imageUrl": "https://img2024.cnblogs.com/blog/2036615/202606/2036615-20260612114053131-1551061998.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/JuiceData/p/20471460",
+          "author": null,
+          "description": "星辰征途是一家聚焦 AI 搜索与电商场景多模态 AIGC 应用的初创公司，成立两年多，业务主要面向海外市场。公司目前的主要产品包括：Gensmo（gensmo.com） 聚焦时尚穿搭，提供虚拟试穿、造型推荐和商品搜索；ZooClaw（zooclaw.ai） 面向更广泛的生活与工作场景，提供 AI A",
+          "link": "https://www.cnblogs.com/JuiceData/p/20471460",
+          "publishedOn": "2026-06-12T03:38:00.000Z",
+          "wordCount": 914,
+          "title": "42 倍小文件性能提升、85% 吞吐增长：多云 AI 场景下的 JuiceFS 存储实践 - JuiceFS",
+          "imageUrl": "https://img2024.cnblogs.com/blog/2544292/202606/2544292-20260612113729354-2111416276.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/yaolin1228/p/20470870",
+          "author": null,
+          "description": "在 AI 时代，获取知识已经不是瓶颈了。真正的瓶颈是——你积累了那么多东西，但它们从来没有被&quot;编译&quot;过。 信息囤积 ≠ 知识积累 看看你自己的数字生活：微信收藏了几百篇文章，Obsidian 里存了上千条笔记，浏览器书签栏挤得连图标都看不清，聊天记录里散落着各种&quot;稍后看&quot;的截图。 这些东西加起来可能",
+          "link": "https://www.cnblogs.com/yaolin1228/p/20470870",
+          "publishedOn": "2026-06-12T03:29:00.000Z",
+          "wordCount": 475,
+          "title": "为什么你的收藏越积越多，却越来越没用？ - 张居斜",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/liuziyi1/p/20470373",
+          "author": null,
+          "description": "很多团队一谈到数据库审计，第一反应就是“把所有 SQL 都记下来”。仿佛日志越全，安全感越足。可真到出事的时候，却发现自己面对的只是海量文本，根本不知道从何查起。真正有价值的数据库审计，必须能够清晰回答四个问题： 谁做了高风险操作？ 针对哪个库、哪张表、哪些数据做的？ 这个动作是否越权、异常或违反流",
+          "link": "https://www.cnblogs.com/liuziyi1/p/20470373",
+          "publishedOn": "2026-06-12T03:22:00.000Z",
+          "wordCount": 557,
+          "title": "数据库审计不是记流水账：先锁定高危动作与关键对象，再谈数据集与工具落地 - 刘子毅",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/accordion/p/20470065",
+          "author": null,
+          "description": "本文基于 0xkato 的英文文章 &quot;How LLMs Actually Work&quot; 改写整理，用于中文读者学习参考。 原文：https://www.0xkato.xyz/how-llms-actually-work 标签：Machine Learning &#183; Transformers &#183; LLM",
+          "link": "https://www.cnblogs.com/accordion/p/20470065",
+          "publishedOn": "2026-06-12T03:17:00.000Z",
+          "wordCount": 1239,
+          "title": "How LLMs Actually Work（翻译） - royalrover",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/uniqueDong/p/20468209",
+          "author": null,
+          "description": "上周我在 Claude Code 里说了一句：「帮我把今天的站会纪要发到研发群」。 Claude 很流畅地组织好了内容，然后调用 lark-cli 发送。在它真的发出去之前，终端里打出了一段 dry-run 预览——消息体、目标群组 ID、发送时间，全部清清楚楚列在屏幕上，等我确认。 我看了一眼，发",
+          "link": "https://www.cnblogs.com/uniqueDong/p/20468209",
+          "publishedOn": "2026-06-12T02:29:00.000Z",
+          "wordCount": 1233,
+          "title": "用了 lark-cli 一个月，AI 操作飞书再也没出过岔子——说说真实体验 - 码哥字节",
+          "imageUrl": "https://img2024.cnblogs.com/blog/735767/202605/735767-20260526114014236-744639895.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/zhuoshengjie/p/20467366",
+          "author": null,
+          "description": "操作真实 DOM 有多贵？ 先看一段代码： // 把一个 &lt;div&gt; 的背景色改成红色 document.getElementById(&#39;box&#39;).style.backgroundColor = &#39;red&#39; 你觉得这一行代码的执行成本是多少？ 答案远比你想象的复杂： 1. JS 引擎找到 DOM",
+          "link": "https://www.cnblogs.com/zhuoshengjie/p/20467366",
+          "publishedOn": "2026-06-12T02:06:00.000Z",
+          "wordCount": 947,
+          "title": "虚拟 DOM —— 中间层的智慧 - 微山湖上静悄悄",
+          "imageUrl": "https://img2024.cnblogs.com/blog/1952796/202606/1952796-20260612100608894-1088407157.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/kakarotto-chen/p/20467241",
+          "author": null,
+          "description": "Claude Code 配置第三方模型后，内置工具到底用的谁的？ 核心问题：Claude Code 配了智谱（Z.AI）的 key 后，WebSearch、图片分析、web_fetch 这些能力，是用的 Claude/Anthropic 原生的，还是被替换成了 GLM 的？ 结论：全部用的是智谱的",
+          "link": "https://www.cnblogs.com/kakarotto-chen/p/20467241",
+          "publishedOn": "2026-06-12T02:01:00.000Z",
+          "wordCount": 935,
+          "title": "Claude Code 配置第三方模型后，内置工具到底用的谁的？ - C_C_菜园",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/Sol9/p/20466361",
+          "author": null,
+          "description": "Spring Cloud Gateway 的 SpEL 表达式注入漏洞（CVE-2022-22947） 受影响版本 以下版本的 Spring Cloud Gateway 存在此漏洞： 3.1.0 3.0.0 至 3.0.6 以及其他更早的、已停止维护的版本 环境搭建 由于我是在公司电脑（刚入职），所",
+          "link": "https://www.cnblogs.com/Sol9/p/20466361",
+          "publishedOn": "2026-06-12T01:30:00.000Z",
+          "wordCount": 667,
+          "title": "Spring Cloud Gateway 的 SpEL 表达式注入漏洞（CVE-2022-22947） - Sol_9",
+          "imageUrl": "https://img2024.cnblogs.com/blog/3409507/202606/3409507-20260612092801541-1174078276.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/ai-old-six/p/20465965",
+          "author": null,
+          "description": "Google AX 的重点不在“再造一个 Agent 框架”，而在补上 控制面、状态恢复、故障隔离、权限审计 这些真正决定生产可用性的工程能力。",
+          "link": "https://www.cnblogs.com/ai-old-six/p/20465965",
+          "publishedOn": "2026-06-12T01:18:00.000Z",
+          "wordCount": 629,
+          "title": "Google AX 控制面拆解：分布式 Agent 如何把断点恢复、审计策略和执行调度收进同一条链路 - AI小老六",
+          "imageUrl": "https://img2024.cnblogs.com/blog/3798513/202606/3798513-20260612091607832-1742801543.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/artech/p/20464876/chat-client-pipeline-08",
+          "author": null,
+          "description": "赋予部署的应用和服务可观测性已经是一个基本的需求，在这方面，`OpenTelemetry`无疑已经称为了事实上的标准。`OpenTelemetryChatClient`是一个预定义的`IChatClient`中间件，它利用重写的`GetResponseAsync`和`GetResponseStrea...",
+          "link": "https://www.cnblogs.com/artech/p/20464876/chat-client-pipeline-08",
+          "publishedOn": "2026-06-12T00:26:00.000Z",
+          "wordCount": 713,
+          "title": "[MAF预定义ChatClient中间件-08]OpenTelemetryChatClient-实现链路跟踪和性能监控 - Artech",
+          "imageUrl": "https://img2024.cnblogs.com/blog/19327/202606/19327-20260612082522343-1724356505.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/hnzhengfy/p/20461386/MIMO_Code",
+          "author": null,
+          "description": "〇、前言 2026年6月11日，小米 MiMo 团队正式发布并开源 MiMo Code V0.1.0。 官方宣称：MIMO Code 是面向开发者的新一代&#160;AI&#160;编程助手，支持无限上下文，帮助你更高效地理解、构建与协作。 那么它到底是一个怎样的编程助手，本文将进行一个简单的介绍，供参考。 官网地址：",
+          "link": "https://www.cnblogs.com/hnzhengfy/p/20461386/MIMO_Code",
+          "publishedOn": "2026-06-11T15:57:00.000Z",
+          "wordCount": 951,
+          "title": "小米开源编程助手 MIMO Code 简介和简单使用测试 - 橙子家",
+          "imageUrl": "https://img2024.cnblogs.com/blog/1868241/202606/1868241-20260611230719156-689717362.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/tansm/p/20462280/mcp_resource",
+          "author": null,
+          "description": "本文使用AI辅助编写。 在设计 MCP Server 时，很多人会先想到 tools。比如连接 SQL Server 后，可以提供 list_tables、describe_table、execute_query、get_procedure_definition 等工具。这样确实可以让 AI 查询数",
+          "link": "https://www.cnblogs.com/tansm/p/20462280/mcp_resource",
+          "publishedOn": "2026-06-11T15:27:00.000Z",
+          "wordCount": 1717,
+          "title": "如何更优雅地提供 MCP Resources - 编写人生",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/xw-01/p/20462236",
+          "author": null,
+          "description": "系统规划与管理师 到底是干嘛的？很多考友尤其是做运维的兄弟，经常在“高项”和“系规”之间纠结。今天咱们就用最直白的大白话，把这个系统规划与管理师拆解开看。建议点赞+收藏，下次报名时可以翻出来了解下。 一、 为什么大家都对“系规”有误解？ 很多朋友一听到“系统规划与管理师”，第一反应就是：这不就是个高",
+          "link": "https://www.cnblogs.com/xw-01/p/20462236",
+          "publishedOn": "2026-06-11T15:19:00.000Z",
+          "wordCount": 533,
+          "title": "软考系统规划与管理师到底是干嘛的？用“大厂物业经理”的逻辑带你了解软考系规 - 二价亚铁",
+          "imageUrl": "https://img2024.cnblogs.com/blog/3237288/202606/3237288-20260611230213214-1596977978.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/rossiXYZ/p/20431463",
+          "author": null,
+          "description": "【强化学习框架】Uni-Agent 深度技术分析（2） 关键技术 目录【强化学习框架】Uni-Agent 深度技术分析（2） 关键技术0x00 概要0x01 修改扩展点1.1 verl 扩展点全景1.2 关键扩展点详解E1: AgentLoopBase——继承契约E3: 注册机制——外部注入 vs",
+          "link": "https://www.cnblogs.com/rossiXYZ/p/20431463",
+          "publishedOn": "2026-06-11T13:34:00.000Z",
+          "wordCount": 3377,
+          "title": "【强化学习框架】Uni-Agent 深度技术分析（2）--- 关键技术 - 罗西的思考",
+          "imageUrl": "https://img2024.cnblogs.com/blog/1850883/202606/1850883-20260610204209010-1980230759.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/accordion/p/20458508",
+          "author": null,
+          "description": "01 &#183; 先建立直觉：训练 = 一个反复打分与改作业的循环 假设你在教一个学生做数学题。流程是这样的：题目给他做（前向）、老师打分（loss）、老师指出每一步错在哪、错多少（反向求梯度）、学生根据这些反馈修改自己的解题习惯（优化器更新参数）。 神经网络的训练本质上就是这个循环，只是&quot;学生&quot;换成了一堆",
+          "link": "https://www.cnblogs.com/accordion/p/20458508",
+          "publishedOn": "2026-06-11T11:23:00.000Z",
+          "wordCount": 1234,
+          "title": "微调LLM前你需要了解的一些概念-- 反向传播解析 - royalrover",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/sun-10387834/p/20457873",
+          "author": null,
+          "description": "凌晨三点，手机疯狂报警——Redis CPU 100%，内存快满了，业务接口一个个超时…… 别慌，这篇文章不堆术语，我会像聊天一样，带你一步步排查问题、稳住现场、顺便把优化思路讲清楚。 一、先搞清楚“爆”是什么意思？ “机器爆了”通常指以下几种情况，不同情况处理方式不一样： 现象（你能看到什么） 最",
+          "link": "https://www.cnblogs.com/sun-10387834/p/20457873",
+          "publishedOn": "2026-06-11T10:32:00.000Z",
+          "wordCount": 805,
+          "title": "线上 Redis 突然“爆”了，怎么办？ - 佛祖让我来巡山",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/CH3CH2OH-Blog/p/20455098",
+          "author": null,
+          "description": "PortSwigger SQL注入LAB12 今天我们来做PortSwigger SQL注入的LAB12，这道LAB跟之前的几道LAB不太一样，但是更加贴近现实了，那么我们现在开始吧: 【本篇目标】1. 理解并掌握基于可视化错误的SQL注入2. 通过SQL注入来获取所需administrator的密",
+          "link": "https://www.cnblogs.com/CH3CH2OH-Blog/p/20455098",
+          "publishedOn": "2026-06-11T09:05:00.000Z",
+          "wordCount": 391,
+          "title": "PortSwigger SQL注入LAB11 - C2H5OH",
+          "imageUrl": "https://img2024.cnblogs.com/blog/3695872/202606/3695872-20260611154717889-2066724642.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/itheo/p/20454087/kingbase-v8-restore",
+          "author": null,
+          "description": "把全量备份的 Kingbase v8 实例备份文件恢复到另外一个实例中 背景介绍： 公司的机房断电！！！虽然离谱但是它就是断电了。导致安装了麒麟V10操作系统的服务器宕机且尝试了几种方式后均无法恢复启动，好在磁盘是完好的。因为是测试服务器，经过评估后选择重装系统。服务器上仅有的比较重要一些的资产是部",
+          "link": "https://www.cnblogs.com/itheo/p/20454087/kingbase-v8-restore",
+          "publishedOn": "2026-06-11T08:44:00.000Z",
+          "wordCount": 624,
+          "title": "机房断电搞崩服务器 | 人大金仓 V8 全量备份跨实例完整恢复实录 - Theo·Chan",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
         {
           "id": "https://www.cnblogs.com/vivotech/p/20442935",
           "author": null,
@@ -6234,6 +6854,86 @@
       "feedUrl": "http://h1.nobbd.de/reports_rss.xml",
       "siteUrl": "http://h1.nobbd.de/",
       "articles": [
+        {
+          "id": "https://hackerone.com/reports/3558713",
+          "author": null,
+          "description": "AWS VDP disclosed a bug submitted by inkerton: https://hackerone.com/reports/3558713",
+          "link": "https://hackerone.com/reports/3558713",
+          "publishedOn": "2026-06-11T16:54:20.000Z",
+          "wordCount": 25,
+          "title": "Command Injection via Unsanitized Bundling Options in `aws-cdk-lib/aws-lambda-nodejs`",
+          "imageUrl": "https://profile-photos.hackerone-user-content.com/variants/fgfqam8gl7lzo8u8v0kiphkxfyt8/5d27521e1b671a8e8bc4f016cace6a876120e5addf7dcc35ae4a5eac091669a9"
+        },
+        {
+          "id": "https://hackerone.com/reports/3738654",
+          "author": null,
+          "description": "AWS VDP disclosed a bug submitted by terrynini38514: https://hackerone.com/reports/3738654",
+          "link": "https://hackerone.com/reports/3738654",
+          "publishedOn": "2026-06-11T15:00:03.000Z",
+          "wordCount": 25,
+          "title": "Firecracker Out-of-bounds Read/Write Local Privilege Escalation Vulnerability",
+          "imageUrl": "https://profile-photos.hackerone-user-content.com/variants/fgfqam8gl7lzo8u8v0kiphkxfyt8/5d27521e1b671a8e8bc4f016cace6a876120e5addf7dcc35ae4a5eac091669a9"
+        },
+        {
+          "id": "https://hackerone.com/reports/3741744",
+          "author": null,
+          "description": "curl disclosed a bug submitted by bugthiru: https://hackerone.com/reports/3741744",
+          "link": "https://hackerone.com/reports/3741744",
+          "publishedOn": "2026-06-11T14:35:26.000Z",
+          "wordCount": 25,
+          "title": "CRLF Injection via Custom HTTP Headers",
+          "imageUrl": "https://profile-photos.hackerone-user-content.com/variants/000/035/663/2faf4c279d437d64bfda6d23d62ce1833813a4d9_original.png/f0e07660005686ec92c43da54c0094c1ac1b490ea8c5eac04a4081d912d6ce36"
+        },
+        {
+          "id": "https://hackerone.com/reports/3774279",
+          "author": null,
+          "description": "curl disclosed a bug submitted by fg0x0: https://hackerone.com/reports/3774279",
+          "link": "https://hackerone.com/reports/3774279",
+          "publishedOn": "2026-06-11T14:35:15.000Z",
+          "wordCount": 25,
+          "title": "heap-use-after-free in state.referer when CURLOPT_REFERER replaced or cleared after perform",
+          "imageUrl": "https://profile-photos.hackerone-user-content.com/variants/000/035/663/2faf4c279d437d64bfda6d23d62ce1833813a4d9_original.png/f0e07660005686ec92c43da54c0094c1ac1b490ea8c5eac04a4081d912d6ce36"
+        },
+        {
+          "id": "https://hackerone.com/reports/3619288",
+          "author": null,
+          "description": "DuckDuckGo disclosed a bug submitted by 6r1ff1n: https://hackerone.com/reports/3619288",
+          "link": "https://hackerone.com/reports/3619288",
+          "publishedOn": "2026-06-11T14:30:26.000Z",
+          "wordCount": 25,
+          "title": "RCE + PAT Exfiltration via pull_request_target in privacy-configuration/auto-respond-pr.yml  Direct Supply Chain to All DDG Browsers",
+          "imageUrl": "https://profile-photos.hackerone-user-content.com/variants/4mpaehke5u0ubioeqvys0hcesjle/f0e07660005686ec92c43da54c0094c1ac1b490ea8c5eac04a4081d912d6ce36"
+        },
+        {
+          "id": "https://hackerone.com/reports/3619287",
+          "author": null,
+          "description": "DuckDuckGo disclosed a bug submitted by 6r1ff1n: https://hackerone.com/reports/3619287",
+          "link": "https://hackerone.com/reports/3619287",
+          "publishedOn": "2026-06-11T14:28:34.000Z",
+          "wordCount": 25,
+          "title": "RCE + Supply Chain Attack via pull_request_target in content-scope-scripts/semver-label.yml  Affects All DuckDuckGo Browsers",
+          "imageUrl": "https://profile-photos.hackerone-user-content.com/variants/4mpaehke5u0ubioeqvys0hcesjle/f0e07660005686ec92c43da54c0094c1ac1b490ea8c5eac04a4081d912d6ce36"
+        },
+        {
+          "id": "https://hackerone.com/reports/3383079",
+          "author": null,
+          "description": "Rocket.Chat disclosed a bug submitted by button142857: https://hackerone.com/reports/3383079",
+          "link": "https://hackerone.com/reports/3383079",
+          "publishedOn": "2026-06-11T11:52:32.000Z",
+          "wordCount": 25,
+          "title": "SSRF via Improper Redirect Validation in Rocket.Chat oEmbed Function",
+          "imageUrl": "https://profile-photos.hackerone-user-content.com/variants/000/019/858/ada6c92a338715afad123af214dd6e22fd8dc6ff_original.png/f0e07660005686ec92c43da54c0094c1ac1b490ea8c5eac04a4081d912d6ce36"
+        },
+        {
+          "id": "https://hackerone.com/reports/3393664",
+          "author": null,
+          "description": "Rocket.Chat disclosed a bug submitted by button142857: https://hackerone.com/reports/3393664",
+          "link": "https://hackerone.com/reports/3393664",
+          "publishedOn": "2026-06-11T11:52:25.000Z",
+          "wordCount": 25,
+          "title": "SSRF via improper validation after DNS name resolution in the link-preview feature",
+          "imageUrl": "https://profile-photos.hackerone-user-content.com/variants/000/019/858/ada6c92a338715afad123af214dd6e22fd8dc6ff_original.png/f0e07660005686ec92c43da54c0094c1ac1b490ea8c5eac04a4081d912d6ce36"
+        },
         {
           "id": "https://hackerone.com/reports/3791168",
           "author": null,
