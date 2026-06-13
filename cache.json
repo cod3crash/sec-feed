@@ -6,6 +6,16 @@
       "siteUrl": "http://h1.nobbd.de/",
       "articles": [
         {
+          "id": "https://hackerone.com/reports/3781015",
+          "author": null,
+          "description": "Node.js disclosed a bug submitted by shinchan_69: https://hackerone.com/reports/3781015",
+          "link": "https://hackerone.com/reports/3781015",
+          "publishedOn": "2026-06-12T09:46:19.000Z",
+          "wordCount": 25,
+          "title": "Incomplete Fix for CVE-2026-21637: OCSPRequest and resumeSession Events Crash Node.js TLS Server via Unhandled Synchronous Exceptions",
+          "imageUrl": "https://profile-photos.hackerone-user-content.com/variants/000/022/984/e600648ace4a8553247bce967d461a030aa81d49_original.png/f0e07660005686ec92c43da54c0094c1ac1b490ea8c5eac04a4081d912d6ce36"
+        },
+        {
           "id": "https://hackerone.com/reports/3558713",
           "author": null,
           "description": "AWS VDP disclosed a bug submitted by inkerton: https://hackerone.com/reports/3558713",
@@ -1303,6 +1313,86 @@
       "siteUrl": "https://infosecwriteups.com?source=rss----7b722bfd1b8d---4",
       "articles": [
         {
+          "id": "https://medium.com/p/3b49a1afe7f6",
+          "author": "Loay Salah",
+          "description": "",
+          "link": "https://infosecwriteups.com/ieee-mansb-ctf-2025-dfir-writeup-3b49a1afe7f6?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2026-06-12T07:12:45.000Z",
+          "wordCount": null,
+          "title": "IEEE Victoris 4.0 — CTF 2025 — Quals DFIR Challenges",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/c7490e76f1b5",
+          "author": "Loay Salah",
+          "description": "",
+          "link": "https://infosecwriteups.com/dvwa-cheat-sheet-low-medium-c7490e76f1b5?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2026-06-12T07:11:08.000Z",
+          "wordCount": null,
+          "title": "DVWA Cheat Sheet (Low & Medium)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/e41226314564",
+          "author": "Ronak Mishra",
+          "description": "",
+          "link": "https://infosecwriteups.com/how-i-built-a-soar-automation-in-microsoft-sentinel-that-responds-to-attacks-without-a-single-click-e41226314564?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2026-06-12T07:10:39.000Z",
+          "wordCount": null,
+          "title": "How I Built a SOAR Automation in Microsoft Sentinel That Responds to Attacks Without a Single Click",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/742927383722",
+          "author": "h@shtalk",
+          "description": "",
+          "link": "https://infosecwriteups.com/six-levels-one-lesson-llms-cannot-keep-a-secret-742927383722?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2026-06-12T07:10:12.000Z",
+          "wordCount": null,
+          "title": "Six levels, one lesson: LLMs cannot keep a secret",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/251e073757f5",
+          "author": "Raymond Ebonine",
+          "description": "Learn how to recover complete access to a self-hosted n8n Docker deployment when password reset emails fail.\nContinue reading on InfoSec Write-ups »",
+          "link": "https://infosecwriteups.com/recovering-a-forgotten-password-in-a-self-hosted-n8n-docker-deployment-251e073757f5?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2026-06-12T07:08:44.000Z",
+          "wordCount": null,
+          "title": "Recovering a Forgotten Password in a Self-Hosted n8n Docker Deployment",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/62e85ad28cb0",
+          "author": "Roshan Rajbanshi",
+          "description": "",
+          "link": "https://infosecwriteups.com/header-manipulation-bypasses-probing-and-the-security-audit-nobody-does-62e85ad28cb0?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2026-06-12T07:08:24.000Z",
+          "wordCount": null,
+          "title": "Header Manipulation: Bypasses, Probing, and the Security Audit Nobody Does",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/35b0627ceac2",
+          "author": "Criminal IP",
+          "description": "",
+          "link": "https://infosecwriteups.com/beyond-the-patch-understanding-the-sonicwall-ssl-vpn-mfa-bypass-exposure-35b0627ceac2?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2026-06-12T07:07:11.000Z",
+          "wordCount": null,
+          "title": "Beyond the Patch: Understanding the SonicWall SSL-VPN MFA Bypass Exposure",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/c2a65ea22267",
+          "author": "Handhika Yanuar Pratama",
+          "description": "Building a simple attack lab to understand how Fail2Ban detects and blocks repeated SSH login attempts.\nContinue reading on InfoSec Write-ups »",
+          "link": "https://infosecwriteups.com/i-simulated-an-ssh-brute-force-attack-on-my-ubuntu-server-heres-how-fail2ban-stopped-it-c2a65ea22267?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2026-06-12T07:06:35.000Z",
+          "wordCount": null,
+          "title": "I Simulated an SSH Brute-Force Attack on My Ubuntu Server — Here’s How Fail2Ban Stopped It",
+          "imageUrl": null
+        },
+        {
           "id": "https://medium.com/p/4e63637f7fd1",
           "author": "JEETPAL",
           "description": "",
@@ -1829,6 +1919,96 @@
       "feedUrl": "https://medium.com/feed/tag/bugbounty",
       "siteUrl": "https://medium.com/tag/bugbounty/latest?source=rss------bugbounty-5",
       "articles": [
+        {
+          "id": "https://medium.com/p/e30f314765b8",
+          "author": "EMTIAZ AHMED",
+          "description": "A beginner’s deep dive into bug bounty hunting: mindset, methodology, and the moment everything clicked.\nContinue reading on Medium »",
+          "link": "https://infyra.medium.com/how-i-found-a-critical-vulnerability-in-a-fortune-500-company-and-got-paid-15-000-for-it-e30f314765b8?source=rss------bugbounty-5",
+          "publishedOn": "2026-06-13T03:44:50.000Z",
+          "wordCount": null,
+          "title": "How I Found a Critical Vulnerability in a Fortune 500 Company — and Got Paid $15,000 for It",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/e39a4ef6990f",
+          "author": "Mohammad Ehab",
+          "description": "Like many security researchers, I occasionally spend time reviewing authentication flows on platforms that I personally use. Most of the…\nContinue reading on Medium »",
+          "link": "https://medium.com/@mohammad.ehab7760/how-a-simple-mfa-test-turned-into-an-interesting-meta-authentication-research-case-e39a4ef6990f?source=rss------bugbounty-5",
+          "publishedOn": "2026-06-13T02:42:23.000Z",
+          "wordCount": null,
+          "title": "How a Simple MFA Test Turned Into an Interesting Meta Authentication Research Case",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/492853db8ff8",
+          "author": "SilentExploit",
+          "description": "Start off with a nmap scan of the target:\nContinue reading on Medium »",
+          "link": "https://medium.com/@SilentExploit/nibbles-proving-grounds-oscp-preparation-492853db8ff8?source=rss------bugbounty-5",
+          "publishedOn": "2026-06-13T00:44:09.000Z",
+          "wordCount": null,
+          "title": "Nibbles | Proving Grounds | OSCP Preparation",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/0927b973878a",
+          "author": "mrci0x1",
+          "description": "One evening, I was exploring the internet like a digital detective, using a Shodan to hunt for hidden clues. Suddenly, I found an open…\nContinue reading on Medium »",
+          "link": "https://medium.com/@mrcix/exposed-sensitive-logs-and-sql-queries-revealing-user-data-0927b973878a?source=rss------bugbounty-5",
+          "publishedOn": "2026-06-13T00:33:58.000Z",
+          "wordCount": null,
+          "title": "Exposed Sensitive Logs and SQL Queries Revealing User Data",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/5eac7a799f2b",
+          "author": "JPablo13",
+          "description": "Master information disclosure vulnerabilities: identify attack vectors, exploit leaks, and mitigate web security risks.\nContinue reading on Medium »",
+          "link": "https://medium.com/@jpablo13/essential-guide-to-information-disclosure-5eac7a799f2b?source=rss------bugbounty-5",
+          "publishedOn": "2026-06-13T00:01:01.000Z",
+          "wordCount": null,
+          "title": "Essential Guide to Information Disclosure",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/d8a767f4483e",
+          "author": "Ion Leu",
+          "description": "Brie is a browser extension that helps developers and QA teams capture and report bugs with full context , automatically. Instead of…\nContinue reading on Medium »",
+          "link": "https://medium.com/@ion.leu/what-is-brie-bug-capture-tool-d8a767f4483e?source=rss------bugbounty-5",
+          "publishedOn": "2026-06-12T23:18:27.000Z",
+          "wordCount": null,
+          "title": "What is Brie — Bug Capture Tool?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/233e81c51b33",
+          "author": "0x4rt1st",
+          "description": "You entered a name. The server treated it as code. Learning how to identify and fingerprint Server-Side Template Injection vulnerabilities.\nContinue reading on InfoSec Write-ups »",
+          "link": "https://infosecwriteups.com/ssti-when-the-server-runs-what-you-type-233e81c51b33?source=rss------bugbounty-5",
+          "publishedOn": "2026-06-12T20:58:30.000Z",
+          "wordCount": null,
+          "title": "SSTI: When the Server Runs What You Type",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/58cad28c61b8",
+          "author": "kingshark",
+          "description": "Yes believe me your first real bug is probably closer than you think.\nContinue reading on Medium »",
+          "link": "https://medium.com/@kingshark/how-i-found-my-first-bug-in-bug-bounty-58cad28c61b8?source=rss------bugbounty-5",
+          "publishedOn": "2026-06-12T20:30:13.000Z",
+          "wordCount": null,
+          "title": "How I Found My First Bug in Bug Bounty",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/ce4bcfa3854a",
+          "author": "Mayank Kumar Prajapati",
+          "description": "Hi Hackers,\nContinue reading on Medium »",
+          "link": "https://medium.com/@mayank_prajapati/jwt-attacks-algorithm-confusion-vulnerability-ce4bcfa3854a?source=rss------bugbounty-5",
+          "publishedOn": "2026-06-12T19:57:21.000Z",
+          "wordCount": null,
+          "title": "JWT Attacks: Algorithm Confusion Vulnerability",
+          "imageUrl": null
+        },
         {
           "id": "https://medium.com/p/85b61f8c9dea",
           "author": "Jerry PM",
@@ -2697,6 +2877,26 @@
       "siteUrl": "https://medium.com/tag/redteam/latest?source=rss------redteam-5",
       "articles": [
         {
+          "id": "https://medium.com/p/72a4bc9866eb",
+          "author": "HaNam0n | HANAFEYZ",
+          "description": "Hanafeyz\nContinue reading on Medium »",
+          "link": "https://medium.com/@feyzzzhanna/blind-vs-out-of-band-vulnerabilities-understanding-the-difference-every-security-researcher-should-72a4bc9866eb?source=rss------redteam-5",
+          "publishedOn": "2026-06-12T13:17:45.000Z",
+          "wordCount": null,
+          "title": "Blind vs Out-of-Band Vulnerabilities: Understanding the Difference Every Security Researcher Should…",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/8eb93f0ab320",
+          "author": "Omar Mahmoud",
+          "description": "Subdomain Takeover is often described as one of the easiest vulnerabilities to find in Bug Bounty programs.\nContinue reading on Medium »",
+          "link": "https://medium.com/@omaroymdm/why-your-subdomain-takeover-reports-keep-getting-closed-as-n-a-and-how-to-fix-it-8eb93f0ab320?source=rss------redteam-5",
+          "publishedOn": "2026-06-12T11:04:39.000Z",
+          "wordCount": null,
+          "title": "Why Your Subdomain Takeover Reports Keep Getting Closed as N/A (And How to Fix It).",
+          "imageUrl": null
+        },
+        {
           "id": "https://medium.com/p/b5fa95350a7b",
           "author": "0xJBsec",
           "description": "So far in this series, we’ve learned how networks work.\nContinue reading on Medium »",
@@ -2714,6 +2914,16 @@
           "publishedOn": "2026-06-11T22:02:33.000Z",
           "wordCount": null,
           "title": "Active Directory Attacks — NTDS.dit Extraction",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/018ecd3d16cc",
+          "author": "Christopher Arock",
+          "description": "Part 2 of the Windows Privilege Escalation series\nContinue reading on Medium »",
+          "link": "https://christopherarock.medium.com/windows-privesc-unquoted-service-paths-explained-018ecd3d16cc?source=rss------redteam-5",
+          "publishedOn": "2026-06-11T17:59:25.000Z",
+          "wordCount": null,
+          "title": "Windows PrivEsc: Unquoted Service Paths Explained",
           "imageUrl": null
         },
         {
@@ -3273,6 +3483,86 @@
       "feedUrl": "https://medium.com/feed/bugbountywriteup",
       "siteUrl": "https://infosecwriteups.com?source=rss----7b722bfd1b8d---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/3b49a1afe7f6",
+          "author": "Loay Salah",
+          "description": "",
+          "link": "https://infosecwriteups.com/ieee-mansb-ctf-2025-dfir-writeup-3b49a1afe7f6?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2026-06-12T07:12:45.000Z",
+          "wordCount": null,
+          "title": "IEEE Victoris 4.0 — CTF 2025 — Quals DFIR Challenges",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/c7490e76f1b5",
+          "author": "Loay Salah",
+          "description": "",
+          "link": "https://infosecwriteups.com/dvwa-cheat-sheet-low-medium-c7490e76f1b5?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2026-06-12T07:11:08.000Z",
+          "wordCount": null,
+          "title": "DVWA Cheat Sheet (Low & Medium)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/e41226314564",
+          "author": "Ronak Mishra",
+          "description": "",
+          "link": "https://infosecwriteups.com/how-i-built-a-soar-automation-in-microsoft-sentinel-that-responds-to-attacks-without-a-single-click-e41226314564?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2026-06-12T07:10:39.000Z",
+          "wordCount": null,
+          "title": "How I Built a SOAR Automation in Microsoft Sentinel That Responds to Attacks Without a Single Click",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/742927383722",
+          "author": "h@shtalk",
+          "description": "",
+          "link": "https://infosecwriteups.com/six-levels-one-lesson-llms-cannot-keep-a-secret-742927383722?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2026-06-12T07:10:12.000Z",
+          "wordCount": null,
+          "title": "Six levels, one lesson: LLMs cannot keep a secret",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/251e073757f5",
+          "author": "Raymond Ebonine",
+          "description": "Learn how to recover complete access to a self-hosted n8n Docker deployment when password reset emails fail.\nContinue reading on InfoSec Write-ups »",
+          "link": "https://infosecwriteups.com/recovering-a-forgotten-password-in-a-self-hosted-n8n-docker-deployment-251e073757f5?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2026-06-12T07:08:44.000Z",
+          "wordCount": null,
+          "title": "Recovering a Forgotten Password in a Self-Hosted n8n Docker Deployment",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/62e85ad28cb0",
+          "author": "Roshan Rajbanshi",
+          "description": "",
+          "link": "https://infosecwriteups.com/header-manipulation-bypasses-probing-and-the-security-audit-nobody-does-62e85ad28cb0?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2026-06-12T07:08:24.000Z",
+          "wordCount": null,
+          "title": "Header Manipulation: Bypasses, Probing, and the Security Audit Nobody Does",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/35b0627ceac2",
+          "author": "Criminal IP",
+          "description": "",
+          "link": "https://infosecwriteups.com/beyond-the-patch-understanding-the-sonicwall-ssl-vpn-mfa-bypass-exposure-35b0627ceac2?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2026-06-12T07:07:11.000Z",
+          "wordCount": null,
+          "title": "Beyond the Patch: Understanding the SonicWall SSL-VPN MFA Bypass Exposure",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/c2a65ea22267",
+          "author": "Handhika Yanuar Pratama",
+          "description": "Building a simple attack lab to understand how Fail2Ban detects and blocks repeated SSH login attempts.\nContinue reading on InfoSec Write-ups »",
+          "link": "https://infosecwriteups.com/i-simulated-an-ssh-brute-force-attack-on-my-ubuntu-server-heres-how-fail2ban-stopped-it-c2a65ea22267?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2026-06-12T07:06:35.000Z",
+          "wordCount": null,
+          "title": "I Simulated an SSH Brute-Force Attack on My Ubuntu Server — Here’s How Fail2Ban Stopped It",
+          "imageUrl": null
+        },
         {
           "id": "https://medium.com/p/4e63637f7fd1",
           "author": "JEETPAL",
@@ -4738,6 +5028,166 @@
       "feedUrl": "https://feed.cnblogs.com/blog/sitehome/rss",
       "siteUrl": null,
       "articles": [
+        {
+          "id": "https://www.cnblogs.com/lsjwq/p/20498993",
+          "author": null,
+          "description": "传统SOP依赖人工监督、人工核验，存在监管滞后、人工成本高、漏检误检等痛点。依托iNeuOS_Vision机器视觉技术，可实现SOP操作的自动化识别、实时监测、流程校验与异常告警，适配各类工业标准化作业场景，助力工业作业全流程可视化、智能化管控，提升生产标准化水平与作业效率。",
+          "link": "https://www.cnblogs.com/lsjwq/p/20498993",
+          "publishedOn": "2026-06-13T03:50:00.000Z",
+          "wordCount": 334,
+          "title": "[免费试用] iNeuOS_Vision视觉分析在SOP标准工作操作规程的应用 - iNeuOS工业互联网系统",
+          "imageUrl": "https://img2024.cnblogs.com/blog/279374/202606/279374-20260613111149740-682523147.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/aqi00/p/20448778",
+          "author": null,
+          "description": "​HarmonyOS 6.1.1 已于 2026 年 5 月下旬正式发布，该版本在 HarmonyOS 6.1 基础上增强了若干特性，让鸿蒙系统变得更流畅更好用，下面结合《鸿蒙HarmonyOS 6应用开发:从零基础到App上线》一书对 HarmonyOS 6.1.1 新特性中的常用部分逐一讲解。",
+          "link": "https://www.cnblogs.com/aqi00/p/20448778",
+          "publishedOn": "2026-06-13T03:11:00.000Z",
+          "wordCount": 500,
+          "title": "一文速览 HarmonyOS 6.1.1 推出的十个新特性 - aqi00",
+          "imageUrl": "https://img2024.cnblogs.com/blog/729938/202606/729938-20260613111056611-1651695813.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/futureli/p/20497820",
+          "author": null,
+          "description": "Speed Tools：一套低侵入的 Android 插件化 + 动态换肤 + 字体切换框架 作者：一航 GitHub：jasonliyihang/speed_tools 博客首发于 CSDN，本文基于 2026 年最新代码重构整理。 一、前言 几年前我在 CSDN 写过一篇 [《android 插",
+          "link": "https://www.cnblogs.com/futureli/p/20497820",
+          "publishedOn": "2026-06-13T02:41:00.000Z",
+          "wordCount": 986,
+          "title": "Speed Tools：一套低侵入的 Android 插件化 + 动态换肤 + 字体切换框架 - future_li",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/hawk2026/p/20465084",
+          "author": null,
+          "description": "从数据中寻找规律的机器学习，到模仿人脑思考的深度学习，再到让机器看懂世界的计算机视觉，这三项技术共同构建了人工智能最底层也最核心的逻辑框架。",
+          "link": "https://www.cnblogs.com/hawk2026/p/20465084",
+          "publishedOn": "2026-06-13T00:00:00.000Z",
+          "wordCount": 312,
+          "title": "一文读懂AI基础技术：机器学习、深度学习、计算机视觉 - 岳小哥AI",
+          "imageUrl": "https://img2024.cnblogs.com/blog/3076183/202606/3076183-20260612090740141-1233543091.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/jarryli/p/20492168",
+          "author": null,
+          "description": "DDD 与 Ontology 对比分析：代码建模与语义建模的异同 探讨领域驱动设计（DDD）与本体论建模（Ontology）之间的本质差异，搞清其背后的理论体系和运行机制。 一、双维建模：逻辑深度与语义广度 复杂业务系统的建模方法与开发方式可以分为两条路线： DDD 范式：以应用代码开发为主，利用充",
+          "link": "https://www.cnblogs.com/jarryli/p/20492168",
+          "publishedOn": "2026-06-12T22:36:00.000Z",
+          "wordCount": 1338,
+          "title": "领域驱动 vs 本体驱动：DDD 代码建模与 Ontology 语义建模的对比分析 - 刀法如飞",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/bigbrid/p/20489990",
+          "author": null,
+          "description": "一句话认识这个工具 在做数据采集或调用第三方API时，经常需要从嵌套复杂的JSON中提取指定数据。今天给大家安利一个免费在线工具——JSON Path Finder，地址是 https://formatlist.com/json-path-finder。 先直接看效果：把JSON数据粘贴进去，它会自",
+          "link": "https://www.cnblogs.com/bigbrid/p/20489990",
+          "publishedOn": "2026-06-12T15:53:00.000Z",
+          "wordCount": 461,
+          "title": "再也不用数括号了！安利一个JSON Path可视化查找神器 - taozsay",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/isme-cn/p/20489977",
+          "author": null,
+          "description": "它能做什么？ 简单说：让你的电脑自动帮你干活。 批量点击、填表、截图 → 告别重复劳动 定时执行任务 → 每天自动签到、自动导出报表 图像识别 + 自动化 → 找到屏幕上的按钮自动点 AI 一句话生成 → &quot;在坐标500,300点击，输入hello按回车&quot; 直接变成自动化流程 为什么值得关注？ 1.",
+          "link": "https://www.cnblogs.com/isme-cn/p/20489977",
+          "publishedOn": "2026-06-12T15:46:00.000Z",
+          "wordCount": 495,
+          "title": "开源免费的桌面自动化神器，AI 一句话生成工作流:AutoFlow Studio - 可可西里***",
+          "imageUrl": "https://img2024.cnblogs.com/blog/3805275/202606/3805275-20260601115551232-14977866.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/wsg1100/p/20487436",
+          "author": null,
+          "description": "实时操作系统内核的核心矛盾：它必须在&quot;快&quot;和&quot;准&quot;之间做出不可调和的抉择。快是吞吐量的追求，准是确定性的承诺。一个通用操作系统优化的是平均响应，一个RTOS优化的是最坏情况——这不仅是技术路线的分叉，更是工程哲学的根本对立。",
+          "link": "https://www.cnblogs.com/wsg1100/p/20487436",
+          "publishedOn": "2026-06-12T15:14:00.000Z",
+          "wordCount": 1333,
+          "title": "实时操作系统(RTOS)的核心认知基石 - 沐多",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/cnsharp/p/20489764",
+          "author": null,
+          "description": "背景 在日常Java开发工作中，迭代着迭代着本地就有一堆分支，批量删除的话有一行命令，如： git branch | grep &#39;release-&#39; | xargs git branch -D 但我总记不住，也不想去住，每次操作都要翻小本本。 一直要开发一个插件，无奈不会啊。我之前是.NET专业户，",
+          "link": "https://www.cnblogs.com/cnsharp/p/20489764",
+          "publishedOn": "2026-06-12T15:04:00.000Z",
+          "wordCount": 327,
+          "title": "Claude手搓的IntelliJ Git扩展插件上线 - Cn#工作室",
+          "imageUrl": "https://img2024.cnblogs.com/blog/101187/202606/101187-20260612230239719-1735360064.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/jyzhao/p/20489430/ai-bian-cheng-xi-lie02-he-bing-zhi-shi-gong-neng-g",
+          "author": null,
+          "description": "按照之前文章《氛围编程实战系列：先规划清楚学习路径》这个规划路径，我们今天来开发第二个功能：合并知识功能。 总结这篇文章的初期阶段，其实让笔者非常的困惑。因为经历了太多思想碰撞。最终认为如果要持续学习一件新事物，还必须要从现实出发，不要为了学习而学习，而要为了解决一个实际问题而学习，哪怕这个问题开始",
+          "link": "https://www.cnblogs.com/jyzhao/p/20489430/ai-bian-cheng-xi-lie02-he-bing-zhi-shi-gong-neng-g",
+          "publishedOn": "2026-06-12T13:53:00.000Z",
+          "wordCount": 463,
+          "title": "AI编程系列02：合并知识功能，给 AI 问数和 RAG 场景打基础 - AlfredZhao",
+          "imageUrl": "https://img2024.cnblogs.com/blog/635610/202606/635610-20260612215322959-1894936222.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/Baiang/p/20488252",
+          "author": null,
+          "description": "很多独立开发者在产品刚做出来的时候，都会下意识想到 Product Hunt 或 Hacker News。 这并不奇怪。对一个没有用户、没有品牌、没有媒体资源的小团队来说，把产品发到一个已经聚集了大量产品爱好者和技术人群的平台上，听起来几乎是最合理的选择。那里有人愿意点开新产品，有人愿意评论，有人会",
+          "link": "https://www.cnblogs.com/Baiang/p/20488252",
+          "publishedOn": "2026-06-12T12:05:00.000Z",
+          "wordCount": 458,
+          "title": "别把 Product Hunt 当成冷启动：独立开发者真正要找的不是流量，而是对的人 - Solo社区",
+          "imageUrl": "https://img2024.cnblogs.com/blog/625652/202606/625652-20260612200450965-2123809110.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/imadc/p/20484642",
+          "author": null,
+          "description": "⚠️ 安全警告：混沌工程工具威力巨大。Toxiproxy 仅限于开发、测试（SIT/UAT）或特定的混沌工程演练环境中使用。严禁将其部署在生产环境的真实业务链路中，以免造成不可挽回的生产资损与事故。 在微服务架构和系统可观测性建设中，验证各链路的容错与兜底机制（Error-handling fail",
+          "link": "https://www.cnblogs.com/imadc/p/20484642",
+          "publishedOn": "2026-06-12T09:09:00.000Z",
+          "wordCount": 592,
+          "title": "混沌工程实战：基于 Toxiproxy 验证短信网关的超时兜底与频控链路 - 杜劲松",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/ymtianyu/p/20480677",
+          "author": null,
+          "description": "还在为团队文档维护头疼吗？本文带你认识一个极简却强大的文档神器docsify，无需编译、一个页面搞定一切。从安装配置到避坑指南，手把手教你搭建一个高颜值、易维护的知识库网站，让你的技术文档管理体验瞬间起飞。",
+          "link": "https://www.cnblogs.com/ymtianyu/p/20480677",
+          "publishedOn": "2026-06-12T07:25:00.000Z",
+          "wordCount": 527,
+          "title": "别只盯着GitBook了！这个文档神器让你的笔记秒变网站 - 一名程序媛呀",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/nextdata/p/20477312",
+          "author": null,
+          "description": "AI领域的角色正在随着行业发展而转变。了解进入这个领域需要什么。 引言 在过去十年中，AI领域经历了快速发展，尤其是在ChatGPT推出之后。如今，工程师们很少再讨论经典机器学习，整个对话都被大语言模型（LLM）所主导。而现在，焦点正在从LLM转向AI Agent。 Agent正在改变软件的运作方式",
+          "link": "https://www.cnblogs.com/nextdata/p/20477312",
+          "publishedOn": "2026-06-12T05:48:00.000Z",
+          "wordCount": 384,
+          "title": "成为 AI 智能体工程师的 10 个步骤 - nextdata",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/shiyafan/p/20474561",
+          "author": null,
+          "description": "流式输出（Streaming）原理与踩坑经验 本人在日常开发中，遇到流式输出相关的问题，一般都需要靠大模型协助定位问题，归其根本是因为我对流式输出的原理认识不足。所以本篇文章记录我学习流式输出的原理，以及在实际开发中遇到的问题。 整体流程： 大模型生成 token ↓ 打包成 chunk（一个或多个",
+          "link": "https://www.cnblogs.com/shiyafan/p/20474561",
+          "publishedOn": "2026-06-12T04:51:00.000Z",
+          "wordCount": 1490,
+          "title": "流式输出（Streaming）原理与踩坑经验 - 第十昵称",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/ahfuzhang/p/20474477",
+          "author": null,
+          "description": "作者:张富春(ahfuzhang)，转载时请注明作者和引用链接，谢谢！ cnblogs博客 zhihu Github 公众号:一本正经的瞎扯 背景 最近在测试一个服务器的时候，遇到一个难题：我如何才能构造出多种请求，以便尽可能的覆盖到所有分支？ 写单元测试固然是个办法，但是服务器依赖 mysql 和",
+          "link": "https://www.cnblogs.com/ahfuzhang/p/20474477",
+          "publishedOn": "2026-06-12T04:50:00.000Z",
+          "wordCount": 698,
+          "title": "CSharp 后端服务器如何做到：一边发请求一边看代码覆盖率 - ahfuzhang",
+          "imageUrl": "https://img2022.cnblogs.com/blog/1457949/202202/1457949-20220216153819145-1193738712.png"
+        },
         {
           "id": "https://www.cnblogs.com/ka1kai/p/20473430",
           "author": null,
@@ -6854,6 +7304,16 @@
       "feedUrl": "http://h1.nobbd.de/reports_rss.xml",
       "siteUrl": "http://h1.nobbd.de/",
       "articles": [
+        {
+          "id": "https://hackerone.com/reports/3781015",
+          "author": null,
+          "description": "Node.js disclosed a bug submitted by shinchan_69: https://hackerone.com/reports/3781015",
+          "link": "https://hackerone.com/reports/3781015",
+          "publishedOn": "2026-06-12T09:46:19.000Z",
+          "wordCount": 25,
+          "title": "Incomplete Fix for CVE-2026-21637: OCSPRequest and resumeSession Events Crash Node.js TLS Server via Unhandled Synchronous Exceptions",
+          "imageUrl": "https://profile-photos.hackerone-user-content.com/variants/000/022/984/e600648ace4a8553247bce967d461a030aa81d49_original.png/f0e07660005686ec92c43da54c0094c1ac1b490ea8c5eac04a4081d912d6ce36"
+        },
         {
           "id": "https://hackerone.com/reports/3558713",
           "author": null,
