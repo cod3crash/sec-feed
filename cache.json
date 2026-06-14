@@ -6,6 +6,16 @@
       "siteUrl": "http://h1.nobbd.de/",
       "articles": [
         {
+          "id": "https://hackerone.com/reports/3795615",
+          "author": null,
+          "description": "curl disclosed a bug submitted by violet12331: https://hackerone.com/reports/3795615",
+          "link": "https://hackerone.com/reports/3795615",
+          "publishedOn": "2026-06-13T20:47:30.000Z",
+          "wordCount": 25,
+          "title": "Duplicate chunked Transfer-Encoding lets a malicious origin smuggle a response across reused HTTP proxy connections",
+          "imageUrl": "https://profile-photos.hackerone-user-content.com/variants/000/035/663/2faf4c279d437d64bfda6d23d62ce1833813a4d9_original.png/f0e07660005686ec92c43da54c0094c1ac1b490ea8c5eac04a4081d912d6ce36"
+        },
+        {
           "id": "https://hackerone.com/reports/3781015",
           "author": null,
           "description": "Node.js disclosed a bug submitted by shinchan_69: https://hackerone.com/reports/3781015",
@@ -1920,6 +1930,106 @@
       "siteUrl": "https://medium.com/tag/bugbounty/latest?source=rss------bugbounty-5",
       "articles": [
         {
+          "id": "https://medium.com/p/55d5d481b055",
+          "author": "Surendra Reddy",
+          "description": "For decades, bug bounty hunting has been a manual, time-intensive process: researchers manually enumerate subdomains, run vulnerability…\nContinue reading on Medium »",
+          "link": "https://medium.com/@nayaki.suresh3/bughunter-review-2026-ai-bug-bounty-toolkit-powered-by-claude-free-and-paid-options-55d5d481b055?source=rss------bugbounty-5",
+          "publishedOn": "2026-06-14T04:14:57.000Z",
+          "wordCount": null,
+          "title": "BugHunter Review 2026: AI Bug Bounty Toolkit Powered by Claude (Free and Paid Options)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/a97567dcd373",
+          "author": "Jerry PM",
+          "description": "The hidden gotcha with CGColor that every iOS developer should know\nContinue reading on Medium »",
+          "link": "https://21zerixpm.medium.com/why-your-uikit-border-colors-break-in-dark-mode-and-how-to-fix-it-a97567dcd373?source=rss------bugbounty-5",
+          "publishedOn": "2026-06-14T02:11:00.000Z",
+          "wordCount": null,
+          "title": "Why Your UIKit Border Colors Break in Dark Mode (And How to Fix It)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/b95bcf289b39",
+          "author": "Decline",
+          "description": "Stop chasing perfection. Start sending reports.\nContinue reading on Medium »",
+          "link": "https://medium.com/@bughunting/the-best-bug-is-the-one-you-actually-report-b95bcf289b39?source=rss------bugbounty-5",
+          "publishedOn": "2026-06-14T01:58:53.000Z",
+          "wordCount": null,
+          "title": "The Best Bug Is the One You Actually Report",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/b0eaafdf55de",
+          "author": "Vineet Singh",
+          "description": "Hello fellow bug bounty hunters, hope you guys are doing well and hunting lots of bugs.\nContinue reading on Medium »",
+          "link": "https://vineet08.medium.com/how-i-was-able-to-create-an-account-on-any-third-party-application-using-an-acronis-owned-email-b0eaafdf55de?source=rss------bugbounty-5",
+          "publishedOn": "2026-06-13T21:51:52.000Z",
+          "wordCount": null,
+          "title": "How I Was Able to Create an Account on Any Third Party Application Using an Acronis-owned Email…",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/1bba466315c7",
+          "author": "ATTER Koffi Kallern",
+          "description": "Demonstrating Security Impact: Escalating Exposed Google API Keys to Access Sensitive Services\nContinue reading on Medium »",
+          "link": "https://medium.com/@hackustheinforman/google-api-key-exposure-risks-discovery-and-impact-1bba466315c7?source=rss------bugbounty-5",
+          "publishedOn": "2026-06-13T20:46:14.000Z",
+          "wordCount": null,
+          "title": "Google API Key Exposure: Risks, Discovery, and Impact",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/d65fcd464ad1",
+          "author": "Nrn",
+          "description": "While working on a web application security internship focused on bug bounty hunting, I picked the GRW Trading FZE program on YesWeHack…\nContinue reading on Medium »",
+          "link": "https://medium.com/@n4r4n15/finding-an-open-redirect-pattern-on-a-shopify-storefront-a-bug-bounty-recon-walkthrough-d65fcd464ad1?source=rss------bugbounty-5",
+          "publishedOn": "2026-06-13T17:57:48.000Z",
+          "wordCount": null,
+          "title": "Finding an Open Redirect Pattern on a Shopify Storefront: A Bug Bounty Recon Walkthrough",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/505ce835a4c0",
+          "author": "M0n3m",
+          "description": "High Severity Vulnerability with $XXX Bounty\nContinue reading on Medium »",
+          "link": "https://medium.com/@m0n3m/blind-extraction-of-password-hashes-via-an-unauthenticated-graphql-count-oracle-505ce835a4c0?source=rss------bugbounty-5",
+          "publishedOn": "2026-06-13T17:21:21.000Z",
+          "wordCount": null,
+          "title": "Blind Extraction of Password Hashes via an Unauthenticated GraphQL Count Oracle",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/4766b0b0ffa3",
+          "author": "Anonymous Traiger",
+          "description": "Link\nContinue reading on Medium »",
+          "link": "https://anontriager.medium.com/easy-ssrf-from-wayback-machine-4766b0b0ffa3?source=rss------bugbounty-5",
+          "publishedOn": "2026-06-13T14:52:27.000Z",
+          "wordCount": null,
+          "title": "Easy SSRF from Wayback Machine",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/aaa4c40c4bdc",
+          "author": "Cybervolt",
+          "description": "From Simple Recon to a $4,000 Bug: My Nmap Discovery Story\nContinue reading on Medium »",
+          "link": "https://medium.com/@cybervolt/how-nmap-helped-me-discover-a-4-000-vulnerability-on-an-e-commerce-platform-aaa4c40c4bdc?source=rss------bugbounty-5",
+          "publishedOn": "2026-06-13T14:37:19.000Z",
+          "wordCount": null,
+          "title": "How Nmap Helped Me Discover a $4,000 Vulnerability on an E-Commerce Platform",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/acc9c4cb56a6",
+          "author": "0verRida",
+          "description": "This write-up is based on a training scenario from LetsDefend and is shared for educational purposes only.\nContinue reading on Medium »",
+          "link": "https://medium.com/@firdansp/threat-hunting-with-waf-letsdefend-acc9c4cb56a6?source=rss------bugbounty-5",
+          "publishedOn": "2026-06-13T14:01:03.000Z",
+          "wordCount": null,
+          "title": "Threat Hunting with WAF - LetsDefend",
+          "imageUrl": null
+        },
+        {
           "id": "https://medium.com/p/e30f314765b8",
           "author": "EMTIAZ AHMED",
           "description": "A beginner’s deep dive into bug bounty hunting: mindset, methodology, and the moment everything clicked.\nContinue reading on Medium »",
@@ -2876,6 +2986,36 @@
       "feedUrl": "https://medium.com/feed/tag/redteam",
       "siteUrl": "https://medium.com/tag/redteam/latest?source=rss------redteam-5",
       "articles": [
+        {
+          "id": "https://medium.com/p/13185ea39272",
+          "author": "Ibrahim Dia (Kg4real)",
+          "description": "Welcome to the first practical scenario of my Active Directory Cyber Range series built entirely on VMware ESXi.\nContinue reading on Product Coalition »",
+          "link": "https://medium.productcoalition.com/senario-1-red-team-vs-blue-team-how-to-execute-a-kerberoasting-attack-and-detect-it-using-wazuh-13185ea39272?source=rss------redteam-5",
+          "publishedOn": "2026-06-13T21:38:07.000Z",
+          "wordCount": null,
+          "title": "Scenario 1: Red Team vs Blue Team: How to Execute a Kerberoasting Attack and Detect It Using Wazuh…",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/acc9c4cb56a6",
+          "author": "0verRida",
+          "description": "This write-up is based on a training scenario from LetsDefend and is shared for educational purposes only.\nContinue reading on Medium »",
+          "link": "https://medium.com/@firdansp/threat-hunting-with-waf-letsdefend-acc9c4cb56a6?source=rss------redteam-5",
+          "publishedOn": "2026-06-13T14:01:03.000Z",
+          "wordCount": null,
+          "title": "Threat Hunting with WAF - LetsDefend",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/c3bb0fec0e54",
+          "author": "0xJBsec",
+          "description": "In the previous article, we built our cybersecurity lab.\nContinue reading on Medium »",
+          "link": "https://medium.com/@0xJBsec/linux-file-system-navigation-a-beginners-guide-c3bb0fec0e54?source=rss------redteam-5",
+          "publishedOn": "2026-06-13T04:31:03.000Z",
+          "wordCount": null,
+          "title": "Linux File System Navigation: A Beginner’s Guide",
+          "imageUrl": null
+        },
         {
           "id": "https://medium.com/p/72a4bc9866eb",
           "author": "HaNam0n | HANAFEYZ",
@@ -5028,6 +5168,146 @@
       "feedUrl": "https://feed.cnblogs.com/blog/sitehome/rss",
       "siteUrl": null,
       "articles": [
+        {
+          "id": "https://www.cnblogs.com/aqi00/p/20500073",
+          "author": null,
+          "description": "​上一篇文章末尾使用了在线大模型压缩文本生成摘要，但该方式会消耗Token，不便初学者长期使用，更好的办法是采用离线大模型来生成文本摘要。 一、离线大模型的种类 国内常用的离线大模型有阿里Qwen、智谱GLM、深度求索DeepSeek、百度文心等等，以千问的文本大模型为例，又有Qwen1.5-1.8",
+          "link": "https://www.cnblogs.com/aqi00/p/20500073",
+          "publishedOn": "2026-06-14T03:10:00.000Z",
+          "wordCount": 440,
+          "title": "15天学会AI应用开发（六）使用离线大模型对文本生成摘要 - aqi00",
+          "imageUrl": "https://img2024.cnblogs.com/blog/729938/202606/729938-20260613114421573-829065896.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/uniqueDong/p/20515588",
+          "author": null,
+          "description": "上周，一个朋友在群里发了一张截图：GitHub 上 anthropics/skills 仓库，24 小时涨了 900 颗星。 他的原话是：「一个文件夹项目，13.6 万星？这是认真的吗？」 我点开一看，确实——这个仓库的核心内容就是一堆 SKILL.md 文件，外加几个 Python 脚本。没有炫酷",
+          "link": "https://www.cnblogs.com/uniqueDong/p/20515588",
+          "publishedOn": "2026-06-14T02:24:00.000Z",
+          "wordCount": 1702,
+          "title": "码哥实测：写了20行SKILL.md，Claude的代码质量提升了一倍 - 码哥字节",
+          "imageUrl": "https://img2024.cnblogs.com/blog/735767/202606/735767-20260614102307354-748227214.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/skyseraph/p/20513937",
+          "author": null,
+          "description": "2026 FIFA 世界杯开赛，周末一边看一边VIBE搭了一个纯静态、无后端的实时数据看板，开源在 GitHub。 在线体验： https://skyseraph.github.io/world-cup-2026/ 先看一下效果 它能做什么 3D 地球仪：48 支参赛队标注在地球上，按小组着色，点击",
+          "link": "https://www.cnblogs.com/skyseraph/p/20513937",
+          "publishedOn": "2026-06-14T01:46:00.000Z",
+          "wordCount": 596,
+          "title": "AI-Coding：2026世界杯实时看板, 支持AI聊天/竞猜/预测等 - SkySeraph",
+          "imageUrl": "https://img2024.cnblogs.com/blog/137896/202606/137896-20260614120553196-1780973996.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/dingshuanglei/p/20512856",
+          "author": null,
+          "description": "引言 在 .NET 开发中，生成 HTML 内容是一个常见的需求。无论是构建邮件模板、生成报表、还是创建动态网页内容，我们都需要一种简洁、安全且高效的方式来构建 HTML。今天，我想向大家介绍 Jasmine.Format —— 一个专为高性能场景设计的 .NET HTML 生成库。 为什么需要 J",
+          "link": "https://www.cnblogs.com/dingshuanglei/p/20512856",
+          "publishedOn": "2026-06-14T01:09:00.000Z",
+          "wordCount": 787,
+          "title": "Jasmine.Format - 一个高性能、线程安全的 .NET HTML 生成库 - 丁双磊",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/swizard/p/20511552",
+          "author": null,
+          "description": "引言：那些年我们写过的“面条代码” 痛点场景： 你一定经历过这样的噩梦：系统最初用 MySQL 存储数据，后来为了性能要迁移到 MongoDB。结果你发现，业务代码里密密麻麻全是对 MySQL 驱动的直接调用。或者，老板突发奇想，要求把原本的 Web 页面功能，原封不动地搬到一个新的命令行工具（CL",
+          "link": "https://www.cnblogs.com/swizard/p/20511552",
+          "publishedOn": "2026-06-13T23:19:00.000Z",
+          "wordCount": 614,
+          "title": "还在被框架绑架？一文看懂“六边形架构”，让你的核心业务稳如泰山！ - Swizard",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/Baiang/p/20509762",
+          "author": null,
+          "description": "很多独立开发者都有过类似经历：某个周末突然来了灵感，觉得一个小工具很值得做，于是连续几天高强度写代码、调页面、接接口、改交互，终于把第一个版本推上线。那一刻很有成就感，产品链接可以打开，核心功能能跑通，截图也能发出去，甚至还有朋友在评论区说“这个不错”“挺有用的”。 但一个月之后，情况往往会变得微妙",
+          "link": "https://www.cnblogs.com/Baiang/p/20509762",
+          "publishedOn": "2026-06-13T16:42:00.000Z",
+          "wordCount": 405,
+          "title": "独立开发者最容易低估的，不是开发成本，而是维护成本 - Solo社区",
+          "imageUrl": "https://img2024.cnblogs.com/blog/625652/202606/625652-20260614004157628-1342725694.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/tcjiaan/p/20499508",
+          "author": null,
+          "description": "在开始主题之前，老周分享另一个知识，碰巧这知识点也是 EF Core 的，是前些天一位新手程序猿问的，他那是一个小项目，因为小，所以采用 Code First 的方案。不过程序有两个版本，一个是用 SQLite 数据库，一个用 SQL Server。然后有些实体他设定了 CHECK 约束。众所周知，",
+          "link": "https://www.cnblogs.com/tcjiaan/p/20499508",
+          "publishedOn": "2026-06-13T14:37:00.000Z",
+          "wordCount": 2167,
+          "title": "【EF Core】继承策略——TPC - 东邪独孤",
+          "imageUrl": "https://img2024.cnblogs.com/blog/367389/202606/367389-20260613165850749-1805542944.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/charlee44/p/20509009",
+          "author": null,
+          "description": "深入剖析了在 Huawei P30 (鸿蒙 4.0)上解决 Unity 原生库 RELRO 装载异常的完整排查路径，通过优化链接器标志、策略性使用静态库及规范符号导出，为鸿蒙系统下的底层兼容性问题提供了切实可行的解决方案。",
+          "link": "https://www.cnblogs.com/charlee44/p/20509009",
+          "publishedOn": "2026-06-13T14:07:00.000Z",
+          "wordCount": 1355,
+          "title": "Unity项目适配华为鸿蒙系统的原生库加载问题排查与解决 - charlee44",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/xymfblogs/p/20508874",
+          "author": null,
+          "description": "Zenith.NET 最近做了一轮比较大的 RHI 重构。它不是一次普通的 API 改名，也不是单纯整理代码，而是把整个图形抽象层从早期“更容易上手的封装”，往更现代、更贴近 DirectX 12 / Vulkan / Metal 的底层模型推进。 这轮重构的重点，是新版引入了哪些能力、为什么要做",
+          "link": "https://www.cnblogs.com/xymfblogs/p/20508874",
+          "publishedOn": "2026-06-13T13:39:00.000Z",
+          "wordCount": 1029,
+          "title": "Zenith.NET 开发札记：把 .NET 图形 API 推向现代 RHI - o王先生o",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/InCerry/p/-/dotnet_week_26_4_3",
+          "author": null,
+          "description": "C# .NET 周刊 ｜2026 年 4 月 3 期 2026-04-19 dotnet_week_26_4_3 国内文章 C# 15 类型系统改进：Union Types https://www.cnblogs.com/hez2010/p/19891530/union-types-in-cshar",
+          "link": "https://www.cnblogs.com/InCerry/p/-/dotnet_week_26_4_3",
+          "publishedOn": "2026-06-13T13:10:00.000Z",
+          "wordCount": 1366,
+          "title": "C# .NET 周刊 ｜2026 年 4 月 3 期 - InCerry",
+          "imageUrl": "https://img2024.cnblogs.com/blog/997046/202606/997046-20260613210727355-1269539945.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/LiQirui/p/20508272",
+          "author": null,
+          "description": "TIP: 本文代码可以通过Dev-C++ 5.11编译，不用安装外部库 Github仓库:https://github.com/LiQirui-git-hub/ASCIIPakour 介绍： 这是一个3D游戏，仅支持Windows(暂时，未来有概率改变) 同时，画面不是用新窗口渲染，是命令行内渲染",
+          "link": "https://www.cnblogs.com/LiQirui/p/20508272",
+          "publishedOn": "2026-06-13T12:03:00.000Z",
+          "wordCount": 2066,
+          "title": "C++ ASCII 3D无尽跑酷游戏 - LiQirui",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/wang_yb/p/20507918",
+          "author": null,
+          "description": "大家好，今天要解决一个痛点是关于 因式分解公式 的。 直接说问题： 用 Manim 展示 $ x2 + 5x + 6 = (x+2)(x+3) $ 的“十字相乘”面积模型，你需要先想好怎样把大矩形拆成四块$ (x^2)、(2x)、(3x)、(6) $，再手动计算每一块的边长和位置。 换成 $ x^2",
+          "link": "https://www.cnblogs.com/wang_yb/p/20507918",
+          "publishedOn": "2026-06-13T11:06:00.000Z",
+          "wordCount": 1242,
+          "title": "用SymPy自动因式分解：从面积拼图到代数恒等式 - wang_yb",
+          "imageUrl": "https://img2024.cnblogs.com/blog/83005/202606/83005-20260613190529231-398178740.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/gocodinginmyway/p/20507260",
+          "author": null,
+          "description": "Claude Code，或者说 AI 智能体编程，聊一下个人的一些感受与心得。 感受 ⛵ 与 AI 智能体协作编程，可以说像是在航海，一起驶向计划的目的港。 我虽是那个舵手，但能放手让 AI 来掌舵了。不过，难免偏航，不时需要人来纠正一下航向。 我并没有甩手全权交给 AI，想来是几个方面吧： 一是",
+          "link": "https://www.cnblogs.com/gocodinginmyway/p/20507260",
+          "publishedOn": "2026-06-13T09:57:00.000Z",
+          "wordCount": 582,
+          "title": "Claude 编程经验 - GoCodingInMyWay",
+          "imageUrl": "https://img2024.cnblogs.com/blog/2049757/202604/2049757-20260426091109220-87191896.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/halfcode/p/20505331",
+          "author": null,
+          "description": "Agent 通过 Checkpointer 记住对话上下文不是什么难事，但要是想让它存点“业务数据”——比如用户偏好、任务进度、历史操作记录这类东西——光靠 Checkpointer 就有点力不从心了。对话线程之间彼此隔离，换个线程就像失忆一样，之前积累的信息全用不上。Store 机制就是来解决这个",
+          "link": "https://www.cnblogs.com/halfcode/p/20505331",
+          "publishedOn": "2026-06-13T07:58:00.000Z",
+          "wordCount": 736,
+          "title": "26. Agent 记不住业务数据？用 Store 给它加个“笔记本“！ - 老陈说编程",
+          "imageUrl": "https://img2024.cnblogs.com/blog/1919157/202606/1919157-20260613155631469-1767941577.png"
+        },
         {
           "id": "https://www.cnblogs.com/lsjwq/p/20498993",
           "author": null,
@@ -7304,6 +7584,16 @@
       "feedUrl": "http://h1.nobbd.de/reports_rss.xml",
       "siteUrl": "http://h1.nobbd.de/",
       "articles": [
+        {
+          "id": "https://hackerone.com/reports/3795615",
+          "author": null,
+          "description": "curl disclosed a bug submitted by violet12331: https://hackerone.com/reports/3795615",
+          "link": "https://hackerone.com/reports/3795615",
+          "publishedOn": "2026-06-13T20:47:30.000Z",
+          "wordCount": 25,
+          "title": "Duplicate chunked Transfer-Encoding lets a malicious origin smuggle a response across reused HTTP proxy connections",
+          "imageUrl": "https://profile-photos.hackerone-user-content.com/variants/000/035/663/2faf4c279d437d64bfda6d23d62ce1833813a4d9_original.png/f0e07660005686ec92c43da54c0094c1ac1b490ea8c5eac04a4081d912d6ce36"
+        },
         {
           "id": "https://hackerone.com/reports/3781015",
           "author": null,
