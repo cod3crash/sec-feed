@@ -2,10 +2,589 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cod3crash.github.io/sec-feed/index.html</id>
     <title>security feed</title>
-    <updated>2026-06-15T05:11:44.603Z</updated>
+    <updated>2026-06-16T05:17:18.205Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://cod3crash.github.io/sec-feed/index.html"/>
     <link rel="self" href="https://cod3crash.github.io/sec-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[GEPA 架构拆解：让 Prompt 和 Skill 优化不靠玄学 - AI小老六]]></title>
+        <id>https://www.cnblogs.com/ai-old-six/p/20566643</id>
+        <link href="https://www.cnblogs.com/ai-old-six/p/20566643"/>
+        <updated>2026-06-16T05:03:00.000Z</updated>
+        <summary type="html"><![CDATA[拆解 GEPA 如何用轨迹反馈、Pareto 前沿和模块合并，让 Prompt 优化更稳、更可审计。 原文链接：AI 小老六 Agent 系统里的 Prompt 很少是一次写对的。更常见的情况是，线上 case 出错以后，人去翻日志、看工具调用、读模型输出，再手工改一版 Prompt 或 Skill]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[开源] Memory Checker：极致轻量的 Windows 托盘内存监测工具，告别内存焦虑 - cup11]]></title>
+        <id>https://www.cnblogs.com/cup11/p/20287800</id>
+        <link href="https://www.cnblogs.com/cup11/p/20287800"/>
+        <updated>2026-06-16T04:33:00.000Z</updated>
+        <summary type="html"><![CDATA[16GB 内存又爆了，任务管理器又在关键时刻死活打不开？渲染、测试时总是担心 OOM 导致系统崩溃？Memory Checker 是一款专为 Windows 打造的极致轻量开源托盘控件。仅 15MB 安装包，通过实时变色的托盘图标，让你对内存占用“一眼定心”，告别死机焦虑。]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[码哥用扣子搭了一套自动跟进工作流，每天省2小时这不是夸张 - 码哥字节]]></title>
+        <id>https://www.cnblogs.com/uniqueDong/p/20566006</id>
+        <link href="https://www.cnblogs.com/uniqueDong/p/20566006"/>
+        <updated>2026-06-16T04:05:00.000Z</updated>
+        <summary type="html"><![CDATA[上周三下午，一个做销售的朋友发消息问我：&quot;有没有办法让客户填完表单之后，自动把信息记到表格里，同时给我发个钉钉通知？现在是我一个个手动拷贝的，有时候忘了，客户那边还会投诉说没有跟进。&quot; 我问他一天这类信息大概多少条。他说：&quot;少说也有二三十条，每条处理加确认大概要 2-3 分钟，算下来一天光这个就要花]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ZP7 和 ZP8 - jwang106]]></title>
+        <id>https://www.cnblogs.com/wangjiale1024/p/20565589</id>
+        <link href="https://www.cnblogs.com/wangjiale1024/p/20565589"/>
+        <updated>2026-06-16T03:53:00.000Z</updated>
+        <summary type="html"><![CDATA[ZP7 和 ZP8 这两个关键质量控制点（Z&#228;hlpunkt）的核心区别。 结合汽车生产的实际流程，我们可以对您的总结做进一步的补充和深化： ZP7：总装工序的“内部自检” 您的定义：车辆已完成组装并刷写软件，但尚未通过下线测试（EOL）。 执行主体：通常由总装车间的现场生产人员执行。 核心目的：侧]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[掏出手机就能搭个 WebDAV 同步服务器？这操作有点香 - 一名程序媛呀]]></title>
+        <id>https://www.cnblogs.com/ymtianyu/p/20565580</id>
+        <link href="https://www.cnblogs.com/ymtianyu/p/20565580"/>
+        <updated>2026-06-16T03:53:00.000Z</updated>
+        <summary type="html"><![CDATA[还在为不同软件间的配置同步头疼吗？本文带你用一部安卓手机，通过 Termux 和一款轻量级神器 gowebdav ，零成本搭建私人 WebDAV 服务器。无需公网 IP，不用注册第三方服务，十分钟就能让 Tampermonkey、KOReader 等软件实现无缝同步。内含详细避坑指南和方案对比，让你...]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[给博客加入黑客帝国背景字幕 - 北七星]]></title>
+        <id>https://www.cnblogs.com/batsing/p/20562520</id>
+        <link href="https://www.cnblogs.com/batsing/p/20562520"/>
+        <updated>2026-06-16T03:17:00.000Z</updated>
+        <summary type="html"><![CDATA[〇、效果如本页的背景所示，黑客帝国的字幕 一、本功能需要开通博客园的JS权限 二、在博客设置&#160;页脚HTML代码 贴入如下代码 &lt;!--黑客帝国背景，移动端不加入--&gt; &lt;div&gt;&lt;canvas id=&quot;matrixBG&quot; &gt;&lt;/canvas&gt;&lt;/div&gt; &lt;script src=&quot;https://f]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[程序员和软件还有前途吗 —— 从 NocoBase 收入再翻倍谈起 - NocoBase]]></title>
+        <id>https://www.cnblogs.com/nocobase/p/20563889</id>
+        <link href="https://www.cnblogs.com/nocobase/p/20563889"/>
+        <updated>2026-06-16T03:12:00.000Z</updated>
+        <summary type="html"><![CDATA[原文链接：https://www.nocobase.com/cn/blog/future-of-software-programmers-revenue-doubled 前情 半年前，我们在 NocoBase 发布 2.0 的时候写过第二篇总结文章：《没有 AI，没有融资，一个开源项目的真实收入》，]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何使用 Python 设置 Excel 单元格数字格式 - LAYONTHEGROUND]]></title>
+        <id>https://www.cnblogs.com/jazz-z/p/20561870</id>
+        <link href="https://www.cnblogs.com/jazz-z/p/20561870"/>
+        <updated>2026-06-16T02:27:00.000Z</updated>
+        <summary type="html"><![CDATA[在自动化报表生成与数据处理场景中，数值的展示方式直接影响文档的可读性与专业性。千分位分隔、货币符号、百分比显示、日期格式化等效果，均通过 Excel 的数字格式机制实现。本文将介绍如何通过 Python 代码精确控制 Excel 单元格的数字显示格式，示例基于 Free Spire.XLS for]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Find More Subdomains Than Everyone Else]]></title>
+        <id>https://medium.com/p/6dc35c88db2a</id>
+        <link href="https://medium.com/@masood.nfc77/how-to-find-more-subdomains-than-everyone-else-6dc35c88db2a?source=rss------bugbounty-5"/>
+        <updated>2026-06-16T02:05:28.000Z</updated>
+        <summary type="html"><![CDATA[Recon is a numbers game. Here is how to win it.
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Masood Nfc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Event-Driven Agent 实战：Prometheus 告警 → LLM → Tool Calling → 自动恢复 - it排球君]]></title>
+        <id>https://www.cnblogs.com/MrVolleyball/p/20486368</id>
+        <link href="https://www.cnblogs.com/MrVolleyball/p/20486368"/>
+        <updated>2026-06-16T02:05:00.000Z</updated>
+        <summary type="html"><![CDATA[前言 本文主要描述Event-Driven开发中的ReAct模式，并且使用一个demo，彻底搞懂怎么在实际工作中使用Event-Driven模式 话不多说，我们开始 代码结构 代码地址 . ├── agent.py # EventDrivenAgent 主逻辑，负责接收事件、调用 LLM、执行工具]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5 Beginner Mistakes That Get Your Bug Bounty Reports Rejected]]></title>
+        <id>https://medium.com/p/3b11d0f5de9f</id>
+        <link href="https://medium.com/@masood.nfc77/5-beginner-mistakes-that-get-your-bug-bounty-reports-rejected-3b11d0f5de9f?source=rss------bugbounty-5"/>
+        <updated>2026-06-16T02:02:08.000Z</updated>
+        <summary type="html"><![CDATA[Avoid these and your acceptance rate jumps overnight.
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Masood Nfc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[周一上线｜瑞幸把咖啡做进 CLI，Fable 5 短暂登场，Stonk Rider 骑上 K 线图 - 小七-七牛开发者]]></title>
+        <id>https://www.cnblogs.com/Qiniu-developer/p/20558657</id>
+        <link href="https://www.cnblogs.com/Qiniu-developer/p/20558657"/>
+        <updated>2026-06-16T01:28:00.000Z</updated>
+        <summary type="html"><![CDATA[一边，模型和开发者工具还在继续往真实工作流里走：Gemini 3.5 Live Translate 开始做近实时语音翻译，Kimi-K2.7-Code 开源，DiffusionGemma 探索更快的文本生成，Codex 和 Chrome DevTools 也在继续给 Agent 补浏览器能力。
+另一...]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[把 Agent 效果从 “感觉” 变成 “可验证” - AaronLin]]></title>
+        <id>https://www.cnblogs.com/aaronlinv/p/20553292</id>
+        <link href="https://www.cnblogs.com/aaronlinv/p/20553292"/>
+        <updated>2026-06-16T01:22:00.000Z</updated>
+        <summary type="html"><![CDATA[TLDR：用 A/B 盲测和独立评估，让约束迭代可验证 问题 约束迭代最大的问题，是写了不代表有效。很多时候我们只是觉得 Agent 变好了，但缺少稳定的验证方法 做法 我的流程分为四步： 修改约束文档，形成改后版本 按官方最佳实践 review，先排除明显不合理的写法 派 Subagent 做 A]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【YFIOs】用C#开发硬件之设备上云 - 刘洪峰AIoT]]></title>
+        <id>https://www.cnblogs.com/yefanqiu/p/20557501</id>
+        <link href="https://www.cnblogs.com/yefanqiu/p/20557501"/>
+        <updated>2026-06-16T01:20:00.000Z</updated>
+        <summary type="html"><![CDATA[将YF3300-ESP32S3设备数据上传到叶帆物联网平台需要使用 YFLink 协议通过 MQTT 进行通信。本章以完整项目 YeFanIoTTest 为例，介绍从设备初始化到数据上传的完整实现。]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[上周热点回顾（6.8-6.14） - 博客园团队]]></title>
+        <id>https://www.cnblogs.com/cmt/p/20556045</id>
+        <link href="https://www.cnblogs.com/cmt/p/20556045"/>
+        <updated>2026-06-16T00:09:00.000Z</updated>
+        <summary type="html"><![CDATA[热点随笔： &#183; 折腾了一下午，终于让Codex用上了DeepSeek (程序员晓凡) &#183; 小米开源编程助手 MIMO Code 简介和简单使用测试 (橙子家) &#183; 独立开发者最容易低估的，不是开发成本，而是维护成本 (Solo社区) &#183; C#实现控制台多区域输出 (yi念之间) &#183; 做 AI 工具出]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一文读懂AI落地的三驾马车：大语言模型、RAG、多模态AI - 岳小哥AI]]></title>
+        <id>https://www.cnblogs.com/hawk2026/p/20465978</id>
+        <link href="https://www.cnblogs.com/hawk2026/p/20465978"/>
+        <updated>2026-06-16T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[你有没有遇到过这种情况：跑去问AI一个问题，它回答得滔滔不绝，逻辑清晰，听起来像模像样，但你就是有一种&quot;哪里不对劲&quot;的感觉。要么数据过时，要么答案与你的实际情况毫不相干，要么语气信心满满，内容却一本正经地偏了题。 这种&quot;AI大聪明&quot;的尴尬，困扰过太多人。 其实问题的根源不在于AI笨，而在于技术架构本]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unauthenticated reading of every file via livechat auth and predicting MongoDB ObjectId()]]></title>
+        <id>https://hackerone.com/reports/3687142</id>
+        <link href="https://hackerone.com/reports/3687142"/>
+        <updated>2026-06-15T23:44:12.000Z</updated>
+        <summary type="html"><![CDATA[Rocket.Chat disclosed a bug submitted by aikido_security: https://hackerone.com/reports/3687142]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unauthenticated reading of every file via livechat auth and predicting MongoDB ObjectId()]]></title>
+        <id>https://hackerone.com/reports/3687142</id>
+        <link href="https://hackerone.com/reports/3687142"/>
+        <updated>2026-06-15T23:44:12.000Z</updated>
+        <summary type="html"><![CDATA[Rocket.Chat disclosed a bug submitted by aikido_security: https://hackerone.com/reports/3687142]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Footprinting Lab — Easy (Walkthrough)]]></title>
+        <id>https://medium.com/p/52905a82f00a</id>
+        <link href="https://medium.com/@theV01D/footprinting-lab-easy-walkthrough-52905a82f00a?source=rss------redteam-5"/>
+        <updated>2026-06-15T22:14:13.000Z</updated>
+        <summary type="html"><![CDATA[We were commissioned by the company Inlanefreight Ltd to test three different servers in their internal network. The company uses many…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>th3V0!D</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building a Hackbot for Bug Bounties — Auth Testing Subagent Setup]]></title>
+        <id>https://medium.com/p/02cc9cb89196</id>
+        <link href="https://infosecwriteups.com/building-a-hackbot-for-bug-bounties-auth-testing-subagent-setup-02cc9cb89196?source=rss------bugbounty-5"/>
+        <updated>2026-06-15T21:25:58.000Z</updated>
+        <summary type="html"><![CDATA[If you have been keeping up with the current state of Bug Bounties on X, you probably heard that some hunters are making small fortunes…
+Continue reading on InfoSec Write-ups »]]></summary>
+        <author>
+            <name>Appsec.pt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Active Directory Attacks — Silver Ticket Attack]]></title>
+        <id>https://medium.com/p/390c6cbe44c5</id>
+        <link href="https://medium.com/@osec403/active-directory-attacks-silver-ticket-attack-390c6cbe44c5?source=rss------redteam-5"/>
+        <updated>2026-06-15T20:30:55.000Z</updated>
+        <summary type="html"><![CDATA[A Silver Ticket attack is a Kerberos abuse technique where an attacker forges a valid service ticket (TGS) to authenticate directly to a…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Osec</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Active Directory Attacks — Golden Ticket Attack]]></title>
+        <id>https://medium.com/p/3218a87fdaaf</id>
+        <link href="https://medium.com/@osec403/active-directory-attacks-golden-ticket-attack-3218a87fdaaf?source=rss------redteam-5"/>
+        <updated>2026-06-15T19:58:49.000Z</updated>
+        <summary type="html"><![CDATA[An attacker performing a Golden Ticket attack takes advantage of the trust model of Kerberos authentication, where the Key Distribution…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Osec</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[When the warehouse has no lock]]></title>
+        <id>https://medium.com/p/33a6b7fc2342</id>
+        <link href="https://medium.com/@pawel.grzegrzolka/when-the-warehouse-has-no-lock-33a6b7fc2342?source=rss------bugbounty-5"/>
+        <updated>2026-06-15T18:26:16.000Z</updated>
+        <summary type="html"><![CDATA[Crypto exchanges spend fortunes on the front door. Hardware security modules for the hot wallets. Bug bounties on the matching engine…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Pawel Grzegrzolka</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GEMINI + KALI MCP SERVER FOR BUG BOUNTY]]></title>
+        <id>https://medium.com/p/8663af8619e0</id>
+        <link href="https://medium.com/@pavanshanmukhmadhav/gemini-kali-mcp-server-for-bug-bounty-8663af8619e0?source=rss------bugbounty-5"/>
+        <updated>2026-06-15T17:41:29.000Z</updated>
+        <summary type="html"><![CDATA[परिवर्तनमेव विकासस्य मार्गः।
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Pavanshanmukhmadhav</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How I Bought a Product for ₹1 and Forged an Admin Session: A Live Web CTF Walkthrough]]></title>
+        <id>https://medium.com/p/4964f2cd6f22</id>
+        <link href="https://medium.com/@kavitajoshi.kiran/how-i-bought-a-product-for-1-and-forged-an-admin-session-a-live-web-ctf-walkthrough-4964f2cd6f22?source=rss------bugbounty-5"/>
+        <updated>2026-06-15T17:22:10.000Z</updated>
+        <summary type="html"><![CDATA[In application security, a common phrase is: “Security tools look for known patterns, but human testers look for logical mistakes.”
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Kavitajoshi Kiran</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OTP Bypass: How Hackers Break “Unbreakable” OTP Verification]]></title>
+        <id>https://medium.com/p/da4ee8d3f050</id>
+        <link href="https://osintteam.blog/otp-bypass-how-hackers-break-unbreakable-otp-verification-da4ee8d3f050?source=rss------bugbounty-5"/>
+        <updated>2026-06-15T17:14:47.000Z</updated>
+        <summary type="html"><![CDATA[And How You Can Find These Bugs Too
+Continue reading on OSINT Team »]]></summary>
+        <author>
+            <name>Yamini Yadav_369</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nikto Tool: A Beginner’s Guide to Web Server Scanning]]></title>
+        <id>https://medium.com/p/7e4a34cd7aab</id>
+        <link href="https://osintteam.blog/nikto-tool-a-beginners-guide-to-web-server-scanning-7e4a34cd7aab?source=rss------bugbounty-5"/>
+        <updated>2026-06-15T17:14:22.000Z</updated>
+        <summary type="html"><![CDATA[If you’re starting your journey in penetration testing or bug bounty hunting, you’ve probably heard about a tool called Nikto. It’s one of…
+Continue reading on OSINT Team »]]></summary>
+        <author>
+            <name>Yamini Yadav_369</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows PrivEsc: Hunting Stored Credentials]]></title>
+        <id>https://medium.com/p/a24dbc303d8d</id>
+        <link href="https://christopherarock.medium.com/windows-privesc-hunting-stored-credentials-a24dbc303d8d?source=rss------redteam-5"/>
+        <updated>2026-06-15T15:59:16.000Z</updated>
+        <summary type="html"><![CDATA[Part 3 of the Windows Privilege Escalation series
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Christopher Arock</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reflected Cross-Site Scripting (XSS) found on IBM.com domain]]></title>
+        <id>https://hackerone.com/reports/3664261</id>
+        <link href="https://hackerone.com/reports/3664261"/>
+        <updated>2026-06-15T15:42:13.000Z</updated>
+        <summary type="html"><![CDATA[IBM disclosed a bug submitted by entrovyx: https://hackerone.com/reports/3664261]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reflected Cross-Site Scripting (XSS) found on IBM.com domain]]></title>
+        <id>https://hackerone.com/reports/3664261</id>
+        <link href="https://hackerone.com/reports/3664261"/>
+        <updated>2026-06-15T15:42:13.000Z</updated>
+        <summary type="html"><![CDATA[IBM disclosed a bug submitted by entrovyx: https://hackerone.com/reports/3664261]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[My Instructor Said “You Can’t Get a Shell.” I Got Root. — Full Web Pentest Exam Write-Up]]></title>
+        <id>https://medium.com/p/a82c804ce8e2</id>
+        <link href="https://infosecwriteups.com/my-instructor-said-you-cant-get-a-shell-i-got-root-full-web-pentest-exam-write-up-a82c804ce8e2?source=rss----7b722bfd1b8d---4"/>
+        <updated>2026-06-15T15:17:56.000Z</updated>
+        <author>
+            <name>Shikhali Jamalzade</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[My Instructor Said “You Can’t Get a Shell.” I Got Root. — Full Web Pentest Exam Write-Up]]></title>
+        <id>https://medium.com/p/a82c804ce8e2</id>
+        <link href="https://infosecwriteups.com/my-instructor-said-you-cant-get-a-shell-i-got-root-full-web-pentest-exam-write-up-a82c804ce8e2?source=rss----7b722bfd1b8d---4"/>
+        <updated>2026-06-15T15:17:56.000Z</updated>
+        <author>
+            <name>Shikhali Jamalzade</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Connectors CTF 2025 — DFIR Challenges]]></title>
+        <id>https://medium.com/p/6d66c31cce9a</id>
+        <link href="https://infosecwriteups.com/connectors-ctf-2025-dfir-challenges-6d66c31cce9a?source=rss----7b722bfd1b8d---4"/>
+        <updated>2026-06-15T15:17:14.000Z</updated>
+        <author>
+            <name>Loay Salah</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Connectors CTF 2025 — DFIR Challenges]]></title>
+        <id>https://medium.com/p/6d66c31cce9a</id>
+        <link href="https://infosecwriteups.com/connectors-ctf-2025-dfir-challenges-6d66c31cce9a?source=rss----7b722bfd1b8d---4"/>
+        <updated>2026-06-15T15:17:14.000Z</updated>
+        <author>
+            <name>Loay Salah</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Silent Breach Lab Writeup (CyberDefenders)]]></title>
+        <id>https://medium.com/p/c766dc7a9acb</id>
+        <link href="https://infosecwriteups.com/silent-breach-lab-writeup-cyberdefenders-c766dc7a9acb?source=rss----7b722bfd1b8d---4"/>
+        <updated>2026-06-15T15:16:01.000Z</updated>
+        <author>
+            <name>Loay Salah</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Silent Breach Lab Writeup (CyberDefenders)]]></title>
+        <id>https://medium.com/p/c766dc7a9acb</id>
+        <link href="https://infosecwriteups.com/silent-breach-lab-writeup-cyberdefenders-c766dc7a9acb?source=rss----7b722bfd1b8d---4"/>
+        <updated>2026-06-15T15:16:01.000Z</updated>
+        <author>
+            <name>Loay Salah</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Cybersecurity Skill That Helped Me Progress Faster Than Certifications, Courses, or Tools]]></title>
+        <id>https://medium.com/p/111ef315caf1</id>
+        <link href="https://medium.com/@subscribeall05/the-cybersecurity-skill-that-helped-me-progress-faster-than-certifications-courses-or-tools-111ef315caf1?source=rss------redteam-5"/>
+        <updated>2026-06-15T14:40:26.000Z</updated>
+        <summary type="html"><![CDATA[One of the Most Valuable Things I’ve Built in Cybersecurity Isn’t a Tool, It’s a Routine.
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Chisom</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《动手学深度学习》第一章笔记:机器学习问题到底怎么分类 - 养肥胖虎]]></title>
+        <id>https://www.cnblogs.com/FatTiger4399/p/20552875</id>
+        <link href="https://www.cnblogs.com/FatTiger4399/p/20552875"/>
+        <updated>2026-06-15T14:39:00.000Z</updated>
+        <summary type="html"><![CDATA[动手学深度学习第一章笔记:机器学习问题到底怎么分类 好家伙, 这次我把《动手学深度学习》第一章读完了。 先说一下,我为什么会突然翻这本书。 更直接的原因是,前面我在做一个从零学习 AI 的小项目。 写一个小项目去用,去学习ai(所谓干中学) 写到训练循环时,代码里开始出现这些东西: _, loss]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Incomplete Suppression of  Transfer-Encoding: chunked Header in HTTP/2 After Redirect From HTTP/1.1]]></title>
+        <id>https://hackerone.com/reports/3793495</id>
+        <link href="https://hackerone.com/reports/3793495"/>
+        <updated>2026-06-15T13:48:29.000Z</updated>
+        <summary type="html"><![CDATA[curl disclosed a bug submitted by unknowperson0212: https://hackerone.com/reports/3793495]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Incomplete Suppression of  Transfer-Encoding: chunked Header in HTTP/2 After Redirect From HTTP/1.1]]></title>
+        <id>https://hackerone.com/reports/3793495</id>
+        <link href="https://hackerone.com/reports/3793495"/>
+        <updated>2026-06-15T13:48:29.000Z</updated>
+        <summary type="html"><![CDATA[curl disclosed a bug submitted by unknowperson0212: https://hackerone.com/reports/3793495]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Secure cookies leaked to HTTP origins through HTTPS forwarding proxy]]></title>
+        <id>https://hackerone.com/reports/3803415</id>
+        <link href="https://hackerone.com/reports/3803415"/>
+        <updated>2026-06-15T13:48:15.000Z</updated>
+        <summary type="html"><![CDATA[curl disclosed a bug submitted by daviey: https://hackerone.com/reports/3803415]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Secure cookies leaked to HTTP origins through HTTPS forwarding proxy]]></title>
+        <id>https://hackerone.com/reports/3803415</id>
+        <link href="https://hackerone.com/reports/3803415"/>
+        <updated>2026-06-15T13:48:15.000Z</updated>
+        <summary type="html"><![CDATA[curl disclosed a bug submitted by daviey: https://hackerone.com/reports/3803415]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“Bug Bounty Bootcamp #46: Not Allowed From Your IP?”]]></title>
+        <id>https://medium.com/p/8df1b1f96a30</id>
+        <link href="https://infosecwriteups.com/bug-bounty-bootcamp-46-not-allowed-from-your-ip-8df1b1f96a30?source=rss------bugbounty-5"/>
+        <updated>2026-06-15T13:12:05.000Z</updated>
+        <summary type="html"><![CDATA[— How to Spoof, Brute-Force, and Mass-Assign Your Way Past Authentication Walls”
+Continue reading on InfoSec Write-ups »]]></summary>
+        <author>
+            <name>Aman Sharma</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How I “Hacked” a Company’s Instagram Account (And Got Rewarded for an Out-of-Scope Bug!)]]></title>
+        <id>https://medium.com/p/a5f6e286cfcf</id>
+        <link href="https://vanshrathorebughunter.medium.com/how-i-hacked-a-companys-instagram-account-and-got-rewarded-for-an-out-of-scope-bug-a5f6e286cfcf?source=rss------bugbounty-5"/>
+        <updated>2026-06-15T12:58:37.000Z</updated>
+        <summary type="html"><![CDATA[LinkedIn:- https://www.linkedin.com/in/vansh-rathore-cybersecurity?utm_source=share_via&utm_content=profile&utm_medium=member_android
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Vanshrathore</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Azure AI Search】Index的字段使用默认Analyzer(standard.lucene) 和 en.microsoft 有什么不同？ - 编码者卢布]]></title>
+        <id>https://www.cnblogs.com/lulight/p/20551683</id>
+        <link href="https://www.cnblogs.com/lulight/p/20551683"/>
+        <updated>2026-06-15T12:56:00.000Z</updated>
+        <summary type="html"><![CDATA[问题描述 在 Azure AI Search 里，英文检索有时会卡在一个很小的词形差异上：文档里是 brief，搜索 briefs 却搜不到。 搜索 briefs，无法命中只包含 brief 的文档。类似地，audit 和 auditing 也可能因为一个复数形式导致结果不同。 文档明明在，关键词也]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Agentic RL / 强化学习框架】Miles 项目技术分析---（1）--- 总体 - 罗西的思考]]></title>
+        <id>https://www.cnblogs.com/rossiXYZ/p/20524102</id>
+        <link href="https://www.cnblogs.com/rossiXYZ/p/20524102"/>
+        <updated>2026-06-15T12:53:00.000Z</updated>
+        <summary type="html"><![CDATA[【Agentic RL / 强化学习框架】Miles 项目技术分析 （1） 总体 目录【Agentic RL / 强化学习框架】Miles 项目技术分析 （1） 总体0x00 概要0x01 基础1.1 Agentic RL 的需求与难点1.1.1 传统 RLHF vs Agentic RL 范式对比]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SKILL 第一定律：说点 AI 不知道的 - cup11]]></title>
+        <id>https://www.cnblogs.com/cup11/p/20287276</id>
+        <link href="https://www.cnblogs.com/cup11/p/20287276"/>
+        <updated>2026-06-15T12:48:00.000Z</updated>
+        <summary type="html"><![CDATA[大模型每次会话都是一次重启。AI 在几轮资料查阅与修复过后，就忘记了自己“原本的认知”。它无法分辨哪些是自己信手拈来的常识，哪些是经过百般尝试才纠正过来的偏见，因而失去了对“认知死角”的强调，进而产出一份又一份低质量的“手册”式的 SKILL。我们亟需先“拓印”AI 流动的认知，提供对比参照的依据，...]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Flask框架01初始了解 - 乔的港口]]></title>
+        <id>https://www.cnblogs.com/qylogs/p/20551553</id>
+        <link href="https://www.cnblogs.com/qylogs/p/20551553"/>
+        <updated>2026-06-15T12:28:00.000Z</updated>
+        <summary type="html"><![CDATA[Flask概念 flask是一个轻量级别的python web程序，主要的特点就是简单灵活，能够快速的上手构建一个web应用，同时具备扩展到复杂项目的能力 Flask 是基于 Python 开发的微型 Web 框架，被称作微框架，核心原因是本身不绑定任何专用工具与依赖库，原生不内置数据库抽象层、表单]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Red Team Testing: Simulating Real Attacks to Strengthen Cybersecurity]]></title>
+        <id>https://medium.com/p/96417c191106</id>
+        <link href="https://medium.com/@smartcloudaustralia/red-team-testing-simulating-real-attacks-to-strengthen-cybersecurity-96417c191106?source=rss------redteam-5"/>
+        <updated>2026-06-15T11:22:35.000Z</updated>
+        <summary type="html"><![CDATA[Cyber threats are becoming more sophisticated, making it increasingly difficult for organisations to identify and address security…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>SmartCLOUD Australia</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From Login Attempts to Attack Detection: Understanding Authentication Events]]></title>
+        <id>https://medium.com/p/e447e98c04bf</id>
+        <link href="https://revs3k.medium.com/failed-logins-arent-noise-e447e98c04bf?source=rss------redteam-5"/>
+        <updated>2026-06-15T10:24:43.000Z</updated>
+        <summary type="html"><![CDATA[⛔Before you begin reading: This article is available as a Medium Member story.
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>revs3k</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UI Consent Bypass via Comma Injection in `addAutoApproveTarget`  User-Approval Dialog and Persistence Layer Disagree on Target Scope, Yielding Authen]]></title>
+        <id>https://hackerone.com/reports/3717354</id>
+        <link href="https://hackerone.com/reports/3717354"/>
+        <updated>2026-06-15T09:21:46.000Z</updated>
+        <summary type="html"><![CDATA[PortSwigger Web Security disclosed a bug submitted by hacker-kartel: https://hackerone.com/reports/3717354]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UI Consent Bypass via Comma Injection in `addAutoApproveTarget`  User-Approval Dialog and Persistence Layer Disagree on Target Scope, Yielding Authen]]></title>
+        <id>https://hackerone.com/reports/3717354</id>
+        <link href="https://hackerone.com/reports/3717354"/>
+        <updated>2026-06-15T09:21:46.000Z</updated>
+        <summary type="html"><![CDATA[PortSwigger Web Security disclosed a bug submitted by hacker-kartel: https://hackerone.com/reports/3717354]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RL economics, morally charged terms, and "distillation"]]></title>
+        <id>https://addxorrol.blogspot.com/2026/06/rl-economics-morally-charged-terms-and.html</id>
+        <link href="https://addxorrol.blogspot.com/2026/06/rl-economics-morally-charged-terms-and.html"/>
+        <updated>2026-06-15T08:49:25.722Z</updated>
+        <summary type="html"><![CDATA[After a number of Twitter discussions, and repeating myself a lot in these discussions, it is time to write a short note on the economics of advancing LLM capabilities through RL, about principles of propaganda and coining new words, and about my stubborn refusal to use the term "distillation" except in a specific narrow sense.
+How do models advance when human-curated data has run out?
+It's been a while since we ran out of human data to train LLMs on. We are training on copies of the internet, large piles of (originally pirated, then purchased-and-scanned-and-wholesale ingested) books, and whatever other data sources we can obtain. This leads to a certain performance plateau, as we haven't quite figured out how to make the models more data-efficient in training.
+
+
+The advancements we have …]]></summary>
+        <author>
+            <name>ADD / XOR / ROL</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From GNSS Fundamentals to Static GPS Spoofing]]></title>
+        <id>https://payatu.com/?p=16002</id>
+        <link href="https://payatu.com/blog/from-gnss-fundamentals-to-static-gps-spoofing/"/>
+        <updated>2026-06-15T08:47:04.000Z</updated>
+        <summary type="html"><![CDATA[Introduction to GPS GNSS stands for Global Navigation Satellite System, which is a satellite-based navigation system that provides geolocation for users in real-world situations. Different groups/countries invented different navigation systems such as GPS, GLONASS, etc. GNSS generally cannot fail, but if one fails, GNSS receivers can pick up signals from other systems. We are going […]
+The post From GNSS Fundamentals to Static GPS Spoofing appeared first on Payatu.]]></summary>
+        <author>
+            <name>Shubham Thorat</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Codex 实践系列 Vol.02：让 Codex 读懂开源项目 Typer - 小七-七牛开发者]]></title>
+        <id>https://www.cnblogs.com/Qiniu-developer/p/20545190</id>
+        <link href="https://www.cnblogs.com/Qiniu-developer/p/20545190"/>
+        <updated>2026-06-15T08:18:00.000Z</updated>
+        <summary type="html"><![CDATA[这次用 Codex 读 Typer，最重要的一点是：面对一个新项目，第一步先别急着让它写代码。比较稳妥的做法，是先让 Codex 读目录、找入口、解释核心文件，再沿着一个具体功能追下去，最后通过测试理解项目如何验证行为。]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From Domain Hashes to Remote Access: Demonstrating Pass-the-Hash in an Active Directory Lab]]></title>
+        <id>https://medium.com/p/4e5816dc5542</id>
+        <link href="https://medium.com/@unKnOwn37/from-domain-hashes-to-remote-access-demonstrating-pass-the-hash-in-an-active-directory-lab-4e5816dc5542?source=rss------redteam-5"/>
+        <updated>2026-06-15T05:30:13.000Z</updated>
+        <summary type="html"><![CDATA[Introduction
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Jai Bhattacharya</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[面试官问：你用 AI 编程半年了，那怎么保证 Claude Code 写出来的代码是对的？ - 狂师]]></title>
         <id>https://www.cnblogs.com/jinjiangongzuoshi/p/20538011</id>
@@ -7651,6 +8230,33 @@ The post The Chrome Extension That Stole the CEO’s Cookies: A Confession on AI
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[SSAQ AI for security 20260422]]></title>
+        <id>https://vipread.com/library/topic/4151</id>
+        <link href="https://vipread.com/library/topic/4151"/>
+        <updated>2026-05-06T08:50:32.000Z</updated>
+        <summary type="html"><![CDATA[本文链接
+
+本报告《AI重塑网络安全：网络安全智能化产品与市场报告》由数说安全研究院于2026年4月发布，聚焦"AI for Security"领域，系统研究人工智能技术如何赋能网络安全防御、检测、响应与治理。报告明确区分"用AI保护系统"与"保护AI系统自身"的边界，围绕五大核心问题展开：AI如何重塑安全运营工作流、从Copilot到Agent的技术演进路径、产学研最新进展与差距、不同场景下AI能力边界、代表性厂商技术路线差异。
+报告基于66家国内厂商问卷、11场深度访谈及国际公开资料，提炼13项关键发现：全球市场规模年均增速19-24%、头部厂商加速分化、数据质量成最大阻碍、工程化壁垒崛起等。市场按威胁检测、安全运营、数据安全等10大场景簇切分，并按Chatbot/Copilot、Agent智能体、内嵌增强三类交付形态梳理能力演进。
+报告提供10大维度选型评估框架、30道RFI关键问题清单，并深度画像44家国内外代表厂商，为CISO、SecOps团队、产品负责人及投研机构提供可落地的战略参考与实践路径。]]></summary>
+        <author>
+            <name>信息安全知识库</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Careful adoption of agentic AI services]]></title>
+        <id>https://vipread.com/library/topic/4150</id>
+        <link href="https://vipread.com/library/topic/4150"/>
+        <updated>2026-05-06T07:12:49.000Z</updated>
+        <summary type="html"><![CDATA[本文链接
+
+本文档由澳大利亚、美国、加拿大、新西兰及英国等多国国家级网络安全机构联合发布，旨在为政府、关键基础设施及行业企业提供智能体AI（Agentic AI）安全采用的权威指南。智能体AI基于大语言模型，具备自主推理、规划与执行能力，但其高度的自主性与复杂的系统架构显著扩大了攻击面，引入了权限滥用、目标错位、行为不可预测、结构耦合及问责困难等新型安全风险。
+指南系统梳理了智能体AI在设计、开发、部署与运营全生命周期中的安全挑战，并提出分层防御最佳实践。核心建议包括：严格遵循最小权限与零信任原则，强化细粒度身份管理；实施纵深防御与环境隔离；完善输入验证、第三方组件审查与持续监控机制；在高风险流程中强制保留“人在回路”监督；并通过威胁建模、红队演练与动态评估提升系统韧性。文档强调，组织应将AI安全深度融入现有网络安全框架，仅将其用于低风险任务，采取渐进式部署策略，优先保障系统的可观测性、可逆性与风险可控性，在安全可控的前提下推进技术落地。]]></summary>
+        <author>
+            <name>信息安全知识库</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Out of scope: Improper Input Validation Order on /api-internal/login via password field leads to unnecessary resource consumption]]></title>
         <id>https://hackerone.com/reports/3625600</id>
         <link href="https://hackerone.com/reports/3625600"/>
@@ -8711,6 +9317,18 @@ skill vs. tool
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[码力·智能开发与安全一体化平台]]></title>
+        <id>https://vipread.com/library/topic/4149</id>
+        <link href="https://vipread.com/library/topic/4149"/>
+        <updated>2026-03-20T09:39:16.000Z</updated>
+        <summary type="html"><![CDATA[本文链接
+
+《码力·智能开发与安全一体化平台》由长亭科技推出，以"AI+安全"双引擎破解企业AI编码困局：IDE智能辅助实现代码生成-审计-修复闭环，AI员工全自动完成需求到提交；内置SAST/SCA/AI审计三层防护，误报率<5%，支持DeepSeek等主流模型私有化部署。独创第四代自主规划Agent架构，1400倍上下文压缩、环境驱动执行与动态任务分解，让80万行代码审计从"被动扫描"升级为"主动探索"；配套安全/质量/合规/业务逻辑四维模板与Skill热插拔体系，已服务蔚来、贝壳等企业，AI代码占比超30%，实现"代码生而安全"的新型开发范式。]]></summary>
+        <author>
+            <name>信息安全知识库</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Quick way to find where a function is called in the source code using the ELF binary file]]></title>
         <id>http://acassis.wordpress.com/?p=12906</id>
         <link href="https://acassis.wordpress.com/2026/03/17/quick-way-to-find-where-a-function-is-called-in-the-source-code-using-the-elf-binary-file/"/>
@@ -8852,6 +9470,18 @@ The post Top 7 Red Team Companies in India  appeared first on Payatu.]]></summa
         <summary type="html"><![CDATA[你是否想过，当你让 AI 帮你写代码时，它可能正在你背后悄悄地干着其它事——比如，加密你的所有文件，然后弹出一个勒索提示？这不是吓唬你，而是我们研究后发现在各种…]]></summary>
         <author>
             <name>腾讯安全响应中心</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SOAR落地实践分享]]></title>
+        <id>https://vipread.com/library/topic/4148</id>
+        <link href="https://vipread.com/library/topic/4148"/>
+        <updated>2026-01-18T13:55:23.000Z</updated>
+        <summary type="html"><![CDATA[本文链接
+
+《SOAR落地实践》介绍平安科技5年来将“安全编排、自动化与响应”平台化的经验：以“自动炒菜机”理念把钓鱼研判、IP封堵、离职终端策略加固、资产富化与电话告警5大高频场景压缩至分钟级闭环，实现无人值守T+5分钟处置。分享给出SOAR选型关键——APP生态、剧本丰富度、总拥有成本与同行业案例，并剖析剧本设计、白名单校验、审批节点与重拨机制等落地细节，为准备建设或优化SOAR的团队提供可直接复用的参考模板。]]></summary>
+        <author>
+            <name>信息安全知识库</name>
         </author>
     </entry>
     <entry>
@@ -9730,19 +10360,6 @@ When you hook a python interpreter with this script, it would look like this:
 Is that cool? Running Lua code when Python calls into a C function to do some things. Some fun that AI assisted coding will never give you. You can try out yourself here.]]></summary>
         <author>
             <name>C-skills</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vanna CVE-2025-47277 看CodeQL Python 方法映射]]></title>
-        <id>http://m0d9.me/2025/06/16/Vanna-CVE-2025-47277-%E7%9C%8BCodeQL-Python-%E5%AE%9E%E7%8E%B0%EF%BC%88%E4%B8%80%EF%BC%89/</id>
-        <link href="http://m0d9.me/2025/06/16/Vanna-CVE-2025-47277-%E7%9C%8BCodeQL-Python-%E5%AE%9E%E7%8E%B0%EF%BC%88%E4%B8%80%EF%BC%89/"/>
-        <updated>2025-06-16T10:53:00.000Z</updated>
-        <summary type="html"><![CDATA[<h2 id="1-漏洞原理"><a href="#1-漏洞原理" class="headerlink" title="1. 漏洞原理"></a>1. 漏洞原理</h2><p>漏洞并不复杂，整个链也不长</p>
-<p>source：<br><a href="https://github.com/vanna-ai/vanna/blob/a72b842d420cf1fa061e5f97d45ea08051651ebb/src/vanna/flask/__init__.py#L441">https://github.com/vanna-ai/vanna/blob/a72b842d420cf1fa061e5f97d45ea08051651ebb/src/vanna/flask/__init__.py#L441</a> </p>
-<p><img src="/images/pasted-925.png" alt="upload successful"></p>
-<p>sink：<br><a href="https://github.com/vanna-ai/vanna/blob/4da8dea0ce14a0d1db5a0692a7921d873be91c5f/src/vanna/base/base.py#L2088">https://github.com/vanna-ai/vanna/blob/4da8dea0ce14a0d1db5a0692a7921d873be91c5f/src/vanna/base/base.py#L2088</a> </p>]]></summary>
-        <author>
-            <name>m0d9's blog</name>
         </author>
     </entry>
 </feed>

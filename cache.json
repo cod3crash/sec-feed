@@ -6,6 +6,56 @@
       "siteUrl": "http://h1.nobbd.de/",
       "articles": [
         {
+          "id": "https://hackerone.com/reports/3687142",
+          "author": null,
+          "description": "Rocket.Chat disclosed a bug submitted by aikido_security: https://hackerone.com/reports/3687142",
+          "link": "https://hackerone.com/reports/3687142",
+          "publishedOn": "2026-06-15T23:44:12.000Z",
+          "wordCount": 25,
+          "title": "Unauthenticated reading of every file via livechat auth and predicting MongoDB ObjectId()",
+          "imageUrl": "https://profile-photos.hackerone-user-content.com/variants/000/019/858/ada6c92a338715afad123af214dd6e22fd8dc6ff_original.png/f0e07660005686ec92c43da54c0094c1ac1b490ea8c5eac04a4081d912d6ce36"
+        },
+        {
+          "id": "https://hackerone.com/reports/3664261",
+          "author": null,
+          "description": "IBM disclosed a bug submitted by entrovyx: https://hackerone.com/reports/3664261",
+          "link": "https://hackerone.com/reports/3664261",
+          "publishedOn": "2026-06-15T15:42:13.000Z",
+          "wordCount": 25,
+          "title": "Reflected Cross-Site Scripting (XSS) found on IBM.com domain",
+          "imageUrl": "https://profile-photos.hackerone-user-content.com/variants/000/002/060/c9c3633edc1081446038c76237344b51696334da_original.jpg/5d27521e1b671a8e8bc4f016cace6a876120e5addf7dcc35ae4a5eac091669a9"
+        },
+        {
+          "id": "https://hackerone.com/reports/3793495",
+          "author": null,
+          "description": "curl disclosed a bug submitted by unknowperson0212: https://hackerone.com/reports/3793495",
+          "link": "https://hackerone.com/reports/3793495",
+          "publishedOn": "2026-06-15T13:48:29.000Z",
+          "wordCount": 25,
+          "title": "Incomplete Suppression of  Transfer-Encoding: chunked Header in HTTP/2 After Redirect From HTTP/1.1",
+          "imageUrl": "https://profile-photos.hackerone-user-content.com/variants/000/035/663/2faf4c279d437d64bfda6d23d62ce1833813a4d9_original.png/f0e07660005686ec92c43da54c0094c1ac1b490ea8c5eac04a4081d912d6ce36"
+        },
+        {
+          "id": "https://hackerone.com/reports/3803415",
+          "author": null,
+          "description": "curl disclosed a bug submitted by daviey: https://hackerone.com/reports/3803415",
+          "link": "https://hackerone.com/reports/3803415",
+          "publishedOn": "2026-06-15T13:48:15.000Z",
+          "wordCount": 25,
+          "title": "Secure cookies leaked to HTTP origins through HTTPS forwarding proxy",
+          "imageUrl": "https://profile-photos.hackerone-user-content.com/variants/000/035/663/2faf4c279d437d64bfda6d23d62ce1833813a4d9_original.png/f0e07660005686ec92c43da54c0094c1ac1b490ea8c5eac04a4081d912d6ce36"
+        },
+        {
+          "id": "https://hackerone.com/reports/3717354",
+          "author": null,
+          "description": "PortSwigger Web Security disclosed a bug submitted by hacker-kartel: https://hackerone.com/reports/3717354",
+          "link": "https://hackerone.com/reports/3717354",
+          "publishedOn": "2026-06-15T09:21:46.000Z",
+          "wordCount": 25,
+          "title": "UI Consent Bypass via Comma Injection in `addAutoApproveTarget`  User-Approval Dialog and Persistence Layer Disagree on Target Scope, Yielding Authen",
+          "imageUrl": "https://profile-photos.hackerone-user-content.com/variants/000/015/252/60e8778f4f1fee57ea2b164a7d2ec1e2d2dd7bc8_original./f0e07660005686ec92c43da54c0094c1ac1b490ea8c5eac04a4081d912d6ce36"
+        },
+        {
           "id": "https://hackerone.com/reports/3712279",
           "author": null,
           "description": "PortSwigger Web Security disclosed a bug submitted by kawakatz: https://hackerone.com/reports/3712279 - Bounty: $5000",
@@ -1333,6 +1383,36 @@
       "siteUrl": "https://infosecwriteups.com?source=rss----7b722bfd1b8d---4",
       "articles": [
         {
+          "id": "https://medium.com/p/a82c804ce8e2",
+          "author": "Shikhali Jamalzade",
+          "description": "",
+          "link": "https://infosecwriteups.com/my-instructor-said-you-cant-get-a-shell-i-got-root-full-web-pentest-exam-write-up-a82c804ce8e2?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2026-06-15T15:17:56.000Z",
+          "wordCount": null,
+          "title": "My Instructor Said “You Can’t Get a Shell.” I Got Root. — Full Web Pentest Exam Write-Up",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/6d66c31cce9a",
+          "author": "Loay Salah",
+          "description": "",
+          "link": "https://infosecwriteups.com/connectors-ctf-2025-dfir-challenges-6d66c31cce9a?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2026-06-15T15:17:14.000Z",
+          "wordCount": null,
+          "title": "Connectors CTF 2025 — DFIR Challenges",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/c766dc7a9acb",
+          "author": "Loay Salah",
+          "description": "",
+          "link": "https://infosecwriteups.com/silent-breach-lab-writeup-cyberdefenders-c766dc7a9acb?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2026-06-15T15:16:01.000Z",
+          "wordCount": null,
+          "title": "Silent Breach Lab Writeup (CyberDefenders)",
+          "imageUrl": null
+        },
+        {
           "id": "https://medium.com/p/3b49a1afe7f6",
           "author": "Loay Salah",
           "description": "",
@@ -1939,6 +2019,106 @@
       "feedUrl": "https://medium.com/feed/tag/bugbounty",
       "siteUrl": "https://medium.com/tag/bugbounty/latest?source=rss------bugbounty-5",
       "articles": [
+        {
+          "id": "https://medium.com/p/6dc35c88db2a",
+          "author": "Masood Nfc",
+          "description": "Recon is a numbers game. Here is how to win it.\nContinue reading on Medium »",
+          "link": "https://medium.com/@masood.nfc77/how-to-find-more-subdomains-than-everyone-else-6dc35c88db2a?source=rss------bugbounty-5",
+          "publishedOn": "2026-06-16T02:05:28.000Z",
+          "wordCount": null,
+          "title": "How to Find More Subdomains Than Everyone Else",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/3b11d0f5de9f",
+          "author": "Masood Nfc",
+          "description": "Avoid these and your acceptance rate jumps overnight.\nContinue reading on Medium »",
+          "link": "https://medium.com/@masood.nfc77/5-beginner-mistakes-that-get-your-bug-bounty-reports-rejected-3b11d0f5de9f?source=rss------bugbounty-5",
+          "publishedOn": "2026-06-16T02:02:08.000Z",
+          "wordCount": null,
+          "title": "5 Beginner Mistakes That Get Your Bug Bounty Reports Rejected",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/02cc9cb89196",
+          "author": "Appsec.pt",
+          "description": "If you have been keeping up with the current state of Bug Bounties on X, you probably heard that some hunters are making small fortunes…\nContinue reading on InfoSec Write-ups »",
+          "link": "https://infosecwriteups.com/building-a-hackbot-for-bug-bounties-auth-testing-subagent-setup-02cc9cb89196?source=rss------bugbounty-5",
+          "publishedOn": "2026-06-15T21:25:58.000Z",
+          "wordCount": null,
+          "title": "Building a Hackbot for Bug Bounties — Auth Testing Subagent Setup",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/33a6b7fc2342",
+          "author": "Pawel Grzegrzolka",
+          "description": "Crypto exchanges spend fortunes on the front door. Hardware security modules for the hot wallets. Bug bounties on the matching engine…\nContinue reading on Medium »",
+          "link": "https://medium.com/@pawel.grzegrzolka/when-the-warehouse-has-no-lock-33a6b7fc2342?source=rss------bugbounty-5",
+          "publishedOn": "2026-06-15T18:26:16.000Z",
+          "wordCount": null,
+          "title": "When the warehouse has no lock",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/8663af8619e0",
+          "author": "Pavanshanmukhmadhav",
+          "description": "परिवर्तनमेव विकासस्य मार्गः।\nContinue reading on Medium »",
+          "link": "https://medium.com/@pavanshanmukhmadhav/gemini-kali-mcp-server-for-bug-bounty-8663af8619e0?source=rss------bugbounty-5",
+          "publishedOn": "2026-06-15T17:41:29.000Z",
+          "wordCount": null,
+          "title": "GEMINI + KALI MCP SERVER FOR BUG BOUNTY",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/4964f2cd6f22",
+          "author": "Kavitajoshi Kiran",
+          "description": "In application security, a common phrase is: “Security tools look for known patterns, but human testers look for logical mistakes.”\nContinue reading on Medium »",
+          "link": "https://medium.com/@kavitajoshi.kiran/how-i-bought-a-product-for-1-and-forged-an-admin-session-a-live-web-ctf-walkthrough-4964f2cd6f22?source=rss------bugbounty-5",
+          "publishedOn": "2026-06-15T17:22:10.000Z",
+          "wordCount": null,
+          "title": "How I Bought a Product for ₹1 and Forged an Admin Session: A Live Web CTF Walkthrough",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/da4ee8d3f050",
+          "author": "Yamini Yadav_369",
+          "description": "And How You Can Find These Bugs Too\nContinue reading on OSINT Team »",
+          "link": "https://osintteam.blog/otp-bypass-how-hackers-break-unbreakable-otp-verification-da4ee8d3f050?source=rss------bugbounty-5",
+          "publishedOn": "2026-06-15T17:14:47.000Z",
+          "wordCount": null,
+          "title": "OTP Bypass: How Hackers Break “Unbreakable” OTP Verification",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/7e4a34cd7aab",
+          "author": "Yamini Yadav_369",
+          "description": "If you’re starting your journey in penetration testing or bug bounty hunting, you’ve probably heard about a tool called Nikto. It’s one of…\nContinue reading on OSINT Team »",
+          "link": "https://osintteam.blog/nikto-tool-a-beginners-guide-to-web-server-scanning-7e4a34cd7aab?source=rss------bugbounty-5",
+          "publishedOn": "2026-06-15T17:14:22.000Z",
+          "wordCount": null,
+          "title": "Nikto Tool: A Beginner’s Guide to Web Server Scanning",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/8df1b1f96a30",
+          "author": "Aman Sharma",
+          "description": "— How to Spoof, Brute-Force, and Mass-Assign Your Way Past Authentication Walls”\nContinue reading on InfoSec Write-ups »",
+          "link": "https://infosecwriteups.com/bug-bounty-bootcamp-46-not-allowed-from-your-ip-8df1b1f96a30?source=rss------bugbounty-5",
+          "publishedOn": "2026-06-15T13:12:05.000Z",
+          "wordCount": null,
+          "title": "“Bug Bounty Bootcamp #46: Not Allowed From Your IP?”",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/a5f6e286cfcf",
+          "author": "Vanshrathore",
+          "description": "LinkedIn:- https://www.linkedin.com/in/vansh-rathore-cybersecurity?utm_source=share_via&utm_content=profile&utm_medium=member_android\nContinue reading on Medium »",
+          "link": "https://vanshrathorebughunter.medium.com/how-i-hacked-a-companys-instagram-account-and-got-rewarded-for-an-out-of-scope-bug-a5f6e286cfcf?source=rss------bugbounty-5",
+          "publishedOn": "2026-06-15T12:58:37.000Z",
+          "wordCount": null,
+          "title": "How I “Hacked” a Company’s Instagram Account (And Got Rewarded for an Out-of-Scope Bug!)",
+          "imageUrl": null
+        },
         {
           "id": "https://medium.com/p/abd014432980",
           "author": "Kerolos Iskander (ker0los)",
@@ -3097,6 +3277,86 @@
       "siteUrl": "https://medium.com/tag/redteam/latest?source=rss------redteam-5",
       "articles": [
         {
+          "id": "https://medium.com/p/52905a82f00a",
+          "author": "th3V0!D",
+          "description": "We were commissioned by the company Inlanefreight Ltd to test three different servers in their internal network. The company uses many…\nContinue reading on Medium »",
+          "link": "https://medium.com/@theV01D/footprinting-lab-easy-walkthrough-52905a82f00a?source=rss------redteam-5",
+          "publishedOn": "2026-06-15T22:14:13.000Z",
+          "wordCount": null,
+          "title": "Footprinting Lab — Easy (Walkthrough)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/390c6cbe44c5",
+          "author": "Osec",
+          "description": "A Silver Ticket attack is a Kerberos abuse technique where an attacker forges a valid service ticket (TGS) to authenticate directly to a…\nContinue reading on Medium »",
+          "link": "https://medium.com/@osec403/active-directory-attacks-silver-ticket-attack-390c6cbe44c5?source=rss------redteam-5",
+          "publishedOn": "2026-06-15T20:30:55.000Z",
+          "wordCount": null,
+          "title": "Active Directory Attacks — Silver Ticket Attack",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/3218a87fdaaf",
+          "author": "Osec",
+          "description": "An attacker performing a Golden Ticket attack takes advantage of the trust model of Kerberos authentication, where the Key Distribution…\nContinue reading on Medium »",
+          "link": "https://medium.com/@osec403/active-directory-attacks-golden-ticket-attack-3218a87fdaaf?source=rss------redteam-5",
+          "publishedOn": "2026-06-15T19:58:49.000Z",
+          "wordCount": null,
+          "title": "Active Directory Attacks — Golden Ticket Attack",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/a24dbc303d8d",
+          "author": "Christopher Arock",
+          "description": "Part 3 of the Windows Privilege Escalation series\nContinue reading on Medium »",
+          "link": "https://christopherarock.medium.com/windows-privesc-hunting-stored-credentials-a24dbc303d8d?source=rss------redteam-5",
+          "publishedOn": "2026-06-15T15:59:16.000Z",
+          "wordCount": null,
+          "title": "Windows PrivEsc: Hunting Stored Credentials",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/111ef315caf1",
+          "author": "Chisom",
+          "description": "One of the Most Valuable Things I’ve Built in Cybersecurity Isn’t a Tool, It’s a Routine.\nContinue reading on Medium »",
+          "link": "https://medium.com/@subscribeall05/the-cybersecurity-skill-that-helped-me-progress-faster-than-certifications-courses-or-tools-111ef315caf1?source=rss------redteam-5",
+          "publishedOn": "2026-06-15T14:40:26.000Z",
+          "wordCount": null,
+          "title": "The Cybersecurity Skill That Helped Me Progress Faster Than Certifications, Courses, or Tools",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/96417c191106",
+          "author": "SmartCLOUD Australia",
+          "description": "Cyber threats are becoming more sophisticated, making it increasingly difficult for organisations to identify and address security…\nContinue reading on Medium »",
+          "link": "https://medium.com/@smartcloudaustralia/red-team-testing-simulating-real-attacks-to-strengthen-cybersecurity-96417c191106?source=rss------redteam-5",
+          "publishedOn": "2026-06-15T11:22:35.000Z",
+          "wordCount": null,
+          "title": "Red Team Testing: Simulating Real Attacks to Strengthen Cybersecurity",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/e447e98c04bf",
+          "author": "revs3k",
+          "description": "⛔Before you begin reading: This article is available as a Medium Member story.\nContinue reading on Medium »",
+          "link": "https://revs3k.medium.com/failed-logins-arent-noise-e447e98c04bf?source=rss------redteam-5",
+          "publishedOn": "2026-06-15T10:24:43.000Z",
+          "wordCount": null,
+          "title": "From Login Attempts to Attack Detection: Understanding Authentication Events",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/4e5816dc5542",
+          "author": "Jai Bhattacharya",
+          "description": "Introduction\nContinue reading on Medium »",
+          "link": "https://medium.com/@unKnOwn37/from-domain-hashes-to-remote-access-demonstrating-pass-the-hash-in-an-active-directory-lab-4e5816dc5542?source=rss------redteam-5",
+          "publishedOn": "2026-06-15T05:30:13.000Z",
+          "wordCount": null,
+          "title": "From Domain Hashes to Remote Access: Demonstrating Pass-the-Hash in an Active Directory Lab",
+          "imageUrl": null
+        },
+        {
           "id": "https://medium.com/p/626fa4be28d2",
           "author": "Hack Mind Academy",
           "description": "Autor: Luis Daniel Martínez Sánchez, Karina Bautista Bautista\nÁmbito: Active Directory · Kerberos · Purple Team · SIEM\nContinue reading on Medium »",
@@ -3763,6 +4023,36 @@
       "feedUrl": "https://medium.com/feed/bugbountywriteup",
       "siteUrl": "https://infosecwriteups.com?source=rss----7b722bfd1b8d---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/a82c804ce8e2",
+          "author": "Shikhali Jamalzade",
+          "description": "",
+          "link": "https://infosecwriteups.com/my-instructor-said-you-cant-get-a-shell-i-got-root-full-web-pentest-exam-write-up-a82c804ce8e2?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2026-06-15T15:17:56.000Z",
+          "wordCount": null,
+          "title": "My Instructor Said “You Can’t Get a Shell.” I Got Root. — Full Web Pentest Exam Write-Up",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/6d66c31cce9a",
+          "author": "Loay Salah",
+          "description": "",
+          "link": "https://infosecwriteups.com/connectors-ctf-2025-dfir-challenges-6d66c31cce9a?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2026-06-15T15:17:14.000Z",
+          "wordCount": null,
+          "title": "Connectors CTF 2025 — DFIR Challenges",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/c766dc7a9acb",
+          "author": "Loay Salah",
+          "description": "",
+          "link": "https://infosecwriteups.com/silent-breach-lab-writeup-cyberdefenders-c766dc7a9acb?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2026-06-15T15:16:01.000Z",
+          "wordCount": null,
+          "title": "Silent Breach Lab Writeup (CyberDefenders)",
+          "imageUrl": null
+        },
         {
           "id": "https://medium.com/p/3b49a1afe7f6",
           "author": "Loay Salah",
@@ -4853,6 +5143,16 @@
       "siteUrl": "https://addxorrol.blogspot.com/",
       "articles": [
         {
+          "id": "https://addxorrol.blogspot.com/2026/06/rl-economics-morally-charged-terms-and.html",
+          "author": null,
+          "description": "After a number of Twitter discussions, and repeating myself a lot in these discussions, it is time to write a short note on the economics of advancing LLM capabilities through RL, about principles of propaganda and coining new words, and about my stubborn refusal to use the term \"distillation\" except in a specific narrow sense.\nHow do models advance when human-curated data has run out?\nIt's been a while since we ran out of human data to train LLMs on. We are training on copies of the internet, large piles of (originally pirated, then purchased-and-scanned-and-wholesale ingested) books, and whatever other data sources we can obtain. This leads to a certain performance plateau, as we haven't quite figured out how to make the models more data-efficient in training.\n\n\nThe advancements we have …",
+          "link": "https://addxorrol.blogspot.com/2026/06/rl-economics-morally-charged-terms-and.html",
+          "publishedOn": "2026-06-15T08:49:25.722Z",
+          "wordCount": 3984,
+          "title": "RL economics, morally charged terms, and \"distillation\"",
+          "imageUrl": null
+        },
+        {
           "id": "https://addxorrol.blogspot.com/2026/03/slightly-safer-vibecoding-by-adopting.html",
           "author": null,
           "description": "I have seen a lot of public discussion around supply-chain attacks on the Python ecosystem, prompt injection risks when using coding agents, and general worries about the security implications of \"vibe coding\" for the development machine.\nIn some of these discussions I find myself puzzled as to what problem is being solved - and it took me a while to realize that my failure to understand lies in the development setup that I tend to use.\nIn this blog post I'll quickly explain my development setup.\nThe setup is pretty simple:\n\nThe actual development happens on a rented server (or a VM on that server).\n\nIn order to do development, I SSH into that server with key-forwarding for my github keys enabled.\n\nI perform my development on the server by attaching to a screen or tmux session.\n\nI used to …",
@@ -5308,6 +5608,206 @@
       "feedUrl": "https://feed.cnblogs.com/blog/sitehome/rss",
       "siteUrl": null,
       "articles": [
+        {
+          "id": "https://www.cnblogs.com/ai-old-six/p/20566643",
+          "author": null,
+          "description": "拆解 GEPA 如何用轨迹反馈、Pareto 前沿和模块合并，让 Prompt 优化更稳、更可审计。 原文链接：AI 小老六 Agent 系统里的 Prompt 很少是一次写对的。更常见的情况是，线上 case 出错以后，人去翻日志、看工具调用、读模型输出，再手工改一版 Prompt 或 Skill",
+          "link": "https://www.cnblogs.com/ai-old-six/p/20566643",
+          "publishedOn": "2026-06-16T05:03:00.000Z",
+          "wordCount": 949,
+          "title": "GEPA 架构拆解：让 Prompt 和 Skill 优化不靠玄学 - AI小老六",
+          "imageUrl": "https://img2024.cnblogs.com/blog/3798513/202606/3798513-20260616125921702-1096570068.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/cup11/p/20287800",
+          "author": null,
+          "description": "16GB 内存又爆了，任务管理器又在关键时刻死活打不开？渲染、测试时总是担心 OOM 导致系统崩溃？Memory Checker 是一款专为 Windows 打造的极致轻量开源托盘控件。仅 15MB 安装包，通过实时变色的托盘图标，让你对内存占用“一眼定心”，告别死机焦虑。",
+          "link": "https://www.cnblogs.com/cup11/p/20287800",
+          "publishedOn": "2026-06-16T04:33:00.000Z",
+          "wordCount": 358,
+          "title": "[开源] Memory Checker：极致轻量的 Windows 托盘内存监测工具，告别内存焦虑 - cup11",
+          "imageUrl": "https://img2024.cnblogs.com/blog/2862691/202606/2862691-20260615193852975-946178269.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/uniqueDong/p/20566006",
+          "author": null,
+          "description": "上周三下午，一个做销售的朋友发消息问我：&quot;有没有办法让客户填完表单之后，自动把信息记到表格里，同时给我发个钉钉通知？现在是我一个个手动拷贝的，有时候忘了，客户那边还会投诉说没有跟进。&quot; 我问他一天这类信息大概多少条。他说：&quot;少说也有二三十条，每条处理加确认大概要 2-3 分钟，算下来一天光这个就要花",
+          "link": "https://www.cnblogs.com/uniqueDong/p/20566006",
+          "publishedOn": "2026-06-16T04:05:00.000Z",
+          "wordCount": 530,
+          "title": "码哥用扣子搭了一套自动跟进工作流，每天省2小时这不是夸张 - 码哥字节",
+          "imageUrl": "https://img2024.cnblogs.com/blog/735767/202605/735767-20260526114014236-744639895.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/wangjiale1024/p/20565589",
+          "author": null,
+          "description": "ZP7 和 ZP8 这两个关键质量控制点（Z&#228;hlpunkt）的核心区别。 结合汽车生产的实际流程，我们可以对您的总结做进一步的补充和深化： ZP7：总装工序的“内部自检” 您的定义：车辆已完成组装并刷写软件，但尚未通过下线测试（EOL）。 执行主体：通常由总装车间的现场生产人员执行。 核心目的：侧",
+          "link": "https://www.cnblogs.com/wangjiale1024/p/20565589",
+          "publishedOn": "2026-06-16T03:53:00.000Z",
+          "wordCount": 319,
+          "title": "ZP7 和 ZP8 - jwang106",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/ymtianyu/p/20565580",
+          "author": null,
+          "description": "还在为不同软件间的配置同步头疼吗？本文带你用一部安卓手机，通过 Termux 和一款轻量级神器 gowebdav ，零成本搭建私人 WebDAV 服务器。无需公网 IP，不用注册第三方服务，十分钟就能让 Tampermonkey、KOReader 等软件实现无缝同步。内含详细避坑指南和方案对比，让你...",
+          "link": "https://www.cnblogs.com/ymtianyu/p/20565580",
+          "publishedOn": "2026-06-16T03:53:00.000Z",
+          "wordCount": 590,
+          "title": "掏出手机就能搭个 WebDAV 同步服务器？这操作有点香 - 一名程序媛呀",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/batsing/p/20562520",
+          "author": null,
+          "description": "〇、效果如本页的背景所示，黑客帝国的字幕 一、本功能需要开通博客园的JS权限 二、在博客设置&#160;页脚HTML代码 贴入如下代码 &lt;!--黑客帝国背景，移动端不加入--&gt; &lt;div&gt;&lt;canvas id=&quot;matrixBG&quot; &gt;&lt;/canvas&gt;&lt;/div&gt; &lt;script src=&quot;https://f",
+          "link": "https://www.cnblogs.com/batsing/p/20562520",
+          "publishedOn": "2026-06-16T03:17:00.000Z",
+          "wordCount": 499,
+          "title": "给博客加入黑客帝国背景字幕 - 北七星",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/nocobase/p/20563889",
+          "author": null,
+          "description": "原文链接：https://www.nocobase.com/cn/blog/future-of-software-programmers-revenue-doubled 前情 半年前，我们在 NocoBase 发布 2.0 的时候写过第二篇总结文章：《没有 AI，没有融资，一个开源项目的真实收入》，",
+          "link": "https://www.cnblogs.com/nocobase/p/20563889",
+          "publishedOn": "2026-06-16T03:12:00.000Z",
+          "wordCount": 570,
+          "title": "程序员和软件还有前途吗 —— 从 NocoBase 收入再翻倍谈起 - NocoBase",
+          "imageUrl": "https://img2024.cnblogs.com/blog/3383785/202606/3383785-20260616105443596-1374097598.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/jazz-z/p/20561870",
+          "author": null,
+          "description": "在自动化报表生成与数据处理场景中，数值的展示方式直接影响文档的可读性与专业性。千分位分隔、货币符号、百分比显示、日期格式化等效果，均通过 Excel 的数字格式机制实现。本文将介绍如何通过 Python 代码精确控制 Excel 单元格的数字显示格式，示例基于 Free Spire.XLS for",
+          "link": "https://www.cnblogs.com/jazz-z/p/20561870",
+          "publishedOn": "2026-06-16T02:27:00.000Z",
+          "wordCount": 604,
+          "title": "如何使用 Python 设置 Excel 单元格数字格式 - LAYONTHEGROUND",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/MrVolleyball/p/20486368",
+          "author": null,
+          "description": "前言 本文主要描述Event-Driven开发中的ReAct模式，并且使用一个demo，彻底搞懂怎么在实际工作中使用Event-Driven模式 话不多说，我们开始 代码结构 代码地址 . ├── agent.py # EventDrivenAgent 主逻辑，负责接收事件、调用 LLM、执行工具",
+          "link": "https://www.cnblogs.com/MrVolleyball/p/20486368",
+          "publishedOn": "2026-06-16T02:05:00.000Z",
+          "wordCount": 500,
+          "title": "Event-Driven Agent 实战：Prometheus 告警 → LLM → Tool Calling → 自动恢复 - it排球君",
+          "imageUrl": "https://img2024.cnblogs.com/blog/1416773/202606/1416773-20260612175351636-290916357.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/Qiniu-developer/p/20558657",
+          "author": null,
+          "description": "一边，模型和开发者工具还在继续往真实工作流里走：Gemini 3.5 Live Translate 开始做近实时语音翻译，Kimi-K2.7-Code 开源，DiffusionGemma 探索更快的文本生成，Codex 和 Chrome DevTools 也在继续给 Agent 补浏览器能力。\n另一...",
+          "link": "https://www.cnblogs.com/Qiniu-developer/p/20558657",
+          "publishedOn": "2026-06-16T01:28:00.000Z",
+          "wordCount": 807,
+          "title": "周一上线｜瑞幸把咖啡做进 CLI，Fable 5 短暂登场，Stonk Rider 骑上 K 线图 - 小七-七牛开发者",
+          "imageUrl": "https://img2024.cnblogs.com/blog/3796273/202606/3796273-20260616092717651-410152858.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/aaronlinv/p/20553292",
+          "author": null,
+          "description": "TLDR：用 A/B 盲测和独立评估，让约束迭代可验证 问题 约束迭代最大的问题，是写了不代表有效。很多时候我们只是觉得 Agent 变好了，但缺少稳定的验证方法 做法 我的流程分为四步： 修改约束文档，形成改后版本 按官方最佳实践 review，先排除明显不合理的写法 派 Subagent 做 A",
+          "link": "https://www.cnblogs.com/aaronlinv/p/20553292",
+          "publishedOn": "2026-06-16T01:22:00.000Z",
+          "wordCount": 391,
+          "title": "把 Agent 效果从 “感觉” 变成 “可验证” - AaronLin",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/yefanqiu/p/20557501",
+          "author": null,
+          "description": "将YF3300-ESP32S3设备数据上传到叶帆物联网平台需要使用 YFLink 协议通过 MQTT 进行通信。本章以完整项目 YeFanIoTTest 为例，介绍从设备初始化到数据上传的完整实现。",
+          "link": "https://www.cnblogs.com/yefanqiu/p/20557501",
+          "publishedOn": "2026-06-16T01:20:00.000Z",
+          "wordCount": 13789,
+          "title": "【YFIOs】用C#开发硬件之设备上云 - 刘洪峰AIoT",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/cmt/p/20556045",
+          "author": null,
+          "description": "热点随笔： &#183; 折腾了一下午，终于让Codex用上了DeepSeek (程序员晓凡) &#183; 小米开源编程助手 MIMO Code 简介和简单使用测试 (橙子家) &#183; 独立开发者最容易低估的，不是开发成本，而是维护成本 (Solo社区) &#183; C#实现控制台多区域输出 (yi念之间) &#183; 做 AI 工具出",
+          "link": "https://www.cnblogs.com/cmt/p/20556045",
+          "publishedOn": "2026-06-16T00:09:00.000Z",
+          "wordCount": 363,
+          "title": "上周热点回顾（6.8-6.14） - 博客园团队",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/hawk2026/p/20465978",
+          "author": null,
+          "description": "你有没有遇到过这种情况：跑去问AI一个问题，它回答得滔滔不绝，逻辑清晰，听起来像模像样，但你就是有一种&quot;哪里不对劲&quot;的感觉。要么数据过时，要么答案与你的实际情况毫不相干，要么语气信心满满，内容却一本正经地偏了题。 这种&quot;AI大聪明&quot;的尴尬，困扰过太多人。 其实问题的根源不在于AI笨，而在于技术架构本",
+          "link": "https://www.cnblogs.com/hawk2026/p/20465978",
+          "publishedOn": "2026-06-16T00:00:00.000Z",
+          "wordCount": 323,
+          "title": "一文读懂AI落地的三驾马车：大语言模型、RAG、多模态AI - 岳小哥AI",
+          "imageUrl": "https://img2024.cnblogs.com/blog/3076183/202606/3076183-20260612092214685-347097552.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/FatTiger4399/p/20552875",
+          "author": null,
+          "description": "动手学深度学习第一章笔记:机器学习问题到底怎么分类 好家伙, 这次我把《动手学深度学习》第一章读完了。 先说一下,我为什么会突然翻这本书。 更直接的原因是,前面我在做一个从零学习 AI 的小项目。 写一个小项目去用,去学习ai(所谓干中学) 写到训练循环时,代码里开始出现这些东西: _, loss",
+          "link": "https://www.cnblogs.com/FatTiger4399/p/20552875",
+          "publishedOn": "2026-06-15T14:39:00.000Z",
+          "wordCount": 801,
+          "title": "《动手学深度学习》第一章笔记:机器学习问题到底怎么分类 - 养肥胖虎",
+          "imageUrl": "https://img2024.cnblogs.com/blog/2501855/202606/2501855-20260615223849850-715154882.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/lulight/p/20551683",
+          "author": null,
+          "description": "问题描述 在 Azure AI Search 里，英文检索有时会卡在一个很小的词形差异上：文档里是 brief，搜索 briefs 却搜不到。 搜索 briefs，无法命中只包含 brief 的文档。类似地，audit 和 auditing 也可能因为一个复数形式导致结果不同。 文档明明在，关键词也",
+          "link": "https://www.cnblogs.com/lulight/p/20551683",
+          "publishedOn": "2026-06-15T12:56:00.000Z",
+          "wordCount": 475,
+          "title": "【Azure AI Search】Index的字段使用默认Analyzer(standard.lucene) 和 en.microsoft 有什么不同？ - 编码者卢布",
+          "imageUrl": "https://img2024.cnblogs.com/blog/2127802/202606/2127802-20260615203240742-2007389968.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/rossiXYZ/p/20524102",
+          "author": null,
+          "description": "【Agentic RL / 强化学习框架】Miles 项目技术分析 （1） 总体 目录【Agentic RL / 强化学习框架】Miles 项目技术分析 （1） 总体0x00 概要0x01 基础1.1 Agentic RL 的需求与难点1.1.1 传统 RLHF vs Agentic RL 范式对比",
+          "link": "https://www.cnblogs.com/rossiXYZ/p/20524102",
+          "publishedOn": "2026-06-15T12:53:00.000Z",
+          "wordCount": 3672,
+          "title": "【Agentic RL / 强化学习框架】Miles 项目技术分析---（1）--- 总体 - 罗西的思考",
+          "imageUrl": "https://img2024.cnblogs.com/blog/1850883/202606/1850883-20260614212201483-1687023301.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/cup11/p/20287276",
+          "author": null,
+          "description": "大模型每次会话都是一次重启。AI 在几轮资料查阅与修复过后，就忘记了自己“原本的认知”。它无法分辨哪些是自己信手拈来的常识，哪些是经过百般尝试才纠正过来的偏见，因而失去了对“认知死角”的强调，进而产出一份又一份低质量的“手册”式的 SKILL。我们亟需先“拓印”AI 流动的认知，提供对比参照的依据，...",
+          "link": "https://www.cnblogs.com/cup11/p/20287276",
+          "publishedOn": "2026-06-15T12:48:00.000Z",
+          "wordCount": 361,
+          "title": "SKILL 第一定律：说点 AI 不知道的 - cup11",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/qylogs/p/20551553",
+          "author": null,
+          "description": "Flask概念 flask是一个轻量级别的python web程序，主要的特点就是简单灵活，能够快速的上手构建一个web应用，同时具备扩展到复杂项目的能力 Flask 是基于 Python 开发的微型 Web 框架，被称作微框架，核心原因是本身不绑定任何专用工具与依赖库，原生不内置数据库抽象层、表单",
+          "link": "https://www.cnblogs.com/qylogs/p/20551553",
+          "publishedOn": "2026-06-15T12:28:00.000Z",
+          "wordCount": 742,
+          "title": "Flask框架01初始了解 - 乔的港口",
+          "imageUrl": "https://img2024.cnblogs.com/blog/3332322/202606/3332322-20260615201738112-1048968453.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/Qiniu-developer/p/20545190",
+          "author": null,
+          "description": "这次用 Codex 读 Typer，最重要的一点是：面对一个新项目，第一步先别急着让它写代码。比较稳妥的做法，是先让 Codex 读目录、找入口、解释核心文件，再沿着一个具体功能追下去，最后通过测试理解项目如何验证行为。",
+          "link": "https://www.cnblogs.com/Qiniu-developer/p/20545190",
+          "publishedOn": "2026-06-15T08:18:00.000Z",
+          "wordCount": 877,
+          "title": "Codex 实践系列 Vol.02：让 Codex 读懂开源项目 Typer - 小七-七牛开发者",
+          "imageUrl": "https://img2024.cnblogs.com/blog/3796273/202606/3796273-20260615161708353-226667644.png"
+        },
         {
           "id": "https://www.cnblogs.com/jinjiangongzuoshi/p/20538011",
           "author": null,
@@ -7925,6 +8425,56 @@
       "siteUrl": "http://h1.nobbd.de/",
       "articles": [
         {
+          "id": "https://hackerone.com/reports/3687142",
+          "author": null,
+          "description": "Rocket.Chat disclosed a bug submitted by aikido_security: https://hackerone.com/reports/3687142",
+          "link": "https://hackerone.com/reports/3687142",
+          "publishedOn": "2026-06-15T23:44:12.000Z",
+          "wordCount": 25,
+          "title": "Unauthenticated reading of every file via livechat auth and predicting MongoDB ObjectId()",
+          "imageUrl": "https://profile-photos.hackerone-user-content.com/variants/000/019/858/ada6c92a338715afad123af214dd6e22fd8dc6ff_original.png/f0e07660005686ec92c43da54c0094c1ac1b490ea8c5eac04a4081d912d6ce36"
+        },
+        {
+          "id": "https://hackerone.com/reports/3664261",
+          "author": null,
+          "description": "IBM disclosed a bug submitted by entrovyx: https://hackerone.com/reports/3664261",
+          "link": "https://hackerone.com/reports/3664261",
+          "publishedOn": "2026-06-15T15:42:13.000Z",
+          "wordCount": 25,
+          "title": "Reflected Cross-Site Scripting (XSS) found on IBM.com domain",
+          "imageUrl": "https://profile-photos.hackerone-user-content.com/variants/000/002/060/c9c3633edc1081446038c76237344b51696334da_original.jpg/5d27521e1b671a8e8bc4f016cace6a876120e5addf7dcc35ae4a5eac091669a9"
+        },
+        {
+          "id": "https://hackerone.com/reports/3793495",
+          "author": null,
+          "description": "curl disclosed a bug submitted by unknowperson0212: https://hackerone.com/reports/3793495",
+          "link": "https://hackerone.com/reports/3793495",
+          "publishedOn": "2026-06-15T13:48:29.000Z",
+          "wordCount": 25,
+          "title": "Incomplete Suppression of  Transfer-Encoding: chunked Header in HTTP/2 After Redirect From HTTP/1.1",
+          "imageUrl": "https://profile-photos.hackerone-user-content.com/variants/000/035/663/2faf4c279d437d64bfda6d23d62ce1833813a4d9_original.png/f0e07660005686ec92c43da54c0094c1ac1b490ea8c5eac04a4081d912d6ce36"
+        },
+        {
+          "id": "https://hackerone.com/reports/3803415",
+          "author": null,
+          "description": "curl disclosed a bug submitted by daviey: https://hackerone.com/reports/3803415",
+          "link": "https://hackerone.com/reports/3803415",
+          "publishedOn": "2026-06-15T13:48:15.000Z",
+          "wordCount": 25,
+          "title": "Secure cookies leaked to HTTP origins through HTTPS forwarding proxy",
+          "imageUrl": "https://profile-photos.hackerone-user-content.com/variants/000/035/663/2faf4c279d437d64bfda6d23d62ce1833813a4d9_original.png/f0e07660005686ec92c43da54c0094c1ac1b490ea8c5eac04a4081d912d6ce36"
+        },
+        {
+          "id": "https://hackerone.com/reports/3717354",
+          "author": null,
+          "description": "PortSwigger Web Security disclosed a bug submitted by hacker-kartel: https://hackerone.com/reports/3717354",
+          "link": "https://hackerone.com/reports/3717354",
+          "publishedOn": "2026-06-15T09:21:46.000Z",
+          "wordCount": 25,
+          "title": "UI Consent Bypass via Comma Injection in `addAutoApproveTarget`  User-Approval Dialog and Persistence Layer Disagree on Target Scope, Yielding Authen",
+          "imageUrl": "https://profile-photos.hackerone-user-content.com/variants/000/015/252/60e8778f4f1fee57ea2b164a7d2ec1e2d2dd7bc8_original./f0e07660005686ec92c43da54c0094c1ac1b490ea8c5eac04a4081d912d6ce36"
+        },
+        {
           "id": "https://hackerone.com/reports/3712279",
           "author": null,
           "description": "PortSwigger Web Security disclosed a bug submitted by kawakatz: https://hackerone.com/reports/3712279 - Bounty: $5000",
@@ -9543,6 +10093,16 @@
       "siteUrl": "https://payatu.com/",
       "articles": [
         {
+          "id": "https://payatu.com/?p=16002",
+          "author": "Shubham Thorat",
+          "description": "Introduction to GPS GNSS stands for Global Navigation Satellite System, which is a satellite-based navigation system that provides geolocation for users in real-world situations. Different groups/countries invented different navigation systems such as GPS, GLONASS, etc. GNSS generally cannot fail, but if one fails, GNSS receivers can pick up signals from other systems. We are going […]\nThe post From GNSS Fundamentals to Static GPS Spoofing appeared first on Payatu.",
+          "link": "https://payatu.com/blog/from-gnss-fundamentals-to-static-gps-spoofing/",
+          "publishedOn": "2026-06-15T08:47:04.000Z",
+          "wordCount": 19606,
+          "title": "From GNSS Fundamentals to Static GPS Spoofing",
+          "imageUrl": "https://payatu.com/wp-content/uploads/2026/06/From-GNSS-Fundamentals-to-static-GPS-Spoofing-3.jpg"
+        },
+        {
           "id": "https://payatu.com/?p=16148",
           "author": "Rehan_Ansari",
           "description": "Artificial intelligence is not just responding to prompts and generating text anymore. The age of agentic artificial intelligence has arrived. With it comes the ability to think, make decisions, plan and act independently. What Is Agentic AI? While regular AI models just respond to inputs with outputs, an agentic AI system uses APIs, databases, cloud […]\nThe post Agentic AI Security: The Hidden Attack Surface Beyond Prompt Injection appeared first on Payatu.",
@@ -9807,6 +10367,46 @@
       "siteUrl": "https://vipread.com",
       "articles": [
         {
+          "id": "https://vipread.com/library/topic/4151",
+          "author": null,
+          "description": "本文链接\n\n本报告《AI重塑网络安全：网络安全智能化产品与市场报告》由数说安全研究院于2026年4月发布，聚焦\"AI for Security\"领域，系统研究人工智能技术如何赋能网络安全防御、检测、响应与治理。报告明确区分\"用AI保护系统\"与\"保护AI系统自身\"的边界，围绕五大核心问题展开：AI如何重塑安全运营工作流、从Copilot到Agent的技术演进路径、产学研最新进展与差距、不同场景下AI能力边界、代表性厂商技术路线差异。\n报告基于66家国内厂商问卷、11场深度访谈及国际公开资料，提炼13项关键发现：全球市场规模年均增速19-24%、头部厂商加速分化、数据质量成最大阻碍、工程化壁垒崛起等。市场按威胁检测、安全运营、数据安全等10大场景簇切分，并按Chatbot/Copilot、Agent智能体、内嵌增强三类交付形态梳理能力演进。\n报告提供10大维度选型评估框架、30道RFI关键问题清单，并深度画像44家国内外代表厂商，为CISO、SecOps团队、产品负责人及投研机构提供可落地的战略参考与实践路径。",
+          "link": "https://vipread.com/library/topic/4151",
+          "publishedOn": "2026-05-06T08:50:32.000Z",
+          "wordCount": 893,
+          "title": "SSAQ AI for security 20260422",
+          "imageUrl": "https://archive1.vipread.com/covers/2026/05/topic/19688_1778057398_90970af9.jpg"
+        },
+        {
+          "id": "https://vipread.com/library/topic/4150",
+          "author": null,
+          "description": "本文链接\n\n本文档由澳大利亚、美国、加拿大、新西兰及英国等多国国家级网络安全机构联合发布，旨在为政府、关键基础设施及行业企业提供智能体AI（Agentic AI）安全采用的权威指南。智能体AI基于大语言模型，具备自主推理、规划与执行能力，但其高度的自主性与复杂的系统架构显著扩大了攻击面，引入了权限滥用、目标错位、行为不可预测、结构耦合及问责困难等新型安全风险。\n指南系统梳理了智能体AI在设计、开发、部署与运营全生命周期中的安全挑战，并提出分层防御最佳实践。核心建议包括：严格遵循最小权限与零信任原则，强化细粒度身份管理；实施纵深防御与环境隔离；完善输入验证、第三方组件审查与持续监控机制；在高风险流程中强制保留“人在回路”监督；并通过威胁建模、红队演练与动态评估提升系统韧性。文档强调，组织应将AI安全深度融入现有网络安全框架，仅将其用于低风险任务，采取渐进式部署策略，优先保障系统的可观测性、可逆性与风险可控性，在安全可控的前提下推进技术落地。",
+          "link": "https://vipread.com/library/topic/4150",
+          "publishedOn": "2026-05-06T07:12:49.000Z",
+          "wordCount": 899,
+          "title": "Careful adoption of agentic AI services",
+          "imageUrl": "https://archive1.vipread.com/covers/2026/05/topic/19688_1778051421_4fc2674a.jpg"
+        },
+        {
+          "id": "https://vipread.com/library/topic/4149",
+          "author": null,
+          "description": "本文链接\n\n《码力·智能开发与安全一体化平台》由长亭科技推出，以\"AI+安全\"双引擎破解企业AI编码困局：IDE智能辅助实现代码生成-审计-修复闭环，AI员工全自动完成需求到提交；内置SAST/SCA/AI审计三层防护，误报率<5%，支持DeepSeek等主流模型私有化部署。独创第四代自主规划Agent架构，1400倍上下文压缩、环境驱动执行与动态任务分解，让80万行代码审计从\"被动扫描\"升级为\"主动探索\"；配套安全/质量/合规/业务逻辑四维模板与Skill热插拔体系，已服务蔚来、贝壳等企业，AI代码占比超30%，实现\"代码生而安全\"的新型开发范式。",
+          "link": "https://vipread.com/library/topic/4149",
+          "publishedOn": "2026-03-20T09:39:16.000Z",
+          "wordCount": 862,
+          "title": "码力·智能开发与安全一体化平台",
+          "imageUrl": "https://archive1.vipread.com/covers/2026/03/topic/19688_1773999266_0fd5713b.jpg"
+        },
+        {
+          "id": "https://vipread.com/library/topic/4148",
+          "author": null,
+          "description": "本文链接\n\n《SOAR落地实践》介绍平安科技5年来将“安全编排、自动化与响应”平台化的经验：以“自动炒菜机”理念把钓鱼研判、IP封堵、离职终端策略加固、资产富化与电话告警5大高频场景压缩至分钟级闭环，实现无人值守T+5分钟处置。分享给出SOAR选型关键——APP生态、剧本丰富度、总拥有成本与同行业案例，并剖析剧本设计、白名单校验、审批节点与重拨机制等落地细节，为准备建设或优化SOAR的团队提供可直接复用的参考模板。",
+          "link": "https://vipread.com/library/topic/4148",
+          "publishedOn": "2026-01-18T13:55:23.000Z",
+          "wordCount": 866,
+          "title": "SOAR落地实践分享",
+          "imageUrl": "https://archive1.vipread.com/covers/2026/01/topic/19688_1768744473_8a67e41a.jpg"
+        },
+        {
           "id": "https://vipread.com/library/topic/4128",
           "author": null,
           "description": "本文链接\n\n《构筑智能化攻防格局》提出“三位一体”安全实验室战略：以渗透测试、威胁情报、安全研究为支柱，通过领域专家制、流程固化与知识标准化，打造可复制的安全底座；引入AI智能体，实现威胁情报秒级研判、漏洞自动收集-分析-复现、渗透测试Multi-Agent报告生成，已把Tomcat CVE-2025-53506从披露到POC验证压缩至小时级。报告给出AI工具化→平台化→自主化三阶段路线图，目标让攻防策略随威胁动态自进化，为企业构建持续演化的智能安全中枢。",
@@ -9989,18 +10589,7 @@
       "title": "m0d9's blog",
       "feedUrl": "https://m0d9.me/atom.xml",
       "siteUrl": "http://m0d9.me/atom.xml",
-      "articles": [
-        {
-          "id": "http://m0d9.me/2025/06/16/Vanna-CVE-2025-47277-%E7%9C%8BCodeQL-Python-%E5%AE%9E%E7%8E%B0%EF%BC%88%E4%B8%80%EF%BC%89/",
-          "author": null,
-          "description": "<h2 id=\"1-漏洞原理\"><a href=\"#1-漏洞原理\" class=\"headerlink\" title=\"1. 漏洞原理\"></a>1. 漏洞原理</h2><p>漏洞并不复杂，整个链也不长</p>\n<p>source：<br><a href=\"https://github.com/vanna-ai/vanna/blob/a72b842d420cf1fa061e5f97d45ea08051651ebb/src/vanna/flask/__init__.py#L441\">https://github.com/vanna-ai/vanna/blob/a72b842d420cf1fa061e5f97d45ea08051651ebb/src/vanna/flask/__init__.py#L441</a> </p>\n<p><img src=\"/images/pasted-925.png\" alt=\"upload successful\"></p>\n<p>sink：<br><a href=\"https://github.com/vanna-ai/vanna/blob/4da8dea0ce14a0d1db5a0692a7921d873be91c5f/src/vanna/base/base.py#L2088\">https://github.com/vanna-ai/vanna/blob/4da8dea0ce14a0d1db5a0692a7921d873be91c5f/src/vanna/base/base.py#L2088</a> </p>",
-          "link": "http://m0d9.me/2025/06/16/Vanna-CVE-2025-47277-%E7%9C%8BCodeQL-Python-%E5%AE%9E%E7%8E%B0%EF%BC%88%E4%B8%80%EF%BC%89/",
-          "publishedOn": "2025-06-16T10:53:00.000Z",
-          "wordCount": 4102,
-          "title": "Vanna CVE-2025-47277 看CodeQL Python 方法映射",
-          "imageUrl": "http://m0d9.me/images/pasted-925.png"
-        }
-      ]
+      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
