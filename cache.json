@@ -6,6 +6,36 @@
       "siteUrl": "http://h1.nobbd.de/",
       "articles": [
         {
+          "id": "https://hackerone.com/reports/3804525",
+          "author": null,
+          "description": "curl disclosed a bug submitted by newstuff321: https://hackerone.com/reports/3804525",
+          "link": "https://hackerone.com/reports/3804525",
+          "publishedOn": "2026-06-16T11:25:56.000Z",
+          "wordCount": 25,
+          "title": "Vulnerability Report: Buffer Overflow in Path Sanitization",
+          "imageUrl": "https://profile-photos.hackerone-user-content.com/variants/000/035/663/2faf4c279d437d64bfda6d23d62ce1833813a4d9_original.png/f0e07660005686ec92c43da54c0094c1ac1b490ea8c5eac04a4081d912d6ce36"
+        },
+        {
+          "id": "https://hackerone.com/reports/3611837",
+          "author": null,
+          "description": "Rocket.Chat disclosed a bug submitted by eldudareeno: https://hackerone.com/reports/3611837",
+          "link": "https://hackerone.com/reports/3611837",
+          "publishedOn": "2026-06-16T09:47:25.000Z",
+          "wordCount": 25,
+          "title": "Unauthenticated file deletion via deleteFileMessage DDP method allows permanent destruction of any uploaded file",
+          "imageUrl": "https://profile-photos.hackerone-user-content.com/variants/000/019/858/ada6c92a338715afad123af214dd6e22fd8dc6ff_original.png/f0e07660005686ec92c43da54c0094c1ac1b490ea8c5eac04a4081d912d6ce36"
+        },
+        {
+          "id": "https://hackerone.com/reports/3701692",
+          "author": null,
+          "description": "Tor disclosed a bug submitted by aptupdate: https://hackerone.com/reports/3701692 - Bounty: $100",
+          "link": "https://hackerone.com/reports/3701692",
+          "publishedOn": "2026-06-16T07:16:47.000Z",
+          "wordCount": 25,
+          "title": "Malicious Conflux Endpoint Can Leave Stale Global OOO Queue Accounting After Teardown",
+          "imageUrl": "https://profile-photos.hackerone-user-content.com/variants/000/001/800/6e575d0a9127b91e83833cf4a9e6be6e8b30cbc3_original.jpg/5d27521e1b671a8e8bc4f016cace6a876120e5addf7dcc35ae4a5eac091669a9"
+        },
+        {
           "id": "https://hackerone.com/reports/3687142",
           "author": null,
           "description": "Rocket.Chat disclosed a bug submitted by aikido_security: https://hackerone.com/reports/3687142",
@@ -1383,6 +1413,106 @@
       "siteUrl": "https://infosecwriteups.com?source=rss----7b722bfd1b8d---4",
       "articles": [
         {
+          "id": "https://medium.com/p/675f149b7c1c",
+          "author": "Suraj Apar",
+          "description": "",
+          "link": "https://infosecwriteups.com/host-network-penetration-testing-network-based-attacks-ctf-1-ejpt-ine-675f149b7c1c?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2026-06-16T06:53:44.000Z",
+          "wordCount": null,
+          "title": "Host & Network Penetration Testing: Network-Based Attacks CTF 1 — eJPT (INE)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/057c9b4b9394",
+          "author": "Andrey Pautov",
+          "description": "",
+          "link": "https://infosecwriteups.com/the-intelligent-shield-057c9b4b9394?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2026-06-16T06:53:22.000Z",
+          "wordCount": null,
+          "title": "The Intelligent Shield. OpenCTI",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/ff5208fa13eb",
+          "author": "PriOFF",
+          "description": "",
+          "link": "https://infosecwriteups.com/the-art-of-taking-notes-ff5208fa13eb?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2026-06-16T06:53:03.000Z",
+          "wordCount": null,
+          "title": "The Art of Taking Notes",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/9cc1d14b8c96",
+          "author": "MD Mehedi Hasan",
+          "description": "",
+          "link": "https://infosecwriteups.com/mastery-hunt-hidden-api-endpoints-a-deep-dive-into-api-bug-bounty-recon-exploitation-9cc1d14b8c96?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2026-06-16T06:52:31.000Z",
+          "wordCount": null,
+          "title": "Mastery Hunt: Hidden API Endpoints — A Deep Dive into API Bug Bounty Recon & Exploitation",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/ff403f100504",
+          "author": "Loay Salah",
+          "description": "",
+          "link": "https://infosecwriteups.com/cat-reloaded-ctf-catf-2025-dfir-challenges-ff403f100504?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2026-06-16T06:52:23.000Z",
+          "wordCount": null,
+          "title": "CAT Reloaded CTF — CATF 2025  — DFIR Challenges",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/d1943c9a6eb4",
+          "author": "Loay Salah",
+          "description": "",
+          "link": "https://infosecwriteups.com/ieee-victoris-4-0-ctf-2025-finals-dfir-challenges-d1943c9a6eb4?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2026-06-16T06:52:10.000Z",
+          "wordCount": null,
+          "title": "IEEE Victoris 4.0 — CTF 2025 — Finals DFIR Challenges",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/0aa36b6b4121",
+          "author": "Loay Salah",
+          "description": "",
+          "link": "https://infosecwriteups.com/the-crime-blue-team-lab-cyberdefenders-0aa36b6b4121?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2026-06-16T06:52:03.000Z",
+          "wordCount": null,
+          "title": "The Crime Blue Team Lab (CyberDefenders)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/2b606811c7ba",
+          "author": "Aman Sharma",
+          "description": "You found a password reset that leaks the magic token in the API response. Or worse — the devs left an endpoint that just gives you…\nContinue reading on InfoSec Write-ups »",
+          "link": "https://infosecwriteups.com/bug-bounty-bootcamp-45-token-2b606811c7ba?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2026-06-16T06:50:03.000Z",
+          "wordCount": null,
+          "title": "Bug Bounty Bootcamp #45: Token?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/49a418a8e956",
+          "author": "Shikhali Jamalzade",
+          "description": "",
+          "link": "https://infosecwriteups.com/tryhackme-checkmate-full-walkthrough-49a418a8e956?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2026-06-16T06:49:16.000Z",
+          "wordCount": null,
+          "title": "TryHackMe — Checkmate | Full Walkthrough",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/6de0702d0e01",
+          "author": "Shikhali Jamalzade",
+          "description": "",
+          "link": "https://infosecwriteups.com/tryhackme-break-out-the-cage-full-write-up-6de0702d0e01?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2026-06-16T06:49:10.000Z",
+          "wordCount": null,
+          "title": "TryHackMe — Break Out The Cage | Full Write-Up",
+          "imageUrl": null
+        },
+        {
           "id": "https://medium.com/p/a82c804ce8e2",
           "author": "Shikhali Jamalzade",
           "description": "",
@@ -2019,6 +2149,106 @@
       "feedUrl": "https://medium.com/feed/tag/bugbounty",
       "siteUrl": "https://medium.com/tag/bugbounty/latest?source=rss------bugbounty-5",
       "articles": [
+        {
+          "id": "https://medium.com/p/c7d5b25ee9cc",
+          "author": "Decline",
+          "description": "Stop trying to wake up early. Start hunting when you actually think.\nContinue reading on Medium »",
+          "link": "https://medium.com/@bughunting/the-5-am-club-is-a-lie-heres-what-actually-works-for-bug-hunters-c7d5b25ee9cc?source=rss------bugbounty-5",
+          "publishedOn": "2026-06-17T02:18:24.000Z",
+          "wordCount": null,
+          "title": "The 5 AM Club Is a Lie. Here’s What Actually Works for Bug Hunters.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/eb2ed0b6e391",
+          "author": "Vineet Singh",
+          "description": "Hello fellow bug bounty hunters, hope you guys are doing well and finding lots of bugs.\nContinue reading on Medium »",
+          "link": "https://vineet08.medium.com/how-a-resend-invitation-feature-led-to-unauthorized-account-creation-eb2ed0b6e391?source=rss------bugbounty-5",
+          "publishedOn": "2026-06-17T00:07:41.000Z",
+          "wordCount": null,
+          "title": "How a Resend Invitation Feature Led to Unauthorized Account Creation",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/4c6dcb0da584",
+          "author": "JPablo13",
+          "description": "Descubre cómo explotar y mitigar vulnerabilidades de autenticación críticas en Bug Bounty con ejemplos técnicos y análisis de PoC.\nContinue reading on Medium »",
+          "link": "https://medium.com/@jpablo13/gu%C3%ADa-compelta-de-vulnerabilidades-de-autenticaci%C3%B3n-4c6dcb0da584?source=rss------bugbounty-5",
+          "publishedOn": "2026-06-17T00:01:01.000Z",
+          "wordCount": null,
+          "title": "Guía Compelta de Vulnerabilidades de Autenticación",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/9f6857bd7880",
+          "author": "0xDyad",
+          "description": "السلام عليكم ورحمة الله وبركاته\nContinue reading on Medium »",
+          "link": "https://medium.com/@redteam503/from-medium-to-critical-chaining-cve-2025-20362-cve-2025-20333-in-cisco-asa-ftd-across-20-9f6857bd7880?source=rss------bugbounty-5",
+          "publishedOn": "2026-06-16T20:53:21.000Z",
+          "wordCount": null,
+          "title": "From Medium to Critical: Chaining CVE-2025–20362 & CVE-2025–20333 in Cisco ASA/FTD Across 20+…",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/e5bb6f53f246",
+          "author": "Kyrillos nady",
+          "description": "Introduction\nContinue reading on Medium »",
+          "link": "https://medium.com/@0xk3r0/how-to-mirror-your-iphone-screen-on-kali-linux-using-uxplay-e5bb6f53f246?source=rss------bugbounty-5",
+          "publishedOn": "2026-06-16T19:33:30.000Z",
+          "wordCount": null,
+          "title": "How to Mirror Your iPhone Screen on Kali Linux Using UxPlay",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/68911992393b",
+          "author": "SilentExploit",
+          "description": "Box: Fish\nCommunity Rating: Hard\nContinue reading on Medium »",
+          "link": "https://medium.com/@SilentExploit/fish-proving-grounds-oscp-preparation-68911992393b?source=rss------bugbounty-5",
+          "publishedOn": "2026-06-16T18:38:35.000Z",
+          "wordCount": null,
+          "title": "Fish | Proving Grounds | OSCP Preparation",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/e06dc0c3bed0",
+          "author": "BENSEC",
+          "description": "💻 Wait… You Can Actually Get Paid to Hack?\nContinue reading on Medium »",
+          "link": "https://medium.com/@bensec/top-platforms-to-earn-money-from-bug-hunting-in-2026-e06dc0c3bed0?source=rss------bugbounty-5",
+          "publishedOn": "2026-06-16T18:31:00.000Z",
+          "wordCount": null,
+          "title": "Top Platforms to Earn Money From Bug Hunting in 2026",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/5038f6e23a62",
+          "author": "Excessium",
+          "description": "While testing on a target platform, I hit that classic wall where everything seems like i’ve tested before.\nContinue reading on Medium »",
+          "link": "https://medium.com/@habibhassan293/how-parameter-tampering-exposed-4-700-agents-and-tons-of-pii-5038f6e23a62?source=rss------bugbounty-5",
+          "publishedOn": "2026-06-16T16:56:08.000Z",
+          "wordCount": null,
+          "title": "How Parameter Tampering Exposed 4,700 Agents and Tons of PII",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/f82b1b0e19ea",
+          "author": "Excessium",
+          "description": "So I’d already found a hidden vulnerability on [REDACTED] before (wrote about it here: Hidden Page with 2FA Bypass). After that success,I…\nContinue reading on Medium »",
+          "link": "https://medium.com/@habibhassan293/improper-access-control-leading-to-account-deletion-without-2fa-f82b1b0e19ea?source=rss------bugbounty-5",
+          "publishedOn": "2026-06-16T16:17:52.000Z",
+          "wordCount": null,
+          "title": "Improper Access Control Leading to Account Deletion Without 2FA",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/367b20798d41",
+          "author": "httpzuz",
+          "description": "Hey Guys and Welcome Back! 👋\nContinue reading on Medium »",
+          "link": "https://medium.com/@mahmodziad40/reading-the-javascript-gave-me-a-cross-tenant-write-ssrf-367b20798d41?source=rss------bugbounty-5",
+          "publishedOn": "2026-06-16T15:54:37.000Z",
+          "wordCount": null,
+          "title": "READING The JavaScript Gave Me a Cross-Tenant Write + SSRF",
+          "imageUrl": null
+        },
         {
           "id": "https://medium.com/p/6dc35c88db2a",
           "author": "Masood Nfc",
@@ -3277,6 +3507,66 @@
       "siteUrl": "https://medium.com/tag/redteam/latest?source=rss------redteam-5",
       "articles": [
         {
+          "id": "https://medium.com/p/81c4610e8c7c",
+          "author": "th3V0!D",
+          "description": "This second server is a server that everyone on the internal network has access to. In our discussion with our client, we pointed out that…\nContinue reading on Medium »",
+          "link": "https://medium.com/@theV01D/footprinting-lab-medium-walkthrough-81c4610e8c7c?source=rss------redteam-5",
+          "publishedOn": "2026-06-16T21:50:53.000Z",
+          "wordCount": null,
+          "title": "Footprinting Lab — Medium (Walkthrough)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/279616ecf498",
+          "author": "Osec",
+          "description": "Continue reading on Medium »",
+          "link": "https://medium.com/@osec403/active-directory-attacks-pre2k-attack-279616ecf498?source=rss------redteam-5",
+          "publishedOn": "2026-06-16T21:10:33.000Z",
+          "wordCount": null,
+          "title": "Active Directory Attacks — PRE2K Attack",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/783fd04b2bc3",
+          "author": "0xjamesli",
+          "description": "The dangerous ADCS vulnerability that turns misconfigured certificate templates into a Domain Admin takeover path.\nContinue reading on Medium »",
+          "link": "https://0xjamesli.medium.com/esc1-weaponizing-misconfigured-certificate-templates-for-domain-admin-privilege-escalation-783fd04b2bc3?source=rss------redteam-5",
+          "publishedOn": "2026-06-16T18:48:21.000Z",
+          "wordCount": null,
+          "title": "ESC1 — Weaponizing Misconfigured Certificate Templates for Domain Admin Privilege Escalation",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/78571fe1f856",
+          "author": "Abhilash H",
+          "description": "As someone interested in cybersecurity and red teaming, I’ve spent a lot of time learning about web security, networking, and CTF…\nContinue reading on Medium »",
+          "link": "https://medium.com/@abhiharidas3/my-first-steps-into-hardware-security-exploring-usb-hid-attacks-with-an-attiny85-digispark-78571fe1f856?source=rss------redteam-5",
+          "publishedOn": "2026-06-16T14:57:40.000Z",
+          "wordCount": null,
+          "title": "My First Steps into Hardware Security: Exploring USB HID Attacks with an ATtiny85 Digispark",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/7e5f4bc9e33a",
+          "author": "Walter \"walula\" Scitta",
+          "description": "Malleable Redirector is a project created to aid Red Teams in generating meaningful redirectors configs from a Malleable C2 profile.\nContinue reading on InTheCyber Posts »",
+          "link": "https://posts.inthecyber.com/malleable-redirector-a-malleable-c2-companion-7e5f4bc9e33a?source=rss------redteam-5",
+          "publishedOn": "2026-06-16T13:16:50.000Z",
+          "wordCount": null,
+          "title": "Malleable Redirector — A Malleable C2 Companion",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/74ac8cace110",
+          "author": "FKO",
+          "description": "Code signing is one of the most trusted trust signals in the Windows ecosystem. When a binary carries a valid Authenticode signature…\nContinue reading on Medium »",
+          "link": "https://techtxt.medium.com/chameleoncert-tool-for-spoofed-code-signing-certificates-in-red-team-operations-74ac8cace110?source=rss------redteam-5",
+          "publishedOn": "2026-06-16T10:22:36.000Z",
+          "wordCount": null,
+          "title": "ChameleonCert: Tool for Spoofed Code Signing Certificates in Red Team Operations",
+          "imageUrl": null
+        },
+        {
           "id": "https://medium.com/p/52905a82f00a",
           "author": "th3V0!D",
           "description": "We were commissioned by the company Inlanefreight Ltd to test three different servers in their internal network. The company uses many…\nContinue reading on Medium »",
@@ -4023,6 +4313,106 @@
       "feedUrl": "https://medium.com/feed/bugbountywriteup",
       "siteUrl": "https://infosecwriteups.com?source=rss----7b722bfd1b8d---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/675f149b7c1c",
+          "author": "Suraj Apar",
+          "description": "",
+          "link": "https://infosecwriteups.com/host-network-penetration-testing-network-based-attacks-ctf-1-ejpt-ine-675f149b7c1c?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2026-06-16T06:53:44.000Z",
+          "wordCount": null,
+          "title": "Host & Network Penetration Testing: Network-Based Attacks CTF 1 — eJPT (INE)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/057c9b4b9394",
+          "author": "Andrey Pautov",
+          "description": "",
+          "link": "https://infosecwriteups.com/the-intelligent-shield-057c9b4b9394?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2026-06-16T06:53:22.000Z",
+          "wordCount": null,
+          "title": "The Intelligent Shield. OpenCTI",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/ff5208fa13eb",
+          "author": "PriOFF",
+          "description": "",
+          "link": "https://infosecwriteups.com/the-art-of-taking-notes-ff5208fa13eb?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2026-06-16T06:53:03.000Z",
+          "wordCount": null,
+          "title": "The Art of Taking Notes",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/9cc1d14b8c96",
+          "author": "MD Mehedi Hasan",
+          "description": "",
+          "link": "https://infosecwriteups.com/mastery-hunt-hidden-api-endpoints-a-deep-dive-into-api-bug-bounty-recon-exploitation-9cc1d14b8c96?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2026-06-16T06:52:31.000Z",
+          "wordCount": null,
+          "title": "Mastery Hunt: Hidden API Endpoints — A Deep Dive into API Bug Bounty Recon & Exploitation",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/ff403f100504",
+          "author": "Loay Salah",
+          "description": "",
+          "link": "https://infosecwriteups.com/cat-reloaded-ctf-catf-2025-dfir-challenges-ff403f100504?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2026-06-16T06:52:23.000Z",
+          "wordCount": null,
+          "title": "CAT Reloaded CTF — CATF 2025  — DFIR Challenges",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/d1943c9a6eb4",
+          "author": "Loay Salah",
+          "description": "",
+          "link": "https://infosecwriteups.com/ieee-victoris-4-0-ctf-2025-finals-dfir-challenges-d1943c9a6eb4?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2026-06-16T06:52:10.000Z",
+          "wordCount": null,
+          "title": "IEEE Victoris 4.0 — CTF 2025 — Finals DFIR Challenges",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/0aa36b6b4121",
+          "author": "Loay Salah",
+          "description": "",
+          "link": "https://infosecwriteups.com/the-crime-blue-team-lab-cyberdefenders-0aa36b6b4121?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2026-06-16T06:52:03.000Z",
+          "wordCount": null,
+          "title": "The Crime Blue Team Lab (CyberDefenders)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/2b606811c7ba",
+          "author": "Aman Sharma",
+          "description": "You found a password reset that leaks the magic token in the API response. Or worse — the devs left an endpoint that just gives you…\nContinue reading on InfoSec Write-ups »",
+          "link": "https://infosecwriteups.com/bug-bounty-bootcamp-45-token-2b606811c7ba?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2026-06-16T06:50:03.000Z",
+          "wordCount": null,
+          "title": "Bug Bounty Bootcamp #45: Token?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/49a418a8e956",
+          "author": "Shikhali Jamalzade",
+          "description": "",
+          "link": "https://infosecwriteups.com/tryhackme-checkmate-full-walkthrough-49a418a8e956?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2026-06-16T06:49:16.000Z",
+          "wordCount": null,
+          "title": "TryHackMe — Checkmate | Full Walkthrough",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/6de0702d0e01",
+          "author": "Shikhali Jamalzade",
+          "description": "",
+          "link": "https://infosecwriteups.com/tryhackme-break-out-the-cage-full-write-up-6de0702d0e01?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2026-06-16T06:49:10.000Z",
+          "wordCount": null,
+          "title": "TryHackMe — Break Out The Cage | Full Write-Up",
+          "imageUrl": null
+        },
         {
           "id": "https://medium.com/p/a82c804ce8e2",
           "author": "Shikhali Jamalzade",
@@ -5206,6 +5596,16 @@
       "siteUrl": "https://blog.sucuri.net/",
       "articles": [
         {
+          "id": "https://blog.sucuri.net/?p=36108",
+          "author": "Puja Srivastava",
+          "description": "During a recent incident response engagement, our team uncovered a multi-stage WordPress infection that goes beyond the usual file-based malware. The attacker combined a fake plugin, a remote command-and-control server, and two PHP web shells stored directly inside the WordPress database.\nThe campaign is operated by a Turkish-speaking threat actor and is built around a classic SEO monetization scheme: hidden backlink injection for a Private Blog Network (PBN), most likely tied to the gambling and adult affiliate niche.\nContinue reading WordPress PBN Plugin Drops Dual Webshells via Database Injection at Sucuri Blog.",
+          "link": "https://blog.sucuri.net/2026/06/wordpress-pbn-plugin-drops-dual-webshells-via-database-injection.html",
+          "publishedOn": "2026-06-16T17:58:44.000Z",
+          "wordCount": 2227,
+          "title": "WordPress PBN Plugin Drops Dual Webshells via Database Injection",
+          "imageUrl": "https://blog.sucuri.net/wp-content/uploads/2026/06/WordPress-PBN-Plugin-Drops-Dual-Webshells-via-Database-Injection.png"
+        },
+        {
           "id": "https://blog.sucuri.net/?p=36091",
           "author": "Sucuri Malware Research Team",
           "description": "If you run a website, you know that a single unpatched vulnerability can take your site offline, damage your reputation, or leave you cleaning up after an attack. Most compromises we see start with automated attacks targeting known software flaws, often the same ones that have already been reported and disclosed.\nTo help you stay ahead of these threats, we’ve put together this month’s roundup of critical security updates and vulnerability patches affecting the WordPress ecosystem.\nContinue reading Vulnerability & Patch Roundup — May 2026 at Sucuri Blog.",
@@ -5608,6 +6008,206 @@
       "feedUrl": "https://feed.cnblogs.com/blog/sitehome/rss",
       "siteUrl": null,
       "articles": [
+        {
+          "id": "https://www.cnblogs.com/zengzuo613/p/20595884",
+          "author": null,
+          "description": "统计时间：2026 年 6 月 3 日下午 15 点至 19 点。 一、先说结论 推测： （1）在五小时计费周期内，最大可消耗 18 美元的额度和 4000 万 Token（使用 Sonnet 模型）。 （2）每周有 10 个五小时计费周期，最大可消耗 180 美元的额度和 4 亿 Token（使用",
+          "link": "https://www.cnblogs.com/zengzuo613/p/20595884",
+          "publishedOn": "2026-06-17T04:54:00.000Z",
+          "wordCount": 520,
+          "title": "每月 20 美元的 Claude Pro 会员到底能消耗多少 Token 及额度 - 曾左",
+          "imageUrl": "https://img2024.cnblogs.com/blog/2292062/202606/2292062-20260617125017485-1761743284.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/newbe36524/p/20594706",
+          "author": null,
+          "description": "Electron 如何调用 Windows 原生 API 在 Electron 应用里调用 Windows 原生 API，就像想看海却只能看地图。不过折腾了一阵，总算摸索出几条路，写下这篇文章算是留个纪念，也给后来者指个方向。 背景 做 Electron 桌面应用的时候，难免要和操作系统打打交道。在",
+          "link": "https://www.cnblogs.com/newbe36524/p/20594706",
+          "publishedOn": "2026-06-17T03:36:00.000Z",
+          "wordCount": 1045,
+          "title": "Electron 如何调用 Windows 原生 API - Newbe36524",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/renshengdezheli/p/20594332",
+          "author": null,
+          "description": "OpenStack 1.7.2 &amp; Ceph 9.2.1 运维命令，加载认证文件，实例管理，服务状态检查，计算服务 (Nova)，网络服务 (Neutron)，存储服务 (Cinder)，集群整体资源概况，计算节点维护，RabbitMQ 连通性测试，Keystone 项目管理，RAID 检查，软件 ...",
+          "link": "https://www.cnblogs.com/renshengdezheli/p/20594332",
+          "publishedOn": "2026-06-17T03:25:00.000Z",
+          "wordCount": 1806,
+          "title": "OpenStack 1.7.2 & Ceph 9.2.1 运维命令 - 人生的哲理",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/itheo/p/20591167",
+          "author": null,
+          "description": "更换 Kingbase V9 License 踩坑记 本地测试环境使用KDTS迁移数据时候遇到连接用户过多错误，原因是初始化Kingbase实例时候指定的开发版license限制最大连接数10。 我用官网的更换 license 文件 - License管理 | KingbaseES方法更换失败： [",
+          "link": "https://www.cnblogs.com/itheo/p/20591167",
+          "publishedOn": "2026-06-17T02:31:00.000Z",
+          "wordCount": 507,
+          "title": "更换 Kingbase V9 License 踩坑记 - Theo·Chan",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/ai-old-six/p/20591062",
+          "author": null,
+          "description": "拆解 AI 产品输出从文本到工作台的协议分层：Markdown 写文档，HTML 承载页面，UI DSL 接住操作。 原文链接：AI 小老六 导语 最近不少 AI 产品开始把回答做得越来越&quot;像页面&quot;：有卡片、有筛选器、有图表，也有可点击操作。于是一个问题被反复拿出来讨论：​HTML 会不会替代 Ma",
+          "link": "https://www.cnblogs.com/ai-old-six/p/20591062",
+          "publishedOn": "2026-06-17T02:29:00.000Z",
+          "wordCount": 685,
+          "title": "UI Output Protocol 架构拆解：Markdown、HTML 和 UI DSL 如何分工 - AI小老六",
+          "imageUrl": "https://img2024.cnblogs.com/blog/3798513/202606/3798513-20260617102500785-659529962.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/Sharemaker/p/20588393",
+          "author": null,
+          "description": "本文对比分析了嵌入式开发中静态库与动态库的核心差异，从内存/磁盘占用、编译更新灵活性、模块化加载及部署维护四个维度展开。静态库编译时完整嵌入可执行文件，导致资源冗余但部署简单；动态库通过共享机制节省内存，支持独立更新和按需加载，更适合资源受限且需频繁迭代的场景。文章结合TWS耳机等典型案例，提出混合...",
+          "link": "https://www.cnblogs.com/Sharemaker/p/20588393",
+          "publishedOn": "2026-06-17T02:16:00.000Z",
+          "wordCount": 1075,
+          "title": "同样是库文件，嵌入式静态库和动态库差异到底在哪？ - Sharemaker",
+          "imageUrl": "https://img2023.cnblogs.com/blog/2999540/202308/2999540-20230809111938545-219532455.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/tnsoftware/p/20590493",
+          "author": null,
+          "description": "什么是 C++ 智能指针 C++11 标准模板库（STL）引入了现代 C++ 中管理动态内存的核心工具——智能指针。它们位于&lt;memory&gt;头文件中。 智能指针旨在解决 C++ 裸指针带来的手动内存管理问题（如内存泄漏、悬垂指针、异常安全等）。智能指针的行为类似于普通指针，但能够自动释放所拥有的",
+          "link": "https://www.cnblogs.com/tnsoftware/p/20590493",
+          "publishedOn": "2026-06-17T02:16:00.000Z",
+          "wordCount": 393,
+          "title": "一分钟学会 C++ 标准模板库智能指针 - 天恩软件",
+          "imageUrl": "https://img2024.cnblogs.com/blog/3789098/202606/3789098-20260617101609056-1401741369.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/zhuoshengjie/p/20587547",
+          "author": null,
+          "description": "你写的模板，浏览器不认识 用 Vue 写代码的时候，你一定写过这样的模板： &lt;template&gt; &lt;div id=&quot;app&quot;&gt; &lt;p&gt;{{ message }}&lt;/p&gt; &lt;button @click=&quot;handleClick&quot;&gt;点击&lt;/button&gt; &lt;/div&gt; &lt;/template&gt; 看起来很直",
+          "link": "https://www.cnblogs.com/zhuoshengjie/p/20587547",
+          "publishedOn": "2026-06-17T01:38:00.000Z",
+          "wordCount": 573,
+          "title": "Vue 模板编译：HTML 是怎么变成 JS 的？ - 微山湖上静悄悄",
+          "imageUrl": "https://img2024.cnblogs.com/blog/1952796/202606/1952796-20260617093812479-1042345201.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/wucy/p/20469788/csharp-console-op",
+          "author": null,
+          "description": "前言 上一篇文章《C#实现控制台多区域输出》中，我们介绍了如何利用 Console 实现类似 Agent CLI 的多区域动态界面。 如果说多区域布局解决的是： 界面如何展示的问题 那么本文要讨论的则是另外一个问题： 用户如何与界面交互 相信体验过Claude Code、OpenCode、Herme",
+          "link": "https://www.cnblogs.com/wucy/p/20469788/csharp-console-op",
+          "publishedOn": "2026-06-17T00:50:00.000Z",
+          "wordCount": 814,
+          "title": "C#实现控制台交互式操作 - yi念之间",
+          "imageUrl": "https://img2024.cnblogs.com/blog/2042116/202606/2042116-20260617084802937-1935472948.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/artech/p/20585633/ai-context-provider-01",
+          "author": null,
+          "description": "作为最核心的AIAgent，`ChatClientAgent`构建了一个管道与LLM交互。为了让管道的输出更符合我们的需求，有两个主要的途径：输入增强（Input Enhancement）和输出增强（Output Enhancement），前者通过通过改变输入让LLM返回更高质量的内容，后者则直接对...",
+          "link": "https://www.cnblogs.com/artech/p/20585633/ai-context-provider-01",
+          "publishedOn": "2026-06-17T00:40:00.000Z",
+          "wordCount": 1344,
+          "title": "[MAF预定义的AIContextProvider-01]TextSearchProvider——RAG在MAF中的实现 - Artech",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/Qiniu-developer/p/20585543",
+          "author": null,
+          "description": "世界杯进球被吹？背后是VAR+AI的精密协作：摄像机追踪29个身体点、球内传感器锁定传球瞬间、AI自动生成越位线与3D动画，再经VAR复核、主裁终裁。AI负责“测得准”，裁判负责“判得明”——技术让判罚更透明，却未消除规则语境下的争议。",
+          "link": "https://www.cnblogs.com/Qiniu-developer/p/20585543",
+          "publishedOn": "2026-06-17T00:21:00.000Z",
+          "wordCount": 413,
+          "title": "世界杯一粒进球被吹掉，背后可能有多少 AI？ - 小七-七牛开发者",
+          "imageUrl": "https://img2024.cnblogs.com/blog/3796273/202606/3796273-20260617082029273-876626133.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/hawk2026/p/20466209",
+          "author": null,
+          "description": "Agent和具身智能，一个扎根在虚拟世界里替你跑任务，一个走进物理世界替你动手操作。这篇文章，我们来聊聊这两条AI执行能力进化的核心路径。",
+          "link": "https://www.cnblogs.com/hawk2026/p/20466209",
+          "publishedOn": "2026-06-17T00:00:00.000Z",
+          "wordCount": 335,
+          "title": "短短三天，英伟达和微软同时宣告：真正的AI电脑来了！ - 岳小哥AI",
+          "imageUrl": "https://img2024.cnblogs.com/blog/3076183/202606/3076183-20260612092638602-1475916586.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/shanyou/p/20584467",
+          "author": null,
+          "description": "当系统平稳运行时，你是发号施令的架构师，驾驭 LLM 和云原生框架在宏观上狂奔。但当服务器在深夜崩溃，当 AI 给出的解释全是指鹿为马的幻觉时，你必须有能力瞬间推开抽象的胡言乱语，化身成底层机器的同类——读十六进制内存快照，抓 TCP 报文头部，在无数死锁的线程栈里，徒手掐死那只 bug。\n\n这，才...",
+          "link": "https://www.cnblogs.com/shanyou/p/20584467",
+          "publishedOn": "2026-06-16T22:42:00.000Z",
+          "wordCount": 664,
+          "title": "OpenClaw.NET 上线 MetaSkills ：软件工程第一性原理的工业级实践 - 张善友",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/InCerry/p/-/dotnet_week_26_4_4",
+          "author": null,
+          "description": "C# .NET 周刊 ｜2026 年 4 月 4 期 2026-04-26 dotnet_week_26_4_4 国内文章 写 EF Core 查询，90% 的人第一步就错了：刚子教你避开所有坑 https://www.cnblogs.com/shenchuanchao/p/19889187/ef-",
+          "link": "https://www.cnblogs.com/InCerry/p/-/dotnet_week_26_4_4",
+          "publishedOn": "2026-06-16T13:27:00.000Z",
+          "wordCount": 872,
+          "title": "C# .NET 周刊 ｜2026 年 4 月 4 期 - InCerry",
+          "imageUrl": "https://img2024.cnblogs.com/blog/997046/202606/997046-20260616212344347-2019473001.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/newbe36524/p/20581465",
+          "author": null,
+          "description": "Electron 桌面应用如何接入 Microsoft Store 订阅与永久许可证 当你的 Electron 应用要进 Microsoft Store 卖订阅和永久授权，WinRT 那一套商业 API 到底怎么干净地接到业务里？这事儿说起来也算一桩旧梦，我们在 HagiCode Desktop 里",
+          "link": "https://www.cnblogs.com/newbe36524/p/20581465",
+          "publishedOn": "2026-06-16T12:47:00.000Z",
+          "wordCount": 1149,
+          "title": "Electron 桌面应用如何接入 Microsoft Store 订阅与永久许可证 - Newbe36524",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/lulight/p/20581430",
+          "author": null,
+          "description": "问题描述 在 Azure AI Search 中搜索 in brief 时，结果数量有时会比预期多很多。仔细查看返回结果文本，会发现有些文档和 brief 的关系很弱，反而只是命中了 in 这类高频词。 这不是数据问题，也不是 Azure AI Search 的 bug。关键在于一个很容易被忽略的地",
+          "link": "https://www.cnblogs.com/lulight/p/20581430",
+          "publishedOn": "2026-06-16T12:44:00.000Z",
+          "wordCount": 506,
+          "title": "【Azure AI Search】 stopword 是什么，为什么它会影响搜索结果？ - 编码者卢布",
+          "imageUrl": "https://img2024.cnblogs.com/blog/2127802/202606/2127802-20260616201842507-1521305017.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/noear/p/20581399",
+          "author": null,
+          "description": "摘要： Solon v4.0 正式发布，标志着这一 Java 轻量级框架进入新阶段。版本核心围绕&quot;做减法&quot;，清理历史弃用项以保持简洁，同时优化 AI 生态：将 skill 概念统一为 talent，新增沙盒隔离等能力，并升级协议支持。此外，推动第三方插件回归官方维护，提升生态可持续性。升级兼容性良好...",
+          "link": "https://www.cnblogs.com/noear/p/20581399",
+          "publishedOn": "2026-06-16T12:39:00.000Z",
+          "wordCount": 685,
+          "title": "Solon v4.0 正式发布，高考记忆版 - 带刺的坐椅",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/rossiXYZ/p/20524400",
+          "author": null,
+          "description": "【Agentic RL / 强化学习框架】Miles 项目技术分析 （2） 关键技术 目录【Agentic RL / 强化学习框架】Miles 项目技术分析 （2） 关键技术0x00 概要0x01 agentic_tool_call1.1 问题1.2 解决方案1.3 框架自动化的主要流水线1.4 深",
+          "link": "https://www.cnblogs.com/rossiXYZ/p/20524400",
+          "publishedOn": "2026-06-16T12:12:00.000Z",
+          "wordCount": 5118,
+          "title": "【Agentic RL / 强化学习框架】Miles 项目技术分析---（2）--- 关键技术 - 罗西的思考",
+          "imageUrl": "https://img2024.cnblogs.com/blog/1850883/202606/1850883-20260614221420198-1176104242.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/tonyabasy/p/20580213",
+          "author": null,
+          "description": "概览 第一篇我们解决了&quot;怎么写&quot;——一条 flink run 跑起完整的 Multi-Statement SQL 脚本。这一篇解决&quot;怎么管&quot;：让 Flink SQL 作业的研发流程具备和 Java 后端同样的工程能力——可检测、可追溯、可回滚、自动化。 本文将深入 Flink SQL Validat",
+          "link": "https://www.cnblogs.com/tonyabasy/p/20580213",
+          "publishedOn": "2026-06-16T10:49:00.000Z",
+          "wordCount": 1025,
+          "title": "Flink 实时数仓开发实战：像后端那样 CI/CD - tonyabasy",
+          "imageUrl": "https://img2024.cnblogs.com/blog/3724919/202606/3724919-20260616184544759-954763689.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/alineverstop/p/20580136",
+          "author": null,
+          "description": "走进AI编程 AI是如何理解和生成代码的？ token化：AI不像人一样一个字一个字的读代码，而是把文本切成一个个小块，叫做token。 例如，Hello World 会被切成 Hello 和 World 两个 Token。中文的 你好世界 可能被切成 你好 和 世界 两个 Token，也可能被切成",
+          "link": "https://www.cnblogs.com/alineverstop/p/20580136",
+          "publishedOn": "2026-06-16T10:46:00.000Z",
+          "wordCount": 1103,
+          "title": "Vibe Coding--初识AI编程 - NE_STOP",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
         {
           "id": "https://www.cnblogs.com/ai-old-six/p/20566643",
           "author": null,
@@ -8424,6 +9024,36 @@
       "feedUrl": "http://h1.nobbd.de/reports_rss.xml",
       "siteUrl": "http://h1.nobbd.de/",
       "articles": [
+        {
+          "id": "https://hackerone.com/reports/3804525",
+          "author": null,
+          "description": "curl disclosed a bug submitted by newstuff321: https://hackerone.com/reports/3804525",
+          "link": "https://hackerone.com/reports/3804525",
+          "publishedOn": "2026-06-16T11:25:56.000Z",
+          "wordCount": 25,
+          "title": "Vulnerability Report: Buffer Overflow in Path Sanitization",
+          "imageUrl": "https://profile-photos.hackerone-user-content.com/variants/000/035/663/2faf4c279d437d64bfda6d23d62ce1833813a4d9_original.png/f0e07660005686ec92c43da54c0094c1ac1b490ea8c5eac04a4081d912d6ce36"
+        },
+        {
+          "id": "https://hackerone.com/reports/3611837",
+          "author": null,
+          "description": "Rocket.Chat disclosed a bug submitted by eldudareeno: https://hackerone.com/reports/3611837",
+          "link": "https://hackerone.com/reports/3611837",
+          "publishedOn": "2026-06-16T09:47:25.000Z",
+          "wordCount": 25,
+          "title": "Unauthenticated file deletion via deleteFileMessage DDP method allows permanent destruction of any uploaded file",
+          "imageUrl": "https://profile-photos.hackerone-user-content.com/variants/000/019/858/ada6c92a338715afad123af214dd6e22fd8dc6ff_original.png/f0e07660005686ec92c43da54c0094c1ac1b490ea8c5eac04a4081d912d6ce36"
+        },
+        {
+          "id": "https://hackerone.com/reports/3701692",
+          "author": null,
+          "description": "Tor disclosed a bug submitted by aptupdate: https://hackerone.com/reports/3701692 - Bounty: $100",
+          "link": "https://hackerone.com/reports/3701692",
+          "publishedOn": "2026-06-16T07:16:47.000Z",
+          "wordCount": 25,
+          "title": "Malicious Conflux Endpoint Can Leave Stale Global OOO Queue Accounting After Teardown",
+          "imageUrl": "https://profile-photos.hackerone-user-content.com/variants/000/001/800/6e575d0a9127b91e83833cf4a9e6be6e8b30cbc3_original.jpg/5d27521e1b671a8e8bc4f016cace6a876120e5addf7dcc35ae4a5eac091669a9"
+        },
         {
           "id": "https://hackerone.com/reports/3687142",
           "author": null,
