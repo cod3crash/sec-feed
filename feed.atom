@@ -2,10 +2,388 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cod3crash.github.io/sec-feed/index.html</id>
     <title>security feed</title>
-    <updated>2026-06-17T04:57:38.608Z</updated>
+    <updated>2026-06-18T04:48:08.266Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://cod3crash.github.io/sec-feed/index.html"/>
     <link rel="self" href="https://cod3crash.github.io/sec-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[5年，一个程序员是如何把私有化在线客服系统做到第一名的 - 升讯威在线客服系统]]></title>
+        <id>https://www.cnblogs.com/sheng_chao/p/20627166</id>
+        <link href="https://www.cnblogs.com/sheng_chao/p/20627166"/>
+        <updated>2026-06-18T04:24:00.000Z</updated>
+        <summary type="html"><![CDATA[一转眼 5 年过去了。今天对我来说同样是具有里程碑意义的日子，一个大客户经过长达近 3 个月的评估，测试，终于签单了。过程十分辛苦，甚至一度让我有点想放弃。]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[并发性能优化复盘 - 胡云Troy]]></title>
+        <id>https://www.cnblogs.com/xingzheanan/p/20626804</id>
+        <link href="https://www.cnblogs.com/xingzheanan/p/20626804"/>
+        <updated>2026-06-18T04:02:00.000Z</updated>
+        <summary type="html"><![CDATA[上周服务治理系统的同事（注意不是客户）发现一个问题，他调用的 api 接口不稳定。有时候正常，有时候报错，关键是大部分时候都是报错。 更关键的是这个接口是我开发的。 好吧，理所当然的他来找我。第一时间“男人的第六感”告诉我是后端服务处理时间太长了，导致客户端在超时时间内未处理完成。要不把 timeo]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Android 实时音视频接入教程：媒体补充增强信息（SEI） - RTC实战笔记]]></title>
+        <id>https://www.cnblogs.com/rtc-playbook/p/20626755</id>
+        <link href="https://www.cnblogs.com/rtc-playbook/p/20626755"/>
+        <updated>2026-06-18T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[本文主要介绍了「媒体补充增强信息（SEI）」的基础接入流程，并结合官方文档梳理了环境准备、核心 API 调用、媒体处理和结果验证等关键环节。]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ubuntu系统搭建企业级GitLab高可用主备代码仓库完整指南 - Johny_Zhao]]></title>
+        <id>https://www.cnblogs.com/Johny-zhao/p/20624466</id>
+        <link href="https://www.cnblogs.com/Johny-zhao/p/20624466"/>
+        <updated>2026-06-18T03:02:00.000Z</updated>
+        <summary type="html"><![CDATA[一、架构选型与规划 1.1 高可用主备架构方案 企业级GitLab高可用部署主要有以下几种主流方案： 方案一：DRBD + Pacemaker + Corosync（主备模式） 该架构为Active/Passive（主/备）模式，只有主节点运行GitLab服务并挂载存储，备节点通过DRBD实时同步数]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Electron 应用如何上架微软商店：从 MSIX 打包到商店提交 - Newbe36524]]></title>
+        <id>https://www.cnblogs.com/newbe36524/p/20624258</id>
+        <link href="https://www.cnblogs.com/newbe36524/p/20624258"/>
+        <updated>2026-06-18T02:57:00.000Z</updated>
+        <summary type="html"><![CDATA[Electron 应用如何上架微软商店：从 MSIX 打包到商店提交 其实 Electron 说到底，不过是个普普通通的 Win32 桌面应用罢了，可微软商店它只认 MSIX。这篇文章，就借着我们 HagiCode Desktop 实打实跑通的那套构建配置，把「注册开发者账号 → 打 MSIX 包]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building a Practical CTI RAG Assistant: An AI-Powered Threat Intelligence Workflow]]></title>
+        <id>https://medium.com/p/bfba13774507</id>
+        <link href="https://medium.com/@paritoshblogs/building-a-practical-cti-rag-assistant-an-ai-powered-threat-intelligence-workflow-bfba13774507?source=rss------bugbounty-5"/>
+        <updated>2026-06-18T02:47:25.000Z</updated>
+        <summary type="html"><![CDATA[Threat intelligence teams collect huge amounts of data every day — CVE feeds, malware reports, IOC feeds, vendor research, and incident…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Paritosh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Burp Suite+MCP+DeepSeek - Xiao-Hei]]></title>
+        <id>https://www.cnblogs.com/XiaovHei/p/20607879</id>
+        <link href="https://www.cnblogs.com/XiaovHei/p/20607879"/>
+        <updated>2026-06-18T02:43:00.000Z</updated>
+        <summary type="html"><![CDATA[工具准备： 1、Burp Suite v2025+（版本若较低可查看扩展商店中是否支持下载MCP server这个插件） 2、Cherry Studio 3、一条能用的API key 这里咱使用的是Burp Suite v2026 API咱使用的是https://platform.deepseek.]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[gt-checksum v4.0.0 新功能解读系列文章（3）：反向回滚 SQL——修复可审计、可回退 - GreatSQL]]></title>
+        <id>https://www.cnblogs.com/greatsql/p/20623434</id>
+        <link href="https://www.cnblogs.com/greatsql/p/20623434"/>
+        <updated>2026-06-18T02:38:00.000Z</updated>
+        <summary type="html"><![CDATA[gt-checksum v4.0.0 新功能解读（3）：反向回滚 SQL
+  ✅ 一键开启 genRollSQL=ON，修复 SQL 自动生成反向回滚操作
+  ✅ DELETE→INSERT、INSERT→DELETE、TRUNCATE 三种映射策略，覆盖全场景
+  ✅ 回滚 SQL 只写文件不在线...]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Authentication Bypass via Insecure redirect_url Parameter Leading to Account Takeover]]></title>
+        <id>https://medium.com/p/8b6e8d72da5e</id>
+        <link href="https://medium.com/@priyanshuuparmar/authentication-bypass-via-insecure-redirect-url-parameter-leading-to-account-takeover-8b6e8d72da5e?source=rss------bugbounty-5"/>
+        <updated>2026-06-18T02:30:14.000Z</updated>
+        <summary type="html"><![CDATA[Introduction
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Priyanshu parmar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hermes Agent Skill Runtime 架构拆解：让 AI Agent 不再从零开始 - AI小老六]]></title>
+        <id>https://www.cnblogs.com/ai-old-six/p/20622733</id>
+        <link href="https://www.cnblogs.com/ai-old-six/p/20622733"/>
+        <updated>2026-06-18T02:28:00.000Z</updated>
+        <summary type="html"><![CDATA[拆解 Hermes 如何把执行轨迹沉淀为技能、记忆和自修复闭环，让 Agent 真正积累经验。 原文链接：AI 小老六 导语 很多 Agent 产品有一个尴尬的问题：它们看起来每天都在工作，实际上每天都从零开始。 用户让它处理第 1 个复杂任务时，它会试错；第 20 次遇到类似任务时，它还在试错；到]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MiniMax-M3 开源实测：部署、推理与基准测试全记录 - GPUStack]]></title>
+        <id>https://www.cnblogs.com/gpustack/p/20622313</id>
+        <link href="https://www.cnblogs.com/gpustack/p/20622313"/>
+        <updated>2026-06-18T02:22:00.000Z</updated>
+        <summary type="html"><![CDATA[MiniMax-M3 是 MiniMax 最新开源的原生多模态大模型，约428B 总参数/23B激活参数，原生支持1M上下文。本文基于 GPUStack 与VLLM，演示从镜像与权重准备、模型部署、对话实测到基准测试的完整流程，并实测了基于 EAGLE3 的投机解码加速。]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NineData 社区版 V5.1.0 正式发布！AI Agent 能力全面释放，新增 48 种数据复制和对比链路 - NineData]]></title>
+        <id>https://www.cnblogs.com/ninedata/p/20620463</id>
+        <link href="https://www.cnblogs.com/ninedata/p/20620463"/>
+        <updated>2026-06-18T01:57:00.000Z</updated>
+        <summary type="html"><![CDATA[NineData 社区版 V5.1.0 这次更新，核心还是围绕 AI 数据库运维能力继续升级。ChatDBA 新增支持类 PostgreSQL、Oracle 和 SQL Server 数据库的全链路性能诊断，SQL 智能优化继续扩到十多种数据库，SQL 执行与任务 Skill 及对应 OpenAPI...]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[记一次微服务架构下的HTTP请求头“大小写”丢失排查之旅 - 杜劲松]]></title>
+        <id>https://www.cnblogs.com/imadc/p/20619034</id>
+        <link href="https://www.cnblogs.com/imadc/p/20619034"/>
+        <updated>2026-06-18T01:44:00.000Z</updated>
+        <summary type="html"><![CDATA[在最近的微服务排障过程中，业务方反馈了一个诡异的问题：客户端发起请求时，明确携带了驼峰写法的请求头（如 appKey: asd），但请求经过反向代理和网关，到达后端具体的 Spring Boot 业务服务时，业务代码里取出来的请求头全变成了小写（appkey: asd）。 面对这种链路较长的问题，最]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[测试必学：推荐4个测试用例设计最值得掌握的Agent Skill，几乎覆盖所有用例设计场景！ - 狂师]]></title>
+        <id>https://www.cnblogs.com/jinjiangongzuoshi/p/20618956</id>
+        <link href="https://www.cnblogs.com/jinjiangongzuoshi/p/20618956"/>
+        <updated>2026-06-18T01:40:00.000Z</updated>
+        <summary type="html"><![CDATA[做软件测试的朋友都清楚，测试用例设计有多么重要。它直接决定了测试覆盖是否全面，也直接影响了后续整体测试流程的质量。 传统模式下，大家手动一条一条编写用例，不仅耗时费力，还经常因为考虑不周，漏掉异常场景、边界条件，给线上质量埋下隐患。 如今借助 AI + Agent Skill 能力，我们可以把用例设]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The MFA Bypass That Wasn’t an MFA Problem: A Lesson in Broken API Authorization]]></title>
+        <id>https://medium.com/p/b6f0fbd4154f</id>
+        <link href="https://cybersecuritywriteups.com/the-mfa-bypass-that-wasnt-an-mfa-problem-a-lesson-in-broken-api-authorization-b6f0fbd4154f?source=rss------bugbounty-5"/>
+        <updated>2026-06-18T01:29:56.000Z</updated>
+        <summary type="html"><![CDATA[A bug bounty story about frontend trust, missing backend enforcement, and why attackers never use your UI.
+Continue reading on Cyber Security Write-ups »]]></summary>
+        <author>
+            <name>Hangga Aji Sayekti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何编写一个SpringBoot项目告警推送的Starter - 虚无境]]></title>
+        <id>https://www.cnblogs.com/xuwujing/p/20595075</id>
+        <link href="https://www.cnblogs.com/xuwujing/p/20595075"/>
+        <updated>2026-06-18T01:18:00.000Z</updated>
+        <summary type="html"><![CDATA[前言 最近有一点时间了，于是便开始做以前自己想做但是没有完成的事情。之前我其实就一直想写一个通用一点的告警推送组件，把项目里的异常信息、慢请求、状态码异常、JVM 指标，甚至数据库慢 SQL 这些内容统一收集起来，然后直接推送到飞书、钉钉、企业微信这类 IM 工具里。 这样做有两个好处，一个是出了问]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[MAF预定义的AIContextProvider-02]AgentSkillsProvider——将Agent Skills引入MAF - Artech]]></title>
+        <id>https://www.cnblogs.com/artech/p/20615379/ai-conext-provider-02</id>
+        <link href="https://www.cnblogs.com/artech/p/20615379/ai-conext-provider-02"/>
+        <updated>2026-06-18T00:33:00.000Z</updated>
+        <summary type="html"><![CDATA[Skills针对Agent的重要性是不言而喻的。从本质上讲，Agent Skills就是随着用户与LLM对话的推进，动态加载被称为Skill作为提示词的一种机制。在大部分实现中，Skill的内容会被封装成角色为Tool的消息被添加到对话历史中，因为这样可以借助针对对话历史的压缩实现对老旧Skill的...]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[28. Agent 执行到一半想暂停？用 interrupt 给它设个“关卡“！ - 老陈说编程]]></title>
+        <id>https://www.cnblogs.com/halfcode/p/20615293</id>
+        <link href="https://www.cnblogs.com/halfcode/p/20615293"/>
+        <updated>2026-06-18T00:21:00.000Z</updated>
+        <summary type="html"><![CDATA[Agent 跑起来之后，大多数时候我们希望它一气呵成把活干完。但总有些场景不太一样——比如 Agent 要调用一个会删文件的工具，你总得让人确认一下再动手吧？LangGraph 的 interrupt 机制就是干这个的：在指定节点前或节点后暂停执行，等人给了信号再接着跑。 动画视频在《28. Age]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Found a Bug That Looks Harmless But Can Still Get You Paid]]></title>
+        <id>https://medium.com/p/266eb632e1af</id>
+        <link href="https://osintteam.blog/i-found-a-bug-that-looks-harmless-but-can-still-get-you-paid-266eb632e1af?source=rss------bugbounty-5"/>
+        <updated>2026-06-18T00:03:53.000Z</updated>
+        <summary type="html"><![CDATA[Here is everything I know about HTML Injection, how I test for it, how people bypass filters, and what it actually scores on CVSS
+Continue reading on OSINT Team »]]></summary>
+        <author>
+            <name>Yamini Yadav_369</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[读懂计算机视觉CV、语言感知(ASR/TTS)、多模态，就能理解AI是如何“看到”与“听到”世界的 - 岳小哥AI]]></title>
+        <id>https://www.cnblogs.com/hawk2026/p/20466443</id>
+        <link href="https://www.cnblogs.com/hawk2026/p/20466443"/>
+        <updated>2026-06-18T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[当Transformer架构让AI能‘同时看到’整段文字，理解其中的讽刺与隐喻时，语言处理已不再只是识别，而是真正的语义理解。]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2FA Bypass: The Complete Guide to Breaking Two-Factor Authentication (And How to Fix It)]]></title>
+        <id>https://medium.com/p/db1947865fe9</id>
+        <link href="https://osintteam.blog/2fa-bypass-the-complete-guide-to-breaking-two-factor-authentication-and-how-to-fix-it-db1947865fe9?source=rss------bugbounty-5"/>
+        <updated>2026-06-17T23:59:08.000Z</updated>
+        <summary type="html"><![CDATA[Why I Started Caring About 2FA Bugs
+Continue reading on OSINT Team »]]></summary>
+        <author>
+            <name>Yamini Yadav_369</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[瞬时极限性WebApp实验室：无限接近如何被“看见” - 郝hai]]></title>
+        <id>https://www.cnblogs.com/haohai9309/p/20612583</id>
+        <link href="https://www.cnblogs.com/haohai9309/p/20612583"/>
+        <updated>2026-06-17T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[在微积分的世界里，最深刻的思想往往隐藏在最短暂的瞬间。当时间趋近于零、距离无限缩小、分割不断细化时，一个充满连续性与变化性的数学宇宙逐渐显现。导数诞生于割线向切线逼近的瞬间，积分形成于无数微小面积不断累积的过程，而极限则是连接有限与无限、离散与连续的核心桥梁。然而，这些过程往往被压缩成静态公式，难以]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Authenticating a PayPal Notification Is Not the Same as Trusting What It Says (CVE-2026–9189)]]></title>
+        <id>https://medium.com/p/9a130bcaa8ac</id>
+        <link href="https://nitishyaddala.medium.com/authenticating-a-paypal-notification-is-not-the-same-as-trusting-what-it-says-cve-2026-9189-9a130bcaa8ac?source=rss------bugbounty-5"/>
+        <updated>2026-06-17T22:59:36.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2026–9189. Public on cve.org since 2026–05–29. CVSS 5.3 (CWE-345). Found and reported by me, Muni Nitish Kumar Yaddala, through…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Nitish Yaddala</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenClaw.NET MetaSKILLs 系统深度解析：AI Agent 正在学会「自己给自己写技能」 - 张善友]]></title>
+        <id>https://www.cnblogs.com/shanyou/p/20614913</id>
+        <link href="https://www.cnblogs.com/shanyou/p/20614913"/>
+        <updated>2026-06-17T22:55:00.000Z</updated>
+        <summary type="html"><![CDATA[接上一篇文章OpenClaw.NET 上线 MetaSkills ：软件工程第一性原理的工业级实践, 本篇文章是 MetaSkills 系统深度解析 —— 当 AI 不仅能执行任务，还能编排任务、创造任务，这意味着什么？ 一个让工程师崩溃的早晨 想象一下这个场景： 周一早上 9 点，你打开公司内部的]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Footprinting Lab — Hard (Walkthrough)]]></title>
+        <id>https://medium.com/p/348321bfaaef</id>
+        <link href="https://medium.com/@theV01D/footprinting-lab-hard-walkthrough-348321bfaaef?source=rss------redteam-5"/>
+        <updated>2026-06-17T20:51:02.000Z</updated>
+        <summary type="html"><![CDATA[The third server is an MX and management server for the internal network.
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>th3V0!D</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SSTImap & SSTI Prevention: Letting the Tool Do the Work]]></title>
+        <id>https://medium.com/p/2a47549ccf82</id>
+        <link href="https://systemweakness.com/sstimap-ssti-prevention-letting-the-tool-do-the-work-2a47549ccf82?source=rss------bugbounty-5"/>
+        <updated>2026-06-17T17:45:24.000Z</updated>
+        <summary type="html"><![CDATA[We did it manually. Now let’s see what happens when you hand it to a tool. Last part of the SSTI series.
+Continue reading on System Weakness »]]></summary>
+        <author>
+            <name>Moncef fennan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unauthenticated IDOR on NASA’s GitLab Instance — From Recon to Bypass]]></title>
+        <id>https://medium.com/p/a09211a81927</id>
+        <link href="https://medium.com/@ghaddarittoo/unauthenticated-idor-on-nasas-gitlab-instance-from-recon-to-bypass-a09211a81927?source=rss------bugbounty-5"/>
+        <updated>2026-06-17T16:57:29.000Z</updated>
+        <summary type="html"><![CDATA[Target: gitlab.smce.nasa.gov
+ Program: NASA VDP (Bugcrowd)
+ Severity: P3 — Broken Access Control / IDOR
+ Status: Resolved
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Ghaddarittoo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“Bug Bounty Bootcamp #48: OAuth + XSS ”]]></title>
+        <id>https://medium.com/p/04246084a403</id>
+        <link href="https://infosecwriteups.com/bug-bounty-bootcamp-48-oauth-xss-04246084a403?source=rss------bugbounty-5"/>
+        <updated>2026-06-17T16:43:57.000Z</updated>
+        <summary type="html"><![CDATA[The Ultimate Account Takeover One-Two Punch
+Continue reading on InfoSec Write-ups »]]></summary>
+        <author>
+            <name>Aman Sharma</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MobileHackingLabs — Secure Notes writeup]]></title>
+        <id>https://medium.com/p/a3bf8c2a23b6</id>
+        <link href="https://medium.com/@danielearn4211/mobilehackinglabs-secure-notes-writeup-a3bf8c2a23b6?source=rss------redteam-5"/>
+        <updated>2026-06-17T16:21:31.000Z</updated>
+        <summary type="html"><![CDATA[This was another pretty nice lab I took on involving an exposed content provider that we’re supposed to brute-force for a pin. In the end…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Daniel Ndungu (Blank)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SSTI Exploitation in Twig: Same Idea, Different Language]]></title>
+        <id>https://medium.com/p/d38a19a40eef</id>
+        <link href="https://systemweakness.com/ssti-exploitation-in-twig-same-idea-different-language-d38a19a40eef?source=rss------bugbounty-5"/>
+        <updated>2026-06-17T16:12:15.000Z</updated>
+        <summary type="html"><![CDATA[Jinja2 was Python. Twig is PHP. The vulnerability is the same — the path looks completely different. Part 3 of the SSTI series.
+Continue reading on System Weakness »]]></summary>
+        <author>
+            <name>Moncef fennan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[浏览器缓存之【基础键值存储】：Local storage 和 Session storage - 橙子家]]></title>
+        <id>https://www.cnblogs.com/hnzhengfy/p/20606321/localStorage</id>
+        <link href="https://www.cnblogs.com/hnzhengfy/p/20606321/localStorage"/>
+        <updated>2026-06-17T15:08:00.000Z</updated>
+        <summary type="html"><![CDATA[〇、前言 虽然在日常口语中我们常把浏览器中 Application -&gt; Storage 模块中的多种类型统称为“浏览器缓存”，但在计算机科学与 Web 开发的专业定义中，实际上包含了“存储”与“缓存”两个截然不同但又紧密相关的概念体系。 其中本文将着重介绍的 Local storage 和 Ses]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[高精度算法 - myLv]]></title>
+        <id>https://www.cnblogs.com/myInception/p/20005762</id>
+        <link href="https://www.cnblogs.com/myInception/p/20005762"/>
+        <updated>2026-06-17T14:51:00.000Z</updated>
+        <summary type="html"><![CDATA[一、为什么需要高精度运算 普通的整数类型（int、long long）都有固定的取值范围，例如64位 long long 最大只能存储约 9&#215;10&#185;⁸ 的数值。当我们需要处理几十位、上百位甚至更长的大整数时（比如大数阶乘、密码学计算、超长数值运算等场景），内置类型会发生溢出，无法正确存储和计算。高精]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Authenticated Elasticsearch Painless script execution via Query.search.sort_query on hackerone.com/graphql]]></title>
+        <id>https://hackerone.com/reports/3694007</id>
+        <link href="https://hackerone.com/reports/3694007"/>
+        <updated>2026-06-17T14:17:26.000Z</updated>
+        <summary type="html"><![CDATA[HackerOne disclosed a bug submitted by brumbelow: https://hackerone.com/reports/3694007 - Bounty: $7000]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Authenticated Elasticsearch Painless script execution via Query.search.sort_query on hackerone.com/graphql]]></title>
+        <id>https://hackerone.com/reports/3694007</id>
+        <link href="https://hackerone.com/reports/3694007"/>
+        <updated>2026-06-17T14:17:26.000Z</updated>
+        <summary type="html"><![CDATA[HackerOne disclosed a bug submitted by brumbelow: https://hackerone.com/reports/3694007 - Bounty: $7000]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[verify-release rebuilds from the tarball under verification, enabling pre-check command execution and false OK for a malicious curl release tarball]]></title>
+        <id>https://hackerone.com/reports/3802645</id>
+        <link href="https://hackerone.com/reports/3802645"/>
+        <updated>2026-06-17T06:20:39.000Z</updated>
+        <summary type="html"><![CDATA[curl disclosed a bug submitted by argareksapatii: https://hackerone.com/reports/3802645]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[verify-release rebuilds from the tarball under verification, enabling pre-check command execution and false OK for a malicious curl release tarball]]></title>
+        <id>https://hackerone.com/reports/3802645</id>
+        <link href="https://hackerone.com/reports/3802645"/>
+        <updated>2026-06-17T06:20:39.000Z</updated>
+        <summary type="html"><![CDATA[curl disclosed a bug submitted by argareksapatii: https://hackerone.com/reports/3802645]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[每月 20 美元的 Claude Pro 会员到底能消耗多少 Token 及额度 - 曾左]]></title>
         <id>https://www.cnblogs.com/zengzuo613/p/20595884</id>
