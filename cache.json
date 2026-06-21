@@ -6,6 +6,16 @@
       "siteUrl": "http://h1.nobbd.de/",
       "articles": [
         {
+          "id": "https://hackerone.com/reports/3723458",
+          "author": null,
+          "description": "Khan Academy disclosed a bug submitted by farr: https://hackerone.com/reports/3723458",
+          "link": "https://hackerone.com/reports/3723458",
+          "publishedOn": "2026-06-20T15:58:07.000Z",
+          "wordCount": 25,
+          "title": "1-Click Account Takeover via Open Redirect through Regex Bypass in Domain Validation",
+          "imageUrl": "https://profile-photos.hackerone-user-content.com/variants/000/000/134/e62a822e39ad039f23a0b89bfaaaf7bf97c5f11f_original.png/f0e07660005686ec92c43da54c0094c1ac1b490ea8c5eac04a4081d912d6ce36"
+        },
+        {
           "id": "https://hackerone.com/reports/3658225",
           "author": null,
           "description": "Node.js disclosed a bug submitted by pimterry: https://hackerone.com/reports/3658225",
@@ -2380,6 +2390,96 @@
       "siteUrl": "https://medium.com/tag/bugbounty/latest?source=rss------bugbounty-5",
       "articles": [
         {
+          "id": "https://medium.com/p/ba14ae7ec7a0",
+          "author": "Hacker MD",
+          "description": "Series: Web3 Security Zero se Advance 🛡️ | Article #16\nBy HackerMD | 28 min read\nContinue reading on Medium »",
+          "link": "https://medium.com/@HackerMD/smart-contract-reading-code-audit-karna-seekho-ba14ae7ec7a0?source=rss------bugbounty-5",
+          "publishedOn": "2026-06-21T04:31:01.000Z",
+          "wordCount": null,
+          "title": "Smart Contract Reading Code Audit Karna Seekho",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/a5f1c0012b8a",
+          "author": "Frame and Firewall",
+          "description": "I’ve been an avid bug bounty hunter for the past few years, and I’ve found my fair share of bugs from all classifications. One thing I’ve…\nContinue reading on Medium »",
+          "link": "https://medium.com/@framesec/bug-bounty-nightmare-company-fixed-my-bug-then-banned-me-to-avoid-paying-a5f1c0012b8a?source=rss------bugbounty-5",
+          "publishedOn": "2026-06-21T03:01:47.000Z",
+          "wordCount": null,
+          "title": "Bug Bounty Nightmare: Company Banned Me to Avoid Paying",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/a69e428e84ad",
+          "author": "Ankitsingh",
+          "description": "Introduction\nContinue reading on Medium »",
+          "link": "https://medium.com/@ankitsingh787478/from-a-simple-input-field-to-stored-xss-a-realistic-bug-bounty-journey-a69e428e84ad?source=rss------bugbounty-5",
+          "publishedOn": "2026-06-20T20:35:12.000Z",
+          "wordCount": null,
+          "title": "From a Simple Input Field to Stored XSS — A Realistic Bug Bounty Journey",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/069f861f59dc",
+          "author": "Abdelrhmanelmoghazy",
+          "description": "Category: Web Application Security\nVulnerability Chain: SQL Injection → Database Access → Remote Code Execution\nSeverity: Critical\nStatus…\nContinue reading on Medium »",
+          "link": "https://medium.com/@abdelrhmanelmoghazy1/i-tested-a-login-form-and-accidentally-found-remote-code-execution-069f861f59dc?source=rss------bugbounty-5",
+          "publishedOn": "2026-06-20T20:32:56.000Z",
+          "wordCount": null,
+          "title": "I Tested a Login Form and Accidentally Found Remote Code Execution",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/1b93875d9023",
+          "author": "R.H Rizvi",
+          "description": "Everyone is automating recon in 2026. The tools are faster than ever. The pipelines run while hunters sleep. The results for most of them…\nContinue reading on Medium »",
+          "link": "https://medium.com/@R.H_Rizvi/bug-bounty-automation-toolkit-2026-automate-recon-find-vulnerabilities-faster-advanced-ethical-1b93875d9023?source=rss------bugbounty-5",
+          "publishedOn": "2026-06-20T18:24:34.000Z",
+          "wordCount": null,
+          "title": "Bug Bounty Automation Toolkit 2026 Automate Recon & Find Vulnerabilities Faster | Advanced Ethical…",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/3c7bf94aaffd",
+          "author": "Bahmed Boumriga",
+          "description": "A Bug Bounty Writeup | HackerOne Report\nContinue reading on Medium »",
+          "link": "https://medium.com/@boumriga.bahmed/time-based-blind-sql-injection-confirming-and-exploiting-with-curl-and-ghauri-3c7bf94aaffd?source=rss------bugbounty-5",
+          "publishedOn": "2026-06-20T16:58:51.000Z",
+          "wordCount": null,
+          "title": "Time-Based Blind SQL Injection — Confirming and Exploiting with curl and Ghauri",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/f5b5fb1532cb",
+          "author": "Rajat shukla",
+          "description": "How attacker-controlled artifact data flows into a privileged GitHub Actions context and exposes GEMINI_API_KEY — found via Google OSS VRP.\nContinue reading on Medium »",
+          "link": "https://medium.com/@rajatshukla58/poisoned-pipeline-in-googles-gemini-cli-workflow-run-ppe-f5b5fb1532cb?source=rss------bugbounty-5",
+          "publishedOn": "2026-06-20T16:55:15.000Z",
+          "wordCount": null,
+          "title": "Poisoned Pipeline in Google’s Gemini-CLI: workflow_run PPE",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/61db11a04599",
+          "author": "Fieideir0x6",
+          "description": "When I first started learning and looking into bug bounty, I encountered something that confused me and made every program look difficult…\nContinue reading on Medium »",
+          "link": "https://medium.com/@rasyafadillahacta/active-and-passive-recon-what-is-it-61db11a04599?source=rss------bugbounty-5",
+          "publishedOn": "2026-06-20T15:58:16.000Z",
+          "wordCount": null,
+          "title": "Active and Passive Recon, What Is It?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/156256aac0cf",
+          "author": "Shain Mathew",
+          "description": "The Objective of this lab was to show that authorization methods should never rely solely on user-controlled inputs. In this assessment, I…\nContinue reading on Medium »",
+          "link": "https://medium.com/@ShainMathew/user-role-controlled-by-request-parameter-privilege-escalation-walkthrough-portswigger-156256aac0cf?source=rss------bugbounty-5",
+          "publishedOn": "2026-06-20T14:12:46.000Z",
+          "wordCount": null,
+          "title": "User Role Controlled By Request Parameter -Privilege Escalation Walkthrough: Portswigger",
+          "imageUrl": null
+        },
+        {
           "id": "https://medium.com/p/1d81633c9c46",
           "author": "Decline",
           "description": "Sometimes the universe just hands you a payout.\nContinue reading on Medium »",
@@ -4017,6 +4117,66 @@
       "siteUrl": "https://medium.com/tag/redteam/latest?source=rss------redteam-5",
       "articles": [
         {
+          "id": "https://medium.com/p/b238900fef0e",
+          "author": "Kyrillos Kamal",
+          "description": "1. Overview\nContinue reading on Medium »",
+          "link": "https://kirll0s.medium.com/insecure-direct-object-reference-idor-tryhackme-idor-room-b238900fef0e?source=rss------redteam-5",
+          "publishedOn": "2026-06-21T00:32:02.000Z",
+          "wordCount": null,
+          "title": "Insecure Direct Object Reference (IDOR) — TryHackMe IDOR Room",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/0d67baab038b",
+          "author": "exploiter-taz",
+          "description": "IRQLs → KDPC internals → WinDbg live analysis → vulnerable driver code → ROP-based exploitation → BYOVD → mitigations breakdown\nContinue reading on Medium »",
+          "link": "https://medium.com/@exploiter-taz/deferred-procedure-calls-dpcs-0d67baab038b?source=rss------redteam-5",
+          "publishedOn": "2026-06-20T20:41:37.000Z",
+          "wordCount": null,
+          "title": "Deferred Procedure Calls — DPCs : A Real Deep Dive Internals, WinDbg, and Exploitation",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/6a0beecd2aa0",
+          "author": "Tal Eliyahu",
+          "description": "AI red teaming will not stay a tool-only activity. CISOs will want qualified people to scope tests, validate findings, and own risk…\nContinue reading on Medium »",
+          "link": "https://taleliyahu.medium.com/ai-red-teaming-will-need-qualified-human-pentester-6a0beecd2aa0?source=rss------redteam-5",
+          "publishedOn": "2026-06-20T16:54:28.000Z",
+          "wordCount": null,
+          "title": "AI Red Teaming Will Need Qualified Human Pentester",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/fbff235c0263",
+          "author": "Ilias Georgopoulos",
+          "description": "When learning offensive security, red teaming, and post-exploitation techniques, one concept that appears again and again is “Living off…\nContinue reading on Medium »",
+          "link": "https://medium.com/@Ilias1988/building-livingofftheland-dev-a-practical-reference-for-lolbins-fbff235c0263?source=rss------redteam-5",
+          "publishedOn": "2026-06-20T14:27:51.000Z",
+          "wordCount": null,
+          "title": "Building LivingOffTheLand.dev: A Practical Reference for LOLBins",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/23288faab757",
+          "author": "Berend Watchus",
+          "description": "Author: Berend Watchus. Independent AI & Cybersecurity Researcher.\nContinue reading on System Weakness »",
+          "link": "https://systemweakness.com/nrt-bench-as-a-narrow-game-model-of-nuclear-plant-cyber-security-and-why-its-still-a-toy-model-23288faab757?source=rss------redteam-5",
+          "publishedOn": "2026-06-20T13:10:49.000Z",
+          "wordCount": null,
+          "title": "NRT-Bench as a Narrow-Game Model of Nuclear Plant Cyber-Security — and Why It’s Still a Toy Model…",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/f84af71f76af",
+          "author": "Mainul Hasan",
+          "description": "When I’d just started reading about Kerberos, my brain immediately went to that three-headed dog from Greek mythology. You know, the one…\nContinue reading on Medium »",
+          "link": "https://iammainul.medium.com/kerberos-the-three-headed-dog-and-how-to-kill-it-f84af71f76af?source=rss------redteam-5",
+          "publishedOn": "2026-06-20T08:22:12.000Z",
+          "wordCount": null,
+          "title": "Kerberos — The Three Headed Dog and How to Kill it?",
+          "imageUrl": null
+        },
+        {
           "id": "https://medium.com/p/51d92b5f61e9",
           "author": "Divya",
           "description": "Continue reading on Medium »",
@@ -4034,6 +4194,16 @@
           "publishedOn": "2026-06-19T18:00:09.000Z",
           "wordCount": null,
           "title": "Atacar para defender",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/004db3a226ba",
+          "author": "TD digital forensics",
+          "description": "Continue reading on Medium »",
+          "link": "https://medium.com/@DanielFloresRivera/cazando-infraestructura-c2-004db3a226ba?source=rss------redteam-5",
+          "publishedOn": "2026-06-19T13:42:13.000Z",
+          "wordCount": null,
+          "title": "Cazando Infraestructura C2.",
           "imageUrl": null
         },
         {
@@ -6878,6 +7048,176 @@
       "feedUrl": "https://feed.cnblogs.com/blog/sitehome/rss",
       "siteUrl": null,
       "articles": [
+        {
+          "id": "https://www.cnblogs.com/zjhnb/p/20678324",
+          "author": null,
+          "description": "前言 在完成航班配载系统初次实验后，我自认为已经掌握面向对象程序设计的基础思路，然而数字电路逻辑仿真系统实验，让我对软件架构设计产生了全新、系统的认知。 本次实验区别于前次对现实物理载体的简单建模与数值计算，核心任务为解析结构化文本输入，在内存中构建完整电路拓扑模型。系统需要兼容多种基础逻辑门，包含",
+          "link": "https://www.cnblogs.com/zjhnb/p/20678324",
+          "publishedOn": "2026-06-21T03:41:00.000Z",
+          "wordCount": 460,
+          "title": "数字电路实验BLog - xaioka",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/aqi00/p/20666018",
+          "author": null,
+          "description": "上一篇文章采用字符串匹配的方式来查找知识，这种方式比较呆板不够智能，接下来引入向量数据库，通过向量化实现更精细的知识检索。 一、文本嵌入Embedding模型 向量化一段文本的时候，经常用到all-MiniLM-L6-v2，它是一个轻量级的文本嵌入Embedding模型，专门把文字转成数字向量，给R",
+          "link": "https://www.cnblogs.com/aqi00/p/20666018",
+          "publishedOn": "2026-06-21T03:16:00.000Z",
+          "wordCount": 437,
+          "title": "15天学会AI应用开发（八）使用向量数据库实现RAG功能 - aqi00",
+          "imageUrl": "https://img2024.cnblogs.com/blog/729938/202606/729938-20260620113936990-1506471928.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/hongbao/p/20671555",
+          "author": null,
+          "description": "一、重要的桥接Python库 rpy2# pip install rpy2 我的R语言版本为 4.1.3 ，需要rpy2 3.5.X版本去对应 二、确保R环境 确保你电脑已安装 R，并在 R 里装好相关包：# install.packages(c(&quot;ggplot2&quot;, &quot;ggstatsplot&quot;,",
+          "link": "https://www.cnblogs.com/hongbao/p/20671555",
+          "publishedOn": "2026-06-20T15:21:00.000Z",
+          "wordCount": 933,
+          "title": "Python中绘制R的科研级可视化图 - 一眉师傅",
+          "imageUrl": "https://img2024.cnblogs.com/blog/2958730/202606/2958730-20260620231724759-1151543057.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/young-tea/p/20671493",
+          "author": null,
+          "description": "lil_tea c++ 2026 style guide 本文使用 yoga air + wsl + ubuntu 26.04 + vscode 编写. 把所有 debug 完成, 我保证, codin 是我一辈子的朝圣. 这是我在开发和算竞都使用的代码风格. 部分借鉴自 the cherno, 部",
+          "link": "https://www.cnblogs.com/young-tea/p/20671493",
+          "publishedOn": "2026-06-20T14:59:00.000Z",
+          "wordCount": 1573,
+          "title": "lil_tea c++ 2026 style guide - lil_tea",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/mliu/p/20631676",
+          "author": null,
+          "description": "上个月帮朋友做了一次红蓝对抗，对方一个看似人畜无害的「图片裁剪」功能，差点让我们把整个阿里云账号的 AccessKey 都掏出来了。 这就是 SSRF（Server-Side Request Forgery，服务端请求伪造） 的威力——你以为是前端传了个URL，服务端老实巴交地去请求，结果那台服务器",
+          "link": "https://www.cnblogs.com/mliu/p/20631676",
+          "publishedOn": "2026-06-20T14:21:00.000Z",
+          "wordCount": 887,
+          "title": "SSRF漏洞：从内网探测到云元数据窃取，黑客是怎么绕过的？ - 明.Sir",
+          "imageUrl": "https://img2024.cnblogs.com/blog/1190569/202605/1190569-20260520131531982-231759831.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/didispace/p/20671112",
+          "author": null,
+          "description": "2026 年 6 月 17 日，Vercel 发布了开源 Agent 框架 Eve。官方给它的定位很直接：像 Next.js 之于 Web 应用一样，Eve 想给 Agent 提供一套约定明确、可直接进入生产环境的框架。但它真正想解决的，并不是「怎么再写一个 Agent Loop」，而是 Agent",
+          "link": "https://www.cnblogs.com/didispace/p/20671112",
+          "publishedOn": "2026-06-20T13:37:00.000Z",
+          "wordCount": 880,
+          "title": "一个目录一个 Agent，Vercel Eve 的这套架构设计太舒服了！ - 程序猿DD",
+          "imageUrl": "https://img2024.cnblogs.com/blog/626506/202606/626506-20260620213656597-1240774894.webp"
+        },
+        {
+          "id": "https://www.cnblogs.com/ylxin/p/20671032",
+          "author": null,
+          "description": "AI Agent 全日制30天速成｜Day5 教学笔记 今日总学习目标 区分短期记忆/长期记忆，掌握Agent分层记忆架构设计 实现滑动窗口、摘要压缩、向量记忆三种主流记忆方案 基于Day4规划Agent改造，接入持久化对话记忆（Redis存储会话） 解决超长多轮对话Token爆炸、历史遗忘、上下文",
+          "link": "https://www.cnblogs.com/ylxin/p/20671032",
+          "publishedOn": "2026-06-20T13:22:00.000Z",
+          "wordCount": 1219,
+          "title": "AI Agent 30天速成｜Day5 笔记 - 云淡风轻YangG",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/manuscript/p/20671004",
+          "author": null,
+          "description": "前言 集群部署在 VMware 创建的三台虚拟机上，每台虚拟机同时承担 Master 角色。因长期未做系统安全更新，近期执行了 dnf upgrade-minimal --security --allowerasing 升级内核与软件包。内核等更新需重启节点才能生效，而三台节点都运行着 etcd，重",
+          "link": "https://www.cnblogs.com/manuscript/p/20671004",
+          "publishedOn": "2026-06-20T13:14:00.000Z",
+          "wordCount": 2398,
+          "title": "K8s 多 Master 重启：流程梳理与问题排查 - 怎么还在写代码",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/ttkwzyttk/p/20670511",
+          "author": null,
+          "description": "一、GDB简介 GDB，全称为GNU Debugger，是GNU项目提供的一款命令行调试工具，主要用于调试C、C++ 等语言编写的程序。在Linux开发中，GDB是非常常用的调试工具，尤其适合分析程序运行过程中的崩溃、段错误、逻辑错误以及变量变化情况。 正常情况下，我们运行一个程序时，只能看到程序最",
+          "link": "https://www.cnblogs.com/ttkwzyttk/p/20670511",
+          "publishedOn": "2026-06-20T11:34:00.000Z",
+          "wordCount": 327,
+          "title": "GDB调试简介与调试配置 - ttkwzyttk",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/chengzp/p/20669703/stock-sdk-v2",
+          "author": null,
+          "description": "stock-sdk 历经 18 个 v1 版本、门面类膨胀至 105 个扁平 getXxx 后，于 v2 推倒重来：API 收拢为命名空间，subpath 支持按需 tree-shaking，数据契约与 SdkError 统一，normalizeSymbol 收敛符号格式，CLI/MCP/Playg...",
+          "link": "https://www.cnblogs.com/chengzp/p/20669703/stock-sdk-v2",
+          "publishedOn": "2026-06-20T10:07:00.000Z",
+          "wordCount": 1024,
+          "title": "我把那个迭代了 18 个版本的 SDK 整个掀翻重写了：stock-sdk v2 升级手记 - 程序猿的程",
+          "imageUrl": "https://img2024.cnblogs.com/blog/1265396/202606/1265396-20260620180640503-1425386195.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/hnzhengfy/p/20622068/IndexedDB",
+          "author": null,
+          "description": "本文主要介绍了结构化数据库与缓存中的 IndexedDB、Cache storage 和 Storage buckets，以及期间的区别，供参考。",
+          "link": "https://www.cnblogs.com/hnzhengfy/p/20622068/IndexedDB",
+          "publishedOn": "2026-06-20T09:38:00.000Z",
+          "wordCount": 1524,
+          "title": "浏览器缓存之【结构化数据库与缓存】： IndexedDB、Cache storage 和 Storage buckets - 橙子家",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/ifndef/p/20667197",
+          "author": null,
+          "description": "众所周知,MCU的GPIO可复用为不同的功能.那么是否可以同时使能多个功能呢?可以(当然,部分架构可能不支持) 常见示例: 模拟IIC: GPIO在开漏输出的同时可以读IDR来获得输入 无LPUART的MCU实现低功耗唤醒: 把RXD同时复用为外部中断来唤醒,但会丢失首字节 UART自动波特率识别:",
+          "link": "https://www.cnblogs.com/ifndef/p/20667197",
+          "publishedOn": "2026-06-20T06:06:00.000Z",
+          "wordCount": 714,
+          "title": "GPIO同时复用(ADC与TIM) - ifndef",
+          "imageUrl": "https://img2024.cnblogs.com/blog/2268488/202606/2268488-20260620125645728-964815251.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/jiangxinnju/p/20666852",
+          "author": null,
+          "description": "缘起 前阵子翻出一台老的便携 DVD 播放器，发现里面居然有游戏菜单。七个分类，80 多款游戏。查了一下发现这东西叫 Native32，凌阳科技的芯片方案，2005-2011 年间大量用在 DVD 播放器和车载显示器上。 游戏由 Potatoo Multimedia Studio 开发，格式是私有的",
+          "link": "https://www.cnblogs.com/jiangxinnju/p/20666852",
+          "publishedOn": "2026-06-20T05:27:00.000Z",
+          "wordCount": 1051,
+          "title": "逆向一个被遗忘的DVD游戏格式：从DES加密到Rust模拟器 - AloysHF",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/cup11/p/20314545",
+          "author": null,
+          "description": "Python 打包成 EXE 并非易事，Nuitka 虽然性能卓越，但也隐藏着不少“暗雷”。本文基于 Meta Assistant 的开发实践，解决了 Nuitka `sys.executable` 未能检测是否已打包、CI 构建失败 `FATAL: Nuitka does not work in ...",
+          "link": "https://www.cnblogs.com/cup11/p/20314545",
+          "publishedOn": "2026-06-20T05:14:00.000Z",
+          "wordCount": 701,
+          "title": "[技术复盘] Windows Python 打包实战：Nuitka 环境踩坑总结与 CI 自动化构建全指南 - cup11",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/newbe36524/p/20666681",
+          "author": null,
+          "description": "HagiCode 中 AI 提交使用的提示词：设计思路与实现拆解 当你把一堆乱七八糟的改动丢给 AI 让它帮你提交时，背后到底发了一段什么样的提示词给模型？为什么提示词要写成那个样子？这篇文章把 HagiCode 里真正驱动&quot;AI 提交&quot;的提示词拆给你看。 背景 用 AI 辅助开发这事，其实也算是经",
+          "link": "https://www.cnblogs.com/newbe36524/p/20666681",
+          "publishedOn": "2026-06-20T05:00:00.000Z",
+          "wordCount": 893,
+          "title": "HagiCode 中 AI 提交使用的提示词：设计思路与实现拆解 - Newbe36524",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/onlybwj/p/20666674",
+          "author": null,
+          "description": "换电脑后如何无缝延续 AI 辅助开发？一份手把手的迁移手册，涵盖原理、方案与避坑细节。 目录 一、为什么要迁移会话？ 二、先搞懂 Claude Code 把数据存哪了 路径编码规则（非常重要） 三、两种迁移方案 方案 A：相同路径（最简单） 方案 B：路径不同（通用方案） 实战场景 迁移包结构 四、",
+          "link": "https://www.cnblogs.com/onlybwj/p/20666674",
+          "publishedOn": "2026-06-20T04:56:00.000Z",
+          "wordCount": 759,
+          "title": "Claude Code 跨电脑会话上下文迁移完全指南（附实战案例） - only赟",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/shanyou/p/20666509",
+          "author": null,
+          "description": "一、引言 Loop Engineering 这个词最近又热起来了。 如果你从去年开始关注 AI 工程化领域的动态，大概已经习惯了这种概念迭代的节奏——Prompt Engineering 还没完全消化，Context Engineering 就登场了；Harness Engineering 的论文刚",
+          "link": "https://www.cnblogs.com/shanyou/p/20666509",
+          "publishedOn": "2026-06-20T04:29:00.000Z",
+          "wordCount": 1099,
+          "title": "从 OpenClaw.NET 的 /loop 实现，看 Loop Engineering 如何从概念走向工程实践 - 张善友",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
         {
           "id": "https://www.cnblogs.com/JulianHuang/p/20666309",
           "author": null,
@@ -10434,6 +10774,16 @@
       "feedUrl": "http://h1.nobbd.de/reports_rss.xml",
       "siteUrl": "http://h1.nobbd.de/",
       "articles": [
+        {
+          "id": "https://hackerone.com/reports/3723458",
+          "author": null,
+          "description": "Khan Academy disclosed a bug submitted by farr: https://hackerone.com/reports/3723458",
+          "link": "https://hackerone.com/reports/3723458",
+          "publishedOn": "2026-06-20T15:58:07.000Z",
+          "wordCount": 25,
+          "title": "1-Click Account Takeover via Open Redirect through Regex Bypass in Domain Validation",
+          "imageUrl": "https://profile-photos.hackerone-user-content.com/variants/000/000/134/e62a822e39ad039f23a0b89bfaaaf7bf97c5f11f_original.png/f0e07660005686ec92c43da54c0094c1ac1b490ea8c5eac04a4081d912d6ce36"
+        },
         {
           "id": "https://hackerone.com/reports/3658225",
           "author": null,
