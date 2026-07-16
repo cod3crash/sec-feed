@@ -6,6 +6,726 @@
       "siteUrl": "http://h1.nobbd.de/",
       "articles": [
         {
+          "id": "https://hackerone.com/reports/3713965",
+          "author": null,
+          "description": "GitHub disclosed a bug submitted by vaib25vicky: https://hackerone.com/reports/3713965",
+          "link": "https://hackerone.com/reports/3713965",
+          "publishedOn": "2026-07-15T16:35:57.000Z",
+          "wordCount": 25,
+          "title": "Able to bypass authorization logic and gain more access then intended",
+          "imageUrl": "https://profile-photos.hackerone-user-content.com/variants/000/001/894/1de36b69ee85cb77397b0ee01ddbabd7ed47a3dd_original.jpg/5d27521e1b671a8e8bc4f016cace6a876120e5addf7dcc35ae4a5eac091669a9"
+        },
+        {
+          "id": "https://hackerone.com/reports/3632577",
+          "author": null,
+          "description": "AWS VDP disclosed a bug submitted by mistercloudsec: https://hackerone.com/reports/3632577",
+          "link": "https://hackerone.com/reports/3632577",
+          "publishedOn": "2026-07-15T15:11:59.000Z",
+          "wordCount": 25,
+          "title": "Bedrock AgentCore Starter Toolkit Creates Gateway IAM Roles Without Confused Deputy Protections",
+          "imageUrl": "https://profile-photos.hackerone-user-content.com/variants/fgfqam8gl7lzo8u8v0kiphkxfyt8/5d27521e1b671a8e8bc4f016cace6a876120e5addf7dcc35ae4a5eac091669a9"
+        },
+        {
+          "id": "https://hackerone.com/reports/3581911",
+          "author": null,
+          "description": "Basecamp disclosed a bug submitted by newbiefromcoma: https://hackerone.com/reports/3581911 - Bounty: $337",
+          "link": "https://hackerone.com/reports/3581911",
+          "publishedOn": "2026-07-14T19:26:37.000Z",
+          "wordCount": null,
+          "title": "Stored XSS on Trix Editor version latest (2.1.16) - Sanitizer Bypass",
+          "imageUrl": null
+        },
+        {
+          "id": "https://hackerone.com/reports/3702072",
+          "author": null,
+          "description": "AWS VDP disclosed a bug submitted by mistercloudsec: https://hackerone.com/reports/3702072",
+          "link": "https://hackerone.com/reports/3702072",
+          "publishedOn": "2026-07-14T18:52:27.000Z",
+          "wordCount": null,
+          "title": "bedrock-mantle.api.aws accepts Bedrock API keys outside the IAM Deny, CloudTrail signal, and invocation logging AWS publishes for Bedrock keys",
+          "imageUrl": null
+        },
+        {
+          "id": "https://hackerone.com/reports/3780695",
+          "author": null,
+          "description": "SingleStore disclosed a bug submitted by bisht-ji: https://hackerone.com/reports/3780695",
+          "link": "https://hackerone.com/reports/3780695",
+          "publishedOn": "2026-07-13T19:35:07.000Z",
+          "wordCount": 25,
+          "title": "SELECT ... INTO OUTFILE does not enforce the FILE WRITE privilege  unprivileged arbitrary file write on the   server",
+          "imageUrl": "https://profile-photos.hackerone-user-content.com/variants/r90pntetw79njltl9vvtua70vp5v/5d27521e1b671a8e8bc4f016cace6a876120e5addf7dcc35ae4a5eac091669a9"
+        },
+        {
+          "id": "https://hackerone.com/reports/3630605",
+          "author": null,
+          "description": "AWS VDP disclosed a bug submitted by mistercloudsec: https://hackerone.com/reports/3630605",
+          "link": "https://hackerone.com/reports/3630605",
+          "publishedOn": "2026-07-09T15:31:28.000Z",
+          "wordCount": 25,
+          "title": "Kiro IDE Stores Auth Tokens with World-Readable Permissions (0644)",
+          "imageUrl": "https://profile-photos.hackerone-user-content.com/variants/fgfqam8gl7lzo8u8v0kiphkxfyt8/5d27521e1b671a8e8bc4f016cace6a876120e5addf7dcc35ae4a5eac091669a9"
+        },
+        {
+          "id": "https://hackerone.com/reports/3637898",
+          "author": null,
+          "description": "AWS VDP disclosed a bug submitted by kaporia: https://hackerone.com/reports/3637898",
+          "link": "https://hackerone.com/reports/3637898",
+          "publishedOn": "2026-07-06T17:48:30.000Z",
+          "wordCount": 25,
+          "title": "OS Command Injection in `aws-cdk-lib` NodejsFunction via Unsanitized `OsCommand` Helper (Supply Chain RCE)",
+          "imageUrl": "https://profile-photos.hackerone-user-content.com/variants/fgfqam8gl7lzo8u8v0kiphkxfyt8/5d27521e1b671a8e8bc4f016cace6a876120e5addf7dcc35ae4a5eac091669a9"
+        },
+        {
+          "id": "https://hackerone.com/reports/3764217",
+          "author": null,
+          "description": "Basecamp disclosed a bug submitted by zerodaysec_xyz: https://hackerone.com/reports/3764217 - Bounty: $287",
+          "link": "https://hackerone.com/reports/3764217",
+          "publishedOn": "2026-07-04T11:05:36.000Z",
+          "wordCount": 25,
+          "title": "Any installed app can force immediate logout and persistent DOS of authenticated Basecamp sessions via unprotected exported StartActivity",
+          "imageUrl": "https://profile-photos.hackerone-user-content.com/variants/STtZ2opgRsHdKby72xs56KhB/f0e07660005686ec92c43da54c0094c1ac1b490ea8c5eac04a4081d912d6ce36"
+        },
+        {
+          "id": "https://hackerone.com/reports/3628961",
+          "author": null,
+          "description": "Shopify disclosed a bug submitted by abahack: https://hackerone.com/reports/3628961",
+          "link": "https://hackerone.com/reports/3628961",
+          "publishedOn": "2026-07-03T18:50:06.000Z",
+          "wordCount": 25,
+          "title": "admin.shopify.com: Shopify Flow continues sending internal emails to a configured recipient after the staff author is removed",
+          "imageUrl": "https://profile-photos.hackerone-user-content.com/variants/fjjiC5585s8WoDGHv2M5okbJ/5d27521e1b671a8e8bc4f016cace6a876120e5addf7dcc35ae4a5eac091669a9"
+        },
+        {
+          "id": "https://hackerone.com/reports/3780277",
+          "author": null,
+          "description": "AWS VDP disclosed a bug submitted by nick_frichette_dd: https://hackerone.com/reports/3780277",
+          "link": "https://hackerone.com/reports/3780277",
+          "publishedOn": "2026-07-02T17:51:21.000Z",
+          "wordCount": 25,
+          "title": "Non-Production API Endpoints for the Amazon S3 Tables Service Fails to Log to CloudTrail Resulting in Silent Permission Enumeration",
+          "imageUrl": "https://profile-photos.hackerone-user-content.com/variants/fgfqam8gl7lzo8u8v0kiphkxfyt8/5d27521e1b671a8e8bc4f016cace6a876120e5addf7dcc35ae4a5eac091669a9"
+        },
+        {
+          "id": "https://hackerone.com/reports/3789570",
+          "author": null,
+          "description": "8x8 disclosed a bug submitted by pmgjoe: https://hackerone.com/reports/3789570 - Bounty: $100",
+          "link": "https://hackerone.com/reports/3789570",
+          "publishedOn": "2026-07-02T15:50:32.000Z",
+          "wordCount": 25,
+          "title": "jitsi-meet: Prosody/Jigasi missing header whitelist in mod_filter_iq_rayo allows arbitrary SIP header injection and Caller ID spoofing",
+          "imageUrl": "https://profile-photos.hackerone-user-content.com/variants/3y22a5r49ryw4d4454msmh3frrgn/eab7e558a2bc3ec841c51b96524419e712978d371ddb665048a3154ab05197fc"
+        },
+        {
+          "id": "https://hackerone.com/reports/3485343",
+          "author": null,
+          "description": "8x8 disclosed a bug submitted by r1skr1der: https://hackerone.com/reports/3485343 - Bounty: $100",
+          "link": "https://hackerone.com/reports/3485343",
+          "publishedOn": "2026-07-02T15:41:33.000Z",
+          "wordCount": 25,
+          "title": "jitsi-call-analytics: Unauthenticated arbitrary file write via path traversal in `/api/v1/uploads/analyze`",
+          "imageUrl": "https://profile-photos.hackerone-user-content.com/variants/3y22a5r49ryw4d4454msmh3frrgn/eab7e558a2bc3ec841c51b96524419e712978d371ddb665048a3154ab05197fc"
+        },
+        {
+          "id": "https://hackerone.com/reports/3766455",
+          "author": null,
+          "description": "Yelp disclosed a bug submitted by 0xmanticore: https://hackerone.com/reports/3766455",
+          "link": "https://hackerone.com/reports/3766455",
+          "publishedOn": "2026-07-02T15:36:44.000Z",
+          "wordCount": 25,
+          "title": "Yelp for Business: locked Email field silently editable via API",
+          "imageUrl": "https://profile-photos.hackerone-user-content.com/variants/000/000/545/de556165eaf2da7600f9ce75d1179281ee2d538f_original.png/f0e07660005686ec92c43da54c0094c1ac1b490ea8c5eac04a4081d912d6ce36"
+        },
+        {
+          "id": "https://hackerone.com/reports/3559522",
+          "author": null,
+          "description": "Nintendo disclosed a bug submitted by hana2736: https://hackerone.com/reports/3559522",
+          "link": "https://hackerone.com/reports/3559522",
+          "publishedOn": "2026-07-02T01:26:11.000Z",
+          "wordCount": 25,
+          "title": "Splatoon 3 In-Match Integrity Bypass via Consensus Reflection Attack on Unordered Peer Submission",
+          "imageUrl": "https://profile-photos.hackerone-user-content.com/variants/000/016/634/999cefca933756faeeb2ea39c07557943437c94f_original.png/f0e07660005686ec92c43da54c0094c1ac1b490ea8c5eac04a4081d912d6ce36"
+        },
+        {
+          "id": "https://hackerone.com/reports/3813932",
+          "author": null,
+          "description": "Nintendo disclosed a bug submitted by alzxk11: https://hackerone.com/reports/3813932",
+          "link": "https://hackerone.com/reports/3813932",
+          "publishedOn": "2026-07-02T01:25:44.000Z",
+          "wordCount": null,
+          "title": "[Splatoon 3] Kick other players with NplnLogin message",
+          "imageUrl": null
+        },
+        {
+          "id": "https://hackerone.com/reports/3295500",
+          "author": null,
+          "description": "SingleStore disclosed a bug submitted by bl4ck-: https://hackerone.com/reports/3295500",
+          "link": "https://hackerone.com/reports/3295500",
+          "publishedOn": "2026-07-01T17:42:23.000Z",
+          "wordCount": 25,
+          "title": "Exceeding the maximum number of spaces allowed by exploiting a Race Condition in the Workspace creation process",
+          "imageUrl": "https://profile-photos.hackerone-user-content.com/variants/r90pntetw79njltl9vvtua70vp5v/5d27521e1b671a8e8bc4f016cace6a876120e5addf7dcc35ae4a5eac091669a9"
+        },
+        {
+          "id": "https://hackerone.com/reports/3353057",
+          "author": null,
+          "description": "SingleStore disclosed a bug submitted by bl4ck-: https://hackerone.com/reports/3353057",
+          "link": "https://hackerone.com/reports/3353057",
+          "publishedOn": "2026-07-01T17:41:16.000Z",
+          "wordCount": null,
+          "title": "Insecure Direct Object Reference (IDOR) allows creating folders.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://hackerone.com/reports/3353035",
+          "author": null,
+          "description": "SingleStore disclosed a bug submitted by bl4ck-: https://hackerone.com/reports/3353035",
+          "link": "https://hackerone.com/reports/3353035",
+          "publishedOn": "2026-07-01T17:39:22.000Z",
+          "wordCount": 25,
+          "title": "Delete any folder for any user within the organization",
+          "imageUrl": "https://profile-photos.hackerone-user-content.com/variants/r90pntetw79njltl9vvtua70vp5v/5d27521e1b671a8e8bc4f016cace6a876120e5addf7dcc35ae4a5eac091669a9"
+        },
+        {
+          "id": "https://hackerone.com/reports/3353000",
+          "author": null,
+          "description": "SingleStore disclosed a bug submitted by bl4ck-: https://hackerone.com/reports/3353000",
+          "link": "https://hackerone.com/reports/3353000",
+          "publishedOn": "2026-07-01T17:36:56.000Z",
+          "wordCount": 25,
+          "title": "Privilege Escalation  Access to the Alert Subscribers page for users with low privileges",
+          "imageUrl": "https://profile-photos.hackerone-user-content.com/variants/r90pntetw79njltl9vvtua70vp5v/5d27521e1b671a8e8bc4f016cace6a876120e5addf7dcc35ae4a5eac091669a9"
+        },
+        {
+          "id": "https://hackerone.com/reports/3648681",
+          "author": null,
+          "description": "Node.js disclosed a bug submitted by saif-01: https://hackerone.com/reports/3648681",
+          "link": "https://hackerone.com/reports/3648681",
+          "publishedOn": "2026-07-01T15:39:11.000Z",
+          "wordCount": 25,
+          "title": "Improper Input Validation  HTTP Response Parser Unconditionally Accepts Bare CR in Status Line",
+          "imageUrl": "https://profile-photos.hackerone-user-content.com/variants/000/022/984/e600648ace4a8553247bce967d461a030aa81d49_original.png/f0e07660005686ec92c43da54c0094c1ac1b490ea8c5eac04a4081d912d6ce36"
+        },
+        {
+          "id": "https://hackerone.com/reports/3833577",
+          "author": null,
+          "description": "curl disclosed a bug submitted by carehi1324: https://hackerone.com/reports/3833577",
+          "link": "https://hackerone.com/reports/3833577",
+          "publishedOn": "2026-06-30T12:31:07.000Z",
+          "wordCount": 25,
+          "title": "heap-use-after-free in curl_easy_cleanup() called from callback",
+          "imageUrl": "https://profile-photos.hackerone-user-content.com/variants/000/035/663/2faf4c279d437d64bfda6d23d62ce1833813a4d9_original.png/f0e07660005686ec92c43da54c0094c1ac1b490ea8c5eac04a4081d912d6ce36"
+        },
+        {
+          "id": "https://hackerone.com/reports/3831432",
+          "author": null,
+          "description": "curl disclosed a bug submitted by a6b30108: https://hackerone.com/reports/3831432",
+          "link": "https://hackerone.com/reports/3831432",
+          "publishedOn": "2026-06-30T11:03:53.000Z",
+          "wordCount": 25,
+          "title": "setopt(VERIFYPEER) from callback bypasses TLS verify on connection reuse",
+          "imageUrl": "https://profile-photos.hackerone-user-content.com/variants/000/035/663/2faf4c279d437d64bfda6d23d62ce1833813a4d9_original.png/f0e07660005686ec92c43da54c0094c1ac1b490ea8c5eac04a4081d912d6ce36"
+        },
+        {
+          "id": "https://hackerone.com/reports/3826843",
+          "author": null,
+          "description": "curl disclosed a bug submitted by bigtang: https://hackerone.com/reports/3826843",
+          "link": "https://hackerone.com/reports/3826843",
+          "publishedOn": "2026-06-30T10:20:56.000Z",
+          "wordCount": null,
+          "title": "ssh_config_matches is dead code: unauthorized SSH key reuse",
+          "imageUrl": null
+        },
+        {
+          "id": "https://hackerone.com/reports/3831345",
+          "author": null,
+          "description": "curl disclosed a bug submitted by smaeljaish771: https://hackerone.com/reports/3831345",
+          "link": "https://hackerone.com/reports/3831345",
+          "publishedOn": "2026-06-30T10:20:45.000Z",
+          "wordCount": 25,
+          "title": "CURLSHOPT_UNSHARE race can cause UAF in shared SSL session cache during HTTPS transfer",
+          "imageUrl": "https://profile-photos.hackerone-user-content.com/variants/000/035/663/2faf4c279d437d64bfda6d23d62ce1833813a4d9_original.png/f0e07660005686ec92c43da54c0094c1ac1b490ea8c5eac04a4081d912d6ce36"
+        },
+        {
+          "id": "https://hackerone.com/reports/3832393",
+          "author": null,
+          "description": "curl disclosed a bug submitted by th3hound: https://hackerone.com/reports/3832393",
+          "link": "https://hackerone.com/reports/3832393",
+          "publishedOn": "2026-06-30T05:56:23.000Z",
+          "wordCount": 25,
+          "title": "libcurl upload read callbacks miss recursive API guard, allowing prohibited multi API reentry and ASAN-confirmed UAF",
+          "imageUrl": "https://profile-photos.hackerone-user-content.com/variants/000/035/663/2faf4c279d437d64bfda6d23d62ce1833813a4d9_original.png/f0e07660005686ec92c43da54c0094c1ac1b490ea8c5eac04a4081d912d6ce36"
+        },
+        {
+          "id": "https://hackerone.com/reports/3400140",
+          "author": null,
+          "description": "Discourse disclosed a bug submitted by dpaysm: https://hackerone.com/reports/3400140 - Bounty: $1024",
+          "link": "https://hackerone.com/reports/3400140",
+          "publishedOn": "2026-06-30T02:28:06.000Z",
+          "wordCount": null,
+          "title": "Denial of Service (DoS) Vulnerability in Drafts Creation Endpoint",
+          "imageUrl": null
+        },
+        {
+          "id": "https://hackerone.com/reports/3547349",
+          "author": null,
+          "description": "Monero disclosed a bug submitted by kklam32: https://hackerone.com/reports/3547349",
+          "link": "https://hackerone.com/reports/3547349",
+          "publishedOn": "2026-06-29T17:14:19.000Z",
+          "wordCount": null,
+          "title": "Inverted ternary in peerlist_manager::filter() allows unlimited whitelist entries per host via different ports",
+          "imageUrl": null
+        },
+        {
+          "id": "https://hackerone.com/reports/876530",
+          "author": null,
+          "description": "Monero disclosed a bug submitted by xnbya: https://hackerone.com/reports/876530",
+          "link": "https://hackerone.com/reports/876530",
+          "publishedOn": "2026-06-29T17:06:45.000Z",
+          "wordCount": null,
+          "title": "Remote node DOS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://hackerone.com/reports/3824303",
+          "author": null,
+          "description": "curl disclosed a bug submitted by homanp: https://hackerone.com/reports/3824303",
+          "link": "https://hackerone.com/reports/3824303",
+          "publishedOn": "2026-06-28T15:22:06.000Z",
+          "wordCount": null,
+          "title": "UAF read in mev_pollset_diff() trace path after curl_easy_pause() in socket callback",
+          "imageUrl": null
+        },
+        {
+          "id": "https://hackerone.com/reports/3823985",
+          "author": null,
+          "description": "curl disclosed a bug submitted by stze: https://hackerone.com/reports/3823985",
+          "link": "https://hackerone.com/reports/3823985",
+          "publishedOn": "2026-06-28T06:33:17.000Z",
+          "wordCount": null,
+          "title": "Use-after-free in `mev_forget_socket` when `curl_easy_pause()` is called from a `CURL_POLL_REMOVE` socket callback (incomplete fix of CVE-2026-9080)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://hackerone.com/reports/3826199",
+          "author": null,
+          "description": "curl disclosed a bug submitted by b1gtang: https://hackerone.com/reports/3826199",
+          "link": "https://hackerone.com/reports/3826199",
+          "publishedOn": "2026-06-26T14:34:52.000Z",
+          "wordCount": null,
+          "title": "mbedTLS / wolfSSL / rustls backends silently skip hostname verification when CURLOPT_SSL_VERIFYPEER=0",
+          "imageUrl": null
+        },
+        {
+          "id": "https://hackerone.com/reports/3823932",
+          "author": null,
+          "description": "curl disclosed a bug submitted by tneelc: https://hackerone.com/reports/3823932",
+          "link": "https://hackerone.com/reports/3823932",
+          "publishedOn": "2026-06-26T14:34:39.000Z",
+          "wordCount": 25,
+          "title": "CURLOPT_HAPROXY_CLIENT_IP lacks input validation, enabling HAProxy PROXY protocol injection",
+          "imageUrl": "https://profile-photos.hackerone-user-content.com/variants/000/035/663/2faf4c279d437d64bfda6d23d62ce1833813a4d9_original.png/f0e07660005686ec92c43da54c0094c1ac1b490ea8c5eac04a4081d912d6ce36"
+        },
+        {
+          "id": "https://hackerone.com/reports/3781492",
+          "author": null,
+          "description": "Revive Adserver disclosed a bug submitted by doomtech: https://hackerone.com/reports/3781492",
+          "link": "https://hackerone.com/reports/3781492",
+          "publishedOn": "2026-06-25T13:43:50.000Z",
+          "wordCount": 25,
+          "title": "PHP code injection in delivery-limitation `logical` validation bypass - XML-RPC setChannelTargeting",
+          "imageUrl": "https://profile-photos.hackerone-user-content.com/variants/000/002/367/4f47a5b4a364515d4bbdc17550d67ea5415363cd_original.png/f0e07660005686ec92c43da54c0094c1ac1b490ea8c5eac04a4081d912d6ce36"
+        },
+        {
+          "id": "https://hackerone.com/reports/3783738",
+          "author": null,
+          "description": "Revive Adserver disclosed a bug submitted by garuthacktvist: https://hackerone.com/reports/3783738",
+          "link": "https://hackerone.com/reports/3783738",
+          "publishedOn": "2026-06-25T13:43:14.000Z",
+          "wordCount": null,
+          "title": "XMLRPC login leak exposes valid session ID enabling unauthorized API access",
+          "imageUrl": null
+        },
+        {
+          "id": "https://hackerone.com/reports/3780806",
+          "author": null,
+          "description": "Revive Adserver disclosed a bug submitted by kanon4: https://hackerone.com/reports/3780806",
+          "link": "https://hackerone.com/reports/3780806",
+          "publishedOn": "2026-06-25T13:41:12.000Z",
+          "wordCount": null,
+          "title": "Reflected XSS via unsanitised refresh parameter in zone invocation tag",
+          "imageUrl": null
+        },
+        {
+          "id": "https://hackerone.com/reports/3780854",
+          "author": null,
+          "description": "Revive Adserver disclosed a bug submitted by riodrwn: https://hackerone.com/reports/3780854",
+          "link": "https://hackerone.com/reports/3780854",
+          "publishedOn": "2026-06-25T13:40:57.000Z",
+          "wordCount": 25,
+          "title": "PHP code injection in delivery-limitation `logical` validation bypass",
+          "imageUrl": "https://profile-photos.hackerone-user-content.com/variants/000/002/367/4f47a5b4a364515d4bbdc17550d67ea5415363cd_original.png/f0e07660005686ec92c43da54c0094c1ac1b490ea8c5eac04a4081d912d6ce36"
+        },
+        {
+          "id": "https://hackerone.com/reports/3781311",
+          "author": null,
+          "description": "Revive Adserver disclosed a bug submitted by an_gr_y: https://hackerone.com/reports/3781311",
+          "link": "https://hackerone.com/reports/3781311",
+          "publishedOn": "2026-06-25T13:40:45.000Z",
+          "wordCount": null,
+          "title": "Stored XSS in maintenance tools via unescaped entity names",
+          "imageUrl": null
+        },
+        {
+          "id": "https://hackerone.com/reports/3781691",
+          "author": null,
+          "description": "Revive Adserver disclosed a bug submitted by an_gr_y: https://hackerone.com/reports/3781691",
+          "link": "https://hackerone.com/reports/3781691",
+          "publishedOn": "2026-06-25T13:40:31.000Z",
+          "wordCount": null,
+          "title": "CSRF in zoneinclude.php allows unauthorized banner and campaign linking",
+          "imageUrl": null
+        },
+        {
+          "id": "https://hackerone.com/reports/3780709",
+          "author": null,
+          "description": "Revive Adserver disclosed a bug submitted by hakuopi: https://hackerone.com/reports/3780709",
+          "link": "https://hackerone.com/reports/3780709",
+          "publishedOn": "2026-06-25T13:40:14.000Z",
+          "wordCount": null,
+          "title": "Missing ownership validation allows crossmanager trackercampaign linking",
+          "imageUrl": null
+        },
+        {
+          "id": "https://hackerone.com/reports/3793243",
+          "author": null,
+          "description": "Revive Adserver disclosed a bug submitted by kanon4: https://hackerone.com/reports/3793243",
+          "link": "https://hackerone.com/reports/3793243",
+          "publishedOn": "2026-06-25T13:39:58.000Z",
+          "wordCount": null,
+          "title": "Reflected XSS in statsvideo.php via improperly encoded URL parameters",
+          "imageUrl": null
+        },
+        {
+          "id": "https://hackerone.com/reports/3582376",
+          "author": null,
+          "description": "Node.js disclosed a bug submitted by yushengchen: https://hackerone.com/reports/3582376",
+          "link": "https://hackerone.com/reports/3582376",
+          "publishedOn": "2026-06-25T05:03:24.000Z",
+          "wordCount": null,
+          "title": "HTTP Response Queue Poisoning via TOCTOU Race Condition in `http.Agent`",
+          "imageUrl": null
+        },
+        {
+          "id": "https://hackerone.com/reports/3618831",
+          "author": null,
+          "description": "Node.js disclosed a bug submitted by cyberjoker: https://hackerone.com/reports/3618831",
+          "link": "https://hackerone.com/reports/3618831",
+          "publishedOn": "2026-06-25T05:03:07.000Z",
+          "wordCount": 25,
+          "title": "Unix domain socket server bypasses --permission network restrictions (incomplete CVE-2026-21636 fix)",
+          "imageUrl": "https://profile-photos.hackerone-user-content.com/variants/000/022/984/e600648ace4a8553247bce967d461a030aa81d49_original.png/f0e07660005686ec92c43da54c0094c1ac1b490ea8c5eac04a4081d912d6ce36"
+        },
+        {
+          "id": "https://hackerone.com/reports/3688064",
+          "author": null,
+          "description": "Node.js disclosed a bug submitted by tmeletlidis: https://hackerone.com/reports/3688064",
+          "link": "https://hackerone.com/reports/3688064",
+          "publishedOn": "2026-06-25T05:02:01.000Z",
+          "wordCount": null,
+          "title": "Node.js unicode dot separator handling can lead to tls wildcard-depth authentication bypass due to resolver and verifier hostname normalization mismat",
+          "imageUrl": null
+        },
+        {
+          "id": "https://hackerone.com/reports/3656869",
+          "author": null,
+          "description": "Node.js disclosed a bug submitted by tmeletlidis: https://hackerone.com/reports/3656869",
+          "link": "https://hackerone.com/reports/3656869",
+          "publishedOn": "2026-06-25T05:01:31.000Z",
+          "wordCount": null,
+          "title": "Uppercase sni context matching can lead to mtls authorization bypass due to case-sensitive hostname matching",
+          "imageUrl": null
+        },
+        {
+          "id": "https://hackerone.com/reports/3649802",
+          "author": null,
+          "description": "Node.js disclosed a bug submitted by 3d7omb: https://hackerone.com/reports/3649802",
+          "link": "https://hackerone.com/reports/3649802",
+          "publishedOn": "2026-06-25T05:01:01.000Z",
+          "wordCount": null,
+          "title": "TLS host identity verification bypass via session reuse with different servername leads to unauthorized connections",
+          "imageUrl": null
+        },
+        {
+          "id": "https://hackerone.com/reports/3625987",
+          "author": null,
+          "description": "Node.js disclosed a bug submitted by muhammaddaffa: https://hackerone.com/reports/3625987",
+          "link": "https://hackerone.com/reports/3625987",
+          "publishedOn": "2026-06-25T05:00:38.000Z",
+          "wordCount": null,
+          "title": "Permission Model bypass via FileHandle.utimes() in the promises API",
+          "imageUrl": null
+        },
+        {
+          "id": "https://hackerone.com/reports/3720313",
+          "author": null,
+          "description": "Node.js disclosed a bug submitted by nssys: https://hackerone.com/reports/3720313",
+          "link": "https://hackerone.com/reports/3720313",
+          "publishedOn": "2026-06-25T05:00:10.000Z",
+          "wordCount": 25,
+          "title": "Proxy credentials leaked in ERR_PROXY_TUNNEL error message",
+          "imageUrl": "https://profile-photos.hackerone-user-content.com/variants/000/022/984/e600648ace4a8553247bce967d461a030aa81d49_original.png/f0e07660005686ec92c43da54c0094c1ac1b490ea8c5eac04a4081d912d6ce36"
+        },
+        {
+          "id": "https://hackerone.com/reports/3676863",
+          "author": null,
+          "description": "Node.js disclosed a bug submitted by kingsd: https://hackerone.com/reports/3676863",
+          "link": "https://hackerone.com/reports/3676863",
+          "publishedOn": "2026-06-25T04:59:45.000Z",
+          "wordCount": null,
+          "title": "Unbounded memory growth in `node:http2` clients via attacker-controlled ORIGIN frames",
+          "imageUrl": null
+        },
+        {
+          "id": "https://hackerone.com/reports/3656716",
+          "author": null,
+          "description": "Node.js disclosed a bug submitted by tmeletlidis: https://hackerone.com/reports/3656716",
+          "link": "https://hackerone.com/reports/3656716",
+          "publishedOn": "2026-06-25T04:59:17.000Z",
+          "wordCount": null,
+          "title": "Embedded-nul hostnames can lead to silent authority rebinding due to c-string truncation in resolver bindings",
+          "imageUrl": null
+        },
+        {
+          "id": "https://hackerone.com/reports/3760016",
+          "author": null,
+          "description": "Node.js disclosed a bug submitted by erichen: https://hackerone.com/reports/3760016",
+          "link": "https://hackerone.com/reports/3760016",
+          "publishedOn": "2026-06-25T04:58:47.000Z",
+          "wordCount": null,
+          "title": "Node.js WebCrypto AES Integer Overflow Leads to Remote Process Abort (DoS)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://hackerone.com/reports/3735180",
+          "author": null,
+          "description": "curl disclosed a bug submitted by zhenyan: https://hackerone.com/reports/3735180",
+          "link": "https://hackerone.com/reports/3735180",
+          "publishedOn": "2026-06-24T08:31:04.000Z",
+          "wordCount": null,
+          "title": "HTTPS proxy connection reuse lets one easy handle inherit another handle's mTLS-authenticated proxy session",
+          "imageUrl": null
+        },
+        {
+          "id": "https://hackerone.com/reports/3788984",
+          "author": null,
+          "description": "curl disclosed a bug submitted by bagder: https://hackerone.com/reports/3788984",
+          "link": "https://hackerone.com/reports/3788984",
+          "publishedOn": "2026-06-24T08:30:15.000Z",
+          "wordCount": null,
+          "title": "CVE-2026-11564: Native CA trust persist",
+          "imageUrl": null
+        },
+        {
+          "id": "https://hackerone.com/reports/3797526",
+          "author": null,
+          "description": "curl disclosed a bug submitted by alienowo: https://hackerone.com/reports/3797526",
+          "link": "https://hackerone.com/reports/3797526",
+          "publishedOn": "2026-06-24T08:29:28.000Z",
+          "wordCount": 25,
+          "title": "CVE-2026-12064: proto-default skips SSH verification",
+          "imageUrl": "https://profile-photos.hackerone-user-content.com/variants/000/035/663/2faf4c279d437d64bfda6d23d62ce1833813a4d9_original.png/f0e07660005686ec92c43da54c0094c1ac1b490ea8c5eac04a4081d912d6ce36"
+        },
+        {
+          "id": "https://hackerone.com/reports/3788931",
+          "author": null,
+          "description": "curl disclosed a bug submitted by evergarden1123: https://hackerone.com/reports/3788931",
+          "link": "https://hackerone.com/reports/3788931",
+          "publishedOn": "2026-06-24T08:29:15.000Z",
+          "wordCount": null,
+          "title": "CVE-2026-11586: WS Auto-PONG memory exhaustion",
+          "imageUrl": null
+        },
+        {
+          "id": "https://hackerone.com/reports/3783438",
+          "author": null,
+          "description": "curl disclosed a bug submitted by vectorqueue: https://hackerone.com/reports/3783438",
+          "link": "https://hackerone.com/reports/3783438",
+          "publishedOn": "2026-06-24T08:29:05.000Z",
+          "wordCount": null,
+          "title": "CVE-2026-11352: QUIC zero-length UDP datagrams busy-loop",
+          "imageUrl": null
+        },
+        {
+          "id": "https://hackerone.com/reports/3751697",
+          "author": null,
+          "description": "curl disclosed a bug submitted by giant_anteater: https://hackerone.com/reports/3751697",
+          "link": "https://hackerone.com/reports/3751697",
+          "publishedOn": "2026-06-24T08:28:55.000Z",
+          "wordCount": null,
+          "title": "CVE-2026-10536: HTTP/2 stream-dependency tree UAF",
+          "imageUrl": null
+        },
+        {
+          "id": "https://hackerone.com/reports/3733905",
+          "author": null,
+          "description": "curl disclosed a bug submitted by vegagent: https://hackerone.com/reports/3733905",
+          "link": "https://hackerone.com/reports/3733905",
+          "publishedOn": "2026-06-24T08:28:44.000Z",
+          "wordCount": null,
+          "title": "CVE-2026-8924: trailing dot domain super cookie",
+          "imageUrl": null
+        },
+        {
+          "id": "https://hackerone.com/reports/3751712",
+          "author": null,
+          "description": "curl disclosed a bug submitted by giant_anteater: https://hackerone.com/reports/3751712",
+          "link": "https://hackerone.com/reports/3751712",
+          "publishedOn": "2026-06-24T08:27:32.000Z",
+          "wordCount": null,
+          "title": "CVE-2026-9547: SSH improper host validation",
+          "imageUrl": null
+        },
+        {
+          "id": "https://hackerone.com/reports/3754343",
+          "author": null,
+          "description": "curl disclosed a bug submitted by fafawf: https://hackerone.com/reports/3754343",
+          "link": "https://hackerone.com/reports/3754343",
+          "publishedOn": "2026-06-24T08:27:22.000Z",
+          "wordCount": 25,
+          "title": "CVE-2026-9546: sending old referer",
+          "imageUrl": "https://profile-photos.hackerone-user-content.com/variants/000/035/663/2faf4c279d437d64bfda6d23d62ce1833813a4d9_original.png/f0e07660005686ec92c43da54c0094c1ac1b490ea8c5eac04a4081d912d6ce36"
+        },
+        {
+          "id": "https://hackerone.com/reports/3750295",
+          "author": null,
+          "description": "curl disclosed a bug submitted by keen4n: https://hackerone.com/reports/3750295",
+          "link": "https://hackerone.com/reports/3750295",
+          "publishedOn": "2026-06-24T08:26:56.000Z",
+          "wordCount": null,
+          "title": "CVE-2026-9079: stale proxy password leak",
+          "imageUrl": null
+        },
+        {
+          "id": "https://hackerone.com/reports/3749204",
+          "author": null,
+          "description": "curl disclosed a bug submitted by giant_anteater: https://hackerone.com/reports/3749204",
+          "link": "https://hackerone.com/reports/3749204",
+          "publishedOn": "2026-06-24T08:25:17.000Z",
+          "wordCount": null,
+          "title": "CVE-2026-9080: UAF after pause in socket callback",
+          "imageUrl": null
+        },
+        {
+          "id": "https://hackerone.com/reports/3718195",
+          "author": null,
+          "description": "curl disclosed a bug submitted by bagder: https://hackerone.com/reports/3718195",
+          "link": "https://hackerone.com/reports/3718195",
+          "publishedOn": "2026-06-24T08:25:05.000Z",
+          "wordCount": null,
+          "title": "CVE-2026-8286: wrong STARTTLS connection reuse",
+          "imageUrl": null
+        },
+        {
+          "id": "https://hackerone.com/reports/3733910",
+          "author": null,
+          "description": "curl disclosed a bug submitted by giant_anteater: https://hackerone.com/reports/3733910",
+          "link": "https://hackerone.com/reports/3733910",
+          "publishedOn": "2026-06-24T08:25:03.000Z",
+          "wordCount": null,
+          "title": "CVE-2026-8932: incomplete mTLS config matching in conn reuse",
+          "imageUrl": null
+        },
+        {
+          "id": "https://hackerone.com/reports/3744543",
+          "author": null,
+          "description": "curl disclosed a bug submitted by adyej: https://hackerone.com/reports/3744543",
+          "link": "https://hackerone.com/reports/3744543",
+          "publishedOn": "2026-06-24T08:24:47.000Z",
+          "wordCount": 25,
+          "title": "CVE-2026-8927: env-set cross-proxy Digest auth state leak",
+          "imageUrl": "https://profile-photos.hackerone-user-content.com/variants/000/035/663/2faf4c279d437d64bfda6d23d62ce1833813a4d9_original.png/f0e07660005686ec92c43da54c0094c1ac1b490ea8c5eac04a4081d912d6ce36"
+        },
+        {
+          "id": "https://hackerone.com/reports/3735193",
+          "author": null,
+          "description": "curl disclosed a bug submitted by giant_anteater: https://hackerone.com/reports/3735193",
+          "link": "https://hackerone.com/reports/3735193",
+          "publishedOn": "2026-06-24T08:23:35.000Z",
+          "wordCount": 25,
+          "title": "CVE-2026-8925: SASL double-free",
+          "imageUrl": "https://profile-photos.hackerone-user-content.com/variants/000/035/663/2faf4c279d437d64bfda6d23d62ce1833813a4d9_original.png/f0e07660005686ec92c43da54c0094c1ac1b490ea8c5eac04a4081d912d6ce36"
+        },
+        {
+          "id": "https://hackerone.com/reports/3735184",
+          "author": null,
+          "description": "curl disclosed a bug submitted by giant_anteater: https://hackerone.com/reports/3735184",
+          "link": "https://hackerone.com/reports/3735184",
+          "publishedOn": "2026-06-24T08:23:22.000Z",
+          "wordCount": null,
+          "title": "CVE-2026-8926: password leak with netrc and user in URL",
+          "imageUrl": null
+        },
+        {
+          "id": "https://hackerone.com/reports/3721183",
+          "author": null,
+          "description": "curl disclosed a bug submitted by areksaxyz: https://hackerone.com/reports/3721183",
+          "link": "https://hackerone.com/reports/3721183",
+          "publishedOn": "2026-06-24T08:23:10.000Z",
+          "wordCount": null,
+          "title": "CVE-2026-8458: wrong reuse for different services",
+          "imageUrl": null
+        },
+        {
+          "id": "https://hackerone.com/reports/3384615",
+          "author": null,
+          "description": "SingleStore disclosed a bug submitted by axolot23: https://hackerone.com/reports/3384615",
+          "link": "https://hackerone.com/reports/3384615",
+          "publishedOn": "2026-06-24T07:03:12.000Z",
+          "wordCount": 25,
+          "title": "Insufficient checks in the file path parameter allow writing to unauthorized directories",
+          "imageUrl": "https://profile-photos.hackerone-user-content.com/variants/r90pntetw79njltl9vvtua70vp5v/5d27521e1b671a8e8bc4f016cace6a876120e5addf7dcc35ae4a5eac091669a9"
+        },
+        {
+          "id": "https://hackerone.com/reports/3752888",
+          "author": null,
+          "description": "curl disclosed a bug submitted by hahahkim: https://hackerone.com/reports/3752888",
+          "link": "https://hackerone.com/reports/3752888",
+          "publishedOn": "2026-06-24T06:24:17.000Z",
+          "wordCount": null,
+          "title": "CVE-2026-9545: exposing HTTP/3 early data",
+          "imageUrl": null
+        },
+        {
+          "id": "https://hackerone.com/reports/3793260",
+          "author": null,
+          "description": "curl disclosed a bug submitted by jjchuck: https://hackerone.com/reports/3793260",
+          "link": "https://hackerone.com/reports/3793260",
+          "publishedOn": "2026-06-24T06:21:56.000Z",
+          "wordCount": null,
+          "title": "CVE-2026-11856: cross-origin Digest auth state leak",
+          "imageUrl": null
+        },
+        {
+          "id": "https://hackerone.com/reports/3734676",
+          "author": null,
+          "description": "Mozilla disclosed a bug submitted by anshuman_bh: https://hackerone.com/reports/3734676 - Bounty: $2000",
+          "link": "https://hackerone.com/reports/3734676",
+          "publishedOn": "2026-06-23T12:37:52.000Z",
+          "wordCount": null,
+          "title": "Taskcluster web-server OAuth2 authorization codes are reusable and the exchange handler checks the wrong expiry column",
+          "imageUrl": null
+        },
+        {
+          "id": "https://hackerone.com/reports/3817602",
+          "author": null,
+          "description": "Node.js disclosed a bug submitted by yottt: https://hackerone.com/reports/3817602",
+          "link": "https://hackerone.com/reports/3817602",
+          "publishedOn": "2026-06-23T09:53:20.000Z",
+          "wordCount": null,
+          "title": "Node --run POSIX positional argument escaping allows shell command injection",
+          "imageUrl": null
+        },
+        {
           "id": "https://hackerone.com/reports/3723458",
           "author": null,
           "description": "Khan Academy disclosed a bug submitted by farr: https://hackerone.com/reports/3723458",
@@ -1473,6 +2193,106 @@
       "siteUrl": "https://infosecwriteups.com?source=rss----7b722bfd1b8d---4",
       "articles": [
         {
+          "id": "https://medium.com/p/3caf2a7efb45",
+          "author": "Huzaifa Malik",
+          "description": "Easy level Tryhackme CTF challenge to test your enumeration, basic exploitation and Privilege Escalation skills",
+          "link": "https://infosecwriteups.com/lookup-tryhackme-walkthrough-3caf2a7efb45?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2026-07-07T11:36:26.000Z",
+          "wordCount": 3846,
+          "title": "Lookup: TryHackMe CTF Walkthrough",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:986/1*3aT7PfFEAjKiOdieKbrNlw.png"
+        },
+        {
+          "id": "https://medium.com/p/d951fa31f964",
+          "author": "Rishu Ranjan",
+          "description": "Paste a token, get a full attack plan — then execute it, entirely offline.\nContinue reading on InfoSec Write-ups »",
+          "link": "https://infosecwriteups.com/jwtweak-v2-1-a-guided-offline-toolkit-for-modern-jwt-attacks-d951fa31f964?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2026-07-07T11:35:53.000Z",
+          "wordCount": 2063,
+          "title": "JWTweak v2.1: A Guided, Offline Toolkit for Modern JWT Attacks",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1178/1*yQ3_Ty53v6UbFKMsn9XXwg.png"
+        },
+        {
+          "id": "https://medium.com/p/90d568038414",
+          "author": "Alvin Ferdiansyah",
+          "description": "Firebase security rules are opt-in. The default, for every new database & storage bucket, is wide open. This is the writeup of a…",
+          "link": "https://infosecwriteups.com/no-rules-no-locks-firebase-misconfiguration-and-the-borrowers-it-left-behind-90d568038414?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2026-07-07T11:35:41.000Z",
+          "wordCount": 9011,
+          "title": "No Rules, No Locks: Firebase Misconfiguration and the Borrowers It Left Behind",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*WrD1mgShGttnp0KMG6MrLQ.png"
+        },
+        {
+          "id": "https://medium.com/p/bfaece6c3805",
+          "author": "Alvin Ferdiansyah",
+          "description": "A POST to IMDS may fail — but a redirect can quietly turn it into something else.",
+          "link": "https://infosecwriteups.com/the-http-303-hack-from-python-http-client-defaults-to-aws-credential-exfiltration-a-deep-dive-bfaece6c3805?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2026-07-07T11:35:22.000Z",
+          "wordCount": 7402,
+          "title": "The HTTP 303 SSRF Hack : From Python HTTP Client Defaults to AWS Credential Exfiltration.",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:640/0*NCA12wxa9E9fNJ6A.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/6c1a7095f8e1",
+          "author": "Alvin Ferdiansyah",
+          "description": "One click, eight seconds, nine webhook hits. It started with a single bracket character that broke an Akamai WAF rule.",
+          "link": "https://infosecwriteups.com/chaining-a-dom-xss-sink-waf-bypass-cross-origin-smuggling-and-sdk-abuse-into-one-click-account-6c1a7095f8e1?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2026-07-07T11:35:07.000Z",
+          "wordCount": 5265,
+          "title": "Chaining a DOM XSS Sink, WAF Bypass, Cross-Origin Smuggling, and SDK Abuse into One Click Account…",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:912/1*_osiOoYxPpI6pOCZ1NMMxw.png"
+        },
+        {
+          "id": "https://medium.com/p/0f2c84223bbb",
+          "author": "Indigo Shadow",
+          "description": "Understanding what is delegated Managed Service Accounts in Windows Server 2025, and how an unpatched system may be exploited for Privilege…",
+          "link": "https://infosecwriteups.com/badsuccessor-exploiting-delegated-managed-service-accounts-in-windows-server-2025-0f2c84223bbb?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2026-07-07T11:34:55.000Z",
+          "wordCount": 5229,
+          "title": "BadSuccessor — Exploiting delegated Managed Service Accounts in Windows Server 2025",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:945/1*TjuQqGfFdYrha8cKYDfPug.png"
+        },
+        {
+          "id": "https://medium.com/p/269e384f3fa7",
+          "author": "Aishat Olayinka Yusuf",
+          "description": "Overview",
+          "link": "https://infosecwriteups.com/wazuh-file-integrity-monitoring-tracking-endpoint-modifications-in-real-time-269e384f3fa7?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2026-07-06T06:34:23.000Z",
+          "wordCount": 2779,
+          "title": "Wazuh File Integrity Monitoring: Tracking Endpoint Modifications in Real Time",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*BqYTVh5qn5LCmGvzoPlpMA.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/57037fdc9714",
+          "author": "MD Mehedi Hasan",
+          "description": "Every bug bounty hunter has curl installed. Few use it to its full potential. While Burp Suite and custom scripts get the limelight, curl…\nContinue reading on InfoSec Write-ups »",
+          "link": "https://infosecwriteups.com/mastering-curl-commands-bug-bounty-hunters-guide-57037fdc9714?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2026-07-06T06:30:13.000Z",
+          "wordCount": 1993,
+          "title": "Mastering curl Commands Bug Bounty Hunter's Guide",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*6LskC7VblBQf9Xe_TVUUkQ.png"
+        },
+        {
+          "id": "https://medium.com/p/5eb2be4c1f8e",
+          "author": "Alvin Ferdiansyah",
+          "description": "No customer support call. No re-verification.",
+          "link": "https://infosecwriteups.com/mass-assignment-and-the-identity-drift-from-profile-edit-to-insurance-takeover-5eb2be4c1f8e?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2026-07-06T06:29:11.000Z",
+          "wordCount": 4711,
+          "title": "Mass Assignment and the Identity Drift: From Profile Edit to Insurance Takeover",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*rxetdK2Ww9DfrKGHBtnmmA.png"
+        },
+        {
+          "id": "https://medium.com/p/20dbb8161dd8",
+          "author": "Alvin Ferdiansyah",
+          "description": "Most people know XXE. Few think to look for it inside a spreadsheet upload. But beneath every .xlsx is really a ZIP archive full of XML…",
+          "link": "https://infosecwriteups.com/the-file-that-answered-back-xxe-hidden-in-cell-a2-20dbb8161dd8?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2026-07-06T06:28:59.000Z",
+          "wordCount": 5897,
+          "title": "The File That Answered Back — XXE Hidden in Cell A2",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*O29aTyx3TXMUBqM2BvQ3eA.png"
+        },
+        {
           "id": "https://medium.com/p/040bd636a7f3",
           "author": "Avyukt Security",
           "description": "",
@@ -2389,6 +3209,106 @@
       "feedUrl": "https://medium.com/feed/tag/bugbounty",
       "siteUrl": "https://medium.com/tag/bugbounty/latest?source=rss------bugbounty-5",
       "articles": [
+        {
+          "id": "https://medium.com/p/2c299d3e2826",
+          "author": "Hackers Things",
+          "description": "The reconnaissance methods that help security professionals map attack surfaces before a single exploit is launched.\nContinue reading on InfoSec-Writes Up »",
+          "link": "https://medium.com/infosec-writes-up/10-recon-techniques-every-pentester-should-master-2c299d3e2826?source=rss------bugbounty-5",
+          "publishedOn": "2026-07-15T19:03:00.000Z",
+          "wordCount": null,
+          "title": "10 Recon Techniques Every Pentester Should Master in 2026",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/6b4ac536652c",
+          "author": "sunny561",
+          "description": "“Every bug hunter dreams of finding that one small clue that leads to something much bigger.”\nContinue reading on Medium »",
+          "link": "https://medium.com/@sunny561/how-a-simple-s3-bucket-misconfiguration-turned-into-a-security-assessment-6b4ac536652c?source=rss------bugbounty-5",
+          "publishedOn": "2026-07-15T16:10:56.000Z",
+          "wordCount": null,
+          "title": "How a Simple S3 Bucket Misconfiguration Turned into a Security Assessment",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/c32d51cf886e",
+          "author": "Abhishek meena",
+          "description": "A $1,024 bug hidden inside the most ignored endpoint on the platform — and the mistake every developer makes without knowing it.\nContinue reading on InfoSec Write-ups »",
+          "link": "https://infosecwriteups.com/the-endpoint-everyone-ignored-just-took-down-a-server-c32d51cf886e?source=rss------bugbounty-5",
+          "publishedOn": "2026-07-15T15:14:54.000Z",
+          "wordCount": null,
+          "title": "The Endpoint Everyone Ignored Just Took Down a Server",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/fc4bad7bc1db",
+          "author": "Gokul",
+          "description": "A cautionary tale about snacks, curiosity, and why you should never F12 near a vending machine.\nContinue reading on Medium »",
+          "link": "https://medium.com/@gokul965/i-just-wanted-a-cold-coffee-instead-i-found-a-master-key-to-a-vending-machine-empire-fc4bad7bc1db?source=rss------bugbounty-5",
+          "publishedOn": "2026-07-15T12:56:40.000Z",
+          "wordCount": null,
+          "title": "I Just Wanted a Cold Coffee. Instead I Found a Master Key to a Vending Machine Empire.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/d83f6b7d54aa",
+          "author": "Aya Ayman(GERR4Y)",
+          "description": "بسم الله والصلاة والسلام على رسول الله الحمد لله الذي علم بالقلم علم الإنسان ما لم يعلم والصلاة والسلام على خير معلم الناس الخير محمد\nContinue reading on Medium »",
+          "link": "https://medium.com/@GERRR4Y/how-automatic-link-generation-in-transactional-emails-can-introduce-security-risks-d83f6b7d54aa?source=rss------bugbounty-5",
+          "publishedOn": "2026-07-15T12:49:59.000Z",
+          "wordCount": null,
+          "title": "How Automatic Link Generation in Transactional Emails Can Introduce Security Risks",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/51a87c4fa4f7",
+          "author": "Radha Vidhale",
+          "description": "n recent days, reports have emerged regarding a security vulnerability in the UMANG (Unified Mobile Application for New-age Governance)…\nContinue reading on Medium »",
+          "link": "https://medium.com/@radhavidhale4/umang-app-vulnerability-why-responsible-disclosure-matters-more-than-headlines-51a87c4fa4f7?source=rss------bugbounty-5",
+          "publishedOn": "2026-07-15T12:40:12.000Z",
+          "wordCount": null,
+          "title": "UMANG App Vulnerability: Why Responsible Disclosure Matters More Than Headlines",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/c0d127b69c2f",
+          "author": "Aman Sharma",
+          "description": "Day 2: The Heart of HTTP — Interacting with Web Applications Like a Pro\nContinue reading on Python in Plain English »",
+          "link": "https://python.plainenglish.io/python-web-penetration-testing-c0d127b69c2f?source=rss------bugbounty-5",
+          "publishedOn": "2026-07-15T12:34:49.000Z",
+          "wordCount": 1758,
+          "title": "Python Web Penetration Testing",
+          "imageUrl": "https://miro.medium.com/v2/resize:fill:1200:632/g:fp:0.5:0.02/1*rkmwYN2nl7Rz75OF-0dn8A.png"
+        },
+        {
+          "id": "https://medium.com/p/c7ac4944cd5d",
+          "author": "Nitin yadav",
+          "description": "Hey friends! Nitin here 👋\nContinue reading on Medium »",
+          "link": "https://kd-200.medium.com/my-weirdest-finding-a-race-condition-story-c7ac4944cd5d?source=rss------bugbounty-5",
+          "publishedOn": "2026-07-15T11:31:00.000Z",
+          "wordCount": 1771,
+          "title": "My Weirdest Finding: A Race Condition Story",
+          "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*_N62-Dqjx60qfqhR"
+        },
+        {
+          "id": "https://medium.com/p/0908cad58c3f",
+          "author": "Ali Hack Tech",
+          "description": "AHT Cracker\nContinue reading on Medium »",
+          "link": "https://medium.com/@aht.comm/aht-cracker-password-cracking-tool-gui-mode-by-ali-hack-tech-0908cad58c3f?source=rss------bugbounty-5",
+          "publishedOn": "2026-07-15T11:18:44.000Z",
+          "wordCount": null,
+          "title": "AHT Cracker | Password Cracking Tool GUI Mode | by Ali Hack Tech.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/20b8b838c71c",
+          "author": "OWL",
+          "description": "Introduction\nContinue reading on Medium »",
+          "link": "https://medium.com/@omaralgbry1/when-removed-doesnt-mean-removed-finding-an-authorization-revocation-bug-20b8b838c71c?source=rss------bugbounty-5",
+          "publishedOn": "2026-07-15T10:09:02.000Z",
+          "wordCount": null,
+          "title": "When “Removed” Doesn’t Mean Removed: Finding an Authorization Revocation Bug",
+          "imageUrl": null
+        },
         {
           "id": "https://medium.com/p/4513d86a4040",
           "author": "Masood Nfc",
@@ -4307,6 +5227,106 @@
       "siteUrl": "https://medium.com/tag/redteam/latest?source=rss------redteam-5",
       "articles": [
         {
+          "id": "https://medium.com/p/69f3b10a1b55",
+          "author": "NASRALLAH SALEH (Xiro0x)",
+          "description": "Introduction\nContinue reading on Medium »",
+          "link": "https://medium.com/@Xiro0x01/active-directory-fundamentals-complete-beginner-notes-69f3b10a1b55?source=rss------redteam-5",
+          "publishedOn": "2026-07-15T21:30:43.000Z",
+          "wordCount": null,
+          "title": "Active Directory Fundamentals — Complete Beginner Notes",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/a5872771675c",
+          "author": "BURAK BALTA",
+          "description": "# Bina Erişim Güvenliğinde RFID: Teknoloji, Tehditler ve Azaltma\nContinue reading on Medium »",
+          "link": "https://medium.com/@082220004/rfid-a5872771675c?source=rss------redteam-5",
+          "publishedOn": "2026-07-15T17:51:49.000Z",
+          "wordCount": null,
+          "title": "RFID",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/608ab4d441e5",
+          "author": "Zeliha Zengin",
+          "description": "Hello everyone!\nContinue reading on Medium »",
+          "link": "https://medium.com/@zeliharich/thm-brute-it-608ab4d441e5?source=rss------redteam-5",
+          "publishedOn": "2026-07-15T16:27:43.000Z",
+          "wordCount": null,
+          "title": "THM Brute It",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/18aa7626d75a",
+          "author": "Avro",
+          "description": "Overview\nContinue reading on Medium »",
+          "link": "https://medium.com/@ItsTHEAvro/crta-lab-writeup-from-web-shell-to-domain-admin-18aa7626d75a?source=rss------redteam-5",
+          "publishedOn": "2026-07-15T14:30:29.000Z",
+          "wordCount": null,
+          "title": "CRTA Lab Writeup: From Web Shell to Domain Admin",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/582a78b60492",
+          "author": "Luke Paris",
+          "description": "TL;DR: it was possible to obtain NT AUTHORITY\\SYSTEM privileges from the perspective of an unprivileged user using Foxit PDF Reader. The…\nContinue reading on Paradoxis »",
+          "link": "https://blog.paradoxis.nl/escalating-all-the-privileges-with-foxit-pdf-reader-cve-2026-57239-582a78b60492?source=rss------redteam-5",
+          "publishedOn": "2026-07-15T07:56:26.000Z",
+          "wordCount": 8212,
+          "title": "Escalating All The Privileges With Foxit PDF Reader (CVE-2026–57239)",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*klOgj9t_ZzJ7C583ySQMvg.png"
+        },
+        {
+          "id": "https://medium.com/p/79082dada876",
+          "author": "Stavinfernandes",
+          "description": "What Is a Reverse Shell?\nContinue reading on Medium »",
+          "link": "https://medium.com/@stavinfernandes2098/how-hard-is-it-to-build-a-reverse-shell-in-python-79082dada876?source=rss------redteam-5",
+          "publishedOn": "2026-07-15T04:31:05.000Z",
+          "wordCount": null,
+          "title": "How Hard Is It to Build a Reverse Shell in Python?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/0f0b218112cc",
+          "author": "Aenosh Rajora",
+          "description": "Every model talks. Not every model can be trusted to keep a secret, refuse a malicious instruction, or resist a stranger whispering new…\nContinue reading on InfoSec Write-ups »",
+          "link": "https://infosecwriteups.com/the-ai-security-cheat-sheet-in-2026-cyber-codex-0f0b218112cc?source=rss------redteam-5",
+          "publishedOn": "2026-07-14T17:18:04.000Z",
+          "wordCount": 6863,
+          "title": "The AI Security Cheat Sheet in 2026 | Cyber Codex",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*V3sPFlF_2w4yqmU8Dm44HQ.png"
+        },
+        {
+          "id": "https://medium.com/p/fb6eee5ee048",
+          "author": "Muhammad Usman Faridi",
+          "description": "A Hack Smarter Labs walkthrough\nContinue reading on Medium »",
+          "link": "https://medium.com/@usman786faridi/hack-smarter-labs-dark-from-unauthenticated-wordpress-bug-to-root-fb6eee5ee048?source=rss------redteam-5",
+          "publishedOn": "2026-07-14T15:59:07.000Z",
+          "wordCount": null,
+          "title": "Hack Smarter Labs — Dark: From Unauthenticated WordPress Bug to Root",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/3aa28a3af4df",
+          "author": "Dzianis Skliar",
+          "description": "You can do everything right with multi-factor authentication and still leave a door wide open. Not through a clever bypass or a zero-day…\nContinue reading on Medium »",
+          "link": "https://medium.com/@dzianisskliar29/how-leaked-service-account-credentials-bypass-mfa-3aa28a3af4df?source=rss------redteam-5",
+          "publishedOn": "2026-07-14T15:31:09.000Z",
+          "wordCount": null,
+          "title": "How Leaked Service Account Credentials Bypass MFA",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/531c7be05c67",
+          "author": "Farid Narimanov",
+          "description": "A hands-on journey through AWS, Azure, and GCP red teaming — SSRF, RCE, IAM privilege mapping, and cloud metadata abuse.\nContinue reading on Medium »",
+          "link": "https://medium.com/@faridnarimanof/mcrta-exam-walkthrough-breaking-into-aws-azure-gcp-531c7be05c67?source=rss------redteam-5",
+          "publishedOn": "2026-07-14T12:52:34.000Z",
+          "wordCount": null,
+          "title": "MCRTA Exam Walkthrough — Breaking Into AWS, Azure & GCP",
+          "imageUrl": null
+        },
+        {
           "id": "https://medium.com/p/487f8b5cc462",
           "author": "Jatin  yadav",
           "description": "Artificial Intelligence is transforming cybersecurity, but one question remains: Can AI perform penetration testing like a human?\nContinue reading on Medium »",
@@ -5454,6 +6474,106 @@
       "siteUrl": "https://infosecwriteups.com?source=rss----7b722bfd1b8d---4",
       "articles": [
         {
+          "id": "https://medium.com/p/3caf2a7efb45",
+          "author": "Huzaifa Malik",
+          "description": "Easy level Tryhackme CTF challenge to test your enumeration, basic exploitation and Privilege Escalation skills",
+          "link": "https://infosecwriteups.com/lookup-tryhackme-walkthrough-3caf2a7efb45?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2026-07-07T11:36:26.000Z",
+          "wordCount": 3849,
+          "title": "Lookup: TryHackMe CTF Walkthrough",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:986/1*3aT7PfFEAjKiOdieKbrNlw.png"
+        },
+        {
+          "id": "https://medium.com/p/d951fa31f964",
+          "author": "Rishu Ranjan",
+          "description": "Paste a token, get a full attack plan — then execute it, entirely offline.\nContinue reading on InfoSec Write-ups »",
+          "link": "https://infosecwriteups.com/jwtweak-v2-1-a-guided-offline-toolkit-for-modern-jwt-attacks-d951fa31f964?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2026-07-07T11:35:53.000Z",
+          "wordCount": 2071,
+          "title": "JWTweak v2.1: A Guided, Offline Toolkit for Modern JWT Attacks",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1178/1*yQ3_Ty53v6UbFKMsn9XXwg.png"
+        },
+        {
+          "id": "https://medium.com/p/90d568038414",
+          "author": "Alvin Ferdiansyah",
+          "description": "Firebase security rules are opt-in. The default, for every new database & storage bucket, is wide open. This is the writeup of a…",
+          "link": "https://infosecwriteups.com/no-rules-no-locks-firebase-misconfiguration-and-the-borrowers-it-left-behind-90d568038414?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2026-07-07T11:35:41.000Z",
+          "wordCount": 9011,
+          "title": "No Rules, No Locks: Firebase Misconfiguration and the Borrowers It Left Behind",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*WrD1mgShGttnp0KMG6MrLQ.png"
+        },
+        {
+          "id": "https://medium.com/p/bfaece6c3805",
+          "author": "Alvin Ferdiansyah",
+          "description": "A POST to IMDS may fail — but a redirect can quietly turn it into something else.",
+          "link": "https://infosecwriteups.com/the-http-303-hack-from-python-http-client-defaults-to-aws-credential-exfiltration-a-deep-dive-bfaece6c3805?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2026-07-07T11:35:22.000Z",
+          "wordCount": 7402,
+          "title": "The HTTP 303 SSRF Hack : From Python HTTP Client Defaults to AWS Credential Exfiltration.",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:640/0*NCA12wxa9E9fNJ6A.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/6c1a7095f8e1",
+          "author": "Alvin Ferdiansyah",
+          "description": "One click, eight seconds, nine webhook hits. It started with a single bracket character that broke an Akamai WAF rule.",
+          "link": "https://infosecwriteups.com/chaining-a-dom-xss-sink-waf-bypass-cross-origin-smuggling-and-sdk-abuse-into-one-click-account-6c1a7095f8e1?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2026-07-07T11:35:07.000Z",
+          "wordCount": 5261,
+          "title": "Chaining a DOM XSS Sink, WAF Bypass, Cross-Origin Smuggling, and SDK Abuse into One Click Account…",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:912/1*_osiOoYxPpI6pOCZ1NMMxw.png"
+        },
+        {
+          "id": "https://medium.com/p/0f2c84223bbb",
+          "author": "Indigo Shadow",
+          "description": "Understanding what is delegated Managed Service Accounts in Windows Server 2025, and how an unpatched system may be exploited for Privilege…",
+          "link": "https://infosecwriteups.com/badsuccessor-exploiting-delegated-managed-service-accounts-in-windows-server-2025-0f2c84223bbb?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2026-07-07T11:34:55.000Z",
+          "wordCount": 5237,
+          "title": "BadSuccessor — Exploiting delegated Managed Service Accounts in Windows Server 2025",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:945/1*TjuQqGfFdYrha8cKYDfPug.png"
+        },
+        {
+          "id": "https://medium.com/p/269e384f3fa7",
+          "author": "Aishat Olayinka Yusuf",
+          "description": "Overview",
+          "link": "https://infosecwriteups.com/wazuh-file-integrity-monitoring-tracking-endpoint-modifications-in-real-time-269e384f3fa7?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2026-07-06T06:34:23.000Z",
+          "wordCount": 2779,
+          "title": "Wazuh File Integrity Monitoring: Tracking Endpoint Modifications in Real Time",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*BqYTVh5qn5LCmGvzoPlpMA.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/57037fdc9714",
+          "author": "MD Mehedi Hasan",
+          "description": "Every bug bounty hunter has curl installed. Few use it to its full potential. While Burp Suite and custom scripts get the limelight, curl…\nContinue reading on InfoSec Write-ups »",
+          "link": "https://infosecwriteups.com/mastering-curl-commands-bug-bounty-hunters-guide-57037fdc9714?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2026-07-06T06:30:13.000Z",
+          "wordCount": 1993,
+          "title": "Mastering curl Commands Bug Bounty Hunter's Guide",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*6LskC7VblBQf9Xe_TVUUkQ.png"
+        },
+        {
+          "id": "https://medium.com/p/5eb2be4c1f8e",
+          "author": "Alvin Ferdiansyah",
+          "description": "No customer support call. No re-verification.",
+          "link": "https://infosecwriteups.com/mass-assignment-and-the-identity-drift-from-profile-edit-to-insurance-takeover-5eb2be4c1f8e?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2026-07-06T06:29:11.000Z",
+          "wordCount": 4715,
+          "title": "Mass Assignment and the Identity Drift: From Profile Edit to Insurance Takeover",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*rxetdK2Ww9DfrKGHBtnmmA.png"
+        },
+        {
+          "id": "https://medium.com/p/20dbb8161dd8",
+          "author": "Alvin Ferdiansyah",
+          "description": "Most people know XXE. Few think to look for it inside a spreadsheet upload. But beneath every .xlsx is really a ZIP archive full of XML…",
+          "link": "https://infosecwriteups.com/the-file-that-answered-back-xxe-hidden-in-cell-a2-20dbb8161dd8?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2026-07-06T06:28:59.000Z",
+          "wordCount": 5897,
+          "title": "The File That Answered Back — XXE Hidden in Cell A2",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*O29aTyx3TXMUBqM2BvQ3eA.png"
+        },
+        {
           "id": "https://medium.com/p/040bd636a7f3",
           "author": "Avyukt Security",
           "description": "",
@@ -6383,6 +7503,76 @@
       "siteUrl": "https://acassis.wordpress.com",
       "articles": [
         {
+          "id": "http://acassis.wordpress.com/?p=13015",
+          "author": "acassis",
+          "description": "Very useful: https://github.com/yakimka/DiffLume",
+          "link": "https://acassis.wordpress.com/2026/07/14/linux-console-tui-diff-tool/",
+          "publishedOn": "2026-07-14T18:11:26.000Z",
+          "wordCount": 4084,
+          "title": "Linux console TUI DIFF tool",
+          "imageUrl": "https://secure.gravatar.com/blavatar/96b4e96ab15f6d879cefa55e3b925a85c71ff4a86fee7843b2e3d794a5b1efb3?s=200&ts=1784097322"
+        },
+        {
+          "id": "http://acassis.wordpress.com/?p=13013",
+          "author": "acassis",
+          "description": "Very interesting: https://github.com/ArthurSonzogni/git-tui",
+          "link": "https://acassis.wordpress.com/2026/07/14/i-found-a-git-tui-diff-tool/",
+          "publishedOn": "2026-07-14T17:59:56.000Z",
+          "wordCount": 4087,
+          "title": "I found a git tui diff tool",
+          "imageUrl": "https://secure.gravatar.com/blavatar/96b4e96ab15f6d879cefa55e3b925a85c71ff4a86fee7843b2e3d794a5b1efb3?s=200&ts=1784097323"
+        },
+        {
+          "id": "http://acassis.wordpress.com/?p=13010",
+          "author": "acassis",
+          "description": "Another nice article: https://github.com/mjs513/FreeIMU-Updates/wiki/04.-FreeIMU-Calibration Another interesting article for accelerometer: https://chionophilous.wordpress.com/2011/08/26/accelerometer-calibration-iii-improving-accuracy-with-least-squares-and-the-gauss-newton-method/",
+          "link": "https://acassis.wordpress.com/2026/07/11/freeimu-calibration/",
+          "publishedOn": "2026-07-11T15:57:35.000Z",
+          "wordCount": 4106,
+          "title": "FreeIMU Calibration",
+          "imageUrl": "https://secure.gravatar.com/blavatar/96b4e96ab15f6d879cefa55e3b925a85c71ff4a86fee7843b2e3d794a5b1efb3?s=200&ts=1784172049"
+        },
+        {
+          "id": "http://acassis.wordpress.com/?p=13008",
+          "author": "acassis",
+          "description": "Visit the post for more.",
+          "link": "https://acassis.wordpress.com/2026/07/11/tutorial-how-to-calibrate-a-compass-and-accelerometer-with-arduino/",
+          "publishedOn": "2026-07-11T15:56:40.000Z",
+          "wordCount": 3277,
+          "title": "Tutorial: How to calibrate a compass (and accelerometer) with Arduino",
+          "imageUrl": "https://secure.gravatar.com/blavatar/96b4e96ab15f6d879cefa55e3b925a85c71ff4a86fee7843b2e3d794a5b1efb3?s=200&ts=1783830818"
+        },
+        {
+          "id": "http://acassis.wordpress.com/?p=13006",
+          "author": "acassis",
+          "description": "https://mwrona.com/posts/imu-psd",
+          "link": "https://acassis.wordpress.com/2026/07/11/how-to-measure-the-noise-density-of-an-imu/",
+          "publishedOn": "2026-07-11T15:24:43.000Z",
+          "wordCount": 3251,
+          "title": "How to measure the noise density of an IMU?",
+          "imageUrl": "https://secure.gravatar.com/blavatar/96b4e96ab15f6d879cefa55e3b925a85c71ff4a86fee7843b2e3d794a5b1efb3?s=200&ts=1783938274"
+        },
+        {
+          "id": "http://acassis.wordpress.com/?p=13004",
+          "author": "acassis",
+          "description": "Nice article: https://www.semuconsulting.com/gnsswiki/rtktips",
+          "link": "https://acassis.wordpress.com/2026/07/11/achieving-cm-level-gnss-accuracy-via-rtk/",
+          "publishedOn": "2026-07-11T14:57:26.000Z",
+          "wordCount": 3249,
+          "title": "Achieving cm Level GNSS Accuracy Via RTK",
+          "imageUrl": "https://secure.gravatar.com/blavatar/96b4e96ab15f6d879cefa55e3b925a85c71ff4a86fee7843b2e3d794a5b1efb3?s=200&ts=1783839697"
+        },
+        {
+          "id": "http://acassis.wordpress.com/?p=12978",
+          "author": "acassis",
+          "description": "Some years ago (whoa, just realized it was 10 years ago) I added an Audio Tone on NuttX:https://github.com/apache/nuttx/commit/8b99dd4cdb014a90c0971027f8d6b12b89306aae I cannot say that it was my own creation because I used the PX4 Audio Tone as base and converted to a NuttX driver, but the port was mainly a rewriting of the original project. Then around … Continue reading Embedded systems projects need real CI hardware test →",
+          "link": "https://acassis.wordpress.com/2026/06/23/embedded-systems-projects-need-real-ci-hardware-test/",
+          "publishedOn": "2026-06-23T15:35:50.000Z",
+          "wordCount": 4656,
+          "title": "Embedded systems projects need real CI hardware test",
+          "imageUrl": "https://secure.gravatar.com/blavatar/96b4e96ab15f6d879cefa55e3b925a85c71ff4a86fee7843b2e3d794a5b1efb3?s=200&ts=1784172049"
+        },
+        {
           "id": "http://acassis.wordpress.com/?p=12976",
           "author": "acassis",
           "description": "Seems like a good starting point: https://github.com/jjjsmit/BluetoothBLEClient",
@@ -6745,26 +7935,6 @@
           "wordCount": 774,
           "title": "TP-Link WR841N router  CVE-2023-50224 and CVE-2025-9377",
           "imageUrl": "https://sw-blog.oss-cn-hongkong.aliyuncs.com/img/2025-12-28-71231676d0beead29e4b7a857fc9ad25-699280.png"
-        },
-        {
-          "id": "https://bestwing.me/cve-2025-32023-redis-rce-via-out-of-bounds-write.html",
-          "author": null,
-          "description": "<link rel=\"stylesheet\" type=\"text/css\" href=\"https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css\"><link rel=\"stylesheet\" type=\"text/css\" hr",
-          "link": "https://bestwing.me/cve-2025-32023-redis-rce-via-out-of-bounds-write.html",
-          "publishedOn": "2025-07-07T19:32:43.000Z",
-          "wordCount": 1684,
-          "title": "CVE-2025-32023 Redis  漏洞分析",
-          "imageUrl": "https://sw-blog.oss-cn-hongkong.aliyuncs.com/img/2025-07-11-dd6ba4cc0ca1be110782321dd59e6908-4b5138.png"
-        },
-        {
-          "id": "https://bestwing.me/cve-2025-36463-sudo-chroot-elevation.html",
-          "author": null,
-          "description": "<link rel=\"stylesheet\" type=\"text/css\" href=\"https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css\"><link rel=\"stylesheet\" type=\"text/css\" hr",
-          "link": "https://bestwing.me/cve-2025-36463-sudo-chroot-elevation.html",
-          "publishedOn": "2025-07-01T22:00:31.000Z",
-          "wordCount": 2623,
-          "title": "CVE-2025-36463 Sudo_chroot Elevation of Privilege 漏洞分析",
-          "imageUrl": "https://sw-blog.oss-cn-hongkong.aliyuncs.com/img/2025-07-02-e0349e6cc7ed7c3f2e12c5302cbbe90b-ff4613.png"
         }
       ]
     },
@@ -6818,16 +7988,6 @@
           "wordCount": 3542,
           "title": "Reducing notification overload for a quieter browsing experience in Chrome",
           "imageUrl": "https://blog.google/static/blogv2/images/google-1000x1000.png?version=pr20260528-1647"
-        },
-        {
-          "id": "https://blog.chromium.org/2025/07/introducing-skia-graphite-chromes.html",
-          "author": null,
-          "description": "Today's The Fast and the Curious post covers the launch of Skia's new rasterization backend, Graphite, in Chrome on Apple Silicon Macs. Graphite is instrumental in helping Chrome achieve exceptional scores on Motionmark 1.3 and is key to unlocking a ton of future improvements in Chrome Graphics.\n\nA brief history of Skia in Chrome\nsince the very beginning. Skia eventually ran into performance issues as the web evolved and became more complex, which led Chrome and Skia to invest in a GPU accelerated rasterization backend called Ganesh.  \n\n\nOver the years, Ganesh matured into a solid highly performant rasterization backend and GPU rasterization launched on all platforms in Chrome on top of GL (via ANGLE on Windows D3D9/11). However, Ganesh always had a GL-centric design with too many speciali…",
-          "link": "https://blog.chromium.org/2025/07/introducing-skia-graphite-chromes.html",
-          "publishedOn": "2025-07-08T17:46:00.000Z",
-          "wordCount": 4791,
-          "title": "Introducing Skia Graphite: Chrome's rasterization backend for the future",
-          "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Introducing_Skia_Graphite_Chromes_rasterizati.width-1300.png"
         }
       ]
     },
@@ -6859,7 +8019,18 @@
       "title": "Mozilla Security Blog",
       "feedUrl": "https://blog.mozilla.org/security/feed/",
       "siteUrl": "https://blog.mozilla.org/security/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://blog.mozilla.org/security/?p=2922",
+          "author": "Ben Wilson",
+          "description": "Mozilla remains committed to maintaining a secure, trustworthy, and transparent Web PKI. Today we are announcing the publication of Mozilla Root Store Policy (MRSP) version 3.1, effective July 1, 2026. … Read more\nThe post Improving Transparency and Assurance in the Web PKI: Mozilla Root Store Policy v3.1 appeared first on Mozilla Security Blog.",
+          "link": "https://blog.mozilla.org/security/2026/06/29/improving-transparency-and-assurance-in-the-web-pki-mozilla-root-store-policy-v3-1/",
+          "publishedOn": "2026-06-29T11:33:46.000Z",
+          "wordCount": 2010,
+          "title": "Improving Transparency and Assurance in the Web PKI: Mozilla Root Store Policy v3.1",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "arighi's blog",
@@ -6901,26 +8072,6 @@
           "wordCount": 3300,
           "title": "Ask your LLM for receipts: What I learned teaching Claude C++ crash triage",
           "imageUrl": null
-        },
-        {
-          "id": "https://addxorrol.blogspot.com/2025/07/understand-neural-nets-better-post-5-of.html",
-          "author": null,
-          "description": "In a series of previous blogposts [1, 2, 3, 4] I ran some experiments drawing the boundaries of the polytopes generated by a fully-connected leaky ReLU network while it was getting trained on reproducing an input image.\nAs I tried to scale the experiments to larger networks, I noticed a dramatic slowdown in the code, caused by the calculation of a hash of the activation pattern happening on CPU -- so each training step would be fast, but then everything would grind to a halt for the visualisation, and for each pixel the code would forward-evaluate the NN (all in all 1024*1024 times), and whenever the prediction was calculated, it'd transfer the activation pattern to CPU and then perform the hashing. This was very slow, and very non-parallel.\nI had contemplated writing some custom CUDA code…",
-          "link": "https://addxorrol.blogspot.com/2025/07/understand-neural-nets-better-post-5-of.html",
-          "publishedOn": "2025-07-11T13:28:00.000Z",
-          "wordCount": 4164,
-          "title": "Understand Neural Nets better, post 5 of N -- Code Assistant shootout",
-          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_uZP0AsZY2yFPserdaFztC2ar1lymQt6w1Ei_qOqUvbUXYbYY50VOj-Tn7mm7j928tvAG8j44ORbtuTGpH5bNyCDH0S5OJB_iqEOql8MnqPMKQhTQ=w1200-h630-n-k-no-nu"
-        },
-        {
-          "id": "https://addxorrol.blogspot.com/2025/07/a-non-anthropomorphized-view-of-llms.html",
-          "author": null,
-          "description": "In many discussions where questions of \"alignment\" or \"AI safety\" crop up, I am baffled by seriously intelligent people imbuing almost magical human-like powers to something that - in my mind - is just MatMul with interspersed nonlinearities.\nIn one of these discussions, somebody correctly called me out on the simplistic nature of this argument - \"a brain is just some proteins and currents\". I felt like I should explain my argument a bit more, because it feels less simplistic to me:\nThe space of words\nThe tokenization and embedding step maps individual words (or tokens) to some \\(\\mathbb{R}^n\\) vectors. So let us imagine for a second that we have \\(\\mathbb{R}^n\\) in front of us. A piece of text is then a path through this space - going from word to word to word, tracing a (possibly convolu…",
-          "link": "https://addxorrol.blogspot.com/2025/07/a-non-anthropomorphized-view-of-llms.html",
-          "publishedOn": "2025-07-06T19:58:00.000Z",
-          "wordCount": 4056,
-          "title": "A non-anthropomorphized view of LLMs",
-          "imageUrl": null
         }
       ]
     },
@@ -6935,6 +8086,36 @@
       "feedUrl": "https://blog.sucuri.net/feed",
       "siteUrl": "https://blog.sucuri.net/",
       "articles": [
+        {
+          "id": "https://blog.sucuri.net/?p=36169",
+          "author": "Sucuri",
+          "description": "WordPress updates help close known vulnerabilities before automated attacks can find and exploit them. Once a patch is released, attackers often move quickly to scan for sites that have not yet updated.\nIt’s easy to put off updates when everything seems to be working. But once a vulnerability is public, attackers do not need to single out your site. Automated bots scan thousands of sites for outdated WordPress core, plugins, themes, and server setups.\nContinue reading Why Delaying WordPress Updates Increases Security Risks at Sucuri Blog.",
+          "link": "https://blog.sucuri.net/2026/07/why-delaying-wordpress-updates-increases-security-risks.html",
+          "publishedOn": "2026-07-14T21:34:56.000Z",
+          "wordCount": 3137,
+          "title": "Why Delaying WordPress Updates Increases Security Risks",
+          "imageUrl": "https://blog.sucuri.net/wp-content/uploads/2026/07/Why-Delaying-WordPress-Updates-Increases-Security-Risks.png"
+        },
+        {
+          "id": "https://blog.sucuri.net/?p=36161",
+          "author": "Sucuri Malware Research Team",
+          "description": "Running a website means a single unpatched vulnerability can take it offline, harm your reputation, or require cleanup. Most compromises begin with automated attacks exploiting known software flaws, usually reported and disclosed already.\nTo keep you protected from these threats, we’ve compiled this month’s key security updates and vulnerability patches for the WordPress ecosystem.\nIf you’re already using the Sucuri Firewall, you’re protected. These vulnerabilities are virtually patched for all clients.\nContinue reading Vulnerability & Patch Roundup — June 2026 at Sucuri Blog.",
+          "link": "https://blog.sucuri.net/2026/07/vulnerability-patch-roundup-june-2026.html",
+          "publishedOn": "2026-07-02T06:15:00.000Z",
+          "wordCount": 5870,
+          "title": "Vulnerability & Patch Roundup — June 2026",
+          "imageUrl": "https://blog.sucuri.net/wp-content/uploads/2026/07/Sucuri-Vulnerability-Roundup-June-2026.png"
+        },
+        {
+          "id": "https://blog.sucuri.net/?p=36133",
+          "author": "Kyle Knight",
+          "description": "A working checkout page is often the moment a business starts to feel real. The products are live, the cart is functional, payments are flowing, and orders are landing in your inbox. That is also when security shifts from a background concern to a real-world risk.\nOnce your website starts accepting credit card payments, it becomes part of a payment environment attackers actively look for.\nThat does not mean every small ecommerce store needs an enterprise security team.\nContinue reading PCI Compliance Isn’t a Checkbox: How to Secure Ecommerce Checkouts Before Attackers Arrive at Sucuri Blog.",
+          "link": "https://blog.sucuri.net/2026/06/pci-compliance-isnt-a-checkbox-how-to-secure-ecommerce-checkouts-before-attackers-arrive.html",
+          "publishedOn": "2026-06-23T23:11:46.000Z",
+          "wordCount": 3146,
+          "title": "PCI Compliance Isn’t a Checkbox: How to Secure Ecommerce Checkouts Before Attackers Arrive",
+          "imageUrl": "https://blog.sucuri.net/wp-content/uploads/2026/06/PCI-Compliance-Isnt-a-Checkbox-How-to-Secure-Ecommerce-Checkouts-Before-Attackers-Arrive.png"
+        },
         {
           "id": "https://blog.sucuri.net/?p=36108",
           "author": "Puja Srivastava",
@@ -7132,6 +8313,76 @@
       "feedUrl": "https://blog.elcomsoft.com/feed/",
       "siteUrl": "https://blog.elcomsoft.com",
       "articles": [
+        {
+          "id": "https://blog.elcomsoft.com/?p=13504",
+          "author": "Elcomsoft R&#38;D",
+          "description": "BootROM exploits are an important part of modern low-level forensic acquisition, and our Elcomsoft iOS Forensic Toolkit is no stranger to it. It allows getting code execution at the earliest stage on the device and lets us then load custom software for data decryption and extraction. It has been almost 7 years since the last major […]",
+          "link": "https://blog.elcomsoft.com/2026/07/a12-usbliter8-bootrom-sigpatches/",
+          "publishedOn": "2026-07-15T11:09:21.000Z",
+          "wordCount": 3525,
+          "title": "A12 usbliter8 BootROM sigpatches",
+          "imageUrl": null
+        },
+        {
+          "id": "https://blog.elcomsoft.com/?p=13474",
+          "author": "Oleg Afonin",
+          "description": "Most people meet these four tools one product page at a time, which makes them look like four separate purchases for four separate problems. On a real desktop case they are closer to four stages of a single job. Each one hands its output to the next: Elcomsoft System Recovery and Elcomsoft Quick Triage pull […]",
+          "link": "https://blog.elcomsoft.com/2026/07/four-tools-one-workflow-using-elcomsoft-desktop-forensic-tools-on-the-same-case/",
+          "publishedOn": "2026-07-10T15:40:25.000Z",
+          "wordCount": 3343,
+          "title": "Four Tools, One Workflow: Using Elcomsoft Desktop Forensic Tools on the Same Case",
+          "enclosure": {
+            "url": "https://blog.elcomsoft.com/wp-content/uploads/2025/04/ESR-8.34-1200x630-1.png",
+            "length": "520929",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://blog.elcomsoft.com/wp-content/uploads/2025/04/ESR-8.34-1200x630-1.png"
+        },
+        {
+          "id": "https://blog.elcomsoft.com/?p=13457",
+          "author": "Oleg Afonin",
+          "description": "Over at the Atola blog, Vitaliy Mokosiy published How to buy a reliable SSD – and none of it is wrong. That’s the problem. Read it back and it boils down to buy a good drive, don’t buy a bad one, and make backups. Every line is true and every line is the line an […]",
+          "link": "https://blog.elcomsoft.com/2026/07/how-to-buy-a-reliable-ssd-continued/",
+          "publishedOn": "2026-07-02T08:25:13.000Z",
+          "wordCount": 3314,
+          "title": "How to Buy a Reliable SSD, Continued",
+          "enclosure": {
+            "url": "https://blog.elcomsoft.com/wp-content/uploads/2019/01/broken_ssd2_1200x630.jpg",
+            "length": "1147892",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://blog.elcomsoft.com/wp-content/uploads/2019/01/broken_ssd2_1200x630.jpg"
+        },
+        {
+          "id": "https://blog.elcomsoft.com/?p=13407",
+          "author": "Oleg Afonin",
+          "description": "Stated plainly: iOS Forensic Toolkit can now get past Stolen Device Protection. There is a catch, and it belongs up front: this is not a magic unlock, and anyone selling it as one is selling something. What we have built is a way to install the extraction agent without ever pairing the iPhone to the […]",
+          "link": "https://blog.elcomsoft.com/2026/06/bypassing-stolen-device-protection-alternative-ways-of-installing-the-extraction-agent/",
+          "publishedOn": "2026-06-24T07:00:09.000Z",
+          "wordCount": 2632,
+          "title": "Bypassing Stolen Device Protection: Alternative Ways of Installing the Extraction Agent",
+          "enclosure": {
+            "url": "https://blog.elcomsoft.com/wp-content/uploads/2026/06/EIFT-10.1-new-4_1200x630.png",
+            "length": "665922",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://blog.elcomsoft.com/wp-content/uploads/2026/06/EIFT-10.1-new-4_1200x630.png"
+        },
+        {
+          "id": "https://blog.elcomsoft.com/?p=13384",
+          "author": "Vladimir Katalov",
+          "description": "A new update to iOS Forensic Toolkit is out. The headline feature is an alternative installation method for the extraction agent – that is, deploying it onto an iPhone while bypassing the mandatory pairing requirement. The agent can now be delivered across the network, which removes a number of limitations that came with the usual […]",
+          "link": "https://blog.elcomsoft.com/2026/06/sideloading-the-extraction-agent-a-stolen-device-protection-workaround/",
+          "publishedOn": "2026-06-24T06:59:25.000Z",
+          "wordCount": 2805,
+          "title": "Sideloading the extraction agent: a Stolen Device Protection workaround",
+          "enclosure": {
+            "url": "https://blog.elcomsoft.com/wp-content/uploads/2026/06/EIFT-10.03-new-1200x630-1.png",
+            "length": "874660",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://blog.elcomsoft.com/wp-content/uploads/2026/06/EIFT-10.03-new-1200x630-1.png"
+        },
         {
           "id": "https://blog.elcomsoft.com/?p=13397",
           "author": "Oleg Afonin",
@@ -7342,18 +8593,7 @@
       "title": "C-skills",
       "feedUrl": "https://c-skills.blogspot.com/feeds/posts/default",
       "siteUrl": "https://c-skills.blogspot.com/",
-      "articles": [
-        {
-          "id": "https://c-skills.blogspot.com/2025/06/luajit-trickery.html",
-          "author": null,
-          "description": "In this blog-post I will bring together two cool things: ELF DSO injection into runtime processes and LuaJIT. Lua itself is a very nice scripting language and LuaJIT integrates a very decent FFI module which contains a cdecl parser and other interesting things. I do not need the speedup of LuaJIT over Lua so much, but the C-binding and -inter-operability is \"awesome\".\nI wrote my first ELF injection tools >20y ago, so my actual injectso project needed some polishing first to work with current distros at all. Not only did the ld.so impl and glibc pathnames change, CPUs also feature new extensions like SSE2 and compilers make use of it for string and memory related functions like memset(). The drawback in this particular case was that SSE2 instructions add 16byte alignment requirements for the address operands (in this case indirectly the stack) which made injectso fail on distros that make use of it. Now that was fixed and injectso runs on most glibc based distros again, it was time to add LuaJIT support to allow loading of Lua scripts into \"foreign\" processes in order to do similar things that you know from frida: accessing memory locations, hooking functions, dumping parameters etc. but with much less bloat.\nHere is how it would look in Lua:\n  \n  \n\n\nIt was necessary to add peek/poke primitives to LuaJIT as well as a trap mechanism for functions in order to hook/unhook functions and dump their parameters or otherwise access memory at this point. Changing of function parameters on entry is not yet supported, but would be easy.\nWhen you hook a python interpreter with this script, it would look like this:\n\n\n\n\n\nIs that cool? Running Lua code when Python calls into a C function to do some things. Some fun that AI assisted coding will never give you. You can try out yourself here.",
-          "link": "https://c-skills.blogspot.com/2025/06/luajit-trickery.html",
-          "publishedOn": "2025-06-24T09:25:00.000Z",
-          "wordCount": 2208,
-          "title": "LuaJIT trickery",
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjvAFAdfltSLtJU-CajfIMQfdUD_7qdNqnyBtv61-vmMOt58Nq1JXTFZlHRkBNEUil00iI7YJcP9_QXPVQUkx5ajehjzkagnul9OdlUVNKlicFO8yLJdgo5lP8y0_aBiVn3BDnH_hRJsksI-HSD_HBvd-lMo6wp8VrnNn_sTLhyphenhyphen_HkEnkwO5NgzB50cG_o/w1200-h630-p-k-no-nu/luda.jpg"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "博客园 - Danny__Wei",
@@ -7378,6 +8618,206 @@
       "feedUrl": "https://feed.cnblogs.com/blog/sitehome/rss",
       "siteUrl": null,
       "articles": [
+        {
+          "id": "https://www.cnblogs.com/sun-10387834/p/21303394",
+          "author": null,
+          "description": "系列第二篇：核心概念与架构篇（四） 你好，我们又见面了。 在之前的文章里，我们把 RocketMQ 的存储、发送、消费全链路都拆解了一遍。但有一个重量级特性，我们一直没聊——事务消息（Transactional Message）。 为什么把事务消息放在这里才讲？因为理解事务消息需要两个前提：一是你要",
+          "link": "https://www.cnblogs.com/sun-10387834/p/21303394",
+          "publishedOn": "2026-07-16T02:28:00.000Z",
+          "wordCount": 1338,
+          "title": "深入 RocketMQ 内核：事务消息——分布式事务的终极解法（四） - 佛祖让我来巡山",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/ai-old-six/p/21526084",
+          "author": null,
+          "description": "拆解 Agent 能力水位、验证闭环和知识库召回，说明工作记忆如何变成可复用工程资产。 导语 很多人用 Agent 的方式还停在“给它一个任务，等它吐出结果”。这个用法没错，但很快会撞到天花板：模型能写代码、查资料、改文档，也会在长链路里丢上下文、误判边界、重复踩坑。 真正拉开差距的不是某一次 pr",
+          "link": "https://www.cnblogs.com/ai-old-six/p/21526084",
+          "publishedOn": "2026-07-16T02:26:00.000Z",
+          "wordCount": 554,
+          "title": "Agent 从上手到精通：打造有记忆的个人智能体 - AI小老六",
+          "imageUrl": "https://img2024.cnblogs.com/blog/3798513/202607/3798513-20260716102333540-1548507938.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/huangSir-devops/p/21451232",
+          "author": null,
+          "description": "概述 Ansible Role 是标准化、可复用、分层拆分的 Playbook 工程结构，把安装、配置、文件、任务、变量、触发器等分目录管理，解决大型剧本杂乱、复用难的问题。 Role本质就是将ansible的playbook更加规范化 其核心优势： 代码复用：一套 role 多台机器、多个项目直接",
+          "link": "https://www.cnblogs.com/huangSir-devops/p/21451232",
+          "publishedOn": "2026-07-16T02:21:00.000Z",
+          "wordCount": 831,
+          "title": "ansible roles详解 - huangSir-devops",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/cqrocky/p/21524517",
+          "author": null,
+          "description": "大模型幻觉并不是简单的&quot;模型犯错&quot;，而是概率生成机制、训练数据和应用方式共同导致的问题。本文分析幻觉产生原因，并介绍降低幻觉的实际方法。",
+          "link": "https://www.cnblogs.com/cqrocky/p/21524517",
+          "publishedOn": "2026-07-16T02:13:00.000Z",
+          "wordCount": 389,
+          "title": "大模型为什么会出现幻觉？从原理到解决方案一次讲清 - cqrocky",
+          "imageUrl": "https://img2024.cnblogs.com/blog/804838/202607/804838-20260716101522830-1401631293.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/seatunnel/p/21524896",
+          "author": null,
+          "description": "同程旅行数据通道服务历经多年演进，形成了数据搬运、数据集成、Sqoop、SeaTunnel 四套并存的格局，功能重叠、引擎割裂、整体运维成本居高不下。",
+          "link": "https://www.cnblogs.com/seatunnel/p/21524896",
+          "publishedOn": "2026-07-16T02:12:00.000Z",
+          "wordCount": 742,
+          "title": "一套替代四套！同程旅行用 Apache SeaTunnel 搭建多模态统一数据通道 - ApacheSeaTunnel",
+          "imageUrl": "https://img2024.cnblogs.com/blog/3195851/202607/3195851-20260716100803893-1122049210.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/lwops/p/21524790",
+          "author": null,
+          "description": "Zabbix监控实战--正则表达式的使用 乐维社区在线答疑 在选用自动发现规则时一般会获取到很多生成项的情况，但实际上可能有些生成项并不是我们关注甚至需要的，为此需要我们进行一个过滤操作来处理生成内容，只获取我们需要的部分，这个需求可以用正则来实现。 1. 下面这部分内容是通过自动发现获取的/boo",
+          "link": "https://www.cnblogs.com/lwops/p/21524790",
+          "publishedOn": "2026-07-16T02:11:00.000Z",
+          "wordCount": 269,
+          "title": "Zabbix监控实战--正则表达式的使用 - 乐维_lwops",
+          "imageUrl": "https://img2024.cnblogs.com/blog/1549131/202607/1549131-20260716100713607-643758335.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/jazz-z/p/21524677",
+          "author": null,
+          "description": "在企业应用开发中，将数据库查询结果导出为 PDF 格式是常见的报表需求。PDF 具备格式固定、跨平台兼容、便于归档分发等特性，非常适合用于业务数据的正式输出。本文介绍一种基于 Free Spire.XLS for .NET 免费库的实现方式，通过「数据库 → DataTable → Excel 工作",
+          "link": "https://www.cnblogs.com/jazz-z/p/21524677",
+          "publishedOn": "2026-07-16T02:08:00.000Z",
+          "wordCount": 642,
+          "title": "业务报表生成：通过 C# 将数据库导出为 PDF - LAYONTHEGROUND",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/Robert.Yu/p/21524367",
+          "author": null,
+          "description": "随着信创国产化深度落地与AI大模型产业规模化迭代，政企、金融、能源及工业领域的AI算力基础设施，正式进入全栈自主、高稳高性能、可规模化交付的升级新阶段。传统x86架构算力方案长期存在供应链受限、软硬件适配割裂、安全可控性不足、满载稳定性差等痛点，而华为鲲鹏ARM架构国产服务器+自研高端AI算力芯片的",
+          "link": "https://www.cnblogs.com/Robert.Yu/p/21524367",
+          "publishedOn": "2026-07-16T02:03:00.000Z",
+          "wordCount": 308,
+          "title": "天数智芯--天垓150S 华为泰山鲲鹏服务器实测 - 肥仔鱼Liam",
+          "imageUrl": "https://img2024.cnblogs.com/blog/8503/202607/8503-20260716100249428-1891645183.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/zrui-xyu/p/21524181",
+          "author": null,
+          "description": "扫码登录核心是已登录手机端为未登录PC端跨设备授权，依托PC、服务端、手机三端交互实现。核心技术亮点：后端生成唯一临时qrId承载二维码信息，规避敏感信息泄露；设计四态严格状态机保障流程有序流转。采用WebSocket为主、轮询兜底的状态同步方案，适配高并发场景。基于Redis Lua脚本实现状态原...",
+          "link": "https://www.cnblogs.com/zrui-xyu/p/21524181",
+          "publishedOn": "2026-07-16T02:00:00.000Z",
+          "wordCount": 1157,
+          "title": "扫码登录的实现原理 - Rain的Java大神实战圈",
+          "imageUrl": "https://img2024.cnblogs.com/blog/739056/202607/739056-20260716095722041-1466680514.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/zhayujie/p/21524003/cli-for-agents",
+          "author": null,
+          "description": "随着 Agent 技术走向成熟，越来越多的产品需要同时面对人类和 Agent 两类用户，而 CLI（命令行工具）正是更容易被 Agent 调用的形态。未来可能所有产品都需要实现自己的 CLI，封装自己的核心能力供 Agent 使用。本文以近期实践的开源 CLI 为例，从编程语言、登录授权、命令设计、...",
+          "link": "https://www.cnblogs.com/zhayujie/p/21524003/cli-for-agents",
+          "publishedOn": "2026-07-16T01:57:00.000Z",
+          "wordCount": 798,
+          "title": "如何设计一个 Agent 友好的 CLI 工具 - zhayujie",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/shanyou/p/21523972",
+          "author": null,
+          "description": "MVP会变，.NET会变，连我自己手上的技术栈都在变。但分享这件事——帮那个深夜还在调Bug的人多睡两个小时这件事——永远值得。",
+          "link": "https://www.cnblogs.com/shanyou/p/21523972",
+          "publishedOn": "2026-07-16T01:56:00.000Z",
+          "wordCount": 525,
+          "title": "22届微软MVP连任：一个.NET技术人的社区长跑 - 张善友",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/joeyin/p/21522186",
+          "author": null,
+          "description": "1. 锁必须有TTL // 错误 redis.Set(&quot;lock&quot;, 1) // 永远不能释放 // 正确 redis.SetNX(&quot;lock&quot;, uuid, 5 * time.Minute) 2. 长时间任务必须续期 go refreshLock(ctx, lock, 1 * time.Minut",
+          "link": "https://www.cnblogs.com/joeyin/p/21522186",
+          "publishedOn": "2026-07-16T01:55:00.000Z",
+          "wordCount": 403,
+          "title": "分布式锁避坑 - Joeyin",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/jinjiangongzuoshi/p/21521527",
+          "author": null,
+          "description": "导读：前三篇我们搞定了&quot;跑测试、修脚本、清数据&quot;——但跑完之后，怎么把执行结果变成一份专业的测试报告呢？ 今天就给大家分享一款叫 api-report-generator 的 AI skill，只需一句指令，就能把执行数据自动变成一份有人看、能决策专业定制化测试报告，且集成了Allure报告，支持风",
+          "link": "https://www.cnblogs.com/jinjiangongzuoshi/p/21521527",
+          "publishedOn": "2026-07-16T01:13:00.000Z",
+          "wordCount": 747,
+          "title": "还在手写测试报告？推荐一款 AI 测试Skill：只需一句指令，自动生成专业定制化测试报告！ - 狂师",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/GuZhenYin/p/21447938",
+          "author": null,
+          "description": "第十四章 Skill：为什么 Agent 可以拥有专业技能？ 目录 零基础认识大语言模型（LLM）工作原理目录 - GuZhenYin - 博客园 本章导读 上一章，我们介绍了 Memory。 Memory 解决的是：AI 如何记住信息。 但是，仅仅拥有记忆，还不足以让 AI 成为真正的专业助手。",
+          "link": "https://www.cnblogs.com/GuZhenYin/p/21447938",
+          "publishedOn": "2026-07-16T01:02:00.000Z",
+          "wordCount": 705,
+          "title": "零基础认识大语言模型（LLM）工作原理(14.Skill：为什么 Agent 可以拥有专业技能？) - GuZhenYin",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/greatsql/p/21520558",
+          "author": null,
+          "description": "对付平时正常运行的SQL突然变慢的情况，GreatSQL 8.4.4-5 新特性「执行计划变更异常捕获」的做法是给每条 SQL 的执行计划留一份&quot;档案&quot;，然后定期查岗，可以更快定位SQL变慢的原因。",
+          "link": "https://www.cnblogs.com/greatsql/p/21520558",
+          "publishedOn": "2026-07-16T00:35:00.000Z",
+          "wordCount": 356,
+          "title": "那条突然变慢的 SQL，到底经历了什么？ - GreatSQL",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/htai/p/21514737",
+          "author": null,
+          "description": "&gt; 一份报告、一个CEO发言、一个首富头衔，同一天砸下来，信号清晰得不能再清晰。 7月14日到15日这24小时，如果你只盯着某一个新闻看，可能觉得&quot;哦，又一个报告/又一个发言/又一个富豪榜&quot;。但把三件事拼在一起，画面就完全不同了。 Mozilla发布了2026年《开源AI现状报告》，核心结论其实就一",
+          "link": "https://www.cnblogs.com/htai/p/21514737",
+          "publishedOn": "2026-07-15T14:39:00.000Z",
+          "wordCount": 299,
+          "title": "DeepSeek全球用量登顶，金山办公全切国产：开源AI的\"凭什么不用\"时刻到了 - 老猿30多年",
+          "imageUrl": "https://img2024.cnblogs.com/blog/1944027/202607/1944027-20260715223925536-716426714.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/aneiangsoft/p/21514161",
+          "author": null,
+          "description": "40 个 Function Calling 工具，一句自然语言即可完成路由创建、故障排查、配置回滚。支持 OpenAI / DeepSeek / 通义千问，一行 JSON 配置启用，开源 MIT 协议。",
+          "link": "https://www.cnblogs.com/aneiangsoft/p/21514161",
+          "publishedOn": "2026-07-15T13:57:00.000Z",
+          "wordCount": 871,
+          "title": "Aneiang.Yarp v2.3.0.25：让 AI 成为你的 API 网关运维副驾驶 - AneiangSoft",
+          "imageUrl": "https://img2024.cnblogs.com/blog/1511303/202607/1511303-20260715215609058-1857398625.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/CrescentWind/p/21472437",
+          "author": null,
+          "description": "初识ROS2 ROS 2（Robot Operating System 2）是一个面向机器人开发的开源软件框架，可以理解为机器人软件的“操作系统”，但它本身并不是一个真正的操作系统，而是一套帮助开发机器人应用的工具、库和通信机制。在ROS2中提供了一套简便易用的进程间通信机制，通过这套机制可以将机器",
+          "link": "https://www.cnblogs.com/CrescentWind/p/21472437",
+          "publishedOn": "2026-07-15T10:44:00.000Z",
+          "wordCount": 1766,
+          "title": "ROS2学习CH1 工作空间，包，节点与接口 - 凪风sama",
+          "imageUrl": "https://img2024.cnblogs.com/blog/3147612/202607/3147612-20260715000642136-1301771062.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/jyzhao/p/21510332",
+          "author": null,
+          "description": "在 Linux 上用 sqlplus @xxx.sql 执行脚本时，只要 SQL 文件里有中文字符串或中文注释，就可能遇到乱码。这个问题通常不是数据库本身坏了，而是 SQL 文件编码、Linux Locale、SQL*Plus 客户端字符集没有对齐。 01 | 先看清三个关键角色 执行 SQL 文件",
+          "link": "https://www.cnblogs.com/jyzhao/p/21510332",
+          "publishedOn": "2026-07-15T10:33:00.000Z",
+          "wordCount": 669,
+          "title": "SQL*Plus 执行中文 SQL 文件，如何避开乱码坑 - AlfredZhao",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/KubeExplorer/p/21510013",
+          "author": null,
+          "description": "很多人刚接触 Kueue 时最大的困惑，不是 YAML 怎么写，而是看着一堆 CRD：ResourceFlavor、ClusterQueue、LocalQueue、Cohort、Workload，不知道它们之间到底是什么关系。本文不会逐个照着 API 文档介绍字段，而是把这五个对象放到同一条资源准入",
+          "link": "https://www.cnblogs.com/KubeExplorer/p/21510013",
+          "publishedOn": "2026-07-15T10:23:00.000Z",
+          "wordCount": 2007,
+          "title": "终于搞懂 Kueue：5 个核心对象一次讲透 - 探索云原生",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
         {
           "id": "https://www.cnblogs.com/deepseek999/p/20725711",
           "author": null,
@@ -11215,6 +12655,16 @@
       "siteUrl": "https://arthurchiao.art/",
       "articles": [
         {
+          "id": "https://arthurchiao.art/blog/from-reasoning-thinking-to-agentic-thinking-zh/",
+          "author": null,
+          "description": "译者序\n本文翻译自 2026 年 Junyang Lin 在 X 上的一篇文章\nFrom “Reasoning” Thinking to “Agentic” Thinking。\n过去两年，有两件事情被重塑了：\n我们如何评估模型（how we evaluate models），\n以及我们期望从模型得到什么（what we expect from them）。\n从 reasoning thinking 转向 agentic thinking 带来的深层次转变：\n训练理念：为了想得更久而 thinking -> 为了行动而 thinking；\n训练对象：模型本身 -> 模型+环境（Agent+Harness）；\n关注的多样性：数据多样性 -> 环境多样性。\n水平及维护精力所限，译文不免存在错误或过时之处，如有疑问，请查阅原文。\n传播知识，尊重劳动，年满十八周岁，转载请注明出处。\n以下是译文。\n译者序\n1 Reasoning thinking（推理式思考）    \n1.1 OpenAI o1：thinking 作为新的一等能力，直接暴露给用户\n1.2 DeepSeek-R1：对 thinking 能力的复现和扩展\n1.3 2025 年上半年：行业关注的仍然是推理式思考\n2 Agentic thinking（智能体式思考）    \n2.1 强化学习 scaling 的前提：确定、稳定且可扩展的反馈信号\n2.2 强化学习不再是一个可选步骤，而是一个系统工程\n2.3 重大转变：从大规模 pre-train 转向大规模 post-train (for reasoning)\n3 混合 thinking 的尝试    \n3.1 Qwen 的尝试        \n3.1.1 困难：thinking 和 non-thinking 模式的数据分布和行为目标很不一样\n3.1.2 用户行为画像的冲突\n3…",
+          "link": "https://arthurchiao.art/blog/from-reasoning-thinking-to-agentic-thinking-zh/",
+          "publishedOn": "2026-07-05T00:00:00.000Z",
+          "wordCount": 808,
+          "title": "[译] 大模型训练的中场叙事：从 Reasoning Thinking 转向 Agentic Thinking (2026)",
+          "imageUrl": null
+        },
+        {
           "id": "https://arthurchiao.art/blog/how-anthropic-product-team-moves-faster-zh/",
           "author": null,
           "description": "译者序\n本文整理翻译自 2026 年的一档播客\nHow Anthropic’s product team moves faster than anyone else | Cat Wu (Head of Product, Claude Code)，\n嘉宾是 Claude Code 的产品主管 Cat Wu。\n文中多次提到”产品品味”，这一点可以 callback 关于 AI 下半场的思考（二）：商业/应用篇（2025）：\nAI 使得执行力不再稀缺，那以后工作的关键是什么\n你要做什么（主观能动性，Agency）\n你选择什么（品味，Taste）\n水平及维护精力所限，译文不免存在错误或过时之处，如有疑问，请查阅原视频。\n传播知识，尊重劳动，年满十八周岁，转载请注明出处。\n以下是译文。\n译者序\n1 Anthropic 的 PM 角色是什么样的？    \n1.1 老板定 3～6 个月愿景，PM 拆成可执行计划\n1.2 方向和思路一致，分工存在一定模糊区间\n2 Anthropic 的 PM 岗位需要什么思维？    \n2.1 思维一：快速行动（Moving fast）\n2.2 思维二：建立一个快速上线新功能的机制\n2.3 思维三：建立一个高效的上下游团队协作框架\n3 Anthropic 的 PM 还写 PRD 吗？    \n3.1 比 PRD 更重要的两件事        \n指标驱动，每周通晒\n统一认知，符合团队的原则就可以自主决策，不受 PM 卡点\n3.2 有时候也写 PRD：模糊功能、超大基建功能\n4 Anthropic 为什么能迭代这么快？    \n4.1 确实有 mythos 的原因\n4.2 更重要的原因：上线流程简单，鼓励每个人都能”从想法到上线”\n5 Anthropic 的 PM team 组织形式是怎样的？    \n5.1 research PM team\n5.2 clau…",
@@ -11504,6 +12954,726 @@
       "feedUrl": "http://h1.nobbd.de/reports_rss.xml",
       "siteUrl": "http://h1.nobbd.de/",
       "articles": [
+        {
+          "id": "https://hackerone.com/reports/3713965",
+          "author": null,
+          "description": "GitHub disclosed a bug submitted by vaib25vicky: https://hackerone.com/reports/3713965",
+          "link": "https://hackerone.com/reports/3713965",
+          "publishedOn": "2026-07-15T16:35:57.000Z",
+          "wordCount": 25,
+          "title": "Able to bypass authorization logic and gain more access then intended",
+          "imageUrl": "https://profile-photos.hackerone-user-content.com/variants/000/001/894/1de36b69ee85cb77397b0ee01ddbabd7ed47a3dd_original.jpg/5d27521e1b671a8e8bc4f016cace6a876120e5addf7dcc35ae4a5eac091669a9"
+        },
+        {
+          "id": "https://hackerone.com/reports/3632577",
+          "author": null,
+          "description": "AWS VDP disclosed a bug submitted by mistercloudsec: https://hackerone.com/reports/3632577",
+          "link": "https://hackerone.com/reports/3632577",
+          "publishedOn": "2026-07-15T15:11:59.000Z",
+          "wordCount": null,
+          "title": "Bedrock AgentCore Starter Toolkit Creates Gateway IAM Roles Without Confused Deputy Protections",
+          "imageUrl": null
+        },
+        {
+          "id": "https://hackerone.com/reports/3581911",
+          "author": null,
+          "description": "Basecamp disclosed a bug submitted by newbiefromcoma: https://hackerone.com/reports/3581911 - Bounty: $337",
+          "link": "https://hackerone.com/reports/3581911",
+          "publishedOn": "2026-07-14T19:26:37.000Z",
+          "wordCount": 25,
+          "title": "Stored XSS on Trix Editor version latest (2.1.16) - Sanitizer Bypass",
+          "imageUrl": "https://profile-photos.hackerone-user-content.com/variants/STtZ2opgRsHdKby72xs56KhB/f0e07660005686ec92c43da54c0094c1ac1b490ea8c5eac04a4081d912d6ce36"
+        },
+        {
+          "id": "https://hackerone.com/reports/3702072",
+          "author": null,
+          "description": "AWS VDP disclosed a bug submitted by mistercloudsec: https://hackerone.com/reports/3702072",
+          "link": "https://hackerone.com/reports/3702072",
+          "publishedOn": "2026-07-14T18:52:27.000Z",
+          "wordCount": 25,
+          "title": "bedrock-mantle.api.aws accepts Bedrock API keys outside the IAM Deny, CloudTrail signal, and invocation logging AWS publishes for Bedrock keys",
+          "imageUrl": "https://profile-photos.hackerone-user-content.com/variants/fgfqam8gl7lzo8u8v0kiphkxfyt8/5d27521e1b671a8e8bc4f016cace6a876120e5addf7dcc35ae4a5eac091669a9"
+        },
+        {
+          "id": "https://hackerone.com/reports/3780695",
+          "author": null,
+          "description": "SingleStore disclosed a bug submitted by bisht-ji: https://hackerone.com/reports/3780695",
+          "link": "https://hackerone.com/reports/3780695",
+          "publishedOn": "2026-07-13T19:35:07.000Z",
+          "wordCount": null,
+          "title": "SELECT ... INTO OUTFILE does not enforce the FILE WRITE privilege  unprivileged arbitrary file write on the   server",
+          "imageUrl": null
+        },
+        {
+          "id": "https://hackerone.com/reports/3630605",
+          "author": null,
+          "description": "AWS VDP disclosed a bug submitted by mistercloudsec: https://hackerone.com/reports/3630605",
+          "link": "https://hackerone.com/reports/3630605",
+          "publishedOn": "2026-07-09T15:31:28.000Z",
+          "wordCount": null,
+          "title": "Kiro IDE Stores Auth Tokens with World-Readable Permissions (0644)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://hackerone.com/reports/3637898",
+          "author": null,
+          "description": "AWS VDP disclosed a bug submitted by kaporia: https://hackerone.com/reports/3637898",
+          "link": "https://hackerone.com/reports/3637898",
+          "publishedOn": "2026-07-06T17:48:30.000Z",
+          "wordCount": 25,
+          "title": "OS Command Injection in `aws-cdk-lib` NodejsFunction via Unsanitized `OsCommand` Helper (Supply Chain RCE)",
+          "imageUrl": "https://profile-photos.hackerone-user-content.com/variants/fgfqam8gl7lzo8u8v0kiphkxfyt8/5d27521e1b671a8e8bc4f016cace6a876120e5addf7dcc35ae4a5eac091669a9"
+        },
+        {
+          "id": "https://hackerone.com/reports/3764217",
+          "author": null,
+          "description": "Basecamp disclosed a bug submitted by zerodaysec_xyz: https://hackerone.com/reports/3764217 - Bounty: $287",
+          "link": "https://hackerone.com/reports/3764217",
+          "publishedOn": "2026-07-04T11:05:36.000Z",
+          "wordCount": 25,
+          "title": "Any installed app can force immediate logout and persistent DOS of authenticated Basecamp sessions via unprotected exported StartActivity",
+          "imageUrl": "https://profile-photos.hackerone-user-content.com/variants/STtZ2opgRsHdKby72xs56KhB/f0e07660005686ec92c43da54c0094c1ac1b490ea8c5eac04a4081d912d6ce36"
+        },
+        {
+          "id": "https://hackerone.com/reports/3628961",
+          "author": null,
+          "description": "Shopify disclosed a bug submitted by abahack: https://hackerone.com/reports/3628961",
+          "link": "https://hackerone.com/reports/3628961",
+          "publishedOn": "2026-07-03T18:50:06.000Z",
+          "wordCount": 25,
+          "title": "admin.shopify.com: Shopify Flow continues sending internal emails to a configured recipient after the staff author is removed",
+          "imageUrl": "https://profile-photos.hackerone-user-content.com/variants/fjjiC5585s8WoDGHv2M5okbJ/5d27521e1b671a8e8bc4f016cace6a876120e5addf7dcc35ae4a5eac091669a9"
+        },
+        {
+          "id": "https://hackerone.com/reports/3780277",
+          "author": null,
+          "description": "AWS VDP disclosed a bug submitted by nick_frichette_dd: https://hackerone.com/reports/3780277",
+          "link": "https://hackerone.com/reports/3780277",
+          "publishedOn": "2026-07-02T17:51:21.000Z",
+          "wordCount": null,
+          "title": "Non-Production API Endpoints for the Amazon S3 Tables Service Fails to Log to CloudTrail Resulting in Silent Permission Enumeration",
+          "imageUrl": null
+        },
+        {
+          "id": "https://hackerone.com/reports/3789570",
+          "author": null,
+          "description": "8x8 disclosed a bug submitted by pmgjoe: https://hackerone.com/reports/3789570 - Bounty: $100",
+          "link": "https://hackerone.com/reports/3789570",
+          "publishedOn": "2026-07-02T15:50:32.000Z",
+          "wordCount": 25,
+          "title": "jitsi-meet: Prosody/Jigasi missing header whitelist in mod_filter_iq_rayo allows arbitrary SIP header injection and Caller ID spoofing",
+          "imageUrl": "https://profile-photos.hackerone-user-content.com/variants/3y22a5r49ryw4d4454msmh3frrgn/eab7e558a2bc3ec841c51b96524419e712978d371ddb665048a3154ab05197fc"
+        },
+        {
+          "id": "https://hackerone.com/reports/3485343",
+          "author": null,
+          "description": "8x8 disclosed a bug submitted by r1skr1der: https://hackerone.com/reports/3485343 - Bounty: $100",
+          "link": "https://hackerone.com/reports/3485343",
+          "publishedOn": "2026-07-02T15:41:33.000Z",
+          "wordCount": 25,
+          "title": "jitsi-call-analytics: Unauthenticated arbitrary file write via path traversal in `/api/v1/uploads/analyze`",
+          "imageUrl": "https://profile-photos.hackerone-user-content.com/variants/3y22a5r49ryw4d4454msmh3frrgn/eab7e558a2bc3ec841c51b96524419e712978d371ddb665048a3154ab05197fc"
+        },
+        {
+          "id": "https://hackerone.com/reports/3766455",
+          "author": null,
+          "description": "Yelp disclosed a bug submitted by 0xmanticore: https://hackerone.com/reports/3766455",
+          "link": "https://hackerone.com/reports/3766455",
+          "publishedOn": "2026-07-02T15:36:44.000Z",
+          "wordCount": null,
+          "title": "Yelp for Business: locked Email field silently editable via API",
+          "imageUrl": null
+        },
+        {
+          "id": "https://hackerone.com/reports/3559522",
+          "author": null,
+          "description": "Nintendo disclosed a bug submitted by hana2736: https://hackerone.com/reports/3559522",
+          "link": "https://hackerone.com/reports/3559522",
+          "publishedOn": "2026-07-02T01:26:11.000Z",
+          "wordCount": 25,
+          "title": "Splatoon 3 In-Match Integrity Bypass via Consensus Reflection Attack on Unordered Peer Submission",
+          "imageUrl": "https://profile-photos.hackerone-user-content.com/variants/000/016/634/999cefca933756faeeb2ea39c07557943437c94f_original.png/f0e07660005686ec92c43da54c0094c1ac1b490ea8c5eac04a4081d912d6ce36"
+        },
+        {
+          "id": "https://hackerone.com/reports/3813932",
+          "author": null,
+          "description": "Nintendo disclosed a bug submitted by alzxk11: https://hackerone.com/reports/3813932",
+          "link": "https://hackerone.com/reports/3813932",
+          "publishedOn": "2026-07-02T01:25:44.000Z",
+          "wordCount": 25,
+          "title": "[Splatoon 3] Kick other players with NplnLogin message",
+          "imageUrl": "https://profile-photos.hackerone-user-content.com/variants/000/016/634/999cefca933756faeeb2ea39c07557943437c94f_original.png/f0e07660005686ec92c43da54c0094c1ac1b490ea8c5eac04a4081d912d6ce36"
+        },
+        {
+          "id": "https://hackerone.com/reports/3295500",
+          "author": null,
+          "description": "SingleStore disclosed a bug submitted by bl4ck-: https://hackerone.com/reports/3295500",
+          "link": "https://hackerone.com/reports/3295500",
+          "publishedOn": "2026-07-01T17:42:23.000Z",
+          "wordCount": null,
+          "title": "Exceeding the maximum number of spaces allowed by exploiting a Race Condition in the Workspace creation process",
+          "imageUrl": null
+        },
+        {
+          "id": "https://hackerone.com/reports/3353057",
+          "author": null,
+          "description": "SingleStore disclosed a bug submitted by bl4ck-: https://hackerone.com/reports/3353057",
+          "link": "https://hackerone.com/reports/3353057",
+          "publishedOn": "2026-07-01T17:41:16.000Z",
+          "wordCount": 25,
+          "title": "Insecure Direct Object Reference (IDOR) allows creating folders.",
+          "imageUrl": "https://profile-photos.hackerone-user-content.com/variants/r90pntetw79njltl9vvtua70vp5v/5d27521e1b671a8e8bc4f016cace6a876120e5addf7dcc35ae4a5eac091669a9"
+        },
+        {
+          "id": "https://hackerone.com/reports/3353035",
+          "author": null,
+          "description": "SingleStore disclosed a bug submitted by bl4ck-: https://hackerone.com/reports/3353035",
+          "link": "https://hackerone.com/reports/3353035",
+          "publishedOn": "2026-07-01T17:39:22.000Z",
+          "wordCount": null,
+          "title": "Delete any folder for any user within the organization",
+          "imageUrl": null
+        },
+        {
+          "id": "https://hackerone.com/reports/3353000",
+          "author": null,
+          "description": "SingleStore disclosed a bug submitted by bl4ck-: https://hackerone.com/reports/3353000",
+          "link": "https://hackerone.com/reports/3353000",
+          "publishedOn": "2026-07-01T17:36:56.000Z",
+          "wordCount": null,
+          "title": "Privilege Escalation  Access to the Alert Subscribers page for users with low privileges",
+          "imageUrl": null
+        },
+        {
+          "id": "https://hackerone.com/reports/3648681",
+          "author": null,
+          "description": "Node.js disclosed a bug submitted by saif-01: https://hackerone.com/reports/3648681",
+          "link": "https://hackerone.com/reports/3648681",
+          "publishedOn": "2026-07-01T15:39:11.000Z",
+          "wordCount": 25,
+          "title": "Improper Input Validation  HTTP Response Parser Unconditionally Accepts Bare CR in Status Line",
+          "imageUrl": "https://profile-photos.hackerone-user-content.com/variants/000/022/984/e600648ace4a8553247bce967d461a030aa81d49_original.png/f0e07660005686ec92c43da54c0094c1ac1b490ea8c5eac04a4081d912d6ce36"
+        },
+        {
+          "id": "https://hackerone.com/reports/3833577",
+          "author": null,
+          "description": "curl disclosed a bug submitted by carehi1324: https://hackerone.com/reports/3833577",
+          "link": "https://hackerone.com/reports/3833577",
+          "publishedOn": "2026-06-30T12:31:07.000Z",
+          "wordCount": null,
+          "title": "heap-use-after-free in curl_easy_cleanup() called from callback",
+          "imageUrl": null
+        },
+        {
+          "id": "https://hackerone.com/reports/3831432",
+          "author": null,
+          "description": "curl disclosed a bug submitted by a6b30108: https://hackerone.com/reports/3831432",
+          "link": "https://hackerone.com/reports/3831432",
+          "publishedOn": "2026-06-30T11:03:53.000Z",
+          "wordCount": 25,
+          "title": "setopt(VERIFYPEER) from callback bypasses TLS verify on connection reuse",
+          "imageUrl": "https://profile-photos.hackerone-user-content.com/variants/000/035/663/2faf4c279d437d64bfda6d23d62ce1833813a4d9_original.png/f0e07660005686ec92c43da54c0094c1ac1b490ea8c5eac04a4081d912d6ce36"
+        },
+        {
+          "id": "https://hackerone.com/reports/3826843",
+          "author": null,
+          "description": "curl disclosed a bug submitted by bigtang: https://hackerone.com/reports/3826843",
+          "link": "https://hackerone.com/reports/3826843",
+          "publishedOn": "2026-06-30T10:20:56.000Z",
+          "wordCount": null,
+          "title": "ssh_config_matches is dead code: unauthorized SSH key reuse",
+          "imageUrl": null
+        },
+        {
+          "id": "https://hackerone.com/reports/3831345",
+          "author": null,
+          "description": "curl disclosed a bug submitted by smaeljaish771: https://hackerone.com/reports/3831345",
+          "link": "https://hackerone.com/reports/3831345",
+          "publishedOn": "2026-06-30T10:20:45.000Z",
+          "wordCount": null,
+          "title": "CURLSHOPT_UNSHARE race can cause UAF in shared SSL session cache during HTTPS transfer",
+          "imageUrl": null
+        },
+        {
+          "id": "https://hackerone.com/reports/3832393",
+          "author": null,
+          "description": "curl disclosed a bug submitted by th3hound: https://hackerone.com/reports/3832393",
+          "link": "https://hackerone.com/reports/3832393",
+          "publishedOn": "2026-06-30T05:56:23.000Z",
+          "wordCount": 25,
+          "title": "libcurl upload read callbacks miss recursive API guard, allowing prohibited multi API reentry and ASAN-confirmed UAF",
+          "imageUrl": "https://profile-photos.hackerone-user-content.com/variants/000/035/663/2faf4c279d437d64bfda6d23d62ce1833813a4d9_original.png/f0e07660005686ec92c43da54c0094c1ac1b490ea8c5eac04a4081d912d6ce36"
+        },
+        {
+          "id": "https://hackerone.com/reports/3400140",
+          "author": null,
+          "description": "Discourse disclosed a bug submitted by dpaysm: https://hackerone.com/reports/3400140 - Bounty: $1024",
+          "link": "https://hackerone.com/reports/3400140",
+          "publishedOn": "2026-06-30T02:28:06.000Z",
+          "wordCount": null,
+          "title": "Denial of Service (DoS) Vulnerability in Drafts Creation Endpoint",
+          "imageUrl": null
+        },
+        {
+          "id": "https://hackerone.com/reports/3547349",
+          "author": null,
+          "description": "Monero disclosed a bug submitted by kklam32: https://hackerone.com/reports/3547349",
+          "link": "https://hackerone.com/reports/3547349",
+          "publishedOn": "2026-06-29T17:14:19.000Z",
+          "wordCount": null,
+          "title": "Inverted ternary in peerlist_manager::filter() allows unlimited whitelist entries per host via different ports",
+          "imageUrl": null
+        },
+        {
+          "id": "https://hackerone.com/reports/876530",
+          "author": null,
+          "description": "Monero disclosed a bug submitted by xnbya: https://hackerone.com/reports/876530",
+          "link": "https://hackerone.com/reports/876530",
+          "publishedOn": "2026-06-29T17:06:45.000Z",
+          "wordCount": null,
+          "title": "Remote node DOS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://hackerone.com/reports/3824303",
+          "author": null,
+          "description": "curl disclosed a bug submitted by homanp: https://hackerone.com/reports/3824303",
+          "link": "https://hackerone.com/reports/3824303",
+          "publishedOn": "2026-06-28T15:22:06.000Z",
+          "wordCount": null,
+          "title": "UAF read in mev_pollset_diff() trace path after curl_easy_pause() in socket callback",
+          "imageUrl": null
+        },
+        {
+          "id": "https://hackerone.com/reports/3823985",
+          "author": null,
+          "description": "curl disclosed a bug submitted by stze: https://hackerone.com/reports/3823985",
+          "link": "https://hackerone.com/reports/3823985",
+          "publishedOn": "2026-06-28T06:33:17.000Z",
+          "wordCount": null,
+          "title": "Use-after-free in `mev_forget_socket` when `curl_easy_pause()` is called from a `CURL_POLL_REMOVE` socket callback (incomplete fix of CVE-2026-9080)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://hackerone.com/reports/3826199",
+          "author": null,
+          "description": "curl disclosed a bug submitted by b1gtang: https://hackerone.com/reports/3826199",
+          "link": "https://hackerone.com/reports/3826199",
+          "publishedOn": "2026-06-26T14:34:52.000Z",
+          "wordCount": null,
+          "title": "mbedTLS / wolfSSL / rustls backends silently skip hostname verification when CURLOPT_SSL_VERIFYPEER=0",
+          "imageUrl": null
+        },
+        {
+          "id": "https://hackerone.com/reports/3823932",
+          "author": null,
+          "description": "curl disclosed a bug submitted by tneelc: https://hackerone.com/reports/3823932",
+          "link": "https://hackerone.com/reports/3823932",
+          "publishedOn": "2026-06-26T14:34:39.000Z",
+          "wordCount": 25,
+          "title": "CURLOPT_HAPROXY_CLIENT_IP lacks input validation, enabling HAProxy PROXY protocol injection",
+          "imageUrl": "https://profile-photos.hackerone-user-content.com/variants/000/035/663/2faf4c279d437d64bfda6d23d62ce1833813a4d9_original.png/f0e07660005686ec92c43da54c0094c1ac1b490ea8c5eac04a4081d912d6ce36"
+        },
+        {
+          "id": "https://hackerone.com/reports/3781492",
+          "author": null,
+          "description": "Revive Adserver disclosed a bug submitted by doomtech: https://hackerone.com/reports/3781492",
+          "link": "https://hackerone.com/reports/3781492",
+          "publishedOn": "2026-06-25T13:43:50.000Z",
+          "wordCount": null,
+          "title": "PHP code injection in delivery-limitation `logical` validation bypass - XML-RPC setChannelTargeting",
+          "imageUrl": null
+        },
+        {
+          "id": "https://hackerone.com/reports/3783738",
+          "author": null,
+          "description": "Revive Adserver disclosed a bug submitted by garuthacktvist: https://hackerone.com/reports/3783738",
+          "link": "https://hackerone.com/reports/3783738",
+          "publishedOn": "2026-06-25T13:43:14.000Z",
+          "wordCount": 25,
+          "title": "XMLRPC login leak exposes valid session ID enabling unauthorized API access",
+          "imageUrl": "https://profile-photos.hackerone-user-content.com/variants/000/002/367/4f47a5b4a364515d4bbdc17550d67ea5415363cd_original.png/f0e07660005686ec92c43da54c0094c1ac1b490ea8c5eac04a4081d912d6ce36"
+        },
+        {
+          "id": "https://hackerone.com/reports/3780806",
+          "author": null,
+          "description": "Revive Adserver disclosed a bug submitted by kanon4: https://hackerone.com/reports/3780806",
+          "link": "https://hackerone.com/reports/3780806",
+          "publishedOn": "2026-06-25T13:41:12.000Z",
+          "wordCount": 25,
+          "title": "Reflected XSS via unsanitised refresh parameter in zone invocation tag",
+          "imageUrl": "https://profile-photos.hackerone-user-content.com/variants/000/002/367/4f47a5b4a364515d4bbdc17550d67ea5415363cd_original.png/f0e07660005686ec92c43da54c0094c1ac1b490ea8c5eac04a4081d912d6ce36"
+        },
+        {
+          "id": "https://hackerone.com/reports/3780854",
+          "author": null,
+          "description": "Revive Adserver disclosed a bug submitted by riodrwn: https://hackerone.com/reports/3780854",
+          "link": "https://hackerone.com/reports/3780854",
+          "publishedOn": "2026-06-25T13:40:57.000Z",
+          "wordCount": null,
+          "title": "PHP code injection in delivery-limitation `logical` validation bypass",
+          "imageUrl": null
+        },
+        {
+          "id": "https://hackerone.com/reports/3781311",
+          "author": null,
+          "description": "Revive Adserver disclosed a bug submitted by an_gr_y: https://hackerone.com/reports/3781311",
+          "link": "https://hackerone.com/reports/3781311",
+          "publishedOn": "2026-06-25T13:40:45.000Z",
+          "wordCount": null,
+          "title": "Stored XSS in maintenance tools via unescaped entity names",
+          "imageUrl": null
+        },
+        {
+          "id": "https://hackerone.com/reports/3781691",
+          "author": null,
+          "description": "Revive Adserver disclosed a bug submitted by an_gr_y: https://hackerone.com/reports/3781691",
+          "link": "https://hackerone.com/reports/3781691",
+          "publishedOn": "2026-06-25T13:40:31.000Z",
+          "wordCount": 25,
+          "title": "CSRF in zoneinclude.php allows unauthorized banner and campaign linking",
+          "imageUrl": "https://profile-photos.hackerone-user-content.com/variants/000/002/367/4f47a5b4a364515d4bbdc17550d67ea5415363cd_original.png/f0e07660005686ec92c43da54c0094c1ac1b490ea8c5eac04a4081d912d6ce36"
+        },
+        {
+          "id": "https://hackerone.com/reports/3780709",
+          "author": null,
+          "description": "Revive Adserver disclosed a bug submitted by hakuopi: https://hackerone.com/reports/3780709",
+          "link": "https://hackerone.com/reports/3780709",
+          "publishedOn": "2026-06-25T13:40:14.000Z",
+          "wordCount": null,
+          "title": "Missing ownership validation allows crossmanager trackercampaign linking",
+          "imageUrl": null
+        },
+        {
+          "id": "https://hackerone.com/reports/3793243",
+          "author": null,
+          "description": "Revive Adserver disclosed a bug submitted by kanon4: https://hackerone.com/reports/3793243",
+          "link": "https://hackerone.com/reports/3793243",
+          "publishedOn": "2026-06-25T13:39:58.000Z",
+          "wordCount": null,
+          "title": "Reflected XSS in statsvideo.php via improperly encoded URL parameters",
+          "imageUrl": null
+        },
+        {
+          "id": "https://hackerone.com/reports/3582376",
+          "author": null,
+          "description": "Node.js disclosed a bug submitted by yushengchen: https://hackerone.com/reports/3582376",
+          "link": "https://hackerone.com/reports/3582376",
+          "publishedOn": "2026-06-25T05:03:24.000Z",
+          "wordCount": null,
+          "title": "HTTP Response Queue Poisoning via TOCTOU Race Condition in `http.Agent`",
+          "imageUrl": null
+        },
+        {
+          "id": "https://hackerone.com/reports/3618831",
+          "author": null,
+          "description": "Node.js disclosed a bug submitted by cyberjoker: https://hackerone.com/reports/3618831",
+          "link": "https://hackerone.com/reports/3618831",
+          "publishedOn": "2026-06-25T05:03:07.000Z",
+          "wordCount": 25,
+          "title": "Unix domain socket server bypasses --permission network restrictions (incomplete CVE-2026-21636 fix)",
+          "imageUrl": "https://profile-photos.hackerone-user-content.com/variants/000/022/984/e600648ace4a8553247bce967d461a030aa81d49_original.png/f0e07660005686ec92c43da54c0094c1ac1b490ea8c5eac04a4081d912d6ce36"
+        },
+        {
+          "id": "https://hackerone.com/reports/3688064",
+          "author": null,
+          "description": "Node.js disclosed a bug submitted by tmeletlidis: https://hackerone.com/reports/3688064",
+          "link": "https://hackerone.com/reports/3688064",
+          "publishedOn": "2026-06-25T05:02:01.000Z",
+          "wordCount": null,
+          "title": "Node.js unicode dot separator handling can lead to tls wildcard-depth authentication bypass due to resolver and verifier hostname normalization mismat",
+          "imageUrl": null
+        },
+        {
+          "id": "https://hackerone.com/reports/3656869",
+          "author": null,
+          "description": "Node.js disclosed a bug submitted by tmeletlidis: https://hackerone.com/reports/3656869",
+          "link": "https://hackerone.com/reports/3656869",
+          "publishedOn": "2026-06-25T05:01:31.000Z",
+          "wordCount": null,
+          "title": "Uppercase sni context matching can lead to mtls authorization bypass due to case-sensitive hostname matching",
+          "imageUrl": null
+        },
+        {
+          "id": "https://hackerone.com/reports/3649802",
+          "author": null,
+          "description": "Node.js disclosed a bug submitted by 3d7omb: https://hackerone.com/reports/3649802",
+          "link": "https://hackerone.com/reports/3649802",
+          "publishedOn": "2026-06-25T05:01:01.000Z",
+          "wordCount": null,
+          "title": "TLS host identity verification bypass via session reuse with different servername leads to unauthorized connections",
+          "imageUrl": null
+        },
+        {
+          "id": "https://hackerone.com/reports/3625987",
+          "author": null,
+          "description": "Node.js disclosed a bug submitted by muhammaddaffa: https://hackerone.com/reports/3625987",
+          "link": "https://hackerone.com/reports/3625987",
+          "publishedOn": "2026-06-25T05:00:38.000Z",
+          "wordCount": null,
+          "title": "Permission Model bypass via FileHandle.utimes() in the promises API",
+          "imageUrl": null
+        },
+        {
+          "id": "https://hackerone.com/reports/3720313",
+          "author": null,
+          "description": "Node.js disclosed a bug submitted by nssys: https://hackerone.com/reports/3720313",
+          "link": "https://hackerone.com/reports/3720313",
+          "publishedOn": "2026-06-25T05:00:10.000Z",
+          "wordCount": null,
+          "title": "Proxy credentials leaked in ERR_PROXY_TUNNEL error message",
+          "imageUrl": null
+        },
+        {
+          "id": "https://hackerone.com/reports/3676863",
+          "author": null,
+          "description": "Node.js disclosed a bug submitted by kingsd: https://hackerone.com/reports/3676863",
+          "link": "https://hackerone.com/reports/3676863",
+          "publishedOn": "2026-06-25T04:59:45.000Z",
+          "wordCount": null,
+          "title": "Unbounded memory growth in `node:http2` clients via attacker-controlled ORIGIN frames",
+          "imageUrl": null
+        },
+        {
+          "id": "https://hackerone.com/reports/3656716",
+          "author": null,
+          "description": "Node.js disclosed a bug submitted by tmeletlidis: https://hackerone.com/reports/3656716",
+          "link": "https://hackerone.com/reports/3656716",
+          "publishedOn": "2026-06-25T04:59:17.000Z",
+          "wordCount": null,
+          "title": "Embedded-nul hostnames can lead to silent authority rebinding due to c-string truncation in resolver bindings",
+          "imageUrl": null
+        },
+        {
+          "id": "https://hackerone.com/reports/3760016",
+          "author": null,
+          "description": "Node.js disclosed a bug submitted by erichen: https://hackerone.com/reports/3760016",
+          "link": "https://hackerone.com/reports/3760016",
+          "publishedOn": "2026-06-25T04:58:47.000Z",
+          "wordCount": null,
+          "title": "Node.js WebCrypto AES Integer Overflow Leads to Remote Process Abort (DoS)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://hackerone.com/reports/3735180",
+          "author": null,
+          "description": "curl disclosed a bug submitted by zhenyan: https://hackerone.com/reports/3735180",
+          "link": "https://hackerone.com/reports/3735180",
+          "publishedOn": "2026-06-24T08:31:04.000Z",
+          "wordCount": null,
+          "title": "HTTPS proxy connection reuse lets one easy handle inherit another handle's mTLS-authenticated proxy session",
+          "imageUrl": null
+        },
+        {
+          "id": "https://hackerone.com/reports/3788984",
+          "author": null,
+          "description": "curl disclosed a bug submitted by bagder: https://hackerone.com/reports/3788984",
+          "link": "https://hackerone.com/reports/3788984",
+          "publishedOn": "2026-06-24T08:30:15.000Z",
+          "wordCount": null,
+          "title": "CVE-2026-11564: Native CA trust persist",
+          "imageUrl": null
+        },
+        {
+          "id": "https://hackerone.com/reports/3797526",
+          "author": null,
+          "description": "curl disclosed a bug submitted by alienowo: https://hackerone.com/reports/3797526",
+          "link": "https://hackerone.com/reports/3797526",
+          "publishedOn": "2026-06-24T08:29:28.000Z",
+          "wordCount": null,
+          "title": "CVE-2026-12064: proto-default skips SSH verification",
+          "imageUrl": null
+        },
+        {
+          "id": "https://hackerone.com/reports/3788931",
+          "author": null,
+          "description": "curl disclosed a bug submitted by evergarden1123: https://hackerone.com/reports/3788931",
+          "link": "https://hackerone.com/reports/3788931",
+          "publishedOn": "2026-06-24T08:29:15.000Z",
+          "wordCount": null,
+          "title": "CVE-2026-11586: WS Auto-PONG memory exhaustion",
+          "imageUrl": null
+        },
+        {
+          "id": "https://hackerone.com/reports/3783438",
+          "author": null,
+          "description": "curl disclosed a bug submitted by vectorqueue: https://hackerone.com/reports/3783438",
+          "link": "https://hackerone.com/reports/3783438",
+          "publishedOn": "2026-06-24T08:29:05.000Z",
+          "wordCount": null,
+          "title": "CVE-2026-11352: QUIC zero-length UDP datagrams busy-loop",
+          "imageUrl": null
+        },
+        {
+          "id": "https://hackerone.com/reports/3751697",
+          "author": null,
+          "description": "curl disclosed a bug submitted by giant_anteater: https://hackerone.com/reports/3751697",
+          "link": "https://hackerone.com/reports/3751697",
+          "publishedOn": "2026-06-24T08:28:55.000Z",
+          "wordCount": null,
+          "title": "CVE-2026-10536: HTTP/2 stream-dependency tree UAF",
+          "imageUrl": null
+        },
+        {
+          "id": "https://hackerone.com/reports/3733905",
+          "author": null,
+          "description": "curl disclosed a bug submitted by vegagent: https://hackerone.com/reports/3733905",
+          "link": "https://hackerone.com/reports/3733905",
+          "publishedOn": "2026-06-24T08:28:44.000Z",
+          "wordCount": null,
+          "title": "CVE-2026-8924: trailing dot domain super cookie",
+          "imageUrl": null
+        },
+        {
+          "id": "https://hackerone.com/reports/3751712",
+          "author": null,
+          "description": "curl disclosed a bug submitted by giant_anteater: https://hackerone.com/reports/3751712",
+          "link": "https://hackerone.com/reports/3751712",
+          "publishedOn": "2026-06-24T08:27:32.000Z",
+          "wordCount": null,
+          "title": "CVE-2026-9547: SSH improper host validation",
+          "imageUrl": null
+        },
+        {
+          "id": "https://hackerone.com/reports/3754343",
+          "author": null,
+          "description": "curl disclosed a bug submitted by fafawf: https://hackerone.com/reports/3754343",
+          "link": "https://hackerone.com/reports/3754343",
+          "publishedOn": "2026-06-24T08:27:22.000Z",
+          "wordCount": null,
+          "title": "CVE-2026-9546: sending old referer",
+          "imageUrl": null
+        },
+        {
+          "id": "https://hackerone.com/reports/3750295",
+          "author": null,
+          "description": "curl disclosed a bug submitted by keen4n: https://hackerone.com/reports/3750295",
+          "link": "https://hackerone.com/reports/3750295",
+          "publishedOn": "2026-06-24T08:26:56.000Z",
+          "wordCount": null,
+          "title": "CVE-2026-9079: stale proxy password leak",
+          "imageUrl": null
+        },
+        {
+          "id": "https://hackerone.com/reports/3749204",
+          "author": null,
+          "description": "curl disclosed a bug submitted by giant_anteater: https://hackerone.com/reports/3749204",
+          "link": "https://hackerone.com/reports/3749204",
+          "publishedOn": "2026-06-24T08:25:17.000Z",
+          "wordCount": null,
+          "title": "CVE-2026-9080: UAF after pause in socket callback",
+          "imageUrl": null
+        },
+        {
+          "id": "https://hackerone.com/reports/3718195",
+          "author": null,
+          "description": "curl disclosed a bug submitted by bagder: https://hackerone.com/reports/3718195",
+          "link": "https://hackerone.com/reports/3718195",
+          "publishedOn": "2026-06-24T08:25:05.000Z",
+          "wordCount": null,
+          "title": "CVE-2026-8286: wrong STARTTLS connection reuse",
+          "imageUrl": null
+        },
+        {
+          "id": "https://hackerone.com/reports/3733910",
+          "author": null,
+          "description": "curl disclosed a bug submitted by giant_anteater: https://hackerone.com/reports/3733910",
+          "link": "https://hackerone.com/reports/3733910",
+          "publishedOn": "2026-06-24T08:25:03.000Z",
+          "wordCount": null,
+          "title": "CVE-2026-8932: incomplete mTLS config matching in conn reuse",
+          "imageUrl": null
+        },
+        {
+          "id": "https://hackerone.com/reports/3744543",
+          "author": null,
+          "description": "curl disclosed a bug submitted by adyej: https://hackerone.com/reports/3744543",
+          "link": "https://hackerone.com/reports/3744543",
+          "publishedOn": "2026-06-24T08:24:47.000Z",
+          "wordCount": null,
+          "title": "CVE-2026-8927: env-set cross-proxy Digest auth state leak",
+          "imageUrl": null
+        },
+        {
+          "id": "https://hackerone.com/reports/3735193",
+          "author": null,
+          "description": "curl disclosed a bug submitted by giant_anteater: https://hackerone.com/reports/3735193",
+          "link": "https://hackerone.com/reports/3735193",
+          "publishedOn": "2026-06-24T08:23:35.000Z",
+          "wordCount": 25,
+          "title": "CVE-2026-8925: SASL double-free",
+          "imageUrl": "https://profile-photos.hackerone-user-content.com/variants/000/035/663/2faf4c279d437d64bfda6d23d62ce1833813a4d9_original.png/f0e07660005686ec92c43da54c0094c1ac1b490ea8c5eac04a4081d912d6ce36"
+        },
+        {
+          "id": "https://hackerone.com/reports/3735184",
+          "author": null,
+          "description": "curl disclosed a bug submitted by giant_anteater: https://hackerone.com/reports/3735184",
+          "link": "https://hackerone.com/reports/3735184",
+          "publishedOn": "2026-06-24T08:23:22.000Z",
+          "wordCount": null,
+          "title": "CVE-2026-8926: password leak with netrc and user in URL",
+          "imageUrl": null
+        },
+        {
+          "id": "https://hackerone.com/reports/3721183",
+          "author": null,
+          "description": "curl disclosed a bug submitted by areksaxyz: https://hackerone.com/reports/3721183",
+          "link": "https://hackerone.com/reports/3721183",
+          "publishedOn": "2026-06-24T08:23:10.000Z",
+          "wordCount": null,
+          "title": "CVE-2026-8458: wrong reuse for different services",
+          "imageUrl": null
+        },
+        {
+          "id": "https://hackerone.com/reports/3384615",
+          "author": null,
+          "description": "SingleStore disclosed a bug submitted by axolot23: https://hackerone.com/reports/3384615",
+          "link": "https://hackerone.com/reports/3384615",
+          "publishedOn": "2026-06-24T07:03:12.000Z",
+          "wordCount": null,
+          "title": "Insufficient checks in the file path parameter allow writing to unauthorized directories",
+          "imageUrl": null
+        },
+        {
+          "id": "https://hackerone.com/reports/3752888",
+          "author": null,
+          "description": "curl disclosed a bug submitted by hahahkim: https://hackerone.com/reports/3752888",
+          "link": "https://hackerone.com/reports/3752888",
+          "publishedOn": "2026-06-24T06:24:17.000Z",
+          "wordCount": null,
+          "title": "CVE-2026-9545: exposing HTTP/3 early data",
+          "imageUrl": null
+        },
+        {
+          "id": "https://hackerone.com/reports/3793260",
+          "author": null,
+          "description": "curl disclosed a bug submitted by jjchuck: https://hackerone.com/reports/3793260",
+          "link": "https://hackerone.com/reports/3793260",
+          "publishedOn": "2026-06-24T06:21:56.000Z",
+          "wordCount": null,
+          "title": "CVE-2026-11856: cross-origin Digest auth state leak",
+          "imageUrl": null
+        },
+        {
+          "id": "https://hackerone.com/reports/3734676",
+          "author": null,
+          "description": "Mozilla disclosed a bug submitted by anshuman_bh: https://hackerone.com/reports/3734676 - Bounty: $2000",
+          "link": "https://hackerone.com/reports/3734676",
+          "publishedOn": "2026-06-23T12:37:52.000Z",
+          "wordCount": null,
+          "title": "Taskcluster web-server OAuth2 authorization codes are reusable and the exchange handler checks the wrong expiry column",
+          "imageUrl": null
+        },
+        {
+          "id": "https://hackerone.com/reports/3817602",
+          "author": null,
+          "description": "Node.js disclosed a bug submitted by yottt: https://hackerone.com/reports/3817602",
+          "link": "https://hackerone.com/reports/3817602",
+          "publishedOn": "2026-06-23T09:53:20.000Z",
+          "wordCount": null,
+          "title": "Node --run POSIX positional argument escaping allows shell command injection",
+          "imageUrl": null
+        },
         {
           "id": "https://hackerone.com/reports/3723458",
           "author": null,
@@ -13002,6 +15172,46 @@
       "siteUrl": "https://www.malware-traffic-analysis.net/index.html",
       "articles": [
         {
+          "id": "https://www.malware-traffic-analysis.net/2026/06/22/index.html",
+          "author": null,
+          "description": "",
+          "link": "https://www.malware-traffic-analysis.net/2026/06/22/index.html",
+          "publishedOn": "2026-06-23T18:29:00.000Z",
+          "wordCount": 74,
+          "title": "2026-06-22: SHub Stealer infection (macOS)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.malware-traffic-analysis.net/2026/06/18/index.html",
+          "author": null,
+          "description": "",
+          "link": "https://www.malware-traffic-analysis.net/2026/06/18/index.html",
+          "publishedOn": "2026-06-23T18:15:00.000Z",
+          "wordCount": 74,
+          "title": "2026-06-18: SHub Stealer infection (macOS)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.malware-traffic-analysis.net/2026/06/01/index.html",
+          "author": null,
+          "description": "",
+          "link": "https://www.malware-traffic-analysis.net/2026/06/01/index.html",
+          "publishedOn": "2026-06-23T17:42:00.000Z",
+          "wordCount": 71,
+          "title": "2026-06-01: SmartApeSG ClickFix --> Unidentified RAT",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.malware-traffic-analysis.net/2026/05/27/index.html",
+          "author": null,
+          "description": "",
+          "link": "https://www.malware-traffic-analysis.net/2026/05/27/index.html",
+          "publishedOn": "2026-06-23T17:40:00.000Z",
+          "wordCount": 82,
+          "title": "2026-05-27: SmartApeSG ClickFix --> Unidentified RAT --> NetSupport RAT",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.malware-traffic-analysis.net/2026/06/09/index.html",
           "author": null,
           "description": "",
@@ -13272,6 +15482,16 @@
       "feedUrl": "https://payatu.com/feed/",
       "siteUrl": "https://payatu.com/",
       "articles": [
+        {
+          "id": "https://payatu.com/?p=16370",
+          "author": "Hemant Sonkar",
+          "description": "Here is a pattern we see all the time. A company builds a connected product, gets the device tested by one vendor, gets the APIs tested by another, and both reports come back reasonably clean. Then someone chains a hardcoded key from the firmware to an API endpoint nobody thought to test, and suddenly the […]\nThe post How to Choose IoT and API Penetration Testing Companies  appeared first on Payatu.",
+          "link": "https://payatu.com/blog/how-to-choose-iot-and-api-penetration-testing-companies/",
+          "publishedOn": "2026-07-03T08:27:57.000Z",
+          "wordCount": 19532,
+          "title": "How to Choose IoT and API Penetration Testing Companies",
+          "imageUrl": "https://payatu.com/wp-content/uploads/2026/07/How-to-Choose-IoT-and-API-Penetration-Testing-Companies.jpg"
+        },
         {
           "id": "https://payatu.com/?p=16209",
           "author": "Surya Rawal",
@@ -13587,6 +15807,26 @@
       "siteUrl": "https://vipread.com",
       "articles": [
         {
+          "id": "https://vipread.com/library/topic/4153",
+          "author": null,
+          "description": "本文链接\n\n一场关于“AI如何真正接管攻防闭环”的深度实践，这是又一个LLM+工具链的Demo，而是一次从“人指挥AI”到“AI自主求解”的范式跃迁——来自WgpSec安全团队2026年最新工程化成果：Alkaid智能体框架及其在真实攻防场景中的落地验证。\n这份材料，凝结了三个关键突破：\n🔹 第一，直面AI攻防的三大顽疾：\n状态失忆（15轮后路径僵化）、知识幻觉（自编CVE/错PoC）、评测失真（90%通过率背后标准不一）——不是回避问题，而是用架构设计根治它。\n🔹 第二，定义AI在攻防中的三级演进：\n- Level 1 副驾驶：嵌入现有工具，辅助写报告、生成Payload；\n- Level 2 半自主：多步规划+人工Checkpoint，如PentestGPT式对话渗透；\n- Level 3 全自主★：给定目标域名或CTF题目，AI自动完成侦察→定位→利用→拿flag全链路——Cairn已在腾讯云挑战赛实现54/54全解。\n🔹 第三，用极简架构激发复杂智能：\n摒弃RAG、MCP、微调等“外部依赖”，仅靠三原语黑板（Fact/Intent/Goal）+ OODA调度 + 自涌现机制，让攻击链像蚁群信息素一样自然生长。同样的基座模型，架构差异，能力上限天壤之别。\n特别值得一提的是，Alkaid首次统一实现了“达成模式”（如拿flag）与“覆盖模式”（如代码审计挖尽漏洞）——同一套引擎，两种数学级终止判据，既防LLM“自我欺骗”，也保攻击面“滴水不漏”。",
+          "link": "https://vipread.com/library/topic/4153",
+          "publishedOn": "2026-07-11T09:58:50.000Z",
+          "wordCount": 930,
+          "title": "Agent 攻防应用实战与思考",
+          "imageUrl": "https://archive1.vipread.com/covers/2026/07/topic/2_1783764835_c078fe19.jpg"
+        },
+        {
+          "id": "https://vipread.com/library/topic/4152",
+          "author": null,
+          "description": "本文链接\n\n这份文档《AI辅助漏洞挖掘系统设计指南》系统阐述了一套基于大语言模型的自动化安全测试平台构建方法论。其核心设计哲学是\"不束缚AI，只设边界\"——不教AI如何做渗透测试，而是为其划定行为禁区与报告标准，充分利用模型自带的海量安全知识。\n文档提出与传统扫描器截然不同的架构：以单一\"核心技能文件\"替代繁杂规则库，通过\"垃圾洞清单\"过滤噪音、\"七问验证门\"把控报告质量、\"速查卡\"对抗AI遗忘机制，并采用决策树引导AI动态选择测试路径。系统架构涵盖前端仪表盘、后端调度服务、AI工作引擎及LLM API四层，支持会话生命周期管理、并发控制与实时通信。\n关键创新在于将\"现象\"与\"漏洞\"严格区分——只报可证明的结果（如越权、RCE），不报过程性发现（如配置缺失、信息泄露）。文档还详细设计了安全防护、磁盘监控、自动重连等机制，并提供从零搭建的三阶段路线图，强调核心技能文件的持续迭代是系统竞争力的根本来源。",
+          "link": "https://vipread.com/library/topic/4152",
+          "publishedOn": "2026-06-16T03:59:16.000Z",
+          "wordCount": 872,
+          "title": "AI辅助漏洞挖掘系统设计指南",
+          "imageUrl": "https://archive1.vipread.com/covers/2026/06/topic/19688_1781582280_33344932.jpg"
+        },
+        {
           "id": "https://vipread.com/library/topic/4151",
           "author": null,
           "description": "本文链接\n\n本报告《AI重塑网络安全：网络安全智能化产品与市场报告》由数说安全研究院于2026年4月发布，聚焦\"AI for Security\"领域，系统研究人工智能技术如何赋能网络安全防御、检测、响应与治理。报告明确区分\"用AI保护系统\"与\"保护AI系统自身\"的边界，围绕五大核心问题展开：AI如何重塑安全运营工作流、从Copilot到Agent的技术演进路径、产学研最新进展与差距、不同场景下AI能力边界、代表性厂商技术路线差异。\n报告基于66家国内厂商问卷、11场深度访谈及国际公开资料，提炼13项关键发现：全球市场规模年均增速19-24%、头部厂商加速分化、数据质量成最大阻碍、工程化壁垒崛起等。市场按威胁检测、安全运营、数据安全等10大场景簇切分，并按Chatbot/Copilot、Agent智能体、内嵌增强三类交付形态梳理能力演进。\n报告提供10大维度选型评估框架、30道RFI关键问题清单，并深度画像44家国内外代表厂商，为CISO、SecOps团队、产品负责人及投研机构提供可落地的战略参考与实践路径。",
@@ -13761,8 +16001,19 @@
     {
       "title": "Smartphone Security",
       "feedUrl": "https://smartphone-attack-vector.de/feed/",
-      "siteUrl": "https://smartphone-attack-vector.de",
-      "articles": []
+      "siteUrl": "https://smartphone-attack-vector.de/",
+      "articles": [
+        {
+          "id": "https://smartphone-attack-vector.de/parser-schwachstellen-mobilfunk-protokolle/",
+          "author": "Marcus Prem",
+          "description": "Parser-Schwachstellen in Mobilfunk-Protokollen betreffen die Verarbeitung speziell präparierter Signalisierungsnachrichten in LTE- und 5G-Netzen. Fehler in der Parser-Logik können Abstürze auslösen und im...\nWeiterlesen...\nDer Beitrag Parser-Schwachstellen in Mobilfunk-Protokollen erschien zuerst auf Smartphone Security.",
+          "link": "https://smartphone-attack-vector.de/parser-schwachstellen-mobilfunk-protokolle/",
+          "publishedOn": "2026-07-08T20:27:31.000Z",
+          "wordCount": 2502,
+          "title": "Parser-Schwachstellen in Mobilfunk-Protokollen",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Security Simplified!!!",

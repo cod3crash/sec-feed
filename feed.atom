@@ -2,10 +2,2360 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cod3crash.github.io/sec-feed/index.html</id>
     <title>security feed</title>
-    <updated>2026-06-23T04:09:42.413Z</updated>
+    <updated>2026-07-16T03:21:30.872Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://cod3crash.github.io/sec-feed/index.html"/>
     <link rel="self" href="https://cod3crash.github.io/sec-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[深入 RocketMQ 内核：事务消息——分布式事务的终极解法（四） - 佛祖让我来巡山]]></title>
+        <id>https://www.cnblogs.com/sun-10387834/p/21303394</id>
+        <link href="https://www.cnblogs.com/sun-10387834/p/21303394"/>
+        <updated>2026-07-16T02:28:00.000Z</updated>
+        <summary type="html"><![CDATA[系列第二篇：核心概念与架构篇（四） 你好，我们又见面了。 在之前的文章里，我们把 RocketMQ 的存储、发送、消费全链路都拆解了一遍。但有一个重量级特性，我们一直没聊——事务消息（Transactional Message）。 为什么把事务消息放在这里才讲？因为理解事务消息需要两个前提：一是你要]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Agent 从上手到精通：打造有记忆的个人智能体 - AI小老六]]></title>
+        <id>https://www.cnblogs.com/ai-old-six/p/21526084</id>
+        <link href="https://www.cnblogs.com/ai-old-six/p/21526084"/>
+        <updated>2026-07-16T02:26:00.000Z</updated>
+        <summary type="html"><![CDATA[拆解 Agent 能力水位、验证闭环和知识库召回，说明工作记忆如何变成可复用工程资产。 导语 很多人用 Agent 的方式还停在“给它一个任务，等它吐出结果”。这个用法没错，但很快会撞到天花板：模型能写代码、查资料、改文档，也会在长链路里丢上下文、误判边界、重复踩坑。 真正拉开差距的不是某一次 pr]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ansible roles详解 - huangSir-devops]]></title>
+        <id>https://www.cnblogs.com/huangSir-devops/p/21451232</id>
+        <link href="https://www.cnblogs.com/huangSir-devops/p/21451232"/>
+        <updated>2026-07-16T02:21:00.000Z</updated>
+        <summary type="html"><![CDATA[概述 Ansible Role 是标准化、可复用、分层拆分的 Playbook 工程结构，把安装、配置、文件、任务、变量、触发器等分目录管理，解决大型剧本杂乱、复用难的问题。 Role本质就是将ansible的playbook更加规范化 其核心优势： 代码复用：一套 role 多台机器、多个项目直接]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[大模型为什么会出现幻觉？从原理到解决方案一次讲清 - cqrocky]]></title>
+        <id>https://www.cnblogs.com/cqrocky/p/21524517</id>
+        <link href="https://www.cnblogs.com/cqrocky/p/21524517"/>
+        <updated>2026-07-16T02:13:00.000Z</updated>
+        <summary type="html"><![CDATA[大模型幻觉并不是简单的&quot;模型犯错&quot;，而是概率生成机制、训练数据和应用方式共同导致的问题。本文分析幻觉产生原因，并介绍降低幻觉的实际方法。]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一套替代四套！同程旅行用 Apache SeaTunnel 搭建多模态统一数据通道 - ApacheSeaTunnel]]></title>
+        <id>https://www.cnblogs.com/seatunnel/p/21524896</id>
+        <link href="https://www.cnblogs.com/seatunnel/p/21524896"/>
+        <updated>2026-07-16T02:12:00.000Z</updated>
+        <summary type="html"><![CDATA[同程旅行数据通道服务历经多年演进，形成了数据搬运、数据集成、Sqoop、SeaTunnel 四套并存的格局，功能重叠、引擎割裂、整体运维成本居高不下。]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zabbix监控实战--正则表达式的使用 - 乐维_lwops]]></title>
+        <id>https://www.cnblogs.com/lwops/p/21524790</id>
+        <link href="https://www.cnblogs.com/lwops/p/21524790"/>
+        <updated>2026-07-16T02:11:00.000Z</updated>
+        <summary type="html"><![CDATA[Zabbix监控实战--正则表达式的使用 乐维社区在线答疑 在选用自动发现规则时一般会获取到很多生成项的情况，但实际上可能有些生成项并不是我们关注甚至需要的，为此需要我们进行一个过滤操作来处理生成内容，只获取我们需要的部分，这个需求可以用正则来实现。 1. 下面这部分内容是通过自动发现获取的/boo]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[业务报表生成：通过 C# 将数据库导出为 PDF - LAYONTHEGROUND]]></title>
+        <id>https://www.cnblogs.com/jazz-z/p/21524677</id>
+        <link href="https://www.cnblogs.com/jazz-z/p/21524677"/>
+        <updated>2026-07-16T02:08:00.000Z</updated>
+        <summary type="html"><![CDATA[在企业应用开发中，将数据库查询结果导出为 PDF 格式是常见的报表需求。PDF 具备格式固定、跨平台兼容、便于归档分发等特性，非常适合用于业务数据的正式输出。本文介绍一种基于 Free Spire.XLS for .NET 免费库的实现方式，通过「数据库 → DataTable → Excel 工作]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[天数智芯--天垓150S 华为泰山鲲鹏服务器实测 - 肥仔鱼Liam]]></title>
+        <id>https://www.cnblogs.com/Robert.Yu/p/21524367</id>
+        <link href="https://www.cnblogs.com/Robert.Yu/p/21524367"/>
+        <updated>2026-07-16T02:03:00.000Z</updated>
+        <summary type="html"><![CDATA[随着信创国产化深度落地与AI大模型产业规模化迭代，政企、金融、能源及工业领域的AI算力基础设施，正式进入全栈自主、高稳高性能、可规模化交付的升级新阶段。传统x86架构算力方案长期存在供应链受限、软硬件适配割裂、安全可控性不足、满载稳定性差等痛点，而华为鲲鹏ARM架构国产服务器+自研高端AI算力芯片的]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[扫码登录的实现原理 - Rain的Java大神实战圈]]></title>
+        <id>https://www.cnblogs.com/zrui-xyu/p/21524181</id>
+        <link href="https://www.cnblogs.com/zrui-xyu/p/21524181"/>
+        <updated>2026-07-16T02:00:00.000Z</updated>
+        <summary type="html"><![CDATA[扫码登录核心是已登录手机端为未登录PC端跨设备授权，依托PC、服务端、手机三端交互实现。核心技术亮点：后端生成唯一临时qrId承载二维码信息，规避敏感信息泄露；设计四态严格状态机保障流程有序流转。采用WebSocket为主、轮询兜底的状态同步方案，适配高并发场景。基于Redis Lua脚本实现状态原...]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何设计一个 Agent 友好的 CLI 工具 - zhayujie]]></title>
+        <id>https://www.cnblogs.com/zhayujie/p/21524003/cli-for-agents</id>
+        <link href="https://www.cnblogs.com/zhayujie/p/21524003/cli-for-agents"/>
+        <updated>2026-07-16T01:57:00.000Z</updated>
+        <summary type="html"><![CDATA[随着 Agent 技术走向成熟，越来越多的产品需要同时面对人类和 Agent 两类用户，而 CLI（命令行工具）正是更容易被 Agent 调用的形态。未来可能所有产品都需要实现自己的 CLI，封装自己的核心能力供 Agent 使用。本文以近期实践的开源 CLI 为例，从编程语言、登录授权、命令设计、...]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[22届微软MVP连任：一个.NET技术人的社区长跑 - 张善友]]></title>
+        <id>https://www.cnblogs.com/shanyou/p/21523972</id>
+        <link href="https://www.cnblogs.com/shanyou/p/21523972"/>
+        <updated>2026-07-16T01:56:00.000Z</updated>
+        <summary type="html"><![CDATA[MVP会变，.NET会变，连我自己手上的技术栈都在变。但分享这件事——帮那个深夜还在调Bug的人多睡两个小时这件事——永远值得。]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[分布式锁避坑 - Joeyin]]></title>
+        <id>https://www.cnblogs.com/joeyin/p/21522186</id>
+        <link href="https://www.cnblogs.com/joeyin/p/21522186"/>
+        <updated>2026-07-16T01:55:00.000Z</updated>
+        <summary type="html"><![CDATA[1. 锁必须有TTL // 错误 redis.Set(&quot;lock&quot;, 1) // 永远不能释放 // 正确 redis.SetNX(&quot;lock&quot;, uuid, 5 * time.Minute) 2. 长时间任务必须续期 go refreshLock(ctx, lock, 1 * time.Minut]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[还在手写测试报告？推荐一款 AI 测试Skill：只需一句指令，自动生成专业定制化测试报告！ - 狂师]]></title>
+        <id>https://www.cnblogs.com/jinjiangongzuoshi/p/21521527</id>
+        <link href="https://www.cnblogs.com/jinjiangongzuoshi/p/21521527"/>
+        <updated>2026-07-16T01:13:00.000Z</updated>
+        <summary type="html"><![CDATA[导读：前三篇我们搞定了&quot;跑测试、修脚本、清数据&quot;——但跑完之后，怎么把执行结果变成一份专业的测试报告呢？ 今天就给大家分享一款叫 api-report-generator 的 AI skill，只需一句指令，就能把执行数据自动变成一份有人看、能决策专业定制化测试报告，且集成了Allure报告，支持风]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[零基础认识大语言模型（LLM）工作原理(14.Skill：为什么 Agent 可以拥有专业技能？) - GuZhenYin]]></title>
+        <id>https://www.cnblogs.com/GuZhenYin/p/21447938</id>
+        <link href="https://www.cnblogs.com/GuZhenYin/p/21447938"/>
+        <updated>2026-07-16T01:02:00.000Z</updated>
+        <summary type="html"><![CDATA[第十四章 Skill：为什么 Agent 可以拥有专业技能？ 目录 零基础认识大语言模型（LLM）工作原理目录 - GuZhenYin - 博客园 本章导读 上一章，我们介绍了 Memory。 Memory 解决的是：AI 如何记住信息。 但是，仅仅拥有记忆，还不足以让 AI 成为真正的专业助手。]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[那条突然变慢的 SQL，到底经历了什么？ - GreatSQL]]></title>
+        <id>https://www.cnblogs.com/greatsql/p/21520558</id>
+        <link href="https://www.cnblogs.com/greatsql/p/21520558"/>
+        <updated>2026-07-16T00:35:00.000Z</updated>
+        <summary type="html"><![CDATA[对付平时正常运行的SQL突然变慢的情况，GreatSQL 8.4.4-5 新特性「执行计划变更异常捕获」的做法是给每条 SQL 的执行计划留一份&quot;档案&quot;，然后定期查岗，可以更快定位SQL变慢的原因。]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Active Directory Fundamentals — Complete Beginner Notes]]></title>
+        <id>https://medium.com/p/69f3b10a1b55</id>
+        <link href="https://medium.com/@Xiro0x01/active-directory-fundamentals-complete-beginner-notes-69f3b10a1b55?source=rss------redteam-5"/>
+        <updated>2026-07-15T21:30:43.000Z</updated>
+        <summary type="html"><![CDATA[Introduction
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>NASRALLAH SALEH (Xiro0x)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[10 Recon Techniques Every Pentester Should Master in 2026]]></title>
+        <id>https://medium.com/p/2c299d3e2826</id>
+        <link href="https://medium.com/infosec-writes-up/10-recon-techniques-every-pentester-should-master-2c299d3e2826?source=rss------bugbounty-5"/>
+        <updated>2026-07-15T19:03:00.000Z</updated>
+        <summary type="html"><![CDATA[The reconnaissance methods that help security professionals map attack surfaces before a single exploit is launched.
+Continue reading on InfoSec-Writes Up »]]></summary>
+        <author>
+            <name>Hackers Things</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RFID]]></title>
+        <id>https://medium.com/p/a5872771675c</id>
+        <link href="https://medium.com/@082220004/rfid-a5872771675c?source=rss------redteam-5"/>
+        <updated>2026-07-15T17:51:49.000Z</updated>
+        <summary type="html"><![CDATA[# Bina Erişim Güvenliğinde RFID: Teknoloji, Tehditler ve Azaltma
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>BURAK BALTA</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Able to bypass authorization logic and gain more access then intended]]></title>
+        <id>https://hackerone.com/reports/3713965</id>
+        <link href="https://hackerone.com/reports/3713965"/>
+        <updated>2026-07-15T16:35:57.000Z</updated>
+        <summary type="html"><![CDATA[GitHub disclosed a bug submitted by vaib25vicky: https://hackerone.com/reports/3713965]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Able to bypass authorization logic and gain more access then intended]]></title>
+        <id>https://hackerone.com/reports/3713965</id>
+        <link href="https://hackerone.com/reports/3713965"/>
+        <updated>2026-07-15T16:35:57.000Z</updated>
+        <summary type="html"><![CDATA[GitHub disclosed a bug submitted by vaib25vicky: https://hackerone.com/reports/3713965]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[THM Brute It]]></title>
+        <id>https://medium.com/p/608ab4d441e5</id>
+        <link href="https://medium.com/@zeliharich/thm-brute-it-608ab4d441e5?source=rss------redteam-5"/>
+        <updated>2026-07-15T16:27:43.000Z</updated>
+        <summary type="html"><![CDATA[Hello everyone!
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Zeliha Zengin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How a Simple S3 Bucket Misconfiguration Turned into a Security Assessment]]></title>
+        <id>https://medium.com/p/6b4ac536652c</id>
+        <link href="https://medium.com/@sunny561/how-a-simple-s3-bucket-misconfiguration-turned-into-a-security-assessment-6b4ac536652c?source=rss------bugbounty-5"/>
+        <updated>2026-07-15T16:10:56.000Z</updated>
+        <summary type="html"><![CDATA[“Every bug hunter dreams of finding that one small clue that leads to something much bigger.”
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>sunny561</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Endpoint Everyone Ignored Just Took Down a Server]]></title>
+        <id>https://medium.com/p/c32d51cf886e</id>
+        <link href="https://infosecwriteups.com/the-endpoint-everyone-ignored-just-took-down-a-server-c32d51cf886e?source=rss------bugbounty-5"/>
+        <updated>2026-07-15T15:14:54.000Z</updated>
+        <summary type="html"><![CDATA[A $1,024 bug hidden inside the most ignored endpoint on the platform — and the mistake every developer makes without knowing it.
+Continue reading on InfoSec Write-ups »]]></summary>
+        <author>
+            <name>Abhishek meena</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bedrock AgentCore Starter Toolkit Creates Gateway IAM Roles Without Confused Deputy Protections]]></title>
+        <id>https://hackerone.com/reports/3632577</id>
+        <link href="https://hackerone.com/reports/3632577"/>
+        <updated>2026-07-15T15:11:59.000Z</updated>
+        <summary type="html"><![CDATA[AWS VDP disclosed a bug submitted by mistercloudsec: https://hackerone.com/reports/3632577]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bedrock AgentCore Starter Toolkit Creates Gateway IAM Roles Without Confused Deputy Protections]]></title>
+        <id>https://hackerone.com/reports/3632577</id>
+        <link href="https://hackerone.com/reports/3632577"/>
+        <updated>2026-07-15T15:11:59.000Z</updated>
+        <summary type="html"><![CDATA[AWS VDP disclosed a bug submitted by mistercloudsec: https://hackerone.com/reports/3632577]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DeepSeek全球用量登顶，金山办公全切国产：开源AI的"凭什么不用"时刻到了 - 老猿30多年]]></title>
+        <id>https://www.cnblogs.com/htai/p/21514737</id>
+        <link href="https://www.cnblogs.com/htai/p/21514737"/>
+        <updated>2026-07-15T14:39:00.000Z</updated>
+        <summary type="html"><![CDATA[&gt; 一份报告、一个CEO发言、一个首富头衔，同一天砸下来，信号清晰得不能再清晰。 7月14日到15日这24小时，如果你只盯着某一个新闻看，可能觉得&quot;哦，又一个报告/又一个发言/又一个富豪榜&quot;。但把三件事拼在一起，画面就完全不同了。 Mozilla发布了2026年《开源AI现状报告》，核心结论其实就一]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CRTA Lab Writeup: From Web Shell to Domain Admin]]></title>
+        <id>https://medium.com/p/18aa7626d75a</id>
+        <link href="https://medium.com/@ItsTHEAvro/crta-lab-writeup-from-web-shell-to-domain-admin-18aa7626d75a?source=rss------redteam-5"/>
+        <updated>2026-07-15T14:30:29.000Z</updated>
+        <summary type="html"><![CDATA[Overview
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Avro</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aneiang.Yarp v2.3.0.25：让 AI 成为你的 API 网关运维副驾驶 - AneiangSoft]]></title>
+        <id>https://www.cnblogs.com/aneiangsoft/p/21514161</id>
+        <link href="https://www.cnblogs.com/aneiangsoft/p/21514161"/>
+        <updated>2026-07-15T13:57:00.000Z</updated>
+        <summary type="html"><![CDATA[40 个 Function Calling 工具，一句自然语言即可完成路由创建、故障排查、配置回滚。支持 OpenAI / DeepSeek / 通义千问，一行 JSON 配置启用，开源 MIT 协议。]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Just Wanted a Cold Coffee. Instead I Found a Master Key to a Vending Machine Empire.]]></title>
+        <id>https://medium.com/p/fc4bad7bc1db</id>
+        <link href="https://medium.com/@gokul965/i-just-wanted-a-cold-coffee-instead-i-found-a-master-key-to-a-vending-machine-empire-fc4bad7bc1db?source=rss------bugbounty-5"/>
+        <updated>2026-07-15T12:56:40.000Z</updated>
+        <summary type="html"><![CDATA[A cautionary tale about snacks, curiosity, and why you should never F12 near a vending machine.
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Gokul</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Automatic Link Generation in Transactional Emails Can Introduce Security Risks]]></title>
+        <id>https://medium.com/p/d83f6b7d54aa</id>
+        <link href="https://medium.com/@GERRR4Y/how-automatic-link-generation-in-transactional-emails-can-introduce-security-risks-d83f6b7d54aa?source=rss------bugbounty-5"/>
+        <updated>2026-07-15T12:49:59.000Z</updated>
+        <summary type="html"><![CDATA[بسم الله والصلاة والسلام على رسول الله الحمد لله الذي علم بالقلم علم الإنسان ما لم يعلم والصلاة والسلام على خير معلم الناس الخير محمد
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Aya Ayman(GERR4Y)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UMANG App Vulnerability: Why Responsible Disclosure Matters More Than Headlines]]></title>
+        <id>https://medium.com/p/51a87c4fa4f7</id>
+        <link href="https://medium.com/@radhavidhale4/umang-app-vulnerability-why-responsible-disclosure-matters-more-than-headlines-51a87c4fa4f7?source=rss------bugbounty-5"/>
+        <updated>2026-07-15T12:40:12.000Z</updated>
+        <summary type="html"><![CDATA[n recent days, reports have emerged regarding a security vulnerability in the UMANG (Unified Mobile Application for New-age Governance)…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Radha Vidhale</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python Web Penetration Testing]]></title>
+        <id>https://medium.com/p/c0d127b69c2f</id>
+        <link href="https://python.plainenglish.io/python-web-penetration-testing-c0d127b69c2f?source=rss------bugbounty-5"/>
+        <updated>2026-07-15T12:34:49.000Z</updated>
+        <summary type="html"><![CDATA[Day 2: The Heart of HTTP — Interacting with Web Applications Like a Pro
+Continue reading on Python in Plain English »]]></summary>
+        <author>
+            <name>Aman Sharma</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[My Weirdest Finding: A Race Condition Story]]></title>
+        <id>https://medium.com/p/c7ac4944cd5d</id>
+        <link href="https://kd-200.medium.com/my-weirdest-finding-a-race-condition-story-c7ac4944cd5d?source=rss------bugbounty-5"/>
+        <updated>2026-07-15T11:31:00.000Z</updated>
+        <summary type="html"><![CDATA[Hey friends! Nitin here 👋
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Nitin yadav</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AHT Cracker | Password Cracking Tool GUI Mode | by Ali Hack Tech.]]></title>
+        <id>https://medium.com/p/0908cad58c3f</id>
+        <link href="https://medium.com/@aht.comm/aht-cracker-password-cracking-tool-gui-mode-by-ali-hack-tech-0908cad58c3f?source=rss------bugbounty-5"/>
+        <updated>2026-07-15T11:18:44.000Z</updated>
+        <summary type="html"><![CDATA[AHT Cracker
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Ali Hack Tech</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A12 usbliter8 BootROM sigpatches]]></title>
+        <id>https://blog.elcomsoft.com/?p=13504</id>
+        <link href="https://blog.elcomsoft.com/2026/07/a12-usbliter8-bootrom-sigpatches/"/>
+        <updated>2026-07-15T11:09:21.000Z</updated>
+        <summary type="html"><![CDATA[BootROM exploits are an important part of modern low-level forensic acquisition, and our Elcomsoft iOS Forensic Toolkit is no stranger to it. It allows getting code execution at the earliest stage on the device and lets us then load custom software for data decryption and extraction. It has been almost 7 years since the last major […]]]></summary>
+        <author>
+            <name>Elcomsoft R&amp;#38;D</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ROS2学习CH1 工作空间，包，节点与接口 - 凪风sama]]></title>
+        <id>https://www.cnblogs.com/CrescentWind/p/21472437</id>
+        <link href="https://www.cnblogs.com/CrescentWind/p/21472437"/>
+        <updated>2026-07-15T10:44:00.000Z</updated>
+        <summary type="html"><![CDATA[初识ROS2 ROS 2（Robot Operating System 2）是一个面向机器人开发的开源软件框架，可以理解为机器人软件的“操作系统”，但它本身并不是一个真正的操作系统，而是一套帮助开发机器人应用的工具、库和通信机制。在ROS2中提供了一套简便易用的进程间通信机制，通过这套机制可以将机器]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SQL*Plus 执行中文 SQL 文件，如何避开乱码坑 - AlfredZhao]]></title>
+        <id>https://www.cnblogs.com/jyzhao/p/21510332</id>
+        <link href="https://www.cnblogs.com/jyzhao/p/21510332"/>
+        <updated>2026-07-15T10:33:00.000Z</updated>
+        <summary type="html"><![CDATA[在 Linux 上用 sqlplus @xxx.sql 执行脚本时，只要 SQL 文件里有中文字符串或中文注释，就可能遇到乱码。这个问题通常不是数据库本身坏了，而是 SQL 文件编码、Linux Locale、SQL*Plus 客户端字符集没有对齐。 01 | 先看清三个关键角色 执行 SQL 文件]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[终于搞懂 Kueue：5 个核心对象一次讲透 - 探索云原生]]></title>
+        <id>https://www.cnblogs.com/KubeExplorer/p/21510013</id>
+        <link href="https://www.cnblogs.com/KubeExplorer/p/21510013"/>
+        <updated>2026-07-15T10:23:00.000Z</updated>
+        <summary type="html"><![CDATA[很多人刚接触 Kueue 时最大的困惑，不是 YAML 怎么写，而是看着一堆 CRD：ResourceFlavor、ClusterQueue、LocalQueue、Cohort、Workload，不知道它们之间到底是什么关系。本文不会逐个照着 API 文档介绍字段，而是把这五个对象放到同一条资源准入]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[When “Removed” Doesn’t Mean Removed: Finding an Authorization Revocation Bug]]></title>
+        <id>https://medium.com/p/20b8b838c71c</id>
+        <link href="https://medium.com/@omaralgbry1/when-removed-doesnt-mean-removed-finding-an-authorization-revocation-bug-20b8b838c71c?source=rss------bugbounty-5"/>
+        <updated>2026-07-15T10:09:02.000Z</updated>
+        <summary type="html"><![CDATA[Introduction
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>OWL</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Escalating All The Privileges With Foxit PDF Reader (CVE-2026–57239)]]></title>
+        <id>https://medium.com/p/582a78b60492</id>
+        <link href="https://blog.paradoxis.nl/escalating-all-the-privileges-with-foxit-pdf-reader-cve-2026-57239-582a78b60492?source=rss------redteam-5"/>
+        <updated>2026-07-15T07:56:26.000Z</updated>
+        <summary type="html"><![CDATA[TL;DR: it was possible to obtain NT AUTHORITY\SYSTEM privileges from the perspective of an unprivileged user using Foxit PDF Reader. The…
+Continue reading on Paradoxis »]]></summary>
+        <author>
+            <name>Luke Paris</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Hard Is It to Build a Reverse Shell in Python?]]></title>
+        <id>https://medium.com/p/79082dada876</id>
+        <link href="https://medium.com/@stavinfernandes2098/how-hard-is-it-to-build-a-reverse-shell-in-python-79082dada876?source=rss------redteam-5"/>
+        <updated>2026-07-15T04:31:05.000Z</updated>
+        <summary type="html"><![CDATA[What Is a Reverse Shell?
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Stavinfernandes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Delaying WordPress Updates Increases Security Risks]]></title>
+        <id>https://blog.sucuri.net/?p=36169</id>
+        <link href="https://blog.sucuri.net/2026/07/why-delaying-wordpress-updates-increases-security-risks.html"/>
+        <updated>2026-07-14T21:34:56.000Z</updated>
+        <summary type="html"><![CDATA[WordPress updates help close known vulnerabilities before automated attacks can find and exploit them. Once a patch is released, attackers often move quickly to scan for sites that have not yet updated.
+It’s easy to put off updates when everything seems to be working. But once a vulnerability is public, attackers do not need to single out your site. Automated bots scan thousands of sites for outdated WordPress core, plugins, themes, and server setups.
+Continue reading Why Delaying WordPress Updates Increases Security Risks at Sucuri Blog.]]></summary>
+        <author>
+            <name>Sucuri</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stored XSS on Trix Editor version latest (2.1.16) - Sanitizer Bypass]]></title>
+        <id>https://hackerone.com/reports/3581911</id>
+        <link href="https://hackerone.com/reports/3581911"/>
+        <updated>2026-07-14T19:26:37.000Z</updated>
+        <summary type="html"><![CDATA[Basecamp disclosed a bug submitted by newbiefromcoma: https://hackerone.com/reports/3581911 - Bounty: $337]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stored XSS on Trix Editor version latest (2.1.16) - Sanitizer Bypass]]></title>
+        <id>https://hackerone.com/reports/3581911</id>
+        <link href="https://hackerone.com/reports/3581911"/>
+        <updated>2026-07-14T19:26:37.000Z</updated>
+        <summary type="html"><![CDATA[Basecamp disclosed a bug submitted by newbiefromcoma: https://hackerone.com/reports/3581911 - Bounty: $337]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[bedrock-mantle.api.aws accepts Bedrock API keys outside the IAM Deny, CloudTrail signal, and invocation logging AWS publishes for Bedrock keys]]></title>
+        <id>https://hackerone.com/reports/3702072</id>
+        <link href="https://hackerone.com/reports/3702072"/>
+        <updated>2026-07-14T18:52:27.000Z</updated>
+        <summary type="html"><![CDATA[AWS VDP disclosed a bug submitted by mistercloudsec: https://hackerone.com/reports/3702072]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[bedrock-mantle.api.aws accepts Bedrock API keys outside the IAM Deny, CloudTrail signal, and invocation logging AWS publishes for Bedrock keys]]></title>
+        <id>https://hackerone.com/reports/3702072</id>
+        <link href="https://hackerone.com/reports/3702072"/>
+        <updated>2026-07-14T18:52:27.000Z</updated>
+        <summary type="html"><![CDATA[AWS VDP disclosed a bug submitted by mistercloudsec: https://hackerone.com/reports/3702072]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux console TUI DIFF tool]]></title>
+        <id>http://acassis.wordpress.com/?p=13015</id>
+        <link href="https://acassis.wordpress.com/2026/07/14/linux-console-tui-diff-tool/"/>
+        <updated>2026-07-14T18:11:26.000Z</updated>
+        <summary type="html"><![CDATA[Very useful: https://github.com/yakimka/DiffLume]]></summary>
+        <author>
+            <name>acassis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I found a git tui diff tool]]></title>
+        <id>http://acassis.wordpress.com/?p=13013</id>
+        <link href="https://acassis.wordpress.com/2026/07/14/i-found-a-git-tui-diff-tool/"/>
+        <updated>2026-07-14T17:59:56.000Z</updated>
+        <summary type="html"><![CDATA[Very interesting: https://github.com/ArthurSonzogni/git-tui]]></summary>
+        <author>
+            <name>acassis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The AI Security Cheat Sheet in 2026 | Cyber Codex]]></title>
+        <id>https://medium.com/p/0f0b218112cc</id>
+        <link href="https://infosecwriteups.com/the-ai-security-cheat-sheet-in-2026-cyber-codex-0f0b218112cc?source=rss------redteam-5"/>
+        <updated>2026-07-14T17:18:04.000Z</updated>
+        <summary type="html"><![CDATA[Every model talks. Not every model can be trusted to keep a secret, refuse a malicious instruction, or resist a stranger whispering new…
+Continue reading on InfoSec Write-ups »]]></summary>
+        <author>
+            <name>Aenosh Rajora</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hack Smarter Labs — Dark: From Unauthenticated WordPress Bug to Root]]></title>
+        <id>https://medium.com/p/fb6eee5ee048</id>
+        <link href="https://medium.com/@usman786faridi/hack-smarter-labs-dark-from-unauthenticated-wordpress-bug-to-root-fb6eee5ee048?source=rss------redteam-5"/>
+        <updated>2026-07-14T15:59:07.000Z</updated>
+        <summary type="html"><![CDATA[A Hack Smarter Labs walkthrough
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Muhammad Usman Faridi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Leaked Service Account Credentials Bypass MFA]]></title>
+        <id>https://medium.com/p/3aa28a3af4df</id>
+        <link href="https://medium.com/@dzianisskliar29/how-leaked-service-account-credentials-bypass-mfa-3aa28a3af4df?source=rss------redteam-5"/>
+        <updated>2026-07-14T15:31:09.000Z</updated>
+        <summary type="html"><![CDATA[You can do everything right with multi-factor authentication and still leave a door wide open. Not through a clever bypass or a zero-day…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Dzianis Skliar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MCRTA Exam Walkthrough — Breaking Into AWS, Azure & GCP]]></title>
+        <id>https://medium.com/p/531c7be05c67</id>
+        <link href="https://medium.com/@faridnarimanof/mcrta-exam-walkthrough-breaking-into-aws-azure-gcp-531c7be05c67?source=rss------redteam-5"/>
+        <updated>2026-07-14T12:52:34.000Z</updated>
+        <summary type="html"><![CDATA[A hands-on journey through AWS, Azure, and GCP red teaming — SSRF, RCE, IAM privilege mapping, and cloud metadata abuse.
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Farid Narimanov</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SELECT ... INTO OUTFILE does not enforce the FILE WRITE privilege  unprivileged arbitrary file write on the   server]]></title>
+        <id>https://hackerone.com/reports/3780695</id>
+        <link href="https://hackerone.com/reports/3780695"/>
+        <updated>2026-07-13T19:35:07.000Z</updated>
+        <summary type="html"><![CDATA[SingleStore disclosed a bug submitted by bisht-ji: https://hackerone.com/reports/3780695]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SELECT ... INTO OUTFILE does not enforce the FILE WRITE privilege  unprivileged arbitrary file write on the   server]]></title>
+        <id>https://hackerone.com/reports/3780695</id>
+        <link href="https://hackerone.com/reports/3780695"/>
+        <updated>2026-07-13T19:35:07.000Z</updated>
+        <summary type="html"><![CDATA[SingleStore disclosed a bug submitted by bisht-ji: https://hackerone.com/reports/3780695]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FreeIMU Calibration]]></title>
+        <id>http://acassis.wordpress.com/?p=13010</id>
+        <link href="https://acassis.wordpress.com/2026/07/11/freeimu-calibration/"/>
+        <updated>2026-07-11T15:57:35.000Z</updated>
+        <summary type="html"><![CDATA[Another nice article: https://github.com/mjs513/FreeIMU-Updates/wiki/04.-FreeIMU-Calibration Another interesting article for accelerometer: https://chionophilous.wordpress.com/2011/08/26/accelerometer-calibration-iii-improving-accuracy-with-least-squares-and-the-gauss-newton-method/]]></summary>
+        <author>
+            <name>acassis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tutorial: How to calibrate a compass (and accelerometer) with Arduino]]></title>
+        <id>http://acassis.wordpress.com/?p=13008</id>
+        <link href="https://acassis.wordpress.com/2026/07/11/tutorial-how-to-calibrate-a-compass-and-accelerometer-with-arduino/"/>
+        <updated>2026-07-11T15:56:40.000Z</updated>
+        <summary type="html"><![CDATA[Visit the post for more.]]></summary>
+        <author>
+            <name>acassis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to measure the noise density of an IMU?]]></title>
+        <id>http://acassis.wordpress.com/?p=13006</id>
+        <link href="https://acassis.wordpress.com/2026/07/11/how-to-measure-the-noise-density-of-an-imu/"/>
+        <updated>2026-07-11T15:24:43.000Z</updated>
+        <summary type="html"><![CDATA[https://mwrona.com/posts/imu-psd]]></summary>
+        <author>
+            <name>acassis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Achieving cm Level GNSS Accuracy Via RTK]]></title>
+        <id>http://acassis.wordpress.com/?p=13004</id>
+        <link href="https://acassis.wordpress.com/2026/07/11/achieving-cm-level-gnss-accuracy-via-rtk/"/>
+        <updated>2026-07-11T14:57:26.000Z</updated>
+        <summary type="html"><![CDATA[Nice article: https://www.semuconsulting.com/gnsswiki/rtktips]]></summary>
+        <author>
+            <name>acassis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Agent 攻防应用实战与思考]]></title>
+        <id>https://vipread.com/library/topic/4153</id>
+        <link href="https://vipread.com/library/topic/4153"/>
+        <updated>2026-07-11T09:58:50.000Z</updated>
+        <summary type="html"><![CDATA[本文链接
+
+一场关于“AI如何真正接管攻防闭环”的深度实践，这是又一个LLM+工具链的Demo，而是一次从“人指挥AI”到“AI自主求解”的范式跃迁——来自WgpSec安全团队2026年最新工程化成果：Alkaid智能体框架及其在真实攻防场景中的落地验证。
+这份材料，凝结了三个关键突破：
+🔹 第一，直面AI攻防的三大顽疾：
+状态失忆（15轮后路径僵化）、知识幻觉（自编CVE/错PoC）、评测失真（90%通过率背后标准不一）——不是回避问题，而是用架构设计根治它。
+🔹 第二，定义AI在攻防中的三级演进：
+- Level 1 副驾驶：嵌入现有工具，辅助写报告、生成Payload；
+- Level 2 半自主：多步规划+人工Checkpoint，如PentestGPT式对话渗透；
+- Level 3 全自主★：给定目标域名或CTF题目，AI自动完成侦察→定位→利用→拿flag全链路——Cairn已在腾讯云挑战赛实现54/54全解。
+🔹 第三，用极简架构激发复杂智能：
+摒弃RAG、MCP、微调等“外部依赖”，仅靠三原语黑板（Fact/Intent/Goal）+ OODA调度 + 自涌现机制，让攻击链像蚁群信息素一样自然生长。同样的基座模型，架构差异，能力上限天壤之别。
+特别值得一提的是，Alkaid首次统一实现了“达成模式”（如拿flag）与“覆盖模式”（如代码审计挖尽漏洞）——同一套引擎，两种数学级终止判据，既防LLM“自我欺骗”，也保攻击面“滴水不漏”。]]></summary>
+        <author>
+            <name>信息安全知识库</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Four Tools, One Workflow: Using Elcomsoft Desktop Forensic Tools on the Same Case]]></title>
+        <id>https://blog.elcomsoft.com/?p=13474</id>
+        <link href="https://blog.elcomsoft.com/2026/07/four-tools-one-workflow-using-elcomsoft-desktop-forensic-tools-on-the-same-case/"/>
+        <updated>2026-07-10T15:40:25.000Z</updated>
+        <summary type="html"><![CDATA[Most people meet these four tools one product page at a time, which makes them look like four separate purchases for four separate problems. On a real desktop case they are closer to four stages of a single job. Each one hands its output to the next: Elcomsoft System Recovery and Elcomsoft Quick Triage pull […]]]></summary>
+        <author>
+            <name>Oleg Afonin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kiro IDE Stores Auth Tokens with World-Readable Permissions (0644)]]></title>
+        <id>https://hackerone.com/reports/3630605</id>
+        <link href="https://hackerone.com/reports/3630605"/>
+        <updated>2026-07-09T15:31:28.000Z</updated>
+        <summary type="html"><![CDATA[AWS VDP disclosed a bug submitted by mistercloudsec: https://hackerone.com/reports/3630605]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kiro IDE Stores Auth Tokens with World-Readable Permissions (0644)]]></title>
+        <id>https://hackerone.com/reports/3630605</id>
+        <link href="https://hackerone.com/reports/3630605"/>
+        <updated>2026-07-09T15:31:28.000Z</updated>
+        <summary type="html"><![CDATA[AWS VDP disclosed a bug submitted by mistercloudsec: https://hackerone.com/reports/3630605]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Parser-Schwachstellen in Mobilfunk-Protokollen]]></title>
+        <id>https://smartphone-attack-vector.de/parser-schwachstellen-mobilfunk-protokolle/</id>
+        <link href="https://smartphone-attack-vector.de/parser-schwachstellen-mobilfunk-protokolle/"/>
+        <updated>2026-07-08T20:27:31.000Z</updated>
+        <summary type="html"><![CDATA[Parser-Schwachstellen in Mobilfunk-Protokollen betreffen die Verarbeitung speziell präparierter Signalisierungsnachrichten in LTE- und 5G-Netzen. Fehler in der Parser-Logik können Abstürze auslösen und im...
+Weiterlesen...
+Der Beitrag Parser-Schwachstellen in Mobilfunk-Protokollen erschien zuerst auf Smartphone Security.]]></summary>
+        <author>
+            <name>Marcus Prem</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lookup: TryHackMe CTF Walkthrough]]></title>
+        <id>https://medium.com/p/3caf2a7efb45</id>
+        <link href="https://infosecwriteups.com/lookup-tryhackme-walkthrough-3caf2a7efb45?source=rss----7b722bfd1b8d---4"/>
+        <updated>2026-07-07T11:36:26.000Z</updated>
+        <summary type="html"><![CDATA[Easy level Tryhackme CTF challenge to test your enumeration, basic exploitation and Privilege Escalation skills]]></summary>
+        <author>
+            <name>Huzaifa Malik</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lookup: TryHackMe CTF Walkthrough]]></title>
+        <id>https://medium.com/p/3caf2a7efb45</id>
+        <link href="https://infosecwriteups.com/lookup-tryhackme-walkthrough-3caf2a7efb45?source=rss----7b722bfd1b8d---4"/>
+        <updated>2026-07-07T11:36:26.000Z</updated>
+        <summary type="html"><![CDATA[Easy level Tryhackme CTF challenge to test your enumeration, basic exploitation and Privilege Escalation skills]]></summary>
+        <author>
+            <name>Huzaifa Malik</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JWTweak v2.1: A Guided, Offline Toolkit for Modern JWT Attacks]]></title>
+        <id>https://medium.com/p/d951fa31f964</id>
+        <link href="https://infosecwriteups.com/jwtweak-v2-1-a-guided-offline-toolkit-for-modern-jwt-attacks-d951fa31f964?source=rss----7b722bfd1b8d---4"/>
+        <updated>2026-07-07T11:35:53.000Z</updated>
+        <summary type="html"><![CDATA[Paste a token, get a full attack plan — then execute it, entirely offline.
+Continue reading on InfoSec Write-ups »]]></summary>
+        <author>
+            <name>Rishu Ranjan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JWTweak v2.1: A Guided, Offline Toolkit for Modern JWT Attacks]]></title>
+        <id>https://medium.com/p/d951fa31f964</id>
+        <link href="https://infosecwriteups.com/jwtweak-v2-1-a-guided-offline-toolkit-for-modern-jwt-attacks-d951fa31f964?source=rss----7b722bfd1b8d---4"/>
+        <updated>2026-07-07T11:35:53.000Z</updated>
+        <summary type="html"><![CDATA[Paste a token, get a full attack plan — then execute it, entirely offline.
+Continue reading on InfoSec Write-ups »]]></summary>
+        <author>
+            <name>Rishu Ranjan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[No Rules, No Locks: Firebase Misconfiguration and the Borrowers It Left Behind]]></title>
+        <id>https://medium.com/p/90d568038414</id>
+        <link href="https://infosecwriteups.com/no-rules-no-locks-firebase-misconfiguration-and-the-borrowers-it-left-behind-90d568038414?source=rss----7b722bfd1b8d---4"/>
+        <updated>2026-07-07T11:35:41.000Z</updated>
+        <summary type="html"><![CDATA[Firebase security rules are opt-in. The default, for every new database & storage bucket, is wide open. This is the writeup of a…]]></summary>
+        <author>
+            <name>Alvin Ferdiansyah</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[No Rules, No Locks: Firebase Misconfiguration and the Borrowers It Left Behind]]></title>
+        <id>https://medium.com/p/90d568038414</id>
+        <link href="https://infosecwriteups.com/no-rules-no-locks-firebase-misconfiguration-and-the-borrowers-it-left-behind-90d568038414?source=rss----7b722bfd1b8d---4"/>
+        <updated>2026-07-07T11:35:41.000Z</updated>
+        <summary type="html"><![CDATA[Firebase security rules are opt-in. The default, for every new database & storage bucket, is wide open. This is the writeup of a…]]></summary>
+        <author>
+            <name>Alvin Ferdiansyah</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The HTTP 303 SSRF Hack : From Python HTTP Client Defaults to AWS Credential Exfiltration.]]></title>
+        <id>https://medium.com/p/bfaece6c3805</id>
+        <link href="https://infosecwriteups.com/the-http-303-hack-from-python-http-client-defaults-to-aws-credential-exfiltration-a-deep-dive-bfaece6c3805?source=rss----7b722bfd1b8d---4"/>
+        <updated>2026-07-07T11:35:22.000Z</updated>
+        <summary type="html"><![CDATA[A POST to IMDS may fail — but a redirect can quietly turn it into something else.]]></summary>
+        <author>
+            <name>Alvin Ferdiansyah</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The HTTP 303 SSRF Hack : From Python HTTP Client Defaults to AWS Credential Exfiltration.]]></title>
+        <id>https://medium.com/p/bfaece6c3805</id>
+        <link href="https://infosecwriteups.com/the-http-303-hack-from-python-http-client-defaults-to-aws-credential-exfiltration-a-deep-dive-bfaece6c3805?source=rss----7b722bfd1b8d---4"/>
+        <updated>2026-07-07T11:35:22.000Z</updated>
+        <summary type="html"><![CDATA[A POST to IMDS may fail — but a redirect can quietly turn it into something else.]]></summary>
+        <author>
+            <name>Alvin Ferdiansyah</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chaining a DOM XSS Sink, WAF Bypass, Cross-Origin Smuggling, and SDK Abuse into One Click Account…]]></title>
+        <id>https://medium.com/p/6c1a7095f8e1</id>
+        <link href="https://infosecwriteups.com/chaining-a-dom-xss-sink-waf-bypass-cross-origin-smuggling-and-sdk-abuse-into-one-click-account-6c1a7095f8e1?source=rss----7b722bfd1b8d---4"/>
+        <updated>2026-07-07T11:35:07.000Z</updated>
+        <summary type="html"><![CDATA[One click, eight seconds, nine webhook hits. It started with a single bracket character that broke an Akamai WAF rule.]]></summary>
+        <author>
+            <name>Alvin Ferdiansyah</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chaining a DOM XSS Sink, WAF Bypass, Cross-Origin Smuggling, and SDK Abuse into One Click Account…]]></title>
+        <id>https://medium.com/p/6c1a7095f8e1</id>
+        <link href="https://infosecwriteups.com/chaining-a-dom-xss-sink-waf-bypass-cross-origin-smuggling-and-sdk-abuse-into-one-click-account-6c1a7095f8e1?source=rss----7b722bfd1b8d---4"/>
+        <updated>2026-07-07T11:35:07.000Z</updated>
+        <summary type="html"><![CDATA[One click, eight seconds, nine webhook hits. It started with a single bracket character that broke an Akamai WAF rule.]]></summary>
+        <author>
+            <name>Alvin Ferdiansyah</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BadSuccessor — Exploiting delegated Managed Service Accounts in Windows Server 2025]]></title>
+        <id>https://medium.com/p/0f2c84223bbb</id>
+        <link href="https://infosecwriteups.com/badsuccessor-exploiting-delegated-managed-service-accounts-in-windows-server-2025-0f2c84223bbb?source=rss----7b722bfd1b8d---4"/>
+        <updated>2026-07-07T11:34:55.000Z</updated>
+        <summary type="html"><![CDATA[Understanding what is delegated Managed Service Accounts in Windows Server 2025, and how an unpatched system may be exploited for Privilege…]]></summary>
+        <author>
+            <name>Indigo Shadow</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BadSuccessor — Exploiting delegated Managed Service Accounts in Windows Server 2025]]></title>
+        <id>https://medium.com/p/0f2c84223bbb</id>
+        <link href="https://infosecwriteups.com/badsuccessor-exploiting-delegated-managed-service-accounts-in-windows-server-2025-0f2c84223bbb?source=rss----7b722bfd1b8d---4"/>
+        <updated>2026-07-07T11:34:55.000Z</updated>
+        <summary type="html"><![CDATA[Understanding what is delegated Managed Service Accounts in Windows Server 2025, and how an unpatched system may be exploited for Privilege…]]></summary>
+        <author>
+            <name>Indigo Shadow</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OS Command Injection in `aws-cdk-lib` NodejsFunction via Unsanitized `OsCommand` Helper (Supply Chain RCE)]]></title>
+        <id>https://hackerone.com/reports/3637898</id>
+        <link href="https://hackerone.com/reports/3637898"/>
+        <updated>2026-07-06T17:48:30.000Z</updated>
+        <summary type="html"><![CDATA[AWS VDP disclosed a bug submitted by kaporia: https://hackerone.com/reports/3637898]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OS Command Injection in `aws-cdk-lib` NodejsFunction via Unsanitized `OsCommand` Helper (Supply Chain RCE)]]></title>
+        <id>https://hackerone.com/reports/3637898</id>
+        <link href="https://hackerone.com/reports/3637898"/>
+        <updated>2026-07-06T17:48:30.000Z</updated>
+        <summary type="html"><![CDATA[AWS VDP disclosed a bug submitted by kaporia: https://hackerone.com/reports/3637898]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wazuh File Integrity Monitoring: Tracking Endpoint Modifications in Real Time]]></title>
+        <id>https://medium.com/p/269e384f3fa7</id>
+        <link href="https://infosecwriteups.com/wazuh-file-integrity-monitoring-tracking-endpoint-modifications-in-real-time-269e384f3fa7?source=rss----7b722bfd1b8d---4"/>
+        <updated>2026-07-06T06:34:23.000Z</updated>
+        <summary type="html"><![CDATA[Overview]]></summary>
+        <author>
+            <name>Aishat Olayinka Yusuf</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wazuh File Integrity Monitoring: Tracking Endpoint Modifications in Real Time]]></title>
+        <id>https://medium.com/p/269e384f3fa7</id>
+        <link href="https://infosecwriteups.com/wazuh-file-integrity-monitoring-tracking-endpoint-modifications-in-real-time-269e384f3fa7?source=rss----7b722bfd1b8d---4"/>
+        <updated>2026-07-06T06:34:23.000Z</updated>
+        <summary type="html"><![CDATA[Overview]]></summary>
+        <author>
+            <name>Aishat Olayinka Yusuf</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mastering curl Commands Bug Bounty Hunter's Guide]]></title>
+        <id>https://medium.com/p/57037fdc9714</id>
+        <link href="https://infosecwriteups.com/mastering-curl-commands-bug-bounty-hunters-guide-57037fdc9714?source=rss----7b722bfd1b8d---4"/>
+        <updated>2026-07-06T06:30:13.000Z</updated>
+        <summary type="html"><![CDATA[Every bug bounty hunter has curl installed. Few use it to its full potential. While Burp Suite and custom scripts get the limelight, curl…
+Continue reading on InfoSec Write-ups »]]></summary>
+        <author>
+            <name>MD Mehedi Hasan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mastering curl Commands Bug Bounty Hunter's Guide]]></title>
+        <id>https://medium.com/p/57037fdc9714</id>
+        <link href="https://infosecwriteups.com/mastering-curl-commands-bug-bounty-hunters-guide-57037fdc9714?source=rss----7b722bfd1b8d---4"/>
+        <updated>2026-07-06T06:30:13.000Z</updated>
+        <summary type="html"><![CDATA[Every bug bounty hunter has curl installed. Few use it to its full potential. While Burp Suite and custom scripts get the limelight, curl…
+Continue reading on InfoSec Write-ups »]]></summary>
+        <author>
+            <name>MD Mehedi Hasan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mass Assignment and the Identity Drift: From Profile Edit to Insurance Takeover]]></title>
+        <id>https://medium.com/p/5eb2be4c1f8e</id>
+        <link href="https://infosecwriteups.com/mass-assignment-and-the-identity-drift-from-profile-edit-to-insurance-takeover-5eb2be4c1f8e?source=rss----7b722bfd1b8d---4"/>
+        <updated>2026-07-06T06:29:11.000Z</updated>
+        <summary type="html"><![CDATA[No customer support call. No re-verification.]]></summary>
+        <author>
+            <name>Alvin Ferdiansyah</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mass Assignment and the Identity Drift: From Profile Edit to Insurance Takeover]]></title>
+        <id>https://medium.com/p/5eb2be4c1f8e</id>
+        <link href="https://infosecwriteups.com/mass-assignment-and-the-identity-drift-from-profile-edit-to-insurance-takeover-5eb2be4c1f8e?source=rss----7b722bfd1b8d---4"/>
+        <updated>2026-07-06T06:29:11.000Z</updated>
+        <summary type="html"><![CDATA[No customer support call. No re-verification.]]></summary>
+        <author>
+            <name>Alvin Ferdiansyah</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The File That Answered Back — XXE Hidden in Cell A2]]></title>
+        <id>https://medium.com/p/20dbb8161dd8</id>
+        <link href="https://infosecwriteups.com/the-file-that-answered-back-xxe-hidden-in-cell-a2-20dbb8161dd8?source=rss----7b722bfd1b8d---4"/>
+        <updated>2026-07-06T06:28:59.000Z</updated>
+        <summary type="html"><![CDATA[Most people know XXE. Few think to look for it inside a spreadsheet upload. But beneath every .xlsx is really a ZIP archive full of XML…]]></summary>
+        <author>
+            <name>Alvin Ferdiansyah</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The File That Answered Back — XXE Hidden in Cell A2]]></title>
+        <id>https://medium.com/p/20dbb8161dd8</id>
+        <link href="https://infosecwriteups.com/the-file-that-answered-back-xxe-hidden-in-cell-a2-20dbb8161dd8?source=rss----7b722bfd1b8d---4"/>
+        <updated>2026-07-06T06:28:59.000Z</updated>
+        <summary type="html"><![CDATA[Most people know XXE. Few think to look for it inside a spreadsheet upload. But beneath every .xlsx is really a ZIP archive full of XML…]]></summary>
+        <author>
+            <name>Alvin Ferdiansyah</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[译] 大模型训练的中场叙事：从 Reasoning Thinking 转向 Agentic Thinking (2026)]]></title>
+        <id>https://arthurchiao.art/blog/from-reasoning-thinking-to-agentic-thinking-zh/</id>
+        <link href="https://arthurchiao.art/blog/from-reasoning-thinking-to-agentic-thinking-zh/"/>
+        <updated>2026-07-05T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[译者序
+本文翻译自 2026 年 Junyang Lin 在 X 上的一篇文章
+From “Reasoning” Thinking to “Agentic” Thinking。
+过去两年，有两件事情被重塑了：
+我们如何评估模型（how we evaluate models），
+以及我们期望从模型得到什么（what we expect from them）。
+从 reasoning thinking 转向 agentic thinking 带来的深层次转变：
+训练理念：为了想得更久而 thinking -> 为了行动而 thinking；
+训练对象：模型本身 -> 模型+环境（Agent+Harness）；
+关注的多样性：数据多样性 -> 环境多样性。
+水平及维护精力所限，译文不免存在错误或过时之处，如有疑问，请查阅原文。
+传播知识，尊重劳动，年满十八周岁，转载请注明出处。
+以下是译文。
+译者序
+1 Reasoning thinking（推理式思考）    
+1.1 OpenAI o1：thinking 作为新的一等能力，直接暴露给用户
+1.2 DeepSeek-R1：对 thinking 能力的复现和扩展
+1.3 2025 年上半年：行业关注的仍然是推理式思考
+2 Agentic thinking（智能体式思考）    
+2.1 强化学习 scaling 的前提：确定、稳定且可扩展的反馈信号
+2.2 强化学习不再是一个可选步骤，而是一个系统工程
+2.3 重大转变：从大规模 pre-train 转向大规模 post-train (for reasoning)
+3 混合 thinking 的尝试    
+3.1 Qwen 的尝试        
+3.1.1 困难：thinking 和 non-thinking 模式的数据分布和行为目标很不一样
+3.1.2 用户行为画像的冲突
+3…]]></summary>
+        <author>
+            <name>ArthurChiao's Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Any installed app can force immediate logout and persistent DOS of authenticated Basecamp sessions via unprotected exported StartActivity]]></title>
+        <id>https://hackerone.com/reports/3764217</id>
+        <link href="https://hackerone.com/reports/3764217"/>
+        <updated>2026-07-04T11:05:36.000Z</updated>
+        <summary type="html"><![CDATA[Basecamp disclosed a bug submitted by zerodaysec_xyz: https://hackerone.com/reports/3764217 - Bounty: $287]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Any installed app can force immediate logout and persistent DOS of authenticated Basecamp sessions via unprotected exported StartActivity]]></title>
+        <id>https://hackerone.com/reports/3764217</id>
+        <link href="https://hackerone.com/reports/3764217"/>
+        <updated>2026-07-04T11:05:36.000Z</updated>
+        <summary type="html"><![CDATA[Basecamp disclosed a bug submitted by zerodaysec_xyz: https://hackerone.com/reports/3764217 - Bounty: $287]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[admin.shopify.com: Shopify Flow continues sending internal emails to a configured recipient after the staff author is removed]]></title>
+        <id>https://hackerone.com/reports/3628961</id>
+        <link href="https://hackerone.com/reports/3628961"/>
+        <updated>2026-07-03T18:50:06.000Z</updated>
+        <summary type="html"><![CDATA[Shopify disclosed a bug submitted by abahack: https://hackerone.com/reports/3628961]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[admin.shopify.com: Shopify Flow continues sending internal emails to a configured recipient after the staff author is removed]]></title>
+        <id>https://hackerone.com/reports/3628961</id>
+        <link href="https://hackerone.com/reports/3628961"/>
+        <updated>2026-07-03T18:50:06.000Z</updated>
+        <summary type="html"><![CDATA[Shopify disclosed a bug submitted by abahack: https://hackerone.com/reports/3628961]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Choose IoT and API Penetration Testing Companies]]></title>
+        <id>https://payatu.com/?p=16370</id>
+        <link href="https://payatu.com/blog/how-to-choose-iot-and-api-penetration-testing-companies/"/>
+        <updated>2026-07-03T08:27:57.000Z</updated>
+        <summary type="html"><![CDATA[Here is a pattern we see all the time. A company builds a connected product, gets the device tested by one vendor, gets the APIs tested by another, and both reports come back reasonably clean. Then someone chains a hardcoded key from the firmware to an API endpoint nobody thought to test, and suddenly the […]
+The post How to Choose IoT and API Penetration Testing Companies  appeared first on Payatu.]]></summary>
+        <author>
+            <name>Hemant Sonkar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Non-Production API Endpoints for the Amazon S3 Tables Service Fails to Log to CloudTrail Resulting in Silent Permission Enumeration]]></title>
+        <id>https://hackerone.com/reports/3780277</id>
+        <link href="https://hackerone.com/reports/3780277"/>
+        <updated>2026-07-02T17:51:21.000Z</updated>
+        <summary type="html"><![CDATA[AWS VDP disclosed a bug submitted by nick_frichette_dd: https://hackerone.com/reports/3780277]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Non-Production API Endpoints for the Amazon S3 Tables Service Fails to Log to CloudTrail Resulting in Silent Permission Enumeration]]></title>
+        <id>https://hackerone.com/reports/3780277</id>
+        <link href="https://hackerone.com/reports/3780277"/>
+        <updated>2026-07-02T17:51:21.000Z</updated>
+        <summary type="html"><![CDATA[AWS VDP disclosed a bug submitted by nick_frichette_dd: https://hackerone.com/reports/3780277]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[jitsi-meet: Prosody/Jigasi missing header whitelist in mod_filter_iq_rayo allows arbitrary SIP header injection and Caller ID spoofing]]></title>
+        <id>https://hackerone.com/reports/3789570</id>
+        <link href="https://hackerone.com/reports/3789570"/>
+        <updated>2026-07-02T15:50:32.000Z</updated>
+        <summary type="html"><![CDATA[8x8 disclosed a bug submitted by pmgjoe: https://hackerone.com/reports/3789570 - Bounty: $100]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[jitsi-meet: Prosody/Jigasi missing header whitelist in mod_filter_iq_rayo allows arbitrary SIP header injection and Caller ID spoofing]]></title>
+        <id>https://hackerone.com/reports/3789570</id>
+        <link href="https://hackerone.com/reports/3789570"/>
+        <updated>2026-07-02T15:50:32.000Z</updated>
+        <summary type="html"><![CDATA[8x8 disclosed a bug submitted by pmgjoe: https://hackerone.com/reports/3789570 - Bounty: $100]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[jitsi-call-analytics: Unauthenticated arbitrary file write via path traversal in `/api/v1/uploads/analyze`]]></title>
+        <id>https://hackerone.com/reports/3485343</id>
+        <link href="https://hackerone.com/reports/3485343"/>
+        <updated>2026-07-02T15:41:33.000Z</updated>
+        <summary type="html"><![CDATA[8x8 disclosed a bug submitted by r1skr1der: https://hackerone.com/reports/3485343 - Bounty: $100]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[jitsi-call-analytics: Unauthenticated arbitrary file write via path traversal in `/api/v1/uploads/analyze`]]></title>
+        <id>https://hackerone.com/reports/3485343</id>
+        <link href="https://hackerone.com/reports/3485343"/>
+        <updated>2026-07-02T15:41:33.000Z</updated>
+        <summary type="html"><![CDATA[8x8 disclosed a bug submitted by r1skr1der: https://hackerone.com/reports/3485343 - Bounty: $100]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Yelp for Business: locked Email field silently editable via API]]></title>
+        <id>https://hackerone.com/reports/3766455</id>
+        <link href="https://hackerone.com/reports/3766455"/>
+        <updated>2026-07-02T15:36:44.000Z</updated>
+        <summary type="html"><![CDATA[Yelp disclosed a bug submitted by 0xmanticore: https://hackerone.com/reports/3766455]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Yelp for Business: locked Email field silently editable via API]]></title>
+        <id>https://hackerone.com/reports/3766455</id>
+        <link href="https://hackerone.com/reports/3766455"/>
+        <updated>2026-07-02T15:36:44.000Z</updated>
+        <summary type="html"><![CDATA[Yelp disclosed a bug submitted by 0xmanticore: https://hackerone.com/reports/3766455]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Buy a Reliable SSD, Continued]]></title>
+        <id>https://blog.elcomsoft.com/?p=13457</id>
+        <link href="https://blog.elcomsoft.com/2026/07/how-to-buy-a-reliable-ssd-continued/"/>
+        <updated>2026-07-02T08:25:13.000Z</updated>
+        <summary type="html"><![CDATA[Over at the Atola blog, Vitaliy Mokosiy published How to buy a reliable SSD – and none of it is wrong. That’s the problem. Read it back and it boils down to buy a good drive, don’t buy a bad one, and make backups. Every line is true and every line is the line an […]]]></summary>
+        <author>
+            <name>Oleg Afonin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vulnerability & Patch Roundup — June 2026]]></title>
+        <id>https://blog.sucuri.net/?p=36161</id>
+        <link href="https://blog.sucuri.net/2026/07/vulnerability-patch-roundup-june-2026.html"/>
+        <updated>2026-07-02T06:15:00.000Z</updated>
+        <summary type="html"><![CDATA[Running a website means a single unpatched vulnerability can take it offline, harm your reputation, or require cleanup. Most compromises begin with automated attacks exploiting known software flaws, usually reported and disclosed already.
+To keep you protected from these threats, we’ve compiled this month’s key security updates and vulnerability patches for the WordPress ecosystem.
+If you’re already using the Sucuri Firewall, you’re protected. These vulnerabilities are virtually patched for all clients.
+Continue reading Vulnerability & Patch Roundup — June 2026 at Sucuri Blog.]]></summary>
+        <author>
+            <name>Sucuri Malware Research Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Splatoon 3 In-Match Integrity Bypass via Consensus Reflection Attack on Unordered Peer Submission]]></title>
+        <id>https://hackerone.com/reports/3559522</id>
+        <link href="https://hackerone.com/reports/3559522"/>
+        <updated>2026-07-02T01:26:11.000Z</updated>
+        <summary type="html"><![CDATA[Nintendo disclosed a bug submitted by hana2736: https://hackerone.com/reports/3559522]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Splatoon 3 In-Match Integrity Bypass via Consensus Reflection Attack on Unordered Peer Submission]]></title>
+        <id>https://hackerone.com/reports/3559522</id>
+        <link href="https://hackerone.com/reports/3559522"/>
+        <updated>2026-07-02T01:26:11.000Z</updated>
+        <summary type="html"><![CDATA[Nintendo disclosed a bug submitted by hana2736: https://hackerone.com/reports/3559522]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Splatoon 3] Kick other players with NplnLogin message]]></title>
+        <id>https://hackerone.com/reports/3813932</id>
+        <link href="https://hackerone.com/reports/3813932"/>
+        <updated>2026-07-02T01:25:44.000Z</updated>
+        <summary type="html"><![CDATA[Nintendo disclosed a bug submitted by alzxk11: https://hackerone.com/reports/3813932]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Splatoon 3] Kick other players with NplnLogin message]]></title>
+        <id>https://hackerone.com/reports/3813932</id>
+        <link href="https://hackerone.com/reports/3813932"/>
+        <updated>2026-07-02T01:25:44.000Z</updated>
+        <summary type="html"><![CDATA[Nintendo disclosed a bug submitted by alzxk11: https://hackerone.com/reports/3813932]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Exceeding the maximum number of spaces allowed by exploiting a Race Condition in the Workspace creation process]]></title>
+        <id>https://hackerone.com/reports/3295500</id>
+        <link href="https://hackerone.com/reports/3295500"/>
+        <updated>2026-07-01T17:42:23.000Z</updated>
+        <summary type="html"><![CDATA[SingleStore disclosed a bug submitted by bl4ck-: https://hackerone.com/reports/3295500]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Exceeding the maximum number of spaces allowed by exploiting a Race Condition in the Workspace creation process]]></title>
+        <id>https://hackerone.com/reports/3295500</id>
+        <link href="https://hackerone.com/reports/3295500"/>
+        <updated>2026-07-01T17:42:23.000Z</updated>
+        <summary type="html"><![CDATA[SingleStore disclosed a bug submitted by bl4ck-: https://hackerone.com/reports/3295500]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Insecure Direct Object Reference (IDOR) allows creating folders.]]></title>
+        <id>https://hackerone.com/reports/3353057</id>
+        <link href="https://hackerone.com/reports/3353057"/>
+        <updated>2026-07-01T17:41:16.000Z</updated>
+        <summary type="html"><![CDATA[SingleStore disclosed a bug submitted by bl4ck-: https://hackerone.com/reports/3353057]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Insecure Direct Object Reference (IDOR) allows creating folders.]]></title>
+        <id>https://hackerone.com/reports/3353057</id>
+        <link href="https://hackerone.com/reports/3353057"/>
+        <updated>2026-07-01T17:41:16.000Z</updated>
+        <summary type="html"><![CDATA[SingleStore disclosed a bug submitted by bl4ck-: https://hackerone.com/reports/3353057]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Delete any folder for any user within the organization]]></title>
+        <id>https://hackerone.com/reports/3353035</id>
+        <link href="https://hackerone.com/reports/3353035"/>
+        <updated>2026-07-01T17:39:22.000Z</updated>
+        <summary type="html"><![CDATA[SingleStore disclosed a bug submitted by bl4ck-: https://hackerone.com/reports/3353035]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Delete any folder for any user within the organization]]></title>
+        <id>https://hackerone.com/reports/3353035</id>
+        <link href="https://hackerone.com/reports/3353035"/>
+        <updated>2026-07-01T17:39:22.000Z</updated>
+        <summary type="html"><![CDATA[SingleStore disclosed a bug submitted by bl4ck-: https://hackerone.com/reports/3353035]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Privilege Escalation  Access to the Alert Subscribers page for users with low privileges]]></title>
+        <id>https://hackerone.com/reports/3353000</id>
+        <link href="https://hackerone.com/reports/3353000"/>
+        <updated>2026-07-01T17:36:56.000Z</updated>
+        <summary type="html"><![CDATA[SingleStore disclosed a bug submitted by bl4ck-: https://hackerone.com/reports/3353000]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Privilege Escalation  Access to the Alert Subscribers page for users with low privileges]]></title>
+        <id>https://hackerone.com/reports/3353000</id>
+        <link href="https://hackerone.com/reports/3353000"/>
+        <updated>2026-07-01T17:36:56.000Z</updated>
+        <summary type="html"><![CDATA[SingleStore disclosed a bug submitted by bl4ck-: https://hackerone.com/reports/3353000]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Improper Input Validation  HTTP Response Parser Unconditionally Accepts Bare CR in Status Line]]></title>
+        <id>https://hackerone.com/reports/3648681</id>
+        <link href="https://hackerone.com/reports/3648681"/>
+        <updated>2026-07-01T15:39:11.000Z</updated>
+        <summary type="html"><![CDATA[Node.js disclosed a bug submitted by saif-01: https://hackerone.com/reports/3648681]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Improper Input Validation  HTTP Response Parser Unconditionally Accepts Bare CR in Status Line]]></title>
+        <id>https://hackerone.com/reports/3648681</id>
+        <link href="https://hackerone.com/reports/3648681"/>
+        <updated>2026-07-01T15:39:11.000Z</updated>
+        <summary type="html"><![CDATA[Node.js disclosed a bug submitted by saif-01: https://hackerone.com/reports/3648681]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[heap-use-after-free in curl_easy_cleanup() called from callback]]></title>
+        <id>https://hackerone.com/reports/3833577</id>
+        <link href="https://hackerone.com/reports/3833577"/>
+        <updated>2026-06-30T12:31:07.000Z</updated>
+        <summary type="html"><![CDATA[curl disclosed a bug submitted by carehi1324: https://hackerone.com/reports/3833577]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[heap-use-after-free in curl_easy_cleanup() called from callback]]></title>
+        <id>https://hackerone.com/reports/3833577</id>
+        <link href="https://hackerone.com/reports/3833577"/>
+        <updated>2026-06-30T12:31:07.000Z</updated>
+        <summary type="html"><![CDATA[curl disclosed a bug submitted by carehi1324: https://hackerone.com/reports/3833577]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[setopt(VERIFYPEER) from callback bypasses TLS verify on connection reuse]]></title>
+        <id>https://hackerone.com/reports/3831432</id>
+        <link href="https://hackerone.com/reports/3831432"/>
+        <updated>2026-06-30T11:03:53.000Z</updated>
+        <summary type="html"><![CDATA[curl disclosed a bug submitted by a6b30108: https://hackerone.com/reports/3831432]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[setopt(VERIFYPEER) from callback bypasses TLS verify on connection reuse]]></title>
+        <id>https://hackerone.com/reports/3831432</id>
+        <link href="https://hackerone.com/reports/3831432"/>
+        <updated>2026-06-30T11:03:53.000Z</updated>
+        <summary type="html"><![CDATA[curl disclosed a bug submitted by a6b30108: https://hackerone.com/reports/3831432]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ssh_config_matches is dead code: unauthorized SSH key reuse]]></title>
+        <id>https://hackerone.com/reports/3826843</id>
+        <link href="https://hackerone.com/reports/3826843"/>
+        <updated>2026-06-30T10:20:56.000Z</updated>
+        <summary type="html"><![CDATA[curl disclosed a bug submitted by bigtang: https://hackerone.com/reports/3826843]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ssh_config_matches is dead code: unauthorized SSH key reuse]]></title>
+        <id>https://hackerone.com/reports/3826843</id>
+        <link href="https://hackerone.com/reports/3826843"/>
+        <updated>2026-06-30T10:20:56.000Z</updated>
+        <summary type="html"><![CDATA[curl disclosed a bug submitted by bigtang: https://hackerone.com/reports/3826843]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CURLSHOPT_UNSHARE race can cause UAF in shared SSL session cache during HTTPS transfer]]></title>
+        <id>https://hackerone.com/reports/3831345</id>
+        <link href="https://hackerone.com/reports/3831345"/>
+        <updated>2026-06-30T10:20:45.000Z</updated>
+        <summary type="html"><![CDATA[curl disclosed a bug submitted by smaeljaish771: https://hackerone.com/reports/3831345]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CURLSHOPT_UNSHARE race can cause UAF in shared SSL session cache during HTTPS transfer]]></title>
+        <id>https://hackerone.com/reports/3831345</id>
+        <link href="https://hackerone.com/reports/3831345"/>
+        <updated>2026-06-30T10:20:45.000Z</updated>
+        <summary type="html"><![CDATA[curl disclosed a bug submitted by smaeljaish771: https://hackerone.com/reports/3831345]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[libcurl upload read callbacks miss recursive API guard, allowing prohibited multi API reentry and ASAN-confirmed UAF]]></title>
+        <id>https://hackerone.com/reports/3832393</id>
+        <link href="https://hackerone.com/reports/3832393"/>
+        <updated>2026-06-30T05:56:23.000Z</updated>
+        <summary type="html"><![CDATA[curl disclosed a bug submitted by th3hound: https://hackerone.com/reports/3832393]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[libcurl upload read callbacks miss recursive API guard, allowing prohibited multi API reentry and ASAN-confirmed UAF]]></title>
+        <id>https://hackerone.com/reports/3832393</id>
+        <link href="https://hackerone.com/reports/3832393"/>
+        <updated>2026-06-30T05:56:23.000Z</updated>
+        <summary type="html"><![CDATA[curl disclosed a bug submitted by th3hound: https://hackerone.com/reports/3832393]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Denial of Service (DoS) Vulnerability in Drafts Creation Endpoint]]></title>
+        <id>https://hackerone.com/reports/3400140</id>
+        <link href="https://hackerone.com/reports/3400140"/>
+        <updated>2026-06-30T02:28:06.000Z</updated>
+        <summary type="html"><![CDATA[Discourse disclosed a bug submitted by dpaysm: https://hackerone.com/reports/3400140 - Bounty: $1024]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Denial of Service (DoS) Vulnerability in Drafts Creation Endpoint]]></title>
+        <id>https://hackerone.com/reports/3400140</id>
+        <link href="https://hackerone.com/reports/3400140"/>
+        <updated>2026-06-30T02:28:06.000Z</updated>
+        <summary type="html"><![CDATA[Discourse disclosed a bug submitted by dpaysm: https://hackerone.com/reports/3400140 - Bounty: $1024]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Inverted ternary in peerlist_manager::filter() allows unlimited whitelist entries per host via different ports]]></title>
+        <id>https://hackerone.com/reports/3547349</id>
+        <link href="https://hackerone.com/reports/3547349"/>
+        <updated>2026-06-29T17:14:19.000Z</updated>
+        <summary type="html"><![CDATA[Monero disclosed a bug submitted by kklam32: https://hackerone.com/reports/3547349]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Inverted ternary in peerlist_manager::filter() allows unlimited whitelist entries per host via different ports]]></title>
+        <id>https://hackerone.com/reports/3547349</id>
+        <link href="https://hackerone.com/reports/3547349"/>
+        <updated>2026-06-29T17:14:19.000Z</updated>
+        <summary type="html"><![CDATA[Monero disclosed a bug submitted by kklam32: https://hackerone.com/reports/3547349]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Remote node DOS]]></title>
+        <id>https://hackerone.com/reports/876530</id>
+        <link href="https://hackerone.com/reports/876530"/>
+        <updated>2026-06-29T17:06:45.000Z</updated>
+        <summary type="html"><![CDATA[Monero disclosed a bug submitted by xnbya: https://hackerone.com/reports/876530]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Remote node DOS]]></title>
+        <id>https://hackerone.com/reports/876530</id>
+        <link href="https://hackerone.com/reports/876530"/>
+        <updated>2026-06-29T17:06:45.000Z</updated>
+        <summary type="html"><![CDATA[Monero disclosed a bug submitted by xnbya: https://hackerone.com/reports/876530]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Improving Transparency and Assurance in the Web PKI: Mozilla Root Store Policy v3.1]]></title>
+        <id>https://blog.mozilla.org/security/?p=2922</id>
+        <link href="https://blog.mozilla.org/security/2026/06/29/improving-transparency-and-assurance-in-the-web-pki-mozilla-root-store-policy-v3-1/"/>
+        <updated>2026-06-29T11:33:46.000Z</updated>
+        <summary type="html"><![CDATA[Mozilla remains committed to maintaining a secure, trustworthy, and transparent Web PKI. Today we are announcing the publication of Mozilla Root Store Policy (MRSP) version 3.1, effective July 1, 2026. … Read more
+The post Improving Transparency and Assurance in the Web PKI: Mozilla Root Store Policy v3.1 appeared first on Mozilla Security Blog.]]></summary>
+        <author>
+            <name>Ben Wilson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UAF read in mev_pollset_diff() trace path after curl_easy_pause() in socket callback]]></title>
+        <id>https://hackerone.com/reports/3824303</id>
+        <link href="https://hackerone.com/reports/3824303"/>
+        <updated>2026-06-28T15:22:06.000Z</updated>
+        <summary type="html"><![CDATA[curl disclosed a bug submitted by homanp: https://hackerone.com/reports/3824303]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UAF read in mev_pollset_diff() trace path after curl_easy_pause() in socket callback]]></title>
+        <id>https://hackerone.com/reports/3824303</id>
+        <link href="https://hackerone.com/reports/3824303"/>
+        <updated>2026-06-28T15:22:06.000Z</updated>
+        <summary type="html"><![CDATA[curl disclosed a bug submitted by homanp: https://hackerone.com/reports/3824303]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Use-after-free in `mev_forget_socket` when `curl_easy_pause()` is called from a `CURL_POLL_REMOVE` socket callback (incomplete fix of CVE-2026-9080)]]></title>
+        <id>https://hackerone.com/reports/3823985</id>
+        <link href="https://hackerone.com/reports/3823985"/>
+        <updated>2026-06-28T06:33:17.000Z</updated>
+        <summary type="html"><![CDATA[curl disclosed a bug submitted by stze: https://hackerone.com/reports/3823985]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Use-after-free in `mev_forget_socket` when `curl_easy_pause()` is called from a `CURL_POLL_REMOVE` socket callback (incomplete fix of CVE-2026-9080)]]></title>
+        <id>https://hackerone.com/reports/3823985</id>
+        <link href="https://hackerone.com/reports/3823985"/>
+        <updated>2026-06-28T06:33:17.000Z</updated>
+        <summary type="html"><![CDATA[curl disclosed a bug submitted by stze: https://hackerone.com/reports/3823985]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[mbedTLS / wolfSSL / rustls backends silently skip hostname verification when CURLOPT_SSL_VERIFYPEER=0]]></title>
+        <id>https://hackerone.com/reports/3826199</id>
+        <link href="https://hackerone.com/reports/3826199"/>
+        <updated>2026-06-26T14:34:52.000Z</updated>
+        <summary type="html"><![CDATA[curl disclosed a bug submitted by b1gtang: https://hackerone.com/reports/3826199]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[mbedTLS / wolfSSL / rustls backends silently skip hostname verification when CURLOPT_SSL_VERIFYPEER=0]]></title>
+        <id>https://hackerone.com/reports/3826199</id>
+        <link href="https://hackerone.com/reports/3826199"/>
+        <updated>2026-06-26T14:34:52.000Z</updated>
+        <summary type="html"><![CDATA[curl disclosed a bug submitted by b1gtang: https://hackerone.com/reports/3826199]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CURLOPT_HAPROXY_CLIENT_IP lacks input validation, enabling HAProxy PROXY protocol injection]]></title>
+        <id>https://hackerone.com/reports/3823932</id>
+        <link href="https://hackerone.com/reports/3823932"/>
+        <updated>2026-06-26T14:34:39.000Z</updated>
+        <summary type="html"><![CDATA[curl disclosed a bug submitted by tneelc: https://hackerone.com/reports/3823932]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CURLOPT_HAPROXY_CLIENT_IP lacks input validation, enabling HAProxy PROXY protocol injection]]></title>
+        <id>https://hackerone.com/reports/3823932</id>
+        <link href="https://hackerone.com/reports/3823932"/>
+        <updated>2026-06-26T14:34:39.000Z</updated>
+        <summary type="html"><![CDATA[curl disclosed a bug submitted by tneelc: https://hackerone.com/reports/3823932]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PHP code injection in delivery-limitation `logical` validation bypass - XML-RPC setChannelTargeting]]></title>
+        <id>https://hackerone.com/reports/3781492</id>
+        <link href="https://hackerone.com/reports/3781492"/>
+        <updated>2026-06-25T13:43:50.000Z</updated>
+        <summary type="html"><![CDATA[Revive Adserver disclosed a bug submitted by doomtech: https://hackerone.com/reports/3781492]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PHP code injection in delivery-limitation `logical` validation bypass - XML-RPC setChannelTargeting]]></title>
+        <id>https://hackerone.com/reports/3781492</id>
+        <link href="https://hackerone.com/reports/3781492"/>
+        <updated>2026-06-25T13:43:50.000Z</updated>
+        <summary type="html"><![CDATA[Revive Adserver disclosed a bug submitted by doomtech: https://hackerone.com/reports/3781492]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[XMLRPC login leak exposes valid session ID enabling unauthorized API access]]></title>
+        <id>https://hackerone.com/reports/3783738</id>
+        <link href="https://hackerone.com/reports/3783738"/>
+        <updated>2026-06-25T13:43:14.000Z</updated>
+        <summary type="html"><![CDATA[Revive Adserver disclosed a bug submitted by garuthacktvist: https://hackerone.com/reports/3783738]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[XMLRPC login leak exposes valid session ID enabling unauthorized API access]]></title>
+        <id>https://hackerone.com/reports/3783738</id>
+        <link href="https://hackerone.com/reports/3783738"/>
+        <updated>2026-06-25T13:43:14.000Z</updated>
+        <summary type="html"><![CDATA[Revive Adserver disclosed a bug submitted by garuthacktvist: https://hackerone.com/reports/3783738]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reflected XSS via unsanitised refresh parameter in zone invocation tag]]></title>
+        <id>https://hackerone.com/reports/3780806</id>
+        <link href="https://hackerone.com/reports/3780806"/>
+        <updated>2026-06-25T13:41:12.000Z</updated>
+        <summary type="html"><![CDATA[Revive Adserver disclosed a bug submitted by kanon4: https://hackerone.com/reports/3780806]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reflected XSS via unsanitised refresh parameter in zone invocation tag]]></title>
+        <id>https://hackerone.com/reports/3780806</id>
+        <link href="https://hackerone.com/reports/3780806"/>
+        <updated>2026-06-25T13:41:12.000Z</updated>
+        <summary type="html"><![CDATA[Revive Adserver disclosed a bug submitted by kanon4: https://hackerone.com/reports/3780806]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PHP code injection in delivery-limitation `logical` validation bypass]]></title>
+        <id>https://hackerone.com/reports/3780854</id>
+        <link href="https://hackerone.com/reports/3780854"/>
+        <updated>2026-06-25T13:40:57.000Z</updated>
+        <summary type="html"><![CDATA[Revive Adserver disclosed a bug submitted by riodrwn: https://hackerone.com/reports/3780854]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PHP code injection in delivery-limitation `logical` validation bypass]]></title>
+        <id>https://hackerone.com/reports/3780854</id>
+        <link href="https://hackerone.com/reports/3780854"/>
+        <updated>2026-06-25T13:40:57.000Z</updated>
+        <summary type="html"><![CDATA[Revive Adserver disclosed a bug submitted by riodrwn: https://hackerone.com/reports/3780854]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stored XSS in maintenance tools via unescaped entity names]]></title>
+        <id>https://hackerone.com/reports/3781311</id>
+        <link href="https://hackerone.com/reports/3781311"/>
+        <updated>2026-06-25T13:40:45.000Z</updated>
+        <summary type="html"><![CDATA[Revive Adserver disclosed a bug submitted by an_gr_y: https://hackerone.com/reports/3781311]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stored XSS in maintenance tools via unescaped entity names]]></title>
+        <id>https://hackerone.com/reports/3781311</id>
+        <link href="https://hackerone.com/reports/3781311"/>
+        <updated>2026-06-25T13:40:45.000Z</updated>
+        <summary type="html"><![CDATA[Revive Adserver disclosed a bug submitted by an_gr_y: https://hackerone.com/reports/3781311]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSRF in zoneinclude.php allows unauthorized banner and campaign linking]]></title>
+        <id>https://hackerone.com/reports/3781691</id>
+        <link href="https://hackerone.com/reports/3781691"/>
+        <updated>2026-06-25T13:40:31.000Z</updated>
+        <summary type="html"><![CDATA[Revive Adserver disclosed a bug submitted by an_gr_y: https://hackerone.com/reports/3781691]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSRF in zoneinclude.php allows unauthorized banner and campaign linking]]></title>
+        <id>https://hackerone.com/reports/3781691</id>
+        <link href="https://hackerone.com/reports/3781691"/>
+        <updated>2026-06-25T13:40:31.000Z</updated>
+        <summary type="html"><![CDATA[Revive Adserver disclosed a bug submitted by an_gr_y: https://hackerone.com/reports/3781691]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Missing ownership validation allows crossmanager trackercampaign linking]]></title>
+        <id>https://hackerone.com/reports/3780709</id>
+        <link href="https://hackerone.com/reports/3780709"/>
+        <updated>2026-06-25T13:40:14.000Z</updated>
+        <summary type="html"><![CDATA[Revive Adserver disclosed a bug submitted by hakuopi: https://hackerone.com/reports/3780709]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Missing ownership validation allows crossmanager trackercampaign linking]]></title>
+        <id>https://hackerone.com/reports/3780709</id>
+        <link href="https://hackerone.com/reports/3780709"/>
+        <updated>2026-06-25T13:40:14.000Z</updated>
+        <summary type="html"><![CDATA[Revive Adserver disclosed a bug submitted by hakuopi: https://hackerone.com/reports/3780709]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reflected XSS in statsvideo.php via improperly encoded URL parameters]]></title>
+        <id>https://hackerone.com/reports/3793243</id>
+        <link href="https://hackerone.com/reports/3793243"/>
+        <updated>2026-06-25T13:39:58.000Z</updated>
+        <summary type="html"><![CDATA[Revive Adserver disclosed a bug submitted by kanon4: https://hackerone.com/reports/3793243]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reflected XSS in statsvideo.php via improperly encoded URL parameters]]></title>
+        <id>https://hackerone.com/reports/3793243</id>
+        <link href="https://hackerone.com/reports/3793243"/>
+        <updated>2026-06-25T13:39:58.000Z</updated>
+        <summary type="html"><![CDATA[Revive Adserver disclosed a bug submitted by kanon4: https://hackerone.com/reports/3793243]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HTTP Response Queue Poisoning via TOCTOU Race Condition in `http.Agent`]]></title>
+        <id>https://hackerone.com/reports/3582376</id>
+        <link href="https://hackerone.com/reports/3582376"/>
+        <updated>2026-06-25T05:03:24.000Z</updated>
+        <summary type="html"><![CDATA[Node.js disclosed a bug submitted by yushengchen: https://hackerone.com/reports/3582376]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HTTP Response Queue Poisoning via TOCTOU Race Condition in `http.Agent`]]></title>
+        <id>https://hackerone.com/reports/3582376</id>
+        <link href="https://hackerone.com/reports/3582376"/>
+        <updated>2026-06-25T05:03:24.000Z</updated>
+        <summary type="html"><![CDATA[Node.js disclosed a bug submitted by yushengchen: https://hackerone.com/reports/3582376]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unix domain socket server bypasses --permission network restrictions (incomplete CVE-2026-21636 fix)]]></title>
+        <id>https://hackerone.com/reports/3618831</id>
+        <link href="https://hackerone.com/reports/3618831"/>
+        <updated>2026-06-25T05:03:07.000Z</updated>
+        <summary type="html"><![CDATA[Node.js disclosed a bug submitted by cyberjoker: https://hackerone.com/reports/3618831]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unix domain socket server bypasses --permission network restrictions (incomplete CVE-2026-21636 fix)]]></title>
+        <id>https://hackerone.com/reports/3618831</id>
+        <link href="https://hackerone.com/reports/3618831"/>
+        <updated>2026-06-25T05:03:07.000Z</updated>
+        <summary type="html"><![CDATA[Node.js disclosed a bug submitted by cyberjoker: https://hackerone.com/reports/3618831]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Node.js unicode dot separator handling can lead to tls wildcard-depth authentication bypass due to resolver and verifier hostname normalization mismat]]></title>
+        <id>https://hackerone.com/reports/3688064</id>
+        <link href="https://hackerone.com/reports/3688064"/>
+        <updated>2026-06-25T05:02:01.000Z</updated>
+        <summary type="html"><![CDATA[Node.js disclosed a bug submitted by tmeletlidis: https://hackerone.com/reports/3688064]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Node.js unicode dot separator handling can lead to tls wildcard-depth authentication bypass due to resolver and verifier hostname normalization mismat]]></title>
+        <id>https://hackerone.com/reports/3688064</id>
+        <link href="https://hackerone.com/reports/3688064"/>
+        <updated>2026-06-25T05:02:01.000Z</updated>
+        <summary type="html"><![CDATA[Node.js disclosed a bug submitted by tmeletlidis: https://hackerone.com/reports/3688064]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Uppercase sni context matching can lead to mtls authorization bypass due to case-sensitive hostname matching]]></title>
+        <id>https://hackerone.com/reports/3656869</id>
+        <link href="https://hackerone.com/reports/3656869"/>
+        <updated>2026-06-25T05:01:31.000Z</updated>
+        <summary type="html"><![CDATA[Node.js disclosed a bug submitted by tmeletlidis: https://hackerone.com/reports/3656869]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Uppercase sni context matching can lead to mtls authorization bypass due to case-sensitive hostname matching]]></title>
+        <id>https://hackerone.com/reports/3656869</id>
+        <link href="https://hackerone.com/reports/3656869"/>
+        <updated>2026-06-25T05:01:31.000Z</updated>
+        <summary type="html"><![CDATA[Node.js disclosed a bug submitted by tmeletlidis: https://hackerone.com/reports/3656869]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TLS host identity verification bypass via session reuse with different servername leads to unauthorized connections]]></title>
+        <id>https://hackerone.com/reports/3649802</id>
+        <link href="https://hackerone.com/reports/3649802"/>
+        <updated>2026-06-25T05:01:01.000Z</updated>
+        <summary type="html"><![CDATA[Node.js disclosed a bug submitted by 3d7omb: https://hackerone.com/reports/3649802]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TLS host identity verification bypass via session reuse with different servername leads to unauthorized connections]]></title>
+        <id>https://hackerone.com/reports/3649802</id>
+        <link href="https://hackerone.com/reports/3649802"/>
+        <updated>2026-06-25T05:01:01.000Z</updated>
+        <summary type="html"><![CDATA[Node.js disclosed a bug submitted by 3d7omb: https://hackerone.com/reports/3649802]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Permission Model bypass via FileHandle.utimes() in the promises API]]></title>
+        <id>https://hackerone.com/reports/3625987</id>
+        <link href="https://hackerone.com/reports/3625987"/>
+        <updated>2026-06-25T05:00:38.000Z</updated>
+        <summary type="html"><![CDATA[Node.js disclosed a bug submitted by muhammaddaffa: https://hackerone.com/reports/3625987]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Permission Model bypass via FileHandle.utimes() in the promises API]]></title>
+        <id>https://hackerone.com/reports/3625987</id>
+        <link href="https://hackerone.com/reports/3625987"/>
+        <updated>2026-06-25T05:00:38.000Z</updated>
+        <summary type="html"><![CDATA[Node.js disclosed a bug submitted by muhammaddaffa: https://hackerone.com/reports/3625987]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Proxy credentials leaked in ERR_PROXY_TUNNEL error message]]></title>
+        <id>https://hackerone.com/reports/3720313</id>
+        <link href="https://hackerone.com/reports/3720313"/>
+        <updated>2026-06-25T05:00:10.000Z</updated>
+        <summary type="html"><![CDATA[Node.js disclosed a bug submitted by nssys: https://hackerone.com/reports/3720313]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Proxy credentials leaked in ERR_PROXY_TUNNEL error message]]></title>
+        <id>https://hackerone.com/reports/3720313</id>
+        <link href="https://hackerone.com/reports/3720313"/>
+        <updated>2026-06-25T05:00:10.000Z</updated>
+        <summary type="html"><![CDATA[Node.js disclosed a bug submitted by nssys: https://hackerone.com/reports/3720313]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unbounded memory growth in `node:http2` clients via attacker-controlled ORIGIN frames]]></title>
+        <id>https://hackerone.com/reports/3676863</id>
+        <link href="https://hackerone.com/reports/3676863"/>
+        <updated>2026-06-25T04:59:45.000Z</updated>
+        <summary type="html"><![CDATA[Node.js disclosed a bug submitted by kingsd: https://hackerone.com/reports/3676863]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unbounded memory growth in `node:http2` clients via attacker-controlled ORIGIN frames]]></title>
+        <id>https://hackerone.com/reports/3676863</id>
+        <link href="https://hackerone.com/reports/3676863"/>
+        <updated>2026-06-25T04:59:45.000Z</updated>
+        <summary type="html"><![CDATA[Node.js disclosed a bug submitted by kingsd: https://hackerone.com/reports/3676863]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Embedded-nul hostnames can lead to silent authority rebinding due to c-string truncation in resolver bindings]]></title>
+        <id>https://hackerone.com/reports/3656716</id>
+        <link href="https://hackerone.com/reports/3656716"/>
+        <updated>2026-06-25T04:59:17.000Z</updated>
+        <summary type="html"><![CDATA[Node.js disclosed a bug submitted by tmeletlidis: https://hackerone.com/reports/3656716]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Embedded-nul hostnames can lead to silent authority rebinding due to c-string truncation in resolver bindings]]></title>
+        <id>https://hackerone.com/reports/3656716</id>
+        <link href="https://hackerone.com/reports/3656716"/>
+        <updated>2026-06-25T04:59:17.000Z</updated>
+        <summary type="html"><![CDATA[Node.js disclosed a bug submitted by tmeletlidis: https://hackerone.com/reports/3656716]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Node.js WebCrypto AES Integer Overflow Leads to Remote Process Abort (DoS)]]></title>
+        <id>https://hackerone.com/reports/3760016</id>
+        <link href="https://hackerone.com/reports/3760016"/>
+        <updated>2026-06-25T04:58:47.000Z</updated>
+        <summary type="html"><![CDATA[Node.js disclosed a bug submitted by erichen: https://hackerone.com/reports/3760016]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Node.js WebCrypto AES Integer Overflow Leads to Remote Process Abort (DoS)]]></title>
+        <id>https://hackerone.com/reports/3760016</id>
+        <link href="https://hackerone.com/reports/3760016"/>
+        <updated>2026-06-25T04:58:47.000Z</updated>
+        <summary type="html"><![CDATA[Node.js disclosed a bug submitted by erichen: https://hackerone.com/reports/3760016]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HTTPS proxy connection reuse lets one easy handle inherit another handle's mTLS-authenticated proxy session]]></title>
+        <id>https://hackerone.com/reports/3735180</id>
+        <link href="https://hackerone.com/reports/3735180"/>
+        <updated>2026-06-24T08:31:04.000Z</updated>
+        <summary type="html"><![CDATA[curl disclosed a bug submitted by zhenyan: https://hackerone.com/reports/3735180]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HTTPS proxy connection reuse lets one easy handle inherit another handle's mTLS-authenticated proxy session]]></title>
+        <id>https://hackerone.com/reports/3735180</id>
+        <link href="https://hackerone.com/reports/3735180"/>
+        <updated>2026-06-24T08:31:04.000Z</updated>
+        <summary type="html"><![CDATA[curl disclosed a bug submitted by zhenyan: https://hackerone.com/reports/3735180]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CVE-2026-11564: Native CA trust persist]]></title>
+        <id>https://hackerone.com/reports/3788984</id>
+        <link href="https://hackerone.com/reports/3788984"/>
+        <updated>2026-06-24T08:30:15.000Z</updated>
+        <summary type="html"><![CDATA[curl disclosed a bug submitted by bagder: https://hackerone.com/reports/3788984]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CVE-2026-11564: Native CA trust persist]]></title>
+        <id>https://hackerone.com/reports/3788984</id>
+        <link href="https://hackerone.com/reports/3788984"/>
+        <updated>2026-06-24T08:30:15.000Z</updated>
+        <summary type="html"><![CDATA[curl disclosed a bug submitted by bagder: https://hackerone.com/reports/3788984]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CVE-2026-12064: proto-default skips SSH verification]]></title>
+        <id>https://hackerone.com/reports/3797526</id>
+        <link href="https://hackerone.com/reports/3797526"/>
+        <updated>2026-06-24T08:29:28.000Z</updated>
+        <summary type="html"><![CDATA[curl disclosed a bug submitted by alienowo: https://hackerone.com/reports/3797526]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CVE-2026-12064: proto-default skips SSH verification]]></title>
+        <id>https://hackerone.com/reports/3797526</id>
+        <link href="https://hackerone.com/reports/3797526"/>
+        <updated>2026-06-24T08:29:28.000Z</updated>
+        <summary type="html"><![CDATA[curl disclosed a bug submitted by alienowo: https://hackerone.com/reports/3797526]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CVE-2026-11586: WS Auto-PONG memory exhaustion]]></title>
+        <id>https://hackerone.com/reports/3788931</id>
+        <link href="https://hackerone.com/reports/3788931"/>
+        <updated>2026-06-24T08:29:15.000Z</updated>
+        <summary type="html"><![CDATA[curl disclosed a bug submitted by evergarden1123: https://hackerone.com/reports/3788931]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CVE-2026-11586: WS Auto-PONG memory exhaustion]]></title>
+        <id>https://hackerone.com/reports/3788931</id>
+        <link href="https://hackerone.com/reports/3788931"/>
+        <updated>2026-06-24T08:29:15.000Z</updated>
+        <summary type="html"><![CDATA[curl disclosed a bug submitted by evergarden1123: https://hackerone.com/reports/3788931]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CVE-2026-11352: QUIC zero-length UDP datagrams busy-loop]]></title>
+        <id>https://hackerone.com/reports/3783438</id>
+        <link href="https://hackerone.com/reports/3783438"/>
+        <updated>2026-06-24T08:29:05.000Z</updated>
+        <summary type="html"><![CDATA[curl disclosed a bug submitted by vectorqueue: https://hackerone.com/reports/3783438]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CVE-2026-11352: QUIC zero-length UDP datagrams busy-loop]]></title>
+        <id>https://hackerone.com/reports/3783438</id>
+        <link href="https://hackerone.com/reports/3783438"/>
+        <updated>2026-06-24T08:29:05.000Z</updated>
+        <summary type="html"><![CDATA[curl disclosed a bug submitted by vectorqueue: https://hackerone.com/reports/3783438]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CVE-2026-10536: HTTP/2 stream-dependency tree UAF]]></title>
+        <id>https://hackerone.com/reports/3751697</id>
+        <link href="https://hackerone.com/reports/3751697"/>
+        <updated>2026-06-24T08:28:55.000Z</updated>
+        <summary type="html"><![CDATA[curl disclosed a bug submitted by giant_anteater: https://hackerone.com/reports/3751697]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CVE-2026-10536: HTTP/2 stream-dependency tree UAF]]></title>
+        <id>https://hackerone.com/reports/3751697</id>
+        <link href="https://hackerone.com/reports/3751697"/>
+        <updated>2026-06-24T08:28:55.000Z</updated>
+        <summary type="html"><![CDATA[curl disclosed a bug submitted by giant_anteater: https://hackerone.com/reports/3751697]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CVE-2026-8924: trailing dot domain super cookie]]></title>
+        <id>https://hackerone.com/reports/3733905</id>
+        <link href="https://hackerone.com/reports/3733905"/>
+        <updated>2026-06-24T08:28:44.000Z</updated>
+        <summary type="html"><![CDATA[curl disclosed a bug submitted by vegagent: https://hackerone.com/reports/3733905]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CVE-2026-8924: trailing dot domain super cookie]]></title>
+        <id>https://hackerone.com/reports/3733905</id>
+        <link href="https://hackerone.com/reports/3733905"/>
+        <updated>2026-06-24T08:28:44.000Z</updated>
+        <summary type="html"><![CDATA[curl disclosed a bug submitted by vegagent: https://hackerone.com/reports/3733905]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CVE-2026-9547: SSH improper host validation]]></title>
+        <id>https://hackerone.com/reports/3751712</id>
+        <link href="https://hackerone.com/reports/3751712"/>
+        <updated>2026-06-24T08:27:32.000Z</updated>
+        <summary type="html"><![CDATA[curl disclosed a bug submitted by giant_anteater: https://hackerone.com/reports/3751712]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CVE-2026-9547: SSH improper host validation]]></title>
+        <id>https://hackerone.com/reports/3751712</id>
+        <link href="https://hackerone.com/reports/3751712"/>
+        <updated>2026-06-24T08:27:32.000Z</updated>
+        <summary type="html"><![CDATA[curl disclosed a bug submitted by giant_anteater: https://hackerone.com/reports/3751712]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CVE-2026-9546: sending old referer]]></title>
+        <id>https://hackerone.com/reports/3754343</id>
+        <link href="https://hackerone.com/reports/3754343"/>
+        <updated>2026-06-24T08:27:22.000Z</updated>
+        <summary type="html"><![CDATA[curl disclosed a bug submitted by fafawf: https://hackerone.com/reports/3754343]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CVE-2026-9546: sending old referer]]></title>
+        <id>https://hackerone.com/reports/3754343</id>
+        <link href="https://hackerone.com/reports/3754343"/>
+        <updated>2026-06-24T08:27:22.000Z</updated>
+        <summary type="html"><![CDATA[curl disclosed a bug submitted by fafawf: https://hackerone.com/reports/3754343]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CVE-2026-9079: stale proxy password leak]]></title>
+        <id>https://hackerone.com/reports/3750295</id>
+        <link href="https://hackerone.com/reports/3750295"/>
+        <updated>2026-06-24T08:26:56.000Z</updated>
+        <summary type="html"><![CDATA[curl disclosed a bug submitted by keen4n: https://hackerone.com/reports/3750295]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CVE-2026-9079: stale proxy password leak]]></title>
+        <id>https://hackerone.com/reports/3750295</id>
+        <link href="https://hackerone.com/reports/3750295"/>
+        <updated>2026-06-24T08:26:56.000Z</updated>
+        <summary type="html"><![CDATA[curl disclosed a bug submitted by keen4n: https://hackerone.com/reports/3750295]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CVE-2026-9080: UAF after pause in socket callback]]></title>
+        <id>https://hackerone.com/reports/3749204</id>
+        <link href="https://hackerone.com/reports/3749204"/>
+        <updated>2026-06-24T08:25:17.000Z</updated>
+        <summary type="html"><![CDATA[curl disclosed a bug submitted by giant_anteater: https://hackerone.com/reports/3749204]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CVE-2026-9080: UAF after pause in socket callback]]></title>
+        <id>https://hackerone.com/reports/3749204</id>
+        <link href="https://hackerone.com/reports/3749204"/>
+        <updated>2026-06-24T08:25:17.000Z</updated>
+        <summary type="html"><![CDATA[curl disclosed a bug submitted by giant_anteater: https://hackerone.com/reports/3749204]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CVE-2026-8286: wrong STARTTLS connection reuse]]></title>
+        <id>https://hackerone.com/reports/3718195</id>
+        <link href="https://hackerone.com/reports/3718195"/>
+        <updated>2026-06-24T08:25:05.000Z</updated>
+        <summary type="html"><![CDATA[curl disclosed a bug submitted by bagder: https://hackerone.com/reports/3718195]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CVE-2026-8286: wrong STARTTLS connection reuse]]></title>
+        <id>https://hackerone.com/reports/3718195</id>
+        <link href="https://hackerone.com/reports/3718195"/>
+        <updated>2026-06-24T08:25:05.000Z</updated>
+        <summary type="html"><![CDATA[curl disclosed a bug submitted by bagder: https://hackerone.com/reports/3718195]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CVE-2026-8932: incomplete mTLS config matching in conn reuse]]></title>
+        <id>https://hackerone.com/reports/3733910</id>
+        <link href="https://hackerone.com/reports/3733910"/>
+        <updated>2026-06-24T08:25:03.000Z</updated>
+        <summary type="html"><![CDATA[curl disclosed a bug submitted by giant_anteater: https://hackerone.com/reports/3733910]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CVE-2026-8932: incomplete mTLS config matching in conn reuse]]></title>
+        <id>https://hackerone.com/reports/3733910</id>
+        <link href="https://hackerone.com/reports/3733910"/>
+        <updated>2026-06-24T08:25:03.000Z</updated>
+        <summary type="html"><![CDATA[curl disclosed a bug submitted by giant_anteater: https://hackerone.com/reports/3733910]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CVE-2026-8927: env-set cross-proxy Digest auth state leak]]></title>
+        <id>https://hackerone.com/reports/3744543</id>
+        <link href="https://hackerone.com/reports/3744543"/>
+        <updated>2026-06-24T08:24:47.000Z</updated>
+        <summary type="html"><![CDATA[curl disclosed a bug submitted by adyej: https://hackerone.com/reports/3744543]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CVE-2026-8927: env-set cross-proxy Digest auth state leak]]></title>
+        <id>https://hackerone.com/reports/3744543</id>
+        <link href="https://hackerone.com/reports/3744543"/>
+        <updated>2026-06-24T08:24:47.000Z</updated>
+        <summary type="html"><![CDATA[curl disclosed a bug submitted by adyej: https://hackerone.com/reports/3744543]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CVE-2026-8925: SASL double-free]]></title>
+        <id>https://hackerone.com/reports/3735193</id>
+        <link href="https://hackerone.com/reports/3735193"/>
+        <updated>2026-06-24T08:23:35.000Z</updated>
+        <summary type="html"><![CDATA[curl disclosed a bug submitted by giant_anteater: https://hackerone.com/reports/3735193]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CVE-2026-8925: SASL double-free]]></title>
+        <id>https://hackerone.com/reports/3735193</id>
+        <link href="https://hackerone.com/reports/3735193"/>
+        <updated>2026-06-24T08:23:35.000Z</updated>
+        <summary type="html"><![CDATA[curl disclosed a bug submitted by giant_anteater: https://hackerone.com/reports/3735193]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CVE-2026-8926: password leak with netrc and user in URL]]></title>
+        <id>https://hackerone.com/reports/3735184</id>
+        <link href="https://hackerone.com/reports/3735184"/>
+        <updated>2026-06-24T08:23:22.000Z</updated>
+        <summary type="html"><![CDATA[curl disclosed a bug submitted by giant_anteater: https://hackerone.com/reports/3735184]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CVE-2026-8926: password leak with netrc and user in URL]]></title>
+        <id>https://hackerone.com/reports/3735184</id>
+        <link href="https://hackerone.com/reports/3735184"/>
+        <updated>2026-06-24T08:23:22.000Z</updated>
+        <summary type="html"><![CDATA[curl disclosed a bug submitted by giant_anteater: https://hackerone.com/reports/3735184]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CVE-2026-8458: wrong reuse for different services]]></title>
+        <id>https://hackerone.com/reports/3721183</id>
+        <link href="https://hackerone.com/reports/3721183"/>
+        <updated>2026-06-24T08:23:10.000Z</updated>
+        <summary type="html"><![CDATA[curl disclosed a bug submitted by areksaxyz: https://hackerone.com/reports/3721183]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CVE-2026-8458: wrong reuse for different services]]></title>
+        <id>https://hackerone.com/reports/3721183</id>
+        <link href="https://hackerone.com/reports/3721183"/>
+        <updated>2026-06-24T08:23:10.000Z</updated>
+        <summary type="html"><![CDATA[curl disclosed a bug submitted by areksaxyz: https://hackerone.com/reports/3721183]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Insufficient checks in the file path parameter allow writing to unauthorized directories]]></title>
+        <id>https://hackerone.com/reports/3384615</id>
+        <link href="https://hackerone.com/reports/3384615"/>
+        <updated>2026-06-24T07:03:12.000Z</updated>
+        <summary type="html"><![CDATA[SingleStore disclosed a bug submitted by axolot23: https://hackerone.com/reports/3384615]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Insufficient checks in the file path parameter allow writing to unauthorized directories]]></title>
+        <id>https://hackerone.com/reports/3384615</id>
+        <link href="https://hackerone.com/reports/3384615"/>
+        <updated>2026-06-24T07:03:12.000Z</updated>
+        <summary type="html"><![CDATA[SingleStore disclosed a bug submitted by axolot23: https://hackerone.com/reports/3384615]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bypassing Stolen Device Protection: Alternative Ways of Installing the Extraction Agent]]></title>
+        <id>https://blog.elcomsoft.com/?p=13407</id>
+        <link href="https://blog.elcomsoft.com/2026/06/bypassing-stolen-device-protection-alternative-ways-of-installing-the-extraction-agent/"/>
+        <updated>2026-06-24T07:00:09.000Z</updated>
+        <summary type="html"><![CDATA[Stated plainly: iOS Forensic Toolkit can now get past Stolen Device Protection. There is a catch, and it belongs up front: this is not a magic unlock, and anyone selling it as one is selling something. What we have built is a way to install the extraction agent without ever pairing the iPhone to the […]]]></summary>
+        <author>
+            <name>Oleg Afonin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sideloading the extraction agent: a Stolen Device Protection workaround]]></title>
+        <id>https://blog.elcomsoft.com/?p=13384</id>
+        <link href="https://blog.elcomsoft.com/2026/06/sideloading-the-extraction-agent-a-stolen-device-protection-workaround/"/>
+        <updated>2026-06-24T06:59:25.000Z</updated>
+        <summary type="html"><![CDATA[A new update to iOS Forensic Toolkit is out. The headline feature is an alternative installation method for the extraction agent – that is, deploying it onto an iPhone while bypassing the mandatory pairing requirement. The agent can now be delivered across the network, which removes a number of limitations that came with the usual […]]]></summary>
+        <author>
+            <name>Vladimir Katalov</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CVE-2026-9545: exposing HTTP/3 early data]]></title>
+        <id>https://hackerone.com/reports/3752888</id>
+        <link href="https://hackerone.com/reports/3752888"/>
+        <updated>2026-06-24T06:24:17.000Z</updated>
+        <summary type="html"><![CDATA[curl disclosed a bug submitted by hahahkim: https://hackerone.com/reports/3752888]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CVE-2026-9545: exposing HTTP/3 early data]]></title>
+        <id>https://hackerone.com/reports/3752888</id>
+        <link href="https://hackerone.com/reports/3752888"/>
+        <updated>2026-06-24T06:24:17.000Z</updated>
+        <summary type="html"><![CDATA[curl disclosed a bug submitted by hahahkim: https://hackerone.com/reports/3752888]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CVE-2026-11856: cross-origin Digest auth state leak]]></title>
+        <id>https://hackerone.com/reports/3793260</id>
+        <link href="https://hackerone.com/reports/3793260"/>
+        <updated>2026-06-24T06:21:56.000Z</updated>
+        <summary type="html"><![CDATA[curl disclosed a bug submitted by jjchuck: https://hackerone.com/reports/3793260]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CVE-2026-11856: cross-origin Digest auth state leak]]></title>
+        <id>https://hackerone.com/reports/3793260</id>
+        <link href="https://hackerone.com/reports/3793260"/>
+        <updated>2026-06-24T06:21:56.000Z</updated>
+        <summary type="html"><![CDATA[curl disclosed a bug submitted by jjchuck: https://hackerone.com/reports/3793260]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PCI Compliance Isn’t a Checkbox: How to Secure Ecommerce Checkouts Before Attackers Arrive]]></title>
+        <id>https://blog.sucuri.net/?p=36133</id>
+        <link href="https://blog.sucuri.net/2026/06/pci-compliance-isnt-a-checkbox-how-to-secure-ecommerce-checkouts-before-attackers-arrive.html"/>
+        <updated>2026-06-23T23:11:46.000Z</updated>
+        <summary type="html"><![CDATA[A working checkout page is often the moment a business starts to feel real. The products are live, the cart is functional, payments are flowing, and orders are landing in your inbox. That is also when security shifts from a background concern to a real-world risk.
+Once your website starts accepting credit card payments, it becomes part of a payment environment attackers actively look for.
+That does not mean every small ecommerce store needs an enterprise security team.
+Continue reading PCI Compliance Isn’t a Checkbox: How to Secure Ecommerce Checkouts Before Attackers Arrive at Sucuri Blog.]]></summary>
+        <author>
+            <name>Kyle Knight</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2026-06-22: SHub Stealer infection (macOS)]]></title>
+        <id>https://www.malware-traffic-analysis.net/2026/06/22/index.html</id>
+        <link href="https://www.malware-traffic-analysis.net/2026/06/22/index.html"/>
+        <updated>2026-06-23T18:29:00.000Z</updated>
+        <author>
+            <name>Malware-Traffic-Analysis.net - Blog Entries</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2026-06-18: SHub Stealer infection (macOS)]]></title>
+        <id>https://www.malware-traffic-analysis.net/2026/06/18/index.html</id>
+        <link href="https://www.malware-traffic-analysis.net/2026/06/18/index.html"/>
+        <updated>2026-06-23T18:15:00.000Z</updated>
+        <author>
+            <name>Malware-Traffic-Analysis.net - Blog Entries</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2026-06-01: SmartApeSG ClickFix --> Unidentified RAT]]></title>
+        <id>https://www.malware-traffic-analysis.net/2026/06/01/index.html</id>
+        <link href="https://www.malware-traffic-analysis.net/2026/06/01/index.html"/>
+        <updated>2026-06-23T17:42:00.000Z</updated>
+        <author>
+            <name>Malware-Traffic-Analysis.net - Blog Entries</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2026-05-27: SmartApeSG ClickFix --> Unidentified RAT --> NetSupport RAT]]></title>
+        <id>https://www.malware-traffic-analysis.net/2026/05/27/index.html</id>
+        <link href="https://www.malware-traffic-analysis.net/2026/05/27/index.html"/>
+        <updated>2026-06-23T17:40:00.000Z</updated>
+        <author>
+            <name>Malware-Traffic-Analysis.net - Blog Entries</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Embedded systems projects need real CI hardware test]]></title>
+        <id>http://acassis.wordpress.com/?p=12978</id>
+        <link href="https://acassis.wordpress.com/2026/06/23/embedded-systems-projects-need-real-ci-hardware-test/"/>
+        <updated>2026-06-23T15:35:50.000Z</updated>
+        <summary type="html"><![CDATA[Some years ago (whoa, just realized it was 10 years ago) I added an Audio Tone on NuttX:https://github.com/apache/nuttx/commit/8b99dd4cdb014a90c0971027f8d6b12b89306aae I cannot say that it was my own creation because I used the PX4 Audio Tone as base and converted to a NuttX driver, but the port was mainly a rewriting of the original project. Then around … Continue reading Embedded systems projects need real CI hardware test →]]></summary>
+        <author>
+            <name>acassis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Taskcluster web-server OAuth2 authorization codes are reusable and the exchange handler checks the wrong expiry column]]></title>
+        <id>https://hackerone.com/reports/3734676</id>
+        <link href="https://hackerone.com/reports/3734676"/>
+        <updated>2026-06-23T12:37:52.000Z</updated>
+        <summary type="html"><![CDATA[Mozilla disclosed a bug submitted by anshuman_bh: https://hackerone.com/reports/3734676 - Bounty: $2000]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Taskcluster web-server OAuth2 authorization codes are reusable and the exchange handler checks the wrong expiry column]]></title>
+        <id>https://hackerone.com/reports/3734676</id>
+        <link href="https://hackerone.com/reports/3734676"/>
+        <updated>2026-06-23T12:37:52.000Z</updated>
+        <summary type="html"><![CDATA[Mozilla disclosed a bug submitted by anshuman_bh: https://hackerone.com/reports/3734676 - Bounty: $2000]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Node --run POSIX positional argument escaping allows shell command injection]]></title>
+        <id>https://hackerone.com/reports/3817602</id>
+        <link href="https://hackerone.com/reports/3817602"/>
+        <updated>2026-06-23T09:53:20.000Z</updated>
+        <summary type="html"><![CDATA[Node.js disclosed a bug submitted by yottt: https://hackerone.com/reports/3817602]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Node --run POSIX positional argument escaping allows shell command injection]]></title>
+        <id>https://hackerone.com/reports/3817602</id>
+        <link href="https://hackerone.com/reports/3817602"/>
+        <updated>2026-06-23T09:53:20.000Z</updated>
+        <summary type="html"><![CDATA[Node.js disclosed a bug submitted by yottt: https://hackerone.com/reports/3817602]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[酷宝的使用方法，超好用的免费界面库，C++、MFC可用 - 博客1800]]></title>
         <id>https://www.cnblogs.com/deepseek999/p/20725711</id>
@@ -3319,6 +5669,20 @@ Continue reading on InfoSec Write-ups »]]></summary>
         <summary type="html"><![CDATA[上周三下午，一个做销售的朋友发消息问我：&quot;有没有办法让客户填完表单之后，自动把信息记到表格里，同时给我发个钉钉通知？现在是我一个个手动拷贝的，有时候忘了，客户那边还会投诉说没有跟进。&quot; 我问他一天这类信息大概多少条。他说：&quot;少说也有二三十条，每条处理加确认大概要 2-3 分钟，算下来一天光这个就要花]]></summary>
         <author>
             <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI辅助漏洞挖掘系统设计指南]]></title>
+        <id>https://vipread.com/library/topic/4152</id>
+        <link href="https://vipread.com/library/topic/4152"/>
+        <updated>2026-06-16T03:59:16.000Z</updated>
+        <summary type="html"><![CDATA[本文链接
+
+这份文档《AI辅助漏洞挖掘系统设计指南》系统阐述了一套基于大语言模型的自动化安全测试平台构建方法论。其核心设计哲学是"不束缚AI，只设边界"——不教AI如何做渗透测试，而是为其划定行为禁区与报告标准，充分利用模型自带的海量安全知识。
+文档提出与传统扫描器截然不同的架构：以单一"核心技能文件"替代繁杂规则库，通过"垃圾洞清单"过滤噪音、"七问验证门"把控报告质量、"速查卡"对抗AI遗忘机制，并采用决策树引导AI动态选择测试路径。系统架构涵盖前端仪表盘、后端调度服务、AI工作引擎及LLM API四层，支持会话生命周期管理、并发控制与实时通信。
+关键创新在于将"现象"与"漏洞"严格区分——只报可证明的结果（如越权、RCE），不报过程性发现（如配置缺失、信息泄露）。文档还详细设计了安全防护、磁盘监控、自动重连等机制，并提供从零搭建的三阶段路线图，强调核心技能文件的持续迭代是系统竞争力的根本来源。]]></summary>
+        <author>
+            <name>信息安全知识库</name>
         </author>
     </entry>
     <entry>
@@ -13571,91 +15935,6 @@ sudo mdutil -i off /Volumes/Macintosh\ HD\ -\ Data
 附图：]]></summary>
         <author>
             <name>I'm TualatriX</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Understand Neural Nets better, post 5 of N -- Code Assistant shootout]]></title>
-        <id>https://addxorrol.blogspot.com/2025/07/understand-neural-nets-better-post-5-of.html</id>
-        <link href="https://addxorrol.blogspot.com/2025/07/understand-neural-nets-better-post-5-of.html"/>
-        <updated>2025-07-11T13:28:00.000Z</updated>
-        <summary type="html"><![CDATA[In a series of previous blogposts [1, 2, 3, 4] I ran some experiments drawing the boundaries of the polytopes generated by a fully-connected leaky ReLU network while it was getting trained on reproducing an input image.
-As I tried to scale the experiments to larger networks, I noticed a dramatic slowdown in the code, caused by the calculation of a hash of the activation pattern happening on CPU -- so each training step would be fast, but then everything would grind to a halt for the visualisation, and for each pixel the code would forward-evaluate the NN (all in all 1024*1024 times), and whenever the prediction was calculated, it'd transfer the activation pattern to CPU and then perform the hashing. This was very slow, and very non-parallel.
-I had contemplated writing some custom CUDA code…]]></summary>
-        <author>
-            <name>ADD / XOR / ROL</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Introducing Skia Graphite: Chrome's rasterization backend for the future]]></title>
-        <id>https://blog.chromium.org/2025/07/introducing-skia-graphite-chromes.html</id>
-        <link href="https://blog.chromium.org/2025/07/introducing-skia-graphite-chromes.html"/>
-        <updated>2025-07-08T17:46:00.000Z</updated>
-        <summary type="html"><![CDATA[Today's The Fast and the Curious post covers the launch of Skia's new rasterization backend, Graphite, in Chrome on Apple Silicon Macs. Graphite is instrumental in helping Chrome achieve exceptional scores on Motionmark 1.3 and is key to unlocking a ton of future improvements in Chrome Graphics.
-
-A brief history of Skia in Chrome
-since the very beginning. Skia eventually ran into performance issues as the web evolved and became more complex, which led Chrome and Skia to invest in a GPU accelerated rasterization backend called Ganesh.  
-
-
-Over the years, Ganesh matured into a solid highly performant rasterization backend and GPU rasterization launched on all platforms in Chrome on top of GL (via ANGLE on Windows D3D9/11). However, Ganesh always had a GL-centric design with too many speciali…]]></summary>
-        <author>
-            <name>Chromium Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CVE-2025-32023 Redis  漏洞分析]]></title>
-        <id>https://bestwing.me/cve-2025-32023-redis-rce-via-out-of-bounds-write.html</id>
-        <link href="https://bestwing.me/cve-2025-32023-redis-rce-via-out-of-bounds-write.html"/>
-        <updated>2025-07-07T19:32:43.000Z</updated>
-        <summary type="html"><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><link rel="stylesheet" type="text/css" hr]]></summary>
-        <author>
-            <name>Swing'Blog 浮生若梦</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A non-anthropomorphized view of LLMs]]></title>
-        <id>https://addxorrol.blogspot.com/2025/07/a-non-anthropomorphized-view-of-llms.html</id>
-        <link href="https://addxorrol.blogspot.com/2025/07/a-non-anthropomorphized-view-of-llms.html"/>
-        <updated>2025-07-06T19:58:00.000Z</updated>
-        <summary type="html"><![CDATA[In many discussions where questions of "alignment" or "AI safety" crop up, I am baffled by seriously intelligent people imbuing almost magical human-like powers to something that - in my mind - is just MatMul with interspersed nonlinearities.
-In one of these discussions, somebody correctly called me out on the simplistic nature of this argument - "a brain is just some proteins and currents". I felt like I should explain my argument a bit more, because it feels less simplistic to me:
-The space of words
-The tokenization and embedding step maps individual words (or tokens) to some \(\mathbb{R}^n\) vectors. So let us imagine for a second that we have \(\mathbb{R}^n\) in front of us. A piece of text is then a path through this space - going from word to word to word, tracing a (possibly convolu…]]></summary>
-        <author>
-            <name>ADD / XOR / ROL</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CVE-2025-36463 Sudo_chroot Elevation of Privilege 漏洞分析]]></title>
-        <id>https://bestwing.me/cve-2025-36463-sudo-chroot-elevation.html</id>
-        <link href="https://bestwing.me/cve-2025-36463-sudo-chroot-elevation.html"/>
-        <updated>2025-07-01T22:00:31.000Z</updated>
-        <summary type="html"><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><link rel="stylesheet" type="text/css" hr]]></summary>
-        <author>
-            <name>Swing'Blog 浮生若梦</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LuaJIT trickery]]></title>
-        <id>https://c-skills.blogspot.com/2025/06/luajit-trickery.html</id>
-        <link href="https://c-skills.blogspot.com/2025/06/luajit-trickery.html"/>
-        <updated>2025-06-24T09:25:00.000Z</updated>
-        <summary type="html"><![CDATA[In this blog-post I will bring together two cool things: ELF DSO injection into runtime processes and LuaJIT. Lua itself is a very nice scripting language and LuaJIT integrates a very decent FFI module which contains a cdecl parser and other interesting things. I do not need the speedup of LuaJIT over Lua so much, but the C-binding and -inter-operability is "awesome".
-I wrote my first ELF injection tools >20y ago, so my actual injectso project needed some polishing first to work with current distros at all. Not only did the ld.so impl and glibc pathnames change, CPUs also feature new extensions like SSE2 and compilers make use of it for string and memory related functions like memset(). The drawback in this particular case was that SSE2 instructions add 16byte alignment requirements for the address operands (in this case indirectly the stack) which made injectso fail on distros that make use of it. Now that was fixed and injectso runs on most glibc based distros again, it was time to add LuaJIT support to allow loading of Lua scripts into "foreign" processes in order to do similar things that you know from frida: accessing memory locations, hooking functions, dumping parameters etc. but with much less bloat.
-Here is how it would look in Lua:
-  
-  
-
-
-It was necessary to add peek/poke primitives to LuaJIT as well as a trap mechanism for functions in order to hook/unhook functions and dump their parameters or otherwise access memory at this point. Changing of function parameters on entry is not yet supported, but would be easy.
-When you hook a python interpreter with this script, it would look like this:
-
-
-
-
-
-Is that cool? Running Lua code when Python calls into a C function to do some things. Some fun that AI assisted coding will never give you. You can try out yourself here.]]></summary>
-        <author>
-            <name>C-skills</name>
         </author>
     </entry>
 </feed>
