@@ -6,6 +6,16 @@
       "siteUrl": "http://h1.nobbd.de/",
       "articles": [
         {
+          "id": "https://hackerone.com/reports/3738727",
+          "author": null,
+          "description": "Monero disclosed a bug submitted by int0ha_: https://hackerone.com/reports/3738727",
+          "link": "https://hackerone.com/reports/3738727",
+          "publishedOn": "2026-07-20T00:15:10.000Z",
+          "wordCount": 25,
+          "title": "Restricted RPC leaks alternative block hashes via /get_alt_blocks_hashes",
+          "imageUrl": "https://profile-photos.hackerone-user-content.com/variants/000/007/731/55634f7fcd917725c7a5771cc6e7c9b4d5fe0c22_original.png/f0e07660005686ec92c43da54c0094c1ac1b490ea8c5eac04a4081d912d6ce36"
+        },
+        {
           "id": "https://hackerone.com/reports/3779690",
           "author": null,
           "description": "Rocket.Chat disclosed a bug submitted by olidayw: https://hackerone.com/reports/3779690",
@@ -3420,6 +3430,96 @@
       "siteUrl": "https://medium.com/tag/bugbounty/latest?source=rss------bugbounty-5",
       "articles": [
         {
+          "id": "https://medium.com/p/f89a2b0f830f",
+          "author": "Fares Walid (SirBugs)",
+          "description": "Hey folks 😀 Hope you are doing great today! ❤\nContinue reading on Medium »",
+          "link": "https://medium.com/@bag0zathev2/from-a-hey-name-banner-to-full-account-takeover-chaining-4-bugs-through-a-rewards-webview-f89a2b0f830f?source=rss------bugbounty-5",
+          "publishedOn": "2026-07-20T01:34:22.000Z",
+          "wordCount": null,
+          "title": "From a “Hey, {name} ” Banner to Full Account Takeover | Chaining 4 Bugs Through a Rewards WebView",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/89d151d4e0f4",
+          "author": "Varshith Reddy",
+          "description": "User Enumeration\nContinue reading on Medium »",
+          "link": "https://medium.com/@chilukavarshith4005/registration-security-testing-checklist-89d151d4e0f4?source=rss------bugbounty-5",
+          "publishedOn": "2026-07-19T19:21:50.000Z",
+          "wordCount": null,
+          "title": "Registration Security Testing Checklist",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/fa3951034a33",
+          "author": "Kaens",
+          "description": "Severity: Low\nPlatform: HackerOne\nContinue reading on Medium »",
+          "link": "https://medium.com/@akmalmuhfauzan/unrestricted-file-upload-via-exposed-upload-preset-fa3951034a33?source=rss------bugbounty-5",
+          "publishedOn": "2026-07-19T15:00:04.000Z",
+          "wordCount": null,
+          "title": "Unrestricted File Upload via Exposed Upload Preset",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/35cb3c0d07c1",
+          "author": "Mohamed Abd almalek",
+          "description": "Severity: Critical\nType: Authentication Bypass / Account Takeover (ATO)\nCWE: CWE-640: Weak Password Recovery Mechanism for Forgotten…\nContinue reading on Medium »",
+          "link": "https://medium.com/@z9mohamed74/account-takeover-via-broken-password-reset-validation-35cb3c0d07c1?source=rss------bugbounty-5",
+          "publishedOn": "2026-07-19T12:00:58.000Z",
+          "wordCount": null,
+          "title": "Account Takeover via Broken Password Reset Validation",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/d032b634083f",
+          "author": "Khushi",
+          "description": "A practical, example-driven look at the #1 risk on the OWASP Top 10 IDOR, parameter tampering, and data leakage, with working examples and…\nContinue reading on Medium »",
+          "link": "https://medium.com/@KhushiPatel26/broken-access-control-how-attackers-bypass-permissions-and-how-to-stop-them-d032b634083f?source=rss------bugbounty-5",
+          "publishedOn": "2026-07-19T10:56:15.000Z",
+          "wordCount": null,
+          "title": "Broken Access Control: How Attackers Bypass Permissions (And How to Stop Them)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/7809a8bdd827",
+          "author": "Mazen Rady",
+          "description": ".اللهم انفعنا بما علَّمتنا، وعلِّمنا ما ينفعنا، وزِدنا علمًا وفقهًا وفهمًا يا رب العالمين\nContinue reading on Medium »",
+          "link": "https://mazenrady.medium.com/how-a-simple-profile-setting-revealed-sensitive-credentials-in-a-bug-bounty-program-7809a8bdd827?source=rss------bugbounty-5",
+          "publishedOn": "2026-07-19T08:09:01.000Z",
+          "wordCount": 2320,
+          "title": "How a Simple Profile Setting Revealed Sensitive Credentials in a Bug Bounty Program",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:574/1*RaDH6ImNFJOjIB2MAChrlg.png"
+        },
+        {
+          "id": "https://medium.com/p/57f3637e9ca9",
+          "author": "Mazen Rady",
+          "description": ".اللهم انفعنا بما علَّمتنا، وعلِّمنا ما ينفعنا، وزِدنا علمًا وفقهًا وفهمًا يا رب العالمين\nContinue reading on Medium »",
+          "link": "https://mazenrady.medium.com/how-i-found-a-race-condition-in-an-email-verification-feature-57f3637e9ca9?source=rss------bugbounty-5",
+          "publishedOn": "2026-07-19T07:25:41.000Z",
+          "wordCount": 2324,
+          "title": "How I Found a Race Condition in an Email Verification Feature",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:582/1*ukon7U5t6b8x5zBHfqJRvA.png"
+        },
+        {
+          "id": "https://medium.com/p/0b5108f4a7c0",
+          "author": "Jobson",
+          "description": "Hello World! During a recent security assessment, I came across an interesting finding in an AI-powered application that used a…\nContinue reading on InfoSec Write-ups »",
+          "link": "https://infosecwriteups.com/multi-modal-prompt-injection-0b5108f4a7c0?source=rss------bugbounty-5",
+          "publishedOn": "2026-07-19T06:08:56.000Z",
+          "wordCount": null,
+          "title": "When JPEGs Start Giving Orders: A Journey into Multi-modal Prompt Injection",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/a144c79ae20f",
+          "author": "Abhishek meena",
+          "description": "Cursor and HackerOne closed it as “informative, out of scope.” Seven months later, still no patch. So is it even a bug?\nContinue reading on Medium »",
+          "link": "https://medium.com/@Aacle/the-cursor-zero-day-that-sat-through-70-versions-a144c79ae20f?source=rss------bugbounty-5",
+          "publishedOn": "2026-07-19T06:07:29.000Z",
+          "wordCount": null,
+          "title": "The Cursor Zero-Day That Sat Through 70 Versions",
+          "imageUrl": null
+        },
+        {
           "id": "https://medium.com/p/892e5699e5e8",
           "author": "Ak-4!7",
           "description": "When I first started learning bug bounty hunting, I realized that finding vulnerabilities is not where the process begins. It starts with…\nContinue reading on Medium »",
@@ -5736,6 +5836,96 @@
       "feedUrl": "https://medium.com/feed/tag/redteam",
       "siteUrl": "https://medium.com/tag/redteam/latest?source=rss------redteam-5",
       "articles": [
+        {
+          "id": "https://medium.com/p/46ffbb4fc331",
+          "author": "IR0-k_oo1",
+          "description": "Deploying a Tor V3 Onion Service provides an unparalleled cryptographic foundation for anonymity, location hiding, and native end-to-end…\nContinue reading on Medium »",
+          "link": "https://medium.com/@kisanthr22/the-advanced-operational-security-architecture-guide-to-tor-v3-onion-services-46ffbb4fc331?source=rss------redteam-5",
+          "publishedOn": "2026-07-19T16:06:36.000Z",
+          "wordCount": null,
+          "title": "The Advanced Operational Security & Architecture Guide to Tor V3 Onion Services",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/4813d604cc97",
+          "author": "Ray",
+          "description": "A beginner’s walkthrough of building a Windows domain lab in 2026, and why the failures mattered more than the success.\nContinue reading on Medium »",
+          "link": "https://medium.com/@lifeisjustahardkickinurethra/i-built-my-first-active-directory-lab-from-scratch-heres-everything-that-went-wrong-and-what-it-4813d604cc97?source=rss------redteam-5",
+          "publishedOn": "2026-07-19T14:45:22.000Z",
+          "wordCount": null,
+          "title": "I Built My First Active Directory Lab From Scratch — Here’s Everything That Went Wrong (and What It…",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/638992f767be",
+          "author": "Zeliha Zengin",
+          "description": "Hello everyone!\nContinue reading on Medium »",
+          "link": "https://medium.com/@zeliharich/tryhackme-ignite-638992f767be?source=rss------redteam-5",
+          "publishedOn": "2026-07-19T14:31:01.000Z",
+          "wordCount": null,
+          "title": "TryHackme Ignite",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/c8650c78adfa",
+          "author": "Yua Mikanana",
+          "description": "Every few years, cybersecurity experiences a shift that quietly invalidates years of conventional wisdom.\nContinue reading on Medium »",
+          "link": "https://medium.com/@yua.mikanana19/hot-take-signature-based-security-is-officially-dead-ai-just-made-sure-of-it-c8650c78adfa?source=rss------redteam-5",
+          "publishedOn": "2026-07-19T13:18:37.000Z",
+          "wordCount": null,
+          "title": "Hot Take: Signature-Based Security Is Officially Dead — AI Just Made Sure of It",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/366f6746e1a3",
+          "author": "Dhruv",
+          "description": "Continue reading on Medium »",
+          "link": "https://medium.com/@dhruva0/mimikatz-cheat-sheet-366f6746e1a3?source=rss------redteam-5",
+          "publishedOn": "2026-07-19T11:52:36.000Z",
+          "wordCount": null,
+          "title": "Mimikatz Cheat Sheet",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/7c5e8ffc6889",
+          "author": "Moatef",
+          "description": "Enumeration\nContinue reading on Medium »",
+          "link": "https://medium.com/@moatef7308/ice-tryhackme-7c5e8ffc6889?source=rss------redteam-5",
+          "publishedOn": "2026-07-19T09:43:14.000Z",
+          "wordCount": null,
+          "title": "Ice || TryHackMe",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/fe34b222a24c",
+          "author": "Amna Lodhi",
+          "description": "This challenge introduces SMB (Server Message Block), a protocol used to share files and printers over a network. The goal is to enumerate…\nContinue reading on Medium »",
+          "link": "https://amnalodhi.medium.com/printer-shares-picoctf-write-up-fe34b222a24c?source=rss------redteam-5",
+          "publishedOn": "2026-07-19T08:26:36.000Z",
+          "wordCount": 2161,
+          "title": "Printer Shares — picoCTF Write-up",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:787/1*6YL0u3MUoJGTmJP3F1_v7Q.png"
+        },
+        {
+          "id": "https://medium.com/p/b66295f26230",
+          "author": "Osec",
+          "description": "Continue reading on Medium »",
+          "link": "https://medium.com/@osec403/active-directory-attacks-gmsa-exploitation-b66295f26230?source=rss------redteam-5",
+          "publishedOn": "2026-07-19T06:39:29.000Z",
+          "wordCount": null,
+          "title": "Active Directory Attacks — gMSA exploitation",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/dcf867c165d0",
+          "author": "Osec",
+          "description": "Continue reading on Medium »",
+          "link": "https://medium.com/@osec403/active-directory-attacks-coercion-dcf867c165d0?source=rss------redteam-5",
+          "publishedOn": "2026-07-19T06:38:56.000Z",
+          "wordCount": null,
+          "title": "Active Directory Attacks — Coercion",
+          "imageUrl": null
+        },
         {
           "id": "https://medium.com/p/26b57e065baf",
           "author": "Karimsaminur",
@@ -9558,6 +9748,206 @@
       "feedUrl": "https://feed.cnblogs.com/blog/sitehome/rss",
       "siteUrl": null,
       "articles": [
+        {
+          "id": "https://www.cnblogs.com/Carey-ccl/p/21641983",
+          "author": null,
+          "description": "一、FileReader——对InputStreamReader的封装 如果说InputStreamReader是FileInputStream和FileReader之间的桥梁，那么FileReader就是对InputStreamReader的封装，从FileReader的源码来看，除了将Input",
+          "link": "https://www.cnblogs.com/Carey-ccl/p/21641983",
+          "publishedOn": "2026-07-20T03:39:00.000Z",
+          "wordCount": 1070,
+          "title": "17、FileReader的源码和使用方法详细分析（windows操作系统，JDK8） - Carey_ccl",
+          "imageUrl": "https://img2024.cnblogs.com/blog/2485827/202607/2485827-20260719103034740-427411198.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/GuZhenYin/p/21673559",
+          "author": null,
+          "description": "第十六章 未来的大模型与 AI Agent：从模型竞争到系统竞争 目录 零基础认识大语言模型（LLM）工作原理目录 - GuZhenYin - 博客园 本章导读 过去几年，AI 领域最受关注的指标往往是： 参数量有多大； 上下文窗口有多长； 推理能力有多强； 排行榜成绩有多高。 这些指标当然还是很重",
+          "link": "https://www.cnblogs.com/GuZhenYin/p/21673559",
+          "publishedOn": "2026-07-20T03:38:00.000Z",
+          "wordCount": 685,
+          "title": "零基础认识大语言模型（LLM）工作原理(16.未来的大模型与 AI Agent：从模型竞争到系统竞争)--结尾篇 - GuZhenYin",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/ai-old-six/p/21671495",
+          "author": null,
+          "description": "长程任务不是把短任务循环很多次。它真正难的地方在于：上下文会膨胀，错误会累积，目标会漂移。现有 Agent 框架几乎都在围绕这三类约束做取舍",
+          "link": "https://www.cnblogs.com/ai-old-six/p/21671495",
+          "publishedOn": "2026-07-20T03:15:00.000Z",
+          "wordCount": 636,
+          "title": "Agent 长程任务架构设计指南：上下文管理、错误纠偏、目标约束与框架选型 - AI小老六",
+          "imageUrl": "https://img2024.cnblogs.com/blog/3798513/202607/3798513-20260720111409798-915352913.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/huangSir-devops/p/21569564",
+          "author": null,
+          "description": "概述 Nexus是Sonatype公司开发的一款开源的仓库管理系统，是目前最流行的私有仓库解决方案，主要用于存储和管理各类二进制工件（Artifact），包括Java Maven依赖、npm包、Docker镜像、PyPI包、RPM包等等。 Nexus的核心价值 依赖加速：缓存公共仓库的依赖包，大幅提",
+          "link": "https://www.cnblogs.com/huangSir-devops/p/21569564",
+          "publishedOn": "2026-07-20T02:17:00.000Z",
+          "wordCount": 779,
+          "title": "maven私有仓库之nexus简单使用 - huangSir-devops",
+          "imageUrl": "https://img2024.cnblogs.com/blog/3468887/202607/3468887-20260717112802665-1377051183.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/zrui-xyu/p/21666733",
+          "author": null,
+          "description": "本文讲解 10 亿级 MySQL 单表平滑迁移方案，遵循零丢失、短停机、可回滚原则。采用 DataX 分片并行全量、Canal CDC 增量、异步双写兜底，三层校验 + 灰度切流；附幂等同步、分片校验代码，梳理海量迁移性能、一致性等难点与落地避坑方案，配套面试问答。",
+          "link": "https://www.cnblogs.com/zrui-xyu/p/21666733",
+          "publishedOn": "2026-07-20T01:56:00.000Z",
+          "wordCount": 1819,
+          "title": "MySQL单表有10亿数据如何做迁移 - Rain的Java大神实战圈",
+          "imageUrl": "https://img2024.cnblogs.com/blog/739056/202607/739056-20260720095239964-862119567.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/huangxincheng/p/21665814",
+          "author": null,
+          "description": "一：背景 1. 讲故事 说来也奇怪，最近分析了好几例内存暴涨事故，这不又来了，哈哈，今天再给大家带来一份非托管内存泄露导致的程序生产故障，而且是部署在Linux上.NET程序。 前些天有位朋友找到我，自己有一定的分析能力，发现程序是非托管内存泄露，但能力有限暂时也不知道怎么弄，让我帮忙看下，把dum",
+          "link": "https://www.cnblogs.com/huangxincheng/p/21665814",
+          "publishedOn": "2026-07-20T01:39:00.000Z",
+          "wordCount": 978,
+          "title": "记一次 .NET 某智慧医保云服务Linux 非托管泄露分析 - 一线码农",
+          "imageUrl": "https://img2024.cnblogs.com/blog/214741/202607/214741-20260720084640920-224798177.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/sun-10387834/p/21303491",
+          "author": null,
+          "description": "系列第五阶段：部署与运维篇 你好，我们又见面了。 经过前面四个阶段的学习，你已经掌握了 RocketMQ 的核心原理、存储机制、发送消费以及各种进阶特性。可以说，你现在对 RocketMQ 的“内功”已经相当扎实了。 但有一句老话说得好：“理论是银的，实践是金的。” 一个消息中间件系统，光懂原理还不",
+          "link": "https://www.cnblogs.com/sun-10387834/p/21303491",
+          "publishedOn": "2026-07-20T01:28:00.000Z",
+          "wordCount": 2075,
+          "title": "部署与运维篇：从集群搭建到故障排查的完全指南 - 佛祖让我来巡山",
+          "imageUrl": "https://img2024.cnblogs.com/blog/1465907/202607/1465907-20260710132958065-2115621481.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/davidwang456/p/21643999",
+          "author": null,
+          "description": "1. 项目背景 业务场景：本地生活电商上线三个月，商品数量从 500 增长到 50 万。运营后台的商品列表页越来越慢，从最初&quot;秒开&quot;变成&quot;点击搜索后去接杯水回来还没出来&quot;。运维在告警群里贴出一张监控图：MongoDB 单次查询平均耗时从 12ms 飙升到 3400ms，CPU 使用率 95% 以上。",
+          "link": "https://www.cnblogs.com/davidwang456/p/21643999",
+          "publishedOn": "2026-07-20T01:28:00.000Z",
+          "wordCount": 1608,
+          "title": "第6章：MongoDB索引入门——让慢查询第一次跑起来 - 一天不进步，就是退步",
+          "imageUrl": "https://img2024.cnblogs.com/blog/486074/202607/486074-20260718185842420-122968290.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/jinjiangongzuoshi/p/21665138",
+          "author": null,
+          "description": "导读：skills.sh（Vercel 出品的 Agent Skills 导航站）上线后，排行榜上的数字已经卷到离谱——第一名 240 万 热度，第二名 60 万+，连第十名都有 35 万+。 这些排名靠前的 Skill 真的好用吗？有没有水分？哪些值得装，哪些看看就行？ 我把 skills.sh",
+          "link": "https://www.cnblogs.com/jinjiangongzuoshi/p/21665138",
+          "publishedOn": "2026-07-20T01:26:00.000Z",
+          "wordCount": 1504,
+          "title": "10万人都在用的 top10 skills，我帮你试了！ - 狂师",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/uoky/p/21664355",
+          "author": null,
+          "description": "OpenCode Session Viewer 浏览 OpenCode 全部会话历史的轻量 Web 工具，支持分页与用户输入回溯 最新版新增：会话导出功能，将某次会话导出为json（因未更新示例图片，需自行clone项目查看效果）  零依赖 ⚡ 即开即用  明/暗主题 ✨ 功能特性 �",
+          "link": "https://www.cnblogs.com/uoky/p/21664355",
+          "publishedOn": "2026-07-20T01:01:00.000Z",
+          "wordCount": 1490,
+          "title": "开源项目自荐：OpenCode Session Viewer - 人间春风意",
+          "imageUrl": "https://img2024.cnblogs.com/blog/2115870/202607/2115870-20260720084351003-1317854459.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/Rong-/p/21664192",
+          "author": null,
+          "description": "业务智能体准确率从 65% 推到 75%，靠的不是某种精妙算法，是收窄 LLM 的决策空间。这篇文章讲了四件事：提示词改了 59 版之后撞墙的教训、采样参数从 0.6/0.7 收到 0.3/0.1 的过程、为什么不把业务数据塞 RAG\n  也不塞提示词、以及工具按总数分两档注册的路由策略。核心判断很...",
+          "link": "https://www.cnblogs.com/Rong-/p/21664192",
+          "publishedOn": "2026-07-20T00:51:00.000Z",
+          "wordCount": 546,
+          "title": "业务智能体实战笔记（三）：收窄 LLM 决策空间 - 荣--",
+          "imageUrl": "https://img2024.cnblogs.com/blog/502913/202607/502913-20260720084803368-1577787071.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/cmt/p/21663595",
+          "author": null,
+          "description": "热点随笔： &#183; 22届微软MVP连任：一个.NET技术人的社区长跑 (张善友) &#183; .NET CORE 动态扩展Options-配置运行时热更新 (yuyuyui) &#183; Kimi K3悄悄上线：1M上下文、专攻编程，月之暗面的最强底牌亮了 (老猿AI洞察) &#183; 上周热点回顾（7.6-7.12） (博",
+          "link": "https://www.cnblogs.com/cmt/p/21663595",
+          "publishedOn": "2026-07-20T00:36:00.000Z",
+          "wordCount": 351,
+          "title": "上周热点回顾（7.13-7.19） - 博客园团队",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/zhangs1986/p/21384319",
+          "author": null,
+          "description": "生产服务器告警：创建线程总数超过32000个故障。服务器的总线程数无法突破32000的问题在 “k8s的pod容器中微服务无法创建新线程unable to create new native thread” 文章中提过，现在再谈谈单个服务的线程数怎么优化。 目前统计到的节点上微服务的线程总数可达到5",
+          "link": "https://www.cnblogs.com/zhangs1986/p/21384319",
+          "publishedOn": "2026-07-20T00:35:00.000Z",
+          "wordCount": 612,
+          "title": "一次P0 故障：微服务线程数莫名暴涨 10 倍，线程问题踩坑 - 欢醉",
+          "imageUrl": "https://img2024.cnblogs.com/blog/273387/202607/273387-20260720083710957-845236447.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/smartfishliu/p/21662874",
+          "author": null,
+          "description": "引言:(Paul Liu) 今天让LLM.deepseek真正做了一件 它之前完全不一样的任务. 我的考题是: 让它感受一分钟时间 过程很曲折, 结果跟惊喜. 让它理解了 什么叫感受? 基本概念: 世界 = 空间维度信息 + 时间维度信息. 感受就是 在时间维度的牵引下, 体会空间信息的变化. 如果",
+          "link": "https://www.cnblogs.com/smartfishliu/p/21662874",
+          "publishedOn": "2026-07-19T23:09:00.000Z",
+          "wordCount": 319,
+          "title": "LLM.deepseek:  我感受到了时间 - smartfish_liu",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/davidwang456/p/21643625",
+          "author": null,
+          "description": "1. 项目背景 业务场景：本地生活电商的运营团队急得跳脚——商品信息管理全靠手工 Excel，然后开发写脚本批量导入 MySQL，每次上下架都要拉开发改代码。更离谱的是，新来的运营把&quot;已删除&quot;和&quot;已下架&quot;搞混，直接删了一行 Excel，导致 200 个商品的销售记录断档。技术负责人拍板：必须做一个运",
+          "link": "https://www.cnblogs.com/davidwang456/p/21643625",
+          "publishedOn": "2026-07-19T13:17:00.000Z",
+          "wordCount": 1920,
+          "title": "第4章：Mongo  CRUD 基础实战——用户与商品管理 - 一天不进步，就是退步",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/Alkaid2077/p/21169603",
+          "author": null,
+          "description": "在大模型应用开发中，除了本地推理（如 vLLM、transformers），API 调用是更常见、更轻量的方式。本文以通义千问（DashScope 兼容 OpenAI API）为例，展示如何完成一次完整的 API 调用。 一、为什么选择 API 调用 轻量：无需本地部署 GPU，只需一行请求即可调用",
+          "link": "https://www.cnblogs.com/Alkaid2077/p/21169603",
+          "publishedOn": "2026-07-19T10:01:00.000Z",
+          "wordCount": 584,
+          "title": "【RAG扫盲系列·3】从零开始构建你的RAG项目第二弹：API 调用大模型问答 - Alkaid2077",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/Rong-/p/21652940",
+          "author": null,
+          "description": "GB28181 跨网级联倍速拉流场景下，不对称带宽导致三层递进故障的完整排坑记录。从 UDP 丢包切入，经 TCP 中途断连，到 SIP\n  信令与 RTP 媒体双通道时序脱节引发的录像截断，完整还原从网络抓包、中间件调参到应用层逻辑重构的定位过程。上下游均为\n  WVP-GB28181 + ZLM...",
+          "link": "https://www.cnblogs.com/Rong-/p/21652940",
+          "publishedOn": "2026-07-19T09:34:00.000Z",
+          "wordCount": 478,
+          "title": "GB28181 跨不对称链路倍速拉流：UDP丢包→TCP断连→录像截断 - 荣--",
+          "imageUrl": "https://img2024.cnblogs.com/blog/502913/202607/502913-20260719173322525-1300764912.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/Javenwww/p/21651728",
+          "author": null,
+          "description": "FrameBuffer 应用编程 什么是 FrameBuffer FrameBuffer（帧缓冲） 是 Linux 系统中的一种显示驱动接口。它将显示设备（如 LCD）进行抽象，屏蔽了不同显示设备硬件的实现差异，对应用层呈现为一块显示内存（显存），允许上层应用程序直接对显示缓冲区进行读写操作，而无需",
+          "link": "https://www.cnblogs.com/Javenwww/p/21651728",
+          "publishedOn": "2026-07-19T08:41:00.000Z",
+          "wordCount": 3122,
+          "title": "嵌入式Linux C应用编程——Framebuffer应用编程 - Javenwww",
+          "imageUrl": "https://img2024.cnblogs.com/blog/2845536/202607/2845536-20260719163752742-1060183350.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/lxq-leon/p/21603190",
+          "author": null,
+          "description": "一、概述 本文实现pjsua开源库的交叉编译以及通过调用pjsua库api实现sip语言双向通话功能，包括注册上线sip服务器、接收处理指令(电话邀请、挂断等)、双向音频对讲功能。 二、交叉编译pjsua库 1.解压 tar -zxvf 2.15.1.tar.gz; cd pjproject-2.1",
+          "link": "https://www.cnblogs.com/lxq-leon/p/21603190",
+          "publishedOn": "2026-07-19T08:31:00.000Z",
+          "wordCount": 4713,
+          "title": "linux系统移植pjsua库实现sip通话功能 - 今天也想躺ping",
+          "imageUrl": "https://img2024.cnblogs.com/blog/3704769/202607/3704769-20260719161545229-1139317891.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/aslanvon/p/21648465",
+          "author": null,
+          "description": "DuckDB 存储结构：从逻辑表到磁盘 Block 1. 核心结论 DuckDB 原生表的主线只有一条： Table → Row Group → ColumnData → Column Segment → DuckDB Block → Buffer Manager → Vector / DataCh",
+          "link": "https://www.cnblogs.com/aslanvon/p/21648465",
+          "publishedOn": "2026-07-19T06:52:00.000Z",
+          "wordCount": 1439,
+          "title": "Duckdb存储结构 - aixueforever",
+          "imageUrl": "https://img2024.cnblogs.com/blog/2079976/202607/2079976-20260719144704900-1559158792.png"
+        },
         {
           "id": "https://www.cnblogs.com/aqi00/p/21615432",
           "author": null,
@@ -14405,6 +14795,16 @@
       "siteUrl": "http://h1.nobbd.de/",
       "articles": [
         {
+          "id": "https://hackerone.com/reports/3738727",
+          "author": null,
+          "description": "Monero disclosed a bug submitted by int0ha_: https://hackerone.com/reports/3738727",
+          "link": "https://hackerone.com/reports/3738727",
+          "publishedOn": "2026-07-20T00:15:10.000Z",
+          "wordCount": 25,
+          "title": "Restricted RPC leaks alternative block hashes via /get_alt_blocks_hashes",
+          "imageUrl": "https://profile-photos.hackerone-user-content.com/variants/000/007/731/55634f7fcd917725c7a5771cc6e7c9b4d5fe0c22_original.png/f0e07660005686ec92c43da54c0094c1ac1b490ea8c5eac04a4081d912d6ce36"
+        },
+        {
           "id": "https://hackerone.com/reports/3779690",
           "author": null,
           "description": "Rocket.Chat disclosed a bug submitted by olidayw: https://hackerone.com/reports/3779690",
@@ -16631,6 +17031,16 @@
       "feedUrl": "https://malware-traffic-analysis.net/blog-entries.rss",
       "siteUrl": "https://www.malware-traffic-analysis.net/index.html",
       "articles": [
+        {
+          "id": "https://www.malware-traffic-analysis.net/2026/05/31/index.html",
+          "author": null,
+          "description": "",
+          "link": "https://www.malware-traffic-analysis.net/2026/05/31/index.html",
+          "publishedOn": "2026-07-20T14:12:00.000Z",
+          "wordCount": 77,
+          "title": "2026-05-31: Seven days of scans and probes and web traffic hitting my web server",
+          "imageUrl": null
+        },
         {
           "id": "https://www.malware-traffic-analysis.net/2026/06/22/index.html",
           "author": null,
