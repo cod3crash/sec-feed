@@ -2,10 +2,303 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cod3crash.github.io/sec-feed/index.html</id>
     <title>security feed</title>
-    <updated>2026-07-20T03:48:47.626Z</updated>
+    <updated>2026-07-21T03:27:48.825Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://cod3crash.github.io/sec-feed/index.html"/>
     <link rel="self" href="https://cod3crash.github.io/sec-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[业务智能体实战笔记：兜底修复——LLM 错了怎么救 - 荣--]]></title>
+        <id>https://www.cnblogs.com/Rong-/p/21721136</id>
+        <link href="https://www.cnblogs.com/Rong-/p/21721136"/>
+        <updated>2026-07-21T03:19:00.000Z</updated>
+        <summary type="html"><![CDATA[前置拦截、收窄空间等措施虽然已经大幅压缩LLM的决策范围，但模型的输出仍会存在异常（例如：明明有数据，输出却说没有数据）。
+兜底修复的核心思路是**后置纠错**，分为工具加强、响应验证、双时间字段补跑三部分。
+整体可提升5~9个百分点指标，更大价值是把零散线上报错转为自动化流程。文中也会分享「值改写...]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[不出镜、不剪辑，短视频获客AI员工，1次搞定30天内容 - AI架构师汤师爷]]></title>
+        <id>https://www.cnblogs.com/tangshiye/p/21720271</id>
+        <link href="https://www.cnblogs.com/tangshiye/p/21720271"/>
+        <updated>2026-07-21T03:10:00.000Z</updated>
+        <summary type="html"><![CDATA[大家好，我是汤师爷~ 很多老板明明知道短视频重要，也不是没有东西可讲。 门店每天在营业，客户每天在咨询，产品、服务、案例、现场素材，全都有。 可一到真的要发视频，还是会卡住。 今天拍什么？ 这句话怎么写才有人听？ 必须自己出镜吗？ 手机里那几百条素材，到底怎么剪？ 然后刷两个小时同行，收藏十几条视频]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SAG 知识库检索机制：Event-Entity 索引、SQL 动态超边与多跳 RAG 召回链路 - AI小老六]]></title>
+        <id>https://www.cnblogs.com/ai-old-six/p/21720104</id>
+        <link href="https://www.cnblogs.com/ai-old-six/p/21720104"/>
+        <updated>2026-07-21T03:08:00.000Z</updated>
+        <summary type="html"><![CDATA[很多企业知识库问答失败，不是模型不会推理，而是关键证据没有被检索进上下文。SAG 的思路是把文档片段提炼为 Event，再用 Entity 建立可扩展索引，通过 SQL 在查询时动态构造局部关系链。它不是用全局知识图谱替代向量检索，而是让向量、关系表和重排各自承担更清晰的职责。]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Pyramid of Pain / Acı Piramidi]]></title>
+        <id>https://medium.com/p/c60da394c7ef</id>
+        <link href="https://4n1l.medium.com/the-pyramid-of-pain-ac%C4%B1-piramidi-c60da394c7ef?source=rss------redteam-5"/>
+        <updated>2026-07-21T02:49:20.000Z</updated>
+        <summary type="html"><![CDATA[Acı piramidi: saldırgan kişi yada kişilerin bir bilgisayara veya sunucuya erişim sağlaması ve tespit edilmesi durumunda kendilerine karşı…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Recep Anıl Memiş</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SERP API 4 种缓存方案对比:内存 / Redis / Memcached / 多层 - 蜘蛛人]]></title>
+        <id>https://www.cnblogs.com/A381532662/p/21716326</id>
+        <link href="https://www.cnblogs.com/A381532662/p/21716326"/>
+        <updated>2026-07-21T02:24:00.000Z</updated>
+        <summary type="html"><![CDATA[背景 SERP API 缓存选哪个 stack,取决于流量模式、QPS、运维成本。4 种主流方案对比。 1. 内存缓存(进程内) import time from collections import OrderedDict class MemoryCache: def __init__(self,]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Solon TeamAgent 协作协议：从 SEQUENTIAL 流水线到 HIERARCHICAL 主管团队 - 带刺的坐椅]]></title>
+        <id>https://www.cnblogs.com/noear/p/21715871</id>
+        <link href="https://www.cnblogs.com/noear/p/21715871"/>
+        <updated>2026-07-21T02:18:00.000Z</updated>
+        <summary type="html"><![CDATA[本文介绍了 Solon AI 的 TeamAgent 多智能体协作框架，重点探讨了如何通过**协作协议（TeamProtocol）**解决多智能体团队的组织难题。文章指出，多智能体系统的核心挑战在于动态协调成员间的交互流程，而非简单增加 Agent 数量。 框架提供三种核心结构：成员（专长智能体）、...]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deep-Dive Technical Write-up: CVE-2026–13156 — MailerSend WordPress Plugin CSRF Settings Deletion &…]]></title>
+        <id>https://medium.com/p/5b3638e201e7</id>
+        <link href="https://medium.com/@minhhk.ia.ce191608/deep-dive-technical-write-up-cve-2026-13156-mailersend-wordpress-plugin-csrf-settings-deletion-5b3638e201e7?source=rss------bugbounty-5"/>
+        <updated>2026-07-21T02:14:05.000Z</updated>
+        <summary type="html"><![CDATA[A comprehensive root-cause analysis, Cross-Site Request Forgery (CSRF) exploit proof-of-concept, and defensive patch breakdown of…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Huynh Kien Minh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[告别“人肉操作系统”：新一代软件发展方向的思考 - 莴苣&]]></title>
+        <id>https://www.cnblogs.com/woju/p/21715108</id>
+        <link href="https://www.cnblogs.com/woju/p/21715108"/>
+        <updated>2026-07-21T02:07:00.000Z</updated>
+        <summary type="html"><![CDATA[当AI能直接操作业务，软件本身正在从“工具”变成“流程”。 一、从“人操作软件”到“AI操作软件” 回顾软件发展的这二十年，我们其实一直处在一个固定的范式里：人操作软件，软件服务业务。 无论是最早的C/S架构，还是现在的微服务、云原生，本质上都是在解决同一个问题——怎么让人更方便地使用软件来完成工作]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cupid’s Matchmaker — TryHackMe Walkthrough]]></title>
+        <id>https://medium.com/p/6f1ed059472d</id>
+        <link href="https://medium.com/@5um1t0x/cupids-matchmaker-tryhackme-walkthrough-6f1ed059472d?source=rss------bugbounty-5"/>
+        <updated>2026-07-21T02:01:03.000Z</updated>
+        <summary type="html"><![CDATA[Introduction
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>5um1t0x</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[18、PipedReader和PipedWriter的源码分析和使用方法详细分析（windows操作系统，JDK8） - Carey_ccl]]></title>
+        <id>https://www.cnblogs.com/Carey-ccl/p/21714383</id>
+        <link href="https://www.cnblogs.com/Carey-ccl/p/21714383"/>
+        <updated>2026-07-21T01:57:00.000Z</updated>
+        <summary type="html"><![CDATA[和PipedInputStream和PipedOutputStream一样，Java IO包中的PipedWriter和PipedReader也提供了一种高效的线程间通信机制，允许一批（多个）线程向PipedWriter写入数据，另一批（多个）线程从PipedReader读取数据。 但是，同一批（多]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【RUST AI】把 TTS 搬进浏览器：kokoroi-rs 的 WASM 实践 - doiito]]></title>
+        <id>https://www.cnblogs.com/doiito/p/21713942</id>
+        <link href="https://www.cnblogs.com/doiito/p/21713942"/>
+        <updated>2026-07-21T01:54:00.000Z</updated>
+        <summary type="html"><![CDATA[把 TTS 搬进浏览器：kokoroi-rs 的 WASM 实践 摘要：本文深入解析 kokoroi-rs 项目的 WASM 模块，展示如何将 Kokoro TTS 模型编译为 WebAssembly，在浏览器中实现纯前端、零服务器的高质量中文语音合成。文章涵盖整体架构（G2P 引擎 + ONNX]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[从双雄到三强：Kimi K3暂停注册、DeepSeek V4满血回归，中国AI正在改写全球游戏规则 - 老猿AI洞察]]></title>
+        <id>https://www.cnblogs.com/htai/p/21713465</id>
+        <link href="https://www.cnblogs.com/htai/p/21713465"/>
+        <updated>2026-07-21T01:42:00.000Z</updated>
+        <summary type="html"><![CDATA[如果AI行业有&quot;地震周&quot;这种东西，那刚刚过去的这一周绝对是9.0级。 Kimi K3开源发布后72小时内，全球注册量飙升到服务器直接&quot;扛不住&quot;。Moonshot AI不得不在7月20日宣布暂停新用户注册，发公告说使用量&quot;逼近现有算力容量极限&quot;，新注册名额将分批开放。这在AI行业是从未有过的事——一个]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[线上慢SQL的排查思路 - Rain的Java大神实战圈]]></title>
+        <id>https://www.cnblogs.com/zrui-xyu/p/21712583</id>
+        <link href="https://www.cnblogs.com/zrui-xyu/p/21712583"/>
+        <updated>2026-07-21T01:27:00.000Z</updated>
+        <summary type="html"><![CDATA[本文系统阐述了线上慢SQL排查的“四步黄金流程”：紧急止损→精准定位→针对性根治→防复发。详细介绍了从数据库层面（执行计划分析、慢查询日志）到应用层面（N+1查询、大分页）的排查方法，提供了索引优化、SQL改写、架构调整等解决方案，并包含SpringBoot+Druid监控、分段锁等核心代码实现。最...]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[源码深入篇：RocketMQ 核心源码精读指南 - 佛祖让我来巡山]]></title>
+        <id>https://www.cnblogs.com/sun-10387834/p/21303542</id>
+        <link href="https://www.cnblogs.com/sun-10387834/p/21303542"/>
+        <updated>2026-07-21T01:02:00.000Z</updated>
+        <summary type="html"><![CDATA[系列第六阶段：源码深入篇 你好，又见面了。 这是 RocketMQ 系列的最后一篇，也是最硬核的一篇——源码阅读与分析。 经过前五个阶段的学习，你已经掌握了 RocketMQ 的架构原理、存储机制、发送消费流程、进阶特性和部署运维。可以说，你已经是一名合格的 RocketMQ 开发者了。 但“合格”]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MCP + A2A 融合：协议层已就绪，信任层才是硬仗 - 张善友]]></title>
+        <id>https://www.cnblogs.com/shanyou/p/21710636</id>
+        <link href="https://www.cnblogs.com/shanyou/p/21710636"/>
+        <updated>2026-07-21T00:06:00.000Z</updated>
+        <summary type="html"><![CDATA[MCP + A2A 融合：协议层已就绪，信任层才是硬仗 Linux Foundation 治理下的 Agent 协议新格局 2026 年 6 月 25 日，Linux Foundation Agentic AI Foundation 发布了 MCP + A2A 融合草案。两个协议都将治理放在 Lin]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Real-World Broken Access Control (BAC): From IDOR to Privilege Escalation]]></title>
+        <id>https://medium.com/p/9bb4715c6026</id>
+        <link href="https://medium.com/@perdosecurity/real-world-broken-access-control-bac-from-idor-to-privilege-escalation-9bb4715c6026?source=rss------bugbounty-5"/>
+        <updated>2026-07-20T23:05:36.000Z</updated>
+        <summary type="html"><![CDATA[Broken Access Control (BAC) — Read the Full Guide
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>perdo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Real-World Broken Access Control (BAC): From IDOR to Privilege Escalation]]></title>
+        <id>https://medium.com/p/856ae5bdddc1</id>
+        <link href="https://medium.com/@viodex02/real-world-broken-access-control-bac-from-idor-to-privilege-escalation-856ae5bdddc1?source=rss------bugbounty-5"/>
+        <updated>2026-07-20T22:50:40.000Z</updated>
+        <summary type="html"><![CDATA[When you hear that someone’s messages were deleted by another user who wasn’t supposed to have access… what do you call that?
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Viodex</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Bug Bounty Playbook: IDOR]]></title>
+        <id>https://medium.com/p/72038e510337</id>
+        <link href="https://medium.com/@Aacle/the-bug-bounty-playbook-idor-72038e510337?source=rss------bugbounty-5"/>
+        <updated>2026-07-20T22:27:44.000Z</updated>
+        <summary type="html"><![CDATA[Part 1 of the Bug Bounty Playbook series. 252 disclosed HackerOne reports analysed. Five recurring patterns. One testing framework you can…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Abhishek meena</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GPT-5.5 Trusted Access for Cyber Isn’t What Most Pentesters Think It Is]]></title>
+        <id>https://medium.com/p/9577e625e7ab</id>
+        <link href="https://medium.com/@gpheheise/gpt-5-5-trusted-access-for-cyber-isnt-what-most-pentesters-think-it-is-9577e625e7ab?source=rss------redteam-5"/>
+        <updated>2026-07-20T20:26:50.000Z</updated>
+        <summary type="html"><![CDATA[Continue reading on Medium »]]></summary>
+        <author>
+            <name>Georg Ph. E. Heise</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hunting an Unauthenticated IDOR in a Registration API]]></title>
+        <id>https://medium.com/p/6bb8036162e7</id>
+        <link href="https://medium.com/@am8337/hunting-an-unauthenticated-idor-in-a-registration-api-6bb8036162e7?source=rss------bugbounty-5"/>
+        <updated>2026-07-20T19:28:06.000Z</updated>
+        <summary type="html"><![CDATA[Introduction
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Adham Mohamed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How a Failed CSRF Escalated to an Unauthenticated Mass Assignment (7.3 Severity)]]></title>
+        <id>https://medium.com/p/aa0ba70a3162</id>
+        <link href="https://medium.com/@RootXSec/how-a-failed-csrf-escalated-to-an-unauthenticated-mass-assignment-7-3-severity-aa0ba70a3162?source=rss------bugbounty-5"/>
+        <updated>2026-07-20T17:38:03.000Z</updated>
+        <summary type="html"><![CDATA[Introduction: The Target Scope
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Rootxsecurity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Account Lockout Abuse: How a Login Protection Mechanism Became a Potential DoS Vector]]></title>
+        <id>https://medium.com/p/2e6b94a274f4</id>
+        <link href="https://mazenrady.medium.com/account-lockout-abuse-how-a-login-protection-mechanism-became-a-potential-dos-vector-2e6b94a274f4?source=rss------bugbounty-5"/>
+        <updated>2026-07-20T16:40:59.000Z</updated>
+        <summary type="html"><![CDATA[.اللهم انفعنا بما علَّمتنا، وعلِّمنا ما ينفعنا، وزِدنا علمًا وفقهًا وفهمًا يا رب العالمين
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Mazen Rady</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[XXE Vulnerability Explained | Understanding XML External Entity Attacks in Modern Applications…]]></title>
+        <id>https://medium.com/p/274cb06e654d</id>
+        <link href="https://medium.com/@pentesterclubpvtltd/xxe-vulnerability-explained-understanding-xml-external-entity-attacks-in-modern-applications-274cb06e654d?source=rss------bugbounty-5"/>
+        <updated>2026-07-20T16:33:42.000Z</updated>
+        <summary type="html"><![CDATA[A Practical Guide for Developers, Security Engineers, and Bug Bounty Hunters
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Pentester Club</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CTF Write Up - Athena '2026]]></title>
+        <id>https://medium.com/p/c13afe203fc0</id>
+        <link href="https://medium.com/@nadyarudie/ctf-write-up-athena-2026-c13afe203fc0?source=rss------redteam-5"/>
+        <updated>2026-07-20T15:08:47.000Z</updated>
+        <summary type="html"><![CDATA[A personal breakthrough on my second CTF
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>navua</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[没有完美的系统：辩证法视角下的计算机架构演进与实践论 - 田三番]]></title>
+        <id>https://www.cnblogs.com/Tsanfer/p/21705268</id>
+        <link href="https://www.cnblogs.com/Tsanfer/p/21705268"/>
+        <updated>2026-07-20T15:04:00.000Z</updated>
+        <summary type="html"><![CDATA[最新博客文章链接 文字更新时间：2026/07/20 九年垃圾佬，手搓服务器，常年混迹于某海鲜市场；八年MJJ，折腾各种超兽oneman跑路云 执今之道，御今之有 世界是复杂的，有生命的，时时刻刻都在变化运动着，每时每刻都有旧的事物消失、新的事物诞生。任何旧的系统架构都无法直接应用在新的部件上，任何]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[.NET CORE 授权进阶-角色、策略与动态权限实现 - yuyuyui]]></title>
+        <id>https://www.cnblogs.com/yuxl01/p/21438368</id>
+        <link href="https://www.cnblogs.com/yuxl01/p/21438368"/>
+        <updated>2026-07-20T14:22:00.000Z</updated>
+        <summary type="html"><![CDATA[前两篇我们聊过认证鉴权模块，分别介绍了 Cookie、JWT 怎么接入及扩展，并且还分析了认证在请求链路里是怎么跑起来的。那么接下来进入 .NET Core 授权（Authorization）。简单来说就是这篇分享的所有东西，都建立在用户已经登录、Claims 已经在手的前提上，不要串台了。 很好理]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【学习笔记】斜率优化 DP - chrispang]]></title>
+        <id>https://www.cnblogs.com/chrispang/p/21696573</id>
+        <link href="https://www.cnblogs.com/chrispang/p/21696573"/>
+        <updated>2026-07-20T14:13:00.000Z</updated>
+        <summary type="html"><![CDATA[前言 本文介绍了斜率优化 DP 的推导过程及其基础应用，如果想要有更多了解请自行查阅其它文章。 算法介绍 在平时的 DP 过程中，我们可能会遇到这样的 DP 式子： \[dp_{i}=\min_{j=i-x}^{i-y}(dp_j+a_i\times b_j+c_i+d_j+M) \]单调队列优化]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[数列求和与递推式求解 - ZzhAllen]]></title>
+        <id>https://www.cnblogs.com/zzhallen/p/21704805</id>
+        <link href="https://www.cnblogs.com/zzhallen/p/21704805"/>
+        <updated>2026-07-20T14:12:00.000Z</updated>
+        <summary type="html"><![CDATA[求解递推式与数列求和方法汇总 1. 求和因子法 (Summation Factor) ① 一阶线性递推 若递推式形如： \[a_n \bar{T}_n = b_n \bar{T}_{n-1} + C_n \]要求 \(\bar{T}_n\) 的封闭形式，可采用求和因子 (summation fact]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2026-05-31: Seven days of scans and probes and web traffic hitting my web server]]></title>
         <id>https://www.malware-traffic-analysis.net/2026/05/31/index.html</id>
@@ -13,6 +306,100 @@
         <updated>2026-07-20T14:12:00.000Z</updated>
         <author>
             <name>Malware-Traffic-Analysis.net - Blog Entries</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[mdcompress的安装与使用 - DECHIN]]></title>
+        <id>https://www.cnblogs.com/dechinphy/p/21704690/mdcompress</id>
+        <link href="https://www.cnblogs.com/dechinphy/p/21704690/mdcompress"/>
+        <updated>2026-07-20T14:05:00.000Z</updated>
+        <summary type="html"><![CDATA[对于长效分子动力学模拟来说，如何去高效的存储分子轨迹，是一个重要的问题。前者有Gromacs的xtc格式文件，利用量化和比特级的压缩，将分子轨迹压缩到23%左右。而本文介绍的mdc工具，可以在xtc的基础上，再压缩到60%左右。]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fable 5 与 GPT-5.6 Sol 实战经验分享：什么任务该用哪个--更高效的使用你的token - vibecoding日记]]></title>
+        <id>https://www.cnblogs.com/borui-coding-diary/p/21704100/fable-5-vs-gpt-5-6-sol-which-tasks-go-where</id>
+        <link href="https://www.cnblogs.com/borui-coding-diary/p/21704100/fable-5-vs-gpt-5-6-sol-which-tasks-go-where"/>
+        <updated>2026-07-20T13:12:00.000Z</updated>
+        <summary type="html"><![CDATA[这是一篇基于真实项目的实战经验分享：作者在一段时间内同时重度使用 Claude Fable 5 和 GPT-5.6 Sol 做编码、文档驱动开发和研究搜索，总结出两者在实际工作中该如何分工。]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【总集篇】Linux | 如何创建一个 home 目录在 /data 磁盘的 sudo 用户（补档） - MoonOut]]></title>
+        <id>https://www.cnblogs.com/moonout/p/21704009</id>
+        <link href="https://www.cnblogs.com/moonout/p/21704009"/>
+        <updated>2026-07-20T13:03:00.000Z</updated>
+        <summary type="html"><![CDATA[最初发布于 20250402。补档于 20260720。 需求： 拿到了 boss 的服务器账号 ssh boss@172.16.1.100，需要登录 boss 的账号，然后为自己创建一个账号，实现 ssh &lt;user_name&gt;@172.16.1.100 登录。 我希望自己的账号 1. 有 sud]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(Redis基础教程之十二) 如何解决Redis中的故障 - Java码界探秘]]></title>
+        <id>https://www.cnblogs.com/daichangya/p/21703921</id>
+        <link href="https://www.cnblogs.com/daichangya/p/21703921"/>
+        <updated>2026-07-20T12:53:00.000Z</updated>
+        <summary type="html"><![CDATA[介绍 Redis是一个开源的内存中键值数据存储。它带有几个命令，可以帮助您进行故障排除和调试。由于Redis具有内存中的键值存储的性质，因此其中许多命令都集中在内存管理上，但是还有一些其他命令对于概述Redis服务器的状态很有用。本教程将提供有关如何使用其中一些命令来帮助诊断和解决使用Redis时可]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Understanding Evasion: Custom C Loader and Callback Execution PoC]]></title>
+        <id>https://medium.com/p/5b66b2cbe984</id>
+        <link href="https://medium.com/@reinaldy.thendean3/offensive-security-engineering-a-step-by-step-poc-for-bypassing-windows-defender-using-a-custom-c-5b66b2cbe984?source=rss------redteam-5"/>
+        <updated>2026-07-20T09:27:30.000Z</updated>
+        <summary type="html"><![CDATA[In the landscape of modern endpoint protection, signature-based detection remains a fundamental barrier for offensive security…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Reinaldy Thendean</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cracking Legacy ZIP Encryption: The Known-Plaintext Attack and Why It Still Sometimes Works]]></title>
+        <id>https://blog.elcomsoft.com/?p=13499</id>
+        <link href="https://blog.elcomsoft.com/2026/07/cracking-legacy-zip-encryption-the-known-plaintext-attack-and-why-it-still-sometimes-works/"/>
+        <updated>2026-07-20T08:25:42.000Z</updated>
+        <summary type="html"><![CDATA[When someone hands you a password-protected ZIP archive, one’s immediate thought is “I need to break the password”. For most modern archives, that is exactly the case, and the password is the whole game. But there is a family of ZIP archives where the password does not matter at all. It can be four characters […]]]></summary>
+        <author>
+            <name>Oleg Afonin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sunset: 1 Walkthrough -Vulnhub]]></title>
+        <id>https://medium.com/p/c6fe6ea51268</id>
+        <link href="https://medium.com/@abhaybrahma123/sunset-1-walkthrough-vulnhub-c6fe6ea51268?source=rss------redteam-5"/>
+        <updated>2026-07-20T07:12:01.000Z</updated>
+        <summary type="html"><![CDATA[“Sunset” created by the skilled author “Whitecr0wz,” is a beginner-level Capture The Flag machine. The main objective is to discover the…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>ABHAY BRAHMA MANOJKUMAR</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web Frameworks: Code Review | TryHackMe]]></title>
+        <id>https://medium.com/p/4f30672ffb50</id>
+        <link href="https://medium.com/@elaris/web-frameworks-code-review-tryhackme-4f30672ffb50?source=rss------redteam-5"/>
+        <updated>2026-07-20T04:33:30.000Z</updated>
+        <summary type="html"><![CDATA[Read web app source like an attacker: trace user input to dangerous sinks, triage with Semgrep.
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Ryca</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web Frameworks: Python |TryHackMe]]></title>
+        <id>https://medium.com/p/faeed34bd6e9</id>
+        <link href="https://medium.com/@elaris/web-frameworks-python-tryhackme-faeed34bd6e9?source=rss------redteam-5"/>
+        <updated>2026-07-20T04:33:15.000Z</updated>
+        <summary type="html"><![CDATA[Review Django and Flask source for framework-specific sinks, then exploit each on the lab machine.
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Ryca</name>
         </author>
     </entry>
     <entry>
