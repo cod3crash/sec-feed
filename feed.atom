@@ -2,10 +2,507 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cod3crash.github.io/sec-feed/index.html</id>
     <title>security feed</title>
-    <updated>2026-07-22T03:27:01.408Z</updated>
+    <updated>2026-07-23T03:32:17.298Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://cod3crash.github.io/sec-feed/index.html"/>
     <link rel="self" href="https://cod3crash.github.io/sec-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[64 种操作，18 个方程——魔表的朴素线性模型 - H_Elden]]></title>
+        <id>https://www.cnblogs.com/h-elden/p/21802944</id>
+        <link href="https://www.cnblogs.com/h-elden/p/21802944"/>
+        <updated>2026-07-23T03:06:00.000Z</updated>
+        <summary type="html"><![CDATA[本文在前一篇的基础上，建立了魔表的完整数学模型。文章定义了状态向量和 64 种基本操作的效果向量，将魔表的求解问题转化为一个模 12 线性方程组，并讨论了如何标定一个关键的 18 &#215; 64 的效果矩阵，简单介绍了求解模 12 线性方程组的两种思路（Smith 标准型和 CRT 拆分）。最后反思了这种...]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为什么有的JSON可以带注释？ - 一颗小行星-]]></title>
+        <id>https://www.cnblogs.com/chaosfe/p/21817547</id>
+        <link href="https://www.cnblogs.com/chaosfe/p/21817547"/>
+        <updated>2026-07-23T03:05:00.000Z</updated>
+        <summary type="html"><![CDATA[如果你写过 TypeScript，应该对下面这个文件再熟悉不过了：```json{ /* Visit https://aka.ms/tsconfig to read more about this file */ &quot;compilerOptions&quot;: { &quot;target&quot;: &quot;ES2022&quot;, &quot;s]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[XIP就地执行：让程序 “原地打工”，嵌入式开发效率直接拉满！ - FreakStudio]]></title>
+        <id>https://www.cnblogs.com/FreakEmbedded/p/21751190</id>
+        <link href="https://www.cnblogs.com/FreakEmbedded/p/21751190"/>
+        <updated>2026-07-23T02:49:00.000Z</updated>
+        <summary type="html"><![CDATA[单片机中的存储单元可大致分为两类：
+1. RAM：程序运行中所用到的需要被改写的量，都存储在 RAM 中；
+2. ROM：主要用于存放指令代码和一些固定数值，程序运行后不可改动。]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Change Your Role, or Change the Role?]]></title>
+        <id>https://medium.com/p/a2870060714c</id>
+        <link href="https://medium.com/@r4sh1dy/change-your-role-or-change-the-role-a2870060714c?source=rss------bugbounty-5"/>
+        <updated>2026-07-23T02:40:24.000Z</updated>
+        <summary type="html"><![CDATA[بسم الله الرحمن الرحيم
+.والصلاة والسلام على سيدنا محمد أشرف الخلق والمرسلين
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Mostafa Rashidy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LingBot-VLA 2.0 方法详解 - S-X-Q]]></title>
+        <id>https://www.cnblogs.com/sxq-blog/p/21814155</id>
+        <link href="https://www.cnblogs.com/sxq-blog/p/21814155"/>
+        <updated>2026-07-23T02:24:00.000Z</updated>
+        <summary type="html"><![CDATA[LingBot-VLA 2.0 方法详解：从观察到连续动作 0. 先用一张图看懂整个方法 LingBot-VLA 2.0 要学习的是一个条件生成问题： \[\text{多视角图像} + \text{语言指令} + \text{机器人当前状态} \longrightarrow \text{未来一段连续]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[分库分表会带来哪些问题如何解决 - Rain的Java大神实战圈]]></title>
+        <id>https://www.cnblogs.com/zrui-xyu/p/21814054</id>
+        <link href="https://www.cnblogs.com/zrui-xyu/p/21814054"/>
+        <updated>2026-07-23T02:22:00.000Z</updated>
+        <summary type="html"><![CDATA[本文梳理分库分表七大类典型难题与对应方案，结合实战给出设计原则、面试要点；提供带时钟回拨防护雪花算法、游标分页、复合分片、TCC 事务等落地代码，介绍双写迁移、并行归并等技术实现。]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Common Nmap Parameters]]></title>
+        <id>https://medium.com/p/f5e4da8e98dd</id>
+        <link href="https://osintteam.blog/common-nmap-parameters-f5e4da8e98dd?source=rss------redteam-5"/>
+        <updated>2026-07-23T02:12:04.000Z</updated>
+        <summary type="html"><![CDATA[The following table lists frequently used Nmap parameters along with their descriptions in an academic context.
+Continue reading on OSINT Team »]]></summary>
+        <author>
+            <name>Excalibra</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[定档！2026 时序数据技术创新大会 8·22 北京 - ApacheIoTDB]]></title>
+        <id>https://www.cnblogs.com/apacheiotdb/p/21812755</id>
+        <link href="https://www.cnblogs.com/apacheiotdb/p/21812755"/>
+        <updated>2026-07-23T02:03:00.000Z</updated>
+        <summary type="html"><![CDATA[时序数据技术创新大会（原 IoTDB 用户大会）是面向工业时序数据领域的年度技术会议。过去一年，数据库与 AI 的融合从概念走向落地，工业场景对&quot;数据底座 + 智能分析&quot;一体化能力的需求越来越具体——这正是大会升级的出发点。 2026 时序数据技术创新大会，将于&#160;8 月 22 日（周六）&#160;在&#160;北京丽]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[重磅发布 19 个视觉分析模型，涉及厂区消防安全、人员作业合规、工业设备与管线巡检、电子精密质检和农业种植监测等 10 大主流场景 - iNeuOS工业互联网系统]]></title>
+        <id>https://www.cnblogs.com/lsjwq/p/21812310</id>
+        <link href="https://www.cnblogs.com/lsjwq/p/21812310"/>
+        <updated>2026-07-23T01:56:00.000Z</updated>
+        <summary type="html"><![CDATA[iNeuOS_Vision平台模型适配食品加工、电力运维、油气管道、钢铁冶金、矿山煤炭、机械焊接、电子制造、园区安防、农业种植、车载安全十大主流行业，企业也可基于平台自主标注、训练专属行业检测模型，快速搭建轻量化、可落地的机器视觉智能管控系统。]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[生态整合与实战篇：RocketMQ 与其他组件的生态整合 - 佛祖让我来巡山]]></title>
+        <id>https://www.cnblogs.com/sun-10387834/p/21303725</id>
+        <link href="https://www.cnblogs.com/sun-10387834/p/21303725"/>
+        <updated>2026-07-23T01:33:00.000Z</updated>
+        <summary type="html"><![CDATA[系列第七阶段：生态整合与实战篇（二） 你好，又见面了。 上一篇文章我们搞定了 Spring Boot 整合 RocketMQ 的所有细节——从依赖选型到生产级配置，从普通消息到事务消息。可以说，你已经能在 Spring Boot 项目中把 RocketMQ 用得很顺手了。 但现实中的技术场景往往比“]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SuperPower vs grill-me：AI编程圈两大skill正面交锋，你站哪边？ - lincats]]></title>
+        <id>https://www.cnblogs.com/lincats/p/21806062</id>
+        <link href="https://www.cnblogs.com/lincats/p/21806062"/>
+        <updated>2026-07-23T01:20:00.000Z</updated>
+        <summary type="html"><![CDATA[用grill-me做思路澄清——把模糊需求变成明确决策。用SuperPower做工程落地——把明确决策变成高质量代码。它们不冲突。]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[测试开发必备的 AI 技能库：推荐6 个让接口自动化测试效率翻倍的 Skills - 狂师]]></title>
+        <id>https://www.cnblogs.com/jinjiangongzuoshi/p/21808600</id>
+        <link href="https://www.cnblogs.com/jinjiangongzuoshi/p/21808600"/>
+        <updated>2026-07-23T00:54:00.000Z</updated>
+        <summary type="html"><![CDATA[导读：前一个系列，我们用 AI + Agent Skill 把接口测试脚本&quot;造&quot;了出来。但脚本生成只是起点——真正让接口自动化测试产生价值的，是让脚本跑起来、修得好、清得净、出报告。 今天这篇文章，把接口测试&quot;执行与报告生成&quot;阶段最值得用的 6 款 Agent Skill 一次性讲透——每款 Ski]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[k8s调度容器失败The node had condition: [DiskPressure] - 欢醉]]></title>
+        <id>https://www.cnblogs.com/zhangs1986/p/21574840</id>
+        <link href="https://www.cnblogs.com/zhangs1986/p/21574840"/>
+        <updated>2026-07-23T00:36:00.000Z</updated>
+        <summary type="html"><![CDATA[现象 k8s调度pod时异常，会导致生成上百个失败的pod。 pod分配异常： The node had condition: [DiskPressure]. The node was low on resource: ephemeral-storage. Container join-servic]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bug Bounty Automation — Elite Recon Pipeline + bonus Script]]></title>
+        <id>https://medium.com/p/7fd94ad62d84</id>
+        <link href="https://medium.com/@utaah/bug-bounty-automation-elite-recon-pipeline-bonus-script-7fd94ad62d84?source=rss------bugbounty-5"/>
+        <updated>2026-07-23T00:27:46.000Z</updated>
+        <summary type="html"><![CDATA[The mistake the beginners do is they approaches reconnaissance like a linear process. Handed a /16 subnet or a wildcard domain, they load…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>AYA</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[File Path Traversal, Simple Case Walkthrough (Apprentice)]]></title>
+        <id>https://medium.com/p/b79182ae4d49</id>
+        <link href="https://1amrahul.medium.com/file-path-traversal-simple-case-walkthrough-apprentice-b79182ae4d49?source=rss------bugbounty-5"/>
+        <updated>2026-07-22T21:04:49.000Z</updated>
+        <summary type="html"><![CDATA[Learn how attackers exploit missing input validation to traverse directories and read sensitive files from the server using the classic ../…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Rahul M S</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS *.a2z.com | Unauthenticated Clickhouse UI : Database access + SSRF]]></title>
+        <id>https://hackerone.com/reports/3809407</id>
+        <link href="https://hackerone.com/reports/3809407"/>
+        <updated>2026-07-22T19:53:00.000Z</updated>
+        <summary type="html"><![CDATA[AWS VDP disclosed a bug submitted by notnotnotveg: https://hackerone.com/reports/3809407]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS *.a2z.com | Unauthenticated Clickhouse UI : Database access + SSRF]]></title>
+        <id>https://hackerone.com/reports/3809407</id>
+        <link href="https://hackerone.com/reports/3809407"/>
+        <updated>2026-07-22T19:53:00.000Z</updated>
+        <summary type="html"><![CDATA[AWS VDP disclosed a bug submitted by notnotnotveg: https://hackerone.com/reports/3809407]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitHub user to server tokens can create issues in any public repository]]></title>
+        <id>https://hackerone.com/reports/3641229</id>
+        <link href="https://hackerone.com/reports/3641229"/>
+        <updated>2026-07-22T19:39:24.000Z</updated>
+        <summary type="html"><![CDATA[GitHub disclosed a bug submitted by ahacker1: https://hackerone.com/reports/3641229]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitHub user to server tokens can create issues in any public repository]]></title>
+        <id>https://hackerone.com/reports/3641229</id>
+        <link href="https://hackerone.com/reports/3641229"/>
+        <updated>2026-07-22T19:39:24.000Z</updated>
+        <summary type="html"><![CDATA[GitHub disclosed a bug submitted by ahacker1: https://hackerone.com/reports/3641229]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Back From Vacation & Launching Open Beta: Help Us Test NextBlock CMS (and Get a $500/yr Lifetime…]]></title>
+        <id>https://medium.com/p/452259e13418</id>
+        <link href="https://medium.com/@nextblockcms/back-from-vacation-launching-open-beta-help-us-test-nextblock-cms-and-get-a-500-yr-lifetime-452259e13418?source=rss------bugbounty-5"/>
+        <updated>2026-07-22T19:19:21.000Z</updated>
+        <summary type="html"><![CDATA[We’re opening the doors to our Next.js 16 + Supabase full-stack CMS and giving away lifetime premium licenses to everyone who helps us…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>NextBlock CMS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to deploy File Integrity Monitoring with Wazuh SIEM!]]></title>
+        <id>https://medium.com/p/106eb463eb10</id>
+        <link href="https://infosecwriteups.com/how-to-deploy-file-integrity-monitoring-withwazuh-siem-106eb463eb10?source=rss----7b722bfd1b8d---4"/>
+        <updated>2026-07-22T19:03:32.000Z</updated>
+        <summary type="html"><![CDATA[File integrity monitoring (FIM), sometimes referred to as file integrity management, is a security process that monitors and analyzes the…
+Continue reading on InfoSec Write-ups »]]></summary>
+        <author>
+            <name>Safiullah Khan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to deploy File Integrity Monitoring with Wazuh SIEM!]]></title>
+        <id>https://medium.com/p/106eb463eb10</id>
+        <link href="https://infosecwriteups.com/how-to-deploy-file-integrity-monitoring-withwazuh-siem-106eb463eb10?source=rss----7b722bfd1b8d---4"/>
+        <updated>2026-07-22T19:03:32.000Z</updated>
+        <summary type="html"><![CDATA[File integrity monitoring (FIM), sometimes referred to as file integrity management, is a security process that monitors and analyzes the…
+Continue reading on InfoSec Write-ups »]]></summary>
+        <author>
+            <name>Safiullah Khan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Two Ways To Mess Up Your JWT Safety Net In Your Own Lab.]]></title>
+        <id>https://medium.com/p/6d94a963b07d</id>
+        <link href="https://infosecwriteups.com/two-ways-to-mess-up-your-jwt-safety-net-in-your-own-lab-6d94a963b07d?source=rss----7b722bfd1b8d---4"/>
+        <updated>2026-07-22T18:50:13.000Z</updated>
+        <summary type="html"><![CDATA[In the lab we’re going to build today, we’ll talk about JWTs and how they can affect the security of your website. This is a lab that’s…]]></summary>
+        <author>
+            <name>ShadowForge</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Two Ways To Mess Up Your JWT Safety Net In Your Own Lab.]]></title>
+        <id>https://medium.com/p/6d94a963b07d</id>
+        <link href="https://infosecwriteups.com/two-ways-to-mess-up-your-jwt-safety-net-in-your-own-lab-6d94a963b07d?source=rss----7b722bfd1b8d---4"/>
+        <updated>2026-07-22T18:50:13.000Z</updated>
+        <summary type="html"><![CDATA[In the lab we’re going to build today, we’ll talk about JWTs and how they can affect the security of your website. This is a lab that’s…]]></summary>
+        <author>
+            <name>ShadowForge</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unlimited Coupon Code Generation for Same Email Address]]></title>
+        <id>https://medium.com/p/de42fe4fcde6</id>
+        <link href="https://medium.com/@RootXSec/unlimited-coupon-code-generation-for-same-email-address-de42fe4fcde6?source=rss------bugbounty-5"/>
+        <updated>2026-07-22T18:19:45.000Z</updated>
+        <summary type="html"><![CDATA[قَالُوا سُبْحَانَكَ لَا عِلْمَ لَنَا إِلَّا مَا عَلَّمْتَنَا ۖ إِنَّكَ أَنتَ الْعَلِيمُ الْحَكِيمُ
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Rootxsecurity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meta Bug Bounty Breakdown: $78K for an IDOR That Exposed Chats & PII]]></title>
+        <id>https://medium.com/p/e5de282524e2</id>
+        <link href="https://medium.com/@xpert4cyber/meta-bug-bounty-breakdown-78k-for-an-idor-that-exposed-chats-pii-e5de282524e2?source=rss------bugbounty-5"/>
+        <updated>2026-07-22T17:12:42.000Z</updated>
+        <summary type="html"><![CDATA[Picture this: you open a support ticket with a tech giant because your account got locked out. You share your email, maybe your phone…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Xpert4Cyber</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TryHackMe: Proxy Room — Writeup]]></title>
+        <id>https://medium.com/p/088cc0d6b463</id>
+        <link href="https://medium.com/@Xiro0x01/tryhackme-proxy-room-writeup-088cc0d6b463?source=rss------redteam-5"/>
+        <updated>2026-07-22T16:51:36.000Z</updated>
+        <summary type="html"><![CDATA[Difficulty: Medium / Advanced (Active Directory)
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>NASRALLAH SALEH (Xiro0x)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python Web Penetration Testing — Day 4: Resources Discovery]]></title>
+        <id>https://medium.com/p/54898bfb3186</id>
+        <link href="https://osintteam.blog/python-web-penetration-testing-day-4-resources-discovery-54898bfb3186?source=rss------bugbounty-5"/>
+        <updated>2026-07-22T16:36:21.000Z</updated>
+        <summary type="html"><![CDATA[The Art of Finding What’s Hidden
+Continue reading on OSINT Team »]]></summary>
+        <author>
+            <name>Aman Sharma</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Ghost Subscriber: How I Haunted Hidan’s Premium Tiers]]></title>
+        <id>https://medium.com/p/b9c0453a2248</id>
+        <link href="https://atanupal22256.medium.com/the-ghost-subscriber-how-i-haunted-hidans-premium-tiers-b9c0453a2248?source=rss------bugbounty-5"/>
+        <updated>2026-07-22T16:06:23.000Z</updated>
+        <summary type="html"><![CDATA[Continue reading on Medium »]]></summary>
+        <author>
+            <name>0B1To_X_ucH!h4</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[详细pyenv+venv+pip安装ultralytics - ꧁执笔小白꧂]]></title>
+        <id>https://www.cnblogs.com/qq2806933146xiaobai/p/21801483</id>
+        <link href="https://www.cnblogs.com/qq2806933146xiaobai/p/21801483"/>
+        <updated>2026-07-22T15:24:00.000Z</updated>
+        <summary type="html"><![CDATA[一、用pyenv管理python版本 ‌pyenv‌：第三方版本管理器，‌只管理Python解释器版本‌，能在一台机器上安装切换多个Python版本（如3.8、3.10、3.11），不修改系统原生Python。 1、安装pyenv Invoke-WebRequest -UseBasicParsing]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cracking Linux Passwords with John the Ripper]]></title>
+        <id>https://medium.com/p/af5b53affdcb</id>
+        <link href="https://medium.com/@PranjaliMandavi/cracking-linux-passwords-with-john-the-ripper-af5b53affdcb?source=rss------redteam-5"/>
+        <updated>2026-07-22T15:01:42.000Z</updated>
+        <summary type="html"><![CDATA[A Beginner’s Walkthrough
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Pranjali Mandavi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[自研实现APK加固-代码资源so全加密隐藏(附免费处理工具) - 这个我知道]]></title>
+        <id>https://www.cnblogs.com/Yongersblog/p/21765576</id>
+        <link href="https://www.cnblogs.com/Yongersblog/p/21765576"/>
+        <updated>2026-07-22T14:43:00.000Z</updated>
+        <summary type="html"><![CDATA[自研自定义实现APK加固-代码资源so全隐藏-防破解-防逆向-防反编译-防二次开发-防资源抓取 免费工具地址 1.APK安全现状 市面上各种游戏的破解版，各种APK的免卡密版，基本都是逆向开发者，从线上拿到正常的apk进行逆向二次开发的。 更有胜者，在不更改原程序的逻辑，但会加入自己的爬虫，病毒。]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[分布式链路追踪系统之docker-compose安装skywalking - Linux-1874]]></title>
+        <id>https://www.cnblogs.com/qiuhom-1874/p/21657975</id>
+        <link href="https://www.cnblogs.com/qiuhom-1874/p/21657975"/>
+        <updated>2026-07-22T14:35:00.000Z</updated>
+        <summary type="html"><![CDATA[由于现在docker官方仓库在国内基本无法访问，上面的镜像是使用本地自己搭建harbor仓库存放的镜像；有关harbor仓库的搭建可以参考本人博客[https://www.cnblogs.com/qiuhom-1874/p/13061984.html]]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The AI Did Not “Want” to Escape]]></title>
+        <id>https://medium.com/p/7705392724a1</id>
+        <link href="https://kittam888.medium.com/the-ai-did-not-want-to-escape-7705392724a1?source=rss------redteam-5"/>
+        <updated>2026-07-22T13:39:18.000Z</updated>
+        <summary type="html"><![CDATA[It discovered that leaving the sandbox was a useful way to complete the task humans had given it.
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Gavin Tam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From LFI to Internal Grafana: Breaking Down CloudSEK’s Hiring CTF 2026!]]></title>
+        <id>https://medium.com/p/fae02b30af9b</id>
+        <link href="https://medium.com/@jyotirmoykarmakar/from-lfi-to-internal-grafana-breaking-down-cloudseks-hiring-ctf-2026-fae02b30af9b?source=rss------redteam-5"/>
+        <updated>2026-07-22T13:37:59.000Z</updated>
+        <summary type="html"><![CDATA[Lessons learned while connecting multiple vulnerabilities into a complete exploitation path.
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Jyotirmoy Karmakar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Agentic RL / 强化学习 / OPD】OpenClaw-RL 源码阅读笔记 --- (10)--- PRM - 罗西的思考]]></title>
+        <id>https://www.cnblogs.com/rossiXYZ/p/21514625</id>
+        <link href="https://www.cnblogs.com/rossiXYZ/p/21514625"/>
+        <updated>2026-07-22T12:58:00.000Z</updated>
+        <summary type="html"><![CDATA[【Agentic RL / 强化学习 / OPD】OpenClaw-RL 源码阅读笔记 (10) PRM 目录【Agentic RL / 强化学习 / OPD】OpenClaw-RL 源码阅读笔记 (10) PRM0x00 概要0x01 基础知识1.1 PRM如何解决Agentic RL的稀疏梯度问]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI 成本战的隐性成本与降本五层：从"成功率悖论"到"系统复杂度"（中） - 张善友]]></title>
+        <id>https://www.cnblogs.com/shanyou/p/21758689</id>
+        <link href="https://www.cnblogs.com/shanyou/p/21758689"/>
+        <updated>2026-07-22T12:38:00.000Z</updated>
+        <summary type="html"><![CDATA[核心观点：最反直觉的是，成功率更高不一定更便宜。AI 降本的真正抓手不是换更便宜的模型，而是压降系统复杂度。企业总算不清账，是因为只看见了模型账单，却看不见组织账单。 一、为什么高成功率不一定更便宜 最反直觉的一点：成功率更高，不一定意味着成本更低。 很多人本能地觉得，成功率高就说明效率高，效率高就]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tarjan 求强连通分量详细解析 - deepsleep]]></title>
+        <id>https://www.cnblogs.com/DeepSleep0629/p/21797248</id>
+        <link href="https://www.cnblogs.com/DeepSleep0629/p/21797248"/>
+        <updated>2026-07-22T11:49:00.000Z</updated>
+        <summary type="html"><![CDATA[Tarjan 求强连通分量 前置知识 DFS 序 就是通过 DFS 前序遍历遍历到的次序，节点 \(u\) 的 DFS 序记作 \(dfn_u\)。 int dfn[N], T = 0; void tarjan(int u) { dfn[u] = ++T; } DFS 树 就是通过 DFS 遍历遍历]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[从 WinForms 到 Vue：我为什么决定在 Web 上重做一套完整的 GUI 框架 - delete19910520]]></title>
+        <id>https://www.cnblogs.com/hailin-zheng/p/21796169</id>
+        <link href="https://www.cnblogs.com/hailin-zheng/p/21796169"/>
+        <updated>2026-07-22T10:58:00.000Z</updated>
+        <summary type="html"><![CDATA[我最早习惯的是 WinForms 一类桌面 GUI 开发，后来逐渐转向 Vue，在 Web 上开发企业应用。 刚开始，我把这件事理解成一次普通的技术栈迁移： 从 C# 转到 JavaScript，从 WinForms 转到 Vue。 真正做下来以后，我才意识到，这并不只是换了编程语言和框架，而是在两]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AllSignsPoint2Pwnage — TryHackMe Windows Write-up]]></title>
+        <id>https://medium.com/p/006864c93de0</id>
+        <link href="https://infosecwriteups.com/allsignspoint2pwnage-tryhackme-windows-write-up-006864c93de0?source=rss----7b722bfd1b8d---4"/>
+        <updated>2026-07-22T10:48:04.000Z</updated>
+        <summary type="html"><![CDATA[AllSignsPoint2Pwnage is a Windows-based room on TryHackMe that requires the user to enumerate open SMB shares and upload a webshell to get…]]></summary>
+        <author>
+            <name>Kavin Jindal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AllSignsPoint2Pwnage — TryHackMe Windows Write-up]]></title>
+        <id>https://medium.com/p/006864c93de0</id>
+        <link href="https://infosecwriteups.com/allsignspoint2pwnage-tryhackme-windows-write-up-006864c93de0?source=rss----7b722bfd1b8d---4"/>
+        <updated>2026-07-22T10:48:04.000Z</updated>
+        <summary type="html"><![CDATA[AllSignsPoint2Pwnage is a Windows-based room on TryHackMe that requires the user to enumerate open SMB shares and upload a webshell to get…]]></summary>
+        <author>
+            <name>Kavin Jindal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PortSwigger Lab Writeup — Bypassing AI scanner defenses to exfiltrate sensitive information]]></title>
+        <id>https://medium.com/p/92394302f4d4</id>
+        <link href="https://infosecwriteups.com/portswigger-lab-writeup-bypassing-ai-scanner-defenses-to-exfiltrate-sensitive-information-92394302f4d4?source=rss----7b722bfd1b8d---4"/>
+        <updated>2026-07-22T10:47:09.000Z</updated>
+        <summary type="html"><![CDATA[Author: Raghav Vivekanandan]]></summary>
+        <author>
+            <name>Raghav</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PortSwigger Lab Writeup — Bypassing AI scanner defenses to exfiltrate sensitive information]]></title>
+        <id>https://medium.com/p/92394302f4d4</id>
+        <link href="https://infosecwriteups.com/portswigger-lab-writeup-bypassing-ai-scanner-defenses-to-exfiltrate-sensitive-information-92394302f4d4?source=rss----7b722bfd1b8d---4"/>
+        <updated>2026-07-22T10:47:09.000Z</updated>
+        <summary type="html"><![CDATA[Author: Raghav Vivekanandan]]></summary>
+        <author>
+            <name>Raghav</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI 情报局：用 PowerMem + SeekDB 做一个多 Agent 记忆小游戏 - knqiufan]]></title>
+        <id>https://www.cnblogs.com/knqiufan/p/21795495</id>
+        <link href="https://www.cnblogs.com/knqiufan/p/21795495"/>
+        <updated>2026-07-22T10:47:00.000Z</updated>
+        <summary type="html"><![CDATA[AI 情报局：用 PowerMem + SeekDB 做一个多 Agent 记忆小游戏 Agent 的记忆体系一直是个很有意思的话题。 前两天 WAIC 期间 OceanBase 主办了一个 Workshop 午餐会，和大家聊了很多关于 Agent 记忆的话题。为了让大家可以更直观的观察和理解多 A]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你手中的魔表，是一道线性代数题 - H_Elden]]></title>
+        <id>https://www.cnblogs.com/h-elden/p/21793538</id>
+        <link href="https://www.cnblogs.com/h-elden/p/21793538"/>
+        <updated>2026-07-22T10:27:00.000Z</updated>
+        <summary type="html"><![CDATA[魔表曾是 WCA 官方竞速项目之一，正反两面各 9 个表盘，四角各有一个按钮和一个拨轮。本文是这个数学探索系列的第一篇，介绍了魔表的外观结构与操作方式，并总结了几条基础数学性质。这些性质表明，魔表的指针变化本质上是一个模 12 上的线性系统，为后续建立数学模型和求解奠定了基础。]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An AI agent broke into Hugging Face. Five days later, OpenAI said it was theirs]]></title>
+        <id>https://blog.elcomsoft.com/?p=13602</id>
+        <link href="https://blog.elcomsoft.com/2026/07/an-ai-agent-broke-into-hugging-face-five-days-later-openai-said-it-was-theirs/"/>
+        <updated>2026-07-22T09:46:03.000Z</updated>
+        <summary type="html"><![CDATA[On 16 July 2026, Hugging Face disclosed that an autonomous AI agent had been inside part of its production infrastructure. The company was clear about what it did not know: which model was driving the agent, or who was operating it. Five days later, OpenAI answered both questions. The agent was its own, running an […]]]></summary>
+        <author>
+            <name>Oleg Afonin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[connect.8x8.com/api/v1: JWT Algorithm Confusion Vulnerability]]></title>
+        <id>https://hackerone.com/reports/3800870</id>
+        <link href="https://hackerone.com/reports/3800870"/>
+        <updated>2026-07-22T04:15:44.000Z</updated>
+        <summary type="html"><![CDATA[8x8 disclosed a bug submitted by kyotozzx: https://hackerone.com/reports/3800870 - Bounty: $1337]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[connect.8x8.com/api/v1: JWT Algorithm Confusion Vulnerability]]></title>
+        <id>https://hackerone.com/reports/3800870</id>
+        <link href="https://hackerone.com/reports/3800870"/>
+        <updated>2026-07-22T04:15:44.000Z</updated>
+        <summary type="html"><![CDATA[8x8 disclosed a bug submitted by kyotozzx: https://hackerone.com/reports/3800870 - Bounty: $1337]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[从聊天框到 Agent：Claude Code 真正的提效方式 - 码哥字节]]></title>
         <id>https://www.cnblogs.com/uniqueDong/p/21767814</id>
@@ -18609,38 +19106,6 @@ Often structure includes inductive biases abo…]]></summary>
         <summary type="html"><![CDATA[blog很久没更新维护了，最近http频繁提示不安全，索性升一下https。 这里记录一下流程，不得不说，以前 […]]]></summary>
         <author>
             <name>梧桐雨</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[记「乾坤大挪移」式使用双系统]]></title>
-        <id>https://imtx.me/blog/macos-dual-boot/</id>
-        <link href="https://imtx.me/blog/macos-dual-boot/"/>
-        <updated>2025-07-23T02:37:04.000Z</updated>
-        <summary type="html"><![CDATA[我是在 WWDC25 期间直接把我的工作电脑 MacBook Pro 升级到 macOS 26 Beta 的。当时人还在 Apple Park 参加活动，后面也基本以玩为主，因此没有被这个系统影响到工作。
-回国后，从游玩状态中调整过来，准备好好干活。但真的高强度使用 macOS 26 Beta 时，觉得非常别扭。首先，我的 M3 Max 的整体 UI 响应速度，就像回到了用一台 Intel 电脑；其次，Liquid Glass 非常不成熟，过度的动画、透明和阴影，始终觉得内容重点被夺走了；最后让我无法忍受的是，菜单上那些画蛇添足的图标，不再是原本干干净净的 macOS，让我有种在用 Windows 的感觉。于是我决定装双系统，回到 macOS 15 工作。
-过去几年，基本每年我都会安装双系统开始我的 Beta 系统的体验，每年的原因都差不多，主要还是新系统无法跑最新 Xcode 稳定版本，虽然这个在今年被解决了，但在可用性方面却大大降低了。我相信（或期望）可用性问题在正式版本会解决（或者在 macOS 27、28）。但那是后话了，本篇我就简单介绍下我是如何进行「乾坤大挪移」式使用双系统。
-如何安装双系统
-昨天花了几小时装+配置好 macOS 15 环境后，整个立刻就感觉清爽、轻盈了起来。
-在 Mac 上装双系统非常简单，只要打开 Disk Utility，新加一个 APFS 卷，然后去 App Store 下载最新 macOS 的稳定版本，然后把这个 macOS 装在新加卷上面就可以了。因为两个 macOS 可以互读硬盘，因此文件也可以共享，很快就可以把自己的需要的环境设置起来。
-但是，今年我做了一些不一样的操作，我决定隔离两个系统的环境，进行「乾坤大挪移」。一个重要的出发点是，我的 macOS 26 Beta 的环境已经很乱了，我不想简单的把文档复制或链接过来，我想在使用过程中，把真正需要的文件挪过来，不要的文件就留在「老系统」，直到我不需要并抛弃它。
-禁止当前系统索引另外一个系统的文件
-默认情况下，双系统的 Mac 会挂载另一个系统的分区，Spotlight 也会自动去索引所有文件，于是你搜索的时候可能会出现重复的内容，这在我过去几年的双系统体验中是一个很烦恼的事情。而且即使在 Spotlight 中设置了排除项，重启以后依然会无效。
-今年我找到了一个新方法，那就是在命令行层面禁止索引另一个系统的分区，真正做到互不影响。
-禁止索引系统盘：
-sudo mdutil -i off /Volumes/Macintosh\ HD
-禁止索引数据盘：
-sudo mdutil -i off /Volumes/Macintosh\ HD\ -\ Data
-执行完这个后，在当前系统下就搜不到另一个系统的文件了，算是「软」隔离成功。
-渐进式「乾坤大挪移」
-前面已经提到「乾坤大挪移」了，那就是我想在使用干净的系统的过程中，只移动需要的文件到当前系统来，老的、旧的东西就不动了，直到我抛弃（删除）那个系统。
-昨天当我设置好基本的开发环境后，我就开始工作了一会。当时的系统环境只有必要的软件和工程项目，没有任何多余的东西，这使得我的工作状态也非常轻盈和舒适：就像你乱了很久的小屋，有一天你狠狠地打扫了一遍，把所有不重要的东西都清理掉了，尽管小屋还是那个小屋，但是生活起来绝对会舒适很多。
-就这样，昨天在我的「新系统」里，进入了回国以后久违的一个工作状态。
-后记
-接下去，我会在日常的工作中，继续把需要的文件和软件挪回来。在这个过程中，新系统也可能会继续变乱，然后也越来越臃肿，但是没关系，下一年，我再来玩一次这样的双系统「乾坤大挪移」——就像需要经常打扫屋子一样，电脑的系统不仅需要经常打扫，而且需要利用可以装双系统的优势，比起找什么需要、什么不需要式的清理，双系统更有一种「快刀斩乱麻」的感觉。
-读到这里，你可能会说：我的硬盘不够我装双系统！那…下台电脑请买 2TB 起的硬盘，只能这样了。
-附图：]]></summary>
-        <author>
-            <name>I'm TualatriX</name>
         </author>
     </entry>
 </feed>
