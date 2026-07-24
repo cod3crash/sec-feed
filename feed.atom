@@ -2,10 +2,397 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cod3crash.github.io/sec-feed/index.html</id>
     <title>security feed</title>
-    <updated>2026-07-23T03:32:17.298Z</updated>
+    <updated>2026-07-24T03:27:44.953Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://cod3crash.github.io/sec-feed/index.html"/>
     <link rel="self" href="https://cod3crash.github.io/sec-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[GPFS、Alluxio、JuiceFS 怎么选？一文看懂架构与适用场景 - JuiceFS]]></title>
+        <id>https://www.cnblogs.com/JuiceData/p/21868081</id>
+        <link href="https://www.cnblogs.com/JuiceData/p/21868081"/>
+        <updated>2026-07-24T03:19:00.000Z</updated>
+        <summary type="html"><![CDATA[AI 工作负载的存储需求很难用单一指标衡量。训练、推理、模型分发、Agent 和数据湖等场景，对吞吐、延迟、并发访问、POSIX 兼容性、一致性、成本和运维复杂度的要求各不相同。因此，AI 存储选型需要回到具体业务场景，而不是简单比较“性能更高”或“成本更低”。 这篇文章会先从 AI 工作负载的典型]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[60W年薪架构师真心话：全网劝退的计算机，才是普通家庭考生的最优解 - Rain的Java大神实战圈]]></title>
+        <id>https://www.cnblogs.com/zrui-xyu/p/21867535</id>
+        <link href="https://www.cnblogs.com/zrui-xyu/p/21867535"/>
+        <updated>2026-07-24T03:12:00.000Z</updated>
+        <summary type="html"><![CDATA[本文由拥有 12 年北漂经历的 Java 架构师结合行业周期，理性剖析计算机专业报考前景。依托多份就业数据对比薪资与就业率，分析行业供需反转、薪资两极分化现状；结合 AI 结对编程实战，提出 AI 淘汰低端编码者，重视架构抽象能力；区分适配人群，梳理计算机细分赛道，给出志愿填报实操建议，破除 35 ...]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Claude Tool Search 深度拆解：延迟加载、工具引用和与 Codex 对比 - AI小老六]]></title>
+        <id>https://www.cnblogs.com/ai-old-six/p/21866913</id>
+        <link href="https://www.cnblogs.com/ai-old-six/p/21866913"/>
+        <updated>2026-07-24T03:04:00.000Z</updated>
+        <summary type="html"><![CDATA[Claude Tool Search 解决的不是一个小开关问题，而是 Agent 工具规模化后的上下文管理问题。 导语 Agent 接的工具越多，能力看起来越强。但过了某个点，工具本身会变成噪音。 一个 coding agent 同时接 GitHub、Slack、Jira、Sentry、Grafan]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WorkBuddy记忆管理全景指南 - 小白跃升坊]]></title>
+        <id>https://www.cnblogs.com/xiaobaiysf/p/21866387</id>
+        <link href="https://www.cnblogs.com/xiaobaiysf/p/21866387"/>
+        <updated>2026-07-24T02:57:00.000Z</updated>
+        <summary type="html"><![CDATA[一、记忆系统概述 1.1 什么是 WorkBuddy 记忆系统 WorkBuddy 的记忆系统是一套多层次的持久化机制，确保 AI 助手能够在不同会话之间 &quot;记住&quot; 用户偏好、项目上下文和历史工作内容。与传统的 &quot;每次对话从零开始&quot; 不同，WorkBuddy 通过三层记忆架构，让每一次交互都能建立在]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SeaweedFS 学习总结 - 扛枪的书生]]></title>
+        <id>https://www.cnblogs.com/kqdssheng/p/21865807</id>
+        <link href="https://www.cnblogs.com/kqdssheng/p/21865807"/>
+        <updated>2026-07-24T02:50:00.000Z</updated>
+        <summary type="html"><![CDATA[行有不得者，皆反求诸己，其身正而天下归之。 导航 1 工具介绍 1.1 工具描述 1.2 架构设计 2 部署方式 2.1 独立模式+多卷 2.2 集群模式+多卷 3 命令功能 4 启动方式 5 杂七杂八 1、工具介绍 1.1、工具描述 SeaweedFS 是一个分布式存储系统，适用于 对象存储 (S]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如果写Redis序列化与读Redis序列化不一致，你觉得会发生什么 - 青石路]]></title>
+        <id>https://www.cnblogs.com/youzhibing/p/21861317</id>
+        <link href="https://www.cnblogs.com/youzhibing/p/21861317"/>
+        <updated>2026-07-24T01:56:00.000Z</updated>
+        <summary type="html"><![CDATA[开心一刻 昨天在我大哥家玩，嫂子在给小侄女泡奶粉 小侄女走到大嫂面前，大声的说了一句：妈妈，我爱你 大哥很期待的看着小侄女，然而小侄女只是一味的跟大嫂互动 大哥从沙发上起身，不开心的走进了卧室 大嫂看出大哥吃醋了，跟小侄女说到：你去把刚才给妈妈说的那句话也给爸爸说一遍 小侄女小跑进了卧室，趴着大哥的]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为什么测 6 次就够了——魔表的对称性探秘 - H_Elden]]></title>
+        <id>https://www.cnblogs.com/h-elden/p/21850136</id>
+        <link href="https://www.cnblogs.com/h-elden/p/21850136"/>
+        <updated>2026-07-24T01:43:00.000Z</updated>
+        <summary type="html"><![CDATA[在上一篇文章的线性模型中，需要手动标定 64 种基本操作的效果向量。本文通过探究魔表的内在对称性，证明只需标定 6 个原型操作即可推导出全部 64 种。文章逐一分析了三种对称性，每种对称性都给出了严格的数学定义，并通过实测验证了其正确性。最终结论是：64 种操作可由 6 个原型操作经对称变换生成，为...]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【AI智能客服】2026年企业客服的5大生死命题：为什么传统客服体系正在崩塌 - hotdefans]]></title>
+        <id>https://www.cnblogs.com/hegezhou_hot/p/21860870</id>
+        <link href="https://www.cnblogs.com/hegezhou_hot/p/21860870"/>
+        <updated>2026-07-24T01:39:00.000Z</updated>
+        <summary type="html"><![CDATA[客服成本年均增长25%、用户期望从&quot;能解决&quot;升级为&quot;秒解决&quot;、人才流失率突破40%……传统客服体系正面临前所未有的生存危机。本文深度剖析2026年企业客服的5大生死命题，揭示AI客服为何不再是&quot;锦上添花&quot;，而是&quot;生死攸关&quot;。  导读 如果你是一位企业客服负责人，过去三年你一定感受到了前所未有的压]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Superpowers 6.0 的 SDD 重写，我扒了源码才知道：token 砍半不是优化，是设计哲学的转向 - 码哥字节]]></title>
+        <id>https://www.cnblogs.com/uniqueDong/p/21860544</id>
+        <link href="https://www.cnblogs.com/uniqueDong/p/21860544"/>
+        <updated>2026-07-24T01:34:00.000Z</updated>
+        <summary type="html"><![CDATA[6 月 16 日，Superpowers 发布 v6.0.0。两天后追了 v6.0.3 修复版。 如果你读过码哥之前那篇「185,000 星的 Superpowers 插件，90% 的人只用了它 10% 的功能」，14 个 Skill 的基本面你已经知道了。那篇写的是 v5.1，拆的是「是什么」和「]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EIP 低代码平台 - 系统用户 - EIP低代码平台]]></title>
+        <id>https://www.cnblogs.com/eipworkflow/p/21849776</id>
+        <link href="https://www.cnblogs.com/eipworkflow/p/21849776"/>
+        <updated>2026-07-24T01:29:00.000Z</updated>
+        <summary type="html"><![CDATA[开源框架模块详解｜码云开源EIP低代码平台 仓库地址：https://gitee.com/sunzewei/eip_lowcode 摘要 系统用户管理是EIP低代码平台RBAC权限体系的终端落地模块，依托前置组织架构、角色维护两大模块，完成平台登录账号的全生命周期管控。模块支持账号新增、信息编辑、密]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Go语言程序结构 —— 变量、声明与零值机制 - FfHUCisI]]></title>
+        <id>https://www.cnblogs.com/guodonghui/p/21859901</id>
+        <link href="https://www.cnblogs.com/guodonghui/p/21859901"/>
+        <updated>2026-07-24T01:24:00.000Z</updated>
+        <summary type="html"><![CDATA[Go语言程序结构 —— 变量、声明与零值机制 一、核心概念梳理 1.1 Go语言的四种声明 Go语言只有四种顶级声明语句，没有类的概念，这与Java/C#等语言形成鲜明对比： 声明关键字 用途 示例 var 声明变量 var name string = &quot;golang&quot; const 声明常量 con]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[69万星、263万安装：一个「让 AI 别画得那么丑」的技能，怎么成了 Claude Code 设计类第一？ - lincats]]></title>
+        <id>https://www.cnblogs.com/lincats/p/21857691</id>
+        <link href="https://www.cnblogs.com/lincats/p/21857691"/>
+        <updated>2026-07-24T01:18:00.000Z</updated>
+        <summary type="html"><![CDATA[AI 画出来的页面一股&quot;AI 味&quot;？69 万星的开源技能，60 秒让它变专业 你让 AI 帮你生成一个页面。它生成了。紫色渐变背景，圆角卡片，白色大字，配上几个毫无灵魂的 emoji 图标。 你看着它，想起了 2023 年 Midjourney V4 刚出来时那种&quot;一眼 AI&quot;的廉价感。 这时候你需]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MySQL 事务隔离 - 从设计由来到解决方案 - 曾左]]></title>
+        <id>https://www.cnblogs.com/zengzuo613/p/21858822</id>
+        <link href="https://www.cnblogs.com/zengzuo613/p/21858822"/>
+        <updated>2026-07-24T01:01:00.000Z</updated>
+        <summary type="html"><![CDATA[在并发场景下，数据库要同时处理成百上千个事务。如果放任它们随意交错执行，就会出现各种数据不一致的问题：你读到的余额可能是别人还没提交、随后又撤销的&quot;假数据&quot;；同一行记录前后两次查询的结果对不上；甚至按同样条件查两次，行数都变了。为了解决这些问题，数据库定义了事务的&quot;隔离级别&quot;，在 MySQL 中，则]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[生产级最佳实践与规范：生态整合与实战篇（三） - 佛祖让我来巡山]]></title>
+        <id>https://www.cnblogs.com/sun-10387834/p/21309841</id>
+        <link href="https://www.cnblogs.com/sun-10387834/p/21309841"/>
+        <updated>2026-07-24T00:46:00.000Z</updated>
+        <summary type="html"><![CDATA[系列第七阶段：生态整合与实战篇（三） 你好，又见面了。 这是 RocketMQ 系列的收官之篇。 回顾我们走过的路：从入门认知到架构原理，从存储机制到发送消费，从进阶特性到部署运维，从源码阅读到生态整合——你现在已经掌握了 RocketMQ 的完整知识体系。 但有一句话我想送给你：“知道怎么用”和“]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[从 LLM 评测到 AI Agent 评测，我的一些思考！ - 狂师]]></title>
+        <id>https://www.cnblogs.com/jinjiangongzuoshi/p/21858361</id>
+        <link href="https://www.cnblogs.com/jinjiangongzuoshi/p/21858361"/>
+        <updated>2026-07-24T00:40:00.000Z</updated>
+        <summary type="html"><![CDATA[写在开头 2026 年，国内外AI大模型已经「卷」到了一个新高度。 GPT、Claude、Gemini、GLM、DeepSeek、KIMI、Qwen……各家厂商每隔一两个月就发布新模型，声称在各项基准测试上「刷新纪录」。 几乎所有做 AI 应用的团队都在面对同一个问题——模型越来越强，但产品越来越难]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一天之内，谷歌扔出两张底牌，AI 军备竞赛烧到了什么程度？ - 老猿AI洞察]]></title>
+        <id>https://www.cnblogs.com/htai/p/21858240</id>
+        <link href="https://www.cnblogs.com/htai/p/21858240"/>
+        <updated>2026-07-24T00:33:00.000Z</updated>
+        <summary type="html"><![CDATA[7月23日傍晚，加州山景城的谷歌总部灯火通明。桑达尔&#183;皮查伊的办公室里，一份刚出炉的季度财报还带着打印机的余温。财报显示，Alphabet 第二季度营收同比飙升 24%，达到 1198 亿美元。 但真正让人倒吸一口凉气的，是财报里藏着的另一组数字。 Alphabet 截至6月底签订的各类供应协议和未]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mastering Google Dorking: A Cybersecurity Guide for Pentesters and Attackers]]></title>
+        <id>https://medium.com/p/9d7102d35e83</id>
+        <link href="https://osintteam.blog/mastering-google-dorking-a-cybersecurity-guide-for-pentesters-and-attackers-9d7102d35e83?source=rss------bugbounty-5"/>
+        <updated>2026-07-23T23:48:24.000Z</updated>
+        <summary type="html"><![CDATA[Uncover Hidden Vulnerabilities with Advanced Search Techniques — Learn How Attackers and 
+Pentesters Use Google Dorks to Find Admin Panels…
+Continue reading on OSINT Team »]]></summary>
+        <author>
+            <name>Yamini Yadav_369</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[One Command Pulled URLs from four different sources at once; I was not ready for the results.]]></title>
+        <id>https://medium.com/p/8a1895d4f4bd</id>
+        <link href="https://osintteam.blog/one-command-pulled-urls-from-four-different-sources-at-once-i-was-not-ready-for-the-results-8a1895d4f4bd?source=rss------bugbounty-5"/>
+        <updated>2026-07-23T23:43:18.000Z</updated>
+        <summary type="html"><![CDATA[Why Gau replaced three separate tools in my recon workflow, and every command you need actually to use it right
+Continue reading on OSINT Team »]]></summary>
+        <author>
+            <name>Yamini Yadav_369</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From Zero to Domain Admin: Phase 1: The Domain Controller]]></title>
+        <id>https://medium.com/p/07050a0d94b9</id>
+        <link href="https://medium.com/@blackcat53/from-zero-to-domain-admin-phase-1-the-domain-controller-07050a0d94b9?source=rss------redteam-5"/>
+        <updated>2026-07-23T16:59:28.000Z</updated>
+        <summary type="html"><![CDATA[1. Network Isolation
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>BlackCat53</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How I Find SQL Injection Vulnerabilities: My Bug Bounty Hunting Manual Testing Methodology]]></title>
+        <id>https://medium.com/p/970c87535839</id>
+        <link href="https://sayemeh.medium.com/how-i-find-sql-injection-vulnerabilities-my-bug-bounty-hunting-manual-testing-methodology-970c87535839?source=rss------bugbounty-5"/>
+        <updated>2026-07-23T16:53:30.000Z</updated>
+        <summary type="html"><![CDATA[By S4YEM.7KuroX
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>SAYEM-EH</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blind SQL injection attack with Conditional Responses using Sniper and Cluster Bomb]]></title>
+        <id>https://medium.com/p/9759ebc69657</id>
+        <link href="https://cyberlabyrinthx.medium.com/blind-sql-injection-attack-with-conditional-responses-using-sniper-and-cluster-bomb-9759ebc69657?source=rss------bugbounty-5"/>
+        <updated>2026-07-23T16:23:22.000Z</updated>
+        <summary type="html"><![CDATA[Blind SQL Injection is a type of SQL injection where the application does not show query results or database errors, but an attacker can…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>CyberLabyrinthX</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Bug Bounty Recon Workflow I Use Before Opening Burp Suite]]></title>
+        <id>https://medium.com/p/7f71c862b8ff</id>
+        <link href="https://medium.com/@mikespenz25/the-bug-bounty-recon-workflow-i-use-before-opening-burp-suite-7f71c862b8ff?source=rss------bugbounty-5"/>
+        <updated>2026-07-23T16:22:49.000Z</updated>
+        <summary type="html"><![CDATA[Why great bug bounty hunters spend more time understanding an application than attacking it.
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Michael Oscar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From Zero to Domain Admin: A Self-Built Red Team Lab Featuring Azure Entra ID]]></title>
+        <id>https://medium.com/p/84f6a7f553b8</id>
+        <link href="https://medium.com/@blackcat53/from-zero-to-domain-admin-a-self-built-red-team-lab-featuring-azure-entra-id-84f6a7f553b8?source=rss------redteam-5"/>
+        <updated>2026-07-23T16:06:26.000Z</updated>
+        <summary type="html"><![CDATA[Objective: To set up a Red Team lab that helps understand the following:
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>BlackCat53</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Confused Deputy in the AWS Cloud: Bypassing Kubernetes NodeRestriction via IAM Spoofing]]></title>
+        <id>https://medium.com/p/04eec5298e32</id>
+        <link href="https://medium.com/@sachinpatilsp/the-confused-deputy-in-the-aws-cloud-bypassing-kubernetes-noderestriction-via-iam-spoofing-04eec5298e32?source=rss------bugbounty-5"/>
+        <updated>2026-07-23T15:48:27.000Z</updated>
+        <summary type="html"><![CDATA[Introduction
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Sachin Patil</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI vs. Human Audit: Why Automation Cannot Replace Cybersecurity Expertise]]></title>
+        <id>https://medium.com/p/0d9decbf80be</id>
+        <link href="https://medium.com/@SdxShadowlabs/ai-vs-human-audit-why-automation-cannot-replace-cybersecurity-expertise-0d9decbf80be?source=rss------bugbounty-5"/>
+        <updated>2026-07-23T15:19:39.000Z</updated>
+        <summary type="html"><![CDATA[The cybersecurity industry is currently saturated with claims that artificial intelligence will soon replace human security analysts and…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>SdxShadowlabs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How a Simple Google Dork Led Me to Find Reflected XSS & HTML Injection on NASA and Earn a Letter of…]]></title>
+        <id>https://medium.com/p/83075852de42</id>
+        <link href="https://medium.com/@itss4leh/how-a-simple-google-dork-led-me-to-find-reflected-xss-html-injection-on-nasa-and-earn-a-letter-of-83075852de42?source=rss------bugbounty-5"/>
+        <updated>2026-07-23T15:07:34.000Z</updated>
+        <summary type="html"><![CDATA[Disclaimer
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>ItsS4LEH</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bypassing reCAPTCHA Due to Missing Server-Side Validation]]></title>
+        <id>https://medium.com/p/7b653afd221c</id>
+        <link href="https://medium.com/@0X0DOoOM/bypassing-recaptcha-due-to-missing-server-side-validation-7b653afd221c?source=rss------bugbounty-5"/>
+        <updated>2026-07-23T14:07:35.000Z</updated>
+        <summary type="html"><![CDATA[اللَهُمَّ صلِّ وسَلِم وبَارِك على سيدنا محمد (ﷺ)
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>0X0DOoOM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python Web Penetration Testing — Day 5: Password Testing]]></title>
+        <id>https://medium.com/p/dbac7fe4d7b8</id>
+        <link href="https://osintteam.blog/python-web-penetration-testing-day-5-password-testing-dbac7fe4d7b8?source=rss------bugbounty-5"/>
+        <updated>2026-07-23T13:49:27.000Z</updated>
+        <summary type="html"><![CDATA[Cracking Authentication Like a Pro
+Continue reading on OSINT Team »]]></summary>
+        <author>
+            <name>Aman Sharma</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI攻陷百年猜想：数学家的工具，还是数学的终结？ - 全世界S]]></title>
+        <id>https://www.cnblogs.com/supahero/p/21849615</id>
+        <link href="https://www.cnblogs.com/supahero/p/21849615"/>
+        <updated>2026-07-23T13:45:00.000Z</updated>
+        <summary type="html"><![CDATA[AI攻陷百年猜想：数学家的工具，还是数学的终结？ ## 解题狂欢：2026年，AI“算”出了什么？ 从87年到80年：两个标志性猜想的陷落 2026年夏天，数学界接连收到两份来自人工智能的“战报”，间隔恰好两个月。 5月20日，OpenAI宣布其内部一个通用推理模型自主推翻了“单位距离猜想”。这个猜]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Agent Harness】Gliding Horse 高级认知优化：让 Agent 的“大脑”和“免疫系统”真正协同 - doiito]]></title>
+        <id>https://www.cnblogs.com/doiito/p/21849479</id>
+        <link href="https://www.cnblogs.com/doiito/p/21849479"/>
+        <updated>2026-07-23T13:35:00.000Z</updated>
+        <summary type="html"><![CDATA[Gliding Horse 高级认知优化：让 Agent 的“大脑”和“免疫系统”真正协同 摘要：本文深入解析 Gliding Horse 高级认知优化，聚焦 Agent 的“大脑”（SA 调度、技能图谱）与“免疫系统”（安全门禁）如何真正协同。涵盖动态 PDCA 编排、四层记忆、技能图谱自进化、因]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【手搓 Agent 第1关】建立最小 Agent（中）：工具调用 - Alkaid2077]]></title>
+        <id>https://www.cnblogs.com/Alkaid2077/p/21849362</id>
+        <link href="https://www.cnblogs.com/Alkaid2077/p/21849362"/>
+        <updated>2026-07-23T13:27:00.000Z</updated>
+        <summary type="html"><![CDATA[普通大模型对话只能依托固有知识应答，无法适配真实场景的复杂需求，而工具调用是区分普通对话模型与智能 Agent 的核心关键。承接上篇 LLM 基础能力，本篇聚焦 Agent「手脚能力」搭建，手把手讲解自定义工具函数、标准化工具描述文档、解析模型工具调用指令、执行本地任务并回传结果的完整流程，让模型突]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在浩辰 CAD 中实现 3D 到 2D 视图导出的一次实践 - 我才是银古]]></title>
+        <id>https://www.cnblogs.com/znlgis/p/21849280</id>
+        <link href="https://www.cnblogs.com/znlgis/p/21849280"/>
+        <updated>2026-07-23T13:14:00.000Z</updated>
+        <summary type="html"><![CDATA[引言 浩辰 CAD（GStarCAD）的 .NET API 用 GrxCAD.* 命名空间对应了 AutoCAD .NET API 的接口。在浩辰 CAD 2022 中开发一个&quot;选择 3D 实体 → 生成前/后/左/右四个正交方向的 2D 投影 → 输出为文件&quot;的命令时，我们尝试了多条路径，发现了一]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AnxAIity? Keep calm and carry a layered defense.]]></title>
+        <id>https://medium.com/p/ebd828218717</id>
+        <link href="https://cyb3rtus.medium.com/anxaiity-keep-calm-and-carry-a-layered-defense-ebd828218717?source=rss------redteam-5"/>
+        <updated>2026-07-23T12:34:24.000Z</updated>
+        <summary type="html"><![CDATA[It’s been a while since I’ve posted anything but certain events this week tempted me to write a blog again. This week OpenAI and Hugging…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Cyb3rt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The RAR Mystery: Breaking RAR4 and RAR5 Encryption]]></title>
+        <id>https://blog.elcomsoft.com/?p=13515</id>
+        <link href="https://blog.elcomsoft.com/2026/07/the-rar-mystery-breaking-rar4-and-rar5-encryption/"/>
+        <updated>2026-07-23T10:14:45.000Z</updated>
+        <summary type="html"><![CDATA[RAR encryption has an unusual reputation: in more than twenty years there has been no practical attack against the cipher, no implementation flaw worth the name, and none of the shortcuts that collapsed certain other archive formats in minutes. Yet until recently, nobody could say how fast a RAR password could actually be attacked. The […]]]></summary>
+        <author>
+            <name>Oleg Afonin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sliver C2: Privilege Escalation & Credential Harvesting]]></title>
+        <id>https://medium.com/p/eb29519b5c7e</id>
+        <link href="https://medium.com/@elher.1922/sliver-c2-privilege-escalation-credential-harvesting-eb29519b5c7e?source=rss------redteam-5"/>
+        <updated>2026-07-23T09:26:39.000Z</updated>
+        <summary type="html"><![CDATA[Introduction
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Elher</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pentest Raporlamasını Otomatize Edin: Docker Üzerinde PwnDoc Kurulum Rehberi]]></title>
+        <id>https://medium.com/p/595958dd1a05</id>
+        <link href="https://medium.com/@omeropan26/pentest-raporlamas%C4%B1n%C4%B1-otomatize-edin-docker-%C3%BCzerinde-pwndoc-kurulum-rehberi-595958dd1a05?source=rss------redteam-5"/>
+        <updated>2026-07-23T07:57:35.000Z</updated>
+        <summary type="html"><![CDATA[1. Giriş: PwnDoc Nedir, Neden Kullanmalıyız?
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Omeropan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Openvas Configuration]]></title>
+        <id>https://medium.com/p/a7157ed04870</id>
+        <link href="https://medium.com/@karimsaminur123/openvas-configuration-a7157ed04870?source=rss------redteam-5"/>
+        <updated>2026-07-23T06:05:03.000Z</updated>
+        <summary type="html"><![CDATA[Configuring a vulnerability scanner for my network was simple. I chose Openvas, an open-source vulnerability scanner that detects security…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Karimsaminur</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[64 种操作，18 个方程——魔表的朴素线性模型 - H_Elden]]></title>
         <id>https://www.cnblogs.com/h-elden/p/21802944</id>
