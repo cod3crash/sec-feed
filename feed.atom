@@ -2,10 +2,428 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cod3crash.github.io/sec-feed/index.html</id>
     <title>security feed</title>
-    <updated>2026-07-24T03:27:44.953Z</updated>
+    <updated>2026-07-25T03:25:41.376Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://cod3crash.github.io/sec-feed/index.html"/>
     <link rel="self" href="https://cod3crash.github.io/sec-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[腾讯Marvis用两周：我的电脑终于能听懂人话了 - 码哥字节]]></title>
+        <id>https://www.cnblogs.com/uniqueDong/p/21902972</id>
+        <link href="https://www.cnblogs.com/uniqueDong/p/21902972"/>
+        <updated>2026-07-25T02:50:00.000Z</updated>
+        <summary type="html"><![CDATA[马维斯下载地址：https://marvis.qq.com/ 上周五下午四点，我的C盘又红了。 这已经是本月第三次。打开「此电脑」，红色进度条亮得刺眼——剩8.3G。我盯着那堆「用户」「ProgramData」「Windows」文件夹，不知道哪个能删、哪个删了会出问题。 以前遇到这种情况，流程是这样]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[面试官一句“Redis 怎么持久化”，很多人张口就是 “RDB + AOF”，追问到 fork、刷盘策略和日志重写就开始卡壳... - 暮色之狐]]></title>
+        <id>https://www.cnblogs.com/gloamfox/p/21900189</id>
+        <link href="https://www.cnblogs.com/gloamfox/p/21900189"/>
+        <updated>2026-07-25T01:55:00.000Z</updated>
+        <summary type="html"><![CDATA[这大概是 Redis 面试里最常见的一道“送命题”。 面试官问：“Redis 怎么持久化？” 你心里一喜，这题我背过：“RDB 和 AOF，RDB 是做快照的，AOF 是记录命令的，两个可以一起用。” 面试官点点头，追问道：“那 RDB 的 fork 具体是怎么工作的？会不会阻塞主线程？AOF 的刷]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你以为有 64 种操作？实际只有 30 种——矩阵 A 深度剖析 - H_Elden]]></title>
+        <id>https://www.cnblogs.com/h-elden/p/21896206</id>
+        <link href="https://www.cnblogs.com/h-elden/p/21896206"/>
+        <updated>2026-07-25T01:52:00.000Z</updated>
+        <summary type="html"><![CDATA[本文对前文生成的 18&#215;64 操作矩阵 A 进行系统分析。发现 P/Q 联动规律使 64 种操作去重为 30 种；角部指针与拨轮存在固定驱动关系；18 维状态空间中 14 维可控、4 维由不变量锁死。利用 P/Q 联动进一步将 6 个原型简化为 5 个。所有数学规律均与魔表机械传动结构一一印证。]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[跟AI聊了10分钟废话，硅谷最懂AI的人发现了什么？ - 老猿AI洞察]]></title>
+        <id>https://www.cnblogs.com/htai/p/21898740</id>
+        <link href="https://www.cnblogs.com/htai/p/21898740"/>
+        <updated>2026-07-25T00:54:00.000Z</updated>
+        <summary type="html"><![CDATA[安德烈&#183;卡帕西（Andrej Karpathy）有一个奇怪的习惯。 每天早上，他会打开手机上的语音模式，对着AI助手连续说话大概十分钟。没有提纲，没有组织过的思路，想到什么说什么——今天要写的代码框架、昨晚读到的论文片段、一个还没想清楚的产品想法，甚至是对某条推特的吐槽。全程乱七八糟。 然后，AI会]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我把 18 年的生产现场，做成了一门没有结课日的课 - 编程一生]]></title>
+        <id>https://www.cnblogs.com/xiexj/p/21898731</id>
+        <link href="https://www.cnblogs.com/xiexj/p/21898731"/>
+        <updated>2026-07-25T00:54:00.000Z</updated>
+        <summary type="html"><![CDATA[为什么学完就忘？因为课程交付的是知识，而值钱的是经验。一门把 18 年生产事故当教材、把提问当评测的 AI 实战课，每周都开。]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EIP低代码平台 - 系统日志 - EIP低代码平台]]></title>
+        <id>https://www.cnblogs.com/eipworkflow/p/21879118</id>
+        <link href="https://www.cnblogs.com/eipworkflow/p/21879118"/>
+        <updated>2026-07-25T00:25:00.000Z</updated>
+        <summary type="html"><![CDATA[开源框架模块详解｜码云开源EIP低代码平台 仓库地址：https://gitee.com/sunzewei/eip_lowcode 摘要 系统日志管理是EIP低代码平台的系统运维、安全审计、故障排查的核心运维模块，整合登录日志、异常日志、文件日志、接口日志、限流日志五大子日志体系，全方位记录用户登入]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The wp2shell Exploit Chain: Understanding the Critical WordPress Core Pre-Auth RCE (CVE-2026–63030…]]></title>
+        <id>https://medium.com/p/41de56d4d19e</id>
+        <link href="https://medium.com/@HaakimSec/the-wp2shell-exploit-chain-understanding-the-critical-wordpress-core-pre-auth-rce-41de56d4d19e?source=rss------bugbounty-5"/>
+        <updated>2026-07-24T22:43:03.000Z</updated>
+        <summary type="html"><![CDATA[The cybersecurity landscape was recently disrupted by the disclosure of wp2shell, a highly critical exploit chain impacting WordPress Core…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>HaakimSec</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Hidden Control Room Beneath Windows: Enter the Registry, Where One Wrong Value Can Change…]]></title>
+        <id>https://medium.com/p/455e6681bf82</id>
+        <link href="https://meetcyber.net/the-hidden-control-room-beneath-windows-enter-the-registry-where-one-wrong-value-can-change-455e6681bf82?source=rss------bugbounty-5"/>
+        <updated>2026-07-24T20:41:47.000Z</updated>
+        <summary type="html"><![CDATA[A suspenseful investigation into the keys, hives, values, drivers, startup rules, and application settings Windows quietly consults behind…
+Continue reading on MeetCyber »]]></summary>
+        <author>
+            <name>Devansh Patel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ZMQ RPC Log Injection and Untrusted Payload Persistence]]></title>
+        <id>https://hackerone.com/reports/3621606</id>
+        <link href="https://hackerone.com/reports/3621606"/>
+        <updated>2026-07-24T19:19:52.000Z</updated>
+        <summary type="html"><![CDATA[Monero disclosed a bug submitted by redlobsterzzz: https://hackerone.com/reports/3621606]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ZMQ RPC Log Injection and Untrusted Payload Persistence]]></title>
+        <id>https://hackerone.com/reports/3621606</id>
+        <link href="https://hackerone.com/reports/3621606"/>
+        <updated>2026-07-24T19:19:52.000Z</updated>
+        <summary type="html"><![CDATA[Monero disclosed a bug submitted by redlobsterzzz: https://hackerone.com/reports/3621606]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From Global Admin to Domain Admin: Reproducing the Cloud Kerberos Trust Attack]]></title>
+        <id>https://medium.com/p/1554c8f092fb</id>
+        <link href="https://medium.com/@shebinjohn53/from-global-admin-to-domain-admin-reproducing-the-cloud-kerberos-trust-attack-1554c8f092fb?source=rss------redteam-5"/>
+        <updated>2026-07-24T19:17:30.000Z</updated>
+        <summary type="html"><![CDATA[A hands-on lab walkthrough of the Entra ID → on-prem Active Directory escalation, based on the original research by Dirk-jan Mollema.
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Shebin53</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Organization Had No Owner… Yet I Could Still Join It]]></title>
+        <id>https://medium.com/p/605016230d2d</id>
+        <link href="https://medium.com/@0xMo7areb/the-organization-had-no-owner-yet-i-could-still-join-it-605016230d2d?source=rss------bugbounty-5"/>
+        <updated>2026-07-24T18:56:01.000Z</updated>
+        <summary type="html"><![CDATA[الحمد لله الذي عَلَّمَ بالقلم، عَلَّمَ الإنسان ما لم يعلم، والصلاة والسلام على سيدنا محمد ﷺ وبعد
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>0xMo7areb</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HackTheBox — Attacking Common Services — Easy — Walkthrough]]></title>
+        <id>https://medium.com/p/7736486228fe</id>
+        <link href="https://medium.com/@theV01D/hackthebox-attacking-common-services-easy-walkthrough-7736486228fe?source=rss------redteam-5"/>
+        <updated>2026-07-24T18:42:17.000Z</updated>
+        <summary type="html"><![CDATA[We were commissioned by the company Inlanefreight to conduct a penetration test against three different hosts to check the servers’…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>th3V0!D</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How I Found a Bug Worth $3,500 — In a Feature Nobody Was Watching.]]></title>
+        <id>https://medium.com/p/6773df9fce72</id>
+        <link href="https://medium.com/@Vishw04/how-i-found-a-bug-worth-3-500-in-a-feature-nobody-was-watching-6773df9fce72?source=rss------bugbounty-5"/>
+        <updated>2026-07-24T15:52:09.000Z</updated>
+        <summary type="html"><![CDATA[A storage-exhaustion flaw. A stored XSS that waited for an admin. Both hiding in the same “boring” file upload form that hadn’t been…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Vishw Bhatt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Invitation Link doesn’t expire after used .]]></title>
+        <id>https://medium.com/p/50fcac50c76a</id>
+        <link href="https://medium.com/@daviddemean0/invitation-link-doesnt-expire-after-used-50fcac50c76a?source=rss------bugbounty-5"/>
+        <updated>2026-07-24T15:27:07.000Z</updated>
+        <summary type="html"><![CDATA[Hi Hackers , I’m David Demean .
+I work as a penetration tester on HackerOne.
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>David Demean</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[C# MCP SDK 2.0 即将发布：去会话化、去握手、去运维噩梦 - 张善友]]></title>
+        <id>https://www.cnblogs.com/shanyou/p/21806153</id>
+        <link href="https://www.cnblogs.com/shanyou/p/21806153"/>
+        <updated>2026-07-24T14:55:00.000Z</updated>
+        <summary type="html"><![CDATA[协议层解决「怎么连」，SDK 层解决「怎么写」，去会话化解决「怎么运维」——三层叠加，MCP 才真正具备了生产级部署的底气]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How I Found a Security Vulnerability in the CBSE Class 12 Result Portal and Reported It Responsibly]]></title>
+        <id>https://medium.com/p/e76582563ff1</id>
+        <link href="https://medium.com/@rastogi2198/how-i-found-a-security-vulnerability-in-the-cbse-class-12-result-portal-and-reported-it-responsibly-e76582563ff1?source=rss------bugbounty-5"/>
+        <updated>2026-07-24T14:54:31.000Z</updated>
+        <summary type="html"><![CDATA[A first-time security researcher’s journey from discovery to official CERT-In acknowledgement
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Priyank Rastogi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AD Enumeration & Attacks — Skills Assessment Part II]]></title>
+        <id>https://medium.com/p/a93fb6f5c1dd</id>
+        <link href="https://medium.com/@bisher.cyber/ad-enumeration-attacks-skills-assessment-part-ii-a93fb6f5c1dd?source=rss------redteam-5"/>
+        <updated>2026-07-24T14:49:45.000Z</updated>
+        <summary type="html"><![CDATA[In this write-up, we are solving the second part of the module ‘AD Enumeration & Attack’. We will walk through basic enumeration until we…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Bisher Arafat</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DB升级 23.26.2：/opt 空间临界导致 OPatch 失败的处理记录 - AlfredZhao]]></title>
+        <id>https://www.cnblogs.com/jyzhao/p/21894824</id>
+        <link href="https://www.cnblogs.com/jyzhao/p/21894824"/>
+        <updated>2026-07-24T14:37:00.000Z</updated>
+        <summary type="html"><![CDATA[这次尝试升级到 23.26.2 时，笔者又遇到了一个很典型的问题：/opt 空间看起来差不多够，但 OPatch 实际执行时仍然容易失败。记录一下处理过程，方便后续遇到类似情况时快速判断。 01 | 问题出在“刚好够”的 /opt 空间 当时 /opt 的精确可用空间是： 13652123648 b]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Empty Page Leaked a JWT — Privilege Escalation From the Lowest Role]]></title>
+        <id>https://medium.com/p/9ab7f5861c59</id>
+        <link href="https://deepvvm.medium.com/empty-page-leaked-a-jwt-privilege-escalation-from-the-lowest-role-9ab7f5861c59?source=rss------bugbounty-5"/>
+        <updated>2026-07-24T14:20:33.000Z</updated>
+        <summary type="html"><![CDATA[The Context
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>ali alhassoun</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Perform DNS Monitoring Using DNSQuerySniffer | Complete Guide to DNS Analysis]]></title>
+        <id>https://medium.com/p/d6ae15f7715f</id>
+        <link href="https://medium.com/@pentesterclubpvtltd/perform-dns-monitoring-using-dnsquerysniffer-complete-guide-to-dns-analysis-d6ae15f7715f?source=rss------bugbounty-5"/>
+        <updated>2026-07-24T13:55:55.000Z</updated>
+        <summary type="html"><![CDATA[Learn How to Monitor DNS Queries for Network Visibility, Troubleshooting, and Security Monitoring
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Pentester Club</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LLM.deepseek:  2026-7-24工作总结 - smartfish_liu]]></title>
+        <id>https://www.cnblogs.com/smartfishliu/p/21894595</id>
+        <link href="https://www.cnblogs.com/smartfishliu/p/21894595"/>
+        <updated>2026-07-24T13:53:00.000Z</updated>
+        <summary type="html"><![CDATA[今日工作总结（2026-07-24） 一、主要工作内容 SANDBOX域函数测试与验证 完成 extract_section 函数测试：验证了从头和从尾提取标记段的功能，通过诊断确认提取内容正确。 完成 generate_temporary_file_name 函数测试：修复了连续调用返回相同文件名]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[手里只有6个向量，怎么填满64列？——对称变换的编程实践 - H_Elden]]></title>
+        <id>https://www.cnblogs.com/h-elden/p/21868636</id>
+        <link href="https://www.cnblogs.com/h-elden/p/21868636"/>
+        <updated>2026-07-24T13:48:00.000Z</updated>
+        <summary type="html"><![CDATA[在前三篇中，我们利用魔表的旋转、对角镜像和正反互补三种对称性，将 64 种基本操作压缩为 6 个原型向量。本文把这些数学结论落地为代码：先按原型与补集交替排列 16 组按钮集，定义列排列约定；再将每种操作的效果向量填入完整的 18 &#215; 64 矩阵 A。]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[风信子（超级钢琴带修）解题报告 - wang7979]]></title>
+        <id>https://www.cnblogs.com/wang7979/p/21893840</id>
+        <link href="https://www.cnblogs.com/wang7979/p/21893840"/>
+        <updated>2026-07-24T13:13:00.000Z</updated>
+        <summary type="html"><![CDATA[前言 前置trick:超级钢琴 打模拟赛遇上这个，如果知道trick，很容易往超级钢琴上想，但又有不同之处，遂爆零。 为了纪念第一次自己改出T4，于是作此篇报告。 题目描述 定义一个合法二元组 \((i,j)\) 需要满足 \(i\),\(j\) 为整数，且 \(i≤j\)。如果 \(i&gt;j\)，则]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fingerprinting Hypervisors through Windows Plug and Play Topology]]></title>
+        <id>https://medium.com/p/455df451e7f4</id>
+        <link href="https://debugactiveprocess.medium.com/fingerprinting-hypervisors-through-windows-plug-and-play-topology-455df451e7f4?source=rss------redteam-5"/>
+        <updated>2026-07-24T13:09:28.000Z</updated>
+        <summary type="html"><![CDATA[Leveraging SetupAPI and DEVPROPKEY for Indirect Virtualization Detection
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Ialle Teixeira</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“装闭”，让装修套路“装”不下去 - fthux]]></title>
+        <id>https://www.cnblogs.com/myvin/p/21894005</id>
+        <link href="https://www.cnblogs.com/myvin/p/21894005"/>
+        <updated>2026-07-24T13:04:00.000Z</updated>
+        <summary type="html"><![CDATA[「装闭」是一款AI装修审查工具，上传设计图纸、合同及报价单即可生成报告，逐条指出设计缺陷、合同猫腻、费用偏高及潜在增项。它内置踩坑知识库并支持联网搜索，完全站在消费者立场。]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Redis向量检索：缓存之王卷进向量赛道 - 暮色之狐]]></title>
+        <id>https://www.cnblogs.com/gloamfox/p/21893909</id>
+        <link href="https://www.cnblogs.com/gloamfox/p/21893909"/>
+        <updated>2026-07-24T12:54:00.000Z</updated>
+        <summary type="html"><![CDATA[提到 Redis，大多数开发者的第一反应是缓存、分布式锁、或者消息队列。但你可能不知道是，这个陪伴了我们很多年的老朋友，如今已经在向量数据库的赛道上一路狂奔——不仅跑得快，还跑得相当稳。 什么是向量检索？ 传统搜索依托字面匹配逻辑：当输入“苹果”进行检索时，系统仅能定位到包含“苹果”二字的文档，若文]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[暑假DP和二分练习题题解 - zhhhanry]]></title>
+        <id>https://www.cnblogs.com/zhhhanry/p/21893564</id>
+        <link href="https://www.cnblogs.com/zhhhanry/p/21893564"/>
+        <updated>2026-07-24T12:08:00.000Z</updated>
+        <summary type="html"><![CDATA[1.月度开销 题目： 农夫约翰是一个精明的会计师。他意识到自己可能没有足够的钱来维持农场的运转了。他计算出并记录下了接下来\(N(1&lt;=N&lt;=100000)\)天里每天需要的开销。 约翰打算为连续的\(M(1&lt;=M&lt;=N)\)个财政周期创建预算案，他把一个财政周期命名为fajo月。每个fajo月包含]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The AI Bug Bounty Gold Rush (How to Actually Get Paid)]]></title>
+        <id>https://medium.com/p/8e7f7d6eeb83</id>
+        <link href="https://kd-200.medium.com/the-ai-bug-bounty-gold-rush-how-to-actually-get-paid-8e7f7d6eeb83?source=rss------bugbounty-5"/>
+        <updated>2026-07-24T11:31:01.000Z</updated>
+        <summary type="html"><![CDATA[What’s up everyone! Nitin here 👋
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Nitin yadav</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【AI 应用】从“外国人味”到地道中文：kokoroi-rs v0.1.2 架构升级深度解析 - doiito]]></title>
+        <id>https://www.cnblogs.com/doiito/p/21893135</id>
+        <link href="https://www.cnblogs.com/doiito/p/21893135"/>
+        <updated>2026-07-24T11:30:00.000Z</updated>
+        <summary type="html"><![CDATA[从“外国人味”到地道中文：kokoroi-rs v0.1.2 架构升级深度解析 摘要：kokoroi-rs v0.1.2 版本对中文 TTS 引擎进行了重大架构升级，核心改进包括 G2P 引擎从 IPA 全面切换为 Bopomofo 音素方案、模型体系从单一模型升级为三档可选（S/M/L）、以及音频]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Source Code Review: PHP | TryHackMe]]></title>
+        <id>https://medium.com/p/57c45caeb5fe</id>
+        <link href="https://medium.com/@elaris/source-code-review-php-tryhackme-57c45caeb5fe?source=rss------redteam-5"/>
+        <updated>2026-07-24T11:01:08.000Z</updated>
+        <summary type="html"><![CDATA[Learn the basics of source code review for PHP.
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Ryca</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web Frameworks: Java | TryHackMe]]></title>
+        <id>https://medium.com/p/93b872ce13d0</id>
+        <link href="https://medium.com/@elaris/web-frameworks-java-tryhackme-93b872ce13d0?source=rss------redteam-5"/>
+        <updated>2026-07-24T11:01:01.000Z</updated>
+        <summary type="html"><![CDATA[Review Spring Boot source, find the framework-specific sinks, and exploit each on the lab machine.
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Ryca</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Broken Object Level Authorization (BOLA) Tops the OWASP API Security List]]></title>
+        <id>https://medium.com/p/ff5d582c012c</id>
+        <link href="https://medium.com/@narmadha484/why-broken-object-level-authorization-bola-tops-the-owasp-api-security-list-ff5d582c012c?source=rss------redteam-5"/>
+        <updated>2026-07-24T10:28:40.000Z</updated>
+        <summary type="html"><![CDATA[This article is the first in my OWASP API Security Top 10 learning series.
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Narmadha</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[怎么优雅地在GPUStack上使用minerU？ - GPUStack]]></title>
+        <id>https://www.cnblogs.com/gpustack/p/21891696</id>
+        <link href="https://www.cnblogs.com/gpustack/p/21891696"/>
+        <updated>2026-07-24T10:23:00.000Z</updated>
+        <summary type="html"><![CDATA[本文由 GPUStack 社区用户投稿整理，介绍如何将 MinerU Fast API 接入 GPUStack，通过自定义推理后端实现复杂 PDF 解析服务的部署与调用。]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wow 获 KaiCode’26 Excellent Award：DDD/CQRS 如何落到可测试代码？ - Ahoo-Wang]]></title>
+        <id>https://www.cnblogs.com/Ahoo-Wang/p/21888720/wow-domain-model-as-a-service-ddd-cqrs</id>
+        <link href="https://www.cnblogs.com/Ahoo-Wang/p/21888720/wow-domain-model-as-a-service-ddd-cqrs"/>
+        <updated>2026-07-24T09:23:00.000Z</updated>
+        <summary type="html"><![CDATA[Wow 获 KaiCode’26 Excellent Award。本文基于 8.9.1 真实代码，拆解核心理念“模型即服务”：领域模型如何定义业务能力，并被框架转化为可调用、可持久化、可观察、可测试的服务。]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一张 DataGrid 如何工作：从流畅渲染到连续录入 - delete19910520]]></title>
+        <id>https://www.cnblogs.com/hailin-zheng/p/21884969</id>
+        <link href="https://www.cnblogs.com/hailin-zheng/p/21884969"/>
+        <updated>2026-07-24T08:38:00.000Z</updated>
+        <summary type="html"><![CDATA[做后台系统，基本绕不开表格。 订单、库存、财务流水、项目台账、客户资料和操作日志，最后大多要用表格展示。只看最简单的例子，DataGrid 好像就是接收一组列和一个数组，然后画出表头、行和滚动条。 业务页面当然没有这么简单。固定列、排序、筛选、分组、汇总、复制、键盘操作、单元格编辑、输入校验、Loo]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[QT自定义控件之医学试剂盘 - Littlehero_121]]></title>
+        <id>https://www.cnblogs.com/JJ-Wu/p/21885362</id>
+        <link href="https://www.cnblogs.com/JJ-Wu/p/21885362"/>
+        <updated>2026-07-24T08:33:00.000Z</updated>
+        <summary type="html"><![CDATA[一、手搓控件 都2026年了，还在手搓自定义控件，没错，就是还在手搓呢~~~~ 今天介绍的是使用QPainter来画个医学试剂盘的特效， 主要有四种形态，正常态\时间不足状态\空杯状态\余量不足状态 这四种状态的试剂杯可以随时查看药物试剂的模拟运行状态~ 二、控件展示 点击开始之后： 三、感谢支持]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Digital Forensic Reports Don’t Survive Cross-Examination]]></title>
+        <id>https://blog.elcomsoft.com/?p=13605</id>
+        <link href="https://blog.elcomsoft.com/2026/07/why-digital-forensic-reports-dont-survive-cross-examination/"/>
+        <updated>2026-07-24T08:12:46.000Z</updated>
+        <summary type="html"><![CDATA[A forensic report is not a summary of finished work. It’s a claim that has to survive someone trying to take it apart, and most reports aren’t built for that. A lot of what gets filed today is automated tool output with a cover letter attached: the examiner runs a parser, exports a spreadsheet, writes […]]]></summary>
+        <author>
+            <name>Oleg Afonin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[抖音二面：如何设计一个高并发点赞系统？ - 苏三说技术]]></title>
+        <id>https://www.cnblogs.com/12lisu/p/21882110</id>
+        <link href="https://www.cnblogs.com/12lisu/p/21882110"/>
+        <updated>2026-07-24T07:45:00.000Z</updated>
+        <summary type="html"><![CDATA[前言 前几天有个小伙伴找我诉苦，说他在抖音二面被问到了一个场景题——“如何设计一个高并发点赞系统？ ” 他说他当时脑子一片空白，支支吾吾说了几句“用Redis”、“用消息队列”，然后就没然后了。 这个问题其实是个经典的架构设计题。 面试官真正想考察的，不是你会不会用Redis，而是你面对一个高并发场]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ASM: A Self-Hosted Attack Surface Management Platform and a Postmortem on the Bug That Took Four…]]></title>
+        <id>https://medium.com/p/452444338968</id>
+        <link href="https://medium.com/@PranavVerma/asm-a-self-hosted-attack-surface-management-platform-and-a-postmortem-on-the-bug-that-took-four-452444338968?source=rss------redteam-5"/>
+        <updated>2026-07-24T04:31:53.000Z</updated>
+        <summary type="html"><![CDATA[This post has two parts. The first explains what ASM is and why it exists, for anyone evaluating recon tooling or learning how an ASM…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Pranav Verma</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GPFS、Alluxio、JuiceFS 怎么选？一文看懂架构与适用场景 - JuiceFS]]></title>
         <id>https://www.cnblogs.com/JuiceData/p/21868081</id>

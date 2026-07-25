@@ -6,6 +6,16 @@
       "siteUrl": "http://h1.nobbd.de/",
       "articles": [
         {
+          "id": "https://hackerone.com/reports/3621606",
+          "author": null,
+          "description": "Monero disclosed a bug submitted by redlobsterzzz: https://hackerone.com/reports/3621606",
+          "link": "https://hackerone.com/reports/3621606",
+          "publishedOn": "2026-07-24T19:19:52.000Z",
+          "wordCount": 25,
+          "title": "ZMQ RPC Log Injection and Untrusted Payload Persistence",
+          "imageUrl": "https://profile-photos.hackerone-user-content.com/variants/000/007/731/55634f7fcd917725c7a5771cc6e7c9b4d5fe0c22_original.png/f0e07660005686ec92c43da54c0094c1ac1b490ea8c5eac04a4081d912d6ce36"
+        },
+        {
           "id": "https://hackerone.com/reports/3809407",
           "author": null,
           "description": "AWS VDP disclosed a bug submitted by notnotnotveg: https://hackerone.com/reports/3809407",
@@ -3510,6 +3520,96 @@
       "siteUrl": "https://medium.com/tag/bugbounty/latest?source=rss------bugbounty-5",
       "articles": [
         {
+          "id": "https://medium.com/p/41de56d4d19e",
+          "author": "HaakimSec",
+          "description": "The cybersecurity landscape was recently disrupted by the disclosure of wp2shell, a highly critical exploit chain impacting WordPress Core…\nContinue reading on Medium »",
+          "link": "https://medium.com/@HaakimSec/the-wp2shell-exploit-chain-understanding-the-critical-wordpress-core-pre-auth-rce-41de56d4d19e?source=rss------bugbounty-5",
+          "publishedOn": "2026-07-24T22:43:03.000Z",
+          "wordCount": null,
+          "title": "The wp2shell Exploit Chain: Understanding the Critical WordPress Core Pre-Auth RCE (CVE-2026–63030…",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/455e6681bf82",
+          "author": "Devansh Patel",
+          "description": "A suspenseful investigation into the keys, hives, values, drivers, startup rules, and application settings Windows quietly consults behind…\nContinue reading on MeetCyber »",
+          "link": "https://meetcyber.net/the-hidden-control-room-beneath-windows-enter-the-registry-where-one-wrong-value-can-change-455e6681bf82?source=rss------bugbounty-5",
+          "publishedOn": "2026-07-24T20:41:47.000Z",
+          "wordCount": 6335,
+          "title": "The Hidden Control Room Beneath Windows: Enter the Registry, Where One Wrong Value Can Change…",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*EA4ZSc6EbaxQxm_NIh-fNg.png"
+        },
+        {
+          "id": "https://medium.com/p/605016230d2d",
+          "author": "0xMo7areb",
+          "description": "الحمد لله الذي عَلَّمَ بالقلم، عَلَّمَ الإنسان ما لم يعلم، والصلاة والسلام على سيدنا محمد ﷺ وبعد\nContinue reading on Medium »",
+          "link": "https://medium.com/@0xMo7areb/the-organization-had-no-owner-yet-i-could-still-join-it-605016230d2d?source=rss------bugbounty-5",
+          "publishedOn": "2026-07-24T18:56:01.000Z",
+          "wordCount": null,
+          "title": "The Organization Had No Owner… Yet I Could Still Join It",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/6773df9fce72",
+          "author": "Vishw Bhatt",
+          "description": "A storage-exhaustion flaw. A stored XSS that waited for an admin. Both hiding in the same “boring” file upload form that hadn’t been…\nContinue reading on Medium »",
+          "link": "https://medium.com/@Vishw04/how-i-found-a-bug-worth-3-500-in-a-feature-nobody-was-watching-6773df9fce72?source=rss------bugbounty-5",
+          "publishedOn": "2026-07-24T15:52:09.000Z",
+          "wordCount": null,
+          "title": "How I Found a Bug Worth $3,500 — In a Feature Nobody Was Watching.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/50fcac50c76a",
+          "author": "David Demean",
+          "description": "Hi Hackers , I’m David Demean .\nI work as a penetration tester on HackerOne.\nContinue reading on Medium »",
+          "link": "https://medium.com/@daviddemean0/invitation-link-doesnt-expire-after-used-50fcac50c76a?source=rss------bugbounty-5",
+          "publishedOn": "2026-07-24T15:27:07.000Z",
+          "wordCount": null,
+          "title": "Invitation Link doesn’t expire after used .",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/e76582563ff1",
+          "author": "Priyank Rastogi",
+          "description": "A first-time security researcher’s journey from discovery to official CERT-In acknowledgement\nContinue reading on Medium »",
+          "link": "https://medium.com/@rastogi2198/how-i-found-a-security-vulnerability-in-the-cbse-class-12-result-portal-and-reported-it-responsibly-e76582563ff1?source=rss------bugbounty-5",
+          "publishedOn": "2026-07-24T14:54:31.000Z",
+          "wordCount": null,
+          "title": "How I Found a Security Vulnerability in the CBSE Class 12 Result Portal and Reported It Responsibly",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/9ab7f5861c59",
+          "author": "ali alhassoun",
+          "description": "The Context\nContinue reading on Medium »",
+          "link": "https://deepvvm.medium.com/empty-page-leaked-a-jwt-privilege-escalation-from-the-lowest-role-9ab7f5861c59?source=rss------bugbounty-5",
+          "publishedOn": "2026-07-24T14:20:33.000Z",
+          "wordCount": 3647,
+          "title": "Empty Page Leaked a JWT — Privilege Escalation From the Lowest Role",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:753/1*je5ygtsSVn-q1TROYqsx5Q.png"
+        },
+        {
+          "id": "https://medium.com/p/d6ae15f7715f",
+          "author": "Pentester Club",
+          "description": "Learn How to Monitor DNS Queries for Network Visibility, Troubleshooting, and Security Monitoring\nContinue reading on Medium »",
+          "link": "https://medium.com/@pentesterclubpvtltd/perform-dns-monitoring-using-dnsquerysniffer-complete-guide-to-dns-analysis-d6ae15f7715f?source=rss------bugbounty-5",
+          "publishedOn": "2026-07-24T13:55:55.000Z",
+          "wordCount": null,
+          "title": "Perform DNS Monitoring Using DNSQuerySniffer | Complete Guide to DNS Analysis",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/8e7f7d6eeb83",
+          "author": "Nitin yadav",
+          "description": "What’s up everyone! Nitin here 👋\nContinue reading on Medium »",
+          "link": "https://kd-200.medium.com/the-ai-bug-bounty-gold-rush-how-to-actually-get-paid-8e7f7d6eeb83?source=rss------bugbounty-5",
+          "publishedOn": "2026-07-24T11:31:01.000Z",
+          "wordCount": 1838,
+          "title": "The AI Bug Bounty Gold Rush (How to Actually Get Paid)",
+          "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*eAj9iGidvxfJuh65"
+        },
+        {
           "id": "https://medium.com/p/9d7102d35e83",
           "author": "Yamini Yadav_369",
           "description": "Uncover Hidden Vulnerabilities with Advanced Search Techniques — Learn How Attackers and \nPentesters Use Google Dorks to Find Admin Panels…\nContinue reading on OSINT Team »",
@@ -6266,6 +6366,86 @@
       "feedUrl": "https://medium.com/feed/tag/redteam",
       "siteUrl": "https://medium.com/tag/redteam/latest?source=rss------redteam-5",
       "articles": [
+        {
+          "id": "https://medium.com/p/1554c8f092fb",
+          "author": "Shebin53",
+          "description": "A hands-on lab walkthrough of the Entra ID → on-prem Active Directory escalation, based on the original research by Dirk-jan Mollema.\nContinue reading on Medium »",
+          "link": "https://medium.com/@shebinjohn53/from-global-admin-to-domain-admin-reproducing-the-cloud-kerberos-trust-attack-1554c8f092fb?source=rss------redteam-5",
+          "publishedOn": "2026-07-24T19:17:30.000Z",
+          "wordCount": null,
+          "title": "From Global Admin to Domain Admin: Reproducing the Cloud Kerberos Trust Attack",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/7736486228fe",
+          "author": "th3V0!D",
+          "description": "We were commissioned by the company Inlanefreight to conduct a penetration test against three different hosts to check the servers’…\nContinue reading on Medium »",
+          "link": "https://medium.com/@theV01D/hackthebox-attacking-common-services-easy-walkthrough-7736486228fe?source=rss------redteam-5",
+          "publishedOn": "2026-07-24T18:42:17.000Z",
+          "wordCount": null,
+          "title": "HackTheBox — Attacking Common Services — Easy — Walkthrough",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/a93fb6f5c1dd",
+          "author": "Bisher Arafat",
+          "description": "In this write-up, we are solving the second part of the module ‘AD Enumeration & Attack’. We will walk through basic enumeration until we…\nContinue reading on Medium »",
+          "link": "https://medium.com/@bisher.cyber/ad-enumeration-attacks-skills-assessment-part-ii-a93fb6f5c1dd?source=rss------redteam-5",
+          "publishedOn": "2026-07-24T14:49:45.000Z",
+          "wordCount": null,
+          "title": "AD Enumeration & Attacks — Skills Assessment Part II",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/455df451e7f4",
+          "author": "Ialle Teixeira",
+          "description": "Leveraging SetupAPI and DEVPROPKEY for Indirect Virtualization Detection\nContinue reading on Medium »",
+          "link": "https://debugactiveprocess.medium.com/fingerprinting-hypervisors-through-windows-plug-and-play-topology-455df451e7f4?source=rss------redteam-5",
+          "publishedOn": "2026-07-24T13:09:28.000Z",
+          "wordCount": 4207,
+          "title": "Fingerprinting Hypervisors through Windows Plug and Play Topology",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*A8EGvv_ZT3Z620eZ.jpg"
+        },
+        {
+          "id": "https://medium.com/p/57c45caeb5fe",
+          "author": "Ryca",
+          "description": "Learn the basics of source code review for PHP.\nContinue reading on Medium »",
+          "link": "https://medium.com/@elaris/source-code-review-php-tryhackme-57c45caeb5fe?source=rss------redteam-5",
+          "publishedOn": "2026-07-24T11:01:08.000Z",
+          "wordCount": null,
+          "title": "Source Code Review: PHP | TryHackMe",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/93b872ce13d0",
+          "author": "Ryca",
+          "description": "Review Spring Boot source, find the framework-specific sinks, and exploit each on the lab machine.\nContinue reading on Medium »",
+          "link": "https://medium.com/@elaris/web-frameworks-java-tryhackme-93b872ce13d0?source=rss------redteam-5",
+          "publishedOn": "2026-07-24T11:01:01.000Z",
+          "wordCount": null,
+          "title": "Web Frameworks: Java | TryHackMe",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/ff5d582c012c",
+          "author": "Narmadha",
+          "description": "This article is the first in my OWASP API Security Top 10 learning series.\nContinue reading on Medium »",
+          "link": "https://medium.com/@narmadha484/why-broken-object-level-authorization-bola-tops-the-owasp-api-security-list-ff5d582c012c?source=rss------redteam-5",
+          "publishedOn": "2026-07-24T10:28:40.000Z",
+          "wordCount": null,
+          "title": "Why Broken Object Level Authorization (BOLA) Tops the OWASP API Security List",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/452444338968",
+          "author": "Pranav Verma",
+          "description": "This post has two parts. The first explains what ASM is and why it exists, for anyone evaluating recon tooling or learning how an ASM…\nContinue reading on Medium »",
+          "link": "https://medium.com/@PranavVerma/asm-a-self-hosted-attack-surface-management-platform-and-a-postmortem-on-the-bug-that-took-four-452444338968?source=rss------redteam-5",
+          "publishedOn": "2026-07-24T04:31:53.000Z",
+          "wordCount": null,
+          "title": "ASM: A Self-Hosted Attack Surface Management Platform and a Postmortem on the Bug That Took Four…",
+          "imageUrl": null
+        },
         {
           "id": "https://medium.com/p/07050a0d94b9",
           "author": "BlackCat53",
@@ -10114,6 +10294,21 @@
       "siteUrl": "https://blog.elcomsoft.com",
       "articles": [
         {
+          "id": "https://blog.elcomsoft.com/?p=13605",
+          "author": "Oleg Afonin",
+          "description": "A forensic report is not a summary of finished work. It’s a claim that has to survive someone trying to take it apart, and most reports aren’t built for that. A lot of what gets filed today is automated tool output with a cover letter attached: the examiner runs a parser, exports a spreadsheet, writes […]",
+          "link": "https://blog.elcomsoft.com/2026/07/why-digital-forensic-reports-dont-survive-cross-examination/",
+          "publishedOn": "2026-07-24T08:12:46.000Z",
+          "wordCount": 2376,
+          "title": "Why Digital Forensic Reports Don’t Survive Cross-Examination",
+          "enclosure": {
+            "url": "https://blog.elcomsoft.com/wp-content/uploads/2026/03/law-4-1200x630-1.png",
+            "length": "1274783",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://blog.elcomsoft.com/wp-content/uploads/2026/03/law-4-1200x630-1.png"
+        },
+        {
           "id": "https://blog.elcomsoft.com/?p=13515",
           "author": "Oleg Afonin",
           "description": "RAR encryption has an unusual reputation: in more than twenty years there has been no practical attack against the cipher, no implementation flaw worth the name, and none of the shortcuts that collapsed certain other archive formats in minutes. Yet until recently, nobody could say how fast a RAR password could actually be attacked. The […]",
@@ -10508,6 +10703,206 @@
       "feedUrl": "https://feed.cnblogs.com/blog/sitehome/rss",
       "siteUrl": null,
       "articles": [
+        {
+          "id": "https://www.cnblogs.com/uniqueDong/p/21902972",
+          "author": null,
+          "description": "马维斯下载地址：https://marvis.qq.com/ 上周五下午四点，我的C盘又红了。 这已经是本月第三次。打开「此电脑」，红色进度条亮得刺眼——剩8.3G。我盯着那堆「用户」「ProgramData」「Windows」文件夹，不知道哪个能删、哪个删了会出问题。 以前遇到这种情况，流程是这样",
+          "link": "https://www.cnblogs.com/uniqueDong/p/21902972",
+          "publishedOn": "2026-07-25T02:50:00.000Z",
+          "wordCount": 708,
+          "title": "腾讯Marvis用两周：我的电脑终于能听懂人话了 - 码哥字节",
+          "imageUrl": "https://img2024.cnblogs.com/blog/735767/202605/735767-20260526114014236-744639895.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/gloamfox/p/21900189",
+          "author": null,
+          "description": "这大概是 Redis 面试里最常见的一道“送命题”。 面试官问：“Redis 怎么持久化？” 你心里一喜，这题我背过：“RDB 和 AOF，RDB 是做快照的，AOF 是记录命令的，两个可以一起用。” 面试官点点头，追问道：“那 RDB 的 fork 具体是怎么工作的？会不会阻塞主线程？AOF 的刷",
+          "link": "https://www.cnblogs.com/gloamfox/p/21900189",
+          "publishedOn": "2026-07-25T01:55:00.000Z",
+          "wordCount": 807,
+          "title": "面试官一句“Redis 怎么持久化”，很多人张口就是 “RDB + AOF”，追问到 fork、刷盘策略和日志重写就开始卡壳... - 暮色之狐",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/h-elden/p/21896206",
+          "author": null,
+          "description": "本文对前文生成的 18&#215;64 操作矩阵 A 进行系统分析。发现 P/Q 联动规律使 64 种操作去重为 30 种；角部指针与拨轮存在固定驱动关系；18 维状态空间中 14 维可控、4 维由不变量锁死。利用 P/Q 联动进一步将 6 个原型简化为 5 个。所有数学规律均与魔表机械传动结构一一印证。",
+          "link": "https://www.cnblogs.com/h-elden/p/21896206",
+          "publishedOn": "2026-07-25T01:52:00.000Z",
+          "wordCount": 2238,
+          "title": "你以为有 64 种操作？实际只有 30 种——矩阵 A 深度剖析 - H_Elden",
+          "imageUrl": "https://img2024.cnblogs.com/blog/3633603/202607/3633603-20260725005821170-242106481.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/htai/p/21898740",
+          "author": null,
+          "description": "安德烈&#183;卡帕西（Andrej Karpathy）有一个奇怪的习惯。 每天早上，他会打开手机上的语音模式，对着AI助手连续说话大概十分钟。没有提纲，没有组织过的思路，想到什么说什么——今天要写的代码框架、昨晚读到的论文片段、一个还没想清楚的产品想法，甚至是对某条推特的吐槽。全程乱七八糟。 然后，AI会",
+          "link": "https://www.cnblogs.com/htai/p/21898740",
+          "publishedOn": "2026-07-25T00:54:00.000Z",
+          "wordCount": 289,
+          "title": "跟AI聊了10分钟废话，硅谷最懂AI的人发现了什么？ - 老猿AI洞察",
+          "imageUrl": "https://img2024.cnblogs.com/blog/1944027/202607/1944027-20260725085428275-2082534449.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/xiexj/p/21898731",
+          "author": null,
+          "description": "为什么学完就忘？因为课程交付的是知识，而值钱的是经验。一门把 18 年生产事故当教材、把提问当评测的 AI 实战课，每周都开。",
+          "link": "https://www.cnblogs.com/xiexj/p/21898731",
+          "publishedOn": "2026-07-25T00:54:00.000Z",
+          "wordCount": 379,
+          "title": "我把 18 年的生产现场，做成了一门没有结课日的课 - 编程一生",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/eipworkflow/p/21879118",
+          "author": null,
+          "description": "开源框架模块详解｜码云开源EIP低代码平台 仓库地址：https://gitee.com/sunzewei/eip_lowcode 摘要 系统日志管理是EIP低代码平台的系统运维、安全审计、故障排查的核心运维模块，整合登录日志、异常日志、文件日志、接口日志、限流日志五大子日志体系，全方位记录用户登入",
+          "link": "https://www.cnblogs.com/eipworkflow/p/21879118",
+          "publishedOn": "2026-07-25T00:25:00.000Z",
+          "wordCount": 348,
+          "title": "EIP低代码平台 - 系统日志 - EIP低代码平台",
+          "imageUrl": "https://img2024.cnblogs.com/blog/2928387/202607/2928387-20260724145307822-251221136.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/shanyou/p/21806153",
+          "author": null,
+          "description": "协议层解决「怎么连」，SDK 层解决「怎么写」，去会话化解决「怎么运维」——三层叠加，MCP 才真正具备了生产级部署的底气",
+          "link": "https://www.cnblogs.com/shanyou/p/21806153",
+          "publishedOn": "2026-07-24T14:55:00.000Z",
+          "wordCount": 1068,
+          "title": "C# MCP SDK 2.0 即将发布：去会话化、去握手、去运维噩梦 - 张善友",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/jyzhao/p/21894824",
+          "author": null,
+          "description": "这次尝试升级到 23.26.2 时，笔者又遇到了一个很典型的问题：/opt 空间看起来差不多够，但 OPatch 实际执行时仍然容易失败。记录一下处理过程，方便后续遇到类似情况时快速判断。 01 | 问题出在“刚好够”的 /opt 空间 当时 /opt 的精确可用空间是： 13652123648 b",
+          "link": "https://www.cnblogs.com/jyzhao/p/21894824",
+          "publishedOn": "2026-07-24T14:37:00.000Z",
+          "wordCount": 649,
+          "title": "DB升级 23.26.2：/opt 空间临界导致 OPatch 失败的处理记录 - AlfredZhao",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/smartfishliu/p/21894595",
+          "author": null,
+          "description": "今日工作总结（2026-07-24） 一、主要工作内容 SANDBOX域函数测试与验证 完成 extract_section 函数测试：验证了从头和从尾提取标记段的功能，通过诊断确认提取内容正确。 完成 generate_temporary_file_name 函数测试：修复了连续调用返回相同文件名",
+          "link": "https://www.cnblogs.com/smartfishliu/p/21894595",
+          "publishedOn": "2026-07-24T13:53:00.000Z",
+          "wordCount": 329,
+          "title": "LLM.deepseek:  2026-7-24工作总结 - smartfish_liu",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/h-elden/p/21868636",
+          "author": null,
+          "description": "在前三篇中，我们利用魔表的旋转、对角镜像和正反互补三种对称性，将 64 种基本操作压缩为 6 个原型向量。本文把这些数学结论落地为代码：先按原型与补集交替排列 16 组按钮集，定义列排列约定；再将每种操作的效果向量填入完整的 18 &#215; 64 矩阵 A。",
+          "link": "https://www.cnblogs.com/h-elden/p/21868636",
+          "publishedOn": "2026-07-24T13:48:00.000Z",
+          "wordCount": 4460,
+          "title": "手里只有6个向量，怎么填满64列？——对称变换的编程实践 - H_Elden",
+          "imageUrl": "https://img2024.cnblogs.com/blog/3633603/202607/3633603-20260724115546002-867802937.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/wang7979/p/21893840",
+          "author": null,
+          "description": "前言 前置trick:超级钢琴 打模拟赛遇上这个，如果知道trick，很容易往超级钢琴上想，但又有不同之处，遂爆零。 为了纪念第一次自己改出T4，于是作此篇报告。 题目描述 定义一个合法二元组 \\((i,j)\\) 需要满足 \\(i\\),\\(j\\) 为整数，且 \\(i≤j\\)。如果 \\(i&gt;j\\)，则",
+          "link": "https://www.cnblogs.com/wang7979/p/21893840",
+          "publishedOn": "2026-07-24T13:13:00.000Z",
+          "wordCount": 738,
+          "title": "风信子（超级钢琴带修）解题报告 - wang7979",
+          "imageUrl": "https://img2024.cnblogs.com/blog/3827605/202607/3827605-20260724204839523-2007045928.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/myvin/p/21894005",
+          "author": null,
+          "description": "「装闭」是一款AI装修审查工具，上传设计图纸、合同及报价单即可生成报告，逐条指出设计缺陷、合同猫腻、费用偏高及潜在增项。它内置踩坑知识库并支持联网搜索，完全站在消费者立场。",
+          "link": "https://www.cnblogs.com/myvin/p/21894005",
+          "publishedOn": "2026-07-24T13:04:00.000Z",
+          "wordCount": 397,
+          "title": "“装闭”，让装修套路“装”不下去 - fthux",
+          "imageUrl": "https://img2024.cnblogs.com/blog/779193/202607/779193-20260724210215117-2025885674.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/gloamfox/p/21893909",
+          "author": null,
+          "description": "提到 Redis，大多数开发者的第一反应是缓存、分布式锁、或者消息队列。但你可能不知道是，这个陪伴了我们很多年的老朋友，如今已经在向量数据库的赛道上一路狂奔——不仅跑得快，还跑得相当稳。 什么是向量检索？ 传统搜索依托字面匹配逻辑：当输入“苹果”进行检索时，系统仅能定位到包含“苹果”二字的文档，若文",
+          "link": "https://www.cnblogs.com/gloamfox/p/21893909",
+          "publishedOn": "2026-07-24T12:54:00.000Z",
+          "wordCount": 740,
+          "title": "Redis向量检索：缓存之王卷进向量赛道 - 暮色之狐",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/zhhhanry/p/21893564",
+          "author": null,
+          "description": "1.月度开销 题目： 农夫约翰是一个精明的会计师。他意识到自己可能没有足够的钱来维持农场的运转了。他计算出并记录下了接下来\\(N(1&lt;=N&lt;=100000)\\)天里每天需要的开销。 约翰打算为连续的\\(M(1&lt;=M&lt;=N)\\)个财政周期创建预算案，他把一个财政周期命名为fajo月。每个fajo月包含",
+          "link": "https://www.cnblogs.com/zhhhanry/p/21893564",
+          "publishedOn": "2026-07-24T12:08:00.000Z",
+          "wordCount": 417,
+          "title": "暑假DP和二分练习题题解 - zhhhanry",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/doiito/p/21893135",
+          "author": null,
+          "description": "从“外国人味”到地道中文：kokoroi-rs v0.1.2 架构升级深度解析 摘要：kokoroi-rs v0.1.2 版本对中文 TTS 引擎进行了重大架构升级，核心改进包括 G2P 引擎从 IPA 全面切换为 Bopomofo 音素方案、模型体系从单一模型升级为三档可选（S/M/L）、以及音频",
+          "link": "https://www.cnblogs.com/doiito/p/21893135",
+          "publishedOn": "2026-07-24T11:30:00.000Z",
+          "wordCount": 912,
+          "title": "【AI 应用】从“外国人味”到地道中文：kokoroi-rs v0.1.2 架构升级深度解析 - doiito",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/gpustack/p/21891696",
+          "author": null,
+          "description": "本文由 GPUStack 社区用户投稿整理，介绍如何将 MinerU Fast API 接入 GPUStack，通过自定义推理后端实现复杂 PDF 解析服务的部署与调用。",
+          "link": "https://www.cnblogs.com/gpustack/p/21891696",
+          "publishedOn": "2026-07-24T10:23:00.000Z",
+          "wordCount": 595,
+          "title": "怎么优雅地在GPUStack上使用minerU？ - GPUStack",
+          "imageUrl": "https://img2024.cnblogs.com/blog/3471680/202607/3471680-20260724182230690-440419426.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/Ahoo-Wang/p/21888720/wow-domain-model-as-a-service-ddd-cqrs",
+          "author": null,
+          "description": "Wow 获 KaiCode’26 Excellent Award。本文基于 8.9.1 真实代码，拆解核心理念“模型即服务”：领域模型如何定义业务能力，并被框架转化为可调用、可持久化、可观察、可测试的服务。",
+          "link": "https://www.cnblogs.com/Ahoo-Wang/p/21888720/wow-domain-model-as-a-service-ddd-cqrs",
+          "publishedOn": "2026-07-24T09:23:00.000Z",
+          "wordCount": 770,
+          "title": "Wow 获 KaiCode’26 Excellent Award：DDD/CQRS 如何落到可测试代码？ - Ahoo-Wang",
+          "imageUrl": "https://img2024.cnblogs.com/blog/457833/202607/457833-20260724172225449-815450303.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/hailin-zheng/p/21884969",
+          "author": null,
+          "description": "做后台系统，基本绕不开表格。 订单、库存、财务流水、项目台账、客户资料和操作日志，最后大多要用表格展示。只看最简单的例子，DataGrid 好像就是接收一组列和一个数组，然后画出表头、行和滚动条。 业务页面当然没有这么简单。固定列、排序、筛选、分组、汇总、复制、键盘操作、单元格编辑、输入校验、Loo",
+          "link": "https://www.cnblogs.com/hailin-zheng/p/21884969",
+          "publishedOn": "2026-07-24T08:38:00.000Z",
+          "wordCount": 1111,
+          "title": "一张 DataGrid 如何工作：从流畅渲染到连续录入 - delete19910520",
+          "imageUrl": "https://img2024.cnblogs.com/blog/391148/202607/391148-20260724162956418-1701150386.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/JJ-Wu/p/21885362",
+          "author": null,
+          "description": "一、手搓控件 都2026年了，还在手搓自定义控件，没错，就是还在手搓呢~~~~ 今天介绍的是使用QPainter来画个医学试剂盘的特效， 主要有四种形态，正常态\\时间不足状态\\空杯状态\\余量不足状态 这四种状态的试剂杯可以随时查看药物试剂的模拟运行状态~ 二、控件展示 点击开始之后： 三、感谢支持",
+          "link": "https://www.cnblogs.com/JJ-Wu/p/21885362",
+          "publishedOn": "2026-07-24T08:33:00.000Z",
+          "wordCount": 288,
+          "title": "QT自定义控件之医学试剂盘 - Littlehero_121",
+          "imageUrl": "https://img2024.cnblogs.com/blog/1837289/202607/1837289-20260724162255969-1246343601.gif"
+        },
+        {
+          "id": "https://www.cnblogs.com/12lisu/p/21882110",
+          "author": null,
+          "description": "前言 前几天有个小伙伴找我诉苦，说他在抖音二面被问到了一个场景题——“如何设计一个高并发点赞系统？ ” 他说他当时脑子一片空白，支支吾吾说了几句“用Redis”、“用消息队列”，然后就没然后了。 这个问题其实是个经典的架构设计题。 面试官真正想考察的，不是你会不会用Redis，而是你面对一个高并发场",
+          "link": "https://www.cnblogs.com/12lisu/p/21882110",
+          "publishedOn": "2026-07-24T07:45:00.000Z",
+          "wordCount": 863,
+          "title": "抖音二面：如何设计一个高并发点赞系统？ - 苏三说技术",
+          "imageUrl": "https://img2024.cnblogs.com/blog/2238006/202607/2238006-20260724154304966-48698807.png"
+        },
         {
           "id": "https://www.cnblogs.com/JuiceData/p/21868081",
           "author": null,
@@ -16354,6 +16749,16 @@
       "feedUrl": "http://h1.nobbd.de/reports_rss.xml",
       "siteUrl": "http://h1.nobbd.de/",
       "articles": [
+        {
+          "id": "https://hackerone.com/reports/3621606",
+          "author": null,
+          "description": "Monero disclosed a bug submitted by redlobsterzzz: https://hackerone.com/reports/3621606",
+          "link": "https://hackerone.com/reports/3621606",
+          "publishedOn": "2026-07-24T19:19:52.000Z",
+          "wordCount": 25,
+          "title": "ZMQ RPC Log Injection and Untrusted Payload Persistence",
+          "imageUrl": "https://profile-photos.hackerone-user-content.com/variants/000/007/731/55634f7fcd917725c7a5771cc6e7c9b4d5fe0c22_original.png/f0e07660005686ec92c43da54c0094c1ac1b490ea8c5eac04a4081d912d6ce36"
+        },
         {
           "id": "https://hackerone.com/reports/3809407",
           "author": null,
