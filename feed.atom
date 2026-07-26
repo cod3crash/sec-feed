@@ -2,10 +2,377 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cod3crash.github.io/sec-feed/index.html</id>
     <title>security feed</title>
-    <updated>2026-07-25T03:25:41.376Z</updated>
+    <updated>2026-07-26T03:38:59.505Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://cod3crash.github.io/sec-feed/index.html"/>
     <link rel="self" href="https://cod3crash.github.io/sec-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[为什么越来越的人使用WebFlux？ - 苏三说技术]]></title>
+        <id>https://www.cnblogs.com/12lisu/p/21927603</id>
+        <link href="https://www.cnblogs.com/12lisu/p/21927603"/>
+        <updated>2026-07-26T03:34:00.000Z</updated>
+        <summary type="html"><![CDATA[前言 从同步阻塞到异步非阻塞，Java Web开发的又一次革命 最近在做技术选型评审的时候，发现了一个非常有意思的现象——越来越多的新项目在技术选型时，把Spring WebFlux写进了方案里。 有个小伙伴跟我说：“三哥，我看了网上的文章，有人说WebFlux性能炸裂，有人说WebFlux学习曲线]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[C# + AOT编译 + Linux环境 —— 完全不靠谱 - ahfuzhang]]></title>
+        <id>https://www.cnblogs.com/ahfuzhang/p/21926247</id>
+        <link href="https://www.cnblogs.com/ahfuzhang/p/21926247"/>
+        <updated>2026-07-26T02:53:00.000Z</updated>
+        <summary type="html"><![CDATA[作者:张富春(ahfuzhang)，转载时请注明作者和引用链接，谢谢！ cnblogs博客 zhihu Github 公众号:一本正经的瞎扯 一个简单的 Kestrel 写的后端服务，尝试解决 Coredump 问题和无法捕获的异常，已经两周多了。 今天再次尝试，崩溃在了完全意想不到的位置。 从这个]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KingbaseES 优化器底层逻辑：等价变换改写 SQL 与条件调度驱动运行时 - 1763392456]]></title>
+        <id>https://www.cnblogs.com/cnoneblog/p/21926249</id>
+        <link href="https://www.cnblogs.com/cnoneblog/p/21926249"/>
+        <updated>2026-07-26T02:53:00.000Z</updated>
+        <summary type="html"><![CDATA[前言 SQL 是声明式语言，开发者仅描述查询目标，不定义数据扫描、连接、过滤的执行顺序。KingbaseES（人大金仓）查询优化器承担核心调度工作，整体分为两大阶段：逻辑优化等价变换、物理优化 + 运行时条件调度。 等价变换基于关系代数等价规则，在不改变查询结果的前提下重构 SQL 查询树，提前过滤]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[15天学会AI应用开发（十七）使用LangGraph实现会话记忆功能 - aqi00]]></title>
+        <id>https://www.cnblogs.com/aqi00/p/21906292</id>
+        <link href="https://www.cnblogs.com/aqi00/p/21906292"/>
+        <updated>2026-07-26T02:43:00.000Z</updated>
+        <summary type="html"><![CDATA[​上一篇文章采用langchain_community包协助LangChain实现了对话记忆功能，但langchain_community属于早期链式架构的临时补丁，仅适配简单线性对话。 LangChain官方推荐使用LangGraph实现复杂的会话记忆功能，LangGraph是从底层统一管理全流程]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bug Bounty Journey — Day 0: The Commitment]]></title>
+        <id>https://medium.com/p/2c326b6b3742</id>
+        <link href="https://medium.com/@someone356neenunaa/bug-bounty-journey-day-0-the-commitment-2c326b6b3742?source=rss------bugbounty-5"/>
+        <updated>2026-07-26T02:37:47.000Z</updated>
+        <summary type="html"><![CDATA[Every major milestone starts with a simple, clear plan.
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>rising warrior</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[kbot3测试Model报500：一次app_id参数排查记录 - AlfredZhao]]></title>
+        <id>https://www.cnblogs.com/jyzhao/p/21924586</id>
+        <link href="https://www.cnblogs.com/jyzhao/p/21924586"/>
+        <updated>2026-07-26T01:38:00.000Z</updated>
+        <summary type="html"><![CDATA[kbot3是一款支持以oracle为底座的知识库产品。前端APEX，后端Python。 本文分享一次常见的问题诊断，kbot3 中新增的模型开始进入测试阶段。但在 APEX 前端点击 LLM 配置的 Test 按钮时，请求 /api/model/test 返回 500，前端提示：AxiosError]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你的 AI 编程工具里，缺一个“专家团队“，一人公司必备的Agents合集 - lincats]]></title>
+        <id>https://www.cnblogs.com/lincats/p/21924288</id>
+        <link href="https://www.cnblogs.com/lincats/p/21924288"/>
+        <updated>2026-07-26T01:37:00.000Z</updated>
+        <summary type="html"><![CDATA[agency-agents，GitHub&#160;**13.6 万星**。作者起的名字很贴切：一家完整的 AI 公司，随时待命。
+它不是&quot;又一个提示词合集&quot;。它给每个角色定义了三个东西：独特的人设、专业的工作流程、可交付的成果标准。
+说白了，你以前跟 AI 说&quot;帮我写代码&quot;，现在你说&quot;激活高级前端开发工程师...]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reflected XSS in E-Commerce Search — Bug Bounty Writeup]]></title>
+        <id>https://medium.com/p/9757b4a5c7ec</id>
+        <link href="https://medium.com/@hassanbounty30/reflected-xss-in-e-commerce-search-bug-bounty-writeup-9757b4a5c7ec?source=rss------bugbounty-5"/>
+        <updated>2026-07-26T01:25:11.000Z</updated>
+        <summary type="html"><![CDATA[Hassan Elsayed
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Hassan Elsayed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[日本记者拆了一台中国机器人，然后说“我们认输” - 老猿AI洞察]]></title>
+        <id>https://www.cnblogs.com/htai/p/21924044</id>
+        <link href="https://www.cnblogs.com/htai/p/21924044"/>
+        <updated>2026-07-26T00:37:00.000Z</updated>
+        <summary type="html"><![CDATA[7月23日，日本日经xTECH网站发布了一段视频。画面里，一群日本技术人员围着一台机器人，拿着一系列工具，仔细地拆解它。 这台机器人来自中国的宇树科技，型号叫G1。 拆到一半的时候，视频的氛围变了。技术人员边拆边感叹，语速越来越快。最后他们得出了一个结论：中国的人形机器人在技术上已经超越了日本，想在]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[One Header Away from 10+ GB of Customer Documents (PII) — $6K Bounty]]></title>
+        <id>https://medium.com/p/0c0ac8c335f2</id>
+        <link href="https://alvinferd.medium.com/one-header-away-from-10-gb-of-customer-documents-pii-6k-bounty-0c0ac8c335f2?source=rss------bugbounty-5"/>
+        <updated>2026-07-25T23:50:39.000Z</updated>
+        <summary type="html"><![CDATA[An anonymous attacker could fully enumerate, read, and overwrite the production customer-service attachment bucket of a major insurer’s…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Alvin Ferdiansyah</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CRLF Injection — Advanced Bypass Techniques ( P 2/3 )]]></title>
+        <id>https://medium.com/p/62b2ca091f7d</id>
+        <link href="https://medium.com/@cybersecplayground/crlf-injection-advanced-bypass-techniques-p-2-3-62b2ca091f7d?source=rss------bugbounty-5"/>
+        <updated>2026-07-25T19:47:34.000Z</updated>
+        <summary type="html"><![CDATA[Now that you understand the basics, let’s explore advanced CRLF injection techniques and filter evasion methods. WAFs and input…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Cybersecplayground</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Multiple Ways to Achieve Windows Persistence]]></title>
+        <id>https://medium.com/p/e8b22943dd26</id>
+        <link href="https://medium.com/@ayushmohansah/multiple-ways-to-achieve-windows-persistence-e8b22943dd26?source=rss------redteam-5"/>
+        <updated>2026-07-25T18:13:20.000Z</updated>
+        <summary type="html"><![CDATA[This blog discusses several Windows persistence techniques that can be used after gaining initial access, before your C2 callback dies on…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Ayushmohansah</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Biggest Reason Beginners Don’t Find Bugs Has Nothing to Do with Bug Hunting]]></title>
+        <id>https://medium.com/p/f0e7abd55dc7</id>
+        <link href="https://medium.com/@T3rmint0r_01/the-biggest-reason-beginners-dont-find-bugs-has-nothing-to-do-with-bug-hunting-f0e7abd55dc7?source=rss------bugbounty-5"/>
+        <updated>2026-07-25T16:56:40.000Z</updated>
+        <summary type="html"><![CDATA[When I started learning bug hunting, I thought the hardest part would be finding vulnerabilities.
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>T3rminat0r</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[企业数字化最大的坑不是技术，是主数据——18年实战笔记 - 凌波微数]]></title>
+        <id>https://www.cnblogs.com/w1985/p/21920583</id>
+        <link href="https://www.cnblogs.com/w1985/p/21920583"/>
+        <updated>2026-07-25T13:54:00.000Z</updated>
+        <summary type="html"><![CDATA[企业数字化最大的坑不是技术，是主数据——18年实战笔记 18年汽车行业数字化，甲方乙方都干过。从DMS运维起步，管过DMS/TMS/MES/PDM/BI，后来全面转数据方向，主导过CDP客户数据平台、数据中台、MA数字化运营平台的建设。持有CDGP数据治理专家认证。 这两段经历让我同时看过两件事：业]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[QT自定义控件之内嵌报表 - Littlehero_121]]></title>
+        <id>https://www.cnblogs.com/JJ-Wu/p/21920364</id>
+        <link href="https://www.cnblogs.com/JJ-Wu/p/21920364"/>
+        <updated>2026-07-25T13:40:00.000Z</updated>
+        <summary type="html"><![CDATA[一、古法炮制 在这个AI百花齐放的时期里，我们还在用QT手搓控件，自嘲为古法制作。众做周知，QWidget做界面不美（网友骂之更多），但其实亲身经历发现，它就是麻烦了，其实用心效果之后也能达到美观程度。在嵌入式，制造业领域，需要的复杂控件，我们正在学习研究中，期待后期能更好的跟大家见面。 二、报表介]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我给开源项目做门户，结果彩蛋比正站还费时间 - AneiangSoft]]></title>
+        <id>https://www.cnblogs.com/aneiangsoft/p/21920303</id>
+        <link href="https://www.cnblogs.com/aneiangsoft/p/21920303"/>
+        <updated>2026-07-25T13:32:00.000Z</updated>
+        <summary type="html"><![CDATA[做 AneiangSoft 的开源项目有一阵了，Aneiang.Yarp（API 网关）和 Aneiang.Pa（热榜爬虫）一直在维护，但始终缺一个像样的门户。 最近终于把 aneiang.com 做了出来。代码基本是 AI 辅助生成的，我负责想&quot;做什么、长什么样、梗怎么藏&quot;。 但这些不是重点。重点]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Smali By bithowl: Chapter 3 Android Bytecode Fundamentals]]></title>
+        <id>https://medium.com/p/8b2ea2403f46</id>
+        <link href="https://medium.com/@bithowl/smali-by-bithowl-chapter-3-android-bytecode-fundamentals-8b2ea2403f46?source=rss------bugbounty-5"/>
+        <updated>2026-07-25T13:04:01.000Z</updated>
+        <summary type="html"><![CDATA[(“Every Android App Speaks a Language Your Phone Understands”)
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>bithowl</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[列表查询的 GraphQL —— 一行代码终结你的 if-else 地狱！ - troyzhxu]]></title>
+        <id>https://www.cnblogs.com/zhoxu/p/21920168</id>
+        <link href="https://www.cnblogs.com/zhoxu/p/21920168"/>
+        <updated>2026-07-25T13:01:00.000Z</updated>
+        <summary type="html"><![CDATA[产品加一个筛选条件，你要改四层代码。这不是 MyBatis 的锅，也不是 JPA 的锅——是你把&quot;声明&quot;和&quot;执行&quot;混在了一起。如果列表查询有 GraphQL，会是什么样？]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Modified Collections I Did Not Own: IDOR]]></title>
+        <id>https://medium.com/p/856fb856a90e</id>
+        <link href="https://scriptjacker.medium.com/i-modified-collections-i-did-not-own-idor-856fb856a90e?source=rss------bugbounty-5"/>
+        <updated>2026-07-25T12:43:58.000Z</updated>
+        <summary type="html"><![CDATA[Hey Hackers, I am Parth Narula. A penetration tester, bug hunter, red teamer and overall a security researcher. I live for those moments…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Parth Narula</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building OmniScan: one console for offensive recon and scanning]]></title>
+        <id>https://medium.com/p/ccefd537902b</id>
+        <link href="https://medium.com/@medjahdii/building-omniscan-one-console-for-offensive-recon-and-scanning-ccefd537902b?source=rss------redteam-5"/>
+        <updated>2026-07-25T12:33:13.000Z</updated>
+        <summary type="html"><![CDATA[*A look at the tool, how it fits together, and an honest ask for your ideas before it goes open source.*
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>medjahdi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[分享: 如何利用workbuddy来构建批量自动化任务. - smartfish_liu]]></title>
+        <id>https://www.cnblogs.com/smartfishliu/p/21919950</id>
+        <link href="https://www.cnblogs.com/smartfishliu/p/21919950"/>
+        <updated>2026-07-25T12:29:00.000Z</updated>
+        <summary type="html"><![CDATA[本文实现利用workbuddy来 实现一个批量化的 复杂任务示例: 要完成的目标. 批量自动化地让 workbuddy实现 阅读链接, 先转纯文本保存, 再写出总结摘要保存, 最后提取10大关键字保存. 1. 第一步: 让workbuddy写一个python程序, 这个python程序能 向work]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一人公司OPC理念探索：如何把Agent业务做成闭环 - AlfredZhao]]></title>
+        <id>https://www.cnblogs.com/jyzhao/p/21919756</id>
+        <link href="https://www.cnblogs.com/jyzhao/p/21919756"/>
+        <updated>2026-07-25T12:12:00.000Z</updated>
+        <summary type="html"><![CDATA[一人公司最近实在是太火了，但它并不是简单地“一个人干所有事”，而是把人的判断、AI的执行能力和清晰的业务边界组合起来。围绕“定制客户Agent”这个方向，笔者看到一个很有意思的闭环雏形：CEO负责沟通和决策，不同Agent负责产品、开发、验证和客服，最后再用用户反馈推动持续修复。 01 | 一人公司]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Real Web Vulnerabilities in a Banking Lab (3 Critical, 2 High)]]></title>
+        <id>https://medium.com/p/1c5b6a488891</id>
+        <link href="https://medium.com/@ronaega/real-web-vulnerabilities-in-a-banking-lab-3-critical-2-high-1c5b6a488891?source=rss------bugbounty-5"/>
+        <updated>2026-07-25T11:56:27.000Z</updated>
+        <summary type="html"><![CDATA[Disclaimer
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Rona Ega Kharisma</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OSINT 101 — Hacking With Nothing but Public Info]]></title>
+        <id>https://medium.com/p/f3a4e61da479</id>
+        <link href="https://kd-200.medium.com/osint-101-hacking-with-nothing-but-public-info-f3a4e61da479?source=rss------bugbounty-5"/>
+        <updated>2026-07-25T11:31:01.000Z</updated>
+        <summary type="html"><![CDATA[Hey everyone! Nitin here 👋
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Nitin yadav</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[带旋 Treap 解析 - deepsleep]]></title>
+        <id>https://www.cnblogs.com/DeepSleep0629/p/21919467</id>
+        <link href="https://www.cnblogs.com/DeepSleep0629/p/21919467"/>
+        <updated>2026-07-25T11:24:00.000Z</updated>
+        <summary type="html"><![CDATA[Treap 是一种依靠随机权值维护平衡性的平衡树，支持插入、删除、第 $k$ 小、排名、前驱、后继等平衡树的基本功能。Treap 利用堆和平衡树的性质，其中堆使用的是随机优先级作为关键字。]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How I Went From Interview Rejections to Building a 200+ Question Open‑Source Cybersecurity Resource]]></title>
+        <id>https://medium.com/p/260d469a9fe3</id>
+        <link href="https://meetcyber.net/how-i-went-from-interview-rejections-to-building-a-200-question-open-source-cybersecurity-resource-260d469a9fe3?source=rss------redteam-5"/>
+        <updated>2026-07-25T11:14:10.000Z</updated>
+        <summary type="html"><![CDATA[And why I’m giving it away for free.
+Continue reading on MeetCyber »]]></summary>
+        <author>
+            <name>Excalibra</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“SSTI-1” | PicoCTF Walkthrough | CyLab writeup | DAY — 03]]></title>
+        <id>https://medium.com/p/5b8cdb33e933</id>
+        <link href="https://roni-hasan996.medium.com/ssti-1-picoctf-walkthrough-cylab-writeup-day-03-5b8cdb33e933?source=rss------bugbounty-5"/>
+        <updated>2026-07-25T11:08:31.000Z</updated>
+        <summary type="html"><![CDATA[Lets start our 3rd Web Exploitation Challenge.
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Roni Hasan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[深度优先遍历题目题解 - zhhhanry]]></title>
+        <id>https://www.cnblogs.com/zhhhanry/p/21918356</id>
+        <link href="https://www.cnblogs.com/zhhhanry/p/21918356"/>
+        <updated>2026-07-25T10:19:00.000Z</updated>
+        <summary type="html"><![CDATA[1.滑雪比赛 题目： 狗狗们的全国冬季滑雪运动会的场地是一个M*N的矩阵。矩阵中的每个小方格上的数代表的是每块地方的高度，范围是0到1000000000之间的整数。 矩阵中某些小方格被认为是中转点，主办方希望能够设置一个最小的D值，使得每只狗狗从任意一个中转点出发都可以到达其他任意的中转点。每次行走]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【开源项目】开源智能排产系统深度研究报告（第一部分） - doiito]]></title>
+        <id>https://www.cnblogs.com/doiito/p/21918241</id>
+        <link href="https://www.cnblogs.com/doiito/p/21918241"/>
+        <updated>2026-07-25T10:15:00.000Z</updated>
+        <summary type="html"><![CDATA[开源智能排产系统深度研究报告 研究对象：frePPLe、Timefold Solver、Google OR-Tools 研究目标：深度分析三大开源项目的排产算法、功能特性、生产可用性，并给出最优组合技术方案 报告日期：2026-07-25 报告格式：Markdown（含 Mermaid 图形） 目录]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BAOWUNOJ平分石头 - 陈晨2011]]></title>
+        <id>https://www.cnblogs.com/chenchen2011/p/21912445</id>
+        <link href="https://www.cnblogs.com/chenchen2011/p/21912445"/>
+        <updated>2026-07-25T07:30:00.000Z</updated>
+        <summary type="html"><![CDATA[题目 题目描述 给定 N 块石头与目标数值 M，每块石头只能选或者不选，从中挑选若干块石头，使得选出石头的总质量最接近 M，输出这个总质量。 输入格式第一行两个整数 N、M； 接下来 N 行，每行一个整数，表示单块石头的质量。输出格式输出满足条件的石头总质量。 数据范围 (0 &lt; N &lt; 200)]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在 JetBrains IDE 中接入 OpenCode 并配置自定义模型 - SharpCJ]]></title>
+        <id>https://www.cnblogs.com/joy99/p/21897539</id>
+        <link href="https://www.cnblogs.com/joy99/p/21897539"/>
+        <updated>2026-07-25T06:29:00.000Z</updated>
+        <summary type="html"><![CDATA[OpenCode 是一款开源 AI 编程代理，目前在 GitHub 上拥有超过 16 万颗 Star，月活开发者超过 750 万。它支持终端、桌面应用和 IDE 扩展等多种使用方式，并且由于隐私优先的设计——不存储你的代码和上下文数据——在对隐私敏感的开发环境中也能放心使用。 OpenCode 的一]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From Zero to Domain Admin: Phase 3: Update the weaponry]]></title>
+        <id>https://medium.com/p/613d7f46458e</id>
+        <link href="https://medium.com/@blackcat53/from-zero-to-domain-admin-phase-3-update-the-weaponry-613d7f46458e?source=rss------redteam-5"/>
+        <updated>2026-07-25T05:42:44.000Z</updated>
+        <summary type="html"><![CDATA[1. Update Kali tools: Run sudo apt update && sudo apt install -y impacket-scripts bloodhound netexec smbclient. Most of these are usually…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>BlackCat53</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From Zero to Domain Admin: Phase 2: Let’s break some things !!]]></title>
+        <id>https://medium.com/p/98eba4160c42</id>
+        <link href="https://medium.com/@blackcat53/from-zero-to-domain-admin-phase-2-lets-break-some-things-98eba4160c42?source=rss------redteam-5"/>
+        <updated>2026-07-25T05:16:39.000Z</updated>
+        <summary type="html"><![CDATA[We’ll create three realistic misconfigurations. Do these on the DC, logged in as blackcat.lab\Administrator
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>BlackCat53</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DuckDB 存储层到执行层： Segment、DataChunk、Filter 与 Morsel-Driven Hash Join 的完整执行过程 - aixueforever]]></title>
+        <id>https://www.cnblogs.com/aslanvon/p/21907390</id>
+        <link href="https://www.cnblogs.com/aslanvon/p/21907390"/>
+        <updated>2026-07-25T04:45:00.000Z</updated>
+        <summary type="html"><![CDATA[本文以 DuckDB 的向量化执行模型为背景，详细解释三个问题： 存储层中的 ColumnSegment 如何被扫描为执行层的 DataChunk； DataChunk 经过 Filter 时，是复制数据还是使用选择向量； 两个表各自的 morsel/DataChunk 如何先 Filter，再分]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[106 张镜头配方卡、161 段样片：这个 AI 技能让你的产品视频一秒拥有电影感 - lincats]]></title>
+        <id>https://www.cnblogs.com/lincats/p/21898570</id>
+        <link href="https://www.cnblogs.com/lincats/p/21898570"/>
+        <updated>2026-07-25T04:44:00.000Z</updated>
+        <summary type="html"><![CDATA[你打开 Remotion，想给产品做个宣传片。光标闪了十分钟，你还在纠结第一个镜头用什么动画、参数填多少。 不是你不会写代码——是从零设计一套动效语言，比写十个功能还累。一种动画手法（飞入、堆叠、翻页）全片只能当一次主角，106 种你要怎么选、怎么调？ 一个叫 Vincent Wei 的开发者把这件]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[腾讯Marvis用两周：我的电脑终于能听懂人话了 - 码哥字节]]></title>
         <id>https://www.cnblogs.com/uniqueDong/p/21902972</id>
