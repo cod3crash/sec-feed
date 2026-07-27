@@ -2,10 +2,378 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cod3crash.github.io/sec-feed/index.html</id>
     <title>security feed</title>
-    <updated>2026-07-26T03:38:59.505Z</updated>
+    <updated>2026-07-27T03:48:37.719Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://cod3crash.github.io/sec-feed/index.html"/>
     <link rel="self" href="https://cod3crash.github.io/sec-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[从 vibe coding 到 spec coding：Trellis 的实践总结 - yiwanbin]]></title>
+        <id>https://www.cnblogs.com/ywbmaster/p/21949208</id>
+        <link href="https://www.cnblogs.com/ywbmaster/p/21949208"/>
+        <updated>2026-07-27T03:12:00.000Z</updated>
+        <summary type="html"><![CDATA[grill-me、Trellis、Superpowers 到底该用哪个？ 现在用 ai 写代码很多时候都是一把梭的，也就是说我只需要给 ai 一个要求指令，剩下的就交给 ai了，现在模型能力确实越来越强，有时候我甚至可以不用 superpowers 这种工作流插件都可以做到很规范。所以这种 vibe]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[暑假周测题解1 - zhhhanry]]></title>
+        <id>https://www.cnblogs.com/zhhhanry/p/21947978</id>
+        <link href="https://www.cnblogs.com/zhhhanry/p/21947978"/>
+        <updated>2026-07-27T02:51:00.000Z</updated>
+        <summary type="html"><![CDATA[1.幸运数字 题目： 分析： 这道题目N最大是\(2^{60}\)，不会超过long long，\(log_4N\)最多也只有30，我们只需要每次给N除以4除以7就好了。 程序： #include&lt;bits/stdc++.h&gt; using namespace std; long long n,ans]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[spec-kit实战：我用SDD方法论解决AI编码幻觉问题 - 码哥字节]]></title>
+        <id>https://www.cnblogs.com/uniqueDong/p/21946414</id>
+        <link href="https://www.cnblogs.com/uniqueDong/p/21946414"/>
+        <updated>2026-07-27T02:28:00.000Z</updated>
+        <summary type="html"><![CDATA[不知道你有没有遇到过哲宏场景：使用 Cursor 写用户权限模块，vibe coding了3小时，代码跑起来才发现AI把角色继承的逻辑搞反了——我明明说过要RBAC0，它写成了RBAC1的继承方向。改到第5版的时候，AI已经忘了我最开始提的「不支持动态角色」的约束。 这种破事我起码遇到过十次。直到上]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[数据库主从有延迟怎么处理 - Rain的Java大神实战圈]]></title>
+        <id>https://www.cnblogs.com/zrui-xyu/p/21946121</id>
+        <link href="https://www.cnblogs.com/zrui-xyu/p/21946121"/>
+        <updated>2026-07-27T02:23:00.000Z</updated>
+        <summary type="html"><![CDATA[本文围绕 MySQL 主从延迟痛点展开面试场景解析，提出业务、数据库、架构分层优化思路。技术亮点：基于 AOP+ThreadLocal 实现零侵入 “写后 N 秒读主库” 路由、Redis 用户维度读写策略、pt-heartbeat 精准延迟监控，搭配 Nacos 动态配置自动降级；附带 Shard...]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Redis主从切换后，旧主恢复竟触发全量同步？——我猜错了，原因比想象中更严谨 - 暮色之狐]]></title>
+        <id>https://www.cnblogs.com/gloamfox/p/21944646</id>
+        <link href="https://www.cnblogs.com/gloamfox/p/21944646"/>
+        <updated>2026-07-27T02:00:00.000Z</updated>
+        <summary type="html"><![CDATA[上周做Redis故障演练，主节点A宕机，从节点B升主。A恢复后，我本以为它会走增量同步——毕竟B的缓冲区足够大，A的偏移量也在范围内。但日志显示：全量同步。这是怎么回事？ 如果你也遇到过类似的现象，或者单纯好奇Redis主从复制在故障转移后到底怎么决策的——这篇文章就是为你写的。我们不背八股文，而是]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Claude Code 最强Skills路由器：/ask-matt 完全上手指南（入门篇） - lincats]]></title>
+        <id>https://www.cnblogs.com/lincats/p/21936334</id>
+        <link href="https://www.cnblogs.com/lincats/p/21936334"/>
+        <updated>2026-07-27T01:22:00.000Z</updated>
+        <summary type="html"><![CDATA[很多人兴致勃勃地装了 Matt Pocock 的 Skills 之后，大概率只用过其中两三个。剩下的一直躺在列表里——不是没用，是你不知道什么时候用、按什么顺序用、用完之后下一步接什么。]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[高可用之路·观测篇-指标失明 - 无毁的湖光-Al]]></title>
+        <id>https://www.cnblogs.com/alchemystar/p/21935303</id>
+        <link href="https://www.cnblogs.com/alchemystar/p/21935303"/>
+        <updated>2026-07-27T01:20:00.000Z</updated>
+        <summary type="html"><![CDATA[高可用之路&#183;观测篇-指标失明 前言 紧接上篇&lt;&lt;高可用之路-闲聊监控指标的局限&gt;&gt;。上篇说到，指标只是事实的投影，由于代价的存在它无法无限的逼近真实。因此，指标自身的局限有时不仅无法帮助我们发现问题，反而可能迷惑甚至误导我们。本文将详细讨论指标局限最常见的一种表现——指标失明，即问题已经发生，指标却]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How I Found a Reflected XSS and Bypassed Wordfence WAF]]></title>
+        <id>https://medium.com/p/a7a120a0b952</id>
+        <link href="https://medium.com/@elko0k/how-i-found-a-reflected-xss-and-bypassed-wordfence-waf-a7a120a0b952?source=rss------bugbounty-5"/>
+        <updated>2026-07-27T01:19:14.000Z</updated>
+        <summary type="html"><![CDATA[Hello everyone,
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>elko0k</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[60 路并发出图率从 20% 到 90%：我踩的四个坑 - 荣--]]></title>
+        <id>https://www.cnblogs.com/Rong-/p/21942289</id>
+        <link href="https://www.cnblogs.com/Rong-/p/21942289"/>
+        <updated>2026-07-27T01:15:00.000Z</updated>
+        <summary type="html"><![CDATA[前言 我写了一套串行排队调度模块，上线压测后，8 秒出图率纹丝不动——还是 20%。 这不是一篇&quot;怎么排查出图慢&quot;的技术教程，那种文章 CSDN 上够多了。这篇写的是我在排查过程中犯的四个错：为什么错、错在哪一层、下一次怎么避开。 如果你也在做服务端性能优化，大概率会踩到同类坑——不是因为技术不够，]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[sync.Mutex 互斥锁 - FfHUCisI]]></title>
+        <id>https://www.cnblogs.com/guodonghui/p/21941820</id>
+        <link href="https://www.cnblogs.com/guodonghui/p/21941820"/>
+        <updated>2026-07-27T00:59:00.000Z</updated>
+        <summary type="html"><![CDATA[sync.Mutex 互斥锁 一、为什么需要互斥锁 当多个 goroutine 同时读写同一个变量时，会发生数据竞争（data race）。比如银行账户的例子： var balance int func Deposit(amount int) { balance = balance + amount]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RocketMQ 常见面试题与高频考点：从原理到实战的自我检验 - 佛祖让我来巡山]]></title>
+        <id>https://www.cnblogs.com/sun-10387834/p/21309898</id>
+        <link href="https://www.cnblogs.com/sun-10387834/p/21309898"/>
+        <updated>2026-07-27T00:49:00.000Z</updated>
+        <summary type="html"><![CDATA[RocketMQ 常见面试题与高频考点：从原理到实战的自我检验 系列第二十篇：生态整合与实战篇（四） 你好，又见面了。 这是 RocketMQ 系列文章的 收官之章，也是一份特别的礼物 —— 面试自查手册。 过去的十九篇文章，我们从“什么是消息队列”一路走到了“生产级规范与最佳实践”，完成了 Roc]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中国的 Agent 时代，正在从工程能力里长出来 - AlfredZhao]]></title>
+        <id>https://www.cnblogs.com/jyzhao/p/21941600</id>
+        <link href="https://www.cnblogs.com/jyzhao/p/21941600"/>
+        <updated>2026-07-27T00:49:00.000Z</updated>
+        <summary type="html"><![CDATA[当下 AI 不再只是用来写一小段代码，而是能接需求、拆任务、推进执行，最后交付一个项目。换句话说，它开始更像一个活生生的人。 01 | Agent 不只是大模型 如果把 Agent 写成一个简单公式，可以是： Agent = 大模型 + Harness 大模型像发动机，决定“跑得快不快”。Harne]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[踩了个大坑！K8s 挂载目录的日志，居然也在吃容器内存？ - 欢醉]]></title>
+        <id>https://www.cnblogs.com/zhangs1986/p/21655970</id>
+        <link href="https://www.cnblogs.com/zhangs1986/p/21655970"/>
+        <updated>2026-07-27T00:29:00.000Z</updated>
+        <summary type="html"><![CDATA[最近一直收到某个服务pod容器内存超过80%的告警，堆内存加上堆外内存目前看也只有1G左右，但pod内存却达到4G多，查来查去查到active_file对应的logs占用大量内存，目前现状是k8s中springboot服务日志挂载到宿主机/logs目录，/logs目录的所有日志大小有3G，容器内存显]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Breaches That Taught Me the OWASP Top 10]]></title>
+        <id>https://medium.com/p/439a9deb4cf2</id>
+        <link href="https://medium.com/@zuhamohammad0709/the-breaches-that-taught-me-the-owasp-top-10-439a9deb4cf2?source=rss------bugbounty-5"/>
+        <updated>2026-07-26T23:22:24.000Z</updated>
+        <summary type="html"><![CDATA[How reading real cyber breaches helped me understand web security — one story at a time.
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Sidratul Zuha Mohammad</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Found 15 Critical Vulnerabilities in One Afternoon]]></title>
+        <id>https://medium.com/p/c9f16e88f652</id>
+        <link href="https://infosecwriteups.com/i-found-15-critical-vulnerabilities-in-one-afternoon-c9f16e88f652?source=rss------bugbounty-5"/>
+        <updated>2026-07-26T22:55:53.000Z</updated>
+        <summary type="html"><![CDATA[The adrenaline rush of a successful bug bounty hunt, followed by the weight of responsibility.
+Continue reading on InfoSec Write-ups »]]></summary>
+        <author>
+            <name>Ismail Tasdelen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mastering Active Reconnaissance: The Art of Gathering Information Without Exploitation]]></title>
+        <id>https://medium.com/p/14f7aa58746b</id>
+        <link href="https://medium.com/@mohamedsamehms15/mastering-active-reconnaissance-the-art-of-gathering-information-without-exploitation-14f7aa58746b?source=rss------bugbounty-5"/>
+        <updated>2026-07-26T20:39:18.000Z</updated>
+        <summary type="html"><![CDATA[In the previous article, we explored Passive Reconnaissance, where information is collected without directly interacting with the target…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Mohamed Sameh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mastering Active Reconnaissance: The Art of Gathering Information Without Exploitation]]></title>
+        <id>https://medium.com/p/14f7aa58746b</id>
+        <link href="https://medium.com/@mohamedsamehms15/mastering-active-reconnaissance-the-art-of-gathering-information-without-exploitation-14f7aa58746b?source=rss------redteam-5"/>
+        <updated>2026-07-26T20:39:18.000Z</updated>
+        <summary type="html"><![CDATA[In the previous article, we explored Passive Reconnaissance, where information is collected without directly interacting with the target…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Mohamed Sameh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Two Simple but Amazing Pre-Account Takeover (ATO) Ideas]]></title>
+        <id>https://medium.com/p/b4a98311a5e9</id>
+        <link href="https://medium.com/@mo_0xnaser/two-simple-but-amazing-pre-account-takeover-ato-ideas-b4a98311a5e9?source=rss------bugbounty-5"/>
+        <updated>2026-07-26T18:04:35.000Z</updated>
+        <summary type="html"><![CDATA[بسم الله الرحمن الرحيم
+ الحمد لله، والصلاة والسلام على رسول الله.
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Mohamed Naser</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Releasing Faction 2.0 at BlackHat Arsenal 2026]]></title>
+        <id>https://medium.com/p/c7601986edc2</id>
+        <link href="https://we-are-faction.medium.com/releasing-faction-2-0-at-blackhat-arsenal-2026-c7601986edc2?source=rss------redteam-5"/>
+        <updated>2026-07-26T17:30:03.000Z</updated>
+        <summary type="html"><![CDATA[I’m excited to announce that I’ll be returning to Black Hat Arsenal 2026 in Las Vegas and SecTor 2026 in Canada to demo OWASP Faction 2.0
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Faction Security</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mastering Passive Reconnaissance]]></title>
+        <id>https://medium.com/p/27af81a777fd</id>
+        <link href="https://medium.com/@mohamedsamehms15/mastering-passive-reconnaissance-27af81a777fd?source=rss------bugbounty-5"/>
+        <updated>2026-07-26T16:06:36.000Z</updated>
+        <summary type="html"><![CDATA[Hello everyone!
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Mohamed Sameh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unauthenticated Disclosure of A/B Test Data in Convert Pro — How Two Forgotten AJAX Endpoints…]]></title>
+        <id>https://medium.com/p/dbefc9c3e440</id>
+        <link href="https://infosecwriteups.com/unauthenticated-disclosure-of-a-b-test-data-in-convert-pro-how-two-forgotten-ajax-endpoints-dbefc9c3e440?source=rss------bugbounty-5"/>
+        <updated>2026-07-26T15:54:17.000Z</updated>
+        <summary type="html"><![CDATA[Author: Shikhali Jamalzade 
+GitHub: alisalive 
+LinkedIn: camalzads
+Continue reading on InfoSec Write-ups »]]></summary>
+        <author>
+            <name>Shikhali Jamalzade</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PeekList: How Brave’s Playlist bypassed FaceID Protection for Private Tabs]]></title>
+        <id>https://medium.com/p/9d1691b077be</id>
+        <link href="https://infosecwriteups.com/peeklist-how-braves-playlist-bypassed-faceid-protection-for-private-tabs-9d1691b077be?source=rss------bugbounty-5"/>
+        <updated>2026-07-26T15:52:58.000Z</updated>
+        <summary type="html"><![CDATA[TL;DR
+Continue reading on InfoSec Write-ups »]]></summary>
+        <author>
+            <name>Aaron Thomas</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Scanners Lie]]></title>
+        <id>https://medium.com/p/21922cd7e8b8</id>
+        <link href="https://medium.com/@hdhffxfg/why-scanners-lie-21922cd7e8b8?source=rss------bugbounty-5"/>
+        <updated>2026-07-26T15:23:34.000Z</updated>
+        <summary type="html"><![CDATA[An honest look at the tool everyone trusts a little too much
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Yassin Hamada</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FHQ-Treap详细解析 - deepsleep]]></title>
+        <id>https://www.cnblogs.com/DeepSleep0629/p/21937145</id>
+        <link href="https://www.cnblogs.com/DeepSleep0629/p/21937145"/>
+        <updated>2026-07-26T15:02:00.000Z</updated>
+        <summary type="html"><![CDATA[FHQ-Treap 是一种不带旋的平衡树，和带旋版本一样都是用随机优先级完成平衡。不同的是，FHQ-Treap 是通过分裂和合并来插入和删除，也可以用于文艺平衡树。]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[写了一个全功能的 RocketMQ .NET 客户端：EventHorizon.RocketMQ - 黑洞视界]]></title>
+        <id>https://www.cnblogs.com/eventhorizon/p/21936572</id>
+        <link href="https://www.cnblogs.com/eventhorizon/p/21936572"/>
+        <updated>2026-07-26T13:58:00.000Z</updated>
+        <summary type="html"><![CDATA[目录前言功能概览它不是官方客户端的替代品快速接入先启动本地测试环境gRPC：通过 Proxy 连接 RocketMQ 5Remoting：通过 NameServer 发现 Broker多集群或多实例发送消息消费消息gRPC 的消费模型PushConsumerclassic Remoting 的消费模]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[When APIs Trust Too Much: The Hidden Risks of Broken Object Level Authorization (BOLA)]]></title>
+        <id>https://medium.com/p/289e0962e78f</id>
+        <link href="https://medium.com/@pritamtare029/when-apis-trust-too-much-the-hidden-risks-of-broken-object-level-authorization-bola-289e0962e78f?source=rss------bugbounty-5"/>
+        <updated>2026-07-26T13:43:26.000Z</updated>
+        <summary type="html"><![CDATA[Every modern application runs on APIs.
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Z3r0D4y</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[分布式链路追踪系统之skywalking java agent 的使用、skywalking web界面简介 - Linux-1874]]></title>
+        <id>https://www.cnblogs.com/qiuhom-1874/p/21920759</id>
+        <link href="https://www.cnblogs.com/qiuhom-1874/p/21920759"/>
+        <updated>2026-07-26T13:40:00.000Z</updated>
+        <summary type="html"><![CDATA[Apdex全称是(Application Performance Index,应用性能指数),是由Apdex联盟开放的用于评估应用性能的标准,Apdex 联盟起源于2004年,Apdex标准从用户的角度出发,提供了一个统一的测量和报告用户体验的方法,将其量化为范围为0-1的满意度评价,把最终用户的体...]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[QT自定义控件之纯水工艺流程图 - Littlehero_121]]></title>
+        <id>https://www.cnblogs.com/JJ-Wu/p/21936344</id>
+        <link href="https://www.cnblogs.com/JJ-Wu/p/21936344"/>
+        <updated>2026-07-26T13:25:00.000Z</updated>
+        <summary type="html"><![CDATA[一、背景介绍 之前每次用C++/QT时，大家的第一想法就是不够美观 但是有C++在，所以在性能相关的地方后端一般首选还是C/C++,而有一部分人，为了美观，则会舍弃掉QT原生的QWidget框架体系，转用Qt后端层+Electric前端层的形式。 每当有公司开启这种框架体系的时候，其实我是非常不能理]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[斜率优化DP - AC-wyr]]></title>
+        <id>https://www.cnblogs.com/ac-wyr/p/21936093</id>
+        <link href="https://www.cnblogs.com/ac-wyr/p/21936093"/>
+        <updated>2026-07-26T12:46:00.000Z</updated>
+        <summary type="html"><![CDATA[例题[P2900 USACO08MAR] Land Acquisition G - 洛谷 简要题意： 有 \(n\) 块大小为 \(w \times l\) 的土地，现在要购买所有土地，可以分组购买 对于每一组土地的价值定义为 \(max_w \times max_l\) ，即该组土地内所有土地最大]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Surging AI Agent：基于.NET 生态一站式本地大模型 + 向量检索微服务解决方案 - fanly11]]></title>
+        <id>https://www.cnblogs.com/fanliang11/p/21936042</id>
+        <link href="https://www.cnblogs.com/fanliang11/p/21936042"/>
+        <updated>2026-07-26T12:35:00.000Z</updated>
+        <summary type="html"><![CDATA[一、前言：传统.NET 分布式框架与 AI 本地部署的融合痛点 在.NET 微服务领域，Surging 一直是轻量化、高性能的分布式微服务标杆框架，依托模块化 RPC、服务注册发现、负载均衡能力，广泛应用于企业业务微服务开发。 但在 AI 赋能业务的落地阶段，开发者普遍面临两大割裂难题： 大模型、向]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Chinese AI Did Not Save Hugging Face. It Was the Tool the Defenders Were Allowed to Use.]]></title>
+        <id>https://medium.com/p/65f0f64548f6</id>
+        <link href="https://ai.plainenglish.io/the-chinese-ai-did-not-save-hugging-face-it-was-the-tool-the-defenders-were-allowed-to-use-65f0f64548f6?source=rss------redteam-5"/>
+        <updated>2026-07-26T12:26:25.000Z</updated>
+        <summary type="html"><![CDATA[GLM 5.2 had the capability to help. Open weights made that capability available when hosted models were not.
+Continue reading on Artificial Intelligence in Plain English »]]></summary>
+        <author>
+            <name>Gavin Tam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dart 基础入门 - SharpCJ]]></title>
+        <id>https://www.cnblogs.com/joy99/p/21935885</id>
+        <link href="https://www.cnblogs.com/joy99/p/21935885"/>
+        <updated>2026-07-26T12:04:00.000Z</updated>
+        <summary type="html"><![CDATA[目录一、Dart 语言介绍1.1 SDK 安装1.2 Hello World1.3 Dart 语言特点二、基础语法2.1 常见数据类型2.1.1 数值类型（int、double）2.1.2 字符串（String）2.1.3 布尔类型（bool）2.1.4 集合类型（List、Set、Map）2.1.]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EIP低代码平台 - 数据权限 - EIP低代码平台]]></title>
+        <id>https://www.cnblogs.com/eipworkflow/p/21903458</id>
+        <link href="https://www.cnblogs.com/eipworkflow/p/21903458"/>
+        <updated>2026-07-26T11:48:00.000Z</updated>
+        <summary type="html"><![CDATA[数据权限是EIP低代码平台RBAC权限体系**最底层的数据隔离屏障**，和菜单权限、按钮权限共同构成三层完整权限管控体系：菜单权限控制页面是否可见、按钮权限控制功能操作权限、数据权限控制用户能够读取哪些业务数据。模块支持可视化拼装生成数据权限过滤SQL表达式、绑定对应系统菜单、权限模板复用、角色绑定...]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Physical Security]]></title>
+        <id>https://medium.com/p/5fc4a58d11e4</id>
+        <link href="https://medium.com/@lekshmyanil13/physical-security-5fc4a58d11e4?source=rss------redteam-5"/>
+        <updated>2026-07-26T07:18:47.000Z</updated>
+        <summary type="html"><![CDATA[HID Attacks: Why Your Computer Trusts a Keyboard More Than It Trusts You
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Lekshmyanil</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OWASP API #2 — Broken Authentication: When APIs Forget to Verify Who You Are]]></title>
+        <id>https://medium.com/p/52132d2c1eb6</id>
+        <link href="https://medium.com/@narmadha484/owasp-api-2-broken-authentication-when-apis-forget-to-verify-who-you-are-52132d2c1eb6?source=rss------redteam-5"/>
+        <updated>2026-07-26T05:55:00.000Z</updated>
+        <summary type="html"><![CDATA[Imagine you arrive at an airport. Instead of checking your passport, the security officer simply asks:
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Narmadha</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[为什么越来越的人使用WebFlux？ - 苏三说技术]]></title>
         <id>https://www.cnblogs.com/12lisu/p/21927603</id>
