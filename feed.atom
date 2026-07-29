@@ -2,10 +2,631 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cod3crash.github.io/sec-feed/index.html</id>
     <title>security feed</title>
-    <updated>2026-07-28T03:18:59.337Z</updated>
+    <updated>2026-07-29T03:21:00.697Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://cod3crash.github.io/sec-feed/index.html"/>
     <link rel="self" href="https://cod3crash.github.io/sec-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[知识库向量数据库怎么选？我折腾了一圈，答案就三个字 - 码哥字节]]></title>
+        <id>https://www.cnblogs.com/uniqueDong/p/22028485</id>
+        <link href="https://www.cnblogs.com/uniqueDong/p/22028485"/>
+        <updated>2026-07-29T03:05:00.000Z</updated>
+        <summary type="html"><![CDATA[事情是这样的。 上一篇文章聊完三层检索策略之后，我盯着终端里的 docker ps 出神——里面躺着一个 Qdrant 容器，跑了快一个月，CPU 占用稳如老狗，但我一次查询都没往它那边发。 因为我发现我的 Chroma 跑得好好的。240 篇文章，5877 个 chunk，查询延迟没超过 1 秒，]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI Agent、架构决策记录与工程上下文治理：团队如何把隐性约束留在仓库里。 - AI小老六]]></title>
+        <id>https://www.cnblogs.com/ai-old-six/p/22027761</id>
+        <link href="https://www.cnblogs.com/ai-old-six/p/22027761"/>
+        <updated>2026-07-29T02:54:00.000Z</updated>
+        <summary type="html"><![CDATA[ADR 不是新概念。AI Agent 进入代码库后，它的价值被重新放大：代码库必须留下当初为什么这样做。 导语 很多团队都遇到过同一种维护现场。 接手一段老代码，看到一个明显不够优雅的实现：多绕了一层判断，缓存策略看起来保守，接口字段命名也不像今天的风格。第一反应通常是重构掉它。 但问题在于，这段代]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[日增量500万的表结构如何设计 - Rain的Java大神实战圈]]></title>
+        <id>https://www.cnblogs.com/zrui-xyu/p/22027804</id>
+        <link href="https://www.cnblogs.com/zrui-xyu/p/22027804"/>
+        <updated>2026-07-29T02:54:00.000Z</updated>
+        <summary type="html"><![CDATA[本文实战设计日增 500 万用户行为日志存储架构，采用 Kafka+MySQL 二级分库分表、Redis 热点缓存、冷热分层归档。分享位运算路由、优化雪花算法、Kafka 批量写入核心 Java 代码，梳理分表扩容、热点倾斜、时钟回拨等面试高频难点，附带真实系统设计面试模拟。]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[嵌入式底层入门：RP2040 里 ROM / SRAM / Flash 的真实用途 - FreakStudio]]></title>
+        <id>https://www.cnblogs.com/FreakEmbedded/p/22013875</id>
+        <link href="https://www.cnblogs.com/FreakEmbedded/p/22013875"/>
+        <updated>2026-07-29T02:21:00.000Z</updated>
+        <summary type="html"><![CDATA[这里，我们先先充几个核心 “映射” 概念（这是存储器访问的基础），再讲解存储器和 SRAM 的地址映射表，芯片里的资源（内存、寄存器、外设）要被访问，必须先 “编门牌号”，这就是 “映射” 的本质]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你可能会用到的一些CSS小技巧 - 一颗小行星-]]></title>
+        <id>https://www.cnblogs.com/chaosfe/p/22025257</id>
+        <link href="https://www.cnblogs.com/chaosfe/p/22025257"/>
+        <updated>2026-07-29T02:20:00.000Z</updated>
+        <summary type="html"><![CDATA[在日常前端开发中，我们经常会遇到一些看起来很简单，但处理起来又有点麻烦的问题： 图标太小，不容易点击 图片尺寸不统一，导致布局错乱 SVG 颜色不好控制 页面滚动到锚点后被顶部导航遮挡 想实现毛玻璃效果，却发现元素本身也被模糊了 想给不规则 PNG 添加阴影，却只能得到矩形阴影 很多时候，这些问题并]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Everything Is Input: SQL Injection Through Parameter Names]]></title>
+        <id>https://medium.com/p/83f517eee633</id>
+        <link href="https://clarkvoss.medium.com/everything-is-input-sql-injection-through-parameter-names-83f517eee633?source=rss------bugbounty-5"/>
+        <updated>2026-07-29T01:50:43.000Z</updated>
+        <summary type="html"><![CDATA[How a 500 error, a hunch, and a lot of manual testing led me to a SQL injection I had never seen before and why I had to write my own…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Clark Voss</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unauthenticated SSRF in Voxtelesys integration ('checkUrlForSsrf' Bypass via DNS rebinding)]]></title>
+        <id>https://hackerone.com/reports/3473145</id>
+        <link href="https://hackerone.com/reports/3473145"/>
+        <updated>2026-07-29T01:48:49.000Z</updated>
+        <summary type="html"><![CDATA[Rocket.Chat disclosed a bug submitted by button142857: https://hackerone.com/reports/3473145]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unauthenticated SSRF in Voxtelesys integration ('checkUrlForSsrf' Bypass via DNS rebinding)]]></title>
+        <id>https://hackerone.com/reports/3473145</id>
+        <link href="https://hackerone.com/reports/3473145"/>
+        <updated>2026-07-29T01:48:49.000Z</updated>
+        <summary type="html"><![CDATA[Rocket.Chat disclosed a bug submitted by button142857: https://hackerone.com/reports/3473145]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript 实现 RTF 转 PDF：React 项目完整教程 - LAYONTHEGROUND]]></title>
+        <id>https://www.cnblogs.com/jazz-z/p/22021754</id>
+        <link href="https://www.cnblogs.com/jazz-z/p/22021754"/>
+        <updated>2026-07-29T01:21:00.000Z</updated>
+        <summary type="html"><![CDATA[引言 在 Web 应用中处理文档格式转换一直是前端开发中的难点。传统方案通常依赖服务端接口，但这也带来了额外的服务器成本和网络延迟。随着 WebAssembly 技术的成熟，如今我们可以在浏览器端直接完成 RTF 到 PDF 的转换，本文将分享一种基于 WASM 的实现方案。 环境准备与安装配置 在]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[快速排序（Quick Sort） - FfHUCisI]]></title>
+        <id>https://www.cnblogs.com/guodonghui/p/22021505</id>
+        <link href="https://www.cnblogs.com/guodonghui/p/22021505"/>
+        <updated>2026-07-29T01:17:00.000Z</updated>
+        <summary type="html"><![CDATA[快速排序（Quick Sort） 一、核心思想 快速排序是实际工程中应用最广泛的排序算法，它的设计哲学可以概括为一个词——分治（Divide and Conquer）。 核心思路：选一个元素作为基准（pivot），把数组分成&quot;比 pivot 小&quot;和&quot;比 pivot 大&quot;两部分，然后对这两部分各自递归]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SQLcl 更新版本：从解压到 MCP 连接配置 - AlfredZhao]]></title>
+        <id>https://www.cnblogs.com/jyzhao/p/22021403</id>
+        <link href="https://www.cnblogs.com/jyzhao/p/22021403"/>
+        <updated>2026-07-29T01:14:00.000Z</updated>
+        <summary type="html"><![CDATA[SQLcl 更新并不复杂，核心步骤是把新版本解压到规划目录，再配置环境变量。如果需要给多个用户共享，还可以把环境变量放到 /etc/profile.d 下统一管理。笔者环境还涉及 MCP 连接配置，因此一并整理。 01 | 解压新版本 SQLcl 先创建工具目录，并进入该目录： mkdir -p /]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[One Photo. One Prompt. Exact Coordinates. [Claude Opus 5]]]></title>
+        <id>https://medium.com/p/6c3c5c854e24</id>
+        <link href="https://infosecwriteups.com/one-photo-one-prompt-exact-coordinates-claude-opus-5-6c3c5c854e24?source=rss------redteam-5"/>
+        <updated>2026-07-29T00:09:24.000Z</updated>
+        <summary type="html"><![CDATA[Hey ya’ll haven’t seen you in awhile. So this time I was bored, so I decided to test Claude’s ability to identify an exact coordinate of a…
+Continue reading on InfoSec Write-ups »]]></summary>
+        <author>
+            <name>popalltheshells</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Guía Definitiva de Seguridad en APIs: OWASP Top 10, Bypasses y Mitigación]]></title>
+        <id>https://medium.com/p/403c06ffb534</id>
+        <link href="https://medium.com/@jpablo13/gu%C3%ADa-definitiva-de-seguridad-en-apis-owasp-top-10-bypasses-y-mitigaci%C3%B3n-403c06ffb534?source=rss------bugbounty-5"/>
+        <updated>2026-07-29T00:01:02.000Z</updated>
+        <summary type="html"><![CDATA[Aprende a auditar y proteger APIs con OWASP API Security Top 10, técnicas de bypass WAF, exploits JWT y mitigación técnica.
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>JPablo13</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Found a Major SaaS Platform’s Internal Credentials by Calling an Endpoint They Forgot to Lock…]]></title>
+        <id>https://medium.com/p/5ebcd2bd830a</id>
+        <link href="https://cyphernova1337.medium.com/i-found-a-major-saas-platforms-internal-credentials-by-calling-an-endpoint-they-forgot-to-lock-5ebcd2bd830a?source=rss------bugbounty-5"/>
+        <updated>2026-07-28T23:12:01.000Z</updated>
+        <summary type="html"><![CDATA[There’s a class of vulnerability that doesn’t get enough attention in the bug bounty community. It’s not a SQL injection. It’s not a…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>CypherNova1337</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一文说清 Agent/Context/Memory/FunctionCalling/MCP/RAG/Subagent 本质 - 池树Note]]></title>
+        <id>https://www.cnblogs.com/chishunote/p/22019825</id>
+        <link href="https://www.cnblogs.com/chishunote/p/22019825"/>
+        <updated>2026-07-28T23:04:00.000Z</updated>
+        <summary type="html"><![CDATA[从 Manus 出圈，再到小龙虾爆火，Agent 的各种东西扑面而来。 各种新名词层出不穷：Context、Memory、Function Calling、MCP、Skill、RAG、Subagent…… 这篇文章，就让我们从头到尾进行一次盘点，整理一下这些 “新名词”。 虽然名字多，但其实都在讲一]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Remotion Skill vs HyperFrames Skill：AI视频圈两大技能包正面交锋，最好的对手，最好的搭档？ - AI钉子铺]]></title>
+        <id>https://www.cnblogs.com/lincats/p/22019764</id>
+        <link href="https://www.cnblogs.com/lincats/p/22019764"/>
+        <updated>2026-07-28T22:53:00.000Z</updated>
+        <summary type="html"><![CDATA[Remotion 是 Jonny Burger 在 2021 年开源的项目，GitHub 上 2 万多 star，用 React 组件写视频。HyperFrames 是 AI 视频公司 HeyGen 的开源项目，用 HTML + GSAP 时间轴写视频。它们最初都是程序员手写代码做动画的工具。后来各...]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Path Traversal Zafiyeti: Mantığı ve PortSwigger Lab Çözümü]]></title>
+        <id>https://medium.com/p/be300f503a18</id>
+        <link href="https://medium.com/@marvanalawi/path-traversal-zafiyeti-mant%C4%B1%C4%9F%C4%B1-ve-portswigger-lab-%C3%A7%C3%B6z%C3%BCm%C3%BC-be300f503a18?source=rss------bugbounty-5"/>
+        <updated>2026-07-28T21:05:13.000Z</updated>
+        <summary type="html"><![CDATA[Bugün Path Traversal açığını inceleyip lablar ile pekiştireceğiz.
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Marvan Alawi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Bug Hunters Skip Role-Based API Testing And How I Turned a Writer Token Into an SSRF]]></title>
+        <id>https://medium.com/p/55397afe9848</id>
+        <link href="https://cyphernova1337.medium.com/why-bug-hunters-skip-role-based-api-testing-and-how-i-turned-a-writer-token-into-an-ssrf-55397afe9848?source=rss------bugbounty-5"/>
+        <updated>2026-07-28T19:25:32.000Z</updated>
+        <summary type="html"><![CDATA[Most hunters test authentication. Almost nobody tests authorization at the role level.
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>CypherNova1337</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TryHackMe: Uma ótima plataforma para estudar Segurança cibernética e Hacking (e se preparar para…]]></title>
+        <id>https://medium.com/p/028be5d4aae3</id>
+        <link href="https://medium.com/@mateuscostarust/tryhackme-uma-%C3%B3tima-plataforma-para-estudar-seguran%C3%A7a-cibern%C3%A9tica-e-hacking-e-se-preparar-para-028be5d4aae3?source=rss------bugbounty-5"/>
+        <updated>2026-07-28T19:23:36.000Z</updated>
+        <summary type="html"><![CDATA[Uma das maneiras mais interessantes de se começar no mundo da segurança cibernética é através da plataforma “TryHackMe”, e nesse pequeno…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Mateus Costa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kioptrix Level 1 From Enumeration To Root]]></title>
+        <id>https://medium.com/p/80987a009702</id>
+        <link href="https://medium.com/@Mohamed_Sameh/kioptrix-level-1-from-enumeration-to-root-80987a009702?source=rss------bugbounty-5"/>
+        <updated>2026-07-28T16:27:04.000Z</updated>
+        <summary type="html"><![CDATA[How are you? Today we’re going to destroy an old system, the Kioptrix machine. Let’s not talk too much, let’s get started.
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Mohamed Sameh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Terraria CTF Challenge Write-up]]></title>
+        <id>https://medium.com/p/dd9c112fc6d9</id>
+        <link href="https://medium.com/@elyas786dehaty/terraria-ctf-challenge-write-up-dd9c112fc6d9?source=rss------bugbounty-5"/>
+        <updated>2026-07-28T16:17:32.000Z</updated>
+        <summary type="html"><![CDATA[Read how I solved a 31-level web security CTF challenge covering vulnerabilities like SQL Injection, SSRF, XXE, HTTP methods, OTP, cookies…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>DehatiSec</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Reported a Bug in Our Code, But My Senior Dev Got All the Credit]]></title>
+        <id>https://medium.com/p/e6595673f941</id>
+        <link href="https://bevijaygupta.medium.com/i-reported-a-bug-in-our-code-but-my-senior-dev-got-all-the-credit-e6595673f941?source=rss------bugbounty-5"/>
+        <updated>2026-07-28T16:04:48.000Z</updated>
+        <summary type="html"><![CDATA[A Cybersecurity Fresher’s Honest Story About Credit Theft, Silence, and Learning to Speak Up
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Vijay Kumar Gupta</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(BAC)Unprotected admin functionality with unpredictable URL]]></title>
+        <id>https://medium.com/p/e0a191f277b0</id>
+        <link href="https://medium.com/@abdallh.mohamed.abdallnaby/bac-unprotected-admin-functionality-with-unpredictable-url-e0a191f277b0?source=rss------bugbounty-5"/>
+        <updated>2026-07-28T15:54:49.000Z</updated>
+        <summary type="html"><![CDATA[hello hacker Continuing the (BAC) series Today we explain a New point in Brocken Access Control It is Unprotected admin functionality with…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Abdallh Mohamed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sandbox User Can Inject Rogue CA Certificate into OS Trust Store via Sudo-Allowed deploy-certificates.sh]]></title>
+        <id>https://hackerone.com/reports/3633146</id>
+        <link href="https://hackerone.com/reports/3633146"/>
+        <updated>2026-07-28T15:29:04.000Z</updated>
+        <summary type="html"><![CDATA[AWS VDP disclosed a bug submitted by mistercloudsec: https://hackerone.com/reports/3633146]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sandbox User Can Inject Rogue CA Certificate into OS Trust Store via Sudo-Allowed deploy-certificates.sh]]></title>
+        <id>https://hackerone.com/reports/3633146</id>
+        <link href="https://hackerone.com/reports/3633146"/>
+        <updated>2026-07-28T15:29:04.000Z</updated>
+        <summary type="html"><![CDATA[AWS VDP disclosed a bug submitted by mistercloudsec: https://hackerone.com/reports/3633146]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[开源了，一个人 + AI 肝出一个 AI 终端 | AShell 技术分享 - 幸福指北]]></title>
+        <id>https://www.cnblogs.com/oldcpu/p/22016630</id>
+        <link href="https://www.cnblogs.com/oldcpu/p/22016630"/>
+        <updated>2026-07-28T15:04:00.000Z</updated>
+        <summary type="html"><![CDATA[开源了，一个人 + AI 肝出一个 AI 终端 | AShell 技术分享 事情是这样的：我日常工作是全栈开发，前端 Vue/TS、后端 Node，顺便管着几十台服务器。Rust 只算入门水平，没写过桌面应用，也没碰过 SSH 协议实现——但用 AI 辅助编程，从零肝出了一个开源 AI 终端工]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[C# .NET 周刊 ｜2026 年 6 月 4 期 - InCerry]]></title>
+        <id>https://www.cnblogs.com/InCerry/p/-/dotnet_week_26_6_4</id>
+        <link href="https://www.cnblogs.com/InCerry/p/-/dotnet_week_26_6_4"/>
+        <updated>2026-07-28T15:03:00.000Z</updated>
+        <summary type="html"><![CDATA[C# .NET 周刊 ｜2026 年 6 月 4 期 2026-06-28 dotnet_week_26_6_4 国内文章 用 OllamaHub 让 Visual Studio Copilot 可以对接任意模型 https://www.cnblogs.com/lindexi/p/20687205]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[路由器刚刷的immortalWrt系统，我是如何配置ipv6的 - 三国梦回]]></title>
+        <id>https://www.cnblogs.com/grey-wolf/p/22016195</id>
+        <link href="https://www.cnblogs.com/grey-wolf/p/22016195"/>
+        <updated>2026-07-28T14:22:00.000Z</updated>
+        <summary type="html"><![CDATA[背景 这两天学习了下电脑连上路由器时，是怎么获取到ipv6的。在ipv4时代，ip地址，主要就是如下几个东西：ip、掩码、网关、dns服务器地址。一般在路由器上运行了dhcp的server，连上路由器，dhcp会自动给我们分配上述的几样东西，然后你就可以上网了。 ipv6时代，差得也不多，ipv6地]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[具身智能领域唯一一个不需要考虑sim2real的gap问题的领域 —— 无人机（UAV） - Angry_Panda]]></title>
+        <id>https://www.cnblogs.com/xyz/p/22016030</id>
+        <link href="https://www.cnblogs.com/xyz/p/22016030"/>
+        <updated>2026-07-28T13:58:00.000Z</updated>
+        <summary type="html"><![CDATA[四足机器人、双足机器人、四旋翼（六旋翼）无人机，这三个无人机器人是目前主流所认定的三大具身智能的实体。 其中，四足机器人、双足机器人，存在着一个有名的sim to real gap问题，也就是仿真和物理实际场景下的建模差距带来的算法性能下降的问题。 但是，神奇的是四旋翼无人机（UAV）却不存在这个问]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[QT自定义控件之化学工艺流程图 - Littlehero_121]]></title>
+        <id>https://www.cnblogs.com/JJ-Wu/p/22015914</id>
+        <link href="https://www.cnblogs.com/JJ-Wu/p/22015914"/>
+        <updated>2026-07-28T13:46:00.000Z</updated>
+        <summary type="html"><![CDATA[一、作品展示 这期作品依然是Qpainter画出来的，上来先展示下效果图 二、软件介绍 1、背景图片 这次我们实现的是一个化学工艺流程图。依然上的是我们的老演员，C++/qt，同时结合QPainter来画的，首先得来张背景图，显得有科技感的，这需要借助各大AI小助理上。这得多调教，经过一番调教之后。]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[25家巨头联名的那封公开信，为什么数字员工架构师应该逐字读一遍 - 张善友]]></title>
+        <id>https://www.cnblogs.com/shanyou/p/21979106</id>
+        <link href="https://www.cnblogs.com/shanyou/p/21979106"/>
+        <updated>2026-07-28T13:35:00.000Z</updated>
+        <summary type="html"><![CDATA[你构建的数字员工，其&quot;大脑&quot;的法律地位、技术形态和成本结构，刚刚被这个行业最重要的一批玩家集体确认过了。剩下的问题只是——你的架构跟上了没有]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hack Remote Windows Password using Phishing Login Prompt Exploit]]></title>
+        <id>https://medium.com/p/c9859bf3717a</id>
+        <link href="https://priyankachandrakar.medium.com/hack-remote-windows-password-using-phishing-login-prompt-exploit-c9859bf3717a?source=rss------redteam-5"/>
+        <updated>2026-07-28T13:16:11.000Z</updated>
+        <summary type="html"><![CDATA[A post-exploitation guide showing how a fake Windows login popup can be used to capture a victim’s credentials via Meterpreter.
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Priyankachandrakar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Set a New Password on a Victim PC Remotely (Post-Exploitation)]]></title>
+        <id>https://medium.com/p/5a570c0156bd</id>
+        <link href="https://priyankachandrakar.medium.com/set-a-new-password-on-a-victim-pc-remotely-post-exploitation-5a570c0156bd?source=rss------redteam-5"/>
+        <updated>2026-07-28T13:00:29.000Z</updated>
+        <summary type="html"><![CDATA[A post-exploitation guide showing how to remotely change a Windows user’s password using an active Meterpreter session.
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Priyankachandrakar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Agentic RL / 强化学习 / OPD】OpenClaw-RL 源码阅读笔记 --- (13)--- OPD实现 - 罗西的思考]]></title>
+        <id>https://www.cnblogs.com/rossiXYZ/p/21929065</id>
+        <link href="https://www.cnblogs.com/rossiXYZ/p/21929065"/>
+        <updated>2026-07-28T12:13:00.000Z</updated>
+        <summary type="html"><![CDATA[【Agentic RL / 强化学习 / OPD】OpenClaw-RL 源码阅读笔记 (13) OPD实现 目录【Agentic RL / 强化学习 / OPD】OpenClaw-RL 源码阅读笔记 (13) OPD实现0x00 概要0x01 基础背景1.1 通俗讲解1.2 数学形式1.3 OPD]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to recover deleted data from your iPhone]]></title>
+        <id>https://blog.elcomsoft.com/?p=13611</id>
+        <link href="https://blog.elcomsoft.com/2026/07/how-to-recover-deleted-data-from-your-iphone/"/>
+        <updated>2026-07-28T12:00:18.000Z</updated>
+        <summary type="html"><![CDATA[You accidentally deleted an important file from your iPhone, panicked, and hit the web looking for a way to get it back. Instantly, you’re hit with a barrage of search results pushing “iPhone data recovery” software. If you look closely, you’ll notice almost all of these apps are low-quality rebrands or slightly tweaked forks of […]]]></summary>
+        <author>
+            <name>Oleg Afonin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["Scaling Teams or Scaling Time? Memory Enabled Lifelong Learning in LLM Multi-Agent Systems" 论文笔记 - 绵满]]></title>
+        <id>https://www.cnblogs.com/mianmaner/p/22003317</id>
+        <link href="https://www.cnblogs.com/mianmaner/p/22003317"/>
+        <updated>2026-07-28T11:53:00.000Z</updated>
+        <summary type="html"><![CDATA[LLMA-Mem 目前挂在 Arxiv 26.04 上，探讨了 LLM 多智能体系统中 &quot;横向扩展团队规模&quot; 与 &quot;纵向积累时间经验&quot; 两种扩展维度之间的交互关系，提出通过记忆设计实现更高效的终身学习 背景 LLM 多智能体系统（Multi-Agent Systems, MAS）可以通过两个不同维度]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OWASP API #4 — Unrestricted Resource Consumption: When APIs Don’t Know When to Say “Enough”]]></title>
+        <id>https://medium.com/p/2845795261b0</id>
+        <link href="https://medium.com/@narmadha484/owasp-api-4-unrestricted-resource-consumption-when-apis-dont-know-when-to-say-enough-2845795261b0?source=rss------redteam-5"/>
+        <updated>2026-07-28T10:27:29.000Z</updated>
+        <summary type="html"><![CDATA[Imagine an e-commerce website that allows users to search for products.
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Narmadha</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[把动态扩展做成基础设施： 基于 PF4J 与 Spring 子容器的插件化实践 - 哒哒网络]]></title>
+        <id>https://www.cnblogs.com/sundaboke/p/22009086</id>
+        <link href="https://www.cnblogs.com/sundaboke/p/22009086"/>
+        <updated>2026-07-28T09:08:00.000Z</updated>
+        <summary type="html"><![CDATA[把动态扩展做成基础设施：sundablog 基于 PF4J 与 Spring 子容器的插件化实践 本文基于 sundablog 0.1.0-alpha 当前源码整理，运行基线为 Java 8、Spring Boot 2.7.6、PF4J 3.15.0。文中的类名、配置键、插件元数据和构建命令均来自仓]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How I found an IDOR in Google Classroom on Day 3 of my Hunting?]]></title>
+        <id>https://medium.com/p/abffd039406c</id>
+        <link href="https://infosecwriteups.com/how-i-found-an-idor-in-google-classroom-on-day-3-of-my-hunting-abffd039406c?source=rss----7b722bfd1b8d---4"/>
+        <updated>2026-07-28T08:56:56.000Z</updated>
+        <summary type="html"><![CDATA[Hello Guys,]]></summary>
+        <author>
+            <name>Marrij Ali Khan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How I found an IDOR in Google Classroom on Day 3 of my Hunting?]]></title>
+        <id>https://medium.com/p/abffd039406c</id>
+        <link href="https://infosecwriteups.com/how-i-found-an-idor-in-google-classroom-on-day-3-of-my-hunting-abffd039406c?source=rss----7b722bfd1b8d---4"/>
+        <updated>2026-07-28T08:56:56.000Z</updated>
+        <summary type="html"><![CDATA[Hello Guys,]]></summary>
+        <author>
+            <name>Marrij Ali Khan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[夜莺监控发布V9正式版，引入AI - IT运维监控]]></title>
+        <id>https://www.cnblogs.com/ulricqin/p/22005213</id>
+        <link href="https://www.cnblogs.com/ulricqin/p/22005213"/>
+        <updated>2026-07-28T08:18:00.000Z</updated>
+        <summary type="html"><![CDATA[核心要点 夜莺 v9.0.0 正式版已发布，从 v8.5.1 到 v9.0.0 历时半年、前后端合计上千个提交，是夜莺历史上体量最大的一次大版本迭代。 v9 的头号主线是 Nightingale AI：内置 AI 助手、20+ 个开箱即用的 Skill、大模型（LLM）集中配置管理，并可按页面智能推]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SYSVOL, GPP Credentials, and GPO Abuse: Three Attack Vectors in One Place]]></title>
+        <id>https://medium.com/p/2056e257d7ff</id>
+        <link href="https://systemweakness.com/sysvol-gpp-credentials-and-gpo-abuse-three-attack-vectors-in-one-place-2056e257d7ff?source=rss------redteam-5"/>
+        <updated>2026-07-28T08:02:56.000Z</updated>
+        <summary type="html"><![CDATA[Blog 13 of “Mastering Active Directory — Simplified.” Blog 12 covered Group Policy Objects, their structure, and the LSDOU processing…
+Continue reading on System Weakness »]]></summary>
+        <author>
+            <name>Atharva Deshmukh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TryHackMe(RootMe)- Write-Up]]></title>
+        <id>https://medium.com/p/f5b8bf96f1ba</id>
+        <link href="https://infosecwriteups.com/author-krish-gupta-f5b8bf96f1ba?source=rss----7b722bfd1b8d---4"/>
+        <updated>2026-07-28T07:56:04.000Z</updated>
+        <summary type="html"><![CDATA[Hey everyone! Today we’re solving the TryHackMe room RootMe —  with a detailed explanation of each step and tool used]]></summary>
+        <author>
+            <name>Krish Gupta</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TryHackMe(RootMe)- Write-Up]]></title>
+        <id>https://medium.com/p/f5b8bf96f1ba</id>
+        <link href="https://infosecwriteups.com/author-krish-gupta-f5b8bf96f1ba?source=rss----7b722bfd1b8d---4"/>
+        <updated>2026-07-28T07:56:04.000Z</updated>
+        <summary type="html"><![CDATA[Hey everyone! Today we’re solving the TryHackMe room RootMe —  with a detailed explanation of each step and tool used]]></summary>
+        <author>
+            <name>Krish Gupta</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tryhackme Room — W1seGuy | by Sahil Malvi]]></title>
+        <id>https://medium.com/p/2a82afa5a2b4</id>
+        <link href="https://infosecwriteups.com/tryhackme-room-w1seguy-by-sahil-malvi-2a82afa5a2b4?source=rss----7b722bfd1b8d---4"/>
+        <updated>2026-07-28T07:53:58.000Z</updated>
+        <summary type="html"><![CDATA[Here’s a link to the room: https://tryhackme.com/r/room/w1seguy]]></summary>
+        <author>
+            <name>Sahil Malvi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tryhackme Room — W1seGuy | by Sahil Malvi]]></title>
+        <id>https://medium.com/p/2a82afa5a2b4</id>
+        <link href="https://infosecwriteups.com/tryhackme-room-w1seguy-by-sahil-malvi-2a82afa5a2b4?source=rss----7b722bfd1b8d---4"/>
+        <updated>2026-07-28T07:53:58.000Z</updated>
+        <summary type="html"><![CDATA[Here’s a link to the room: https://tryhackme.com/r/room/w1seguy]]></summary>
+        <author>
+            <name>Sahil Malvi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Invisible Hack: How a Linux Bug Lets Anyone Become Root — Without Leaving a Single Trace]]></title>
+        <id>https://medium.com/p/c3f648b617d4</id>
+        <link href="https://infosecwriteups.com/the-invisible-hack-how-a-linux-bug-lets-anyone-become-root-without-leaving-a-single-trace-c3f648b617d4?source=rss----7b722bfd1b8d---4"/>
+        <updated>2026-07-28T07:53:45.000Z</updated>
+        <summary type="html"><![CDATA[A deep dive into CVE-2026–31431 — the vulnerability that breaks the most fundamental rule of computer security: that what’s on disk is what…]]></summary>
+        <author>
+            <name>Krish Gupta</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Invisible Hack: How a Linux Bug Lets Anyone Become Root — Without Leaving a Single Trace]]></title>
+        <id>https://medium.com/p/c3f648b617d4</id>
+        <link href="https://infosecwriteups.com/the-invisible-hack-how-a-linux-bug-lets-anyone-become-root-without-leaving-a-single-trace-c3f648b617d4?source=rss----7b722bfd1b8d---4"/>
+        <updated>2026-07-28T07:53:45.000Z</updated>
+        <summary type="html"><![CDATA[A deep dive into CVE-2026–31431 — the vulnerability that breaks the most fundamental rule of computer security: that what’s on disk is what…]]></summary>
+        <author>
+            <name>Krish Gupta</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Proxy — TryHackMe Active Directory Write-up]]></title>
+        <id>https://medium.com/p/24cd64923aea</id>
+        <link href="https://infosecwriteups.com/proxy-tryhackme-active-directory-write-up-24cd64923aea?source=rss----7b722bfd1b8d---4"/>
+        <updated>2026-07-28T07:48:54.000Z</updated>
+        <summary type="html"><![CDATA[By: Kavin Jindal (@Klevr)]]></summary>
+        <author>
+            <name>Avyukt Security</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Proxy — TryHackMe Active Directory Write-up]]></title>
+        <id>https://medium.com/p/24cd64923aea</id>
+        <link href="https://infosecwriteups.com/proxy-tryhackme-active-directory-write-up-24cd64923aea?source=rss----7b722bfd1b8d---4"/>
+        <updated>2026-07-28T07:48:54.000Z</updated>
+        <summary type="html"><![CDATA[By: Kavin Jindal (@Klevr)]]></summary>
+        <author>
+            <name>Avyukt Security</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Samba Spy — LetsDefend (Walkthrough)]]></title>
+        <id>https://medium.com/p/61bc86a1be20</id>
+        <link href="https://infosecwriteups.com/samba-spy-letsdefend-writeup-61bc86a1be20?source=rss----7b722bfd1b8d---4"/>
+        <updated>2026-07-28T07:44:48.000Z</updated>
+        <summary type="html"><![CDATA[Investigating a Malicious .jar file]]></summary>
+        <author>
+            <name>Prince Lassey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Samba Spy — LetsDefend (Walkthrough)]]></title>
+        <id>https://medium.com/p/61bc86a1be20</id>
+        <link href="https://infosecwriteups.com/samba-spy-letsdefend-writeup-61bc86a1be20?source=rss----7b722bfd1b8d---4"/>
+        <updated>2026-07-28T07:44:48.000Z</updated>
+        <summary type="html"><![CDATA[Investigating a Malicious .jar file]]></summary>
+        <author>
+            <name>Prince Lassey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unprotected admin functionality — PortSwigger Access control vulnerabilities Lab 1]]></title>
+        <id>https://medium.com/p/6f20abccfe14</id>
+        <link href="https://infosecwriteups.com/unprotected-admin-functionality-portswigger-access-control-vulnerabilities-lab-1-6f20abccfe14?source=rss----7b722bfd1b8d---4"/>
+        <updated>2026-07-28T07:43:06.000Z</updated>
+        <summary type="html"><![CDATA[Finding ID: BAC-Portswigger-001]]></summary>
+        <author>
+            <name>Zeyad Naguib</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unprotected admin functionality — PortSwigger Access control vulnerabilities Lab 1]]></title>
+        <id>https://medium.com/p/6f20abccfe14</id>
+        <link href="https://infosecwriteups.com/unprotected-admin-functionality-portswigger-access-control-vulnerabilities-lab-1-6f20abccfe14?source=rss----7b722bfd1b8d---4"/>
+        <updated>2026-07-28T07:43:06.000Z</updated>
+        <summary type="html"><![CDATA[Finding ID: BAC-Portswigger-001]]></summary>
+        <author>
+            <name>Zeyad Naguib</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How an Unpatched N-Day Let Any Anonymous Visitor Rewrite WooCommerce Prices in ND Booking]]></title>
+        <id>https://medium.com/p/65c69c9a32ef</id>
+        <link href="https://infosecwriteups.com/how-an-unpatched-n-day-let-any-anonymous-visitor-rewrite-woocommerce-prices-in-nd-booking-65c69c9a32ef?source=rss----7b722bfd1b8d---4"/>
+        <updated>2026-07-28T07:42:03.000Z</updated>
+        <summary type="html"><![CDATA[Author: Shikhali Jamalzade 
+GitHub: alisalive 
+LinkedIn: camalzads 
+Type: Independent Security Research | WordPress Plugin CVE Research]]></summary>
+        <author>
+            <name>Shikhali Jamalzade</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How an Unpatched N-Day Let Any Anonymous Visitor Rewrite WooCommerce Prices in ND Booking]]></title>
+        <id>https://medium.com/p/65c69c9a32ef</id>
+        <link href="https://infosecwriteups.com/how-an-unpatched-n-day-let-any-anonymous-visitor-rewrite-woocommerce-prices-in-nd-booking-65c69c9a32ef?source=rss----7b722bfd1b8d---4"/>
+        <updated>2026-07-28T07:42:03.000Z</updated>
+        <summary type="html"><![CDATA[Author: Shikhali Jamalzade 
+GitHub: alisalive 
+LinkedIn: camalzads 
+Type: Independent Security Research | WordPress Plugin CVE Research]]></summary>
+        <author>
+            <name>Shikhali Jamalzade</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PeekList: How Brave’s Playlist bypassed FaceID Protection for Private Tabs]]></title>
+        <id>https://medium.com/p/9d1691b077be</id>
+        <link href="https://infosecwriteups.com/peeklist-how-braves-playlist-bypassed-faceid-protection-for-private-tabs-9d1691b077be?source=rss----7b722bfd1b8d---4"/>
+        <updated>2026-07-28T07:41:35.000Z</updated>
+        <summary type="html"><![CDATA[TL;DR]]></summary>
+        <author>
+            <name>Aaron Thomas</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PeekList: How Brave’s Playlist bypassed FaceID Protection for Private Tabs]]></title>
+        <id>https://medium.com/p/9d1691b077be</id>
+        <link href="https://infosecwriteups.com/peeklist-how-braves-playlist-bypassed-faceid-protection-for-private-tabs-9d1691b077be?source=rss----7b722bfd1b8d---4"/>
+        <updated>2026-07-28T07:41:35.000Z</updated>
+        <summary type="html"><![CDATA[TL;DR]]></summary>
+        <author>
+            <name>Aaron Thomas</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Discovering an Time-Based Blind SQL Injection in a Tamil Nadu Government Web Portal (TANGEDCO)]]></title>
+        <id>https://medium.com/p/bbd48e761940</id>
+        <link href="https://infosecwriteups.com/discovering-an-time-based-blind-sql-injection-in-a-tamil-nadu-government-web-portal-tangedco-bbd48e761940?source=rss----7b722bfd1b8d---4"/>
+        <updated>2026-07-28T07:38:42.000Z</updated>
+        <summary type="html"><![CDATA[Hunting an Oracle Time-Based Blind SQL Injection: A Real Bug Bounty Journey]]></summary>
+        <author>
+            <name>Karthikeyan.V</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Discovering an Time-Based Blind SQL Injection in a Tamil Nadu Government Web Portal (TANGEDCO)]]></title>
+        <id>https://medium.com/p/bbd48e761940</id>
+        <link href="https://infosecwriteups.com/discovering-an-time-based-blind-sql-injection-in-a-tamil-nadu-government-web-portal-tangedco-bbd48e761940?source=rss----7b722bfd1b8d---4"/>
+        <updated>2026-07-28T07:38:42.000Z</updated>
+        <summary type="html"><![CDATA[Hunting an Oracle Time-Based Blind SQL Injection: A Real Bug Bounty Journey]]></summary>
+        <author>
+            <name>Karthikeyan.V</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[10000个状态，全部找到最优解——我的魔表求解器和上帝数对上了 - H_Elden]]></title>
         <id>https://www.cnblogs.com/h-elden/p/21988520</id>
@@ -14795,6 +15416,16 @@ Continue reading on Medium »]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Old Wine in a New Bottle: A Decade-Old lxd-Group Root, Re-Armed]]></title>
+        <id>https://bestwing.me/old-wine-in-a-new-bottle-lxd-group-root.html</id>
+        <link href="https://bestwing.me/old-wine-in-a-new-bottle-lxd-group-root.html"/>
+        <updated>2026-06-08T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[复盘 Ubuntu Server 默认 lxd 组成员关系如何与现代 LXD 安装机制组合，重新形成一条无需输入 sudo 密码的本地提权链。]]></summary>
+        <author>
+            <name>Swings' Blog 浮生若梦</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[AgentForge 智能体组件：与云驿插件平台构建全生态化的微服务一体化智能开发引擎 - fanly11]]></title>
         <id>https://www.cnblogs.com/fanliang11/p/20385768</id>
         <link href="https://www.cnblogs.com/fanliang11/p/20385768"/>
@@ -18231,7 +18862,7 @@ Continue reading Vulnerability & Patch Roundup — May 2026 at Sucuri Blog.]]></
         <updated>2026-05-28T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[围绕 Pwn2Own Berlin 2026，复盘 LiteLLM 四个版本中从低权限入口到容器 RCE 的四条利用链，以及补丁推进下不断重构攻击路径的过程。]]></summary>
         <author>
-            <name>Swing'Blog 浮生若梦</name>
+            <name>Swings' Blog 浮生若梦</name>
         </author>
     </entry>
     <entry>
@@ -19831,7 +20462,7 @@ Continue reading What is online gambling spam and what can I do about it? at Suc
         <updated>2026-04-27T16:17:31.000Z</updated>
         <summary type="html"><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><link rel="stylesheet" type="text/css" hr]]></summary>
         <author>
-            <name>Swing'Blog 浮生若梦</name>
+            <name>Swings' Blog 浮生若梦</name>
         </author>
     </entry>
     <entry>
@@ -20428,7 +21059,7 @@ With Chrome, you are able to leverage the full…]]></summary>
         <updated>2026-03-09T12:14:21.000Z</updated>
         <summary type="html"><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><link rel="stylesheet" type="text/css" hr]]></summary>
         <author>
-            <name>Swing'Blog 浮生若梦</name>
+            <name>Swings' Blog 浮生若梦</name>
         </author>
     </entry>
     <entry>
@@ -20470,7 +21101,7 @@ The post Top 7 Red Team Companies in India  appeared first on Payatu.]]></summa
         <updated>2026-02-07T04:00:00.000Z</updated>
         <summary type="html"><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><link rel="stylesheet" type="text/css" hr]]></summary>
         <author>
-            <name>Swing'Blog 浮生若梦</name>
+            <name>Swings' Blog 浮生若梦</name>
         </author>
     </entry>
     <entry>
@@ -20480,7 +21111,7 @@ The post Top 7 Red Team Companies in India  appeared first on Payatu.]]></summa
         <updated>2026-02-01T04:00:00.000Z</updated>
         <summary type="html"><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><link rel="stylesheet" type="text/css" hr]]></summary>
         <author>
-            <name>Swing'Blog 浮生若梦</name>
+            <name>Swings' Blog 浮生若梦</name>
         </author>
     </entry>
     <entry>
@@ -20704,7 +21335,7 @@ Before we truly begin, I m…]]></summary>
         <updated>2025-12-27T23:52:47.000Z</updated>
         <summary type="html"><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><link rel="stylesheet" type="text/css" hr]]></summary>
         <author>
-            <name>Swing'Blog 浮生若梦</name>
+            <name>Swings' Blog 浮生若梦</name>
         </author>
     </entry>
     <entry>
