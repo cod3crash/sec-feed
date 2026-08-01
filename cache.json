@@ -6,6 +6,26 @@
       "siteUrl": "http://h1.nobbd.de/",
       "articles": [
         {
+          "id": "https://hackerone.com/reports/3723248",
+          "author": null,
+          "description": "Node.js disclosed a bug submitted by nadav0077: https://hackerone.com/reports/3723248",
+          "link": "https://hackerone.com/reports/3723248",
+          "publishedOn": "2026-07-31T15:27:19.000Z",
+          "wordCount": 25,
+          "title": "HTTP Request Smuggling via Connection: close<TAB> in Node.js llhttp parser",
+          "imageUrl": "https://profile-photos.hackerone-user-content.com/variants/000/022/984/e600648ace4a8553247bce967d461a030aa81d49_original.png/f0e07660005686ec92c43da54c0094c1ac1b490ea8c5eac04a4081d912d6ce36"
+        },
+        {
+          "id": "https://hackerone.com/reports/3644182",
+          "author": null,
+          "description": "Tucows (VDP) disclosed a bug submitted by axolot23: https://hackerone.com/reports/3644182",
+          "link": "https://hackerone.com/reports/3644182",
+          "publishedOn": "2026-07-31T15:07:21.000Z",
+          "wordCount": 25,
+          "title": "Stored XSS in nameserver field on account settings page",
+          "imageUrl": "https://profile-photos.hackerone-user-content.com/variants/mkepvaoi246x9gzrqwg0kagw6pqb/f0e07660005686ec92c43da54c0094c1ac1b490ea8c5eac04a4081d912d6ce36"
+        },
+        {
           "id": "https://hackerone.com/reports/3606773",
           "author": null,
           "description": "phpBB disclosed a bug submitted by a7mmr: https://hackerone.com/reports/3606773",
@@ -3930,6 +3950,96 @@
       "siteUrl": "https://medium.com/tag/bugbounty/latest?source=rss------bugbounty-5",
       "articles": [
         {
+          "id": "https://medium.com/p/bfe4a423f3df",
+          "author": "Alvin Ferdiansyah",
+          "description": "alg=none x Attacker-Controlled Object Check\nContinue reading on Medium »",
+          "link": "https://alvinferd.medium.com/revisiting-jwt-token-forgery-attack-on-a-recent-bounty-target-bfe4a423f3df?source=rss------bugbounty-5",
+          "publishedOn": "2026-08-01T02:44:37.000Z",
+          "wordCount": 5609,
+          "title": "Revisiting JWT Token Forgery Attack on Recent Bounty Target",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*GmMG4qbzAFBbObG23LF3bA.png"
+        },
+        {
+          "id": "https://medium.com/p/773f20a323f5",
+          "author": "Lelouchzero",
+          "description": "Introduction\nContinue reading on Medium »",
+          "link": "https://medium.com/@Lelouchzero/how-i-found-a-critical-race-condition-on-kruidvat-a-step-by-step-bug-bounty-walkthrough-773f20a323f5?source=rss------bugbounty-5",
+          "publishedOn": "2026-08-01T00:30:47.000Z",
+          "wordCount": null,
+          "title": "How I Found a Critical Race Condition on Kruidvat — A Step-by-Step Bug Bounty Walkthrough",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/466213a1cb47",
+          "author": "Adhamkhairy",
+          "description": "The target was an application portal. You register, you fill out a genuinely ENORMOUS form, and at the end it generates a PDF of…\nContinue reading on Medium »",
+          "link": "https://0xsponge.medium.com/how-i-got-my-highest-payout-466213a1cb47?source=rss------bugbounty-5",
+          "publishedOn": "2026-07-31T21:01:01.000Z",
+          "wordCount": 3260,
+          "title": "How I Got My Highest Payout",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*uK49No-B5J4jP5zxC_Z8nQ.png"
+        },
+        {
+          "id": "https://medium.com/p/28fcf4af2dce",
+          "author": "eXpl0it_32",
+          "description": "For the last two years, most “AI hacking” hype has been about the model, how good is GPT-X or Claude-Y at finding a SQL injection. That…\nContinue reading on Medium »",
+          "link": "https://expl0it32.medium.com/the-harness-is-the-hack-what-agentic-ai-means-for-offensive-security-in-2026-28fcf4af2dce?source=rss------bugbounty-5",
+          "publishedOn": "2026-07-31T19:24:26.000Z",
+          "wordCount": 3905,
+          "title": "The Harness Is the Hack: What Agentic AI Means for Offensive Security in 2026",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*NAYAmqfu_XjY_YST5Zxa_Q.png"
+        },
+        {
+          "id": "https://medium.com/p/760d9fb6a313",
+          "author": "͏ ͏Dukrov",
+          "description": "It’s been a while since I put a writeup up here, so I’m dusting off one of my favorites. The target was a user-management / identity…\nContinue reading on Medium »",
+          "link": "https://dukrov.medium.com/bypassing-account-sign-up-restrictions-with-a-unicode-character-760d9fb6a313?source=rss------bugbounty-5",
+          "publishedOn": "2026-07-31T19:14:40.000Z",
+          "wordCount": 2785,
+          "title": "Bypassing Account Sign-up Restrictions with a Unicode Character",
+          "imageUrl": "https://miro.medium.com/v2/da:true/bc1f8416df0cad099e43cda2872716e5864f18a73bda2a7547ea082aca9b5632"
+        },
+        {
+          "id": "https://medium.com/p/ab9bcc411641",
+          "author": "͏ ͏Dukrov",
+          "description": "Been meaning to write this one up since December. It’s a HR platform, name left out, and the bug is one of those ones where you can tell…\nContinue reading on Medium »",
+          "link": "https://dukrov.medium.com/zero-click-admin-takeover-via-unguarded-login-email-ab9bcc411641?source=rss------bugbounty-5",
+          "publishedOn": "2026-07-31T19:12:34.000Z",
+          "wordCount": 2680,
+          "title": "Zero-click Admin Takeover via Unguarded login_email",
+          "imageUrl": "https://miro.medium.com/v2/da:true/bc1f8416df0cad099e43cda2872716e5864f18a73bda2a7547ea082aca9b5632"
+        },
+        {
+          "id": "https://medium.com/p/d29d829da629",
+          "author": "ghostyjoe",
+          "description": "Stop Running Tools Blindly — Start Seeing Attack Paths Inside Active Directory\nContinue reading on Bug Bounty Hunting: A Comprehensive Guide in English and french »",
+          "link": "https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/bloodhound-part-1-what-it-is-and-why-it-changes-everything-d29d829da629?source=rss------bugbounty-5",
+          "publishedOn": "2026-07-31T17:17:59.000Z",
+          "wordCount": null,
+          "title": "BloodHound Part 1 — What It Is and Why It Changes Everything",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/ce2cb9349e38",
+          "author": "Hassan saad",
+          "description": "بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ\nContinue reading on Medium »",
+          "link": "https://medium.com/@hs942422/broken-access-control-a-non-admin-user-can-change-site-configuration-ce2cb9349e38?source=rss------bugbounty-5",
+          "publishedOn": "2026-07-31T15:29:43.000Z",
+          "wordCount": null,
+          "title": "Broken Access Control: A Non-Admin User Can Change Site Configuration",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/67b2ae39800c",
+          "author": "mo7med elta7an",
+          "description": "بسم الله و الصلاة و السلام علي رسول الله\nContinue reading on Medium »",
+          "link": "https://medium.com/@mo7medelta7an/blind-xss-vulnerability-that-performs-actions-on-behalf-of-the-administrator-67b2ae39800c?source=rss------bugbounty-5",
+          "publishedOn": "2026-07-31T15:09:57.000Z",
+          "wordCount": null,
+          "title": "blind XSS vulnerability that performs actions on behalf of the administrator.",
+          "imageUrl": null
+        },
+        {
           "id": "https://medium.com/p/e1cb6ab27dc5",
           "author": "tinopreter",
           "description": "Akwaaba! guys. I’ve finally got around to putting this one together. As usual, some of my good works $1,500 Email Verification Bypass and…\nContinue reading on Medium »",
@@ -7366,6 +7476,76 @@
       "feedUrl": "https://medium.com/feed/tag/redteam",
       "siteUrl": "https://medium.com/tag/redteam/latest?source=rss------redteam-5",
       "articles": [
+        {
+          "id": "https://medium.com/p/dd5b7cbb9c98",
+          "author": "CyberHeatRadar",
+          "description": "Testing process execution through both Windows Sessions and Beacons\nContinue reading on Medium »",
+          "link": "https://cyberheatradar.medium.com/adding-proc-execute-to-sliver-mcp-and-running-it-from-claude-code-dd5b7cbb9c98?source=rss------redteam-5",
+          "publishedOn": "2026-07-31T23:58:51.000Z",
+          "wordCount": 4098,
+          "title": "Adding proc_execute to Sliver MCP and Running It from Claude Code",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*F72B-Kgn4dRQMDD9z0B7iA.png"
+        },
+        {
+          "id": "https://medium.com/p/e3e8398de77a",
+          "author": "Vinayakpawar",
+          "description": "Learn mobile application pentesting through static analysis, MobSF, and the OWASP Mobile Top 10.\nContinue reading on Medium »",
+          "link": "https://medium.com/@vinayakpawar2518/mobile-application-security-e3e8398de77a?source=rss------redteam-5",
+          "publishedOn": "2026-07-31T17:27:24.000Z",
+          "wordCount": null,
+          "title": "Mobile Application Security",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/51c4357ff537",
+          "author": "Zeliha Zengin",
+          "description": "*THM Room:** https://tryhackme.com/room/zeliha-forgottenbackup\nContinue reading on Medium »",
+          "link": "https://medium.com/@zeliharich/operation-forgotten-backup-51c4357ff537?source=rss------redteam-5",
+          "publishedOn": "2026-07-31T15:41:01.000Z",
+          "wordCount": null,
+          "title": "Operation: Forgotten Backup",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/4aa483d88ad0",
+          "author": "Vishwa Mehta aka Eevee",
+          "description": "Transitioning into cybersecurity is often framed around certifications, textbook theory, and guided lab environments like TryHackMe or…\nContinue reading on Medium »",
+          "link": "https://medium.com/@vishwamehtaofficial/from-developer-mindset-to-security-researcher-what-my-first-bug-bounty-hunt-taught-me-4aa483d88ad0?source=rss------redteam-5",
+          "publishedOn": "2026-07-31T13:20:00.000Z",
+          "wordCount": null,
+          "title": "From Developer Mindset to Security Researcher: What My First Bug Bounty Hunt Taught Me",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/db3d821e7860",
+          "author": "Narmadha",
+          "description": "Imagine an e-commerce application that allows users to redeem discount coupons.\nContinue reading on Medium »",
+          "link": "https://medium.com/@narmadha484/owasp-api-6-unrestricted-access-to-sensitive-business-flows-when-legitimate-apis-are-abused-db3d821e7860?source=rss------redteam-5",
+          "publishedOn": "2026-07-31T10:50:04.000Z",
+          "wordCount": null,
+          "title": "OWASP API #6 — Unrestricted Access to Sensitive Business Flows: When Legitimate APIs Are Abused",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/b52c1dbfb37d",
+          "author": "Trish",
+          "description": "This is the story of how I lost an entire week doing Cybersecurity Labs and honestly I would lose 10 more to GemForge Labs, the platform…\nContinue reading on OSINT Team »",
+          "link": "https://osintteam.blog/this-platform-turned-me-into-security-engineer-for-a-day-b52c1dbfb37d?source=rss------redteam-5",
+          "publishedOn": "2026-07-31T06:38:59.000Z",
+          "wordCount": 2847,
+          "title": "This Platform Turned me into Security Engineer for a Day",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*bAlbM3IuDtzPVi3ArRw3nQ.png"
+        },
+        {
+          "id": "https://medium.com/p/2350eeb8479d",
+          "author": "exz",
+          "description": "Structuring red team operations for safety, legality, and strategic impact\nContinue reading on Medium »",
+          "link": "https://eaxz3ro.medium.com/red-teaming-operational-governance-and-engagement-models-2350eeb8479d?source=rss------redteam-5",
+          "publishedOn": "2026-07-31T05:26:01.000Z",
+          "wordCount": 2736,
+          "title": "Red Teaming: Operational Governance and Engagement Models",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*HDJrojjfvuSqk4eUBIGZhA.png"
+        },
         {
           "id": "https://medium.com/p/3b6c6853a8ff",
           "author": "Joseph \"n3m0” KANKO",
@@ -11657,6 +11837,16 @@
       "siteUrl": "https://blog.sucuri.net/",
       "articles": [
         {
+          "id": "https://blog.sucuri.net/?p=36184",
+          "author": "Sucuri Malware Research Team",
+          "description": "Running a website means a single unpatched vulnerability can take it offline, harm your reputation, or require cleanup. Most compromises begin with automated attacks exploiting known software flaws, usually reported and disclosed already.\nTo keep you protected from these threats, we’ve compiled this month’s key security updates and vulnerability patches for the WordPress ecosystem.\nIf you’re already using the Sucuri Firewall, you’re protected. These vulnerabilities are virtually patched for all clients.\nContinue reading Vulnerability & Patch Roundup — July 2026 at Sucuri Blog.",
+          "link": "https://blog.sucuri.net/2026/07/vulnerability-patch-roundup-july-2026.html",
+          "publishedOn": "2026-07-31T23:28:30.000Z",
+          "wordCount": 7739,
+          "title": "Vulnerability & Patch Roundup — July 2026",
+          "imageUrl": "https://blog.sucuri.net/wp-content/uploads/2026/07/Sucuri-Vulnerability-Roundup-July-2026.png"
+        },
+        {
           "id": "https://blog.sucuri.net/?p=36169",
           "author": "Sucuri",
           "description": "WordPress updates help close known vulnerabilities before automated attacks can find and exploit them. Once a patch is released, attackers often move quickly to scan for sites that have not yet updated.\nIt’s easy to put off updates when everything seems to be working. But once a vulnerability is public, attackers do not need to single out your site. Automated bots scan thousands of sites for outdated WordPress core, plugins, themes, and server setups.\nContinue reading Why Delaying WordPress Updates Increases Security Risks at Sucuri Blog.",
@@ -11883,6 +12073,21 @@
       "feedUrl": "https://blog.elcomsoft.com/feed/",
       "siteUrl": "https://blog.elcomsoft.com",
       "articles": [
+        {
+          "id": "https://blog.elcomsoft.com/?p=13622",
+          "author": "Oleg Afonin",
+          "description": "An iCloud backup is often the only surviving copy of data no longer on the device. Two ordinary situations show why, and neither involves anything clever on the suspect’s part. What could possibly go wrong, and how can you access the data? Case one: the update that went wrong Updates fail, usually for a boring […]",
+          "link": "https://blog.elcomsoft.com/2026/07/when-the-icloud-backup-is-the-only-copy-left/",
+          "publishedOn": "2026-07-31T12:00:47.000Z",
+          "wordCount": 2303,
+          "title": "When the iCloud Backup Is the Only Copy Left",
+          "enclosure": {
+            "url": "https://blog.elcomsoft.com/wp-content/uploads/2022/07/icloud.jpg",
+            "length": "155948",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://blog.elcomsoft.com/wp-content/uploads/2022/07/icloud.jpg"
+        },
         {
           "id": "https://blog.elcomsoft.com/?p=13595",
           "author": "Oleg Afonin",
@@ -12334,6 +12539,156 @@
       "siteUrl": null,
       "articles": [
         {
+          "id": "https://www.cnblogs.com/wackysoft/p/22122879",
+          "author": null,
+          "description": "前言大家好，我是wacky。最近AI相关的新闻几乎每天刷屏，朋友圈里一半在晒用AI生成的图片，另一半在担忧AI会不会取代自己的工作。作为一个技术人，我觉得有必要聊一聊AI到底是什么——不是那种&quot;颠覆未来&quot;的宏大叙事，而是从它的底层原理出发，搞清楚它能做什么、不能做什么，以及它正在往哪里走。LLM的本",
+          "link": "https://www.cnblogs.com/wackysoft/p/22122879",
+          "publishedOn": "2026-08-01T01:47:00.000Z",
+          "wordCount": 263,
+          "title": "戏说AI：概率、幻觉与智能体 - Wackysoft",
+          "imageUrl": "https://img2024.cnblogs.com/blog/443744/202608/443744-20260801094645631-1631736733.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/SudosuBash/p/22122804",
+          "author": null,
+          "description": "1 前言 Just for fun, won&#39;t be as big and professional as GNU. -- Linus Torvalds 2020 年的美好的一天. 当时是疫情, 我正在悠哉悠哉地上着学校的网课(摸鱼bushi). 正好当时我着迷黑苹果, 于是就打算在我家那台电脑上",
+          "link": "https://www.cnblogs.com/SudosuBash/p/22122804",
+          "publishedOn": "2026-08-01T01:44:00.000Z",
+          "wordCount": 1794,
+          "title": "[一些好玩的事情] Kernel Panic 的真相和一份实验报告 -- 致 6 年前的自己 - SudosuBash",
+          "imageUrl": "https://img2024.cnblogs.com/blog/3597783/202608/3597783-20260801093831891-140199072.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/jinjiangongzuoshi/p/22121883",
+          "author": null,
+          "description": "上一篇我们聊了 ui-page-parser，解决了 UI 自动化「抓元素」的痛点，拿到了一份标准化的 pages.yaml。 但拿到页面元素定义只是第一步。接下来的事情，可能比抓元素更折磨人。 写过 UI 自动化脚本的同学，看看这些场景熟不熟悉： POM 类写到手抽筋。 每个页面要封装一个 Pag",
+          "link": "https://www.cnblogs.com/jinjiangongzuoshi/p/22121883",
+          "publishedOn": "2026-08-01T00:42:00.000Z",
+          "wordCount": 1042,
+          "title": "AI 测试提效 ｜ 告别手工写脚本，分享我的 Playwright + Skill 批量生成 UI 自动化脚本方案 - 狂师",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/znlgis/p/22118023",
+          "author": null,
+          "description": "项目源起 OpenCSG.NET 并非从零开始，而是一次&quot;站在前人肩膀上&quot;的整合优化。它的技术血统可以追溯到 JavaScript 社区的一行经典代码： OpenJsCad csg.js（JavaScript 原始实现） └── praeclarum/Csg（手工 C# 移植） └── hypar-",
+          "link": "https://www.cnblogs.com/znlgis/p/22118023",
+          "publishedOn": "2026-07-31T16:18:00.000Z",
+          "wordCount": 1031,
+          "title": "OpenCSG.NET：一个 .NET CSG 几何建模库的技术剖析 - 我才是银古",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/ZeroTiny/p/22117699",
+          "author": null,
+          "description": "最近 AI 视频生成圈里，MiniMax H3 突然刷屏了。 如果你平时关注 AI 视频生成，应该已经看过 Hailuo、Kling、Seedance、Veo、Sora 这些名字。MiniMax H3 可以理解为 MiniMax 最新一代的视频生成模型，也有人会把它叫作 Hailuo 3.0 或 H",
+          "link": "https://www.cnblogs.com/ZeroTiny/p/22117699",
+          "publishedOn": "2026-07-31T15:30:00.000Z",
+          "wordCount": 695,
+          "title": "MiniMax H3 是什么？怎么用、免费体验方法、价格和实际效果整理 - mireka",
+          "imageUrl": "https://img2024.cnblogs.com/blog/370676/202607/370676-20260731231641265-16777342.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/h-elden/p/22117242",
+          "author": null,
+          "description": "本文详细介绍多元函数无约束优化中的最速下降法（又称梯度法）。该方法以负梯度方向为搜索方向，结合一维搜索确定最优步长逐步逼近极小值。文章系统阐述了其原理、几何性质（锯齿形路径）与收敛特性，并通过二元二次凸函数的手算实例与完整的C++代码实现，直观展示了算法流程。该方法原理简单、计算量小，是众多高级优化...",
+          "link": "https://www.cnblogs.com/h-elden/p/22117242",
+          "publishedOn": "2026-07-31T14:10:00.000Z",
+          "wordCount": 2522,
+          "title": "[最优化技术] 3-4 最速下降法（梯度法） - H_Elden",
+          "imageUrl": "https://img2024.cnblogs.com/blog/3633603/202607/3633603-20260731220611284-132363626.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/xiaobaiysf/p/22117003",
+          "author": null,
+          "description": "2026年7月31日，DeepSeek 在 API 更新日志里悄悄官宣：DeepSeek-V4-Flash-0731 正式版上线公测。没有发布会、没有预告，却让全球开发者圈直接沸腾——一个轻量版模型，在 Agent 能力上全面反超自家 Pro 旗舰，还把 OpenAI 的 Codex 生态给「策反」",
+          "link": "https://www.cnblogs.com/xiaobaiysf/p/22117003",
+          "publishedOn": "2026-07-31T13:23:00.000Z",
+          "wordCount": 1057,
+          "title": "倒反天罡！DeepSeek V4-Flash 正式版悄然上线：130亿激活参数，把自家1.6万亿旗舰「以下克上」 - 小白跃升坊",
+          "imageUrl": "https://img2024.cnblogs.com/blog/3600464/202607/3600464-20260731212445254-679262907.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/hnzhengfy/p/22085482/NodeMulti-version",
+          "author": null,
+          "description": "本文简单介绍了如何在 Windows 上，通过 nvm-windows 来安装多个 node.js 版本，并记录了几个遇到的问题，供参考。",
+          "link": "https://www.cnblogs.com/hnzhengfy/p/22085482/NodeMulti-version",
+          "publishedOn": "2026-07-31T10:30:00.000Z",
+          "wordCount": 1046,
+          "title": "Windows 上同时安装多个 node 版本 - 橙子家",
+          "imageUrl": "https://img2024.cnblogs.com/blog/1868241/202607/1868241-20260730225928646-1251948481.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/ai-go-hub/p/22111062",
+          "author": null,
+          "description": "这是一个系列 Blog，作者将以一个 PHP 全栈工程师的身份，利用 AI 工具（claude code、codex、deepseek、豆包等）：从零开始学习 golang 语言，并最终完成 ai-go-admin（github | gitee）开源项目的制作，全程记录分享。 在上一期，我们进行了",
+          "link": "https://www.cnblogs.com/ai-go-hub/p/22111062",
+          "publishedOn": "2026-07-31T09:08:00.000Z",
+          "wordCount": 780,
+          "title": "从 PHP 到 AI + Golang，程序员自救转型手记（四十四）：管理员账号管理 - 妙码生花",
+          "imageUrl": "https://img2024.cnblogs.com/blog/2897909/202607/2897909-20260731165601841-115084643.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/uniqueDong/p/22109023",
+          "author": null,
+          "description": "你有没有遇到过这种情况—— 花了一个周末写好 MCP Server，三个工具跑得飞起。丢给 Claude Code 用，结果 AI 全程不调用你的工具。查阅日志，发现它宁可自己编答案，也不碰你精心写好的接口。 更崩溃的是反过来：改了几行描述想让 AI 多用用，第二天发现它在跟用户说&quot;早上好&quot;的时候也",
+          "link": "https://www.cnblogs.com/uniqueDong/p/22109023",
+          "publishedOn": "2026-07-31T08:15:00.000Z",
+          "wordCount": 769,
+          "title": "改了20字描述，MCP工具调用准确率飙到85% - 码哥字节",
+          "imageUrl": "https://img2024.cnblogs.com/blog/735767/202605/735767-20260526114014236-744639895.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/Qiniu-developer/p/22106000",
+          "author": null,
+          "description": "Anthropic提出“上下文工程”（Context Engineering）新范式：Claude Opus 5/Fable 5删减超80%系统提示词，性能未降。核心转向“瘦提示-厚工件-瘦技能”，强调模型自主判断、渐进披露与高保真参考，告别冗余规则堆砌。",
+          "link": "https://www.cnblogs.com/Qiniu-developer/p/22106000",
+          "publishedOn": "2026-07-31T07:25:00.000Z",
+          "wordCount": 462,
+          "title": "Claude 新模型的上下文工程：从堆规则到设计上下文 - 小七-七牛开发者",
+          "imageUrl": "https://img2024.cnblogs.com/blog/3796273/202607/3796273-20260731152454793-1793121813.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/JuiceData/p/22102949",
+          "author": null,
+          "description": "随着大数据和 AI 业务发展，越来越多企业开始从存算一体架构转向存算分离架构。但在实际落地中，企业往往同时使用 COS、OBS、S3、HDFS 等多类存储系统，不同后端在协议、鉴权、文件系统语义和元数据性能上存在差异，给统一接入、数据利旧和缓存加速带来了挑战。 针对这些问题，腾讯云团队基于 Juic",
+          "link": "https://www.cnblogs.com/JuiceData/p/22102949",
+          "publishedOn": "2026-07-31T06:38:00.000Z",
+          "wordCount": 749,
+          "title": "腾讯云 x JuiceFS：基于 FoundationDB 的企业级统一存储实践 - JuiceFS",
+          "imageUrl": "https://img2024.cnblogs.com/blog/2544292/202607/2544292-20260731143720214-477163889.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/bgyb/p/22102795",
+          "author": null,
+          "description": "@目录前言简介一、准备工作1.1 图纸绘制1.2 材料清单1.3 电路图1.4 接线引脚二、实操演示2.1 上手实操三、固件烧录指南（自动版一键烧录）3.1 下载安装包3.2 解压刷机工具3.3 选择固件刷机3.4 配置网络升级固件3.5 管理机器人3.6 配置网络四、固件烧录指南（手动版自主烧录）",
+          "link": "https://www.cnblogs.com/bgyb/p/22102795",
+          "publishedOn": "2026-07-31T06:38:00.000Z",
+          "wordCount": 594,
+          "title": "硬核手工电子宠物｜桌面机器人制作教程 - 南国以南i",
+          "imageUrl": "https://img2024.cnblogs.com/blog/1867541/202607/1867541-20260731130801557-1379476387.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/sun-10387834/p/21739027",
+          "author": null,
+          "description": "大家好！今天咱们来聊聊如何在普通Spring项目 中集成LangChain4j，一步步构建一个功能完整的AI对话应用。 为啥要强调“普通Spring项目”？因为网上绝大多数教程都是Spring Boot的，但现实中很多老项目还是基于XML配置的Spring MVC，或者出于各种原因没法用Spring",
+          "link": "https://www.cnblogs.com/sun-10387834/p/21739027",
+          "publishedOn": "2026-07-31T04:58:00.000Z",
+          "wordCount": 4025,
+          "title": "LangChain4j + Spring项目保姆级教程 - 佛祖让我来巡山",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/didispace/p/22097161",
+          "author": null,
+          "description": "以前配置 AI 网关，像在修飞机发动机：Provider Key 一堆、优先级一串、策略藏在字段里，改完还要心里默念「这次会不会打到对的上游」。 2.0.0 把重点放在了路由配置上，这个版本的目标很朴素：用户打开页面，一眼看懂请求怎么走；点几下，就能配好多供应商、故障转移和分流策略。 开源地址： h",
+          "link": "https://www.cnblogs.com/didispace/p/22097161",
+          "publishedOn": "2026-07-31T03:33:00.000Z",
+          "wordCount": 402,
+          "title": "Octafuse Gateway 2.0 发布：路由配置大改造！目前最容易配置的 AI 网关，奶奶看了都会配！ - 程序猿DD",
+          "imageUrl": "https://img2024.cnblogs.com/blog/626506/202607/626506-20260731113236986-801142995.png"
+        },
+        {
           "id": "https://www.cnblogs.com/znlgis/p/22096569",
           "author": null,
           "description": "最近花了一整天时间，对我日常使用的一套 AI 编码 Agent 配置做了一次系统性瘦身。过程不复杂，但其中的思路值得记录——尤其是当你发现，删掉一段话比加一段话更难，也更有价值。 一个反直觉的事实 在 Prompt Engineering 中，我们总倾向于&quot;加&quot;。加一条规则、加一个示例、加一个兜底说",
@@ -12362,6 +12717,16 @@
           "wordCount": 535,
           "title": "WorkBuddy「人机双写」正式上线：AI 时代的 Office 来了 - 小白跃升坊",
           "imageUrl": "https://img2024.cnblogs.com/blog/3600464/202607/3600464-20260731102517168-365582483.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/hyly-mark/p/22092079",
+          "author": null,
+          "description": "前言 构建k8s集群大体可分为三种方式： 使用kubeadm或者封装了kubeadm的框架进行部署。 使用terraform在支持的云厂商进行部署。 直接购买云厂商现成的k8s集群产品。 这三种方式由难到易（其实难的也没多难，就是可能会稍微复杂一点点），这里记载使用terraform在腾讯云构建k8",
+          "link": "https://www.cnblogs.com/hyly-mark/p/22092079",
+          "publishedOn": "2026-07-31T01:59:00.000Z",
+          "wordCount": 321,
+          "title": "k8s集群serviceIP和podIP不够踩坑记录 - Markk",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
         },
         {
           "id": "https://www.cnblogs.com/zrui-xyu/p/22091680",
@@ -19580,6 +19945,26 @@
       "siteUrl": "http://h1.nobbd.de/",
       "articles": [
         {
+          "id": "https://hackerone.com/reports/3723248",
+          "author": null,
+          "description": "Node.js disclosed a bug submitted by nadav0077: https://hackerone.com/reports/3723248",
+          "link": "https://hackerone.com/reports/3723248",
+          "publishedOn": "2026-07-31T15:27:19.000Z",
+          "wordCount": 25,
+          "title": "HTTP Request Smuggling via Connection: close<TAB> in Node.js llhttp parser",
+          "imageUrl": "https://profile-photos.hackerone-user-content.com/variants/000/022/984/e600648ace4a8553247bce967d461a030aa81d49_original.png/f0e07660005686ec92c43da54c0094c1ac1b490ea8c5eac04a4081d912d6ce36"
+        },
+        {
+          "id": "https://hackerone.com/reports/3644182",
+          "author": null,
+          "description": "Tucows (VDP) disclosed a bug submitted by axolot23: https://hackerone.com/reports/3644182",
+          "link": "https://hackerone.com/reports/3644182",
+          "publishedOn": "2026-07-31T15:07:21.000Z",
+          "wordCount": 25,
+          "title": "Stored XSS in nameserver field on account settings page",
+          "imageUrl": "https://profile-photos.hackerone-user-content.com/variants/mkepvaoi246x9gzrqwg0kagw6pqb/f0e07660005686ec92c43da54c0094c1ac1b490ea8c5eac04a4081d912d6ce36"
+        },
+        {
           "id": "https://hackerone.com/reports/3606773",
           "author": null,
           "description": "phpBB disclosed a bug submitted by a7mmr: https://hackerone.com/reports/3606773",
@@ -19587,7 +19972,7 @@
           "publishedOn": "2026-07-30T20:29:27.000Z",
           "wordCount": 25,
           "title": "Stored XSS via SVG Upload  check_content() Blocklist Bypass & 256-Byte Scan Limit (Self-Propagating Worm)",
-          "imageUrl": "https://hackerone-us-west-2-production-attachments.s3.us-west-2.amazonaws.com/variants/qv48zkf423avl8lwrpzkjsh87o74/f0e07660005686ec92c43da54c0094c1ac1b490ea8c5eac04a4081d912d6ce36?response-content-disposition=inline%3B%20filename%3D%22176697.png%22%3B%20filename%2A%3DUTF-8%27%27176697.png&response-content-type=image%2Fpng&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQGK6FURQ57GP5MUO%2F20260731%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260731T033645Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjENz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQCQoxoOINm5kN2y0zceg8IOSTTpb5XQ%2BxCOXoyun8j3lwIhAJPg3fzxYtRxLFlp8sraAtGHyM5UUksP%2FLsGKr3IfZzQKroFCKT%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQAxoMMDEzNjE5Mjc0ODQ5IgxL4hH%2B0KNhCCFyma4qjgWk7gK5WQ2nH3JfwnMpuJdXsVkz9aMCiYQtTTERb2n2HmBlgrWwjyLemo5dyjEJjobDiwoL0ds0O2Xe3xf2TR7qm4y8sADRNlG8yD8EhXcR4t%2FHMprdN7mWV2te8By9L2f3eCzDmeq4oNO1W9894GjVmZNfmULHD3f38EWBXBPd%2B71tbaBIxx4dRuEwYEx3AWespXZMN1zFBA4ahyy1xihTdmlJE6m546ojUXuELD5dURrjQ4DLuNxhknN6Eo%2FF22parSBRaBywx2cV875%2FWpvM6WjMKnENu2B44WF1zO%2F5YajQmdjHPKOLIwmJFcb6TdpJ5voUctylhOHieiqbhho09f%2F0wfctaiu8%2B96Zc3z1Ob04W5CJo5jtEqAj6A0hB9V8YPSnsKTaLbLESaTEHELjhV5P1MTxfDvH4jBdSQmVl1LYzyAWNdatq3vPjc8esjx77K%2B7QG0mnGmS%2F6kXr38iXtBa6GKl90aZjGZkkFzQTXsMxMmhprJwcCKTxMnkOCzO3EXbaWk0xIdOrEkTRSA2gW%2BEZwrAT2dhBfFo9VDmtKZ8bZN5G6rkICzD%2BD%2BgIFi9Zy4mxixPXKDcNI3B7w57D6Cq%2BIT2xbQpwB%2B6kOn8LaLNKlKBuBTh8c6WkUW8FBF2gd%2BLuklfbmj8t330%2FedKIeEuMrOSeAwnYWzaBzQyjcg839Rd80IB7s%2FwQ909aQuXuvOQAHZfHHXLnTi6U%2F%2B2a24rFLfqbOQ63tD77mwixoSG%2B63nHliyyA%2FtWQzrytszppkwtR2uazTQCI5n87y9vfTHx3kWae893GA9fk5qNnHJ6dhfUQkH%2FDCUU0WVtG0X06rqbkqS9U5jpah75XhKcl5%2B3rKPm5S%2FFHD5BYEwpaiw0wY6sAGVzjS0F6Qw8yGAdYkFU6cnkFgsC8GyYi21vbY4pwfjJ09ls%2Fle5NxCsx43cVfF9f2vP2n1%2BgR8tN4A1%2FxbxER81kbZ%2BV%2BmPYGAL2bc3Rx89jeOR0Le41sfeyremouFycwpRs%2BStRvBU2cf4CeGFjZbBXYr%2BIm2JkO6zk9DbFjNARp6mCXq63eDmxjvW6OICrt42offVJoRXbxAuZv9g7ysStFicY%2FvANFdFxqw7vRShQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=fcadd1ef3e00a4f8b144535df90387deee73e7f27717fe43c14f65930a1ad6b0"
+          "imageUrl": "https://hackerone-us-west-2-production-attachments.s3.us-west-2.amazonaws.com/variants/qv48zkf423avl8lwrpzkjsh87o74/f0e07660005686ec92c43da54c0094c1ac1b490ea8c5eac04a4081d912d6ce36?response-content-disposition=inline%3B%20filename%3D%22176697.png%22%3B%20filename%2A%3DUTF-8%27%27176697.png&response-content-type=image%2Fpng&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQGK6FURQ2LQM6ICD%2F20260731%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260731T033627Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjENv%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIDU8SqSeJBmhJS2QXE85ov43%2FzoURGcP7wvSTtkV1yriAiEAkG9v1lsNbeImv7R9Kt8S0w6mW88u4oBUEnVbINCGHzkqugUIpP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARADGgwwMTM2MTkyNzQ4NDkiDMEa13a1iNZL88nxwiqOBT1IoayVnvz9eFj9ELsRj2tBgqz355%2BwG8G3Vj9NFBh6AUgkDBNrlskp9nwwrnkGt4V5RwD6zp%2BbyUB%2FfogPJ8hQ%2FAgYe2%2FkPbgwXalvNZdFGIzV6pGDJGjV%2Fz9Ph5p%2B6fuZVyq%2Fh%2F2e%2BGoINzH%2F1wKeORPRLyv43m1Mauzj1OEEEdv5eRq6ygGTmP3DvKjkq3A0w2Z%2FBaPxcRmnpwtUKKS71qEeglzDT7KBWX9Px3%2FConrwH7ZpLL4EZ0XAsgDilrotCppSn4rkiygtS6GKz5E7IOj1plhc64zEKJEJ7yrArPrDyyDHR4%2FgAk7zHjbnkjoyv7pFrhK5bS0j047fXtbrlHv7x3hpzmDgtiCMpL7iVwepLF1xaDd5z17tsns3IF%2F3H3D%2BHLnBG927YO695bTvNdcEuiZJJZYsUMwtPI5B1YaoIxMNtWM3iMKp3Puz2km9xNfuwXYrIumwxpCWFZYcLCfL1176ikq8XYwrhXm04REzHAY8WtwqLrNjoP2bdJiEzIZkryfMzeDxVAh6QGCZZ1dHJ2yexorFSaCZVpQuzmYMzmJRAhykRRPHs5SXrAJgM4%2BmLjBKknmVilwa4L6dBbibJE4d3hsCVj20MsTiHquDcxyCr2TAbAf8hrVtm9cSR2LwWi%2B0mll5yTQO51yhkKzUoa4dZ%2FnNhtIEeL2lW5wux7ls79ENx5I8TeYfRaHJaSjzsB3e0TRLGt14%2B7KIxy4qy1YagXApdG%2BEE9V7%2B9ac7Ps0LuLEZsCEb9uF3WF7jw%2FxDso3uzbk9yGqgaFrDj6ruxpoeJvg0vb1Z0xd1NLhy5B62LibMFWxsnhIdonyLzG7DGr9idDj0yemPey5tO6%2FOPnflCFGt9aUhjConrDTBjqxATNLf%2BdntVe9OwIrirqFJ4xN%2Fa2tChOF8Bza55MBKmRW2m7wRaS3Qi0%2FAkZYeJlDyHVFnhD2qbkM3CM8BG%2BV3RU00ygZIWET682rLWpxdKJDxDyIO7tCtf1EAFobhSXBIVvv2KSRHSe1fwEwuUVgqpN1shcBCNk%2BuiNsLViiqoulvT6Rd8VyN0TBbrQY5EbgQ9apysGT6Gas8aChpWV9daFgclbxjwBM5zpmwHMtawPIDQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=b0bf1e71f2bd405f6b6713599712178963b65fc2b589225ff9c6fdb85f0ada98"
         },
         {
           "id": "https://hackerone.com/reports/3815767",
@@ -21997,6 +22382,26 @@
       "siteUrl": "https://www.malware-traffic-analysis.net/index.html",
       "articles": [
         {
+          "id": "https://www.malware-traffic-analysis.net/2026/07/31/index2.html",
+          "author": null,
+          "description": "",
+          "link": "https://www.malware-traffic-analysis.net/2026/07/31/index2.html",
+          "publishedOn": "2026-07-31T21:47:00.000Z",
+          "wordCount": 77,
+          "title": "2026-07-31: Seven days of scans and probes and web traffic hitting my web server",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.malware-traffic-analysis.net/2026/07/31/index.html",
+          "author": null,
+          "description": "",
+          "link": "https://www.malware-traffic-analysis.net/2026/07/31/index.html",
+          "publishedOn": "2026-07-31T20:54:00.000Z",
+          "wordCount": 301,
+          "title": "2026-07-31: SmartApeSG ClickFix campaign pushes unidentified RAT",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.malware-traffic-analysis.net/2026/05/31/index.html",
           "author": null,
           "description": "",
@@ -22891,18 +23296,7 @@
       "title": "梧桐雨blog",
       "feedUrl": "https://wutongyu.info/feed/",
       "siteUrl": "https://wutongyu.info",
-      "articles": [
-        {
-          "id": "https://wutongyu.info/?p=4633",
-          "author": "梧桐雨",
-          "description": "blog很久没更新维护了，最近http频繁提示不安全，索性升一下https。 这里记录一下流程，不得不说，以前 […]",
-          "link": "https://wutongyu.info/blog-update-ssl/",
-          "publishedOn": "2025-08-01T02:34:00.000Z",
-          "wordCount": 1245,
-          "title": "blog升级https访问",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Arne Swinnen",
