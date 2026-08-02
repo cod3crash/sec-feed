@@ -6,6 +6,16 @@
       "siteUrl": "http://h1.nobbd.de/",
       "articles": [
         {
+          "id": "https://hackerone.com/reports/3878586",
+          "author": null,
+          "description": "Liberapay disclosed a bug submitted by its9me: https://hackerone.com/reports/3878586 - Bounty: $100",
+          "link": "https://hackerone.com/reports/3878586",
+          "publishedOn": "2026-08-01T12:27:05.000Z",
+          "wordCount": 25,
+          "title": "Unauthenticated team \"income/payments\" export ignores donor privacy settings (hide_giving, hide_from_lists) and uses frozen visibility, exposing donat",
+          "imageUrl": "https://profile-photos.hackerone-user-content.com/variants/t5bperr6a46huf3g9yn98it5zpfz/f0e07660005686ec92c43da54c0094c1ac1b490ea8c5eac04a4081d912d6ce36"
+        },
+        {
           "id": "https://hackerone.com/reports/3723248",
           "author": null,
           "description": "Node.js disclosed a bug submitted by nadav0077: https://hackerone.com/reports/3723248",
@@ -3950,6 +3960,96 @@
       "siteUrl": "https://medium.com/tag/bugbounty/latest?source=rss------bugbounty-5",
       "articles": [
         {
+          "id": "https://medium.com/p/4fd61f9e23a1",
+          "author": "ghostyjoe",
+          "description": "From Zero to Running BloodHound on Kali / Parrot OS\nContinue reading on Bug Bounty Hunting: A Comprehensive Guide in English and french »",
+          "link": "https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/%EF%B8%8F-bloodhound-part-2-installation-setup-step-by-step-guide-4fd61f9e23a1?source=rss------bugbounty-5",
+          "publishedOn": "2026-08-02T01:57:54.000Z",
+          "wordCount": null,
+          "title": "⚙️ BloodHound Part 2 — Installation & Setup (Step-by-Step Guide)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/e70cc2824564",
+          "author": "Abhishek meena",
+          "description": "The Bug Bounty Playbook · Part 3 of 20. 317 disclosed HackerOne reports analysed across 20 programs. Five recurring patterns. One testing…\nContinue reading on Medium »",
+          "link": "https://medium.com/@Aacle/the-bug-bounty-playbook-authentication-bypass-e70cc2824564?source=rss------bugbounty-5",
+          "publishedOn": "2026-08-01T20:28:05.000Z",
+          "wordCount": null,
+          "title": "The Bug Bounty Playbook: Authentication Bypass",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/27aef887c316",
+          "author": "Jawad Momani",
+          "description": "In my previous disclosures I talked about how Visma and Intigriti turned critical data leaks into a normal day at the office and…\nContinue reading on Medium »",
+          "link": "https://medium.com/@Pwnedl0l/the-visma-case-study-part-3-cross-account-state-manipulation-and-administrative-bypass-27aef887c316?source=rss------bugbounty-5",
+          "publishedOn": "2026-08-01T19:51:01.000Z",
+          "wordCount": null,
+          "title": "The Visma Case Study Part 3 Cross Account State Manipulation and Administrative Bypass",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/06540ae571e1",
+          "author": "Ayeshaaghafoor",
+          "description": "Executive Summary\nContinue reading on Medium »",
+          "link": "https://medium.com/@ayeshaaghafoor48/walkthrough-portswigger-username-enumeration-via-response-timing-06540ae571e1?source=rss------bugbounty-5",
+          "publishedOn": "2026-08-01T18:14:33.000Z",
+          "wordCount": null,
+          "title": "Walkthrough: PortSwigger — Username Enumeration via Response Timing",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/8a68bebf5b1a",
+          "author": "Ayeshaaghafoor",
+          "description": "Executive Summary\nContinue reading on Medium »",
+          "link": "https://medium.com/@ayeshaaghafoor48/walkthrough-portswigger-2fa-broken-logic-8a68bebf5b1a?source=rss------bugbounty-5",
+          "publishedOn": "2026-08-01T18:01:39.000Z",
+          "wordCount": null,
+          "title": "Walkthrough: PortSwigger — 2FA Broken Logic",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/aeaaaf6d15d0",
+          "author": "Pablo Vergara",
+          "description": "Your methodology is working .. Keep going!!\nContinue reading on Medium »",
+          "link": "https://medium.com/@severeQA/psa-to-new-bug-bounty-hunters-please-stop-raging-about-duplicates-aeaaaf6d15d0?source=rss------bugbounty-5",
+          "publishedOn": "2026-08-01T17:36:48.000Z",
+          "wordCount": null,
+          "title": "PSA To New Bug Bounty Hunters: Please stop raging about duplicates!!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/c751a6b0a0fc",
+          "author": "Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA]",
+          "description": "If I had to delete everything and start over with a laptop, a lot of caffeine, and no reputation, this is exactly what I would do.\nContinue reading on Medium »",
+          "link": "https://medium.com/@neonmaxima/how-i-would-start-bug-bounties-from-zero-in-2026-c751a6b0a0fc?source=rss------bugbounty-5",
+          "publishedOn": "2026-08-01T16:30:00.000Z",
+          "wordCount": null,
+          "title": "How I Would Start Bug Bounties From Zero in 2026",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/ebd652cf304f",
+          "author": "LAWCY official",
+          "description": "Same conventions as Part 1: fictional target vulnerable-corp.com,\nContinue reading on Medium »",
+          "link": "https://medium.com/@test.my.hack.v1/advanced-bug-bounty-write-ups-part-2-deserialization-mobile-ci-cd-cloud-supply-chain-ebd652cf304f?source=rss------bugbounty-5",
+          "publishedOn": "2026-08-01T14:18:56.000Z",
+          "wordCount": null,
+          "title": "Advanced Bug Bounty Write-Ups — Part 2: Deserialization, Mobile, CI/CD, Cloud, Supply Chain……..!!!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/8a07df5bec2d",
+          "author": "LAWCY official",
+          "description": "A Comprehensive Technical and Strategic Analysis\nContinue reading on Medium »",
+          "link": "https://medium.com/@test.my.hack.v1/the-complete-dark-side-of-hyperlink-injection-email-abuse-website-attacks-open-redirects-and-8a07df5bec2d?source=rss------bugbounty-5",
+          "publishedOn": "2026-08-01T13:54:49.000Z",
+          "wordCount": null,
+          "title": "The Complete Dark Side of Hyperlink Injection: Email Abuse, Website Attacks, Open Redirects, and…",
+          "imageUrl": null
+        },
+        {
           "id": "https://medium.com/p/bfe4a423f3df",
           "author": "Alvin Ferdiansyah",
           "description": "alg=none x Attacker-Controlled Object Check\nContinue reading on Medium »",
@@ -7476,6 +7576,36 @@
       "feedUrl": "https://medium.com/feed/tag/redteam",
       "siteUrl": "https://medium.com/tag/redteam/latest?source=rss------redteam-5",
       "articles": [
+        {
+          "id": "https://medium.com/p/8528c39bc1cf",
+          "author": "Atharva Deshmukh",
+          "description": "Blog 16 of “Mastering Active Directory — Simplified.” Blog 15 covered PowerView and targeted AD enumeration. This blog covers BloodHound…\nContinue reading on Medium »",
+          "link": "https://medium.com/@w0lfstrong/bloodhound-explained-seeing-the-active-directory-attack-graph-8528c39bc1cf?source=rss------redteam-5",
+          "publishedOn": "2026-08-01T07:44:29.000Z",
+          "wordCount": null,
+          "title": "BloodHound Explained: Seeing the Active Directory Attack Graph",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/205a2f7c6525",
+          "author": "Atharva Deshmukh",
+          "description": "Blog 15 of “Mastering Active Directory — Simplified.” Blog 14 covered the AD enumeration methodology and the seven categories of…\nContinue reading on Medium »",
+          "link": "https://medium.com/@w0lfstrong/powerview-explained-the-ad-enumeration-toolkit-every-red-teamer-uses-205a2f7c6525?source=rss------redteam-5",
+          "publishedOn": "2026-08-01T07:33:20.000Z",
+          "wordCount": null,
+          "title": "PowerView Explained: The AD Enumeration Toolkit Every Red Teamer Uses",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/d81f0bdbbbea",
+          "author": "exz",
+          "description": "Building the foundation for successful operations\nContinue reading on Medium »",
+          "link": "https://eaxz3ro.medium.com/red-teaming-the-red-team-planning-lifecycle-d81f0bdbbbea?source=rss------redteam-5",
+          "publishedOn": "2026-08-01T05:31:01.000Z",
+          "wordCount": 2755,
+          "title": "Red Teaming: The Red Team Planning Lifecycle",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*HDJrojjfvuSqk4eUBIGZhA.png"
+        },
         {
           "id": "https://medium.com/p/dd5b7cbb9c98",
           "author": "CyberHeatRadar",
@@ -12538,6 +12668,186 @@
       "feedUrl": "https://feed.cnblogs.com/blog/sitehome/rss",
       "siteUrl": null,
       "articles": [
+        {
+          "id": "https://www.cnblogs.com/lianngkyle/p/22146997",
+          "author": null,
+          "description": "AI编程助手总在代码里&quot;迷路&quot;？Graphify给它装上代码图谱引擎，让AI看懂调用链、读懂业务逻辑，告别grep式盲搜和上下文过载。一份进Git的图谱，全队共享、可Review，新人秒懂架构。",
+          "link": "https://www.cnblogs.com/lianngkyle/p/22146997",
+          "publishedOn": "2026-08-02T03:19:00.000Z",
+          "wordCount": 520,
+          "title": "驾驭AI Coding：用Graphify为AI编程助手装上代码图谱引擎 - 良凯尔",
+          "imageUrl": "https://img2024.cnblogs.com/blog/2393007/202608/2393007-20260802111902894-1315050623.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/aqi00/p/22146191",
+          "author": null,
+          "description": "时下各种AI聊天应用争奇斗艳，一个比一个智能，一个比一个贴心。早在2022年出版的《Android Studio开发实战：从零基础到App上线(第3版)》中，笔者就基于Android实现了一个具备初级智能的小小机器人APP，不仅支持简单的问答，还支持问询天气预报，还支持加减乘除四则运算，还支持背诵唐",
+          "link": "https://www.cnblogs.com/aqi00/p/22146191",
+          "publishedOn": "2026-08-02T02:54:00.000Z",
+          "wordCount": 271,
+          "title": "鸿蒙版本的小小机器人APP开放源码啦 - aqi00",
+          "imageUrl": "https://img2024.cnblogs.com/blog/729938/202608/729938-20260802105304368-1360759675.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/uniqueDong/p/22145413",
+          "author": null,
+          "description": "上个月在知识库里搜了三个工作问题，两个返回的都是半年前的过时内容，方案已经彻底废弃了。这个库我花了两个周末认真搭的，才几个月就已经不好用了。 这感觉就像买了一堆收纳盒把家里收拾得整整齐齐，三个月后打开柜子发现——东西还是乱的，只是换了个盒子装。 搭知识库不难，难的是让它持续好用。市面上 99% 的文",
+          "link": "https://www.cnblogs.com/uniqueDong/p/22145413",
+          "publishedOn": "2026-08-02T02:07:00.000Z",
+          "wordCount": 464,
+          "title": "为什么你的知识库越用越笨？不是没更新，是你少做了这三件事 - 码哥字节",
+          "imageUrl": "https://img2024.cnblogs.com/blog/735767/202605/735767-20260526114014236-744639895.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/everydayboy/p/22145130",
+          "author": null,
+          "description": "值类型 引用类型 比喻 复印一份文件，你改你的，我改我的 给一把钥匙，大家开的是同一扇门 存储 数据直接存在变量里 变量存的是&quot;地址&quot;，真正的数据在别处 常见类型 int bool double struct class string 数组 List ————————————————————————",
+          "link": "https://www.cnblogs.com/everydayboy/p/22145130",
+          "publishedOn": "2026-08-02T01:47:00.000Z",
+          "wordCount": 389,
+          "title": "1-值类型和引用类型 - 菜鸟的奋斗军",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/wackysoft/p/22144512",
+          "author": null,
+          "description": "前言 大家好，我是wacky。最近在整理工控方向的技术资料时发现一个现象：提起.NET做工业控制，很多人的第一反应是&quot;WinForm拖几个按钮、接个串口&quot;。但实际接触下来，从PLC通信到数据可视化、从状态机引擎到机器视觉，整个.NET工控生态已经覆盖了从设备层到企业层的完整链路。这个系列的目标不是教",
+          "link": "https://www.cnblogs.com/wackysoft/p/22144512",
+          "publishedOn": "2026-08-02T01:01:00.000Z",
+          "wordCount": 292,
+          "title": ".NET工控开发：一个被低估的赛道 - Wackysoft",
+          "imageUrl": "https://img2024.cnblogs.com/blog/443744/202608/443744-20260802085535183-243886717.webp"
+        },
+        {
+          "id": "https://www.cnblogs.com/shiningmoon/p/22111758",
+          "author": null,
+          "description": "综合性靶场，方便整体复习，直接开搞 1.暴力破解 1.1 基于表单的暴力破解 ​ 测试，直接bp抓包，放intruder模块爆破，搞个字典直接进去爆，看返回长度判断 得知为admin和123456，成功登录 1.2 验证码绕过（on server） 验证码的生成代码写在了前端，因此只需要正确输入验证",
+          "link": "https://www.cnblogs.com/shiningmoon/p/22111758",
+          "publishedOn": "2026-08-01T15:55:00.000Z",
+          "wordCount": 772,
+          "title": "Pikachu靶场通关记录（一） - 反对的只剩下月亮",
+          "imageUrl": "https://img2024.cnblogs.com/blog/3832310/202608/3832310-20260801235444120-1494481633.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/shanyou/p/22138494",
+          "author": null,
+          "description": "DeepSeek V4 Flash 可能是第一个成本合理且可用的本地部署大模型, TensorSharp 实现了用纯.NET 推理 DeepSeek V4 Flash",
+          "link": "https://www.cnblogs.com/shanyou/p/22138494",
+          "publishedOn": "2026-08-01T13:16:00.000Z",
+          "wordCount": 954,
+          "title": "把 284B 的 DeepSeek V4 Flash 装进纯 .NET：TensorSharp 用一天改写了 .NET 推理栈的位置 - 张善友",
+          "imageUrl": "https://img2024.cnblogs.com/blog/510/202608/510-20260801211242397-1152898357.svg"
+        },
+        {
+          "id": "https://www.cnblogs.com/denglei1024/p/22138415",
+          "author": null,
+          "description": "从入口看起：AbpApplicationFactory.Create using var app = AbpApplicationFactory.Create&lt;BusinessModule&gt;(options =&gt; { options.UseAutofac(); }); app.Initialize(",
+          "link": "https://www.cnblogs.com/denglei1024/p/22138415",
+          "publishedOn": "2026-08-01T13:11:00.000Z",
+          "wordCount": 556,
+          "title": "ABP 模块系统源码学习：启动时模块是如何加载和排序的 - DLForge",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/InCerry/p/-/dotnet_week_26_7_1",
+          "author": null,
+          "description": "C# .NET 周刊 ｜2026 年 7 月 1 期 2026-07-05 dotnet_week_26_7_1 国内文章 .NET 10 的正则性能现在什么水平？我拿它和 Go、Python、C++、PCRE2 测了一轮 https://www.cnblogs.com/sdcb/p/2105790",
+          "link": "https://www.cnblogs.com/InCerry/p/-/dotnet_week_26_7_1",
+          "publishedOn": "2026-08-01T12:55:00.000Z",
+          "wordCount": 1104,
+          "title": "C# .NET 周刊 ｜2026 年 7 月 1 期 - InCerry",
+          "imageUrl": "https://img2024.cnblogs.com/blog/997046/202608/997046-20260801205316850-1445987165.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/yl97/p/22137189",
+          "author": null,
+          "description": "问题起因：与前端对接接口发现日期时间输出格式是数组，而代码中又有ObjectMapper格式化日期配置 环境：springboot2.x+jdk1.8 相关代码配置类 @Configuration public class JacksonConfig { @Primary @Bean public",
+          "link": "https://www.cnblogs.com/yl97/p/22137189",
+          "publishedOn": "2026-08-01T12:54:00.000Z",
+          "wordCount": 352,
+          "title": "Springboot2.x配置ObjectMapper日期格式化不生效 - 风去影无踪",
+          "imageUrl": "https://img2024.cnblogs.com/blog/2104359/202608/2104359-20260801201704838-1112381635.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/goodhacker/p/22137356",
+          "author": null,
+          "description": "第 1 课：从零开始，让 AI 和你对话 1.1 你的目标 写一个 Python 程序，在终端里输入文字，AI 会回答你。 You: 你好 AI: 你好！有什么可以帮你的？ You: 查一下订单 AI: 抱歉，我目前无法查询订单信息... 1.2 最直接的方式：一行代码调 API 所有大模型（Dee",
+          "link": "https://www.cnblogs.com/goodhacker/p/22137356",
+          "publishedOn": "2026-08-01T11:37:00.000Z",
+          "wordCount": 796,
+          "title": "一个项目带你入门AI应用开发01 - bamb00",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/wang_yb/p/22136718",
+          "author": null,
+          "description": "刚开始学机器学习时，我也像大部分人 一样，有个很朴素的想法：特征越多，模型能学到的信息就越多，效果自然越好。 所以每次拿到数据，我就拼命往模型里塞特征——能算出来的统计量全加上，能衍生出来的比率全拼上。 一个原本 20 列的数据集，经常被我搞到七八十列。 然后我就发现事情不太对劲了： 训练时间明显变",
+          "link": "https://www.cnblogs.com/wang_yb/p/22136718",
+          "publishedOn": "2026-08-01T10:36:00.000Z",
+          "wordCount": 792,
+          "title": "用相关性分析消除“冗余特征” - wang_yb",
+          "imageUrl": "https://img2024.cnblogs.com/blog/83005/202608/83005-20260801183434110-1358361780.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/ai-go-hub/p/22135559",
+          "author": null,
+          "description": "这是一个系列 Blog，作者将以一个 PHP 全栈工程师的身份，利用 AI 工具（claude code、codex、deepseek、豆包等）：从零开始学习 golang 语言，并最终完成 ai-go-admin（github | gitee）开源项目的制作，全程记录分享。 在上一期，我们进行了",
+          "link": "https://www.cnblogs.com/ai-go-hub/p/22135559",
+          "publishedOn": "2026-08-01T09:42:00.000Z",
+          "wordCount": 549,
+          "title": "从 PHP 到 AI + Golang，程序员自救转型手记（四十六）：再次优化基类 - 妙码生花",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/h-elden/p/22118514",
+          "author": null,
+          "description": "本文详细介绍多元函数无约束优化中的牛顿法与阻尼牛顿法。该方法利用目标函数的二阶导数信息（Hessian矩阵）构造二次近似，通过求解线性方程组确定搜索方向，具有二阶收敛速度。文章系统阐述了Hessian矩阵的性质、牛顿法的迭代公式及其几何意义，并通过手算实例展示了二次函数一步收敛的特性。针对标准牛顿法...",
+          "link": "https://www.cnblogs.com/h-elden/p/22118514",
+          "publishedOn": "2026-08-01T08:49:00.000Z",
+          "wordCount": 2980,
+          "title": "[最优化技术] 3-5 牛顿法与阻尼牛顿法 - H_Elden",
+          "imageUrl": "https://img2024.cnblogs.com/blog/3633603/202608/3633603-20260801005958162-3147897.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/GlenTt/p/22134067",
+          "author": null,
+          "description": "推荐模型到底在干什么：条件估计、信息组织与排序决策 大家有没有这种感觉：推荐模型看多了，脑子里全是 FM 做交叉、DIN 做兴趣、Transformer 做序列、RankMixer 做扩展——每个都懂一点，但合在一起就是一张散乱的标签清单。新论文出来就往上贴一张，越贴越碎，始终拼不出一张完整的地图。",
+          "link": "https://www.cnblogs.com/GlenTt/p/22134067",
+          "publishedOn": "2026-08-01T08:40:00.000Z",
+          "wordCount": 1418,
+          "title": "推荐模型到底在干什么：条件估计、信息组织与排序决策 - 石头开会",
+          "imageUrl": "https://img2024.cnblogs.com/blog/3670197/202608/3670197-20260801163048196-1902541258.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/cswuyg/p/22131966",
+          "author": null,
+          "description": "工程师文化的思考和实践 原文是我于 2025年1月 发表在鹅厂内网 KM 平台，之后我转到 AI infra 方向，埋头全力学习大模型推理加速，未再思考任何组织管理相关的事项。近几日有同事询问是否有外网版本可以分享，于是我又复习了这篇文章，再结合这一年多来的观察，不禁感叹：写得真好！之前我以为团队的",
+          "link": "https://www.cnblogs.com/cswuyg/p/22131966",
+          "publishedOn": "2026-08-01T07:37:00.000Z",
+          "wordCount": 557,
+          "title": "以持续成功为终极目标：构建务实的工程师文化 - -银光-",
+          "imageUrl": "https://img2024.cnblogs.com/blog/104985/202608/104985-20260801153103048-1271299606.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/aqi00/p/22126320",
+          "author": null,
+          "description": "​上一篇文章介绍了如何使用LangGraph实现会话记忆功能，可是历史会话又多又杂，难以全部记忆，开发者更希望AI应用记住关键信息，比如用户喜欢什么、爱好什么等等。 对于AI应用的精确记忆需求，LangChain支持在调用create_agent时输入store参数，以指定数据存储方式，接下来介绍如",
+          "link": "https://www.cnblogs.com/aqi00/p/22126320",
+          "publishedOn": "2026-08-01T03:37:00.000Z",
+          "wordCount": 436,
+          "title": "15天学会AI应用开发（十八）使用LangGraph实现精确记忆功能 - aqi00",
+          "imageUrl": "https://img2024.cnblogs.com/blog/729938/202608/729938-20260801113704045-364168547.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/imadc/p/22121887",
+          "author": null,
+          "description": "解疑释惑 - 日志体系之 slf4j + logback 组合（二） 引言 上一篇随笔从 slf4j 出发，完整分析了门面设计模式、静态绑定机制、初始化状态机和 MDC 体系。在 slf4j 的 bind() 方法中，最终通过 StaticLoggerBinder.getSingleton() 拿到",
+          "link": "https://www.cnblogs.com/imadc/p/22121887",
+          "publishedOn": "2026-08-01T02:50:00.000Z",
+          "wordCount": 2971,
+          "title": "解疑释惑-日志体系之slf4j+logback组合-二 - 杜劲松",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
         {
           "id": "https://www.cnblogs.com/wackysoft/p/22122879",
           "author": null,
@@ -19944,6 +20254,16 @@
       "feedUrl": "http://h1.nobbd.de/reports_rss.xml",
       "siteUrl": "http://h1.nobbd.de/",
       "articles": [
+        {
+          "id": "https://hackerone.com/reports/3878586",
+          "author": null,
+          "description": "Liberapay disclosed a bug submitted by its9me: https://hackerone.com/reports/3878586 - Bounty: $100",
+          "link": "https://hackerone.com/reports/3878586",
+          "publishedOn": "2026-08-01T12:27:05.000Z",
+          "wordCount": 25,
+          "title": "Unauthenticated team \"income/payments\" export ignores donor privacy settings (hide_giving, hide_from_lists) and uses frozen visibility, exposing donat",
+          "imageUrl": "https://profile-photos.hackerone-user-content.com/variants/t5bperr6a46huf3g9yn98it5zpfz/f0e07660005686ec92c43da54c0094c1ac1b490ea8c5eac04a4081d912d6ce36"
+        },
         {
           "id": "https://hackerone.com/reports/3723248",
           "author": null,
