@@ -2,10 +2,322 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cod3crash.github.io/sec-feed/index.html</id>
     <title>security feed</title>
-    <updated>2026-08-02T03:36:47.629Z</updated>
+    <updated>2026-08-03T03:38:50.516Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://cod3crash.github.io/sec-feed/index.html"/>
     <link rel="self" href="https://cod3crash.github.io/sec-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[一个项目带你入门AI应用开发06 - bamb00]]></title>
+        <id>https://www.cnblogs.com/goodhacker/p/22167488</id>
+        <link href="https://www.cnblogs.com/goodhacker/p/22167488"/>
+        <updated>2026-08-03T03:29:00.000Z</updated>
+        <summary type="html"><![CDATA[第 6 课：让 Agent 记住对话 6.1 你的目标 多轮对话中，AI 能记住前面说了什么： You: 查一下订单 ORD-001 AI: 您的订单 ORD-001（智能蓝牙耳机 Pro）已发货 You: 这个保修多久？ ← 用户期望 AI 知道说的是&quot;耳机&quot; AI: 智能蓝牙耳机 Pro 提供]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kubernetes 资源分配指南：如何科学设置 CPU 与 Memory 的 Request & Limit - Markk]]></title>
+        <id>https://www.cnblogs.com/hyly-mark/p/22167384</id>
+        <link href="https://www.cnblogs.com/hyly-mark/p/22167384"/>
+        <updated>2026-08-03T03:27:00.000Z</updated>
+        <summary type="html"><![CDATA[前言 在 Kubernetes (K8s) 集群中，服务 YAML 文件里的 resources 配置块往往是被开发者误解最深的区域。面对 requests 和 limits，许多人的做法是“凭感觉填”或者“抄隔壁项目的配置”。 但实际上，这短短几行 YAML 决定了你的微服务在面对突发流量时是安然]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[10 分钟搭一个 AI 知识库，搜索命中率 75%，数据全在本地 - 码哥字节]]></title>
+        <id>https://www.cnblogs.com/uniqueDong/p/22164227</id>
+        <link href="https://www.cnblogs.com/uniqueDong/p/22164227"/>
+        <updated>2026-08-03T02:18:00.000Z</updated>
+        <summary type="html"><![CDATA[你每周要花大量时间翻笔记、查文档、找参考资料——花 40 分钟找东西，3 分钟真正用它。我试过市面上几乎所有的 AI 知识库产品，最后还是决定自己搭。现在把整个过程和工具开源出来，你 10 分钟就能上手。 前 6 篇讲了什么（没看也不影响） 这是 7 篇系列文章的最后一篇。前面六篇分别是： 第一篇《]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux NTSYNC 简明教程 - apocelipes]]></title>
+        <id>https://www.cnblogs.com/apocelipes/p/22164066</id>
+        <link href="https://www.cnblogs.com/apocelipes/p/22164066"/>
+        <updated>2026-08-03T02:14:00.000Z</updated>
+        <summary type="html"><![CDATA[ntsync是Linux内核在6.14引入的新功能，它可以在Linux模拟Windows的可等待对象操作。 这个功能主要由wine团队开发和维护，借此可以在Linux上提供性能更高的Windows接口模拟。 这次我们来简单了解一下ntsync，并编写几个简单的示例。 启用ntsync ntsync被]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Agent OS 视角：别再把 Graph、Loop 和 Harness 当成并列概念 - AI小老六]]></title>
+        <id>https://www.cnblogs.com/ai-old-six/p/22163957</id>
+        <link href="https://www.cnblogs.com/ai-old-six/p/22163957"/>
+        <updated>2026-08-03T02:11:00.000Z</updated>
+        <summary type="html"><![CDATA[Agent 系统不是一堆并列新词，而是运行底座、任务拓扑与执行循环逐层协作的操作系统式运行时。 导语 Agent 工程这两年最容易让人疲惫的地方，不是概念太难，而是新词总像一批批涌进来：Harness、Loop、Graph、Tool Use、Context Engineering、RAG、Orche]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Langchain4J+SpringBoot 保姆级教程来了 - 佛祖让我来巡山]]></title>
+        <id>https://www.cnblogs.com/sun-10387834/p/21741240</id>
+        <link href="https://www.cnblogs.com/sun-10387834/p/21741240"/>
+        <updated>2026-08-03T02:03:00.000Z</updated>
+        <summary type="html"><![CDATA[你好！作为一名Java开发，我也曾看着Python那边的LangChain生态眼馋。不过现在好了，LangChain4j 让我们Java开发者也能优雅地接入大模型了。下面我就把整套方案给你梳理出来，从零到一，保姆级，咱们直接开干！ 一、项目初始化 1.1 技术栈版本（建议） JDK 17+（Lang]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MySQL建表时需要注意什么 - Rain的Java大神实战圈]]></title>
+        <id>https://www.cnblogs.com/zrui-xyu/p/22163456</id>
+        <link href="https://www.cnblogs.com/zrui-xyu/p/22163456"/>
+        <updated>2026-08-03T01:59:00.000Z</updated>
+        <summary type="html"><![CDATA[本文详解MySQL规范化建表全流程，从命名规范、精简字段选型、索引合理规划、表结构拆分优化、数据安全约束切入，给出标准化建表SQL。亮点包含datetime(6)规避2038问题、全字段非空规避索引失效、虚拟列索引适配JSON检索、联合索引遵循最左前缀；附带千万级场景痛点解决方案，涵盖无锁改表、分库...]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[前端 Node 全家桶 - 幼儿园技术家]]></title>
+        <id>https://www.cnblogs.com/zxlh1529/p/22162382</id>
+        <link href="https://www.cnblogs.com/zxlh1529/p/22162382"/>
+        <updated>2026-08-03T01:47:00.000Z</updated>
+        <summary type="html"><![CDATA[前言：为什么需要这一套 nvm + npm + pnpm + Yarn + nrm？ 刚入门前端时，常见困惑是： 项目 A 要 Node 16，项目 B 要 Node 20，本机只能装一个？ npm install 慢、占磁盘、node_modules 巨大？ npm、pnpm、Yarn 到底用哪个]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sim4Life 多物理场进阶：热力学与声学求解器（P-THERMAL & P-ACOUSTICS）硬核解析 - 深圳浦实]]></title>
+        <id>https://www.cnblogs.com/sim4life-notes/p/22095673</id>
+        <link href="https://www.cnblogs.com/sim4life-notes/p/22095673"/>
+        <updated>2026-08-03T01:40:00.000Z</updated>
+        <summary type="html"><![CDATA[导语 在之前的文章中，我们详细拆解了 Sim4Life 两大电磁求解器（P-EM-FDTD 与 P-EM-QS）的区别与选型。但对于绝大多数生物医学工程师而言，电磁场或声学场本身往往不是终点——能量沉积引发的温升、组织损伤以及治疗效应，才是临床转化中最核心的关注点。 无论是 MRI 射频线圈的安全性]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用300行代码带你手写简化版RPC框架 - 程序员Seven]]></title>
+        <id>https://www.cnblogs.com/sevencoding/p/22131341</id>
+        <link href="https://www.cnblogs.com/sevencoding/p/22131341"/>
+        <updated>2026-08-03T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[本文会参考 Dubbo 的整体设计思路，手写一个极简版 RPC 框架。 它不会像 Dubbo 那样把协议、注册中心、集群容错、SPI 扩展、线程模型都做得非常完整，但会把 RPC 最核心的一条链路跑通，并且补上一个生产中很重要的能力：熔断降级。 也就是说，本文最后实现出来的效果大概是这样的： 服务提]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[纯 C# 追平 llama.cpp？.NET 本地推理三国杀 - 张善友]]></title>
+        <id>https://www.cnblogs.com/shanyou/p/22156095</id>
+        <link href="https://www.cnblogs.com/shanyou/p/22156095"/>
+        <updated>2026-08-02T23:08:00.000Z</updated>
+        <summary type="html"><![CDATA[如果有人告诉你：纯 C# 写的大模型推理引擎，性能已经追平了手工调优的 C++——你会信吗？ 这确实发生了。2026 年，.NET 生态里同时出现了三个&quot;本地跑大模型&quot;的方案，而且它们代表了三种完全不同的技术信仰： LLamaSharp：老老实实给 llama.cpp 当&quot;翻译官&quot; dotLLM：不]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitHub Dorking: A Complete Guide for Bug Bounty Hunters and Penetration Testers]]></title>
+        <id>https://medium.com/p/b9f8e784e29b</id>
+        <link href="https://osintteam.blog/github-dorking-a-complete-guide-for-bug-bounty-hunters-and-penetration-testers-b9f8e784e29b?source=rss------bugbounty-5"/>
+        <updated>2026-08-02T22:06:52.000Z</updated>
+        <summary type="html"><![CDATA[How attackers, researchers, and red teamers use GitHub’s own search engine to uncover exposed API keys, credentials, and secrets before…
+Continue reading on OSINT Team »]]></summary>
+        <author>
+            <name>Yamini Yadav_369</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DorkinatorAI: a calmer way to start recon using AI]]></title>
+        <id>https://medium.com/p/42db2b4e956c</id>
+        <link href="https://osintteam.blog/dorkinatorai-a-calmer-way-to-start-recon-using-ai-42db2b4e956c?source=rss------bugbounty-5"/>
+        <updated>2026-08-02T22:05:11.000Z</updated>
+        <summary type="html"><![CDATA[A practical introduction to building a repeatable search-query workflow for bug bounty and security testing.
+Continue reading on OSINT Team »]]></summary>
+        <author>
+            <name>Devansh Patel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hacking IIS for Bug Bounty: Attacking the Windows Underneath the Web Server]]></title>
+        <id>https://medium.com/p/799cf02f60f5</id>
+        <link href="https://osintteam.blog/hacking-iis-for-bug-bounty-attacking-the-windows-underneath-the-web-server-799cf02f60f5?source=rss------bugbounty-5"/>
+        <updated>2026-08-02T22:02:02.000Z</updated>
+        <summary type="html"><![CDATA[Most bug hunters treat every web server the same. Point the same wordlists, throw the same payloads, move on. But the moment you confirm…
+Continue reading on OSINT Team »]]></summary>
+        <author>
+            <name>Fuzzyy Duck</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Overhead at Breakfast — TryHackMe OSINT Writeup]]></title>
+        <id>https://medium.com/p/d9dd46722275</id>
+        <link href="https://skin-security.medium.com/overhead-at-breakfast-tryhackme-osint-writeup-d9dd46722275?source=rss------bugbounty-5"/>
+        <updated>2026-08-02T18:41:02.000Z</updated>
+        <summary type="html"><![CDATA[Room: Overheard at Breakfast
+Category: OSINT, Social Media, Hashing
+Difficulty: Easy
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Skin Security</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why HTTP QUERY Changes API Security Forever]]></title>
+        <id>https://medium.com/p/5c34b33995aa</id>
+        <link href="https://medium.com/@dhruva0/why-http-query-changes-api-security-forever-5c34b33995aa?source=rss------bugbounty-5"/>
+        <updated>2026-08-02T18:33:21.000Z</updated>
+        <summary type="html"><![CDATA[The new HTTP QUERY method is one of the biggest protocol changes for APIs in years because it attempts to solve a long-standing design…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Dhruv</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Auth Bypass Mindset]]></title>
+        <id>https://medium.com/p/b92d6593b5b3</id>
+        <link href="https://medium.com/@Aacle/the-auth-bypass-mindset-b92d6593b5b3?source=rss------bugbounty-5"/>
+        <updated>2026-08-02T16:45:46.000Z</updated>
+        <summary type="html"><![CDATA[The Bug Bounty Playbook · Prologue. How to think about authentication bypass before you test it. 82 disclosed reports, 8 parts, one…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Abhishek meena</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top 10 CVE Exploits for 2026: Step-by-Step Guide to Testing Them Safely]]></title>
+        <id>https://medium.com/p/53a4d5d9788b</id>
+        <link href="https://medium.com/@verylazytech/top-10-cve-exploits-for-2026-step-by-step-guide-to-testing-them-safely-53a4d5d9788b?source=rss------bugbounty-5"/>
+        <updated>2026-08-02T16:29:33.000Z</updated>
+        <summary type="html"><![CDATA[Did you know that in 2026, nearly 70% of all reported breaches traced back to just a handful of known vulnerabilities? If you’re in…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Very Lazy Tech</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Octafuse Gateway 2.1 发布：不只管大模型，Agent 的每一次工具调用也都管起来！ - 程序猿DD]]></title>
+        <id>https://www.cnblogs.com/didispace/p/22156370</id>
+        <link href="https://www.cnblogs.com/didispace/p/22156370"/>
+        <updated>2026-08-02T15:46:00.000Z</updated>
+        <summary type="html"><![CDATA[过去我们的 AI 网关，绝大多数的更新关注点在以下几个方面： 如何统一接入 OpenAI、Anthropic、Gemini 等协议 如何在多个 Provider 之间路由和故障转移 如何管理 API Key、预算、Token、成本与调用日志 但当 Agent 真正进入业务，模型调用只是链路的一部分。]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How I Turned a “Not Sensitive Enough” Bug Into a Confirmed IDOR]]></title>
+        <id>https://medium.com/p/f075967fbce8</id>
+        <link href="https://atharvchawan.medium.com/how-i-turned-a-not-sensitive-enough-bug-into-a-confirmed-idor-f075967fbce8?source=rss------bugbounty-5"/>
+        <updated>2026-08-02T15:37:24.000Z</updated>
+        <summary type="html"><![CDATA[A story about persistence, one rejected report, and why “it’s just an email address” is exactly the kind of thinking attackers count on.
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Atharv Chawan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Implicit]]></title>
+        <id>https://medium.com/p/0f20dddad597</id>
+        <link href="https://medium.com/@cardosoleo588/implicit-0f20dddad597?source=rss------redteam-5"/>
+        <updated>2026-08-02T15:31:50.000Z</updated>
+        <summary type="html"><![CDATA[Introduction
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Cardosoleo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows系统应用弹窗自动点否？问题可能出在WPS - Chorgri]]></title>
+        <id>https://www.cnblogs.com/Chorgri/p/22156221</id>
+        <link href="https://www.cnblogs.com/Chorgri/p/22156221"/>
+        <updated>2026-08-02T15:05:00.000Z</updated>
+        <summary type="html"><![CDATA[故事的开端 事情的起因是，我发现近几天关闭软件时，本来弹出的确认窗口，还没反应过来弹窗就消失了。反复尝试，发现弹窗竟然会自动点否。而否定按钮旁边，本身就有一个(N)的标志。正常而言这种极快的点击并不会是鼠标的操作，而是快键键的某种冲突，并且快键键一定和N有关。 为了确认这个问题，我首先是确认作妖的软]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【渗透测试】HTB Season 11 Cohort 全过程WP - dynasty_chenzi]]></title>
+        <id>https://www.cnblogs.com/DSchenzi/p/22156094</id>
+        <link href="https://www.cnblogs.com/DSchenzi/p/22156094"/>
+        <updated>2026-08-02T14:27:00.000Z</updated>
+        <summary type="html"><![CDATA[Cohort HTB wp 目标：10.129.244.174 靶机：Hack The Box Cohort 类型：Web + Linux Privilege Escalation 信息收集 HTTPS 证书和跳转信息暴露了主域名： cohort.htb 因此先在攻击机配置解析： 10.129.17]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Solon 的 10 种 HTTP 服务器：改一行依赖，换一个引擎 - 带刺的坐椅]]></title>
+        <id>https://www.cnblogs.com/noear/p/22155227</id>
+        <link href="https://www.cnblogs.com/noear/p/22155227"/>
+        <updated>2026-08-02T13:28:00.000Z</updated>
+        <summary type="html"><![CDATA[Solon框架允许开发者自由选择HTTP服务器引擎，仅需修改Maven依赖即可切换，无需更改应用代码。文章介绍了10种服务器选项，包括轻量级的jdkhttp（0.3MB）、支持WebSocket的smarthttp、支持HTTP/2的undertow和vert.x，以及传统Java团队熟悉的Jett...]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI 时代的“HTML 时刻”：一个被严重低估的知识标准 OKF - 贾克斯的平行世界]]></title>
+        <id>https://www.cnblogs.com/zh94/p/22154720</id>
+        <link href="https://www.cnblogs.com/zh94/p/22154720"/>
+        <updated>2026-08-02T12:42:00.000Z</updated>
+        <summary type="html"><![CDATA[AI 时代的“HTML 时刻”：一个被严重低估的知识标准 OKF 原创 贾克斯的平行世界贾克斯的平行世界 贾克斯的平行世界 2026年8月1日 08:33 上海 国内大多数人还在讨论模型、MCP、Skills 和 Agent Harness。 但 Google 最近正在推动另一件更底层的事情： 知识]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Red Teaming: Execution Workflow [The Five Stages of Red Team Operations]]]></title>
+        <id>https://medium.com/p/56e8307d0f35</id>
+        <link href="https://eaxz3ro.medium.com/red-teaming-execution-workflow-the-five-stages-of-red-team-operations-56e8307d0f35?source=rss------redteam-5"/>
+        <updated>2026-08-02T10:46:01.000Z</updated>
+        <summary type="html"><![CDATA[A disciplined approach to adversary emulation
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>exz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[拓扑排序：有向无环图的排队艺术 - _wyt001]]></title>
+        <id>https://www.cnblogs.com/wyt1/p/22152982</id>
+        <link href="https://www.cnblogs.com/wyt1/p/22152982"/>
+        <updated>2026-08-02T09:23:00.000Z</updated>
+        <summary type="html"><![CDATA[1.引入：身边的拓扑排序 做番茄炒蛋： 先洗番茄，再切番茄 先打蛋，再搅拌蛋液 切番茄和搅拌蛋液可以同时准备 都准备好之后，才能下锅炒 拓扑排序就能给我们提供一种合理的顺序，如： 洗番茄 → 切番茄 → 打蛋 → 搅拌蛋液 → 下锅翻炒 2.什么是拓扑排序 作用:对有向无环图的所有顶点进行排序 排序]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[给大模型装的马鞍，该松一松了，从删除 superpower 开始 - 张居斜]]></title>
+        <id>https://www.cnblogs.com/yaolin1228/p/22152664</id>
+        <link href="https://www.cnblogs.com/yaolin1228/p/22152664"/>
+        <updated>2026-08-02T08:54:00.000Z</updated>
+        <summary type="html"><![CDATA[打开 .claude/skills 目录，找到 superpower 相关的十来个 skill ，里面打包了整套头脑风暴、规划、TDD 方法等，然后删除它吧。 这套重型框架就是装在模型身上的 harness,模型弱的时候它补能力，模型强了，它压脊梁。 Boris Cherny，Claude Code]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[不必把 Vue3 写成“麻花”：从状态碎片到对象协作，重新理解 Zova 的前端心智模型 - 濮水大叔]]></title>
+        <id>https://www.cnblogs.com/zhennann/p/22150499/vue-object-oriented-zova-beginner-mental-model</id>
+        <link href="https://www.cnblogs.com/zhennann/p/22150499/vue-object-oriented-zova-beginner-mental-model"/>
+        <updated>2026-08-02T06:50:00.000Z</updated>
+        <summary type="html"><![CDATA[本文从 Vue 项目中大量 composable 解构、状态归属模糊和多套机制并行的常见体验切入，面向初学者介绍 Cabloy/Zova 如何以 Vue 3 响应式、TSX 与 Angular 风格依赖注入，建立 Controller、Bean、Model 统一协作的前端心智模型。]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一个项目带你入门AI应用开发05 - bamb00]]></title>
+        <id>https://www.cnblogs.com/goodhacker/p/22148759</id>
+        <link href="https://www.cnblogs.com/goodhacker/p/22148759"/>
+        <updated>2026-08-02T04:48:00.000Z</updated>
+        <summary type="html"><![CDATA[第 5 课：用 LangGraph 编排多 Agent 协作 5.1 你的目标 把前 4 课的功能（意图分类、RAG、工具调用、投诉升级）拆成独立的 Agent，用 LangGraph 状态图来编排。 用户输入 → Router(分类) → Knowledge(RAG) ─→ Summary(汇总)]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[驾驭AI Coding：用Graphify为AI编程助手装上代码图谱引擎 - 良凯尔]]></title>
         <id>https://www.cnblogs.com/lianngkyle/p/22146997</id>
