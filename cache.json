@@ -6,6 +6,36 @@
       "siteUrl": "http://h1.nobbd.de/",
       "articles": [
         {
+          "id": "https://hackerone.com/reports/3478646",
+          "author": null,
+          "description": "AWS VDP disclosed a bug submitted by sh3d0w: https://hackerone.com/reports/3478646",
+          "link": "https://hackerone.com/reports/3478646",
+          "publishedOn": "2026-08-03T18:17:48.000Z",
+          "wordCount": 25,
+          "title": "GitHub Retired UsernameTakeover From  [aws/]",
+          "imageUrl": "https://profile-photos.hackerone-user-content.com/variants/fgfqam8gl7lzo8u8v0kiphkxfyt8/5d27521e1b671a8e8bc4f016cace6a876120e5addf7dcc35ae4a5eac091669a9"
+        },
+        {
+          "id": "https://hackerone.com/reports/3514640",
+          "author": null,
+          "description": "Rocket.Chat disclosed a bug submitted by howtoplay: https://hackerone.com/reports/3514640",
+          "link": "https://hackerone.com/reports/3514640",
+          "publishedOn": "2026-08-03T13:35:55.000Z",
+          "wordCount": 25,
+          "title": "Unauthenticated Path Traversal (LFI) via /custom-sounds/ when CustomSounds uses FileSystem storage",
+          "imageUrl": "https://profile-photos.hackerone-user-content.com/variants/000/019/858/ada6c92a338715afad123af214dd6e22fd8dc6ff_original.png/f0e07660005686ec92c43da54c0094c1ac1b490ea8c5eac04a4081d912d6ce36"
+        },
+        {
+          "id": "https://hackerone.com/reports/3911605",
+          "author": null,
+          "description": "curl disclosed a bug submitted by dark_river: https://hackerone.com/reports/3911605",
+          "link": "https://hackerone.com/reports/3911605",
+          "publishedOn": "2026-08-03T07:16:40.000Z",
+          "wordCount": 25,
+          "title": "SMTP CRLF injection in custom SMTP recipient operand allows additional SMTP commands after authentication",
+          "imageUrl": "https://profile-photos.hackerone-user-content.com/variants/000/035/663/2faf4c279d437d64bfda6d23d62ce1833813a4d9_original.png/f0e07660005686ec92c43da54c0094c1ac1b490ea8c5eac04a4081d912d6ce36"
+        },
+        {
           "id": "https://hackerone.com/reports/3878586",
           "author": null,
           "description": "Liberapay disclosed a bug submitted by its9me: https://hackerone.com/reports/3878586 - Bounty: $100",
@@ -3960,6 +3990,106 @@
       "siteUrl": "https://medium.com/tag/bugbounty/latest?source=rss------bugbounty-5",
       "articles": [
         {
+          "id": "https://medium.com/p/6b11631fb58b",
+          "author": "gngoma",
+          "description": "« Connais ton ennemi et connais-toi toi-même, et tu ne craindras pas l’issue de cent batailles. » — Sun Tzu\nContinue reading on Medium »",
+          "link": "https://medium.com/@omaymagnoug16/bug-bounty-1-que-tester-sur-une-application-web-avant-m%C3%AAme-de-cr%C3%A9er-un-compte-6b11631fb58b?source=rss------bugbounty-5",
+          "publishedOn": "2026-08-04T01:05:15.000Z",
+          "wordCount": null,
+          "title": "Bug Bounty #1 — Que tester sur une application web avant même de créer un compte ?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/f94f8136220a",
+          "author": "Cazuri",
+          "description": "( بِسْمِ اللَّـهِ الرَّحْمَـٰنِ الرَّحِيمِ )\nContinue reading on Medium »",
+          "link": "https://medium.com/@deathsure445/broken-link-hijacking-how-i-became-a-government-agency-on-linkedin-legally-sort-of-f94f8136220a?source=rss------bugbounty-5",
+          "publishedOn": "2026-08-03T23:39:17.000Z",
+          "wordCount": null,
+          "title": "Broken Link Hijacking: How I “Became” a Government Agency on LinkedIn (Legally, Sort Of)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/c6512bfc66de",
+          "author": "Abhishek meena",
+          "description": "The homepage has been tested by 500 hunters. The attack surface nobody is looking at has been tested by zero. Here is how to find it.\nContinue reading on Medium »",
+          "link": "https://medium.com/@Aacle/most-hunters-test-the-same-surface-as-everyone-else-c6512bfc66de?source=rss------bugbounty-5",
+          "publishedOn": "2026-08-03T19:00:59.000Z",
+          "wordCount": null,
+          "title": "Most Hunters Test the Same Surface as Everyone Else.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/2acc76e33bfa",
+          "author": "Rahul Masal",
+          "description": "A simple parameter change. A completely different account. Zero barriers.\nContinue reading on Medium »",
+          "link": "https://medium.com/@Rahul.Masal/how-i-found-a-bug-that-could-let-anyone-hijack-your-account-without-touching-your-email-2acc76e33bfa?source=rss------bugbounty-5",
+          "publishedOn": "2026-08-03T13:46:14.000Z",
+          "wordCount": null,
+          "title": "How I Found a Bug That Could Let Anyone Hijack Your Account — Without Touching Your Email",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/4289c013fbf6",
+          "author": "Nitin yadav",
+          "description": "Hey friends! Nitin here 👋\nContinue reading on Medium »",
+          "link": "https://kd-200.medium.com/the-aws-metadata-attack-imds-deep-dive-4289c013fbf6?source=rss------bugbounty-5",
+          "publishedOn": "2026-08-03T11:31:01.000Z",
+          "wordCount": 1510,
+          "title": "The AWS Metadata Attack (IMDS) Deep Dive",
+          "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*JAsg-XEQvZef4kQt"
+        },
+        {
+          "id": "https://medium.com/p/b66a9c0cb6f5",
+          "author": "Shruti Vijay Shinde",
+          "description": "In Part 1, we built the foundation of our reconnaissance workflow.\nContinue reading on Medium »",
+          "link": "https://medium.com/@shrutishinde1319/vulnerability-assessment-for-penetration-testing-bug-bounty-part-2-deep-recon-endpoint-b66a9c0cb6f5?source=rss------bugbounty-5",
+          "publishedOn": "2026-08-03T11:14:33.000Z",
+          "wordCount": null,
+          "title": "Vulnerability Assessment for Penetration Testing & Bug Bounty (Part 2): Deep Recon, Endpoint…",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/01669f03ad44",
+          "author": "Ajith Prabhu",
+          "description": "How a malicious HTTP server can manipulate your terminal using nothing more than an HTTP response\nContinue reading on Medium »",
+          "link": "https://medium.com/@ajithprabhu15/when-your-terminal-lies-exploiting-ansi-escape-sequences-in-httpie-01669f03ad44?source=rss------bugbounty-5",
+          "publishedOn": "2026-08-03T11:03:12.000Z",
+          "wordCount": null,
+          "title": "When Your Terminal Lies: Exploiting ANSI Escape Sequences in HTTPie",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/ad2fb7974c04",
+          "author": "Very Lazy Tech",
+          "description": "Did you know that 93% of cloud breaches trace back to misconfigurations? Not zero-days, not advanced malware — just honest mistakes. If…\nContinue reading on Medium »",
+          "link": "https://medium.com/@verylazytech/offensive-cloud-security-12-misconfigurations-that-break-apps-and-how-to-exploit-them-ad2fb7974c04?source=rss------bugbounty-5",
+          "publishedOn": "2026-08-03T10:17:19.000Z",
+          "wordCount": null,
+          "title": "Offensive Cloud Security: 12 Misconfigurations That Break Apps (And How To Exploit Them)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/1d8f37389507",
+          "author": "Enric-xX",
+          "description": "Server-2 is a deliberately vulnerable web application designed for practicing User-Agent bypass, directory listing enumeration, CVE…\nContinue reading on Medium »",
+          "link": "https://enric-xx.medium.com/server-2-vulnerable-onlyphone-vulnerabilityweb-walkthrough-4-flags-1d8f37389507?source=rss------bugbounty-5",
+          "publishedOn": "2026-08-03T09:22:06.000Z",
+          "wordCount": 1825,
+          "title": "Server-2: Vulnerable OnlyPhone— VulnerabilityWeb Walkthrough (4 Flags)",
+          "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*tyr9hWfbhj1kO0l3"
+        },
+        {
+          "id": "https://medium.com/p/7e74d12f7e91",
+          "author": "Mr_alexander",
+          "description": "About Me\nContinue reading on Medium »",
+          "link": "https://medium.com/@alexandermr289/top-data-breaches-in-2024-month-wise-7e74d12f7e91?source=rss------bugbounty-5",
+          "publishedOn": "2026-08-03T09:09:07.000Z",
+          "wordCount": null,
+          "title": "Top Data Breaches in 2024 [Month-wise]",
+          "imageUrl": null
+        },
+        {
           "id": "https://medium.com/p/b9f8e784e29b",
           "author": "Yamini Yadav_369",
           "description": "How attackers, researchers, and red teamers use GitHub’s own search engine to uncover exposed API keys, credentials, and secrets before…\nContinue reading on OSINT Team »",
@@ -7656,6 +7786,56 @@
       "feedUrl": "https://medium.com/feed/tag/redteam",
       "siteUrl": "https://medium.com/tag/redteam/latest?source=rss------redteam-5",
       "articles": [
+        {
+          "id": "https://medium.com/p/684ee12b57cb",
+          "author": "Karimsaminur",
+          "description": "Continue reading on Medium »",
+          "link": "https://medium.com/@karimsaminur123/splunk-with-microsoft-sysmon-and-windows-security-logs-684ee12b57cb?source=rss------redteam-5",
+          "publishedOn": "2026-08-04T00:54:30.000Z",
+          "wordCount": null,
+          "title": "Splunk with Microsoft Sysmon and Windows Security Logs",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/b3e50da00dcd",
+          "author": "Tuka",
+          "description": "بين العشق والدموع\nلم تكن تؤمن بأنَّ الحبَّ قادرٌ على تغيير الإنسان، حتى التقت به.\nContinue reading on Medium »",
+          "link": "https://medium.com/@tuka5445/between-love-and-tears-she-never-believed-that-love-had-the-power-to-change-a-person-until-she-met-b3e50da00dcd?source=rss------redteam-5",
+          "publishedOn": "2026-08-03T20:35:21.000Z",
+          "wordCount": null,
+          "title": "Between Love and Tears\nShe never believed that love had the power to change a person—until she met…",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/26c7bedc8aec",
+          "author": "Farid Narimanov",
+          "description": "Introduction\nContinue reading on Medium »",
+          "link": "https://faridnarimanov.medium.com/ad-rts-exam-walkthrough-from-zero-to-domain-admin-26c7bedc8aec?source=rss------redteam-5",
+          "publishedOn": "2026-08-03T20:31:55.000Z",
+          "wordCount": 5687,
+          "title": "AD-RTS Exam Walkthrough: From Zero to Domain Admin",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:875/0*v0Kg9S_iUiqo82WA.png"
+        },
+        {
+          "id": "https://medium.com/p/8160bb79b464",
+          "author": "exz",
+          "description": "Keeping red team operations safe, controlled, and measurable\nContinue reading on Medium »",
+          "link": "https://eaxz3ro.medium.com/red-teaming-deconfliction-operational-safety-and-continuous-monitoring-8160bb79b464?source=rss------redteam-5",
+          "publishedOn": "2026-08-03T10:56:01.000Z",
+          "wordCount": 2604,
+          "title": "Red Teaming: Deconfliction, Operational Safety, and Continuous Monitoring",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*HDJrojjfvuSqk4eUBIGZhA.png"
+        },
+        {
+          "id": "https://medium.com/p/065f01f1875d",
+          "author": "Karim roshdy",
+          "description": "Introduction\nContinue reading on Medium »",
+          "link": "https://medium.com/@karimroshdyyy22/post-exploitation-basics-a-tryhackme-walkthrough-powerview-bloodhound-mimikatz-golden-065f01f1875d?source=rss------redteam-5",
+          "publishedOn": "2026-08-03T09:44:51.000Z",
+          "wordCount": null,
+          "title": "Post-Exploitation Basics: A TryHackMe Walkthrough (PowerView, BloodHound, Mimikatz & Golden…",
+          "imageUrl": null
+        },
         {
           "id": "https://medium.com/p/0f20dddad597",
           "author": "Cardosoleo",
@@ -12304,6 +12484,21 @@
       "siteUrl": "https://blog.elcomsoft.com",
       "articles": [
         {
+          "id": "https://blog.elcomsoft.com/?p=13627",
+          "author": "Oleg Afonin",
+          "description": "Elcomsoft iOS Forensic Toolkit begins low-level extraction by sideloading the extraction agent, and the agent will not run until the phone has completed one or two checks against Apple’s servers. Network requests, on a phone that is evidence. That single requirement is why we have shipped three different firewalls over the past three years. The […]",
+          "link": "https://blog.elcomsoft.com/2026/08/special-macos-firewall-safe-sideloading-of-the-eift-extraction-agent/",
+          "publishedOn": "2026-08-03T08:52:19.000Z",
+          "wordCount": 2924,
+          "title": "Special macOS Firewall: Safe Sideloading of the EIFT Extraction Agent",
+          "enclosure": {
+            "url": "https://blog.elcomsoft.com/wp-content/uploads/2024/12/firewall_1200x630.png",
+            "length": "858673",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://blog.elcomsoft.com/wp-content/uploads/2024/12/firewall_1200x630.png"
+        },
+        {
           "id": "https://blog.elcomsoft.com/?p=13622",
           "author": "Oleg Afonin",
           "description": "An iCloud backup is often the only surviving copy of data no longer on the device. Two ordinary situations show why, and neither involves anything clever on the suspect’s part. What could possibly go wrong, and how can you access the data? Case one: the update that went wrong Updates fail, usually for a boring […]",
@@ -12768,6 +12963,206 @@
       "feedUrl": "https://feed.cnblogs.com/blog/sitehome/rss",
       "siteUrl": null,
       "articles": [
+        {
+          "id": "https://www.cnblogs.com/powertoolsteam/p/22201234",
+          "author": null,
+          "description": "前言：真正耗时的，是构建一个“能测”的组件页面 在前端组件测试的完整流程中，最耗时的环节往往并不是“执行测试”本身。 无论是验证新功能、完成版本回归，还是复现真实用户场景，自动化测试开始前都必须先构建一个完整的组件测试页面。它的作用是将抽象的组件能力还原为可运行的真实场景：准备测试数据、组合相关组件",
+          "link": "https://www.cnblogs.com/powertoolsteam/p/22201234",
+          "publishedOn": "2026-08-04T03:06:00.000Z",
+          "wordCount": 887,
+          "title": "做了一个月 LangGraph Agent 后，我们为什么用两周切到了 Skill？ - 葡萄城技术团队",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/ai-old-six/p/22200234",
+          "author": null,
+          "description": "Skill 质量不能只看格式合规，需要从规范、语义、工程关系、动态效果到交付闭环建立证据链。 导语 一个 Skill 能被解析、格式合规、链接没有失效，是否就说明它值得被 Agent 使用？ 答案通常是否定的。 它可能写得很规范，却帮不上真实任务；也可能单独看没有问题，放进仓库后和另一个 Skill",
+          "link": "https://www.cnblogs.com/ai-old-six/p/22200234",
+          "publishedOn": "2026-08-04T02:45:00.000Z",
+          "wordCount": 600,
+          "title": "Skill 评测体系：从格式检查到真实任务验证的五层证据链 - AI小老六",
+          "imageUrl": "https://img2024.cnblogs.com/blog/3798513/202608/3798513-20260804104302858-1789567761.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/aspnetx/p/22199963",
+          "author": null,
+          "description": "「dbt+SQLServer构建数据仓库」是一套基于真实项目的实战学习笔记,记录我从零开始在 SQL Server 上用 dbt 搭建分层式数仓的完整过程。本文是第 1 篇,回答两个问题:dbt 到底是什么、一个 dbt 项目从开发到上线经历哪些环节。",
+          "link": "https://www.cnblogs.com/aspnetx/p/22199963",
+          "publishedOn": "2026-08-04T02:40:00.000Z",
+          "wordCount": 831,
+          "title": "dbt+SQLServer构建数据仓库(1)：认识dbt与项目工作流程 - 哥本哈士奇(aspnetx)",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/d0ublecl1ck/p/22198289",
+          "author": null,
+          "description": "这两天我一直在想，自己的公众号第一篇到底该写什么。 我手上能聊的东西太多了。怎么设计门禁，让 AI 写出的代码符合我们的要求，怎么同时做到开发快和不出错，怎么把这些实践收拢成一套自研的 AI Coding 工程体系，怎么在项目长期迭代里保证需求不跑偏，让代码和需求始终保持双向追溯。每一个拎出来，好像",
+          "link": "https://www.cnblogs.com/d0ublecl1ck/p/22198289",
+          "publishedOn": "2026-08-04T02:08:00.000Z",
+          "wordCount": 553,
+          "title": "只教 AI 一次，让团队经验开始复利 - d0ublecl1ck",
+          "imageUrl": "https://img2024.cnblogs.com/blog/3482424/202608/3482424-20260804100800132-434595850.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/hyly-mark/p/22198022",
+          "author": null,
+          "description": "前言 在云原生架构中，系统是否能够真正做到“弹性伸缩”，取决于对底层扩缩容引擎的控制力。从基础的资源监控（CPU/内存），到面向业务的 Serverless 并发调度，扩缩容不仅是简单的“超过阈值就加机器”，而是一套精密结合了数学计算、防抖动容错以及业务特性的控制流。 扩缩容的核心大脑：K8s 原生",
+          "link": "https://www.cnblogs.com/hyly-mark/p/22198022",
+          "publishedOn": "2026-08-04T02:03:00.000Z",
+          "wordCount": 515,
+          "title": "Kubernetes 与 Serverless 极致弹性架构：扩缩容底层逻辑与实战指南 - Markk",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/jazz-z/p/22197581",
+          "author": null,
+          "description": "在企业信息化流程中，PDF 表单是一种常见的数据采集载体。用户填写完成后，系统往往需要自动提取表单域中的数据，用于入库、校验或后续业务处理。本文将介绍如何使用 C# 读取 PDF 文档中的交互式表单域，覆盖文本框、复选框、单选按钮组、下拉列表等常见字段类型。 一、方案概述 PDF 表单域的每个字段拥",
+          "link": "https://www.cnblogs.com/jazz-z/p/22197581",
+          "publishedOn": "2026-08-04T01:53:00.000Z",
+          "wordCount": 618,
+          "title": "如何用 C# 获取 PDF 表单中的填写内容 - LAYONTHEGROUND",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/jinjiangongzuoshi/p/22196365",
+          "author": null,
+          "description": "上一篇我们用 ui-testscript-generator 解决了「脚本批量生成」的问题，几分钟就拿到了完整的 UI 自动化工程。 但如果你真的拿这些脚本去跑一遍，大概率会遇到这样的情况： 本地跑得好好的，一上 CI 就挂。昨天还能过，今天突然挂。环境没变，但偶尔就挂。 这不是你的脚本逻辑写错了，",
+          "link": "https://www.cnblogs.com/jinjiangongzuoshi/p/22196365",
+          "publishedOn": "2026-08-04T01:27:00.000Z",
+          "wordCount": 1080,
+          "title": "AI 测试提效 ｜ 脚本能跑但总挂？分享我的 ui-testscript-enhancer + Skill UI 自动化健壮性增强方案 - 狂师",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/zhangs1986/p/22138742",
+          "author": null,
+          "description": "事故现场 这次的背景是生产环境 Nacos 集群 3 个节点，其中一个节点因底层硬件问题需要重启。按理说，集群架构天然支持节点故障转移，但重启后大量服务开始报不健康告警，最终引发连锁反应——大面积服务重启。 问题的本质是：Nacos 服务端的一次短暂抖动，怎么就传导成了客户端的雪崩？ 针对这次的na",
+          "link": "https://www.cnblogs.com/zhangs1986/p/22138742",
+          "publishedOn": "2026-08-04T00:31:00.000Z",
+          "wordCount": 450,
+          "title": "线上惊魂：Nacos 抖动导致大面积服务掉线，我们是怎么兜底的 - 欢醉",
+          "imageUrl": "https://img2024.cnblogs.com/blog/273387/202608/273387-20260804083204273-2136355574.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/wackysoft/p/22188247",
+          "author": null,
+          "description": "前言 大家好，我是wacky。上一篇我们聊了工控的基本概念——什么是PLC、通信协议是干什么的以及.NET在工控领域的生态位。今天我们往下挖一层，进入实战环节：通信协议到底怎么用、怎么选、怎么避坑。 上一篇留了个概览表，今天展开聊两个核心协议：Modbus和OPC UA。为什么是这两个？因为它们覆盖",
+          "link": "https://www.cnblogs.com/wackysoft/p/22188247",
+          "publishedOn": "2026-08-04T00:07:00.000Z",
+          "wordCount": 479,
+          "title": "通信协议实战：Modbus与OPC UA怎么选 - Wackysoft",
+          "imageUrl": "https://img2024.cnblogs.com/blog/443744/202608/443744-20260802085831699-404926374.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/shukesio/p/22189998",
+          "author": null,
+          "description": "之前我在网页上做过一个好玩的东西：一颗胶囊形状的卡片，里面的颜色像水彩一样不停流动，鼠标划过去还会跟着加速。很多朋友问能不能在小程序里用。我试了才知道，网页上三行代码搞定的 canvas，到了小程序里完全是另一回事。这篇记录一下这团&quot;云雾&quot;从网页搬进微信小程序的过程，以及我最后把它封装成的到小程序",
+          "link": "https://www.cnblogs.com/shukesio/p/22189998",
+          "publishedOn": "2026-08-03T15:30:00.000Z",
+          "wordCount": 690,
+          "title": "我把网页上那团流动的彩色云雾，塞进了微信小程序 - 舒克sk",
+          "imageUrl": "https://img2024.cnblogs.com/blog/1963715/202608/1963715-20260803232517973-489817089.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/denglei1024/p/22188812",
+          "author": null,
+          "description": "实体继承的设计 ABP 的实体体系不是一次设计出 7 层的，而是逐层递增，每个层次解决一个问题。 源码在 framework/src/Volo.Abp.Ddd.Domain/Volo/Abp/Domain/Entities/，看每个基类实际加了什么。 每一层的源码分析 第 1 层：IEntity /",
+          "link": "https://www.cnblogs.com/denglei1024/p/22188812",
+          "publishedOn": "2026-08-03T14:05:00.000Z",
+          "wordCount": 574,
+          "title": "ABP DDD 实体源码解读：7 层基类的设计逻辑和适用场景 - DLForge",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/rossiXYZ/p/22084795",
+          "author": null,
+          "description": "【Agentic RL / 强化学习 / OPD】OpenClaw-RL 源码阅读笔记 (15) Combine模式 目录【Agentic RL / 强化学习 / OPD】OpenClaw-RL 源码阅读笔记 (15) Combine模式0x00 概要0x01 架构1.1 架构：继承而非重写1.2",
+          "link": "https://www.cnblogs.com/rossiXYZ/p/22084795",
+          "publishedOn": "2026-08-03T12:49:00.000Z",
+          "wordCount": 4033,
+          "title": "【Agentic RL / 强化学习 / OPD】OpenClaw-RL 源码阅读笔记 --- (15)--- Combine模式 - 罗西的思考",
+          "imageUrl": "https://img2024.cnblogs.com/blog/1850883/202605/1850883-20260524001524647-564292437.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/aslanvon/p/22188187",
+          "author": null,
+          "description": "一、启发式算法到底解决什么问题 优化问题的基本形式通常可以写成： \\[\\min_{x\\in\\Omega} f(x) \\]或者： \\[\\max_{x\\in\\Omega} f(x) \\]其中，\\(x\\) 是一个候选方案，\\(\\Omega\\) 是所有可行方案组成的搜索空间，\\(f(x)\\) 是衡量方案质量",
+          "link": "https://www.cnblogs.com/aslanvon/p/22188187",
+          "publishedOn": "2026-08-03T12:45:00.000Z",
+          "wordCount": 1814,
+          "title": "启发式优化算法简介 - aixueforever",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/Aimeast/p/22187545",
+          "author": null,
+          "description": "测试目标：使用 OpenSSH 客户端对两个 .NET SSH 服务端库 FxSsh (commit 3f7eb6) 与 Dev Tunnels SSH (Microsoft.DevTunnels.Ssh 3.12.40) 的能力、传输速度、内存占用进行全面测试，覆盖各自每一种可用的密码算法。 Fx",
+          "link": "https://www.cnblogs.com/Aimeast/p/22187545",
+          "publishedOn": "2026-08-03T11:47:00.000Z",
+          "wordCount": 1180,
+          "title": ".NET SSH 库对比测试报告：FxSsh vs Microsoft Dev Tunnels SSH - Aimeast",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/ai-go-hub/p/22183856",
+          "author": null,
+          "description": "这是一个系列 Blog，作者将以一个 PHP 全栈工程师的身份，利用 AI 工具（claude code、codex、deepseek、豆包等）：从零开始学习 golang 语言，并最终完成 ai-go-admin（github | gitee）开源项目的制作，全程记录分享。 在上一期，我们进行了",
+          "link": "https://www.cnblogs.com/ai-go-hub/p/22183856",
+          "publishedOn": "2026-08-03T09:48:00.000Z",
+          "wordCount": 504,
+          "title": "从 PHP 到 AI + Golang，程序员自救转型手记（四十九）：多条件组筛选、字段白名单（增强功能并预防SQL注入） - 妙码生花",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/hegezhou_hot/p/22182202",
+          "author": null,
+          "description": "鲲溟智能 &#183; AI智能客服新范式 第01篇 | 2026-07-21 | 阅读时间约12分钟 客服成本年均增长25%、用户期望从&quot;能解决&quot;升级为&quot;秒解决&quot;、人才流失率突破40%……传统客服体系正面临前所未有的生存危机。本文深度剖析2026年企业客服的5大生死命题，揭示AI客服为何不再是&quot;锦上添花&quot;，",
+          "link": "https://www.cnblogs.com/hegezhou_hot/p/22182202",
+          "publishedOn": "2026-08-03T09:18:00.000Z",
+          "wordCount": 541,
+          "title": "【AI智能客服】2026年企业客服的5大生死命题：为什么传统客服体系正在崩塌 - hotdefans",
+          "imageUrl": "https://img2024.cnblogs.com/blog/46256/202608/46256-20260803171811917-334958748.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/mianmaner/p/20190702",
+          "author": null,
+          "description": "背景 用户终身行为建模（ULBM） 是指在严格的工业效率约束下，对超长且异构的用户行为序列进行建模的问题。在真实工业推荐系统中，用户终身行为序列呈现两个显著特征： 超长序列（Ultra-long Sequences）：在快手等大型视频平台上，用户每天可能产生数百次交互，终身行为序列长度可达 10⁵",
+          "link": "https://www.cnblogs.com/mianmaner/p/20190702",
+          "publishedOn": "2026-08-03T08:35:00.000Z",
+          "wordCount": 682,
+          "title": "\"A Survey of User Lifelong Behavior Modeling: Perspectives on Efficiency and Effectiveness\" 论文笔记 - 绵满",
+          "imageUrl": "https://img2024.cnblogs.com/blog/3614753/202605/3614753-20260527195927625-420983331.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/znlgis/p/22179226",
+          "author": null,
+          "description": "你是一位精通 OpenCode 与 DeepSeek 的配置优化专家。你的任务是对当前 OpenCode 项目进行全面重构与精简，严格遵循以下原则与资源优化配置，最终更新 README.md。 核心目标：在严格控制 token 消耗的前提下，让 OpenCode 与 DeepSeek 模型（仅限 d",
+          "link": "https://www.cnblogs.com/znlgis/p/22179226",
+          "publishedOn": "2026-08-03T08:25:00.000Z",
+          "wordCount": 375,
+          "title": "My OpenCode × DeepSeek Config 项目的最新提示词 - 我才是银古",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/SheepDog/p/22174518",
+          "author": null,
+          "description": "Windows 使用 NSSM 将 Nginx 注册系统服务部署运维手册 一、前言 场景痛点 Windows 原生直接双击运行 Nginx 会弹出 CMD 黑窗口，关闭窗口程序直接终止，无法后台常驻、开机自启、崩溃自动重启；Windows 原生系统服务无法直接托管普通控制台 EXE 程序。 NSSM",
+          "link": "https://www.cnblogs.com/SheepDog/p/22174518",
+          "publishedOn": "2026-08-03T07:06:00.000Z",
+          "wordCount": 662,
+          "title": "Windows 使用 NSSM 将 Nginx 注册系统服务部署运维手册 - SheepDog1998",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/Qiniu-developer/p/22172611",
+          "author": null,
+          "description": "本期「周一上线」聚焦AI两大演进方向：模型加速迈向多模态与机器人，Agent则从“写代码”升级为长期协作、端到端交付与自我改进。DeepSeek V4-Flash、MiniMax H3、Gemini Robotics 2等密集发布，OpenAI Astra、Lilian Weng的RSI团队、贾扬清...",
+          "link": "https://www.cnblogs.com/Qiniu-developer/p/22172611",
+          "publishedOn": "2026-08-03T06:30:00.000Z",
+          "wordCount": 829,
+          "title": "DeepSeek V4-Flash 正式版接入 Codex，OpenAI 新模型 Astra 浮出水面，Google DeepMind 明星团队被拆 - 小七-七牛开发者",
+          "imageUrl": "https://img2024.cnblogs.com/blog/3796273/202608/3796273-20260803142401939-1672500390.gif"
+        },
         {
           "id": "https://www.cnblogs.com/goodhacker/p/22167488",
           "author": null,
@@ -20554,6 +20949,36 @@
       "feedUrl": "http://h1.nobbd.de/reports_rss.xml",
       "siteUrl": "http://h1.nobbd.de/",
       "articles": [
+        {
+          "id": "https://hackerone.com/reports/3478646",
+          "author": null,
+          "description": "AWS VDP disclosed a bug submitted by sh3d0w: https://hackerone.com/reports/3478646",
+          "link": "https://hackerone.com/reports/3478646",
+          "publishedOn": "2026-08-03T18:17:48.000Z",
+          "wordCount": 25,
+          "title": "GitHub Retired UsernameTakeover From  [aws/]",
+          "imageUrl": "https://profile-photos.hackerone-user-content.com/variants/fgfqam8gl7lzo8u8v0kiphkxfyt8/5d27521e1b671a8e8bc4f016cace6a876120e5addf7dcc35ae4a5eac091669a9"
+        },
+        {
+          "id": "https://hackerone.com/reports/3514640",
+          "author": null,
+          "description": "Rocket.Chat disclosed a bug submitted by howtoplay: https://hackerone.com/reports/3514640",
+          "link": "https://hackerone.com/reports/3514640",
+          "publishedOn": "2026-08-03T13:35:55.000Z",
+          "wordCount": 25,
+          "title": "Unauthenticated Path Traversal (LFI) via /custom-sounds/ when CustomSounds uses FileSystem storage",
+          "imageUrl": "https://profile-photos.hackerone-user-content.com/variants/000/019/858/ada6c92a338715afad123af214dd6e22fd8dc6ff_original.png/f0e07660005686ec92c43da54c0094c1ac1b490ea8c5eac04a4081d912d6ce36"
+        },
+        {
+          "id": "https://hackerone.com/reports/3911605",
+          "author": null,
+          "description": "curl disclosed a bug submitted by dark_river: https://hackerone.com/reports/3911605",
+          "link": "https://hackerone.com/reports/3911605",
+          "publishedOn": "2026-08-03T07:16:40.000Z",
+          "wordCount": 25,
+          "title": "SMTP CRLF injection in custom SMTP recipient operand allows additional SMTP commands after authentication",
+          "imageUrl": "https://profile-photos.hackerone-user-content.com/variants/000/035/663/2faf4c279d437d64bfda6d23d62ce1833813a4d9_original.png/f0e07660005686ec92c43da54c0094c1ac1b490ea8c5eac04a4081d912d6ce36"
+        },
         {
           "id": "https://hackerone.com/reports/3878586",
           "author": null,
