@@ -6,6 +6,16 @@
       "siteUrl": "http://h1.nobbd.de/",
       "articles": [
         {
+          "id": "https://hackerone.com/reports/3911968",
+          "author": null,
+          "description": "curl disclosed a bug submitted by juthawong: https://hackerone.com/reports/3911968",
+          "link": "https://hackerone.com/reports/3911968",
+          "publishedOn": "2026-08-04T14:55:05.000Z",
+          "wordCount": 25,
+          "title": "Heap use-after-free (write) in mev_forget_socket() via reentrant curl_easy_pause()  incomplete fix for CVE-2026-9080",
+          "imageUrl": "https://profile-photos.hackerone-user-content.com/variants/000/035/663/2faf4c279d437d64bfda6d23d62ce1833813a4d9_original.png/f0e07660005686ec92c43da54c0094c1ac1b490ea8c5eac04a4081d912d6ce36"
+        },
+        {
           "id": "https://hackerone.com/reports/3478646",
           "author": null,
           "description": "AWS VDP disclosed a bug submitted by sh3d0w: https://hackerone.com/reports/3478646",
@@ -3990,6 +4000,106 @@
       "siteUrl": "https://medium.com/tag/bugbounty/latest?source=rss------bugbounty-5",
       "articles": [
         {
+          "id": "https://medium.com/p/8b6900b20ff4",
+          "author": "Tejas Kamble",
+          "description": "An ethical bug bounty recon checklist for discovering exposed configuration, source code, backups, secrets, documentation, logs, and other…\nContinue reading on Medium »",
+          "link": "https://medium.com/@getroutenet196/100-high-value-files-paths-every-bug-hunter-should-check-during-recon-8b6900b20ff4?source=rss------bugbounty-5",
+          "publishedOn": "2026-08-04T20:25:27.000Z",
+          "wordCount": null,
+          "title": "100 High-Value Files & Paths Every Bug Hunter Should Check During Recon",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/47ee4294f440",
+          "author": "Abhishek meena",
+          "description": "A private pentest, one API call, and a lesson every Supabase (or RLS-backed) team needs to hear.\nContinue reading on Medium »",
+          "link": "https://medium.com/@Aacle/how-i-found-a-critical-bug-that-exposed-every-users-pii-with-a-free-account-47ee4294f440?source=rss------bugbounty-5",
+          "publishedOn": "2026-08-04T18:56:12.000Z",
+          "wordCount": null,
+          "title": "How I Found a Critical Bug That Exposed Every User’s PII With a Free Account",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/3d0089c65979",
+          "author": "Anandhu Kannan",
+          "description": "Understanding CORS from Scratch (Developer’s Perspective)\nContinue reading on Medium »",
+          "link": "https://medium.com/@anandhukannan/learning-cors-the-right-way-understanding-the-browser-before-the-attack-3d0089c65979?source=rss------bugbounty-5",
+          "publishedOn": "2026-08-04T18:12:31.000Z",
+          "wordCount": null,
+          "title": "Learning CORS the Right Way: Understanding the Browser Before the Attack",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/7f099512916c",
+          "author": "Forhad Parvez",
+          "description": "About Me\nContinue reading on Medium »",
+          "link": "https://medium.com/@forhad.dks/the-debug-flag-that-opened-the-door-a-journey-from-django-debug-mode-to-critical-rce-7f099512916c?source=rss------bugbounty-5",
+          "publishedOn": "2026-08-04T17:39:17.000Z",
+          "wordCount": null,
+          "title": "The Debug Flag That Opened the Door: A Journey From Django Debug Mode to Critical RCE",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/5c981d6ca480",
+          "author": "anshh.bohara",
+          "description": "I found a systemic Broken Object-Level Authorization (BOLA) vulnerability in a government transport application’s real-time GraphQL API…\nContinue reading on Medium »",
+          "link": "https://medium.com/@anshbohra10/how-i-found-a-250-bola-in-a-government-transport-apps-real-time-api-5c981d6ca480?source=rss------bugbounty-5",
+          "publishedOn": "2026-08-04T17:15:45.000Z",
+          "wordCount": null,
+          "title": "How I Found a $250 BOLA in a Government Transport App’s Real-Time API",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/fcb99e1d3958",
+          "author": "0xMo7areb",
+          "description": "الحمد لله الذي عَلَّمَ بالقلم، عَلَّمَ الإنسان ما لم يعلم، والصلاة والسلام على سيدنا محمد ﷺ وبعد\nContinue reading on Medium »",
+          "link": "https://medium.com/@0xMo7areb/the-invitation-was-gone-but-i-could-still-join-fcb99e1d3958?source=rss------bugbounty-5",
+          "publishedOn": "2026-08-04T14:26:01.000Z",
+          "wordCount": null,
+          "title": "The Invitation Was Gone… But I Could Still Join",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/4085f4093aeb",
+          "author": "Priyansh",
+          "description": "Why this matters\nContinue reading on Medium »",
+          "link": "https://medium.com/@priyanshbhadoria5/the-frontend-lied-how-a-free-account-could-delete-production-api-specs-on-an-airlines-developer-4085f4093aeb?source=rss------bugbounty-5",
+          "publishedOn": "2026-08-04T14:16:35.000Z",
+          "wordCount": null,
+          "title": "The Frontend Lied: How a Free Account Could Delete Production API Specs on an Airline’s Developer…",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/5deb62ddb6d3",
+          "author": "Mohamed Sameh",
+          "description": "The Most Useful Payloads Every Pentester Should Know\nContinue reading on Medium »",
+          "link": "https://medium.com/@Mohamed_Sameh/msfvenom-cheat-sheet-part-3-5deb62ddb6d3?source=rss------bugbounty-5",
+          "publishedOn": "2026-08-04T13:56:01.000Z",
+          "wordCount": null,
+          "title": "MSFVenom Cheat Sheet (Part 3)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/a973eb07a099",
+          "author": "Ali Essam",
+          "description": "The Unthinkable Happened\nContinue reading on Medium »",
+          "link": "https://3ly.medium.com/the-coldcard-catastrophe-how-a-single-line-of-code-let-attackers-drain-100m-from-unhackable-a973eb07a099?source=rss------bugbounty-5",
+          "publishedOn": "2026-08-04T12:39:51.000Z",
+          "wordCount": 4674,
+          "title": "The Coldcard Catastrophe: How a Single Line of Code Let Attackers Drain $100M+ from “Unhackable”…",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*D4C2rHjTEmdOVqRVy7pj9w.png"
+        },
+        {
+          "id": "https://medium.com/p/26420009f361",
+          "author": "N0aziXss",
+          "description": "Subtitle:\nContinue reading on Medium »",
+          "link": "https://medium.com/@N0aziXss/clickjacking-bypass-techniques-a-practical-methodology-for-security-testing-26420009f361?source=rss------bugbounty-5",
+          "publishedOn": "2026-08-04T12:26:43.000Z",
+          "wordCount": null,
+          "title": "Clickjacking & Bypass Techniques: A Practical Methodology for Security Testing",
+          "imageUrl": null
+        },
+        {
           "id": "https://medium.com/p/6b11631fb58b",
           "author": "gngoma",
           "description": "« Connais ton ennemi et connais-toi toi-même, et tu ne craindras pas l’issue de cent batailles. » — Sun Tzu\nContinue reading on Medium »",
@@ -7786,6 +7896,56 @@
       "feedUrl": "https://medium.com/feed/tag/redteam",
       "siteUrl": "https://medium.com/tag/redteam/latest?source=rss------redteam-5",
       "articles": [
+        {
+          "id": "https://medium.com/p/d156b30c9d2b",
+          "author": "Erdem Ceylan",
+          "description": "Bir Windows bilgisayarında domain hesabıyla oturum açmak, ekranda kullanıcı adı ve parola yazıp birkaç saniye beklemek kadar basit görünür…\nContinue reading on Medium »",
+          "link": "https://medium.com/@e.erdem.e25/bir-red-teamer%C4%B1n-g%C3%B6z%C3%BCnden-windows-domain-oturumu-paroladan-masa%C3%BCst%C3%BCne-kerberos-ldap-ve-gpo-d156b30c9d2b?source=rss------redteam-5",
+          "publishedOn": "2026-08-04T19:52:43.000Z",
+          "wordCount": null,
+          "title": "Bir Red Teamer’ın Gözünden Windows Domain Oturumu: Paroladan Masaüstüne Kerberos, LDAP ve GPO…",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/efbc837f3fbd",
+          "author": "Narmadha",
+          "description": "Imagine an API server running in production with debug mode enabled.\nContinue reading on Medium »",
+          "link": "https://medium.com/@narmadha484/owasp-api-8-security-misconfiguration-small-mistakes-big-security-risks-efbc837f3fbd?source=rss------redteam-5",
+          "publishedOn": "2026-08-04T15:11:07.000Z",
+          "wordCount": null,
+          "title": "OWASP API #8 - Security Misconfiguration: Small Mistakes, Big Security Risks",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/56a76b6528e3",
+          "author": "exz",
+          "description": "Turning red team findings into actionable defensive improvements\nContinue reading on Medium »",
+          "link": "https://eaxz3ro.medium.com/red-teaming-operational-reporting-and-purple-team-integration-56a76b6528e3?source=rss------redteam-5",
+          "publishedOn": "2026-08-04T11:06:01.000Z",
+          "wordCount": 2772,
+          "title": "Red Teaming: Operational Reporting and Purple Team Integration",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*HDJrojjfvuSqk4eUBIGZhA.png"
+        },
+        {
+          "id": "https://medium.com/p/053dc7910b1a",
+          "author": "Rishav anand",
+          "description": "Ever heard of this?? iPhones also can be hackable\nContinue reading on Medium »",
+          "link": "https://medium.com/@anandrishav2228/the-rise-of-darksword-unpacking-the-next-generation-ios-exploit-kit-053dc7910b1a?source=rss------redteam-5",
+          "publishedOn": "2026-08-04T05:20:41.000Z",
+          "wordCount": null,
+          "title": "The Rise of DarkSword: Unpacking the Next-Generation iOS Exploit Kit",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/103361b6e194",
+          "author": "M Sameer Malik",
+          "description": "In this article I will be discussing how one can use the windows registry keys to stage the malware.\nContinue reading on Medium »",
+          "link": "https://medium.com/@m.sameer.malik113/payload-staging-via-registry-keys-103361b6e194?source=rss------redteam-5",
+          "publishedOn": "2026-08-04T04:12:53.000Z",
+          "wordCount": null,
+          "title": "Payload Staging Via Registry Keys",
+          "imageUrl": null
+        },
         {
           "id": "https://medium.com/p/684ee12b57cb",
           "author": "Karimsaminur",
@@ -12963,6 +13123,206 @@
       "feedUrl": "https://feed.cnblogs.com/blog/sitehome/rss",
       "siteUrl": null,
       "articles": [
+        {
+          "id": "https://www.cnblogs.com/ai-old-six/p/22237377",
+          "author": null,
+          "description": "Agent 自进化的难点不是生成建议，而是用约束、验证和拒绝机制提高有效改进候选占比。 导语 一个 Agent 系统如果已经能记录 trace、执行验证、定位失败，下一步很自然会走向自我改进。 但真正难的不是“让模型提出修改建议”。这件事反而太容易了。给 LLM 一段失败日志，它可以立刻写出十条改进",
+          "link": "https://www.cnblogs.com/ai-old-six/p/22237377",
+          "publishedOn": "2026-08-05T02:46:00.000Z",
+          "wordCount": 566,
+          "title": "Agent 自进化为什么难：约束系统比自我反思更重要 - AI小老六",
+          "imageUrl": "https://img2024.cnblogs.com/blog/3798513/202608/3798513-20260805104123296-869718385.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/denglei1024/p/22236789",
+          "author": null,
+          "description": "ApplicationService 的声明 // framework/src/Volo.Abp.Ddd.Application/Volo/Abp/Application/Services/ApplicationService.cs public abstract class Application",
+          "link": "https://www.cnblogs.com/denglei1024/p/22236789",
+          "publishedOn": "2026-08-05T02:37:00.000Z",
+          "wordCount": 623,
+          "title": "ABP 应用服务源码解读：ApplicationService 基类内置了哪些能力 - DLForge",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/zrui-xyu/p/22235364",
+          "author": null,
+          "description": "此文剖析Redis缓存穿透、击穿、雪崩的成因与差异；给出布隆过滤器、Redisson分布式锁、逻辑过期、TTL随机偏移、Caffeine多级缓存等落地方案，附带Java核心代码；梳理各类技术痛点，搭配真实面试问答，分享线上故障处理经验。",
+          "link": "https://www.cnblogs.com/zrui-xyu/p/22235364",
+          "publishedOn": "2026-08-05T02:09:00.000Z",
+          "wordCount": 1586,
+          "title": "介绍一下Redis的缓存穿透击穿雪崩 - Rain的Java大神实战圈",
+          "imageUrl": "https://img2024.cnblogs.com/blog/739056/202608/739056-20260805100615715-1041170538.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/halfcode/p/22234019",
+          "author": null,
+          "description": "上一节把 DeepAgents 的基本骨架搭起来了，Agent 已经能正常对话。可测试工作里光会聊天不够——需求通常写在 Word、PDF、TXT 里，如果还靠人手复制粘贴，既慢，也容易漏。这一节要补上的，就是让 Agent 自己去读这些文档。 做法其实不复杂：给它配好 Skills，再挂上合适的",
+          "link": "https://www.cnblogs.com/halfcode/p/22234019",
+          "publishedOn": "2026-08-05T01:37:00.000Z",
+          "wordCount": 438,
+          "title": "2. 2行配置！让AI Agent自动读取需求文档 - 老陈说编程",
+          "imageUrl": "https://img2024.cnblogs.com/blog/1919157/202608/1919157-20260805093148415-246098576.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/minyun/p/22234040",
+          "author": null,
+          "description": "SDUT 计算机网络实验一：局域网双绞线制作与测试（上） hello ~ 这里是minyu（悯雨） 实验一：局域网组建（编码：E1219701） 实验内容 剥线：用卡线钳的剪线刀口将双绞线端头剪齐，再划开双绞线的保护胶皮（注意不要划到里面的导线），从而剥下保护胶 理线：请按照标准EIA-568B（推",
+          "link": "https://www.cnblogs.com/minyun/p/22234040",
+          "publishedOn": "2026-08-05T01:37:00.000Z",
+          "wordCount": 288,
+          "title": "SDUT 计算机网络实验一：局域网双绞线制作与测试（上） - muyeminyu",
+          "imageUrl": "https://img2024.cnblogs.com/blog/3561388/202608/3561388-20260805093006897-2051111815.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/jinjiangongzuoshi/p/22233575",
+          "author": null,
+          "description": "前几天逛技术社区时，看到一条挺有意思的帖子。 一个做技术的老哥，说自己每个月光AI订阅费就得至少花费一千以上。 Claude Pro 20刀，Cursor 20刀，ChatGPT Plus 20刀，再加上Gemini、Perplexity、v0这些乱七八糟的。 他配了句话，「上班不但没挣钱，还倒贴」",
+          "link": "https://www.cnblogs.com/jinjiangongzuoshi/p/22233575",
+          "publishedOn": "2026-08-05T01:29:00.000Z",
+          "wordCount": 460,
+          "title": "公司不给你配 AI，你会自己掏钱吗？ - 狂师",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/wackysoft/p/22223863",
+          "author": null,
+          "description": "前言 大家好，我是wacky。上一篇我们聊了通信协议——Modbus和OPC UA怎么选、怎么用、怎么避坑。如果通信协议是&quot;把数据搬过来&quot;，那今天这一篇解决的问题是：数据搬过来之后怎么办。 一个工控上位机系统，通信只是第一步。PLC每秒推送几百上千个数据点，你拿到了温度、压力、流量、位置……然后呢？",
+          "link": "https://www.cnblogs.com/wackysoft/p/22223863",
+          "publishedOn": "2026-08-05T00:08:00.000Z",
+          "wordCount": 720,
+          "title": "工控生态之数据与业务：采集到的数据怎么存、怎么管、怎么用 - Wackysoft",
+          "imageUrl": "https://img2024.cnblogs.com/blog/443744/202608/443744-20260804210219250-520286737.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/catchadmin/p/22231254",
+          "author": null,
+          "description": "PHP 引用计数机制深度解析 某位开发者正在排查一个问题：为什么 PHP 工作进程在处理大约 8000 个任务之后总是因&quot;Allowed memory size exhausted&quot;而崩溃。最终上线的修复方案是&quot;每处理 1000 个任务就重启工作进程&quot;。方案奏效了。真正导致泄漏的根因——一个带有双向",
+          "link": "https://www.cnblogs.com/catchadmin/p/22231254",
+          "publishedOn": "2026-08-04T23:55:00.000Z",
+          "wordCount": 1634,
+          "title": "PHP 引用计数机制深度解析 - JaguarJack",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/eventhorizon/p/22225559",
+          "author": null,
+          "description": "目录前言从 Remoting 说起Remoting 链路如何工作Remoting 架构的使用成本客户端实现复杂多语言客户端难以保持一致应用需要直接访问 Broker客户端与服务端演进联系较紧RocketMQ 5：Proxy 与 gRPC标准化协议与多语言 API客户端可以更轻网络入口更集中gRPC",
+          "link": "https://www.cnblogs.com/eventhorizon/p/22225559",
+          "publishedOn": "2026-08-04T15:27:00.000Z",
+          "wordCount": 1098,
+          "title": "面向 .NET 开发者的 RocketMQ 入门指南（一）：整体架构 - 黑洞视界",
+          "imageUrl": "https://img2024.cnblogs.com/blog/1201123/202608/1201123-20260804232541534-12211560.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/aspnetx/p/22225489",
+          "author": null,
+          "description": "本文接上篇的 dbt 定位与工作流程, 讲述:dbt 和 SQL Server 上传统数仓开发相比有哪些范式差异和取舍。 一、引言 上篇我们弄清了 dbt 是什么、一个 dbt 项目怎么跑起来。但&quot;dbt 好不好&quot;是个伪命题——好坏是相对的,得有参照系。这个参照系就是团队现在用的 SQL Serve",
+          "link": "https://www.cnblogs.com/aspnetx/p/22225489",
+          "publishedOn": "2026-08-04T15:18:00.000Z",
+          "wordCount": 1368,
+          "title": "dbt+SQLServer构建数据仓库(2)：与传统方案对比及迁移决策 - 哥本哈士奇(aspnetx)",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/myvin/p/22225259",
+          "author": null,
+          "description": "真正精彩的部分来了：一个文件夹可能有几十上百个文件，GitZip Pro 要递归遍历、过滤忽略项、控制并发、逐个下载，再塞进 JSZip。一个看似简单的 zip，背后是一条完整的下载流水线。",
+          "link": "https://www.cnblogs.com/myvin/p/22225259",
+          "publishedOn": "2026-08-04T14:36:00.000Z",
+          "wordCount": 834,
+          "title": "GitZip Pro 源码解析：一个 GitHub 文件/文件夹下载扩展是如何工作的（四）递归下载、并发控制与 ZIP 打包 - fthux",
+          "imageUrl": "https://img2024.cnblogs.com/blog/779193/202608/779193-20260804223540154-1505278995.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/JJ-Wu/p/22224063",
+          "author": null,
+          "description": "一、产品展示 本次项目依旧沿用熟悉的技术栈：C++、Qt、QPainter。 依托 C++ 高性能的底层能力，结合 Qt 的界面框架，再借助 QPainter 完成自定义绘图渲染，实现化工工艺场景下流体对象的可视化绘制。本次演示主要还原智能化工液体介质之间的交互与流转流程，通过图形直观体现各个设备、",
+          "link": "https://www.cnblogs.com/JJ-Wu/p/22224063",
+          "publishedOn": "2026-08-04T13:21:00.000Z",
+          "wordCount": 389,
+          "title": "QT自定义控件之智能化工流程系统 - Littlehero_121",
+          "imageUrl": "https://img2024.cnblogs.com/blog/1837289/202608/1837289-20260804211808164-993741951.gif"
+        },
+        {
+          "id": "https://www.cnblogs.com/halfcode/p/22223623",
+          "author": null,
+          "description": "DeepAgents 是什么？一句话说，它是一个开箱即用的 Agent Harness——智能体运行支架。 很多时候，大家做 Agent 卡在哪？不是模型不够聪明，而是规划、读写文件、长上下文、子任务协作这些「硬骨头」得自己一块块接。DeepAgents 把这些能力内置好了，而且不是演示用的附属功能",
+          "link": "https://www.cnblogs.com/halfcode/p/22223623",
+          "publishedOn": "2026-08-04T12:38:00.000Z",
+          "wordCount": 487,
+          "title": "1. DeepAgents 开箱，鸿蒙自动化测试 Agent 框架跑通 - 老陈说编程",
+          "imageUrl": "https://img2024.cnblogs.com/blog/1919157/202608/1919157-20260804203820777-490668266.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/doiito/p/22223598",
+          "author": null,
+          "description": "DeepSeek Responses API 接入说明 Commit: 4391ba3 — update Responses API support 日期: 2026-08-04 范围: src/gateway/unified_gateway.rs、src/llm/sse.rs、src/config",
+          "link": "https://www.cnblogs.com/doiito/p/22223598",
+          "publishedOn": "2026-08-04T12:36:00.000Z",
+          "wordCount": 1512,
+          "title": "【Agent Harness】流马（Gliding Horse）DeepSeek Responses API 接入介绍 - doiito",
+          "imageUrl": "https://img2024.cnblogs.com/blog/3807434/202608/3807434-20260804203710073-1346431216.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/wjszxli/p/22223556",
+          "author": null,
+          "description": "如果你刚接触 AI Agent，可能会觉得这个概念既熟悉又陌生——熟悉是因为到处都在谈论，陌生是因为很难说清楚它到底是什么。今天这篇文章的目标，就是帮你从&quot;听过&quot;走到&quot;看懂&quot;，再走到&quot;能讲给别人听&quot;。 全文按照从具体到抽象、从直觉到原理的顺序组织：先用一个核心公式建立整体认知，再用一个真实例子感受",
+          "link": "https://www.cnblogs.com/wjszxli/p/22223556",
+          "publishedOn": "2026-08-04T12:31:00.000Z",
+          "wordCount": 1543,
+          "title": "走进 AI Agent - 老王以为",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/Tri-Function/p/21656668",
+          "author": null,
+          "description": "零、前言 作者是 xxs，DP学的不多，文章有错误还请指出。 一、基础 DP 这个算法的大致思路是将一个比较大的问题转化为一个个较小的子问题。 它其实可以看作是记忆化搜索的递推形式。 DP 在应用时有三个必要条件：无后效性、最优子结构性、子问题重叠性。 无后效性指的是“未来的结果与过去的过程无关”；",
+          "link": "https://www.cnblogs.com/Tri-Function/p/21656668",
+          "publishedOn": "2026-08-04T12:23:00.000Z",
+          "wordCount": 771,
+          "title": "动态规划DP1（c++） - Tri_Function",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/rossiXYZ/p/22154158",
+          "author": null,
+          "description": "【Agentic RL / 强化学习 / OPD】OpenClaw-RL 源码阅读笔记 (16) AReal 目录【Agentic RL / 强化学习 / OPD】OpenClaw-RL 源码阅读笔记 (16) AReal0x00 概要0x01 基础背景1.1 AReaL1.2 工作1.3 训练架构",
+          "link": "https://www.cnblogs.com/rossiXYZ/p/22154158",
+          "publishedOn": "2026-08-04T11:53:00.000Z",
+          "wordCount": 1721,
+          "title": "【Agentic RL / 强化学习 / OPD】OpenClaw-RL 源码阅读笔记 --- (16)--- AReal - 罗西的思考",
+          "imageUrl": "https://img2024.cnblogs.com/blog/1850883/202605/1850883-20260524001524647-564292437.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/lan2017t/p/22221643",
+          "author": null,
+          "description": "做 PHP 开发久了会发现一个很扎心的现象：本地测试完全正常，一上线就各种诡异问题。\n没有报错堆栈、没有崩溃日志，但是：\n- 网站高峰期突然变慢\n- 用户频繁遇到 502 / 504\n- 数据偶尔错乱、重复、超卖\n- 接口偶尔超时、偶尔雪崩\n- 后台任务重复执行、消息重复推送\n很多人把锅甩给服务器、...",
+          "link": "https://www.cnblogs.com/lan2017t/p/22221643",
+          "publishedOn": "2026-08-04T10:27:00.000Z",
+          "wordCount": 591,
+          "title": "PHP 线上十大隐形故障复盘：90% 的网站卡顿、502、雪崩，都是这些细节导致的 - 凡尘——雨落凡尘",
+          "imageUrl": "https://img2024.cnblogs.com/blog/3829313/202608/3829313-20260804182450554-161535187.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/rabbit-mygo/p/22220803",
+          "author": null,
+          "description": "我去我好像做不太懂这道题，有无大手子教教/ll 题意 有 \\(n\\) 只怪兽，每只怪兽有两个属性 \\((a_i,b_i)\\)。其中 \\(a_i\\) 表示生命值，\\(b_i\\) 表示爆炸伤害。每次你选择一只怪兽攻击；一只怪兽死亡后会对所有怪兽造成 \\(b_i\\) 点伤害。怪兽被攻击/生命值降为 \\(0",
+          "link": "https://www.cnblogs.com/rabbit-mygo/p/22220803",
+          "publishedOn": "2026-08-04T10:03:00.000Z",
+          "wordCount": 768,
+          "title": "SCOI2024day1t3重整山河 题解 - rabbit_mygo",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/ai-go-hub/p/22220412",
+          "author": null,
+          "description": "这是一个系列 Blog，作者将以一个 PHP 全栈工程师的身份，利用 AI 工具（claude code、codex、deepseek、豆包等）：从零开始学习 golang 语言，并最终完成 ai-go-admin（github | gitee）开源项目的制作（感谢 star ~），全程记录分享。",
+          "link": "https://www.cnblogs.com/ai-go-hub/p/22220412",
+          "publishedOn": "2026-08-04T09:58:00.000Z",
+          "wordCount": 674,
+          "title": "从 PHP 到 AI + Golang，程序员自救转型手记（五十一）：管理员和角色组的关联 - 妙码生花",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
         {
           "id": "https://www.cnblogs.com/powertoolsteam/p/22201234",
           "author": null,
@@ -20950,6 +21310,16 @@
       "siteUrl": "http://h1.nobbd.de/",
       "articles": [
         {
+          "id": "https://hackerone.com/reports/3911968",
+          "author": null,
+          "description": "curl disclosed a bug submitted by juthawong: https://hackerone.com/reports/3911968",
+          "link": "https://hackerone.com/reports/3911968",
+          "publishedOn": "2026-08-04T14:55:05.000Z",
+          "wordCount": 25,
+          "title": "Heap use-after-free (write) in mev_forget_socket() via reentrant curl_easy_pause()  incomplete fix for CVE-2026-9080",
+          "imageUrl": "https://profile-photos.hackerone-user-content.com/variants/000/035/663/2faf4c279d437d64bfda6d23d62ce1833813a4d9_original.png/f0e07660005686ec92c43da54c0094c1ac1b490ea8c5eac04a4081d912d6ce36"
+        },
+        {
           "id": "https://hackerone.com/reports/3478646",
           "author": null,
           "description": "AWS VDP disclosed a bug submitted by sh3d0w: https://hackerone.com/reports/3478646",
@@ -24003,6 +24373,16 @@
       "feedUrl": "https://security.tencent.com/index.php/feed/blog/0",
       "siteUrl": "http://security.tencent.com",
       "articles": [
+        {
+          "id": "https://security.tencent.com/index.php/blog/msg/225",
+          "author": null,
+          "description": "本文介绍了 Memory Heist 攻击的完整链路，并通过 AI-Infra-Guard（A.I.G）的 Agent 安全扫描模块（agent-scan）实现了对该攻击的自动化检测",
+          "link": "https://security.tencent.com/index.php/blog/msg/225",
+          "publishedOn": "2026-08-04T14:25:31.000Z",
+          "wordCount": 3914,
+          "title": "AI Agent 的记忆，为什么会成为攻击者的数据金矿？｜朱雀实验室",
+          "imageUrl": null
+        },
         {
           "id": "https://security.tencent.com/index.php/blog/msg/224",
           "author": null,
