@@ -6,6 +6,86 @@
       "siteUrl": "http://h1.nobbd.de/",
       "articles": [
         {
+          "id": "https://hackerone.com/reports/3782701",
+          "author": null,
+          "description": "Mozilla disclosed a bug submitted by griffinf: https://hackerone.com/reports/3782701 - Bounty: $12000",
+          "link": "https://hackerone.com/reports/3782701",
+          "publishedOn": "2026-08-05T15:50:21.000Z",
+          "wordCount": 25,
+          "title": "Unauthenticated RCE in Taskcluster web-server via GraphQL filter argument (sift $where)",
+          "imageUrl": "https://profile-photos.hackerone-user-content.com/variants/0p8e6gg8xoy45dhjxs5wh4iti6k8/f0e07660005686ec92c43da54c0094c1ac1b490ea8c5eac04a4081d912d6ce36"
+        },
+        {
+          "id": "https://hackerone.com/reports/3917775",
+          "author": null,
+          "description": "curl disclosed a bug submitted by kiyin: https://hackerone.com/reports/3917775",
+          "link": "https://hackerone.com/reports/3917775",
+          "publishedOn": "2026-08-05T11:13:13.000Z",
+          "wordCount": 25,
+          "title": "curl Missing Sec-WebSocket-Accept Verification Enables MITM WebSocket Session Hijacking",
+          "imageUrl": "https://profile-photos.hackerone-user-content.com/variants/000/035/663/2faf4c279d437d64bfda6d23d62ce1833813a4d9_original.png/f0e07660005686ec92c43da54c0094c1ac1b490ea8c5eac04a4081d912d6ce36"
+        },
+        {
+          "id": "https://hackerone.com/reports/3699522",
+          "author": null,
+          "description": "Monero disclosed a bug submitted by bebensap: https://hackerone.com/reports/3699522",
+          "link": "https://hackerone.com/reports/3699522",
+          "publishedOn": "2026-08-05T10:23:55.000Z",
+          "wordCount": 25,
+          "title": "`check_reserve_proof` counts duplicate entries: one output can inflate `total`",
+          "imageUrl": "https://profile-photos.hackerone-user-content.com/variants/000/007/731/55634f7fcd917725c7a5771cc6e7c9b4d5fe0c22_original.png/f0e07660005686ec92c43da54c0094c1ac1b490ea8c5eac04a4081d912d6ce36"
+        },
+        {
+          "id": "https://hackerone.com/reports/3698862",
+          "author": null,
+          "description": "Monero disclosed a bug submitted by bebensap: https://hackerone.com/reports/3698862",
+          "link": "https://hackerone.com/reports/3698862",
+          "publishedOn": "2026-08-05T10:23:44.000Z",
+          "wordCount": 25,
+          "title": "`check_reserve_proof` sums RingCT ECDH amounts without checking the output commitment",
+          "imageUrl": "https://profile-photos.hackerone-user-content.com/variants/000/007/731/55634f7fcd917725c7a5771cc6e7c9b4d5fe0c22_original.png/f0e07660005686ec92c43da54c0094c1ac1b490ea8c5eac04a4081d912d6ce36"
+        },
+        {
+          "id": "https://hackerone.com/reports/3693636",
+          "author": null,
+          "description": "Monero disclosed a bug submitted by bebensap: https://hackerone.com/reports/3693636",
+          "link": "https://hackerone.com/reports/3693636",
+          "publishedOn": "2026-08-05T10:23:32.000Z",
+          "wordCount": 25,
+          "title": "wallet-rpc crash via malformed /gettransactions response (empty txs  vector::front() in check_tx_key / check_tx_proof)",
+          "imageUrl": "https://profile-photos.hackerone-user-content.com/variants/000/007/731/55634f7fcd917725c7a5771cc6e7c9b4d5fe0c22_original.png/f0e07660005686ec92c43da54c0094c1ac1b490ea8c5eac04a4081d912d6ce36"
+        },
+        {
+          "id": "https://hackerone.com/reports/3700036",
+          "author": null,
+          "description": "Monero disclosed a bug submitted by bebensap: https://hackerone.com/reports/3700036",
+          "link": "https://hackerone.com/reports/3700036",
+          "publishedOn": "2026-08-05T10:23:21.000Z",
+          "wordCount": 25,
+          "title": "SpendProofV1 txid-substitution: get_spend_proof/check_spend_proof do not verify returned transaction hash",
+          "imageUrl": "https://profile-photos.hackerone-user-content.com/variants/000/007/731/55634f7fcd917725c7a5771cc6e7c9b4d5fe0c22_original.png/f0e07660005686ec92c43da54c0094c1ac1b490ea8c5eac04a4081d912d6ce36"
+        },
+        {
+          "id": "https://hackerone.com/reports/3723315",
+          "author": null,
+          "description": "Monero disclosed a bug submitted by bebensap: https://hackerone.com/reports/3723315",
+          "link": "https://hackerone.com/reports/3723315",
+          "publishedOn": "2026-08-05T10:23:08.000Z",
+          "wordCount": 25,
+          "title": "wallet-rpc describe_transfer uses real_output_in_tx_index instead of real_output: cold-wallet pre-sign review shows wrong ring member",
+          "imageUrl": "https://profile-photos.hackerone-user-content.com/variants/000/007/731/55634f7fcd917725c7a5771cc6e7c9b4d5fe0c22_original.png/f0e07660005686ec92c43da54c0094c1ac1b490ea8c5eac04a4081d912d6ce36"
+        },
+        {
+          "id": "https://hackerone.com/reports/3687543",
+          "author": null,
+          "description": "Monero disclosed a bug submitted by benisprlh: https://hackerone.com/reports/3687543",
+          "link": "https://hackerone.com/reports/3687543",
+          "publishedOn": "2026-08-05T05:05:49.000Z",
+          "wordCount": 25,
+          "title": "`relay_tx` wallet-rpc skips `--restricted-rpc` guard and lets any caller corrupt wallet state via attacker-controlled `pending_tx`",
+          "imageUrl": "https://profile-photos.hackerone-user-content.com/variants/000/007/731/55634f7fcd917725c7a5771cc6e7c9b4d5fe0c22_original.png/f0e07660005686ec92c43da54c0094c1ac1b490ea8c5eac04a4081d912d6ce36"
+        },
+        {
           "id": "https://hackerone.com/reports/3911968",
           "author": null,
           "description": "curl disclosed a bug submitted by juthawong: https://hackerone.com/reports/3911968",
@@ -4000,6 +4080,106 @@
       "siteUrl": "https://medium.com/tag/bugbounty/latest?source=rss------bugbounty-5",
       "articles": [
         {
+          "id": "https://medium.com/p/22c0005acd3a",
+          "author": "JPablo13",
+          "description": "Master API security auditing with OWASP API Top 10, WAF bypass, JWT attack vectors, and production defense strategies.\nContinue reading on Medium »",
+          "link": "https://medium.com/@jpablo13/ultimate-api-security-guide-owasp-top-10-bypass-techniques-remediation-22c0005acd3a?source=rss------bugbounty-5",
+          "publishedOn": "2026-08-06T00:01:02.000Z",
+          "wordCount": null,
+          "title": "Ultimate API Security Guide: OWASP Top 10, Bypass Techniques & Remediation",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/bdf57279123d",
+          "author": "CypherNova1337",
+          "description": "Most Kali hardening guides fall into one of two traps. Either they hand you a paranoid checklist of forty things that make the machine…\nContinue reading on Medium »",
+          "link": "https://cyphernova1337.medium.com/zero-trust-opsec-for-a-fresh-kali-install-what-you-must-do-and-what-you-should-bdf57279123d?source=rss------bugbounty-5",
+          "publishedOn": "2026-08-05T23:37:36.000Z",
+          "wordCount": null,
+          "title": "Zero-Trust OPSEC for a Fresh Kali Install: What You Must Do and What You Should",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/009e1f6e99d7",
+          "author": "Reza",
+          "description": "How a form parameter that never touches <script> tags can still execute arbitrary JavaScript — and why blacklisting < and > isn't enough.\nContinue reading on Medium »",
+          "link": "https://medium.com/@rs67iran/bypassing-a-safe-input-field-reflected-xss-via-unescaped-html-attribute-injection-009e1f6e99d7?source=rss------bugbounty-5",
+          "publishedOn": "2026-08-05T23:31:46.000Z",
+          "wordCount": null,
+          "title": "Bypassing a “Safe” Input Field: Reflected XSS via Unescaped HTML Attribute Injection",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/0abc5f54f144",
+          "author": "T4nv1",
+          "description": "I almost closed the tab on this program twice.\nContinue reading on Medium »",
+          "link": "https://medium.com/@t3nv1/how-i-bypassed-authentication-on-a-fintech-platform-using-a-broken-password-reset-flow-bug-bounty-0abc5f54f144?source=rss------bugbounty-5",
+          "publishedOn": "2026-08-05T19:09:16.000Z",
+          "wordCount": null,
+          "title": "How I Bypassed Authentication on a Fintech Platform Using a Broken Password Reset Flow (Bug Bounty…",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/a80feb8888ae",
+          "author": "Devansh Patel",
+          "description": "Part 1 — The account-existence oracle, why enumeration tools rot silently, and the one everybody still recommends that stopped working.\nContinue reading on MeetCyber »",
+          "link": "https://meetcyber.net/email-osint-in-2026-half-the-tools-youre-using-are-lying-to-you-a80feb8888ae?source=rss------bugbounty-5",
+          "publishedOn": "2026-08-05T18:42:50.000Z",
+          "wordCount": null,
+          "title": "Email OSINT in 2026: Half the Tools You’re Using Are Lying to You",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/b5e54efe404a",
+          "author": "L0Ay",
+          "description": "بِسْمِ اللَّـهِ الرَّحْمَـٰنِ الرَّحِيمِ\nContinue reading on Medium »",
+          "link": "https://medium.com/@loayahmed686/the-premium-feature-that-was-only-one-api-request-away-b5e54efe404a?source=rss------bugbounty-5",
+          "publishedOn": "2026-08-05T17:37:36.000Z",
+          "wordCount": null,
+          "title": "The Premium Feature That Was Only One API Request Away",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/77c85e076de0",
+          "author": "b0dj0x",
+          "description": "Choosing a Secure VPN Service: A Guide from the Front Lines\nContinue reading on Medium »",
+          "link": "https://medium.com/@b0dj0x/choosing-a-secure-vpn-service-a-guide-from-the-front-lines-77c85e076de0?source=rss------bugbounty-5",
+          "publishedOn": "2026-08-05T14:14:25.000Z",
+          "wordCount": null,
+          "title": "Choosing a Secure VPN Service: A Guide from the Front Lines",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/3bf5a968d58f",
+          "author": "Roshdy Zain",
+          "description": "Alright so two nights ago I was just messing with this app. Nothing serious, just testing the login flow, trying to break it you know. I…\nContinue reading on Medium »",
+          "link": "https://0x3rab.medium.com/i-found-basic-xss-open-redirect-in-a-hidden-endpoint-and-got-100-for-it-3bf5a968d58f?source=rss------bugbounty-5",
+          "publishedOn": "2026-08-05T13:26:43.000Z",
+          "wordCount": null,
+          "title": "I Found Basic XSS + Open Redirect in a Hidden Endpoint (And Got $100 For It)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/dc09936cc596",
+          "author": "Nitin yadav",
+          "description": "What’s up everyone! Nitin here 👋\nContinue reading on Medium »",
+          "link": "https://kd-200.medium.com/api-recon-mapping-every-hidden-endpoint-dc09936cc596?source=rss------bugbounty-5",
+          "publishedOn": "2026-08-05T11:31:01.000Z",
+          "wordCount": null,
+          "title": "API Recon — Mapping Every Hidden Endpoint",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/73df8711c330",
+          "author": "Mohit",
+          "description": "Forget zero-days. Forget writing 500-line Python scripts. Here’s the blunt reality of web security after 7 years in incident response.\nContinue reading on Medium »",
+          "link": "https://medium.com/@mohiitlamba/how-a-19-year-old-made-2-500-in-10-minutes-and-why-most-bug-bounty-advice-is-garbage-73df8711c330?source=rss------bugbounty-5",
+          "publishedOn": "2026-08-05T10:52:29.000Z",
+          "wordCount": null,
+          "title": "How a 19-Year-Old Made $2,500 in 10 Minutes (And Why Most Bug Bounty Advice Is Garbage)",
+          "imageUrl": null
+        },
+        {
           "id": "https://medium.com/p/8b6900b20ff4",
           "author": "Tejas Kamble",
           "description": "An ethical bug bounty recon checklist for discovering exposed configuration, source code, backups, secrets, documentation, logs, and other…\nContinue reading on Medium »",
@@ -7896,6 +8076,66 @@
       "feedUrl": "https://medium.com/feed/tag/redteam",
       "siteUrl": "https://medium.com/tag/redteam/latest?source=rss------redteam-5",
       "articles": [
+        {
+          "id": "https://medium.com/p/f064ac45094b",
+          "author": "Saurabh Pandey",
+          "description": "Ash had fought Pokémon with fire.\nContinue reading on Medium »",
+          "link": "https://medium.com/@saurabh.hack.pandey/ash-enters-the-ai-gym-finds-team-rocket-in-every-layer-and-searches-for-the-hidden-path-f064ac45094b?source=rss------redteam-5",
+          "publishedOn": "2026-08-05T18:25:15.000Z",
+          "wordCount": null,
+          "title": "Ash Enters the AI Gym, Finds Team Rocket in Every Layer, and Searches for the Hidden Path",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/871e6ebb6950",
+          "author": "Narmadha",
+          "description": "Imagine a company that has upgraded its API from v1 to v2.\nContinue reading on Medium »",
+          "link": "https://medium.com/@narmadha484/owasp-api-9-improper-inventory-management-the-hidden-apis-attackers-love-871e6ebb6950?source=rss------redteam-5",
+          "publishedOn": "2026-08-05T15:23:28.000Z",
+          "wordCount": null,
+          "title": "OWASP API #9 - Improper Inventory Management: The Hidden APIs Attackers Love",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/233acb73f2d8",
+          "author": "Psych0s1s",
+          "description": "I recently passed the CRTO (Certified Red Team Operator) exam from Zero Point Security. The exam is excellent and prepares you to perform…\nContinue reading on Medium »",
+          "link": "https://medium.com/@psych0s1s/my-2026-crto-experience-233acb73f2d8?source=rss------redteam-5",
+          "publishedOn": "2026-08-05T14:51:16.000Z",
+          "wordCount": null,
+          "title": "My 2026 CRTO Experience",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/4992d4e465ea",
+          "author": "Mrs Lana Hampicke",
+          "description": "The frontier labs have built sophisticated safety evaluation programmes. They also share a blind spot. Across the four most prominent labs…\nContinue reading on Medium »",
+          "link": "https://medium.com/@lana.hampicke_36832/the-gap-every-major-ai-lab-shares-multi-turn-dialogue-safety-4992d4e465ea?source=rss------redteam-5",
+          "publishedOn": "2026-08-05T12:32:55.000Z",
+          "wordCount": null,
+          "title": "The Gap Every Major AI Lab Shares: Multi-Turn Dialogue Safety",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/841556863d4d",
+          "author": "Kalash Kundaliya",
+          "description": "I’m excited to share that I recently passed the AD-RTS (Active Directory Red Team Specialist) exam from CyberWarFare Labs (CWL). It was…\nContinue reading on Medium »",
+          "link": "https://medium.com/@kalashkundaliya/i-just-passed-the-ad-rts-certification-%EF%B8%8F-841556863d4d?source=rss------redteam-5",
+          "publishedOn": "2026-08-05T06:31:18.000Z",
+          "wordCount": null,
+          "title": "I Just Passed the AD-RTS Certification ️",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/ecfcd0de360b",
+          "author": "exz",
+          "description": "Building a lasting red team capability that drives organizational resilience\nContinue reading on Medium »",
+          "link": "https://eaxz3ro.medium.com/red-teaming-metrics-continuous-improvement-and-program-development-ecfcd0de360b?source=rss------redteam-5",
+          "publishedOn": "2026-08-05T05:11:01.000Z",
+          "wordCount": null,
+          "title": "Red Teaming: Metrics, Continuous Improvement, and Program Development",
+          "imageUrl": null
+        },
         {
           "id": "https://medium.com/p/d156b30c9d2b",
           "author": "Erdem Ceylan",
@@ -12644,6 +12884,21 @@
       "siteUrl": "https://blog.elcomsoft.com",
       "articles": [
         {
+          "id": "https://blog.elcomsoft.com/?p=13631",
+          "author": "Oleg Afonin",
+          "description": "iOS 27 and iPadOS 27, currently in beta, add a bootable recovery menu to the iPhone and iPad. Hold the power button while the device starts up and you land in a small pre-boot environment with six options, one of which is the old “connect to computer” recovery mode. This is the same idea Apple […]",
+          "link": "https://blog.elcomsoft.com/2026/08/the-ios-27-recovery-menu-what-it-means-for-forensics/",
+          "publishedOn": "2026-08-05T12:00:05.000Z",
+          "wordCount": 2748,
+          "title": "The iOS 27 Recovery Menu: What It Means for Forensics",
+          "enclosure": {
+            "url": "https://blog.elcomsoft.com/wp-content/uploads/2018/10/iOS-DFU-and-Recovery-Modes_iPhoneX_1200x630.jpg",
+            "length": "690507",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://blog.elcomsoft.com/wp-content/uploads/2018/10/iOS-DFU-and-Recovery-Modes_iPhoneX_1200x630.jpg"
+        },
+        {
           "id": "https://blog.elcomsoft.com/?p=13627",
           "author": "Oleg Afonin",
           "description": "Elcomsoft iOS Forensic Toolkit begins low-level extraction by sideloading the extraction agent, and the agent will not run until the phone has completed one or two checks against Apple’s servers. Network requests, on a phone that is evidence. That single requirement is why we have shipped three different firewalls over the past three years. The […]",
@@ -13123,6 +13378,206 @@
       "feedUrl": "https://feed.cnblogs.com/blog/sitehome/rss",
       "siteUrl": null,
       "articles": [
+        {
+          "id": "https://www.cnblogs.com/fyia7788/p/22270597",
+          "author": null,
+          "description": "子不语怪力乱神：谈谈ToB的生态、共创、品牌这些玄乎的字眼 《中庸》里有句话叫“素隐行怪”，意思是追求隐僻的道理、做出怪异的行为来博取名声。两千多年后，这个词拿来形容今天ToB行业里的一些现象，还挺贴切。 生态、共创、品牌——这三个词本身没什么问题。它们对应的是真实商业能力，也是公司发展到一定阶段需",
+          "link": "https://www.cnblogs.com/fyia7788/p/22270597",
+          "publishedOn": "2026-08-06T02:55:00.000Z",
+          "wordCount": 327,
+          "title": "子不语怪力乱神：谈谈ToB的生态、共创、品牌这些玄乎的字眼 - 付一然的ToB增长笔记",
+          "imageUrl": "https://img2024.cnblogs.com/blog/608074/202608/608074-20260806105414429-1126402871.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/Ahoo-Wang/p/22270599/wow-command-wait-consistency",
+          "author": null,
+          "description": "从一次订单查询延迟问题出发，拆解 CQRS 中 SENT、PROCESSED、PROJECTED 的完成语义，以及 Wow 如何用可声明的等待计划替代固定延迟。",
+          "link": "https://www.cnblogs.com/Ahoo-Wang/p/22270599/wow-command-wait-consistency",
+          "publishedOn": "2026-08-06T02:54:00.000Z",
+          "wordCount": 981,
+          "title": "接口返回 200，查询却查不到：别再 sleep(1s)，理解 Wow 的一致性等待 - Ahoo-Wang",
+          "imageUrl": "https://img2024.cnblogs.com/blog/457833/202608/457833-20260806105621895-1119763026.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/ai-old-six/p/22270360",
+          "author": null,
+          "description": "Brainstorming 负责扩大解空间，grill-me 负责压实决策边界，AI 编程不能把两者混用。 导语 AI 编程里有一种很常见的错觉：只要在动手前多想一轮，后面的偏差就会少一点。 问题是，很多时候不是想得不够，而是用错了思考方式。你明明已经有了一个方向，却还让 Agent 继续发散；你真",
+          "link": "https://www.cnblogs.com/ai-old-six/p/22270360",
+          "publishedOn": "2026-08-06T02:49:00.000Z",
+          "wordCount": 487,
+          "title": "Brainstorming 与 grill-me 在 AI 产品设计和工程决策中的分工边界 - AI小老六",
+          "imageUrl": "https://img2024.cnblogs.com/blog/3798513/202608/3798513-20260806104741356-1457056115.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/Tpf386/p/22269975",
+          "author": null,
+          "description": "AI的下一个战场，不在屏幕里，而在现实世界 ChatGPT、Claude、Gemini……过去几年，大模型改变了人们获取知识和处理信息的方式。 但我越来越觉得，我们可能一直把AI放错了位置。 今天，我们把AI放在聊天框里。 未来，AI应该站在我们的身边。 AI，不应该只回答问题，而应该参与现实 试着",
+          "link": "https://www.cnblogs.com/Tpf386/p/22269975",
+          "publishedOn": "2026-08-06T02:42:00.000Z",
+          "wordCount": 378,
+          "title": "AI的下一个战场，不在屏幕里，而在现实世界 - 荆棘人",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/hyly-mark/p/22268557",
+          "author": null,
+          "description": "前言 随着业务发展，MongoDB 中的核心业务流（如停车流水、订单日志等）会逐渐演变成几千万甚至数亿级别的超大集合。为了保障核心查询性能和控制存储成本，冷热数据分离成为了必经之路。 核心迁移方案全景对比 根据不同的业务特征和基础架构能力，冷热分离有以下主流架构选型。 基于 Change Strea",
+          "link": "https://www.cnblogs.com/hyly-mark/p/22268557",
+          "publishedOn": "2026-08-06T02:18:00.000Z",
+          "wordCount": 538,
+          "title": "应对 MongoDB 超大表：冷热数据分离与空间释放的最佳实践 - Markk",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/zrui-xyu/p/22267115",
+          "author": null,
+          "description": "本文剖析 MySQL‑Redis 缓存双写一致性误区，对比四种主流方案。技术亮点：异步延迟双删规避并发脏读、MQ 重试解决缓存删除失败、Canal 监听 binlog 做到业务无侵入同步；附带幂等处理、缓存击穿 / 穿透防护等生产可运行 Java 代码，适配不同业务等级选型，附带完整面试答题思路。",
+          "link": "https://www.cnblogs.com/zrui-xyu/p/22267115",
+          "publishedOn": "2026-08-06T01:49:00.000Z",
+          "wordCount": 1575,
+          "title": "如何保证Mysql和Redis双写一致性 - Rain的Java大神实战圈",
+          "imageUrl": "https://img2024.cnblogs.com/blog/739056/202608/739056-20260806094436522-1296187038.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/imsdl-cn/p/22266704",
+          "author": null,
+          "description": "最后更新：2026年8月6日 什么是鑫福丰工业省电空调？ 鑫福丰工业省电空调是赣州市鑫福节能环保工程有限公司自主研发的大面积工业降温设备，采用蒸发冷凝复合制冷技术，一台设备可覆盖200平方米空间，每小时冷耗仅4.5度电——能耗约为传统空调的1/4。核心配置采用施耐德电控、谷轮涡旋压缩机、艾默生热力膨",
+          "link": "https://www.cnblogs.com/imsdl-cn/p/22266704",
+          "publishedOn": "2026-08-06T01:37:00.000Z",
+          "wordCount": 329,
+          "title": "鑫福丰工业省电空调：2026年工厂车间降温省电终极方案 - 鑫福丰工业省电空调",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/docker-mo/p/22265356",
+          "author": null,
+          "description": "1. 文档说明 这是一份纯小白能看懂的 Shell 括号手册。不搞晦涩专业术语，只用大白话讲清楚 Shell 里所有括号：()、(())、[]、[[]]、{}、${}、$()。 包含：每个括号是干嘛的、什么时候用、新手容易踩的坑、可直接运行的实战案例。看完彻底解决「括号分不清、写脚本报错、凭感觉乱用",
+          "link": "https://www.cnblogs.com/docker-mo/p/22265356",
+          "publishedOn": "2026-08-06T00:53:00.000Z",
+          "wordCount": 834,
+          "title": "Shell脚本全类型括号语法详解及对比手册（零基础版） - Docker-沫老师",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/jinjiangongzuoshi/p/22265252",
+          "author": null,
+          "description": "UI自动化测试中DOM断言存在局限性，无法检测样式和布局问题。本文介绍了ui-visual-assert技能，通过视觉断言解决这一问题。它能在功能断言基础上增加三大维度的视觉校验：整页/局部截图比对、响应式布局适配（支持多分辨率）和跨浏览器兼容处理（Chromium/Firefox/WebKit）。",
+          "link": "https://www.cnblogs.com/jinjiangongzuoshi/p/22265252",
+          "publishedOn": "2026-08-06T00:47:00.000Z",
+          "wordCount": 1033,
+          "title": "AI 测试提效 ｜ UI 自动化测不出样式 bug？分享 ui-visual-assert + Skill 视觉断言与多浏览器适配方案 - 狂师",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/denglei1024/p/22264959",
+          "author": null,
+          "description": "DTO 基类的设计 ABP 提供了标准的 DTO 基类，看其源码继承关系： // framework/src/Volo.Abp.Ddd.Application.Contracts/Volo/Abp/Application/Dtos/ // 单个实体输出 public abstract class E",
+          "link": "https://www.cnblogs.com/denglei1024/p/22264959",
+          "publishedOn": "2026-08-06T00:29:00.000Z",
+          "wordCount": 644,
+          "title": "ABP DTO 与对象映射：AutoMapper Profile 配置与 Mapperly 源生成器 - 云深见海",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/catchadmin/p/22264748",
+          "author": null,
+          "description": "对标 npx 的 CPX PHP 的 Composer 包执行器 cpx CLI 可以从任意 Composer 包中运行命令，而无需将该包安装到项目中——cpx 之于 Composer，正如 npx 之于 npm。 如果曾经使用 composer global require 安装过某个工具，随后又",
+          "link": "https://www.cnblogs.com/catchadmin/p/22264748",
+          "publishedOn": "2026-08-06T00:22:00.000Z",
+          "wordCount": 629,
+          "title": "对标 npx 的 CPX PHP 的 Composer 包执行器 - JaguarJack",
+          "imageUrl": "https://img2024.cnblogs.com/blog/2788072/202608/2788072-20260806082541460-660879666.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/wackysoft/p/22258497",
+          "author": null,
+          "description": "前言 大家好，我是wacky。前两篇我们聊了通信协议和数据与业务层——怎么把数据从PLC搬过来、怎么存、怎么管。数据有了，业务逻辑有了，最后一公里是：怎么把这些东西呈现给用户。 这一篇是工控上位机技术栈的第三层——展示与交互层。说白了就是界面。工控软件的界面名声一直不太好，&quot;土味工控&quot;几乎成了行业标",
+          "link": "https://www.cnblogs.com/wackysoft/p/22258497",
+          "publishedOn": "2026-08-06T00:11:00.000Z",
+          "wordCount": 415,
+          "title": "工控生态之展示与交互：怎么让工业软件不再\"丑\" - Wackysoft",
+          "imageUrl": "https://img2024.cnblogs.com/blog/443744/202608/443744-20260805213602596-2136625543.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/ShoreKiten/p/22264478",
+          "author": null,
+          "description": "前言：前面期末周突然加了一个项目作业，感觉不是开发能力而是vibecoding能力，想写一个工具与vue有关的，但之前没有系统学习过，在微信公众号里面看了几篇好文章，然后真自己实际上手起来的话还是挺困难的，因此本篇作为一个按照官方给的一个快速上手教程来，默认是.vue结尾的设置，在官方基础上进行的一",
+          "link": "https://www.cnblogs.com/ShoreKiten/p/22264478",
+          "publishedOn": "2026-08-06T00:04:00.000Z",
+          "wordCount": 2206,
+          "title": "VUE笔记 - ShoreKiten",
+          "imageUrl": "https://img2024.cnblogs.com/blog/3768710/202608/3768710-20260806075948886-2116543704.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/shanyou/p/22264143",
+          "author": null,
+          "description": "在 OpenClaw.NET / GoodCrew 中推动的「本体论投影 + IRDI 治理 + MetaSkill DAG」，本质上就是在构建一套可演化的熵减基础设施——让数字员工的技能组合、领域边界、数据语义都具备显式结构和版本治理，从而把「艺术」的部分尽可能地转化为「可复现的手艺」。",
+          "link": "https://www.cnblogs.com/shanyou/p/22264143",
+          "publishedOn": "2026-08-05T23:14:00.000Z",
+          "wordCount": 638,
+          "title": "修 Bug 的手艺与架构的艺术：从熵增到熵减 - 张善友",
+          "imageUrl": "https://img2024.cnblogs.com/blog/510/202608/510-20260806071018029-1642037708.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/halfcode/p/22264114",
+          "author": null,
+          "description": "上一节让 Agent 自己把需求文档读进来了。文档进了上下文，下一步就该根据需求整理测试用例，并落到文件里。create_deep_agent 的 tools 参数，就是用来扩展这类业务能力的——想让它整理用例并保存成 YAML，提供对应的 Tool 即可。 配套的动画视频在《3. 1个Tool！让",
+          "link": "https://www.cnblogs.com/halfcode/p/22264114",
+          "publishedOn": "2026-08-05T23:06:00.000Z",
+          "wordCount": 505,
+          "title": "3. 1个Tool！让Agent自动生成测试用例 - 老陈说编程",
+          "imageUrl": "https://img2024.cnblogs.com/blog/1919157/202608/1919157-20260806070533422-102665330.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/myvin/p/22225272",
+          "author": null,
+          "description": "一个成熟扩展不能只有下载按钮。GitZip Pro 的设置页里有主题、命名规则、忽略规则、Token、历史和统计，这些配置通过 storage 反过来影响页面注入、API 请求和最终下载结果。",
+          "link": "https://www.cnblogs.com/myvin/p/22225272",
+          "publishedOn": "2026-08-05T15:27:00.000Z",
+          "wordCount": 723,
+          "title": "GitZip Pro 源码解析：一个 GitHub 文件/文件夹下载扩展是如何工作的（六）设置页、Token 与下载历史 - fthux",
+          "imageUrl": "https://img2024.cnblogs.com/blog/779193/202608/779193-20260804223902854-1424983881.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/hellojackyleon/p/22259583",
+          "author": null,
+          "description": "大家好，我是老张。 半个月前写了篇《1.8GB 内存的 VPS，被扫了 600 次后，我给它装了套全自动反导系统》，讲我怎么给博客做安全防护——Nginx 堵门、Prometheus 盯梢、Alertmanager 自动封禁。 那篇写完有读者问：安全搞这么重，那博客本身的统计和管理呢？ 问得好。其实",
+          "link": "https://www.cnblogs.com/hellojackyleon/p/22259583",
+          "publishedOn": "2026-08-05T15:17:00.000Z",
+          "wordCount": 501,
+          "title": "我用AI博客搭了个后台，运维人的 Dashboard 比公司那套还精致 - 厚德载物_VIP",
+          "imageUrl": "https://img2024.cnblogs.com/blog/1304468/202608/1304468-20260805231357971-1081033012.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/codeHai/p/22258962",
+          "author": null,
+          "description": "工作多年，相信大部分技术人与我一样都已经走上了技术管理的岗位或者是已经在路上了；众所周知的是，管理岗之所以重要，因为领导者的短板，会变成整个团队的灾难。一个有前途的企业或是组织，如何选择一位优秀的领头人或是培养一个优秀的领头人是所有高层管理者或者BOSS最需要直面的问题。自然而然，对于基层管理岗的能",
+          "link": "https://www.cnblogs.com/codeHai/p/22258962",
+          "publishedOn": "2026-08-05T14:43:00.000Z",
+          "wordCount": 1210,
+          "title": "技术团队管理方案分享 - Hason_SANG",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/yuan17/p/22258919",
+          "author": null,
+          "description": "一次pyarmor解密分析 一、原理： 1.概述： 笔者分析的样本pyarmor一共有两层加密，第一层加密co_object,第二层加密co_code，在执行的过程中，每一个函数（代码块）一旦被调用，首先会执行函数__pyarmor__解密第一层co_object,然后执行__armor_enter",
+          "link": "https://www.cnblogs.com/yuan17/p/22258919",
+          "publishedOn": "2026-08-05T14:31:00.000Z",
+          "wordCount": 3402,
+          "title": "一次pyarmor解密分析 - 缘之十七",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/dddy/p/22257375",
+          "author": null,
+          "description": "四大组件 组件是一个Android程序至关重要的构建模块.每一个组件都是系统进入你的应用的不同途径.但并不是所有的组件都是用户进入程序的真实入口, 其中一些要依赖于其它组件, 但是每一个组件都以自己独有的形式存在, 并发挥特殊的作用; 每一个组件都是一个唯一的模块, 帮助你实现程序的各种行为. 应用",
+          "link": "https://www.cnblogs.com/dddy/p/22257375",
+          "publishedOn": "2026-08-05T14:06:00.000Z",
+          "wordCount": 3072,
+          "title": "一文学习 Android 原生开发 - daidaidaiyu",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
         {
           "id": "https://www.cnblogs.com/ai-old-six/p/22237377",
           "author": null,
@@ -21309,6 +21764,86 @@
       "feedUrl": "http://h1.nobbd.de/reports_rss.xml",
       "siteUrl": "http://h1.nobbd.de/",
       "articles": [
+        {
+          "id": "https://hackerone.com/reports/3782701",
+          "author": null,
+          "description": "Mozilla disclosed a bug submitted by griffinf: https://hackerone.com/reports/3782701 - Bounty: $12000",
+          "link": "https://hackerone.com/reports/3782701",
+          "publishedOn": "2026-08-05T15:50:21.000Z",
+          "wordCount": 25,
+          "title": "Unauthenticated RCE in Taskcluster web-server via GraphQL filter argument (sift $where)",
+          "imageUrl": "https://profile-photos.hackerone-user-content.com/variants/0p8e6gg8xoy45dhjxs5wh4iti6k8/f0e07660005686ec92c43da54c0094c1ac1b490ea8c5eac04a4081d912d6ce36"
+        },
+        {
+          "id": "https://hackerone.com/reports/3917775",
+          "author": null,
+          "description": "curl disclosed a bug submitted by kiyin: https://hackerone.com/reports/3917775",
+          "link": "https://hackerone.com/reports/3917775",
+          "publishedOn": "2026-08-05T11:13:13.000Z",
+          "wordCount": 25,
+          "title": "curl Missing Sec-WebSocket-Accept Verification Enables MITM WebSocket Session Hijacking",
+          "imageUrl": "https://profile-photos.hackerone-user-content.com/variants/000/035/663/2faf4c279d437d64bfda6d23d62ce1833813a4d9_original.png/f0e07660005686ec92c43da54c0094c1ac1b490ea8c5eac04a4081d912d6ce36"
+        },
+        {
+          "id": "https://hackerone.com/reports/3699522",
+          "author": null,
+          "description": "Monero disclosed a bug submitted by bebensap: https://hackerone.com/reports/3699522",
+          "link": "https://hackerone.com/reports/3699522",
+          "publishedOn": "2026-08-05T10:23:55.000Z",
+          "wordCount": 25,
+          "title": "`check_reserve_proof` counts duplicate entries: one output can inflate `total`",
+          "imageUrl": "https://profile-photos.hackerone-user-content.com/variants/000/007/731/55634f7fcd917725c7a5771cc6e7c9b4d5fe0c22_original.png/f0e07660005686ec92c43da54c0094c1ac1b490ea8c5eac04a4081d912d6ce36"
+        },
+        {
+          "id": "https://hackerone.com/reports/3698862",
+          "author": null,
+          "description": "Monero disclosed a bug submitted by bebensap: https://hackerone.com/reports/3698862",
+          "link": "https://hackerone.com/reports/3698862",
+          "publishedOn": "2026-08-05T10:23:44.000Z",
+          "wordCount": 25,
+          "title": "`check_reserve_proof` sums RingCT ECDH amounts without checking the output commitment",
+          "imageUrl": "https://profile-photos.hackerone-user-content.com/variants/000/007/731/55634f7fcd917725c7a5771cc6e7c9b4d5fe0c22_original.png/f0e07660005686ec92c43da54c0094c1ac1b490ea8c5eac04a4081d912d6ce36"
+        },
+        {
+          "id": "https://hackerone.com/reports/3693636",
+          "author": null,
+          "description": "Monero disclosed a bug submitted by bebensap: https://hackerone.com/reports/3693636",
+          "link": "https://hackerone.com/reports/3693636",
+          "publishedOn": "2026-08-05T10:23:32.000Z",
+          "wordCount": 25,
+          "title": "wallet-rpc crash via malformed /gettransactions response (empty txs  vector::front() in check_tx_key / check_tx_proof)",
+          "imageUrl": "https://profile-photos.hackerone-user-content.com/variants/000/007/731/55634f7fcd917725c7a5771cc6e7c9b4d5fe0c22_original.png/f0e07660005686ec92c43da54c0094c1ac1b490ea8c5eac04a4081d912d6ce36"
+        },
+        {
+          "id": "https://hackerone.com/reports/3700036",
+          "author": null,
+          "description": "Monero disclosed a bug submitted by bebensap: https://hackerone.com/reports/3700036",
+          "link": "https://hackerone.com/reports/3700036",
+          "publishedOn": "2026-08-05T10:23:21.000Z",
+          "wordCount": 25,
+          "title": "SpendProofV1 txid-substitution: get_spend_proof/check_spend_proof do not verify returned transaction hash",
+          "imageUrl": "https://profile-photos.hackerone-user-content.com/variants/000/007/731/55634f7fcd917725c7a5771cc6e7c9b4d5fe0c22_original.png/f0e07660005686ec92c43da54c0094c1ac1b490ea8c5eac04a4081d912d6ce36"
+        },
+        {
+          "id": "https://hackerone.com/reports/3723315",
+          "author": null,
+          "description": "Monero disclosed a bug submitted by bebensap: https://hackerone.com/reports/3723315",
+          "link": "https://hackerone.com/reports/3723315",
+          "publishedOn": "2026-08-05T10:23:08.000Z",
+          "wordCount": 25,
+          "title": "wallet-rpc describe_transfer uses real_output_in_tx_index instead of real_output: cold-wallet pre-sign review shows wrong ring member",
+          "imageUrl": "https://profile-photos.hackerone-user-content.com/variants/000/007/731/55634f7fcd917725c7a5771cc6e7c9b4d5fe0c22_original.png/f0e07660005686ec92c43da54c0094c1ac1b490ea8c5eac04a4081d912d6ce36"
+        },
+        {
+          "id": "https://hackerone.com/reports/3687543",
+          "author": null,
+          "description": "Monero disclosed a bug submitted by benisprlh: https://hackerone.com/reports/3687543",
+          "link": "https://hackerone.com/reports/3687543",
+          "publishedOn": "2026-08-05T05:05:49.000Z",
+          "wordCount": 25,
+          "title": "`relay_tx` wallet-rpc skips `--restricted-rpc` guard and lets any caller corrupt wallet state via attacker-controlled `pending_tx`",
+          "imageUrl": "https://profile-photos.hackerone-user-content.com/variants/000/007/731/55634f7fcd917725c7a5771cc6e7c9b4d5fe0c22_original.png/f0e07660005686ec92c43da54c0094c1ac1b490ea8c5eac04a4081d912d6ce36"
+        },
         {
           "id": "https://hackerone.com/reports/3911968",
           "author": null,
