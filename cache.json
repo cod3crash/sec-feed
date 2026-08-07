@@ -6,6 +6,16 @@
       "siteUrl": "http://h1.nobbd.de/",
       "articles": [
         {
+          "id": "https://hackerone.com/reports/2551512",
+          "author": null,
+          "description": "Nintendo disclosed a bug submitted by jonbarrow: https://hackerone.com/reports/2551512",
+          "link": "https://hackerone.com/reports/2551512",
+          "publishedOn": "2026-08-07T01:04:12.000Z",
+          "wordCount": 25,
+          "title": "[Wii U/3DS/Switch] Improper bounds check in StationURL in all NEX clients leading to remote crash/RCE",
+          "imageUrl": "https://profile-photos.hackerone-user-content.com/variants/000/016/634/999cefca933756faeeb2ea39c07557943437c94f_original.png/f0e07660005686ec92c43da54c0094c1ac1b490ea8c5eac04a4081d912d6ce36"
+        },
+        {
           "id": "https://hackerone.com/reports/3782701",
           "author": null,
           "description": "Mozilla disclosed a bug submitted by griffinf: https://hackerone.com/reports/3782701 - Bounty: $12000",
@@ -4080,6 +4090,106 @@
       "siteUrl": "https://medium.com/tag/bugbounty/latest?source=rss------bugbounty-5",
       "articles": [
         {
+          "id": "https://medium.com/p/31577d5ea9f9",
+          "author": "Clark Voss",
+          "description": "How I pulled full employee directory data from Blind LDAP Injection in a Password Reset Form!\nContinue reading on Medium »",
+          "link": "https://clarkvoss.medium.com/ldap-injection-its-as-simple-as-a-true-false-31577d5ea9f9?source=rss------bugbounty-5",
+          "publishedOn": "2026-08-07T01:04:46.000Z",
+          "wordCount": null,
+          "title": "LDAP Injection: Its As Simple As A TRUE/FALSE",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/11b258688243",
+          "author": "tushar",
+          "description": "A supply chain attack on a Lightning Network payments company — found in 15 minutes using a simple methodology anyone can replicate.\nContinue reading on Medium »",
+          "link": "https://medium.com/@tushar.from.cyber/how-i-hijacked-lightsparks-jsr-package-and-could-have-backdoored-every-developer-using-their-11b258688243?source=rss------bugbounty-5",
+          "publishedOn": "2026-08-06T22:14:31.000Z",
+          "wordCount": null,
+          "title": "How I Hijacked Lightspark’s JSR Package and Could Have Backdoored Every Developer Using Their…",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/96702a95a506",
+          "author": "Abd Elhakim",
+          "description": "Introduction\nContinue reading on Medium »",
+          "link": "https://medium.com/@abdelhakim14/sql-injection-complete-guide-96702a95a506?source=rss------bugbounty-5",
+          "publishedOn": "2026-08-06T21:55:33.000Z",
+          "wordCount": null,
+          "title": "SQL Injection: Complete Guide",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/c7d087563d93",
+          "author": "Abhishek meena",
+          "description": "Why 90% of successful hacking is just finding what everyone else missed.\nContinue reading on Medium »",
+          "link": "https://medium.com/@Aacle/external-recon-101-why-you-need-to-map-before-you-attack-c7d087563d93?source=rss------bugbounty-5",
+          "publishedOn": "2026-08-06T21:53:39.000Z",
+          "wordCount": null,
+          "title": "External Recon 101: Why You Need to Map Before You Attack",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/cfc021e7df21",
+          "author": "cyber security",
+          "description": "A real client story and what every founder should check in their own systems this week\nContinue reading on Medium »",
+          "link": "https://medium.com/@tanvir.infosec/how-one-exposed-api-cost-a-shipping-company-10-000-in-a-few-hours-cfc021e7df21?source=rss------bugbounty-5",
+          "publishedOn": "2026-08-06T21:07:10.000Z",
+          "wordCount": null,
+          "title": "How One Exposed API Cost a Shipping Company $10,000 in a Few Hours",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/1311282f7857",
+          "author": "Hassan saad",
+          "description": "بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ\nContinue reading on Medium »",
+          "link": "https://medium.com/@hs942422/from-blocked-to-registered-two-email-blacklist-bypass-techniques-1311282f7857?source=rss------bugbounty-5",
+          "publishedOn": "2026-08-06T18:26:29.000Z",
+          "wordCount": null,
+          "title": "From Blocked to Registered: Two Email Blacklist Bypass Techniques",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/3e200d4e643e",
+          "author": "anshh.bohara",
+          "description": "A story about broken object-level authorization — and the one mistake that turned a well-secured dataset into a public phone book.\nContinue reading on Medium »",
+          "link": "https://medium.com/@anshbohra10/how-a-synced-data-copy-leaked-544-000-users-pii-3e200d4e643e?source=rss------bugbounty-5",
+          "publishedOn": "2026-08-06T17:54:07.000Z",
+          "wordCount": null,
+          "title": "How a Synced Data Copy Leaked 544,000 Users’ PII",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/f8bf35e65772",
+          "author": "Shivam Singh",
+          "description": "*As a penetration tester and bug bounty hunter, I needed a tool I fully understood. So I built one.*\nContinue reading on Medium »",
+          "link": "https://medium.com/@shivkadarbar350/i-built-a-web-vulnerability-scanner-from-scratch-heres-how-it-works-f8bf35e65772?source=rss------bugbounty-5",
+          "publishedOn": "2026-08-06T16:46:01.000Z",
+          "wordCount": null,
+          "title": "I Built a Web Vulnerability Scanner from Scratch — Here’s How It Works",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/2358988427e8",
+          "author": "Kenjisubagja",
+          "description": "As a bug bounty researcher, few things are as frustrating as discovering a critical vulnerability — such as an Unauthenticated Full…\nContinue reading on Medium »",
+          "link": "https://medium.com/@kenjisubagja/when-a-critical-vulnerability-is-dismissed-as-a-known-risk-the-reality-of-bug-bounty-scams-2358988427e8?source=rss------bugbounty-5",
+          "publishedOn": "2026-08-06T16:09:15.000Z",
+          "wordCount": null,
+          "title": "When a “Critical” Vulnerability is Dismissed as a “Known Risk”: The Reality of Bug Bounty Scams —…",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/550232cf6f0e",
+          "author": "Bugitrix",
+          "description": "A practical, no-fluff breakdown of the exact recon workflow I run before touching a single vulnerability — including where AI actually…\nContinue reading on Medium »",
+          "link": "https://medium.com/@bugitrix/my-2026-recon-checklist-that-finds-hidden-attack-surfaces-550232cf6f0e?source=rss------bugbounty-5",
+          "publishedOn": "2026-08-06T14:57:57.000Z",
+          "wordCount": null,
+          "title": "My 2026 Recon Checklist That Finds Hidden Attack Surfaces",
+          "imageUrl": null
+        },
+        {
           "id": "https://medium.com/p/22c0005acd3a",
           "author": "JPablo13",
           "description": "Master API security auditing with OWASP API Top 10, WAF bypass, JWT attack vectors, and production defense strategies.\nContinue reading on Medium »",
@@ -8076,6 +8186,46 @@
       "feedUrl": "https://medium.com/feed/tag/redteam",
       "siteUrl": "https://medium.com/tag/redteam/latest?source=rss------redteam-5",
       "articles": [
+        {
+          "id": "https://medium.com/p/d670ec805339",
+          "author": "Nicolas Garcia",
+          "description": "Improper Sudo Configuration\nContinue reading on Medium »",
+          "link": "https://medium.com/@nicolas.garciaiii/proving-grounds-rubydome-user-controlled-root-d670ec805339?source=rss------redteam-5",
+          "publishedOn": "2026-08-07T02:46:56.000Z",
+          "wordCount": null,
+          "title": "Proving Grounds RubyDome: User-controlled Root",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/b3bf4b45f336",
+          "author": "Zeliha Zengin",
+          "description": "Welcome to another CTF adventure.\nContinue reading on Medium »",
+          "link": "https://medium.com/@zeliharich/tryhackme-corp-dc-1-drupal-ctf-b3bf4b45f336?source=rss------redteam-5",
+          "publishedOn": "2026-08-06T15:16:54.000Z",
+          "wordCount": null,
+          "title": "TryHackMe — CORP-DC-1 (Drupal) CTF",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/5c1148f2e49d",
+          "author": "Prath",
+          "description": "How zlib-compressed URL tokens and request-body padding exposed gaps between AWS WAF inspection and application processing.\nContinue reading on Medium »",
+          "link": "https://prathameshbagul.medium.com/getting-sql-injection-past-aws-waf-two-structural-inspection-gaps-5c1148f2e49d?source=rss------redteam-5",
+          "publishedOn": "2026-08-06T14:33:27.000Z",
+          "wordCount": null,
+          "title": "Getting SQL Injection Past AWS WAF: Two Structural Inspection Gaps",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/8fa7175ae723",
+          "author": "exz",
+          "description": "Preparing your red team for tomorrow’s challenges\nContinue reading on Medium »",
+          "link": "https://eaxz3ro.medium.com/red-teaming-strategic-integration-cloud-environments-and-future-trends-8fa7175ae723?source=rss------redteam-5",
+          "publishedOn": "2026-08-06T11:31:01.000Z",
+          "wordCount": null,
+          "title": "Red Teaming: Strategic Integration, Cloud Environments, and Future Trends",
+          "imageUrl": null
+        },
         {
           "id": "https://medium.com/p/f064ac45094b",
           "author": "Saurabh Pandey",
@@ -21765,6 +21915,16 @@
       "siteUrl": "http://h1.nobbd.de/",
       "articles": [
         {
+          "id": "https://hackerone.com/reports/2551512",
+          "author": null,
+          "description": "Nintendo disclosed a bug submitted by jonbarrow: https://hackerone.com/reports/2551512",
+          "link": "https://hackerone.com/reports/2551512",
+          "publishedOn": "2026-08-07T01:04:12.000Z",
+          "wordCount": 25,
+          "title": "[Wii U/3DS/Switch] Improper bounds check in StationURL in all NEX clients leading to remote crash/RCE",
+          "imageUrl": "https://profile-photos.hackerone-user-content.com/variants/000/016/634/999cefca933756faeeb2ea39c07557943437c94f_original.png/f0e07660005686ec92c43da54c0094c1ac1b490ea8c5eac04a4081d912d6ce36"
+        },
+        {
           "id": "https://hackerone.com/reports/3782701",
           "author": null,
           "description": "Mozilla disclosed a bug submitted by griffinf: https://hackerone.com/reports/3782701 - Bounty: $12000",
@@ -24812,6 +24972,16 @@
           "imageUrl": "https://payatu.com/wp-content/uploads/2026/04/Top-7-Cybersecurity-Companies.jpg"
         },
         {
+          "id": "https://payatu.com/?p=4301",
+          "author": "Rashid-Feroze",
+          "description": "When it comes to privilege, it is important that the processes and applications should only be granted whatever is required to carry the respective tasks. Additional permissions that are not required or necessary can lead to misuse of these permissions, which is why privilege escalation plays a significant role in detecting any malicious activity. What […]\nThe post Linux Privilege Escalation: Techniques & Defenses (2026) appeared first on Payatu.",
+          "link": "https://payatu.com/blog/a-guide-to-linux-privilege-escalation/",
+          "publishedOn": "2026-03-20T11:15:54.000Z",
+          "wordCount": 21372,
+          "title": "Linux Privilege Escalation: Techniques & Defenses (2026)",
+          "imageUrl": "https://payatu.com/wp-content/uploads/2023/03/Linux-Privilege-Escalation-Guide-Updated-for-2026.png"
+        },
+        {
           "id": "https://payatu.com/?p=15390",
           "author": "Payatu",
           "description": "The Internet of Things has transformed how businesses operate, from smart manufacturing floors to connected healthcare devices and intelligent building systems. However, this connectivity comes with significant security risks. IoT devices often have limited processing power, run outdated firmware, lack basic security controls, and create new attack surfaces that traditional security tools weren’t designed to protect.  IoT security […]\nThe post Top 5 IoT Security Companies in India 2026  appeared first on Payatu.",
@@ -24840,6 +25010,81 @@
           "wordCount": 19717,
           "title": "Glitching on STM32 Blue Pill",
           "imageUrl": "https://payatu.com/wp-content/uploads/2025/10/Glitching-on-SDM-32-Blue-Pill.jpg"
+        },
+        {
+          "id": "https://payatu.com/?p=14475",
+          "author": "Abhishek Pandey",
+          "description": "Introduction If you’re just getting started in OT or industrial systems, you’ve probably heard people mention the Purdue Model -sometimes with a mix of mystery and reverence. Don’t worry if you haven’t seen it before; think of it as a map that explains how factories “talk to themselves.” It shows how sensors, controllers, and business systems all […]\nThe post The Purdue Model: Foundations, Evolution, and the Security Debate appeared first on Payatu.",
+          "link": "https://payatu.com/blog/the-purdue-model-foundations-evolution-and-the-security-debate/",
+          "publishedOn": "2025-10-22T06:57:40.000Z",
+          "wordCount": null,
+          "title": "The Purdue Model: Foundations, Evolution, and the Security Debate",
+          "imageUrl": null
+        },
+        {
+          "id": "https://payatu.com/?p=14375",
+          "author": "Srikanth Dudekula",
+          "description": "Azure AD/Entra ID  Azure Active Directory (Azure AD) is Microsoft’s cloud-based identity and access management (IAM) service. It powers authentication and authorisation for Microsoft’s own cloud offerings, including Microsoft 365 and Azure Resource Manager. Azure AD is built on the OAuth 2.0 and OpenID Connect (OIDC). While the standard continues to evolve, Microsoft has expanded […]\nThe post Microsoft’s Family of Client IDs (FOCI): Convenience vs. Compromise appeared first on Payatu.",
+          "link": "https://payatu.com/blog/microsofts-family-of-client-ids-foci-convenience-vs-compromise/",
+          "publishedOn": "2025-09-30T11:22:22.000Z",
+          "wordCount": 20480,
+          "title": "Microsoft’s Family of Client IDs (FOCI): Convenience vs. Compromise",
+          "imageUrl": "https://payatu.com/wp-content/uploads/2025/09/foci-feature-image-1.png"
+        },
+        {
+          "id": "https://payatu.com/?p=13989",
+          "author": "Abhishek Pandey",
+          "description": "🎯Goal of This Blog Understand the foundational components that make up modern Industrial Control Systems (ICS)—from traditional devices like sensors, actuators, PLCs, RTUs  HMIs, SCADA to Industry 4.0 elements like PLM and IIOT  systems. We’ll explore their functions, how they interact, how they can be abused by attackers, and how to protect them effectively. 🧩 […]\nThe post Industrial Control System Components: PLCs, HMIs, RTUs, SCADA, DCS, Sensors, Actuators & Beyond appeared first on Payatu.",
+          "link": "https://payatu.com/blog/industrial-control-system-components-plcs-hmis-rtus-scada-dcs-sensors-actuators-beyond/",
+          "publishedOn": "2025-09-30T10:43:08.000Z",
+          "wordCount": null,
+          "title": "Industrial Control System Components: PLCs, HMIs, RTUs, SCADA, DCS, Sensors, Actuators & Beyond",
+          "imageUrl": null
+        },
+        {
+          "id": "https://payatu.com/?p=14429",
+          "author": "Surya Rawal",
+          "description": "Introduction Earlier this year, I discovered a critical security flaw in the Android Lock Screen that shocked even me when I first reproduced it. The vulnerability allowed lock screen bypass and unauthorised access to Google accounts, Gemini data, and even connected apps, all without requiring a PIN, password, or biometric input. In this post, I will […]\nThe post Android Lock Screen Bypass Through Google Gemini appeared first on Payatu.",
+          "link": "https://payatu.com/blog/android-lock-screen-bypass-through-google-gemini/",
+          "publishedOn": "2025-09-30T08:05:58.000Z",
+          "wordCount": 19070,
+          "title": "Android Lock Screen Bypass Through Google Gemini",
+          "enclosure": {
+            "url": "https://payatu.com/wp-content/uploads/2025/09/lockscreenbypass.mp4",
+            "length": "40372102",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://payatu.com/wp-content/uploads/2025/09/gemini-bypass.png"
+        },
+        {
+          "id": "https://payatu.com/?p=14258",
+          "author": "Tushar Singh",
+          "description": "Introduction: What is Credential Dumping? Credential dumping refers to the systematic extraction of usernames, passwords, and other sensitive information from operating systems by malicious actors. This technique poses a significant threat, particularly within Linux environments, where successful credential extraction can lead to unauthorised access to user accounts, services, and network resources. Understanding the mechanisms of […]\nThe post Credential Dumping In Linux appeared first on Payatu.",
+          "link": "https://payatu.com/blog/credential-dumping-in-linux/",
+          "publishedOn": "2025-09-19T11:27:20.000Z",
+          "wordCount": 24484,
+          "title": "Credential Dumping In Linux",
+          "imageUrl": "https://payatu.com/wp-content/uploads/2025/09/Credential-Dumping-in-Linux-2.jpg"
+        },
+        {
+          "id": "https://payatu.com/?p=14240",
+          "author": "Tanvi",
+          "description": "Introduction  AI is revolutionising healthcare. From diagnostics to patient interaction, Large Language Models (LLMs) are helping MedTech companies enhance outcomes and efficiency. But with this innovation comes a host of hidden risks, ones that can jeopardise patient safety, data privacy, and regulatory compliance. In this article, we explore how a security assessment of an AI-powered […]\nThe post The Hidden Risks of AI in MedTech And How to Fix Them  appeared first on Payatu.",
+          "link": "https://payatu.com/blog/the-hidden-risks-of-ai-in-medtech-and-how-to-fix-them/",
+          "publishedOn": "2025-08-25T09:02:40.000Z",
+          "wordCount": 20805,
+          "title": "The Hidden Risks of AI in MedTech And How to Fix Them",
+          "imageUrl": "https://payatu.com/wp-content/uploads/2025/08/The-Hidden-Risks-of-AI-in-Medtech-1.jpg"
+        },
+        {
+          "id": "https://payatu.com/?p=14081",
+          "author": "Ranit Pradhan",
+          "description": "Introduction The rollout of WPA3 was hailed as the long-awaited fix for the well-known weaknesses of WPA2, a modern standard designed to secure wireless communications in an increasingly connected world. With stronger encryption, resistance to offline attacks, and forward secrecy, WPA3 promises a more robust defense against Wi-Fi intrusion. But here’s the catch: no protocol […]\nThe post Decoded: Why WPA3 Still Isn’t the End of Wi-Fi Hacking appeared first on Payatu.",
+          "link": "https://payatu.com/blog/wpa3-isnt-the-end-of-wi-fi-hacking/",
+          "publishedOn": "2025-08-11T10:56:50.000Z",
+          "wordCount": null,
+          "title": "Decoded: Why WPA3 Still Isn’t the End of Wi-Fi Hacking",
+          "imageUrl": null
         }
       ]
     },
@@ -24908,6 +25153,16 @@
       "feedUrl": "https://security.tencent.com/index.php/feed/blog/0",
       "siteUrl": "http://security.tencent.com",
       "articles": [
+        {
+          "id": "https://security.tencent.com/index.php/blog/msg/226",
+          "author": null,
+          "description": "2026年7月23日，Linux内核主线合入了一份很短的补丁。",
+          "link": "https://security.tencent.com/index.php/blog/msg/226",
+          "publishedOn": "2026-08-06T15:34:26.000Z",
+          "wordCount": 3405,
+          "title": "TencentOS 科维斯AI：SCTPhantom 潜伏18年的Linux内核提权与容器逃逸漏洞",
+          "imageUrl": null
+        },
         {
           "id": "https://security.tencent.com/index.php/blog/msg/225",
           "author": null,
