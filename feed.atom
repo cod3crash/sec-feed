@@ -2,10 +2,423 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cod3crash.github.io/sec-feed/index.html</id>
     <title>security feed</title>
-    <updated>2026-08-07T03:09:19.719Z</updated>
+    <updated>2026-08-08T02:05:16.444Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://cod3crash.github.io/sec-feed/index.html"/>
     <link rel="self" href="https://cod3crash.github.io/sec-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Building ONYX]]></title>
+        <id>https://medium.com/p/d2743efb4fa9</id>
+        <link href="https://medium.com/@omegas.unnamed.8d/building-onyx-d2743efb4fa9?source=rss------redteam-5"/>
+        <updated>2026-08-08T01:35:39.000Z</updated>
+        <summary type="html"><![CDATA[Engineering a Web-First, AI-Augmented Red-Team Operations Workspace
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Jon C</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Agent 联网的真相：工具能接上，平台边界绕不过 - 努力的小雨]]></title>
+        <id>https://www.cnblogs.com/guoxiaoyu/p/22328931</id>
+        <link href="https://www.cnblogs.com/guoxiaoyu/p/22328931"/>
+        <updated>2026-08-08T01:31:00.000Z</updated>
+        <summary type="html"><![CDATA[AI Agent 想稳定读取互联网，难点从来不是“会不会打开网页”，而是不同平台有完全不同的接口、登录方式、反爬限制和内容格式。网页能直接抓，GitHub 适合走官方 CLI，视频需要字幕工具，社交平台往往还要登录态。把这些能力逐个接起来，本身就是一项工程。 Agent Reach 做的事情，是给]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Your CEO’s Voice Was Just Used to Steal $4.2]]></title>
+        <id>https://medium.com/p/53993c615d95</id>
+        <link href="https://medium.com/@yua.mikanana19/your-ceos-voice-was-just-used-to-steal-4-2-53993c615d95?source=rss------redteam-5"/>
+        <updated>2026-08-08T01:24:51.000Z</updated>
+        <summary type="html"><![CDATA[It started with a single phone call.
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Yua Mikanana</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Uncovering a Privacy Bug in Proton Meet — How a Simple Logic ‘Typo’ Earned Me $100]]></title>
+        <id>https://medium.com/p/2a8c8d6c47d1</id>
+        <link href="https://medium.com/@kenjisubagja/uncovering-a-privacy-bug-in-proton-meet-how-a-simple-logic-typo-earned-me-100-2a8c8d6c47d1?source=rss------bugbounty-5"/>
+        <updated>2026-08-08T00:15:51.000Z</updated>
+        <summary type="html"><![CDATA[this is the second bug bounty received by Proton 🔥
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Kenjisubagja</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[7. 打开App再截图：启停3步闭环 - 老陈说编程]]></title>
+        <id>https://www.cnblogs.com/halfcode/p/22321282</id>
+        <link href="https://www.cnblogs.com/halfcode/p/22321282"/>
+        <updated>2026-08-07T23:08:00.000Z</updated>
+        <summary type="html"><![CDATA[配套动画视频在《7. Langchain 打开App再截图：启停3步闭环》，源代码在《评论区置顶》。 上一节能截当前屏幕了，但自动化里更常见的是：先打开目标 App，再截首屏，最后把应用关掉。这一节就把「启动 → 截图 → 关闭」收成一条闭环。 整体流程是这样的：先把 .env 里的 HDC_PAT]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI Security Trends Every Developer Should Know in 2026]]></title>
+        <id>https://medium.com/p/656b89982bf8</id>
+        <link href="https://osintteam.blog/ai-security-trends-every-developer-should-know-in-2026-656b89982bf8?source=rss------bugbounty-5"/>
+        <updated>2026-08-07T21:50:32.000Z</updated>
+        <summary type="html"><![CDATA[Hi, I’m Vipul — the human behind TheHackersLog.
+Continue reading on OSINT Team »]]></summary>
+        <author>
+            <name>Vipul Sonule</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Introduction to Sliver C2 — C2 Series by raOvv]]></title>
+        <id>https://medium.com/p/45d28d13c36c</id>
+        <link href="https://medium.com/@raOvvs/introduction-to-sliver-c2-c2-series-by-raovv-45d28d13c36c?source=rss------redteam-5"/>
+        <updated>2026-08-07T21:02:03.000Z</updated>
+        <summary type="html"><![CDATA[Most red teamers talk about C2 frameworks. Few understand what’s actually happening under the hood. This series changes that — starting…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>raOvvs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[URL API: triple-slash parses path segment as hostname]]></title>
+        <id>https://hackerone.com/reports/3923212</id>
+        <link href="https://hackerone.com/reports/3923212"/>
+        <updated>2026-08-07T20:49:46.000Z</updated>
+        <summary type="html"><![CDATA[curl disclosed a bug submitted by thinhlx: https://hackerone.com/reports/3923212]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[URL API: triple-slash parses path segment as hostname]]></title>
+        <id>https://hackerone.com/reports/3923212</id>
+        <link href="https://hackerone.com/reports/3923212"/>
+        <updated>2026-08-07T20:49:46.000Z</updated>
+        <summary type="html"><![CDATA[curl disclosed a bug submitted by thinhlx: https://hackerone.com/reports/3923212]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CAPTCHA Bypass Bug on a Bug Bounty Program]]></title>
+        <id>https://medium.com/p/94ec4f6add57</id>
+        <link href="https://medium.com/@mo_0xnaser/captcha-bypass-bug-on-a-bug-bounty-program-94ec4f6add57?source=rss------bugbounty-5"/>
+        <updated>2026-08-07T20:26:18.000Z</updated>
+        <summary type="html"><![CDATA[بسم الله الرحمن الرحيم
+ الحمد لله، والصلاة والسلام على رسول الله.
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Mohamed Naser</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The SSRF That Wasn’t Supposed to Work Twice]]></title>
+        <id>https://medium.com/p/9439f73d47e0</id>
+        <link href="https://medium.com/@t3nv1/the-ssrf-that-wasnt-supposed-to-work-twice-9439f73d47e0?source=rss------bugbounty-5"/>
+        <updated>2026-08-07T20:16:01.000Z</updated>
+        <summary type="html"><![CDATA[This one has a twist in it, so bear with the setup. The bug wasn’t hard to find. Getting it accepted was the actual fight.
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>T4nv1</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[One Coupon, Thirty Orders: Racing the OopsSec Store Checkout]]></title>
+        <id>https://medium.com/p/6918a3b27d1b</id>
+        <link href="https://medium.com/@oopssec-store/one-coupon-thirty-orders-racing-the-oopssec-store-checkout-6918a3b27d1b?source=rss------bugbounty-5"/>
+        <updated>2026-08-07T19:01:01.000Z</updated>
+        <summary type="html"><![CDATA[A single-use discount code that stops being single-use when requests arrive together
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>OopsSec Store</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Upgrading How You Sign In to Your Sucuri Account]]></title>
+        <id>https://blog.sucuri.net/?p=36190</id>
+        <link href="https://blog.sucuri.net/2026/08/upgrading-how-you-sign-in-to-your-sucuri-account.html"/>
+        <updated>2026-08-07T18:46:59.000Z</updated>
+        <summary type="html"><![CDATA[Starting August 10, 2026, Sucuri will begin moving customer account logins to a new authentication platform designed to provide a stronger, more modern sign-in experience.
+The rollout will happen gradually over the following few weeks, so not every account will transition at the same time.
+For most users, there is nothing to do. Your password will remain the same, your current two-factor authentication setup will continue working, and existing bookmarks to the Sucuri dashboard login page will automatically redirect to the new sign-in page.
+Continue reading Upgrading How You Sign In to Your Sucuri Account at Sucuri Blog.]]></summary>
+        <author>
+            <name>Sucuri</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Client-Controlled Role Assignment: A Critical Privilege Escalation Vulnerability]]></title>
+        <id>https://medium.com/p/a2f0cbae4674</id>
+        <link href="https://medium.com/@devkumaoni9/client-controlled-role-assignment-a-critical-privilege-escalation-vulnerability-a2f0cbae4674?source=rss------bugbounty-5"/>
+        <updated>2026-08-07T18:15:51.000Z</updated>
+        <summary type="html"><![CDATA[Understanding and Preventing One of the Most Common Access Control Flaws
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Devkumaoni</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OEL 系统时间偏慢处理记录 - AlfredZhao]]></title>
+        <id>https://www.cnblogs.com/jyzhao/p/22324370</id>
+        <link href="https://www.cnblogs.com/jyzhao/p/22324370"/>
+        <updated>2026-08-07T16:59:00.000Z</updated>
+        <summary type="html"><![CDATA[笔者遇到一次 OEL 主机时间异常：系统时间比实际时间慢约 10 分钟。这个问题看起来不大，但会直接影响日志时间戳，排查问题和比对业务事件时很容易产生误判。 01 | 问题现象 主机上的系统时间明显偏慢，和实际时间大约相差 10 分钟。 在日常运维中，时间不准最直接的影响就是日志不可信。比如业务报错]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JWT Algorithm Confusion → Admin Account Takeover]]></title>
+        <id>https://medium.com/p/fe3779fd026d</id>
+        <link href="https://medium.com/@mehrankiya272/jwt-algorithm-confusion-admin-account-takeover-fe3779fd026d?source=rss------bugbounty-5"/>
+        <updated>2026-08-07T16:03:03.000Z</updated>
+        <summary type="html"><![CDATA[By Mehran — cyb3rsem
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Mehrankiya</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How I Passed the CRTA Exam: My Complete Review & Preparation Guide]]></title>
+        <id>https://medium.com/p/a8f532adfeeb</id>
+        <link href="https://medium.com/@jayakumar16302/how-i-passed-the-crta-exam-my-complete-review-preparation-guide-a8f532adfeeb?source=rss------redteam-5"/>
+        <updated>2026-08-07T15:12:46.000Z</updated>
+        <summary type="html"><![CDATA[Certification: CRTA (Certified Red Team Analyst)
+Issued by: CyberWarFare Labs (CWL)
+Difficulty: Intermediate
+Format: Practical, black-box…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>JAYAKUMAR</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DVWA on Metasploitable 2: Web Exploitation for OSCP]]></title>
+        <id>https://medium.com/p/b7aa7f99f12c</id>
+        <link href="https://medium.com/@betigetin/dvwa-on-metasploitable-2-web-exploitation-for-oscp-b7aa7f99f12c?source=rss------bugbounty-5"/>
+        <updated>2026-08-07T15:05:54.000Z</updated>
+        <summary type="html"><![CDATA[A beginner-friendly, hands-on walkthrough of DVWA vulnerabilities at Low and Medium difficulty — built for OSCP preparation.
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Isha Sangpal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cyber Kill Chain: Understanding How Cyber Attacks Unfold]]></title>
+        <id>https://medium.com/p/fc2ba4708b4e</id>
+        <link href="https://medium.com/@rjstudio257/cyber-kill-chain-understanding-how-cyber-attacks-unfold-fc2ba4708b4e?source=rss------bugbounty-5"/>
+        <updated>2026-08-07T14:33:42.000Z</updated>
+        <summary type="html"><![CDATA[Cyberattacks rarely happen in a single step. Most successful intrusions follow a structured sequence of actions, allowing attackers to…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Rakesh Joshi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[C# .NET 周刊 ｜2026 年 7 月 2 期 - InCerry]]></title>
+        <id>https://www.cnblogs.com/InCerry/p/-/dotnet_week_26_7_2</id>
+        <link href="https://www.cnblogs.com/InCerry/p/-/dotnet_week_26_7_2"/>
+        <updated>2026-08-07T14:08:00.000Z</updated>
+        <summary type="html"><![CDATA[C# .NET 周刊 ｜2026 年 7 月 2 期 2026-07-12 dotnet_week_26_7_2 国内文章 .NET 10 File-Based Apps：一个 .cs 文件搞定一切，C# 终于也能像 Python 一样写脚本了！ https://www.cnblogs.com/sh]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[监控品牌在 Google AI Overview 里的出现情况(2026 指南) - 蜘蛛人]]></title>
+        <id>https://www.cnblogs.com/A381532662/p/22321380</id>
+        <link href="https://www.cnblogs.com/A381532662/p/22321380"/>
+        <updated>2026-08-07T13:39:00.000Z</updated>
+        <summary type="html"><![CDATA[Google 的 AI Overview 现在占了很多搜索结果页的顶部位置。你的品牌被 AI 摘要提到,是可见度的胜利;竞品被提、你没被提,是几小时内就该知道的失误,而不是几周后。 用 SERP API 可以在拉 organic 结果的同时,把 AI Overview 也拉出来,像追排名一样追品牌在]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“装闭”，让装修套路“装”不下去 - fthux]]></title>
+        <id>https://www.cnblogs.com/myvin/p/22225514</id>
+        <link href="https://www.cnblogs.com/myvin/p/22225514"/>
+        <updated>2026-08-07T13:26:00.000Z</updated>
+        <summary type="html"><![CDATA[「装闭」RenoPit AI驱动的开源装修闭坑系统，是一款AI装修审查工具，上传设计图纸、合同及报价单即可生成报告，逐条指出设计缺陷、合同猫腻、费用偏高及潜在增项。它内置踩坑知识库并支持联网搜索，完全站在消费者立场。]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[博客上线5天，我搭了个安全运营中心 - 厚德载物_VIP]]></title>
+        <id>https://www.cnblogs.com/hellojackyleon/p/22320935</id>
+        <link href="https://www.cnblogs.com/hellojackyleon/p/22320935"/>
+        <updated>2026-08-07T12:38:00.000Z</updated>
+        <summary type="html"><![CDATA[大家好，我是老张。 前天写了博客后台 Dashboard，昨天写了 WAF 自动封禁抓了 11 个恶意 IP。有读者留言问：&quot;拦是拦住了，但你怎么知道今天有多少攻击、都是什么类型、谁在打你？&quot; 好问题。这就是今天要聊的——从单点 WAF 到安全运营中心。 昨天你看到的是盾拦了什么，今天你看到的是我搭]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Bank’s HR Team Was Hacking Themselves Every Time They Opened My Job Application]]></title>
+        <id>https://medium.com/p/b95610ee6ff3</id>
+        <link href="https://medium.com/@tushar.from.cyber/a-banks-hr-team-was-hacking-themselves-every-time-they-opened-my-job-application-b95610ee6ff3?source=rss------bugbounty-5"/>
+        <updated>2026-08-07T12:24:18.000Z</updated>
+        <summary type="html"><![CDATA[How a 4-character file name prefix turned a resume upload into a persistent backdoor into a Ukrainian bank’s HR panel — and why this class…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>tushar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[使用方法 ToDictionary() 来优化查询时间复杂度：O(N*M) -> O(1*M)【C# 基础】 - 橙子家]]></title>
+        <id>https://www.cnblogs.com/hnzhengfy/p/22276998/ToDictionary</id>
+        <link href="https://www.cnblogs.com/hnzhengfy/p/22276998/ToDictionary"/>
+        <updated>2026-08-07T11:30:00.000Z</updated>
+        <summary type="html"><![CDATA[〇、前言 对于一个对象 List，通过调用 .Where() 来筛选数据，当数据量比较大时，就会大大拖慢程序运行效率，从秒级直接到分钟级。 即 O(N*M) 中，N 的基数非常大时，单次查询就比较慢，循环 M 次的累加时间将逐渐扩大。 那么有没有更好的方法来做筛选，本文将进行简单尝试，主要涉及三种方]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Cloud Didn’t Remove the Perimeter. It Moved It Into Identity.]]></title>
+        <id>https://medium.com/p/5b8476cf630e</id>
+        <link href="https://medium.com/@leonbytycii/the-cloud-didnt-remove-the-perimeter-it-moved-it-into-identity-5b8476cf630e?source=rss------redteam-5"/>
+        <updated>2026-08-07T10:28:10.000Z</updated>
+        <summary type="html"><![CDATA[From SSRF to Autonomous Agents: A Technical Study of How IAM, Non-Human Identities, and AI Orchestration Are Converging Into a Single…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Leonbytycii</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[从 PHP 到 AI + Golang，程序员自救转型手记（五十六）：附件管理、增加根据文件后缀生成 SVG 文件图标的接口 - 妙码生花]]></title>
+        <id>https://www.cnblogs.com/ai-go-hub/p/22317993</id>
+        <link href="https://www.cnblogs.com/ai-go-hub/p/22317993"/>
+        <updated>2026-08-07T09:46:00.000Z</updated>
+        <summary type="html"><![CDATA[这是一个系列 Blog，作者将以一个 PHP 全栈工程师的身份，利用 AI 工具（claude code、codex、deepseek、豆包等）：从零开始学习 golang 语言，并最终完成 ai-go-admin（github | gitee）开源项目的制作，全程记录分享。 在上一期，我们进行了]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[差异化推送消息能力，助力腕上支付业务闭环 - HarmonyOS_SDK]]></title>
+        <id>https://www.cnblogs.com/HarmonyOSSDK/p/22317928</id>
+        <link href="https://www.cnblogs.com/HarmonyOSSDK/p/22317928"/>
+        <updated>2026-08-07T09:41:00.000Z</updated>
+        <summary type="html"><![CDATA[随着智能穿戴设备的普及，人们对支付便捷性的需求也从手机延伸至腕间。早在数年前，手表支付功能就已全面落地，用户无需掏出手机，抬腕即可完成支付，让交易场景变得更加轻盈高效。随着碰支付功能的加入，腕上支付场景变得更加便捷。然而，大多数用户仍习惯使用手机进行支付，尽管商家们在手表穿戴场景中提供了大量优惠活动]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LangChain — RAG 构建知识库（理论） - VipSoft]]></title>
+        <id>https://www.cnblogs.com/vipsoft/p/22316657</id>
+        <link href="https://www.cnblogs.com/vipsoft/p/22316657"/>
+        <updated>2026-08-07T09:11:00.000Z</updated>
+        <summary type="html"><![CDATA[目录构建知识库文档加载（Document Loaders）TextLoaderWebBaseLoaderCSVLoaderPDF文本切分（Text Splitters）递归字符切分（推荐）固定长度切分结构感知切分向量化（Embeddings）Ollama EmbeddingsDashScope Em]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LLM Testing in 2026: The Pyramid, and Why LLM-as-Judge Belongs in the Middle.]]></title>
+        <id>https://medium.com/p/b15cf8ecad35</id>
+        <link href="https://medium.com/@future_agi/llm-testing-in-2026-the-pyramid-and-why-llm-as-judge-belongs-in-the-middle-b15cf8ecad35?source=rss------redteam-5"/>
+        <updated>2026-08-07T08:55:46.000Z</updated>
+        <summary type="html"><![CDATA[Deterministic checks at the base, rubric eval in the middle, red-team and canary at the top. Put the judge at the base and the cost curve…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Future AGI</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[dbt+SQLServer构建数据仓库(4)：分层建模实战 - 哥本哈士奇(aspnetx)]]></title>
+        <id>https://www.cnblogs.com/aspnetx/p/22314091</id>
+        <link href="https://www.cnblogs.com/aspnetx/p/22314091"/>
+        <updated>2026-08-07T08:12:00.000Z</updated>
+        <summary type="html"><![CDATA[dbt+SQLServer构建数据仓库(4)：分层建模实战 本文接上篇,从概念走向实操:基于本项目的 5 个模型,讲清楚分层架构的设计原则和每个模型的 SQL 怎么写。 一、引言 前 3 篇讲了概念、对比和配置: 第 1 篇认识 dbt,第 2 篇讲清了为什么不用 SSIS/存储过程,第 3 篇逐行]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pikachu靶场通关记录（二）（完结） - 反对的只剩下月亮]]></title>
+        <id>https://www.cnblogs.com/shiningmoon/p/22153258</id>
+        <link href="https://www.cnblogs.com/shiningmoon/p/22153258"/>
+        <updated>2026-08-07T08:07:00.000Z</updated>
+        <summary type="html"><![CDATA[4.SQL-Injecrt 4.1数字型注入（post） 与4.2的get型注入过程一致，不过需要通过bp抓包在包里修改传递内容 4.2字符型注入（get） 注入内容会在url中显示出来，尝试猜测闭合方式，发现为单引号 后续过程为爆库名，爆表名，爆字段名，然后脱库（爆数据） &#39; order by 3]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI 软件开发实战教程（三）：把讨论结果变成可执行的产品规划 - DevWiki]]></title>
+        <id>https://www.cnblogs.com/devwiki/p/22311853</id>
+        <link href="https://www.cnblogs.com/devwiki/p/22311853"/>
+        <updated>2026-08-07T07:18:00.000Z</updated>
+        <summary type="html"><![CDATA[“AI 软件开发实战教程”系列第 3 篇：把已经完成的产品讨论整理成正式规划，通过逐项审阅消除规则歧义，并为后续技术验证、架构设计和测试留下可以检查的依据。 上一篇完成产品讨论后，“邻行”已经不再只是一句模糊的想法。 我们知道它要解决的是：小区顺风车微信群里的供需信息出现时间不同，较早发布的消息很快]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[痞子衡嵌入式：如果你嫌MCU板卡工厂验收测试麻烦，不妨试试FATestSuite - 痞子衡]]></title>
+        <id>https://www.cnblogs.com/henjay724/p/22311790</id>
+        <link href="https://www.cnblogs.com/henjay724/p/22311790"/>
+        <updated>2026-08-07T07:16:00.000Z</updated>
+        <summary type="html"><![CDATA[任何一个 MCU 板卡从工厂生产出来一定要过验收测试以确保板卡焊接以及所用元器件功能正常，这就是所谓的 Factory Acceptance Test（工厂验收测试，简称 FAT）。除了工厂自身的必要测试之外，一般 MCU 原厂还需提供 MCU 端测试固件程序让工人在板卡上实际跑一遍功能来进一步确认]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[6. Agent一句话截真机屏：截图Tool这样写 - 老陈说编程]]></title>
+        <id>https://www.cnblogs.com/halfcode/p/22302141</id>
+        <link href="https://www.cnblogs.com/halfcode/p/22302141"/>
+        <updated>2026-08-07T05:17:00.000Z</updated>
+        <summary type="html"><![CDATA[配套动画视频在：《6. Agent一句话截真机屏：截图Tool这样写》。 前面几节把读文档、生成用例这条链路打通了。自动化测试里还有一块绕不开：对着真机截屏。这一节就写截图 Tool——Agent 说一句话，就能把当前屏幕落到本地。 整条链路可以先记个轮廓：先在 .env 里配好 HDC_PATH，]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OctaFuse Gateway 2.2.0：让每一层路由都有自己的策略 - 程序猿DD]]></title>
+        <id>https://www.cnblogs.com/didispace/p/22303609</id>
+        <link href="https://www.cnblogs.com/didispace/p/22303609"/>
+        <updated>2026-08-07T03:05:00.000Z</updated>
+        <summary type="html"><![CDATA[OctaFuse Gateway 2.2.0 正式发布。 这次升级聚焦一件事：让路由配置更贴近真实的生产流量。 当一个模型同时接入多个账号、多个供应商或多条备用链路时，“先走谁、同层怎么选、失败后往哪里切”不应该是一组藏在代码里的隐含规则。2.2.0 把这些决策继续下沉到 Route Pool 的]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Solon I18n：三种解析器，零样板代码 - 带刺的坐椅]]></title>
+        <id>https://www.cnblogs.com/noear/p/22303602</id>
+        <link href="https://www.cnblogs.com/noear/p/22303602"/>
+        <updated>2026-08-07T03:04:00.000Z</updated>
+        <summary type="html"><![CDATA[Solon 国际化方案以极简设计实现多语言支持，仅需将资源文件放入 resources/i18n/ 目录即可自动加载。提供三种开箱即用的语言解析器（Header/Cookie/Session）和自定义扩展能力，支持通过工具类、服务类或注解方式获取翻译文本。相比传统方案省去繁琐配置，无需声明Bean或...]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[介绍一下Redis的高可用方案 - Rain的Java大神实战圈]]></title>
+        <id>https://www.cnblogs.com/zrui-xyu/p/22303264</id>
+        <link href="https://www.cnblogs.com/zrui-xyu/p/22303264"/>
+        <updated>2026-08-07T02:57:00.000Z</updated>
+        <summary type="html"><![CDATA[本文系统拆解 Redis 主从、哨兵、Cluster 三套高可用方案，梳理不同流量场景选型策略。附上 Jedis、SpringBoot+Lettuce 生产级实战代码，包含哨兵连接池、集群拓扑自动刷新、哈希标签解决跨槽操作、切换自动重试等实用方案。针对性攻克脑裂、主从数据不一致、缓存雪崩等线上经典难...]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Agent Runtime 如何用 Session、Memory、User Profile 和 Skill 实现外部学习 - AI小老六]]></title>
+        <id>https://www.cnblogs.com/ai-old-six/p/22303269</id>
+        <link href="https://www.cnblogs.com/ai-old-six/p/22303269"/>
+        <updated>2026-08-07T02:57:00.000Z</updated>
+        <summary type="html"><![CDATA[Agent 的自我学习多发生在模型外部，通过 Memory、Session 和 Skill 沉淀经验并在后续任务复用。 导语 “越用越聪明”的 Agent 很容易被误解。 很多人听到自我学习，会以为系统在训练一个新模型，或者底层大模型参数会随着使用自动更新。实际工程里，大多数 Agent 的“学习”]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Proving Grounds RubyDome: User-controlled Root]]></title>
         <id>https://medium.com/p/d670ec805339</id>
