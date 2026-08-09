@@ -6,6 +6,16 @@
       "siteUrl": "http://h1.nobbd.de/",
       "articles": [
         {
+          "id": "https://hackerone.com/reports/3265780",
+          "author": null,
+          "description": "CoinMate.io disclosed a bug submitted by ganesh_reddy: https://hackerone.com/reports/3265780 - Bounty: $100",
+          "link": "https://hackerone.com/reports/3265780",
+          "publishedOn": "2026-08-08T09:11:56.000Z",
+          "wordCount": 25,
+          "title": "Adding phone number to profile By OTP brute forcing",
+          "imageUrl": "https://profile-photos.hackerone-user-content.com/variants/000/000/440/e3088fe967412b4eabd1c6f7f62d26bcee9a177f_original.jpg/5d27521e1b671a8e8bc4f016cace6a876120e5addf7dcc35ae4a5eac091669a9"
+        },
+        {
           "id": "https://hackerone.com/reports/3923212",
           "author": null,
           "description": "curl disclosed a bug submitted by thinhlx: https://hackerone.com/reports/3923212",
@@ -4099,6 +4109,106 @@
       "feedUrl": "https://medium.com/feed/tag/bugbounty",
       "siteUrl": "https://medium.com/tag/bugbounty/latest?source=rss------bugbounty-5",
       "articles": [
+        {
+          "id": "https://medium.com/p/fedb5bee2c86",
+          "author": "Abhishek meena",
+          "description": "30-second version: I compared the RCE reports that defined 2018–2021 bug bounty with what’s getting disclosed in 2024–2026. The attack…\nContinue reading on Medium »",
+          "link": "https://medium.com/@Aacle/rce-in-2026-doesnt-look-like-rce-in-2020-here-s-what-actually-matters-now-fedb5bee2c86?source=rss------bugbounty-5",
+          "publishedOn": "2026-08-09T01:20:32.000Z",
+          "wordCount": null,
+          "title": "RCE in 2026 Doesn’t Look Like RCE in 2020. Here’s What Actually Matters Now.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/dffa3fad3784",
+          "author": "Cybersecplayground",
+          "description": "🚀 PoC Vault is Now Live!\nContinue reading on Medium »",
+          "link": "https://medium.com/@cybersecplayground/poc-vault-by-cybersecplayground-dffa3fad3784?source=rss------bugbounty-5",
+          "publishedOn": "2026-08-08T19:50:21.000Z",
+          "wordCount": null,
+          "title": "PoC Vault by CyberSecPlayground",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/346b99f322ef",
+          "author": "Mukilan Baskaran",
+          "description": "AI-powered security scanners are becoming increasingly common. They can authenticate to applications, browse sensitive areas, inspect…\nContinue reading on InfoSec Write-ups »",
+          "link": "https://infosecwriteups.com/bypassing-ai-scanner-defenses-to-exfiltrate-sensitive-information-portswigger-web-security-346b99f322ef?source=rss------bugbounty-5",
+          "publishedOn": "2026-08-08T19:29:07.000Z",
+          "wordCount": null,
+          "title": "Bypassing AI Scanner Defenses to Exfiltrate Sensitive Information — PortSwigger Web Security…",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/6c9de20544e5",
+          "author": "Leonardo R Cavalcante",
+          "description": "Search is supposed to live in the address bar.\nContinue reading on Medium »",
+          "link": "https://leonardo-cavalcantee.medium.com/search-has-escaped-6c9de20544e5?source=rss------bugbounty-5",
+          "publishedOn": "2026-08-08T15:31:54.000Z",
+          "wordCount": null,
+          "title": "Search Has Escaped",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/b651edfad4f3",
+          "author": "h@shtalk",
+          "description": "Not a single magic tool. A loop, a set of scoped agents, and a very firm human hand on the “actually exploit this” switch.\nContinue reading on Medium »",
+          "link": "https://eva-georgieva.medium.com/i-built-an-agentic-ai-setup-for-bug-hunting-heres-the-architecture-b651edfad4f3?source=rss------bugbounty-5",
+          "publishedOn": "2026-08-08T15:11:01.000Z",
+          "wordCount": null,
+          "title": "I built an agentic AI setup for bug hunting. Here’s the architecture.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/440acf9dc143",
+          "author": "Rakesh Joshi",
+          "description": "Reconnaissance is not just collecting subdomains. It is building a model of what the target actually exposes.\nContinue reading on Medium »",
+          "link": "https://medium.com/@rjstudio257/how-to-build-a-complete-attack-surface-map-for-bug-bounty-440acf9dc143?source=rss------bugbounty-5",
+          "publishedOn": "2026-08-08T12:37:53.000Z",
+          "wordCount": null,
+          "title": "How to Build a Complete Attack Surface Map for Bug Bounty",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/47bc630c17ae",
+          "author": "Nitin yadav",
+          "description": "What’s up everyone! Nitin here 👋\nContinue reading on InfoSec Write-ups »",
+          "link": "https://infosecwriteups.com/the-waf-blocked-my-xss-so-i-rotated-what-it-was-reading-47bc630c17ae?source=rss------bugbounty-5",
+          "publishedOn": "2026-08-08T11:31:01.000Z",
+          "wordCount": null,
+          "title": "The WAF Blocked My XSS — So I Rotated What It Was Reading",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/001f6ca00539",
+          "author": "tushar",
+          "description": "How a deleted Ruby gem in a 10-year-old Gemfile turned Switzerland’s largest telecom’s “Works Out of the Box” tutorial into a supply chain…\nContinue reading on Medium »",
+          "link": "https://medium.com/@tushar.from.cyber/how-i-found-a-high-severity-supply-chain-vulnerability-in-swisscoms-official-tutorial-using-three-001f6ca00539?source=rss------bugbounty-5",
+          "publishedOn": "2026-08-08T11:14:31.000Z",
+          "wordCount": null,
+          "title": "How I Found a High-Severity Supply Chain Vulnerability in Swisscom’s Official Tutorial Using Three…",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/9c0080c4c0d4",
+          "author": "Alareqi",
+          "description": "I keep running into a pattern on access-controlled community platforms, and it’s worth every hunter knowing what to look for.\nContinue reading on Medium »",
+          "link": "https://medium.com/@mohmmedalariki2014/the-gate-that-gates-nothing-9c0080c4c0d4?source=rss------bugbounty-5",
+          "publishedOn": "2026-08-08T09:55:43.000Z",
+          "wordCount": null,
+          "title": "The gate that gates nothing",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/0f092ba254ed",
+          "author": "Samet Yiğit",
+          "description": "Friend Link\nContinue reading on Medium »",
+          "link": "https://medium.com/@xelcezeri/bypassing-filters-to-achieve-union-based-sql-injection-on-a-search-endpoint-0f092ba254ed?source=rss------bugbounty-5",
+          "publishedOn": "2026-08-08T08:11:11.000Z",
+          "wordCount": null,
+          "title": "Bypassing Filters to Achieve UNION-Based SQL Injection on a Search Endpoint",
+          "imageUrl": null
+        },
         {
           "id": "https://medium.com/p/2a8c8d6c47d1",
           "author": "Kenjisubagja",
@@ -8296,6 +8406,56 @@
       "feedUrl": "https://medium.com/feed/tag/redteam",
       "siteUrl": "https://medium.com/tag/redteam/latest?source=rss------redteam-5",
       "articles": [
+        {
+          "id": "https://medium.com/p/a96e60997711",
+          "author": "chokri hammedi",
+          "description": "A full walkthrough of Fries, a Hard-difficulty Windows Active Directory box chaining web app exploitation, container escape, credential…\nContinue reading on Medium »",
+          "link": "https://medium.com/@chokrihammedi/fries-hackthebox-writeup-a96e60997711?source=rss------redteam-5",
+          "publishedOn": "2026-08-08T17:09:43.000Z",
+          "wordCount": null,
+          "title": "Fries HackTheBox writeup",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/56bbb26f5bef",
+          "author": "Roger Zeferino",
+          "description": "Walkthrough de um laboratório de treino da CRTA (Certified Red Team Analyst, CyberWarFare Labs). Cadeia completa, web app, SSRF/LFI…\nContinue reading on Medium »",
+          "link": "https://medium.com/@rogrtch/crta-da-aplica%C3%A7%C3%A3o-web-ao-domain-admin-56bbb26f5bef?source=rss------redteam-5",
+          "publishedOn": "2026-08-08T16:08:26.000Z",
+          "wordCount": null,
+          "title": "CRTA - da Aplicação Web ao Domain Admin",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/e07452db5cb8",
+          "author": "Sodik Tursunboev",
+          "description": "Not another “top 10 SIEM tools” listicle — the actual debugging notes from building one.\nContinue reading on Medium »",
+          "link": "https://medium.com/@sodik-tursunboev/i-built-my-own-siem-from-scratch-heres-what-broke-and-what-i-learned-fixing-it-e07452db5cb8?source=rss------redteam-5",
+          "publishedOn": "2026-08-08T15:55:28.000Z",
+          "wordCount": null,
+          "title": "I Built My Own SIEM From Scratch. Here’s What Broke, and What I Learned Fixing It.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/b285bb289ab5",
+          "author": "Samit Hota",
+          "description": "Discover the differences between Blue Team, Red Team, and Purple Team in cybersecurity. Learn about roles, responsibilities, salaries in…\nContinue reading on Medium »",
+          "link": "https://medium.com/@SamitHota/blue-team-vs-red-team-vs-purple-team-2026-guide-roles-skills-salaries-career-path-b285bb289ab5?source=rss------redteam-5",
+          "publishedOn": "2026-08-08T09:22:12.000Z",
+          "wordCount": null,
+          "title": "Blue Team vs Red Team vs Purple Team (2026 Guide): Roles, Skills, Salaries & Career Path",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/becb9c97df51",
+          "author": "Macedo If",
+          "description": "If I told you that the future of cybersecurity shares a dilemma with the extinction of dinosaurs and Isaac Newton’s mathematics, would you…\nContinue reading on Medium »",
+          "link": "https://medium.com/@macedo.if/the-anatomy-of-the-next-challenge-when-superintelligence-masters-social-engineering-becb9c97df51?source=rss------redteam-5",
+          "publishedOn": "2026-08-08T08:40:46.000Z",
+          "wordCount": null,
+          "title": "The Anatomy of the Next Challenge: When Superintelligence Shall Master Social Engineering",
+          "imageUrl": null
+        },
         {
           "id": "https://medium.com/p/d2743efb4fa9",
           "author": "Jon C",
@@ -13708,6 +13868,206 @@
       "feedUrl": "https://feed.cnblogs.com/blog/sitehome/rss",
       "siteUrl": null,
       "articles": [
+        {
+          "id": "https://www.cnblogs.com/badhope/p/22345012/ai-bubble-or-not",
+          "author": null,
+          "description": "察观业,行能智工,DeepSeek,GPT-5,Sora,AGI,人缺短力,算合拟过分,跑型模,大沫AI泡AI是泡沫吗？从中美大模型性能差距仅2.7%，到跑分过拟合、算力短缺、95%企业AI项目无法盈利——本文用数据撕开行业遮羞布，又在废墟中找到希望的种子。有信心，但不盲目。",
+          "link": "https://www.cnblogs.com/badhope/p/22345012/ai-bubble-or-not",
+          "publishedOn": "2026-08-08T18:45:00.000Z",
+          "wordCount": 492,
+          "title": "AI真的是泡沫吗？——一个程序员视角的冷思考与热信心AI泡沫大模型跑分过拟合算力短缺DeepSeekSoraAGI行业观察 - badhope33834",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/aspnetx/p/22344358",
+          "author": null,
+          "description": "本文是第 6 篇,深入 dbt 的模板引擎和依赖图机制:Jinja 怎么把 {{ ref() }} 渲染成真实表名、DAG 怎么自动构建和排序、--select 选择器怎么精准控制要跑哪些模型。",
+          "link": "https://www.cnblogs.com/aspnetx/p/22344358",
+          "publishedOn": "2026-08-08T17:14:00.000Z",
+          "wordCount": 1298,
+          "title": "dbt+SQLServer构建数据仓库(6)：Jinja与DAG实战 - 哥本哈士奇(aspnetx)",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/xiexj/p/22344233",
+          "author": null,
+          "description": "我有个同事，所有 AI 工具都开顶配套餐。就这样，额度还是不够烧——他的用量曲线，比我们业务的增长曲线都陡。 他在干嘛呢？ 日夜不停地让 AI 优化我们的系统。 白天让它批判架构，晚上让它批判自己白天改过的架构。人歇了，任务不歇，第二天早上收一批&quot;优化建议&quot;，继续投喂。 我问他图什么。他说了一句听起",
+          "link": "https://www.cnblogs.com/xiexj/p/22344233",
+          "publishedOn": "2026-08-08T17:09:00.000Z",
+          "wordCount": 346,
+          "title": "同事烧光了所有 AI 顶配额度，就为了验证一句话 - 编程一生",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/grey-wolf/p/22342600",
+          "author": null,
+          "description": "背景 最近在公司用codex有一阵了，不过怎么把这个东西玩得6，还在探索中。家里也有台windows，就准备也把codex装上，结果发现还有些之前没遇到的幺蛾子，就在这里完整记录一遍。 本文主要就是安装codex windows desktop版本，接deekseek v4 flash（最近这个de",
+          "link": "https://www.cnblogs.com/grey-wolf/p/22342600",
+          "publishedOn": "2026-08-08T15:20:00.000Z",
+          "wordCount": 383,
+          "title": "windows安装codex desktop和cc-switch，接deepseek v4 flash - 三国梦回",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/eventhorizon/p/22342067",
+          "author": null,
+          "description": "目录前言至少一次投递与业务幂等一条消息经过三次责任交接Producer 将消息交给 BrokerBroker 接管消息并负责存储Consumer 处理完成后再确认RocketMQ 内建的重试与死信状态消息进入 DLQ 后如何兜底gRPC/POP PushConsumer 如何完成一次重试服务端内部：",
+          "link": "https://www.cnblogs.com/eventhorizon/p/22342067",
+          "publishedOn": "2026-08-08T14:27:00.000Z",
+          "wordCount": 1751,
+          "title": "面向 .NET 开发者的 RocketMQ 入门指南（二）：RocketMQ 如何让业务消息更可靠 - 黑洞视界",
+          "imageUrl": "https://img2024.cnblogs.com/blog/1201123/202608/1201123-20260808222511951-699290720.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/drialoduca/p/22341552",
+          "author": null,
+          "description": "现在给 AI Agent 接大模型已经不难，真正麻烦的往往是另一件事：怎样让它稳定地读懂网页。 你当然可以直接请求一个 URL，但拿回来的可能是几百 KB 的 HTML、导航栏、Cookie 弹窗、脚本、广告、延迟加载内容，以及一堆对回答问题没有帮助的噪声。 遇到 JavaScript 渲染、分页、",
+          "link": "https://www.cnblogs.com/drialoduca/p/22341552",
+          "publishedOn": "2026-08-08T13:21:00.000Z",
+          "wordCount": 676,
+          "title": "别再把整页 HTML 塞给 Agent：Firecrawl 把网站变成可用上下文 - KolaCapa",
+          "imageUrl": "https://img2024.cnblogs.com/blog/3834498/202608/3834498-20260808212030937-1567544724.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/doiito/p/22341290",
+          "author": null,
+          "description": "Gliding Horse 最新升级：把“智能闭环”真正跑通的一次深度优化 摘要：Gliding Horse 本次升级聚焦“智能闭环”的落地，重点打通记忆系统的一致性写入与预取链路、修复 SA 编排层的“假成功”问题、为安全门禁补充合规工具白名单，并新增日志实时镜像以消除长任务“无输出假死”。升级后",
+          "link": "https://www.cnblogs.com/doiito/p/22341290",
+          "publishedOn": "2026-08-08T12:38:00.000Z",
+          "wordCount": 754,
+          "title": "【Agent Harness】Gliding Horse 最新升级：把“智能闭环”真正跑通的一次深度优化 - doiito",
+          "imageUrl": "https://img2024.cnblogs.com/blog/3807434/202608/3807434-20260804203710073-1346431216.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/known/p/22341205",
+          "author": null,
+          "description": "一套开源、免费、开箱即用的进销存管理平台，基于 .NET 10 + Blazor Server + Known 框架构建。 一、项目简介 JxcLite 是一套面向中小企业的轻量级进销存管理系统，覆盖了商品管理、采购进货、销售出货、库存核算、财务对账、报表统计等核心业务场景。 与市面上动辄上万元的传",
+          "link": "https://www.cnblogs.com/known/p/22341205",
+          "publishedOn": "2026-08-08T12:26:00.000Z",
+          "wordCount": 784,
+          "title": "基于Blazor实现的轻量进销存管理系统 - known",
+          "imageUrl": "https://img2024.cnblogs.com/blog/21278/202608/21278-20260808202239674-1886217820.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/hellojackyleon/p/22340991",
+          "author": null,
+          "description": "大家好，我是老张。 连着写了三天博客安全系列，今天换个话题——生产踩坑。 上周写个人博客后台写嗨了，差点在生产环境捅个大篓子。 ⚠️ 声明：本文基于真实生产环境排查案例编写，已对 IP 地址、实例名、库名/表名、密码等敏感信息做脱敏处理，命令可直接复制执行。 &quot;磁盘 80% 告警，碎片 52G，TR",
+          "link": "https://www.cnblogs.com/hellojackyleon/p/22340991",
+          "publishedOn": "2026-08-08T11:53:00.000Z",
+          "wordCount": 978,
+          "title": "MySQL 磁盘 80% 告警，碎片 52G，我差点 TRUNCATE 掉正在写入的业务表 - 厚德载物_VIP",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/halfcode/p/22340972",
+          "author": null,
+          "description": "配套动画视频在《8. 一键出报告：结果填入HTML模板》，源代码在《评论区置顶》。 截图有了，还差一份能打开看的测试报告。这一节把结果填进 HTML 模板：先声明工具入参，再把输出路径和截图路径规范到工程内；有 test_results.json 就读并合并用例截图，没有则从文本里解析总计/通过/失",
+          "link": "https://www.cnblogs.com/halfcode/p/22340972",
+          "publishedOn": "2026-08-08T11:47:00.000Z",
+          "wordCount": 680,
+          "title": "8. 一键出报告，结果填入HTML模板 - 老陈说编程",
+          "imageUrl": "https://img2024.cnblogs.com/blog/1919157/202608/1919157-20260808194642735-434687096.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/toutou/p/19400547/python_PyAutoGUI",
+          "author": null,
+          "description": "PyAutoGUI 是 Python 的自动化控制库，可模拟鼠标、键盘操作，支持 Windows/macOS/Linux，安装前需确保已安装 Python（推荐 3.6+）和 pip。 v基础功能 一、PyAutoGUI 安装 PyAutoGUI 是 Python 的自动化控制库，可模拟鼠标、键盘操",
+          "link": "https://www.cnblogs.com/toutou/p/19400547/python_PyAutoGUI",
+          "publishedOn": "2026-08-08T11:29:00.000Z",
+          "wordCount": 2673,
+          "title": "Python GUI自动化神器PyAutoGUI - 请叫我头头哥",
+          "imageUrl": "https://img2024.cnblogs.com/blog/506684/202512/506684-20251225180950742-922799853.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/ai-go-hub/p/22340828",
+          "author": null,
+          "description": "这是一个系列 Blog，作者将以一个 PHP 全栈工程师的身份，利用 AI 工具（claude code、codex、deepseek、豆包等）：从零开始学习 golang 语言，并最终完成 ai-go-admin（github | gitee）开源项目的制作（欢迎 star~），全程记录分享。 在",
+          "link": "https://www.cnblogs.com/ai-go-hub/p/22340828",
+          "publishedOn": "2026-08-08T11:22:00.000Z",
+          "wordCount": 585,
+          "title": "从 PHP 到 AI + Golang，程序员自救转型手记（五十九）：前后端自定义后台入口实现 - 妙码生花",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/advisedy/p/22340602",
+          "author": null,
+          "description": "日期: 2026.8.8 写在开头的开头 AdvisKV 是我用 C++17 从零写的一个分布式 KV 存储系统原型，包含 Catalog、Topo、Storage、SDK 四个主要模块，覆盖建库建表、路由查询、KV 读写、副本数扩缩容、坏副本替换、Raft、WAL/snapshot 恢复，跑了 g",
+          "link": "https://www.cnblogs.com/advisedy/p/22340602",
+          "publishedOn": "2026-08-08T10:40:00.000Z",
+          "wordCount": 2128,
+          "title": "【adviskv】#04：PUT 链路 在 Storage 内部的 Replica 的设计与实现（上） - AdviseDY",
+          "imageUrl": "https://img2024.cnblogs.com/blog/3435614/202608/3435614-20260808184003523-1308263342.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/corgic-lf-fblog/p/22314961",
+          "author": null,
+          "description": "探索模型 codex，kimiK3 deepseek + codex / deepseek + reasonix 特点 AI模型特点 优先选择最短路径，而不是最优架构 以解决问题为主，而不是长期维护为主 同一个问题，不同的会话，结果存在不一致（模型概率问题） 项目内容过大，容易出现上下文幻觉（生成不",
+          "link": "https://www.cnblogs.com/corgic-lf-fblog/p/22314961",
+          "publishedOn": "2026-08-08T09:56:00.000Z",
+          "wordCount": 420,
+          "title": "AI编程工程实践心得 - 沫丶雨悠",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/noear/p/22339549",
+          "author": null,
+          "description": "Solon 框架的 solon-hotplug 模块为业务插件提供了热插拔能力，允许在不重启主程序的情况下动态加载、启动、停止和卸载插件。该功能适用于需要持续运行的应用，如网关或多模块单体系统，可避免服务中断。",
+          "link": "https://www.cnblogs.com/noear/p/22339549",
+          "publishedOn": "2026-08-08T09:19:00.000Z",
+          "wordCount": 582,
+          "title": "Hot-Plug 实战：运行期管理 Solon 插件 - 带刺的坐椅",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/12lisu/p/22338685",
+          "author": null,
+          "description": "前言 最近有球友问：三哥，有没有好一点的Git规范，可以发我参考一下？ 今天这篇文章，我就把一线大厂都在用的Git规范从头到尾给你拆解一遍。 希望对你会有所帮助。 一、为什么大厂如此重视Git规范？ 在聊具体规范之前，我们先理解一个根本问题——为什么大厂把Git规范看得这么重要？ 第一个原因：规模。",
+          "link": "https://www.cnblogs.com/12lisu/p/22338685",
+          "publishedOn": "2026-08-08T08:41:00.000Z",
+          "wordCount": 848,
+          "title": "一线大厂的Git规范 - 苏三说技术",
+          "imageUrl": "https://img2024.cnblogs.com/blog/2238006/202608/2238006-20260808163946507-1046154415.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/xingce/p/22334867",
+          "author": null,
+          "description": "基于MPSOC FPGA + NIVIDIA ORIN NX 的CoaXPress 采集 背景说明 客户现有验证平台是基于 XILINX MPSoCs ZU19EG以及集成 NVIDIA ORIN NX 8GB模块的开发平台，计划在该平台验证其CoaXPress 相机图像采集与图像处理。 星测电子在",
+          "link": "https://www.cnblogs.com/xingce/p/22334867",
+          "publishedOn": "2026-08-08T06:19:00.000Z",
+          "wordCount": 387,
+          "title": "基于MPSOC FPGA + NIVIDIA ORIN NX 的CoaXPress 采集 - Hello-FPGA",
+          "imageUrl": "https://img2024.cnblogs.com/blog/2747207/202608/2747207-20260808141447237-1190746846.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/didispace/p/22333187",
+          "author": null,
+          "description": "OctaFuse Gateway 2.3.0 正式发布。 一次请求通过故障转移（Failover）找到可用上游后，后续请求能否继续访问同一家供应商（Provider），会直接影响缓存命中率、会话连续性以及供应商侧状态的稳定性。 2.3.0 为路由池（Route Pool）新增了供应商粘性（Provi",
+          "link": "https://www.cnblogs.com/didispace/p/22333187",
+          "publishedOn": "2026-08-08T05:04:00.000Z",
+          "wordCount": 402,
+          "title": "OctaFuse Gateway 2.3.0：供应商粘性绑定，让缓存命中更稳定 - 程序猿DD",
+          "imageUrl": "https://img2024.cnblogs.com/blog/626506/202608/626506-20260808125956911-805759761.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/aqi00/p/22330955",
+          "author": null,
+          "description": "​上一篇文章介绍了如何使用InMemoryStore实现用户偏好的精确记忆功能，但记忆只保留在内存中，一旦AI应用重启，就会丢失上次在内存中的记忆数据。 为了让AI应用持久记忆业务数据，就得引入文件或者数据库等存储介质，比如Python自带的轻量级数据库SQLite。接下来就介绍如何结合LangGr",
+          "link": "https://www.cnblogs.com/aqi00/p/22330955",
+          "publishedOn": "2026-08-08T03:05:00.000Z",
+          "wordCount": 400,
+          "title": "15天学会AI应用开发（十九）使用LangGraph实现持久记忆功能 - aqi00",
+          "imageUrl": "https://img2024.cnblogs.com/blog/729938/202608/729938-20260808110422066-1602679838.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/wang_yb/p/22330677",
+          "author": null,
+          "description": "前几篇介绍了使用方差阈值，相关性分析以及统计检验等方式来过滤特征，这些方法都有一个共同点，就是由人来决定如何打分。 今天介绍一种让模型自己给特征“打分”的方式，也就是让模型自己判断哪些特征重要，哪些特征是无关紧要的。 与其我自己猜，不如让模型告诉我。 核心思路 这种特征选择方式的核心思想总结起来就一",
+          "link": "https://www.cnblogs.com/wang_yb/p/22330677",
+          "publishedOn": "2026-08-08T02:54:00.000Z",
+          "wordCount": 610,
+          "title": "基于模型的重要性评分进行“特征排序” - wang_yb",
+          "imageUrl": "https://img2024.cnblogs.com/blog/83005/202608/83005-20260808105238977-1557355819.png"
+        },
         {
           "id": "https://www.cnblogs.com/guoxiaoyu/p/22328931",
           "author": null,
@@ -22294,6 +22654,16 @@
       "feedUrl": "http://h1.nobbd.de/reports_rss.xml",
       "siteUrl": "http://h1.nobbd.de/",
       "articles": [
+        {
+          "id": "https://hackerone.com/reports/3265780",
+          "author": null,
+          "description": "CoinMate.io disclosed a bug submitted by ganesh_reddy: https://hackerone.com/reports/3265780 - Bounty: $100",
+          "link": "https://hackerone.com/reports/3265780",
+          "publishedOn": "2026-08-08T09:11:56.000Z",
+          "wordCount": 25,
+          "title": "Adding phone number to profile By OTP brute forcing",
+          "imageUrl": "https://profile-photos.hackerone-user-content.com/variants/000/000/440/e3088fe967412b4eabd1c6f7f62d26bcee9a177f_original.jpg/5d27521e1b671a8e8bc4f016cace6a876120e5addf7dcc35ae4a5eac091669a9"
+        },
         {
           "id": "https://hackerone.com/reports/3923212",
           "author": null,
