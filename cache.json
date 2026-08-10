@@ -4110,6 +4110,106 @@
       "siteUrl": "https://medium.com/tag/bugbounty/latest?source=rss------bugbounty-5",
       "articles": [
         {
+          "id": "https://medium.com/p/d0f7560a031b",
+          "author": "Hrikved Paul",
+          "description": "Welcome back to Part 2 of this series, Hrik this side. If you’re new here, make sure to check out the previous part first. If you’re…\nContinue reading on Medium »",
+          "link": "https://medium.com/@hrikved03/networking-part-2-d0f7560a031b?source=rss------bugbounty-5",
+          "publishedOn": "2026-08-10T00:06:01.000Z",
+          "wordCount": null,
+          "title": "Networking Part-2",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/d5f003e594f9",
+          "author": "s0ufm3l",
+          "description": "TL;DR: A permissions endpoint expected a single numeric user ID in one POST parameter. Sending two IDs separated by a comma — victim first…\nContinue reading on Medium »",
+          "link": "https://medium.com/@s0ufm3l/idor-via-comma-injection-how-concatenating-two-ids-leaked-cross-tenant-pii-d5f003e594f9?source=rss------bugbounty-5",
+          "publishedOn": "2026-08-09T20:14:05.000Z",
+          "wordCount": null,
+          "title": "IDOR via Comma-Injection: How Concatenating Two IDs Leaked Cross-Tenant PII",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/4367b44e7a2a",
+          "author": "Devansh Patel",
+          "description": "Part 3 — The complete email OSINT workflow, in order: validation, dorking, the pivot, verification discipline, the legal line, and a…\nContinue reading on MeetCyber »",
+          "link": "https://meetcyber.net/one-dns-query-maps-a-companys-entire-saas-stack-4367b44e7a2a?source=rss------bugbounty-5",
+          "publishedOn": "2026-08-09T17:15:38.000Z",
+          "wordCount": null,
+          "title": "One DNS Query Maps a Company’s Entire SaaS Stack",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/39be3078bc5a",
+          "author": "tushar",
+          "description": "How I used a 3-line bash script to find 8 backdoorable plugins in an official plugin registry — and why this attack requires zero exploits.\nContinue reading on Medium »",
+          "link": "https://medium.com/@tushar.from.cyber/repojacking-how-5-unclaimed-github-usernames-enabled-rce-on-self-hosted-servers-39be3078bc5a?source=rss------bugbounty-5",
+          "publishedOn": "2026-08-09T16:36:00.000Z",
+          "wordCount": null,
+          "title": "RepoJacking: How 5 Unclaimed GitHub Usernames Enabled RCE on Self-Hosted Servers",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/e02eecd66785",
+          "author": "Zer0trace",
+          "description": "Type http://example.com into a browser and hit Enter. A page shows up — text, maybe an image or a login box — and you move on. You don't…\nContinue reading on Medium »",
+          "link": "https://medium.com/@zer0trace/the-protocol-every-hacker-should-learn-before-touching-burp-suite-e02eecd66785?source=rss------bugbounty-5",
+          "publishedOn": "2026-08-09T13:02:35.000Z",
+          "wordCount": null,
+          "title": "The Protocol Every Hacker Should Learn Before Touching Burp Suite",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/2a6e31034f5c",
+          "author": "Nitin yadav",
+          "description": "What’s up everyone! Nitin here 👋\nContinue reading on Medium »",
+          "link": "https://kd-200.medium.com/why-your-best-xss-is-on-a-param-you-cant-see-2a6e31034f5c?source=rss------bugbounty-5",
+          "publishedOn": "2026-08-09T11:31:01.000Z",
+          "wordCount": null,
+          "title": "Why Your Best XSS Is on a Param You Can’t See",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/50bb08fc7dd3",
+          "author": "Muhammad Haider Tallal",
+          "description": "Direct injection and jailbreaks keep getting closed as informational. The findings that pay chain a hidden instruction to a real…\nContinue reading on InfoSec-Writes Up »",
+          "link": "https://medium.com/infosec-writes-up/indirect-prompt-injection-what-llm-bounty-triagers-actually-reward-50bb08fc7dd3?source=rss------bugbounty-5",
+          "publishedOn": "2026-08-09T11:00:13.000Z",
+          "wordCount": null,
+          "title": "Indirect Prompt Injection: What LLM Bounty Triagers Actually Reward",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/07a095f37aa9",
+          "author": "Divakarvasani",
+          "description": "Finding and proving a cross-user resource deletion vulnerability through JS bundle analysis and sequential ID enumeration\nContinue reading on Medium »",
+          "link": "https://medium.com/@divakarvasani3938/unauthenticated-mass-data-deletion-when-delete-has-no-auth-check-07a095f37aa9?source=rss------bugbounty-5",
+          "publishedOn": "2026-08-09T09:54:53.000Z",
+          "wordCount": null,
+          "title": "Unauthenticated Mass Data Deletion: When DELETE Has No Auth Check",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/a6bc41e93a62",
+          "author": "Divakarvasani",
+          "description": "A walkthrough of abusing RFC 7591 Dynamic Client Registration left open in production\nContinue reading on Medium »",
+          "link": "https://medium.com/@divakarvasani3938/how-i-chained-an-unauthenticated-oauth-registration-endpoint-into-full-account-takeover-a6bc41e93a62?source=rss------bugbounty-5",
+          "publishedOn": "2026-08-09T09:50:04.000Z",
+          "wordCount": null,
+          "title": "How I Chained an Unauthenticated OAuth Registration Endpoint into Full Account Takeover",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/964b3dfd1f56",
+          "author": "Rakesh Joshi",
+          "description": "Finding 500, 1,000, or even 10,000 subdomains isn’t the difficult part of bug bounty reconnaissance.\nContinue reading on Medium »",
+          "link": "https://medium.com/@Rakeshjoshi7/how-i-prioritize-hundreds-of-subdomains-during-bug-bounty-recon-964b3dfd1f56?source=rss------bugbounty-5",
+          "publishedOn": "2026-08-09T07:58:54.000Z",
+          "wordCount": null,
+          "title": "How I Prioritize Hundreds of Subdomains During Bug Bounty Recon",
+          "imageUrl": null
+        },
+        {
           "id": "https://medium.com/p/fedb5bee2c86",
           "author": "Abhishek meena",
           "description": "30-second version: I compared the RCE reports that defined 2018–2021 bug bounty with what’s getting disclosed in 2024–2026. The attack…\nContinue reading on Medium »",
@@ -8406,6 +8506,46 @@
       "feedUrl": "https://medium.com/feed/tag/redteam",
       "siteUrl": "https://medium.com/tag/redteam/latest?source=rss------redteam-5",
       "articles": [
+        {
+          "id": "https://medium.com/p/f430d94fbde4",
+          "author": "S12 - 0x12Dark Development",
+          "description": "The previous post covered what Crystal Palace is and why it exists. This one is hands-on. We’re building two PICOs from scratch, a…\nContinue reading on Medium »",
+          "link": "https://medium.com/@s12deff/writing-your-first-pic-shellcode-with-crystal-palace-f430d94fbde4?source=rss------redteam-5",
+          "publishedOn": "2026-08-09T21:00:10.000Z",
+          "wordCount": null,
+          "title": "Writing Your First PIC Shellcode with Crystal Palace",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/b72f509175d8",
+          "author": "Adnanbaltaoglu",
+          "description": "Siber güvenlik, dışarıdan bakıldığında sadece karmaşık kodlar ve sistemlerden ibaret gibi görünse de, aslında kendi içinde bambaşka…\nContinue reading on Medium »",
+          "link": "https://medium.com/@adnanbaltaoglu3/siber-g%C3%BCvenli%C4%9Fe-i%CC%87lk-ad%C4%B1m-b72f509175d8?source=rss------redteam-5",
+          "publishedOn": "2026-08-09T11:58:32.000Z",
+          "wordCount": null,
+          "title": "Siber Güvenliğe İlk Adım",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/df74ea30b6a0",
+          "author": "Gavin Tam",
+          "description": "Three different AI incidents exposed the same governance problem: intended constraints are not necessarily enforceable constraints.\nContinue reading on Artificial Intelligence in Plain English »",
+          "link": "https://ai.plainenglish.io/the-models-crossed-the-boundary-that-does-not-mean-they-chose-escape-df74ea30b6a0?source=rss------redteam-5",
+          "publishedOn": "2026-08-09T10:03:47.000Z",
+          "wordCount": null,
+          "title": "The Models Crossed the Boundary. That Does Not Mean They Chose Escape.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/69893512277a",
+          "author": "Kamlesh Pendurkar",
+          "description": "A field guide to the four pillars that keep organizations secure — and how they work together.\nContinue reading on Medium »",
+          "link": "https://medium.com/@kamleshpen123/cyber-security-explained-blue-team-red-team-security-architecture-and-grc-69893512277a?source=rss------redteam-5",
+          "publishedOn": "2026-08-09T07:21:22.000Z",
+          "wordCount": null,
+          "title": "Cyber Security Explained: Blue Team, Red Team, Security Architecture, and GRC",
+          "imageUrl": null
+        },
         {
           "id": "https://medium.com/p/a96e60997711",
           "author": "chokri hammedi",
@@ -13868,6 +14008,206 @@
       "feedUrl": "https://feed.cnblogs.com/blog/sitehome/rss",
       "siteUrl": null,
       "articles": [
+        {
+          "id": "https://www.cnblogs.com/A381532662/p/22361867",
+          "author": null,
+          "description": "客户说&quot;这个排名数据不对&quot;,你从哪开始查?如果没有血缘和审计日志,排查要靠猜。加上之后,5 分钟能定位到是哪次请求、哪个参数、哪个数据源。 1. 记录什么 每个 SERP 请求记 4 类信息: 请求信息:query、hl/gl、参数、request_id 响应信息:status、elapsed_ms",
+          "link": "https://www.cnblogs.com/A381532662/p/22361867",
+          "publishedOn": "2026-08-10T02:09:00.000Z",
+          "wordCount": 582,
+          "title": "SERP 数据血缘 + 审计日志:出问题 5 分钟定位 - 蜘蛛人",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/zrui-xyu/p/22361731",
+          "author": null,
+          "description": "本文拆解线上MQ消息积压完整落地方案，遵循先止损、再排查、后预防核心原则，优先保障核心业务可用。分享扩容消费端、业务降级、消息转储等紧急止损手段，定位全场景积压根因。核心技术亮点含虚拟线程并发、批量消费、Redis幂等设计、异步批量落库，附带面试高频考点与实战避坑方案，高并发场景实用性极强。",
+          "link": "https://www.cnblogs.com/zrui-xyu/p/22361731",
+          "publishedOn": "2026-08-10T02:03:00.000Z",
+          "wordCount": 1136,
+          "title": "线上MQ消息积压了怎么处理 - Rain的Java大神实战圈",
+          "imageUrl": "https://img2024.cnblogs.com/blog/739056/202608/739056-20260810100123372-1149735338.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/vipsoft/p/22360632",
+          "author": null,
+          "description": "目录环境要求项目构建知识库构建用户问答数据模型组件UV安装项目运行API上传文件Worker 解析文档查询文档状态用户提问源码地址 VipRAG 是一个面向小规模正式服务的中文医学指南检索增强生成（RAG）项目。系统使用在线 MinerU 解析 PDF、DashScope 生成文本向量、Qdrant",
+          "link": "https://www.cnblogs.com/vipsoft/p/22360632",
+          "publishedOn": "2026-08-10T01:27:00.000Z",
+          "wordCount": 698,
+          "title": "LangChain — RAG 知识库（实操） - VipSoft",
+          "imageUrl": "https://img2024.cnblogs.com/blog/80824/202607/80824-20260729155709904-971585253.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/wackysoft/p/22358630",
+          "author": null,
+          "description": "前言 大家好，我是wacky。上一篇我们聊了工控的&quot;实时&quot;——为什么工控的实时不是&quot;快&quot;而是&quot;确定&quot;。那么理解实时性之后，下一步就是理解PLC的扫描周期，因为扫描周期是PLC实时性的具体实现机制。 很多做上位机的.NET开发者觉得扫描周期是PLC工程师的事，跟自己没关系。这是一个认知误区。你的上位机",
+          "link": "https://www.cnblogs.com/wackysoft/p/22358630",
+          "publishedOn": "2026-08-10T01:25:00.000Z",
+          "wordCount": 308,
+          "title": ".NET工控概念科普——PLC扫描周期：理解了它才算入了工控的门 - Wackysoft",
+          "imageUrl": "https://img2024.cnblogs.com/blog/443744/202608/443744-20260802085831699-404926374.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/sevencoding/p/22300983",
+          "author": null,
+          "description": "最近看了很多AI应用的案例，越看越觉得一个问题很有意思：现在大家讲AI落地，很容易把两件事混在一起。 一件事是基模厂商、算力厂商、云厂商的增长，也就是所谓的“卖铲子”。比如调用量涨了、token消耗涨了、MaaS收入涨了、GPU更贵了，这些当然是增长，但这是铲子卖得好，不代表下地挖矿的人真的挖到了金",
+          "link": "https://www.cnblogs.com/sevencoding/p/22300983",
+          "publishedOn": "2026-08-10T01:00:00.000Z",
+          "wordCount": 368,
+          "title": "AI杂谈：别再问AI会不会替代你，先看你是不是驾驶员 - 程序员Seven",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/jyzhao/p/22359319",
+          "author": null,
+          "description": "在 kbot3 测试中删除业务域时，若出现无法删除的提示，不一定是界面操作异常，更可能是该业务域仍关联知识库或提示词数据。 01 | 先看报错信息 删除时提示： Cannot delete, this domain contains business (Knowledge base or promp",
+          "link": "https://www.cnblogs.com/jyzhao/p/22359319",
+          "publishedOn": "2026-08-10T00:32:00.000Z",
+          "wordCount": 507,
+          "title": "kbot3 测试删除业务域报错：如何快速定位关联数据 - AlfredZhao",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/badhope/p/22357737/python-automation-projects-2026",
+          "author": null,
+          "description": "盘点2026年Python自动化领域仍在主力使用的项目：pathlib、Playwright、Scrapy、openpyxl、PyAutoGUI、schedule、Fabric等，覆盖文件处理、网页自动化、数据抓取、办公自动化、桌面GUI、定时任务、运维部署七大方向，附选型对照表与真实使用感受。",
+          "link": "https://www.cnblogs.com/badhope/p/22357737/python-automation-projects-2026",
+          "publishedOn": "2026-08-09T17:19:00.000Z",
+          "wordCount": 827,
+          "title": "Python自动化实战：2026年我仍在用的那些项目与场景 - badhope33834",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/fyia7788/p/22356386",
+          "author": null,
+          "description": "ToB 如何加速找 PMF 前段时间见了个创始人，产品上线八个月，签了二十多个客户，他问我这算不算找到 PMF 了。 我问他，这二十多家能不能用一句话说清楚是同一类客户。他想了想说，都是制造业的。我说这个不算，制造业里做食品的和做汽车零部件的，采购流程、用你产品的岗位、拍板的人，基本是两拨。他回去自",
+          "link": "https://www.cnblogs.com/fyia7788/p/22356386",
+          "publishedOn": "2026-08-09T16:25:00.000Z",
+          "wordCount": 463,
+          "title": "ToB 如何加速找 PMF - 付一然的ToB增长笔记",
+          "imageUrl": "https://img2024.cnblogs.com/blog/608074/202608/608074-20260810002438660-1039208391.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/halfcode/p/22356089",
+          "author": null,
+          "description": "配套动画视频在：《10. Harness裁剪+Checkpointer续跑，Agent运行底座这样配》，源代码在《评论区置顶》。 大模型自己只会「想」和「说」，真正干活还得有人给它安排工具、约束行为、必要时再派帮手——这套围绕 Agent 转起来的运行环境，就叫 Harness，你可以把它想成 Ag",
+          "link": "https://www.cnblogs.com/halfcode/p/22356089",
+          "publishedOn": "2026-08-09T15:02:00.000Z",
+          "wordCount": 382,
+          "title": "10. Harness裁剪+Checkpointer续跑，Agent运行底座这样配 - 老陈说编程",
+          "imageUrl": "https://img2024.cnblogs.com/blog/1919157/202608/1919157-20260809230140178-709841181.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/gloamfox/p/22353781",
+          "author": null,
+          "description": "给服务器装监控，比被监控本身还复杂？ Prometheus + Grafana + Node Exporter + cAdvisor + Alertmanager——少说五六个组件，每个都要配、都要学。半小时能跑起来算你厉害，还要学 PromQL、画仪表盘。折腾完一看，内存先被监控吃了 500MB。",
+          "link": "https://www.cnblogs.com/gloamfox/p/22353781",
+          "publishedOn": "2026-08-09T09:22:00.000Z",
+          "wordCount": 718,
+          "title": "轻量级服务器监控新选择：Beszel——比Grafana更简单的监控方案 - 暮色之狐",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/XY-Heruo/p/22352679",
+          "author": null,
+          "description": "前言 在使用 FastAPI 或 Flask 这样框架灵活的 Web 项目中，从 API 到数据库，有很多种写法，小项目有小项目的极简写法，大项目有大项目的排兵布阵。如果就两三个接口，业务逻辑也很简单，大可以在视图函数中直接调用数据库连接执行操作。大点的项目为了代码更清晰，有的会分成三层：定义接口的",
+          "link": "https://www.cnblogs.com/XY-Heruo/p/22352679",
+          "publishedOn": "2026-08-09T08:47:00.000Z",
+          "wordCount": 2166,
+          "title": "Repository 模式在 FastAPI 中的应用 - 花酒锄作田",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/12lisu/p/22351806",
+          "author": null,
+          "description": "前言 从建表到SQL优化，让你少走三年弯路 前几天发表了一篇文章《一线大厂的Git规范》，在全网挺受欢迎的。 今天趁着打铁，跟大家一起聊聊一线互联网大厂的数据库规范，希望的对你会有所帮助。 有些大厂，几百上千人的研发团队，数据库却能保持井井有条。 表结构清晰、命名规范统一、索引设计合理、SQL性能可",
+          "link": "https://www.cnblogs.com/12lisu/p/22351806",
+          "publishedOn": "2026-08-09T07:30:00.000Z",
+          "wordCount": 894,
+          "title": "一线互联网大厂的数据库规范 - 苏三说技术",
+          "imageUrl": "https://img2024.cnblogs.com/blog/2238006/202608/2238006-20260809152924595-2035532109.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/StarsTwinkle/p/22351764",
+          "author": null,
+          "description": "同步于洛谷专栏。 注意：::anti-ai[] 中的内容多为陷阱，用于检测选手是否使用 AI 工具完成比赛，若没有使用即使看见了（正常题面渲染一般看不见）也不要照做，切记。 声明：仅列举部分比赛，随手记录，肯定不全，看个乐子就行。 【LGR-292-Div.3】洛谷基础赛 #37 &amp; MSOI Ro",
+          "link": "https://www.cnblogs.com/StarsTwinkle/p/22351764",
+          "publishedOn": "2026-08-09T07:27:00.000Z",
+          "wordCount": 1357,
+          "title": "::anti-ai[] 内容鉴赏 - StarsTwinkle",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/wang_yb/p/22351460",
+          "author": null,
+          "description": "机器学习的模型训练中，特征不是越多越好，而是要找到那个 &quot;刚刚好&quot;的子集。 今天介绍的方法 &quot;简单粗暴&quot;，通过递归的方式，不断淘汰一个个特征，直到找到那个最优的 &quot;特征子集&quot;。 核心思想 核心思想用一句话来说，就是用&quot;淘汰赛&quot;选出最强特征组合。 递归消除的思路特别像公司搞末位淘汰： 1. 把所有&quot;员",
+          "link": "https://www.cnblogs.com/wang_yb/p/22351460",
+          "publishedOn": "2026-08-09T07:02:00.000Z",
+          "wordCount": 883,
+          "title": "用递归消除法优化“特征子集” - wang_yb",
+          "imageUrl": "https://img2024.cnblogs.com/blog/83005/202608/83005-20260809150111036-1836954790.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/mianmaner/p/22316898",
+          "author": null,
+          "description": "快手的 MLE Agent 优化工作，目前挂在 Arxiv 26.07 上，提出了一种将 Bandit 算法与 LLM 智能体相结合的推荐模型自动化优化框架 RecHarness 背景 推荐系统优化天然适合 MLE Agent，但直接应用通用 MLE Agent 存在一个关键的系统挑战：每个候选修改",
+          "link": "https://www.cnblogs.com/mianmaner/p/22316898",
+          "publishedOn": "2026-08-09T06:27:00.000Z",
+          "wordCount": 538,
+          "title": "\"RecHarness: A Bandit-Routed Agentic Harness for Self-Evolving Recommender Systems\" 论文笔记 - 绵满",
+          "imageUrl": "https://img2024.cnblogs.com/blog/3614753/202608/3614753-20260809142628585-1580709921.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/myvin/p/22225535",
+          "author": null,
+          "description": "六张数据表如何保存装修项目、图纸、合同、AI 分析结果和 PDF 报告？深入 RenoPit 的 SQLAlchemy 模型、外键关系、状态字段与 JSON 数据结构，读懂 AI 装修闭坑系统的数据基础。",
+          "link": "https://www.cnblogs.com/myvin/p/22225535",
+          "publishedOn": "2026-08-09T06:14:00.000Z",
+          "wordCount": 572,
+          "title": "装闭 RenoPit 源码解析（02）：AI装修闭坑系统数据库与模型设计 - fthux",
+          "imageUrl": "https://img2024.cnblogs.com/blog/779193/202608/779193-20260804232336072-627757284.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/ilovetech/p/22350515",
+          "author": null,
+          "description": "目录三、Skill —— 让模型掌握处理复杂流程的能力1. Agent 有了 Tool，为什么还需要 Skill？2. 如何写好一个完整的技能&quot;验证&quot;是 Skill 中最容易被忽略的关键环节一个股票分析技能案例3. 模型从获取技能到使用的过程Agent 如何加载 Skill 清单并发给模型模型获取完",
+          "link": "https://www.cnblogs.com/ilovetech/p/22350515",
+          "publishedOn": "2026-08-09T05:25:00.000Z",
+          "wordCount": 668,
+          "title": "Agent的诞生（三）：Skill —— 让模型掌握处理复杂流程的能力 - 吾AI科技",
+          "imageUrl": "https://img2024.cnblogs.com/blog/3662016/202608/3662016-20260809132151293-797507134.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/A381532662/p/22350427",
+          "author": null,
+          "description": "SERP API 的返回字段、端点参数会演进。客户端 SDK 不做版本管理,一次接口变动就能让整条管线崩掉。这篇文章讲怎么给 SERP 客户端做版本管理。 1. 为什么需要 SerpBase 的响应信封会带 status、request_id、search_type 等。但具体模块(organic、",
+          "link": "https://www.cnblogs.com/A381532662/p/22350427",
+          "publishedOn": "2026-08-09T05:14:00.000Z",
+          "wordCount": 595,
+          "title": "SERP 客户端 SDK 版本管理:接口改了怎么不炸 - 蜘蛛人",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/wancy/p/22349918",
+          "author": null,
+          "description": "1.yolo26介绍 YOLO26 是一个统一的实时视觉模型,它引入了原生端到端推理、更轻量化的检测头、更新的训练方案，以及用于检测、分割、姿态估计、分类和有向检测的任务专用头。 在五个检测尺度上，YOLO26 在 COCO 上达到了 40.9-57.5 mAP，且 T4 TensorRT 延迟仅为",
+          "link": "https://www.cnblogs.com/wancy/p/22349918",
+          "publishedOn": "2026-08-09T05:14:00.000Z",
+          "wordCount": 2530,
+          "title": "yolo26训练自己的数据集 - wancy",
+          "imageUrl": "https://img2024.cnblogs.com/blog/2304751/202608/2304751-20260809121029636-1936245421.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/uniqueDong/p/22349852",
+          "author": null,
+          "description": "你肯定遇到过这种场面。你对 AI 说一句「帮我给项目加个权限控制」，它二话不说唰唰改了四十多个文件。改到一半你才发现，它默认做的是 ABAC，而你要的根本是 RBAC。更酸爽的是，proposal 写了、design 画了，合并之后你才意识到行为根本不对，因为实现阶段没人盯着测试，也没人卡 revi",
+          "link": "https://www.cnblogs.com/uniqueDong/p/22349852",
+          "publishedOn": "2026-08-09T03:59:00.000Z",
+          "wordCount": 847,
+          "title": "AI 写代码总跑偏？用 spec-superflow 把规划引擎和执行纪律焊成一条流水线 - 码哥字节",
+          "imageUrl": "https://img2024.cnblogs.com/blog/735767/202605/735767-20260526114014236-744639895.png"
+        },
         {
           "id": "https://www.cnblogs.com/badhope/p/22345012/ai-bubble-or-not",
           "author": null,
@@ -25251,6 +25591,36 @@
       "feedUrl": "https://malware-traffic-analysis.net/blog-entries.rss",
       "siteUrl": "https://www.malware-traffic-analysis.net/index.html",
       "articles": [
+        {
+          "id": "https://www.malware-traffic-analysis.net/2026/08/07/index.html",
+          "author": null,
+          "description": "",
+          "link": "https://www.malware-traffic-analysis.net/2026/08/07/index.html",
+          "publishedOn": "2026-08-09T20:32:00.000Z",
+          "wordCount": 77,
+          "title": "2026-08-07: Seven days of scans and probes and web traffic hitting my web server",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.malware-traffic-analysis.net/2026/08/06/index.html",
+          "author": null,
+          "description": "",
+          "link": "https://www.malware-traffic-analysis.net/2026/08/06/index.html",
+          "publishedOn": "2026-08-09T20:31:00.000Z",
+          "wordCount": 71,
+          "title": "2026-08-06: Remcos RAT (7.2.5 Pro) infection",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.malware-traffic-analysis.net/2026/08/09/index.html",
+          "author": null,
+          "description": "",
+          "link": "https://www.malware-traffic-analysis.net/2026/08/09/index.html",
+          "publishedOn": "2026-08-09T03:58:00.000Z",
+          "wordCount": 322,
+          "title": "2026-08-09: Traffic Analysis Exercise - First to Last",
+          "imageUrl": null
+        },
         {
           "id": "https://www.malware-traffic-analysis.net/2026/07/31/index2.html",
           "author": null,
