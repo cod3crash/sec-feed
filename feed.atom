@@ -2,10 +2,451 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cod3crash.github.io/sec-feed/index.html</id>
     <title>security feed</title>
-    <updated>2026-08-12T02:30:12.160Z</updated>
+    <updated>2026-08-13T02:31:25.934Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://cod3crash.github.io/sec-feed/index.html"/>
     <link rel="self" href="https://cod3crash.github.io/sec-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[MQ重复消费问题怎么解决 - Rain的Java大神实战圈]]></title>
+        <id>https://www.cnblogs.com/zrui-xyu/p/22438253</id>
+        <link href="https://www.cnblogs.com/zrui-xyu/p/22438253"/>
+        <updated>2026-08-13T02:04:00.000Z</updated>
+        <summary type="html"><![CDATA[MQ 重复消费是分布式系统高频问题，根源在于 ACK 丢失带来消息重发，核心解决思路是实现消费幂等。详解数据库唯一索引、Redis 原子幂等、业务状态机 3 套落地方案，附带可直接运行 Java 代码。剖析竞态条件、事务边界、标记过期等生产坑点，对比各方案适用场景，还有模拟面试问答，理论结合实战，吃...]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【译】Visual Studio 开发、测试权益：在 Azure 中自由构建、测试与开展实验 - MeteorSeed]]></title>
+        <id>https://www.cnblogs.com/MeteorSeed/p/22427333</id>
+        <link href="https://www.cnblogs.com/MeteorSeed/p/22427333"/>
+        <updated>2026-08-13T01:44:00.000Z</updated>
+        <summary type="html"><![CDATA[Visual Studio 订阅的一大亮点就是可以发现各类权益，帮助您简化日常开发工作、节约成本。其中一项值得更多关注的权益便是 Azure 开发/测试定价。事实上，它也是 Visual Studio 订阅中最具价值的权益之一。 如果您正在构建云应用、测试新创意，或是维护多个开发环境，云成本有时会影]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[自建仿真团队还是外包仿真服务？工厂数字化负责人的真实权衡 - Forfutime]]></title>
+        <id>https://www.cnblogs.com/Forfutime/p/22437454</id>
+        <link href="https://www.cnblogs.com/Forfutime/p/22437454"/>
+        <updated>2026-08-13T01:30:00.000Z</updated>
+        <summary type="html"><![CDATA[自建仿真团队还是外包仿真服务？工厂数字化负责人的真实权衡 这个选择题，我见过太多数字化负责人纠结：自建吧，怕养不起、留不住；外包吧，怕被坑、不透明。本文不站任何一边，把两种模式的账算清楚，顺便聊聊怎么选才不后悔。我做了8年仿真项目，甲方乙方都当过，说点大实话。 一、先算一笔账：自建团队的真实成本 很]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DeepSeek V4 Pro 正式版来了：DeepSWE 暴涨近 5 倍，Codex 一条命令直连 - 厚德载物_VIP]]></title>
+        <id>https://www.cnblogs.com/hellojackyleon/p/22437052</id>
+        <link href="https://www.cnblogs.com/hellojackyleon/p/22437052"/>
+        <updated>2026-08-13T01:15:00.000Z</updated>
+        <summary type="html"><![CDATA[大家好，我是老张。 先问个扎心的问题：你让 AI 写代码的时候，它到底是在&quot;干活&quot;，还是在&quot;表演干活&quot;？ 老张自己的体验是，很多模型聊天挺溜，一让它改个真实仓库、跑个完整流程，就开始露馅——不是漏了边界条件，就是把接口参数搞错，最后还得自己吭哧吭哧修到凌晨。 所以判断一个 Agent 强不强，别听它]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[想做测试工具却不会写代码？怎么办？ - 狂师]]></title>
+        <id>https://www.cnblogs.com/jinjiangongzuoshi/p/22436582</id>
+        <link href="https://www.cnblogs.com/jinjiangongzuoshi/p/22436582"/>
+        <updated>2026-08-13T00:40:00.000Z</updated>
+        <summary type="html"><![CDATA[测试圈往回捣几年，有个特别常见的现象。 很多人脑子里装了一堆工具提效的想法——测试数据造起来太烦，想做个数据工厂；接口用例跑完没人看报告，想做个可视化面板；环境部署每次都得求运维，想做个一键拉环境的脚本。 想法一个比一个美好，但往往一到&quot;写代码&quot;这步，就卡住了。 对于新手来说，要搭一个能跑的工具——]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[浅谈业务本体构建平台：8个关键能力看懂完整链路 - AlfredZhao]]></title>
+        <id>https://www.cnblogs.com/jyzhao/p/22436586</id>
+        <link href="https://www.cnblogs.com/jyzhao/p/22436586"/>
+        <updated>2026-08-13T00:40:00.000Z</updated>
+        <summary type="html"><![CDATA[业务本体构建平台通常面向业务本体建模，把原始数据源、业务本体和智能体技能连接到一起。它的核心价值，是用可视化建模和大模型能力，降低业务知识建模与落地的门槛。 01 | 从源数据到业务对象 平台的第一步，是让业务人员和建模人员看清楚数据从哪里来、表示什么。 ① 源数据浏览与标注 平台支持可视化浏览 O]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Restore Windows 11 WinRE When the Recovery Partition Exists but Winre.wim Is Missing]]></title>
+        <id>https://medium.com/p/a160f760d7ef</id>
+        <link href="https://medium.com/@hrofficial62/how-to-restore-windows-11-winre-when-the-recovery-partition-exists-but-winre-wim-is-missing-a160f760d7ef?source=rss------bugbounty-5"/>
+        <updated>2026-08-13T00:17:17.000Z</updated>
+        <summary type="html"><![CDATA[This guide is for Windows 11 systems where:
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Mr Horbio</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fiber 与 PHP 8.6  Polling API 异步初探 - JaguarJack]]></title>
+        <id>https://www.cnblogs.com/catchadmin/p/22435834</id>
+        <link href="https://www.cnblogs.com/catchadmin/p/22435834"/>
+        <updated>2026-08-12T23:15:00.000Z</updated>
+        <summary type="html"><![CDATA[Fiber 与 PHP 8.6 Polling API 异步初探 几周前的一篇文章曾介绍 Polling API RFC，并将其定位为被低估的提案，原因主要在于：报道往往漏掉了真正的动机——那是内部 php_poll.h API，而非用户态的 Io\Poll 类。这一判断至今仍然成立。不过随后收到了]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RAG和Embedding技术解析：从理论到实践的探索 - 小田学Python]]></title>
+        <id>https://www.cnblogs.com/yudanqu/p/22435830</id>
+        <link href="https://www.cnblogs.com/yudanqu/p/22435830"/>
+        <updated>2026-08-12T23:11:00.000Z</updated>
+        <summary type="html"><![CDATA[【目录】一、RAG原理介绍 1、RAG三大核心：知识库+检索+大语言模型（LLM） 2、LLM的缺陷&amp;RAG的作用： 3、RAG三大核心如何理解？二、RAG和Embedding的关系三、Embedding原理介绍四、实战演练 1、前置依赖 2、transformers方式 3、sentence_tr]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[High wideband accelerometer]]></title>
+        <id>http://acassis.wordpress.com/?p=13019</id>
+        <link href="https://acassis.wordpress.com/2026/08/12/high-wideband-accelerometer/"/>
+        <updated>2026-08-12T21:56:33.000Z</updated>
+        <summary type="html"><![CDATA[https://blog.st.com/iis3dwb10is-vibration-sensor]]></summary>
+        <author>
+            <name>acassis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DOM Invader on a Real Bug Bounty Target]]></title>
+        <id>https://medium.com/p/99b12a45ade7</id>
+        <link href="https://medium.com/@marduk.i.am/dom-invader-on-a-real-bug-bounty-target-99b12a45ade7?source=rss------bugbounty-5"/>
+        <updated>2026-08-12T21:51:22.000Z</updated>
+        <summary type="html"><![CDATA[10 Sink Hits, 0 Vulnerabilities
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Marduk I Am</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ash Reaches the Pokémon League: QuantumVeil Finally Becomes Real]]></title>
+        <id>https://medium.com/p/2a26c41f76dd</id>
+        <link href="https://medium.com/@saurabh.hack.pandey/ash-reaches-the-pok%C3%A9mon-league-quantumveil-finally-becomes-real-2a26c41f76dd?source=rss------bugbounty-5"/>
+        <updated>2026-08-12T19:30:34.000Z</updated>
+        <summary type="html"><![CDATA[There are some days in Ash’s journey that feel different from the others.
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Saurabh Pandey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vikunja CVE-2026–55064: The Vulnerability Hidden in the Previous Security Fix]]></title>
+        <id>https://medium.com/p/3f84f84c35bc</id>
+        <link href="https://medium.com/@Infosec-Arsenal-Diaries/vikunja-cve-2026-55064-the-vulnerability-hidden-in-the-previous-security-fix-3f84f84c35bc?source=rss------bugbounty-5"/>
+        <updated>2026-08-12T18:22:24.000Z</updated>
+        <summary type="html"><![CDATA[How an “out of scope” edge case in Vikunja’s previous privilege-escalation patch became a new authorization vulnerability three months…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Antariksha Akhilesh Sharma</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bug Bounty for Beginners 2026 — Earn Your First $100 with Ethical Hacking]]></title>
+        <id>https://medium.com/p/6bbabd376013</id>
+        <link href="https://medium.com/@R.H_Rizvi/bug-bounty-for-beginners-2026-earn-your-first-100-with-ethical-hacking-6bbabd376013?source=rss------bugbounty-5"/>
+        <updated>2026-08-12T17:49:22.000Z</updated>
+        <summary type="html"><![CDATA[Continue reading on Medium »]]></summary>
+        <author>
+            <name>R.H Rizvi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[装闭 RenoPit 源码解析（07）：装修闭坑知识库与AI Prompt构建 - fthux]]></title>
+        <id>https://www.cnblogs.com/myvin/p/22225677</id>
+        <link href="https://www.cnblogs.com/myvin/p/22225677"/>
+        <updated>2026-08-12T17:25:00.000Z</updated>
+        <summary type="html"><![CDATA[AI 为什么能识别卫生死角、空间压迫、隐性成本和装修伪需求？揭秘 RenoPit 如何加载本地坑位知识库，组装消费者立场、联网搜索指令和结构化 JSON 输出 Prompt。]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AD CS ( Active Directory Certificate Services)]]></title>
+        <id>https://medium.com/p/d2543035d660</id>
+        <link href="https://medium.com/@ElifBensuK/ad-cs-active-directory-certificate-services-d2543035d660?source=rss------redteam-5"/>
+        <updated>2026-08-12T17:17:47.000Z</updated>
+        <summary type="html"><![CDATA[Continue reading on Medium »]]></summary>
+        <author>
+            <name>Elif Bensu K.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[dbt+SQLServer构建数据仓库(10)：macro 以及 data vault的应用实例 - 哥本哈士奇(aspnetx)]]></title>
+        <id>https://www.cnblogs.com/aspnetx/p/22433733</id>
+        <link href="https://www.cnblogs.com/aspnetx/p/22433733"/>
+        <updated>2026-08-12T16:53:00.000Z</updated>
+        <summary type="html"><![CDATA[dbt macro（Jinja 宏）本质上是写在 dbt 项目里的 Jinja 函数，用来生成可复用的 SQL 片段。它解决的主要问题不是&quot;让 SQL 看起来更高级&quot;，而是把重复出现的 SQL 逻辑抽出来，放到一个统一的位置维护。
+
+本文将依次介绍 macro 是什么、为什么要用、在 Data Va...]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Go - 注册表工厂模式的简单实现 - 花酒锄作田]]></title>
+        <id>https://www.cnblogs.com/XY-Heruo/p/22433329</id>
+        <link href="https://www.cnblogs.com/XY-Heruo/p/22433329"/>
+        <updated>2026-08-12T16:33:00.000Z</updated>
+        <summary type="html"><![CDATA[前言 昨天在整合之前写的那些定时运行的小命令行工具，比如检测 DB 证书有效期、更新 Nginx SSL 证书、数据备份等。早期需求少，这些十几个小工具都是后期逐渐加上去的，一个工具就占一个文件夹，找起来还挺麻烦的，索性就整合成一个程序，根据命令行传参 job 名来运行指定 job。AI revie]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JaaS: Unauthenticated, cross-tenant outbound SIP calling via JaaS SIP gateway (toll fraud + caller-ID spoofing)]]></title>
+        <id>https://hackerone.com/reports/3837634</id>
+        <link href="https://hackerone.com/reports/3837634"/>
+        <updated>2026-08-12T16:07:38.000Z</updated>
+        <summary type="html"><![CDATA[8x8 disclosed a bug submitted by offseq: https://hackerone.com/reports/3837634 - Bounty: $500]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JaaS: Unauthenticated, cross-tenant outbound SIP calling via JaaS SIP gateway (toll fraud + caller-ID spoofing)]]></title>
+        <id>https://hackerone.com/reports/3837634</id>
+        <link href="https://hackerone.com/reports/3837634"/>
+        <updated>2026-08-12T16:07:38.000Z</updated>
+        <summary type="html"><![CDATA[8x8 disclosed a bug submitted by offseq: https://hackerone.com/reports/3837634 - Bounty: $500]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OctaFuse 2.4.0：让 DashScope 的 ASR、TTS 语音能力进入统一路由 - 程序猿DD]]></title>
+        <id>https://www.cnblogs.com/didispace/p/22432795</id>
+        <link href="https://www.cnblogs.com/didispace/p/22432795"/>
+        <updated>2026-08-12T15:45:00.000Z</updated>
+        <summary type="html"><![CDATA[当语音识别和语音合成进入真实业务，网关面对的不再只是一次普通的 HTTP 请求：ASR 可能需要同步转换或异步任务，TTS 可能返回完整音频或持续输出音频流，实时语音还需要在 WebSocket 上双向传递文本、事件与二进制帧。 2.4.0 将这些差异纳入 OctaFuse 的统一路由体系。应用可以]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【AI问数·场景】零售行业：从坪效到客单价，AI问数驱动千店千策 - hotdefans]]></title>
+        <id>https://www.cnblogs.com/hegezhou_hot/p/22432783</id>
+        <link href="https://www.cnblogs.com/hegezhou_hot/p/22432783"/>
+        <updated>2026-08-12T15:36:00.000Z</updated>
+        <summary type="html"><![CDATA[连锁零售企业的核心挑战是&quot;千店千面&quot;——1000家门店，1000种经营状态。传统BI只能给出&quot;平均数&quot;，而AI问数能让每个区域经理、每个店长用自然语言获取&quot;自己那家店&quot;的精准洞察。本文从坪效、客单价、动销率、会员转化四大核心指标切入，展示AI问数如何驱动精细化运营决策。  导读 一个管理80家门]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI vs. AI: Welcome to Cybersecurity’s Strangest Arms Race]]></title>
+        <id>https://medium.com/p/c37786f5adca</id>
+        <link href="https://medium.com/@t3nv1/ai-vs-ai-welcome-to-cybersecuritys-strangest-arms-race-c37786f5adca?source=rss------bugbounty-5"/>
+        <updated>2026-08-12T15:21:01.000Z</updated>
+        <summary type="html"><![CDATA[Six months ago, a finance employee in Hong Kong joined a video call with what looked like his company’s CFO and several other executives…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>T4nv1</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Red Team vs Blue Team: My Hands-on Experience with TryHackMe]]></title>
+        <id>https://medium.com/p/8e090ebdf919</id>
+        <link href="https://medium.com/@hnaz.offcl/red-team-vs-blue-team-my-hands-on-experience-with-tryhackme-8e090ebdf919?source=rss------redteam-5"/>
+        <updated>2026-08-12T14:46:27.000Z</updated>
+        <summary type="html"><![CDATA[When entering cybersecurity, the terms Offensive (Red team) and Defensive (Blue Team) get thrown around a lot. Today, I completed both the…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>DragonFly</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Attackers Get Initial Access: Understanding the First Stage of a Cyber Attack]]></title>
+        <id>https://medium.com/p/53bddcec54f7</id>
+        <link href="https://medium.com/@Rakeshjoshi7/how-attackers-get-initial-access-understanding-the-first-stage-of-a-cyber-attack-53bddcec54f7?source=rss------bugbounty-5"/>
+        <updated>2026-08-12T14:46:17.000Z</updated>
+        <summary type="html"><![CDATA[Introduction
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Rakesh Joshi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Built My Own Hacking Lab Because Watching Cybersecurity Tutorials Was Getting Me Nowhere]]></title>
+        <id>https://medium.com/p/ae4e7ad20f74</id>
+        <link href="https://medium.com/@SatyamPathania/i-built-my-own-hacking-lab-because-watching-cybersecurity-tutorials-was-getting-me-nowhere-ae4e7ad20f74?source=rss------bugbounty-5"/>
+        <updated>2026-08-12T14:44:22.000Z</updated>
+        <summary type="html"><![CDATA[I had watched enough hacking videos to feel like I knew cybersecurity. Then I realized I hadn’t actually built or broken anything myself
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Satyam Pathania</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【TensorRTtSharp v4.0】TensorRT CSharp API v4.0 正式发布：面向 .NET 的 TensorRT 与 CUDA 全新重构 - 椒颜皮皮虾]]></title>
+        <id>https://www.cnblogs.com/guojin-blogs/p/22432483</id>
+        <link href="https://www.cnblogs.com/guojin-blogs/p/22432483"/>
+        <updated>2026-08-12T14:31:00.000Z</updated>
+        <summary type="html"><![CDATA[TensorRT CSharp API v4.0.0 是一次全面重构后的正式版本，提供了更清晰的托管对象模型、更严格的资源管理和更灵活的版本适配。通过 NuGet 分发的托管包和 Bridge 包，开发者可以快速集成 TensorRT 到 .NET 项目中，同时保持对底层 GPU 资源的精确控制。]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Was Treating Header Injection as Low-Impact.]]></title>
+        <id>https://medium.com/p/eff29d47c5f4</id>
+        <link href="https://medium.com/@Aacle/i-was-treating-header-injection-as-low-impact-eff29d47c5f4?source=rss------bugbounty-5"/>
+        <updated>2026-08-12T14:26:01.000Z</updated>
+        <summary type="html"><![CDATA[You know the finding I mean.
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Abhishek meena</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intercepting Flutter Android App Traffic with Burp Suite Using an Android Studio Emulator…]]></title>
+        <id>https://medium.com/p/b53637a33561</id>
+        <link href="https://medium.com/@CyberMavala/intercepting-flutter-android-app-traffic-with-burp-suite-using-an-android-studio-emulator-b53637a33561?source=rss------bugbounty-5"/>
+        <updated>2026-08-12T13:55:26.000Z</updated>
+        <summary type="html"><![CDATA[Introduction
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Cyber Mavala</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[百万行Excel如何恒定内存？Acl.Excel流式拆解 - 风云]]></title>
+        <id>https://www.cnblogs.com/netcasewqs/p/22432214</id>
+        <link href="https://www.cnblogs.com/netcasewqs/p/22432214"/>
+        <updated>2026-08-12T13:41:00.000Z</updated>
+        <summary type="html"><![CDATA[百万行Excel如何恒定内存？Acl.Excel流式拆解 本文力求客观：既呈现 Acl.Excel 的实测数据，也如实标注测试口径、版本差异与已知局限，供读者自行判断。 口径说明：解压吞吐为 LibDeflate 对 .NET DeflateStream 的实测 1.8x-2.7x；超大文件恒定内存]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[方向性形态学开运算：用 Clipper 拆解不规则多边形 - 我才是银古]]></title>
+        <id>https://www.cnblogs.com/znlgis/p/22432124</id>
+        <link href="https://www.cnblogs.com/znlgis/p/22432124"/>
+        <updated>2026-08-12T13:27:00.000Z</updated>
+        <summary type="html"><![CDATA[引言 在几何处理领域，我们经常需要将一个不规则多边形拆分成多个满足特定尺寸要求的规则子多边形。比如，一个凹多边形可能在某个方向收缩到很窄，如果直接使用，会对后续处理造成问题。理想的方案是：沿着特定方向识别并切断窄区域，同时尽可能保留其他方向的几何特征。 本文将介绍一种&quot;方向性形态学开运算&quot;算法，核心]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【OpenClaw具身硬件】MiniClaw 阅读笔记---(2)钉核 & 上下文 - 罗西的思考]]></title>
+        <id>https://www.cnblogs.com/rossiXYZ/p/22351084</id>
+        <link href="https://www.cnblogs.com/rossiXYZ/p/22351084"/>
+        <updated>2026-08-12T12:42:00.000Z</updated>
+        <summary type="html"><![CDATA[【OpenClaw具身硬件】MiniClaw 阅读笔记 (2)钉核 &amp; 上下文 目录【OpenClaw具身硬件】MiniClaw 阅读笔记 (2)钉核 &amp; 上下文0x00 概要0x01 双核配置1.1 ESP32-S3 核1.2 MimiClaw实际的钉核决策1.3 钉核原因引力1：WiFi/lwI]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[算法竞赛：如何用差分与前缀和刻画数组的局部操作 - GroundhogKing]]></title>
+        <id>https://www.cnblogs.com/GroundhogKing/p/22339133</id>
+        <link href="https://www.cnblogs.com/GroundhogKing/p/22339133"/>
+        <updated>2026-08-12T12:37:00.000Z</updated>
+        <summary type="html"><![CDATA[目录 前言 例题 总结 前言 算法竞赛中经常出现一类数组题：对某个元素或一段区间进行一些看起来并不复杂的操作，但是观察后会发现这些操作难以找到规律。例如令 \(a_i = a_{i-1} + a_{i+1} - a_i\)，这个式子看起来没什么道理，并且元素之间彼此影响，无从下手。 于是引入一种新的]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[机器学习项目：泰坦尼克号乘客生存预测 - myLv]]></title>
+        <id>https://www.cnblogs.com/myInception/p/22429357</id>
+        <link href="https://www.cnblogs.com/myInception/p/22429357"/>
+        <updated>2026-08-12T10:07:00.000Z</updated>
+        <summary type="html"><![CDATA[前言 泰坦尼克生存预测是机器学习经典二分类入门项目，完整覆盖数据分析、特征工程、模型训练、超参调优整套工业流程。本文基于 Python pandas、matplotlib、scikit-learn 从零搭建预测模型，对比逻辑回归与随机森林效果，附带完整代码、运行输出与可视化分析。 一、环境与数据加载]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[.NET 11 Preview 7 发布：一大波硬核更新来袭，离正式版又近了一步！ - 张善友]]></title>
+        <id>https://www.cnblogs.com/shanyou/p/22428952</id>
+        <link href="https://www.cnblogs.com/shanyou/p/22428952"/>
+        <updated>2026-08-12T09:36:00.000Z</updated>
+        <summary type="html"><![CDATA[Preview 7 基本就是 .NET 11 正式版前最后一次&quot;大放送&quot;了。纵观整个 .NET 11：Runtime Async 从 P1 一路打磨到现在反超状态机模型，CoreCLR 即将登陆 WebAssembly，CLI 全面 NativeAOT 化，C# 补上了 labeled break/...]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Let’s Talk Security — Properly]]></title>
+        <id>https://medium.com/p/312f2155f435</id>
+        <link href="https://medium.com/@shravanimahale06/lets-talk-security-properly-312f2155f435?source=rss------redteam-5"/>
+        <updated>2026-08-12T09:26:08.000Z</updated>
+        <summary type="html"><![CDATA[Hello readers, I am a new tech blogger. I am an Engineer, and my major is Electronics and Telecommunication. Along with it, I also hold an…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>CyberNaut-SM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How I Obtained API-RTA certificate from CyberWarFare Labs]]></title>
+        <id>https://medium.com/p/5a8e9794543c</id>
+        <link href="https://medium.com/@qasimovdavud39/how-i-obtained-api-rta-certificate-from-cyberwarfare-labs-5a8e9794543c?source=rss------redteam-5"/>
+        <updated>2026-08-12T08:49:33.000Z</updated>
+        <summary type="html"><![CDATA[Credential: API-RTA (API Red Team Analyst)
+Provider: CyberWarFare Labs (CWL)
+Level:Intermediate
+Scope: Practical, black-box, 13 flags…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Qasimov Davud</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SIM-originierende AT-Kommandos (CATana)]]></title>
+        <id>https://smartphone-attack-vector.de/?p=3144</id>
+        <link href="https://smartphone-attack-vector.de/sim-originierende-at-kommandos-catana/"/>
+        <updated>2026-08-12T08:27:00.000Z</updated>
+        <summary type="html"><![CDATA[Eine bösartige oder kompromittierte SIM beziehungsweise eSIM kann über den standardisierten Proactive-SIM-Befehl RUN AT COMMAND AT-Kommandos an das Mobilfunkmodem eines Geräts senden....
+Weiterlesen...
+Der Beitrag SIM-originierende AT-Kommandos (CATana) erschien zuerst auf Smartphone Security.]]></summary>
+        <author>
+            <name>Marcus Prem</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CVE-2025–29927 : Next.js Middleware Bypass Vulnerability]]></title>
+        <id>https://medium.com/p/737d8b9d6263</id>
+        <link href="https://medium.com/@utomoa448/cve-2025-29927-next-js-middleware-bypass-vulnerability-737d8b9d6263?source=rss------redteam-5"/>
+        <updated>2026-08-12T07:30:31.000Z</updated>
+        <summary type="html"><![CDATA[1. Ringkasan Eksekutif
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Arya Utomo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Myndr CORS Misconfiguration]]></title>
+        <id>https://hackerone.com/reports/3930957</id>
+        <link href="https://hackerone.com/reports/3930957"/>
+        <updated>2026-08-12T06:22:18.000Z</updated>
+        <summary type="html"><![CDATA[Myndr disclosed a bug submitted by hackwithshubh: https://hackerone.com/reports/3930957]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Myndr CORS Misconfiguration]]></title>
+        <id>https://hackerone.com/reports/3930957</id>
+        <link href="https://hackerone.com/reports/3930957"/>
+        <updated>2026-08-12T06:22:18.000Z</updated>
+        <summary type="html"><![CDATA[Myndr disclosed a bug submitted by hackwithshubh: https://hackerone.com/reports/3930957]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Red Teaming and Vulnerability Research: Two Sides of the Same Coin]]></title>
+        <id>https://medium.com/p/69484d0f757d</id>
+        <link href="https://medium.com/@paritoshblogs/red-teaming-and-vulnerability-research-two-sides-of-the-same-coin-69484d0f757d?source=rss------redteam-5"/>
+        <updated>2026-08-12T04:38:27.000Z</updated>
+        <summary type="html"><![CDATA[In cybersecurity, red teaming and vulnerability research are often treated as two different skill sets.
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Paritosh</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[线上服务器反应慢如何排查 - Rain的Java大神实战圈]]></title>
         <id>https://www.cnblogs.com/zrui-xyu/p/22414805</id>
