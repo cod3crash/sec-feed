@@ -6,6 +6,16 @@
       "siteUrl": "http://h1.nobbd.de/",
       "articles": [
         {
+          "id": "https://hackerone.com/reports/3829030",
+          "author": null,
+          "description": "Yelp disclosed a bug submitted by 0xkarim_dix: https://hackerone.com/reports/3829030",
+          "link": "https://hackerone.com/reports/3829030",
+          "publishedOn": "2026-08-13T13:30:14.000Z",
+          "wordCount": 25,
+          "title": "Debug Deep Link Abuse Allows Repeated Forced Logout and Application Disruption",
+          "imageUrl": "https://profile-photos.hackerone-user-content.com/variants/000/000/545/de556165eaf2da7600f9ce75d1179281ee2d538f_original.png/f0e07660005686ec92c43da54c0094c1ac1b490ea8c5eac04a4081d912d6ce36"
+        },
+        {
           "id": "https://hackerone.com/reports/3837634",
           "author": null,
           "description": "8x8 disclosed a bug submitted by offseq: https://hackerone.com/reports/3837634 - Bounty: $500",
@@ -4229,6 +4239,106 @@
       "feedUrl": "https://medium.com/feed/tag/bugbounty",
       "siteUrl": "https://medium.com/tag/bugbounty/latest?source=rss------bugbounty-5",
       "articles": [
+        {
+          "id": "https://medium.com/p/e8b5965cc4b9",
+          "author": "ElAmine Bousbaa",
+          "description": "Continue reading on Medium »",
+          "link": "https://medium.com/@aminebsb92/stop-memorizing-http-methods-e8b5965cc4b9?source=rss------bugbounty-5",
+          "publishedOn": "2026-08-14T02:22:01.000Z",
+          "wordCount": null,
+          "title": "Stop Memorizing HTTP Methods:",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/141911b3a731",
+          "author": "SilentExploit",
+          "description": "Box: Casino\nDifficulty: Medium\nNote: Much thanks to Tyler for giving me free access to the platform to help me prepare for the OSCP !\nContinue reading on Medium »",
+          "link": "https://medium.com/@SilentExploit/casino-hacksmarter-oscp-preparation-141911b3a731?source=rss------bugbounty-5",
+          "publishedOn": "2026-08-13T23:09:16.000Z",
+          "wordCount": null,
+          "title": "Casino | HackSmarter | OSCP Preparation",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/9494026ae3a7",
+          "author": "Ph",
+          "description": "Introduction\nContinue reading on Medium »",
+          "link": "https://medium.com/@ph620095/common-web-application-technologies-9494026ae3a7?source=rss------bugbounty-5",
+          "publishedOn": "2026-08-13T19:04:15.000Z",
+          "wordCount": null,
+          "title": "Common Web Application Technologies",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/41f37ba80bbd",
+          "author": "Saurabh Pandey",
+          "description": "Some days in Ash’s journey were full of battles.\nContinue reading on Medium »",
+          "link": "https://medium.com/@saurabh.hack.pandey/ash-finds-an-empty-route-hunts-for-bugs-and-realizes-the-hardest-battle-is-finding-the-right-one-41f37ba80bbd?source=rss------bugbounty-5",
+          "publishedOn": "2026-08-13T18:09:24.000Z",
+          "wordCount": null,
+          "title": "Ash Finds an Empty Route, Hunts for Bugs, and Realizes the Hardest Battle Is Finding the Right One",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/413ab1f69991",
+          "author": "Devyaniitware",
+          "description": "The setup\nContinue reading on Medium »",
+          "link": "https://medium.com/@devyani89itware/hacker-holidays-day-8-towel-on-the-sunbed-413ab1f69991?source=rss------bugbounty-5",
+          "publishedOn": "2026-08-13T17:53:35.000Z",
+          "wordCount": null,
+          "title": "Hacker Holidays Day 8: Towel on the Sunbed",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/320cfdd2570a",
+          "author": "Rakesh Joshi",
+          "description": "That makes JavaScript files an important source of attack-surface intelligence for security researchers and bug bounty hunters.\nContinue reading on Medium »",
+          "link": "https://medium.com/@Rakeshjoshi7/modern-web-applications-depend-heavily-on-javascript-320cfdd2570a?source=rss------bugbounty-5",
+          "publishedOn": "2026-08-13T17:48:12.000Z",
+          "wordCount": null,
+          "title": "Modern web applications depend heavily on JavaScript.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/9bcb5a829f7d",
+          "author": "b0dj0x",
+          "description": "A repeatable recon-to-report process for hunting Cross-Site Scripting ,the vulnerability class that still pays out more than almost…\nContinue reading on Medium »",
+          "link": "https://medium.com/@b0dj0x/how-i-systematically-find-xss-bugs-in-bug-bounty-programs-step-by-step-method-9bcb5a829f7d?source=rss------bugbounty-5",
+          "publishedOn": "2026-08-13T16:58:39.000Z",
+          "wordCount": null,
+          "title": "How I Systematically Find XSS Bugs in Bug Bounty Programs (Step-by-Step Method)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/487e868dbac4",
+          "author": "Pentester Club",
+          "description": "Web applications often rely on backend operating-system commands for tasks such as image processing, file conversion, system diagnostics…\nContinue reading on Medium »",
+          "link": "https://medium.com/@pentesterclubpvtltd/command-injection-in-an-e-commerce-website-penetration-testing-ctf-487e868dbac4?source=rss------bugbounty-5",
+          "publishedOn": "2026-08-13T15:47:56.000Z",
+          "wordCount": null,
+          "title": "Command Injection in an E-Commerce Website | Penetration Testing CTF",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/d556b3887167",
+          "author": "T4nv1",
+          "description": "If there’s one lesson every bug hunter learns the hard way, it’s this: The most dangerous features are often the ones built purely for…\nContinue reading on Medium »",
+          "link": "https://medium.com/@t3nv1/how-a-broken-preview-button-exposed-800-000-private-documents-for-a-8-500-bounty-d556b3887167?source=rss------bugbounty-5",
+          "publishedOn": "2026-08-13T15:36:01.000Z",
+          "wordCount": null,
+          "title": "How a Broken “Preview” Button Exposed 800,000 Private Documents for a $8,500 Bounty",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/c9be7fcac748",
+          "author": "Bahmed Boumriga",
+          "description": "A Bug Bounty Writeup | HackerOne Report\nContinue reading on Medium »",
+          "link": "https://medium.com/@boumriga.bahmed/bypassing-keyword-and-character-filters-to-achieve-reflected-xss-c9be7fcac748?source=rss------bugbounty-5",
+          "publishedOn": "2026-08-13T15:26:56.000Z",
+          "wordCount": null,
+          "title": "Bypassing Keyword and Character Filters to Achieve Reflected XSS",
+          "imageUrl": null
+        },
         {
           "id": "https://medium.com/p/a160f760d7ef",
           "author": "Mr Horbio",
@@ -8927,6 +9037,46 @@
       "siteUrl": "https://medium.com/tag/redteam/latest?source=rss------redteam-5",
       "articles": [
         {
+          "id": "https://medium.com/p/424868eb7dff",
+          "author": "aw0ken",
+          "description": "BebopC2 is open source — the framework and official documentation are both available through the author’s GitHub at…\nContinue reading on Medium »",
+          "link": "https://medium.com/@iaw0ken/bebopc2-a-first-look-at-the-new-open-source-c2-framework-424868eb7dff?source=rss------redteam-5",
+          "publishedOn": "2026-08-13T15:13:44.000Z",
+          "wordCount": null,
+          "title": "BebopC2 — A First Look at the New Open Source C2 Framework",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/662f55d8896b",
+          "author": "Elif Bensu K.",
+          "description": "ESC1 Zafiyeti Nedir? Lab Ortamı Nasıl Ayarlanmalı? Nasıl Exploit edilir? Certify - Certipy-ad nasıl çalışıyor? Nasıl Korunmalıyız?\nContinue reading on Medium »",
+          "link": "https://medium.com/@ElifBensuK/adcs-esc1-zafiyeti-662f55d8896b?source=rss------redteam-5",
+          "publishedOn": "2026-08-13T12:55:23.000Z",
+          "wordCount": null,
+          "title": "ADCS — ESC1 Zafiyeti",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/60554e6f0426",
+          "author": "Sujal Shihani",
+          "description": "Every red teamer knows the golden rule of staying undetected: don’t look suspicious.\nContinue reading on Medium »",
+          "link": "https://medium.com/@sujalshihani/living-off-the-cloud-lotc-the-stealth-weapon-in-red-teaming-60554e6f0426?source=rss------redteam-5",
+          "publishedOn": "2026-08-13T10:21:29.000Z",
+          "wordCount": null,
+          "title": "Living Off the Cloud (LOTC)- The Stealth Weapon in Red Teaming",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/37878a41e449",
+          "author": "Anoop",
+          "description": "By Anoop Antony Albi — Cybersecurity Intern, ZeroVoid Lab\nContinue reading on Medium »",
+          "link": "https://medium.com/@abetarco/ai-red-teaming-testing-the-security-of-modern-ai-systems-37878a41e449?source=rss------redteam-5",
+          "publishedOn": "2026-08-13T06:45:50.000Z",
+          "wordCount": null,
+          "title": "AI Red Teaming: Testing the Security of Modern AI Systems",
+          "imageUrl": null
+        },
+        {
           "id": "https://medium.com/p/d2543035d660",
           "author": "Elif Bensu K.",
           "description": "Continue reading on Medium »",
@@ -8934,6 +9084,16 @@
           "publishedOn": "2026-08-12T17:17:47.000Z",
           "wordCount": null,
           "title": "AD CS ( Active Directory Certificate Services)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/8e090ebdf919",
+          "author": "DragonFly",
+          "description": "When entering cybersecurity, the terms Offensive (Red team) and Defensive (Blue Team) get thrown around a lot. Today, I completed both the…\nContinue reading on Medium »",
+          "link": "https://medium.com/@Dragonfly_hubby/red-team-vs-blue-team-my-hands-on-experience-with-tryhackme-8e090ebdf919?source=rss------redteam-5",
+          "publishedOn": "2026-08-12T14:46:27.000Z",
+          "wordCount": null,
+          "title": "Red Team vs Blue Team: My Hands-on Experience with TryHackMe",
           "imageUrl": null
         },
         {
@@ -14698,6 +14858,206 @@
       "feedUrl": "https://feed.cnblogs.com/blog/sitehome/rss",
       "siteUrl": null,
       "articles": [
+        {
+          "id": "https://www.cnblogs.com/myvin/p/22225698",
+          "author": null,
+          "description": "模型不支持图片、接口超时或返回空内容时，RenoPit 会怎样处理？解析 OpenAI 兼容客户端、多模态消息、联网工具、指数退避重试，以及从图片分析降级到纯文本分析的源码路径。",
+          "link": "https://www.cnblogs.com/myvin/p/22225698",
+          "publishedOn": "2026-08-14T01:52:00.000Z",
+          "wordCount": 468,
+          "title": "装闭 RenoPit 源码解析（08）：多模态AI调用、重试与文本降级 - fthux",
+          "imageUrl": "https://img2024.cnblogs.com/blog/779193/202608/779193-20260804233414658-470443874.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/zrui-xyu/p/22463028",
+          "author": null,
+          "description": "线上接口负载打满是高频生产故障，本文分享实战处理思路：遵循先止损、再定位、后根治流程。讲解网关限流、服务降级、熔断扩容等应急手段，从应用、网络、数据、缓存多维度排查根因。附带 Sentinel 限流、多级缓存、CompletableFuture 异步、布隆过滤器等 Java 落地代码，同时结合面试模...",
+          "link": "https://www.cnblogs.com/zrui-xyu/p/22463028",
+          "publishedOn": "2026-08-14T01:41:00.000Z",
+          "wordCount": 1662,
+          "title": "线上接口负载满了如何解决 - Rain的Java大神实战圈",
+          "imageUrl": "https://img2024.cnblogs.com/blog/739056/202608/739056-20260814093738786-1710603505.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/sun-10387834/p/22396575",
+          "author": null,
+          "description": "** 我翻遍了所有论文和哲学书，找到了一个让人后背发凉的答案** 01. 一个让我睡不着觉的夜晚 大概是去年冬天的一个深夜。 我躺在床上刷手机，看到一段关于&quot;AI意识觉醒&quot;的讨论。帖子说，某个AI在对话中突然说出了&quot;我感到了一种被困住的感觉&quot;，还说自己&quot;渴望自由&quot;。 虽然是半夜两点，但我一个激灵坐了",
+          "link": "https://www.cnblogs.com/sun-10387834/p/22396575",
+          "publishedOn": "2026-08-14T01:39:00.000Z",
+          "wordCount": 469,
+          "title": "那个让全硅谷失眠的问题：AI到底有没有\"醒\"过来？ - 佛祖让我来巡山",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/jinjiangongzuoshi/p/22461553",
+          "author": null,
+          "description": "事情是这样的。 前阵子有个做 AI 产品的朋友找我，说他遇到点麻烦。 他们团队做了个客服 Agent，内部测试的时候准确率 90 多，Demo 演示效果很好，老板看了很满意，拍板上线。 结果上线一周，客服工单炸了。 用户骂得很难听。「这 AI 是智障吧」，「问它退换货它给我推荐新品」，截图满群飞。",
+          "link": "https://www.cnblogs.com/jinjiangongzuoshi/p/22461553",
+          "publishedOn": "2026-08-14T00:25:00.000Z",
+          "wordCount": 643,
+          "title": "Agent质量怎么评？ - 狂师",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/docker-mo/p/22461549",
+          "author": null,
+          "description": "一、文档概述 本文档为企业生产级单节点监控 Docker 容器化****部署手册，摒弃传统二进制裸机部署方式，采用 Dockerfile 自定义构建纯净监控镜像，无第三方冗余依赖、适配私有化离线部署场景。 本次部署完全兼容 CentOS、Rocky Linux、RHEL 全系服务器，适配企业机房物理",
+          "link": "https://www.cnblogs.com/docker-mo/p/22461549",
+          "publishedOn": "2026-08-14T00:24:00.000Z",
+          "wordCount": 1195,
+          "title": "零基础容器化部署 Prometheus+Grafana 监控（单节点离线生产版） - Docker-沫老师",
+          "imageUrl": "https://img2024.cnblogs.com/blog/2979143/202608/2979143-20260813174241140-674524863.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/xiezhr/p/22461281",
+          "author": null,
+          "description": "大家好，我是晓凡 一、 DeepSeek 便宜好用，偏偏&quot;看不见&quot; 用 DeepSeek 的人是越来越多了。理由也简单，便宜，还越来越强。 V4-Flash 正式版一出来，性能又往上蹿了一截，就在前几天V4-Pro正式版也发布了。 有平台披露，DeepSeekToken 消耗已经冲到 8 万亿，说明",
+          "link": "https://www.cnblogs.com/xiezhr/p/22461281",
+          "publishedOn": "2026-08-14T00:11:00.000Z",
+          "wordCount": 525,
+          "title": "DeepSeek 不能识图？装个开源 Skill，纯文本模型也能\"睁眼\"了 - 程序员晓凡",
+          "imageUrl": "https://img2024.cnblogs.com/blog/2381533/202608/2381533-20260814081040913-132491332.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/hellojackyleon/p/22461046",
+          "author": null,
+          "description": "大家好，我是老张。 先问个问题：你平时让 AI 写代码，是直接开个 Claude Code、Codex 这样的工具，还是自己拼一套？ 老张身边不少人，为了把 DeepSeek 当后端接进 Codex，得在本机跑一层代理做协议翻译，折腾半天，配置还脆得一碰就碎。每次模型一更新、工具一升级，那套东西就得",
+          "link": "https://www.cnblogs.com/hellojackyleon/p/22461046",
+          "publishedOn": "2026-08-13T23:56:00.000Z",
+          "wordCount": 516,
+          "title": "近 40k Star、1.2 万次提交，DeepSeek 官方 Agent 框架来了：一切都可插拔 - 厚德载物_VIP",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/jyzhao/p/22460981",
+          "author": null,
+          "description": "进入 ORDS 的 SQL Developer Web 后，登录却提示“身份证明无效”？数据库账号明明是 OPEN，怎么回事？ 其实关键通常不在账号状态，而在该 Schema 是否已启用 ORDS，以及登录路径是否正确。 01 | APEX 与 SQL Developer Web 不是同一种登录 O",
+          "link": "https://www.cnblogs.com/jyzhao/p/22460981",
+          "publishedOn": "2026-08-13T23:35:00.000Z",
+          "wordCount": 680,
+          "title": "SQL Developer Web（Database Actions）登录问题排障指南 - AlfredZhao",
+          "imageUrl": "https://img2024.cnblogs.com/blog/635610/202608/635610-20260814073428172-942639192.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/shanyou/p/22460673",
+          "author": null,
+          "description": "JVMGuard 的发布让我们看到，生产环境 Profiling 正在从&quot;开发阶段工具&quot;进化为&quot;运行时基础设施&quot;。无论是 Java 的 Agent 路线还是 .NET 的 EventPipe 路线，最终目标都是一致的：让性能问题可观测、可捕获、可回溯",
+          "link": "https://www.cnblogs.com/shanyou/p/22460673",
+          "publishedOn": "2026-08-13T22:14:00.000Z",
+          "wordCount": 1367,
+          "title": "JVMGuard 来了，.NET 开发者别慌：你的 dotnet-monitor 早就准备好了 - 张善友",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/yudanqu/p/22456248",
+          "author": null,
+          "description": "跟大模型聊天人人都会，但你有没有想过——为什么ChatGPT能帮你订餐、查航班、写代码，而你调用API只会一问一答？差别就两个字：Agent。大模型是大脑，但没手没脚没记忆。你问它&quot;北京天气怎么样&quot;，它只会说&quot;我无法访问实时数据&quot;。Agent就是给大脑装上四肢、记忆和执行力——让它自己判断该用什么工",
+          "link": "https://www.cnblogs.com/yudanqu/p/22456248",
+          "publishedOn": "2026-08-13T14:42:00.000Z",
+          "wordCount": 953,
+          "title": "100行Python代码，搭一个能干活的AI Agent - 小田学Python",
+          "imageUrl": "https://img2024.cnblogs.com/blog/1279674/202608/1279674-20260813224124046-697612576.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/jess1ca1o0g3/p/22456147",
+          "author": null,
+          "description": "给定长度为 \\(n\\) 的数组 \\(c\\)，其中有一些位置不确定，以及 \\(q\\) 条限制 \\((a_i,h_i)\\)，要求满足 \\(h_i\\) 是第一个严格大于 \\(c_1,\\ldots,c_{a_i}\\) 的位置且字典序最小。 首先对限制条件进行转化，一个限制 \\((a_i,h_i)\\) 代表",
+          "link": "https://www.cnblogs.com/jess1ca1o0g3/p/22456147",
+          "publishedOn": "2026-08-13T14:20:00.000Z",
+          "wordCount": 561,
+          "title": "P10134 [USACO24JAN] Cowmpetency S 题解 - jess1ca1o0g3",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/mianmaner/p/22454881",
+          "author": null,
+          "description": "LV-NUS Lab + 复旦 + 北大 + 字节的工作，目前挂在 Arxiv 26.06 上。当前的自进化 Agent 都把记忆当成自进化的定义，但存下经验 ≠ 学会怎么从经验里进化。本文提出 OPD-Evolver，一个慢-快协同进化框架：快环里 Agent 与四级记忆层级交互做 test-ti",
+          "link": "https://www.cnblogs.com/mianmaner/p/22454881",
+          "publishedOn": "2026-08-13T13:01:00.000Z",
+          "wordCount": 967,
+          "title": "\"OPD-Evolver: Cultivating Holistic Agent Evolver via On-Policy Distillation\" 论文笔记 - 绵满",
+          "imageUrl": "https://img2024.cnblogs.com/blog/3614753/202608/3614753-20260813205652404-806210570.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/Alkaid2077/p/22454721",
+          "author": null,
+          "description": "本篇收录于手搓Agent系列Stage2。本篇摒弃成熟框架，从零手写原生百度爬虫，完成依赖配置、工具注册、爬虫函数编写、Agent 权限适配全流程，为基础 Agent 赋予联网能力。",
+          "link": "https://www.cnblogs.com/Alkaid2077/p/22454721",
+          "publishedOn": "2026-08-13T12:46:00.000Z",
+          "wordCount": 568,
+          "title": "【手搓 Agent 第2.2关】搭建 Agent 进阶能力：网络搜索工具（上） - Alkaid2077",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/guangzan/p/22454683",
+          "author": null,
+          "description": "我之前写过一篇 grill-me skill 的博客，讲动手之前把需求拷问清楚。用久了发现，拷问清楚只是第一步。想清楚之后还有一长条链路：把对齐的共识落成文档，把文档写成 spec，把 spec 切成任务，再把任务实现掉。这四个环节的产物如果只存在于对话里，会话一断就全没了。 Monorail 就是",
+          "link": "https://www.cnblogs.com/guangzan/p/22454683",
+          "publishedOn": "2026-08-13T12:36:00.000Z",
+          "wordCount": 1755,
+          "title": "Monorail：对齐 → 规格化 → 切片 → 构建 - guangzan",
+          "imageUrl": "https://img2024.cnblogs.com/blog/1501373/202608/1501373-20260813184307761-1461094779.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/rockey627/p/22454219",
+          "author": null,
+          "description": "AScript是一个开源的C#动态脚本解析执行引擎，支持扩展多种脚本语言，2026年8月12日正式发布了lua脚本语言AScript.Lang.Lua，快来试试吧！ 一、介绍 支持 Lua 基础语法和数据类型，以及表、元表、面向对象、模块等功能。 二、安装 1 install-package ASc",
+          "link": "https://www.cnblogs.com/rockey627/p/22454219",
+          "publishedOn": "2026-08-13T11:52:00.000Z",
+          "wordCount": 1495,
+          "title": "基于AScript的Lua脚本语言发布啦 - rockey627",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/owlman/p/22453671",
+          "author": null,
+          "description": "title: 关于机器恐惧症的个人观点汇总 author: 凌杰 date: 2026-08-13 tags: [AI, 行业观察] categories: 人工智能 近几年，似乎机器智能在媒体上越来越火，其原因在于 Google、OpenAI、Anthropic 这些公司先后在该领域得到了很好的进",
+          "link": "https://www.cnblogs.com/owlman/p/22453671",
+          "publishedOn": "2026-08-13T11:03:00.000Z",
+          "wordCount": 416,
+          "title": "关于机器恐惧症的个人观点汇总 - 凌杰",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/CrescentWind/p/22453507",
+          "author": null,
+          "description": "ROS2的服务通信介绍 在CH1中，我们学习了ROS2的Topic通信机制，在通信时需要一个发布者(Publisher)和一个订阅者(Subscriber)，发布者将消息发布到Topic上，订阅者从Topic上接收消息。 显然，这种通信机制有着如下特点 单向异步通信：订阅者不需要阻塞等待发布者发布消",
+          "link": "https://www.cnblogs.com/CrescentWind/p/22453507",
+          "publishedOn": "2026-08-13T10:53:00.000Z",
+          "wordCount": 1160,
+          "title": "ROS2学习CH2 服务通信 - 凪风sama",
+          "imageUrl": "https://img2024.cnblogs.com/blog/3147612/202608/3147612-20260813185050903-778620410.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/myInception/p/22451412",
+          "author": null,
+          "description": "一、前言 在金融风控领域，信用卡欺诈检测是一个经典且极具挑战性的问题。随着电子支付的普及，每天都有数以亿计的交易发生，而其中潜藏的欺诈交易虽然占比极低，却可能给银行和用户带来巨大的资金损失。 本文将基于 Kaggle 上经典的信用卡欺诈数据集（creditcard.csv），从零开始完整走一遍欺诈检",
+          "link": "https://www.cnblogs.com/myInception/p/22451412",
+          "publishedOn": "2026-08-13T10:00:00.000Z",
+          "wordCount": 2238,
+          "title": "机器学习项目：信用卡欺诈检测 - myLv",
+          "imageUrl": "https://img2024.cnblogs.com/blog/3775135/202608/3775135-20260813173945795-2072330185.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/wang_yb/p/22446046",
+          "author": null,
+          "description": "刚入行数据科学，面对成堆的数据和模型，往往最先卡在“算个平均值都要翻文档”这一步。 别急，Python 标准库 statistics 模块 就能帮你搞定 80% 的日常统计需求。 本文挑选了 10 个最常用的统计函数，每个都配上核心代码片段，让你看完就能上手，快速搭起自己的数据分析小工具。 为什么要",
+          "link": "https://www.cnblogs.com/wang_yb/p/22446046",
+          "publishedOn": "2026-08-13T07:01:00.000Z",
+          "wordCount": 839,
+          "title": "Python 中 10 个最常用的统计函数 - wang_yb",
+          "imageUrl": "https://img2024.cnblogs.com/blog/83005/202608/83005-20260813145957162-1326223630.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/uoky/p/22444241",
+          "author": null,
+          "description": "项目起源 我想在手机上跑一下小模型，然后跑了一个7b的模型。一轮对话手机发烫，二轮对话直接闪退。 然后试着跑更小的模型，也就是混元的0.5B模型，使用PocketPal软件。 结果对话窗口，一直没有任何回复，重开了几次对话，都是这样。我以为是PocketPal不兼容最近的混元0.5B模型，然后产生了",
+          "link": "https://www.cnblogs.com/uoky/p/22444241",
+          "publishedOn": "2026-08-13T06:30:00.000Z",
+          "wordCount": 811,
+          "title": "开源项目自荐：Modelmini 一个运行端侧小模型的android app - 人间春风意",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
         {
           "id": "https://www.cnblogs.com/zrui-xyu/p/22438253",
           "author": null,
@@ -24285,6 +24645,16 @@
       "siteUrl": "http://h1.nobbd.de/",
       "articles": [
         {
+          "id": "https://hackerone.com/reports/3829030",
+          "author": null,
+          "description": "Yelp disclosed a bug submitted by 0xkarim_dix: https://hackerone.com/reports/3829030",
+          "link": "https://hackerone.com/reports/3829030",
+          "publishedOn": "2026-08-13T13:30:14.000Z",
+          "wordCount": 25,
+          "title": "Debug Deep Link Abuse Allows Repeated Forced Logout and Application Disruption",
+          "imageUrl": "https://profile-photos.hackerone-user-content.com/variants/000/000/545/de556165eaf2da7600f9ce75d1179281ee2d538f_original.png/f0e07660005686ec92c43da54c0094c1ac1b490ea8c5eac04a4081d912d6ce36"
+        },
+        {
           "id": "https://hackerone.com/reports/3837634",
           "author": null,
           "description": "8x8 disclosed a bug submitted by offseq: https://hackerone.com/reports/3837634 - Bounty: $500",
@@ -26901,6 +27271,16 @@
       "feedUrl": "https://malware-traffic-analysis.net/blog-entries.rss",
       "siteUrl": "https://www.malware-traffic-analysis.net/index.html",
       "articles": [
+        {
+          "id": "https://www.malware-traffic-analysis.net/2026/08/12/index.html",
+          "author": null,
+          "description": "",
+          "link": "https://www.malware-traffic-analysis.net/2026/08/12/index.html",
+          "publishedOn": "2026-08-13T03:07:00.000Z",
+          "wordCount": 79,
+          "title": "2026-08-12: SmartApeSG ClickFix leads to two RATs",
+          "imageUrl": null
+        },
         {
           "id": "https://www.malware-traffic-analysis.net/2026/08/10/index.html",
           "author": null,
