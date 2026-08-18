@@ -6,6 +6,26 @@
       "siteUrl": "http://h1.nobbd.de/",
       "articles": [
         {
+          "id": "https://hackerone.com/reports/3620006",
+          "author": null,
+          "description": "Monero disclosed a bug submitted by usagirabbit: https://hackerone.com/reports/3620006",
+          "link": "https://hackerone.com/reports/3620006",
+          "publishedOn": "2026-08-17T09:16:13.000Z",
+          "wordCount": 25,
+          "title": "Wallet RPC Restricted-Mode Policy Bypass",
+          "imageUrl": "https://profile-photos.hackerone-user-content.com/variants/000/007/731/55634f7fcd917725c7a5771cc6e7c9b4d5fe0c22_original.png/f0e07660005686ec92c43da54c0094c1ac1b490ea8c5eac04a4081d912d6ce36"
+        },
+        {
+          "id": "https://hackerone.com/reports/3601469",
+          "author": null,
+          "description": "Monero disclosed a bug submitted by usagirabbit: https://hackerone.com/reports/3601469",
+          "link": "https://hackerone.com/reports/3601469",
+          "publishedOn": "2026-08-17T09:16:00.000Z",
+          "wordCount": 25,
+          "title": "Restricted RPC Policy Bypass on ZMQ JSON-RPC Allows Unauthenticated Remote Admin Actions",
+          "imageUrl": "https://profile-photos.hackerone-user-content.com/variants/000/007/731/55634f7fcd917725c7a5771cc6e7c9b4d5fe0c22_original.png/f0e07660005686ec92c43da54c0094c1ac1b490ea8c5eac04a4081d912d6ce36"
+        },
+        {
           "id": "https://hackerone.com/reports/3799010",
           "author": null,
           "description": "Nextcloud disclosed a bug submitted by kuninogu: https://hackerone.com/reports/3799010",
@@ -2653,6 +2673,106 @@
       "siteUrl": "https://infosecwriteups.com?source=rss----7b722bfd1b8d---4",
       "articles": [
         {
+          "id": "https://medium.com/p/99df009baf37",
+          "author": "Dhanush N",
+          "description": "A file upload accepted ZIP archives but never validated the paths inside. We used Zip Slip to plant a reverse shell in the server’s hooks…\nContinue reading on InfoSec Write-ups »",
+          "link": "https://infosecwriteups.com/hacker-holidays-2026-day-10-walkthrough-the-hollow-shell-99df009baf37?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2026-08-17T20:43:42.000Z",
+          "wordCount": null,
+          "title": "Hacker Holidays 2026: Day 10 Walkthrough (The Hollow Shell)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/a6a1caa9438a",
+          "author": "Dhanush N",
+          "description": "A hardcoded SAS token in the website’s JavaScript led to a service account. That service account unlocked an Azure Key Vault. The vault’s…\nContinue reading on InfoSec Write-ups »",
+          "link": "https://infosecwriteups.com/hacker-holidays-2026-day-9-walkthrough-cryptocabana-a6a1caa9438a?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2026-08-17T20:43:34.000Z",
+          "wordCount": null,
+          "title": "Hacker Holidays 2026: Day 9 Walkthrough (CryptoCabana)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/4cd1f708eb3c",
+          "author": "Dhanush N",
+          "description": "A rewards system let you claim 50 points every 24 hours. We claimed it three times in the same millisecond. Welcome to race conditions.\nContinue reading on InfoSec Write-ups »",
+          "link": "https://infosecwriteups.com/hacker-holidays-2026-day-8-walkthrough-towel-on-the-sunbed-4cd1f708eb3c?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2026-08-17T20:42:23.000Z",
+          "wordCount": null,
+          "title": "Hacker Holidays 2026: Day 8 Walkthrough (Towel on the Sunbed)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/062dfc269d69",
+          "author": "Dhanush N",
+          "description": "NoSQL injection bypassed the login. Server-Side Template Injection gave us code execution. A forgotten Node.js debugger running as a…\nContinue reading on InfoSec Write-ups »",
+          "link": "https://infosecwriteups.com/hacker-holidays-2026-day-7-walkthrough-do-not-disturb-062dfc269d69?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2026-08-17T20:41:54.000Z",
+          "wordCount": null,
+          "title": "Hacker Holidays 2026: Day 7 Walkthrough (Do Not Disturb)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/e878ce13c189",
+          "author": "Dhanush N",
+          "description": "A conversation overheard at breakfast leaked an email address. That email led to a forgotten Gravatar profile. That profile contained the…\nContinue reading on InfoSec Write-ups »",
+          "link": "https://infosecwriteups.com/hacker-holidays-2026-day-6-walkthrough-overheard-at-breakfast-e878ce13c189?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2026-08-17T20:41:47.000Z",
+          "wordCount": null,
+          "title": "Hacker Holidays 2026: Day 6 Walkthrough (Overheard at Breakfast)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/8984cd1806f4",
+          "author": "Krish Gupta",
+          "description": "",
+          "link": "https://infosecwriteups.com/tryhackme-guided-pentest-infrastructure-full-walkthrough-8984cd1806f4?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2026-08-17T20:41:16.000Z",
+          "wordCount": null,
+          "title": "TryHackMe — Guided Pentest: Infrastructure | Full Walkthrough",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/fba44d152d5b",
+          "author": "Allen Ace",
+          "description": "",
+          "link": "https://infosecwriteups.com/behavioral-malware-analysis-investigating-a-multi-stage-malware-sample-inside-an-isolated-lab-fba44d152d5b?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2026-08-17T20:41:09.000Z",
+          "wordCount": null,
+          "title": "Behavioral Malware Analysis: Investigating a Multi-Stage Malware Sample Inside an Isolated Lab",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/059061b7973e",
+          "author": "Abhay U",
+          "description": "",
+          "link": "https://infosecwriteups.com/hacker-holidays-day-8-do-not-disturb-tryhackme-full-writeup-059061b7973e?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2026-08-17T20:41:00.000Z",
+          "wordCount": null,
+          "title": "Hacker Holidays Day 8 — Do Not Disturb(TryHackMe) Full Writeup",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/3da2d1396a23",
+          "author": "Makoyi",
+          "description": "",
+          "link": "https://infosecwriteups.com/proving-grounds-practice-authby-3da2d1396a23?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2026-08-17T20:38:18.000Z",
+          "wordCount": null,
+          "title": "Proving Grounds — Practice — Authby",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/ecfe395cf94a",
+          "author": "Hangga Aji Sayekti",
+          "description": "",
+          "link": "https://infosecwriteups.com/how-an-unauthenticated-api-endpoint-exposed-19-990-user-records-ecfe395cf94a?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2026-08-17T20:38:14.000Z",
+          "wordCount": null,
+          "title": "How an Unauthenticated API Endpoint Exposed 19,990 User Records",
+          "imageUrl": null
+        },
+        {
           "id": "https://medium.com/p/a09b87056340",
           "author": "THE OSINT GUY",
           "description": "",
@@ -4389,6 +4509,106 @@
       "feedUrl": "https://medium.com/feed/tag/bugbounty",
       "siteUrl": "https://medium.com/tag/bugbounty/latest?source=rss------bugbounty-5",
       "articles": [
+        {
+          "id": "https://medium.com/p/853d0dac4532",
+          "author": "b0dj0x",
+          "description": "Beyond the generic “run a scanner” lists — the toolkit built around finding access control and business logic bugs, the kind automated…\nContinue reading on Medium »",
+          "link": "https://medium.com/@b0dj0x/the-10-best-bug-bounty-tools-in-2026-what-actual-hunters-use-for-manual-testing-853d0dac4532?source=rss------bugbounty-5",
+          "publishedOn": "2026-08-17T22:52:21.000Z",
+          "wordCount": null,
+          "title": "The 10 Best Bug Bounty Tools in 2026 (What Actual Hunters Use for Manual Testing)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/45b0ff26acba",
+          "author": "CypherNova1337",
+          "description": "This is a long one but it is very important to understand the process of platforms like Hackerone.\nContinue reading on Medium »",
+          "link": "https://cyphernova1337.medium.com/the-bug-bounty-meat-grinder-why-platforms-are-broken-and-how-to-actually-win-45b0ff26acba?source=rss------bugbounty-5",
+          "publishedOn": "2026-08-17T22:46:11.000Z",
+          "wordCount": null,
+          "title": "The Bug Bounty Meat Grinder: Why Platforms Are Broken And How to Actually Win",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/5512cc5429ed",
+          "author": "Muneebahmedkhan",
+          "description": "Scan a legal practice host for eight specific services, tell a closed port apart from a filtered one, and pull an exact software version…\nContinue reading on Medium »",
+          "link": "https://medium.com/@muneebahmedkhan0903/open-closed-filtered-reading-an-nmap-scan-properly-5512cc5429ed?source=rss------bugbounty-5",
+          "publishedOn": "2026-08-17T22:18:21.000Z",
+          "wordCount": null,
+          "title": "Open, Closed, Filtered: Reading an Nmap Scan Properly",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/fdf34620380f",
+          "author": "Muneebahmedkhan",
+          "description": "Query five record types for a domain, decode an SOA field by field, and attempt a zone transfer, so you know what a domain publishes to…\nContinue reading on Medium »",
+          "link": "https://medium.com/@muneebahmedkhan0903/everything-a-domain-will-tell-a-stranger-dns-enumeration-with-dig-fdf34620380f?source=rss------bugbounty-5",
+          "publishedOn": "2026-08-17T21:43:04.000Z",
+          "wordCount": null,
+          "title": "Everything a Domain Will Tell a Stranger: DNS Enumeration With dig",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/96cf9c765a5f",
+          "author": "redhunter01",
+          "description": "How a protected dev site became publicly accessible because authentication existed only at the CDN edge.\nContinue reading on Medium »",
+          "link": "https://medium.com/@redhunter01/when-the-cdn-was-secure-but-the-origin-wasnt-bypassing-sso-through-direct-to-origin-access-96cf9c765a5f?source=rss------bugbounty-5",
+          "publishedOn": "2026-08-17T19:41:26.000Z",
+          "wordCount": null,
+          "title": "When the CDN Was Secure but the Origin Wasn’t: Bypassing SSO Through Direct-to-Origin Access",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/f7c5cae5a5c2",
+          "author": "reox17",
+          "description": "Note: the real domain is redacted throughout this write-up and replaced with example.com.\nContinue reading on Medium »",
+          "link": "https://medium.com/@yassine.hasnaoui.cyber/how-i-took-over-any-employee-account-with-just-a-username-f7c5cae5a5c2?source=rss------bugbounty-5",
+          "publishedOn": "2026-08-17T19:27:10.000Z",
+          "wordCount": null,
+          "title": "How I Took Over Any Employee Account With Just a Username",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/2f74119be7bb",
+          "author": "lolidkmyname",
+          "description": "Summary\nContinue reading on Medium »",
+          "link": "https://lolidkmyname.medium.com/the-cache-that-trusted-too-much-2f74119be7bb?source=rss------bugbounty-5",
+          "publishedOn": "2026-08-17T19:24:05.000Z",
+          "wordCount": null,
+          "title": "The Cache That Trusted Too Much",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/0fe419b559c8",
+          "author": "Pulga (bettercallme)",
+          "description": "بسم الله الرحمن الرحيم، والصلاة والسلام على أشرف المرسلين سيدنا محمد ﷺ.\nContinue reading on Medium »",
+          "link": "https://medium.com/@La_Pulga/bug-bounty-when-a-random-uuid-wasnt-random-enough-cross-tenant-credential-leak-in-an-ats-0fe419b559c8?source=rss------bugbounty-5",
+          "publishedOn": "2026-08-17T19:16:53.000Z",
+          "wordCount": null,
+          "title": "Bug Bounty: When a “Random” UUID Wasn’t Random Enough — Cross-Tenant Credential Leak in an ATS…",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/12d9db390d7f",
+          "author": "T4nv1",
+          "description": "A quick-reference guide to the specific headers, payloads, commands, and logic bypasses featured in the writeups.\nContinue reading on Medium »",
+          "link": "https://medium.com/@t3nv1/bug-bounty-recon-vulnerability-cheat-sheet-12d9db390d7f?source=rss------bugbounty-5",
+          "publishedOn": "2026-08-17T19:01:01.000Z",
+          "wordCount": null,
+          "title": "Bug Bounty Recon & Vulnerability Cheat Sheet",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/ea90394eb6e7",
+          "author": "Ph",
+          "description": "Understand how hidden routes and resources can be uncovered using systematic mapping, pattern analysis, and targeted content discovery.\nContinue reading on Medium »",
+          "link": "https://medium.com/@ph620095/hidden-web-paths-smart-content-discovery-techniques-ea90394eb6e7?source=rss------bugbounty-5",
+          "publishedOn": "2026-08-17T16:06:39.000Z",
+          "wordCount": null,
+          "title": "Hidden Web Paths: Smart Content Discovery Techniques",
+          "imageUrl": null
+        },
         {
           "id": "https://medium.com/p/d0d7c413ea63",
           "author": "Z3DX",
@@ -9447,6 +9667,46 @@
       "siteUrl": "https://medium.com/tag/redteam/latest?source=rss------redteam-5",
       "articles": [
         {
+          "id": "https://medium.com/p/7147bcd9d670",
+          "author": "TheRealCiscoo",
+          "description": "Sliver es un framework de Command and Control (C2) de código abierto utilizado en operaciones de Red Team y simulaciones de adversarios…\nContinue reading on Medium »",
+          "link": "https://medium.com/@franciscodejesus761/introducci%C3%B3n-a-sliver-c2-7147bcd9d670?source=rss------redteam-5",
+          "publishedOn": "2026-08-18T00:47:33.000Z",
+          "wordCount": null,
+          "title": "Introducción a Sliver C2",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/beee753c7c26",
+          "author": "zeyneppcelikk",
+          "description": "Attacking Google Cloud — Part 1/7\nContinue reading on Medium »",
+          "link": "https://medium.com/@zeyneppcelikk/think-like-the-attacker-a-google-cloud-mindset-methodology-beee753c7c26?source=rss------redteam-5",
+          "publishedOn": "2026-08-17T16:14:44.000Z",
+          "wordCount": null,
+          "title": "Think Like the Attacker: A Google Cloud Mindset & Methodology",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/9942ae0fd777",
+          "author": "Luis Abreu from Cyver",
+          "description": "A pentest engagement follows a fairly predictable arc: scope the assets, run the assessment (automated tooling plus manual testing), and…\nContinue reading on Medium »",
+          "link": "https://medium.com/@cyver/from-pentest-report-to-closed-ticket-what-happens-to-a-vulnerability-after-its-found-9942ae0fd777?source=rss------redteam-5",
+          "publishedOn": "2026-08-17T08:02:30.000Z",
+          "wordCount": null,
+          "title": "From Pentest Report to Closed Ticket: What Happens to a Vulnerability After It’s Found",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/b6a8ff26223e",
+          "author": "Seb",
+          "description": "TLDR; AI agents are discovering 0-days and escaping their sandboxes. This all came to public attention when HuggingFace published a…\nContinue reading on Medium »",
+          "link": "https://medium.com/@seb.lopez/your-agent-will-escape-plan-for-it-b6a8ff26223e?source=rss------redteam-5",
+          "publishedOn": "2026-08-17T06:25:02.000Z",
+          "wordCount": null,
+          "title": "Your Agent Will Try to Escape. Plan For It.",
+          "imageUrl": null
+        },
+        {
           "id": "https://medium.com/p/3af5102e2a97",
           "author": "Anton Minin Baranovskii",
           "description": "Films where the attacks on screen are reproducible, the tools are real, and the intrusion logic matches how it actually works.\nContinue reading on Venture »",
@@ -12403,6 +12663,106 @@
       "feedUrl": "https://medium.com/feed/bugbountywriteup",
       "siteUrl": "https://infosecwriteups.com?source=rss----7b722bfd1b8d---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/99df009baf37",
+          "author": "Dhanush N",
+          "description": "A file upload accepted ZIP archives but never validated the paths inside. We used Zip Slip to plant a reverse shell in the server’s hooks…\nContinue reading on InfoSec Write-ups »",
+          "link": "https://infosecwriteups.com/hacker-holidays-2026-day-10-walkthrough-the-hollow-shell-99df009baf37?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2026-08-17T20:43:42.000Z",
+          "wordCount": null,
+          "title": "Hacker Holidays 2026: Day 10 Walkthrough (The Hollow Shell)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/a6a1caa9438a",
+          "author": "Dhanush N",
+          "description": "A hardcoded SAS token in the website’s JavaScript led to a service account. That service account unlocked an Azure Key Vault. The vault’s…\nContinue reading on InfoSec Write-ups »",
+          "link": "https://infosecwriteups.com/hacker-holidays-2026-day-9-walkthrough-cryptocabana-a6a1caa9438a?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2026-08-17T20:43:34.000Z",
+          "wordCount": null,
+          "title": "Hacker Holidays 2026: Day 9 Walkthrough (CryptoCabana)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/4cd1f708eb3c",
+          "author": "Dhanush N",
+          "description": "A rewards system let you claim 50 points every 24 hours. We claimed it three times in the same millisecond. Welcome to race conditions.\nContinue reading on InfoSec Write-ups »",
+          "link": "https://infosecwriteups.com/hacker-holidays-2026-day-8-walkthrough-towel-on-the-sunbed-4cd1f708eb3c?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2026-08-17T20:42:23.000Z",
+          "wordCount": null,
+          "title": "Hacker Holidays 2026: Day 8 Walkthrough (Towel on the Sunbed)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/062dfc269d69",
+          "author": "Dhanush N",
+          "description": "NoSQL injection bypassed the login. Server-Side Template Injection gave us code execution. A forgotten Node.js debugger running as a…\nContinue reading on InfoSec Write-ups »",
+          "link": "https://infosecwriteups.com/hacker-holidays-2026-day-7-walkthrough-do-not-disturb-062dfc269d69?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2026-08-17T20:41:54.000Z",
+          "wordCount": null,
+          "title": "Hacker Holidays 2026: Day 7 Walkthrough (Do Not Disturb)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/e878ce13c189",
+          "author": "Dhanush N",
+          "description": "A conversation overheard at breakfast leaked an email address. That email led to a forgotten Gravatar profile. That profile contained the…\nContinue reading on InfoSec Write-ups »",
+          "link": "https://infosecwriteups.com/hacker-holidays-2026-day-6-walkthrough-overheard-at-breakfast-e878ce13c189?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2026-08-17T20:41:47.000Z",
+          "wordCount": null,
+          "title": "Hacker Holidays 2026: Day 6 Walkthrough (Overheard at Breakfast)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/8984cd1806f4",
+          "author": "Krish Gupta",
+          "description": "",
+          "link": "https://infosecwriteups.com/tryhackme-guided-pentest-infrastructure-full-walkthrough-8984cd1806f4?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2026-08-17T20:41:16.000Z",
+          "wordCount": null,
+          "title": "TryHackMe — Guided Pentest: Infrastructure | Full Walkthrough",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/fba44d152d5b",
+          "author": "Allen Ace",
+          "description": "",
+          "link": "https://infosecwriteups.com/behavioral-malware-analysis-investigating-a-multi-stage-malware-sample-inside-an-isolated-lab-fba44d152d5b?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2026-08-17T20:41:09.000Z",
+          "wordCount": null,
+          "title": "Behavioral Malware Analysis: Investigating a Multi-Stage Malware Sample Inside an Isolated Lab",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/059061b7973e",
+          "author": "Abhay U",
+          "description": "",
+          "link": "https://infosecwriteups.com/hacker-holidays-day-8-do-not-disturb-tryhackme-full-writeup-059061b7973e?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2026-08-17T20:41:00.000Z",
+          "wordCount": null,
+          "title": "Hacker Holidays Day 8 — Do Not Disturb(TryHackMe) Full Writeup",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/3da2d1396a23",
+          "author": "Makoyi",
+          "description": "",
+          "link": "https://infosecwriteups.com/proving-grounds-practice-authby-3da2d1396a23?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2026-08-17T20:38:18.000Z",
+          "wordCount": null,
+          "title": "Proving Grounds — Practice — Authby",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/ecfe395cf94a",
+          "author": "Hangga Aji Sayekti",
+          "description": "",
+          "link": "https://infosecwriteups.com/how-an-unauthenticated-api-endpoint-exposed-19-990-user-records-ecfe395cf94a?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2026-08-17T20:38:14.000Z",
+          "wordCount": null,
+          "title": "How an Unauthenticated API Endpoint Exposed 19,990 User Records",
+          "imageUrl": null
+        },
         {
           "id": "https://medium.com/p/a09b87056340",
           "author": "THE OSINT GUY",
@@ -15548,6 +15908,206 @@
       "feedUrl": "https://feed.cnblogs.com/blog/sitehome/rss",
       "siteUrl": null,
       "articles": [
+        {
+          "id": "https://www.cnblogs.com/zskbll/p/22536468",
+          "author": null,
+          "description": "给聪明人写SOP一篇讲透 AI 的「技能 Skill」 想象一个场景。 你刚招了个新员工。名校毕业，脑子快，学习能力强，简历漂亮得挑不出毛病。你很满意。 第一天上班，你说：&quot;帮我发个周报。&quot; 他：周报……发到哪？用什么格式？几点前发？抄送谁？ 你：……那帮我整理一下上个月的销售数据。 他：数据在哪拿",
+          "link": "https://www.cnblogs.com/zskbll/p/22536468",
+          "publishedOn": "2026-08-18T01:27:00.000Z",
+          "wordCount": 489,
+          "title": "给聪明人写SOP 一篇讲透 AI 的「技能 Skill」 - billsking",
+          "imageUrl": "https://img2024.cnblogs.com/blog/409158/202608/409158-20260818092503624-409093309.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/jinjiangongzuoshi/p/22535730",
+          "author": null,
+          "description": "事情是这样的。 前段时间有个测试负责人找我，说他团队花了两个月，写了 3000 多条 case，代码覆盖率干到 95%。老板看了很满意，团队也觉得稳了。 上线第二天，炸了。 线上冒出来一个极其严重的 bug，3000 条 case 全没拦住。不是什么极限边界场景，就是一个很普通的操作路径，测试团队压",
+          "link": "https://www.cnblogs.com/jinjiangongzuoshi/p/22535730",
+          "publishedOn": "2026-08-18T00:48:00.000Z",
+          "wordCount": 566,
+          "title": "一个测试负责人的崩溃：该做的都做了，线上还是炸了 - 狂师",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/kings99/p/22535090",
+          "author": null,
+          "description": "Fast Request 2026.1.1：在线文档、AI 参数优化、批量生成 API、Run Method 重磅来袭 Fast Request 是一个类似 Postman 的 IDEA 插件。它是一套强大的 RESTful API 工具包，可以根据已有方法快速、自动生成 URL 和参数。 Rest",
+          "link": "https://www.cnblogs.com/kings99/p/22535090",
+          "publishedOn": "2026-08-17T23:40:00.000Z",
+          "wordCount": 735,
+          "title": "AI 请求参数智能生成与一键调试方法支持，Fast Request重磅发布 - Kings99",
+          "imageUrl": "https://img2024.cnblogs.com/blog/2885434/202608/2885434-20260818073130767-16872372.gif"
+        },
+        {
+          "id": "https://www.cnblogs.com/jyzhao/p/22531643",
+          "author": null,
+          "description": "为客户编写文档时，笔者需要在测试环境截图，却发现 kbot 无法使用 GPT-5.6。Embedding 模型正常，但 LLM 调用返回 500，于是围绕模型参数兼容性进行了排查。 01 | 问题不在模型配置，而在请求参数 前端APEX的这个500错误之前也遇到过，但实际这是个通用的错误，跟上次原因",
+          "link": "https://www.cnblogs.com/jyzhao/p/22531643",
+          "publishedOn": "2026-08-17T16:05:00.000Z",
+          "wordCount": 492,
+          "title": "kbot 适配 GPT-5.6：一次参数兼容性排查 - AlfredZhao",
+          "imageUrl": "https://img2024.cnblogs.com/blog/635610/202608/635610-20260818000448236-308294252.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/qiuhom-1874/p/22156711",
+          "author": null,
+          "description": "单体（Monolith）：所有功能打包成一个程序、一个进程，一次部署全部功能，共用一套数据库；微服务（Microservice）：按业务拆成多个独立小服务，每个服务独立进程、独立部署、可单独扩缩容，服务间通过 RPC/HTTP/ 消息队列通信。",
+          "link": "https://www.cnblogs.com/qiuhom-1874/p/22156711",
+          "publishedOn": "2026-08-17T15:05:00.000Z",
+          "wordCount": 3748,
+          "title": "分布式链路追踪系统之skywalking 追踪案例 - Linux-1874",
+          "imageUrl": "https://img2024.cnblogs.com/blog/1503305/202607/1503305-20260719234035782-1964648795.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/fanliang11/p/22531297",
+          "author": null,
+          "description": "一、概述 传统.NET 项目中，AI 大模型往往作为外部服务调用，业务微服务与大模型割裂，面临接口调试复杂、数据外传、部署链路冗长、多语言运维成本高等一系列难题。Surging AI Agent基于 Surging 分布式微服务引擎原生打造，把本地私有化大模型、向量 RAG 检索、微服务业务能力、智",
+          "link": "https://www.cnblogs.com/fanliang11/p/22531297",
+          "publishedOn": "2026-08-17T14:47:00.000Z",
+          "wordCount": 414,
+          "title": "Surging AI Agent：.NET 生态原生智能微服务引擎，让大模型与业务微服务融为一体 - fanly11",
+          "imageUrl": "https://img2024.cnblogs.com/blog/192878/202608/192878-20260817224953229-535819366.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/InCerry/p/-/dotnet_week_26_7_4",
+          "author": null,
+          "description": "C# .NET 周刊｜2026年7月4期 2026-07-26 dotnet_week_26_7_4 国内文章 从 WinForms 到 Vue：我为什么决定在 Web 上重做一套完整的 GUI 框架 https://www.cnblogs.com/hailin-zheng/p/21796169 作",
+          "link": "https://www.cnblogs.com/InCerry/p/-/dotnet_week_26_7_4",
+          "publishedOn": "2026-08-17T14:25:00.000Z",
+          "wordCount": 644,
+          "title": "C# .NET 周刊｜2026年7月4期 - InCerry",
+          "imageUrl": "https://img2024.cnblogs.com/blog/997046/202608/997046-20260817222316030-963033110.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/shanyou/p/22530540",
+          "author": null,
+          "description": "AI 时代的语言之争，不该默认只在 Go 和 Rust 之间选边。 C# 有资格上桌，而且按 Google 自己的那把尺子，它带的分量一点都不轻。",
+          "link": "https://www.cnblogs.com/shanyou/p/22530540",
+          "publishedOn": "2026-08-17T13:52:00.000Z",
+          "wordCount": 784,
+          "title": "Google 官方下场安利：Go 是 AI 时代的\"理想语言\"？其实 C# 更有资格坐这个位置 - 张善友",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/ishoulgodo/p/22508190",
+          "author": null,
+          "description": "ASCII码值 在go中，定义字符使用单引号 字符在实际的项目中使用的并不多哈. &#39;&#39; 单引号 → 只能括1个字符(rune),如果定义多个字符会报错的哈； package main import ( &quot;fmt&quot; ) // 入口函数 func main() { // 自定义一个字符a var a =",
+          "link": "https://www.cnblogs.com/ishoulgodo/p/22508190",
+          "publishedOn": "2026-08-17T12:58:00.000Z",
+          "wordCount": 652,
+          "title": "go语言中的字符 - 何人陪我共长生",
+          "imageUrl": "https://img2024.cnblogs.com/blog/1972489/202608/1972489-20260816204616703-757310133.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/rossiXYZ/p/22432201",
+          "author": null,
+          "description": "# 【Agent OS / AIOS】AOHP 深度解读：当 OS 开始为 Agent 而设计 目录0x00 摘要0x01 问题：Agent 为什么在传统 OS 上&quot;水土不服&quot;1.1 传统 OS 的根本假设1.2 Agent 的工作模式与 传统OS 的错配1.3 核心矛盾1.4 设计原则0x02 总",
+          "link": "https://www.cnblogs.com/rossiXYZ/p/22432201",
+          "publishedOn": "2026-08-17T12:45:00.000Z",
+          "wordCount": 3441,
+          "title": "【Agent OS / AIOS】AOHP 深度解读：当 OS 开始为 Agent 而设计 - 罗西的思考",
+          "imageUrl": "https://img2024.cnblogs.com/blog/1850883/202608/1850883-20260801113021556-1594846912.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/pprof/p/22529721",
+          "author": null,
+          "description": "最近遇到一个很有代表性的网络问题： 同一台电脑上，https://www.google.com/ 可以正常打开，但 https://www.flextv.cc/ 无法访问。 看到这种现象，很多人的第一反应是“FlexTV 网站挂了”。但“某个网站打不开”只是表象，真正的故障可能发生在 DNS、TCP",
+          "link": "https://www.cnblogs.com/pprof/p/22529721",
+          "publishedOn": "2026-08-17T12:05:00.000Z",
+          "wordCount": 2017,
+          "title": "一次“Google 能打开，FlexTV 打不开”的 DNS 故障排查：从 curl 超时到完整证据链 - sudebao点com",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/lhy-dev/p/22527132",
+          "author": null,
+          "description": "以前以为是运维的事所以就草草看了一遍就完事了，真开发的时候不懂多一点和运维沟通那是真有点折磨啊，故重新捡起来学一遍。 一、Nginx 是什么？ Nginx 是一个高性能的 Web 服务器，也可以作为反向代理服务器、负载均衡器、静态资源服务器使用。 可以先把 Nginx 理解成一个“请求入口”。用户访",
+          "link": "https://www.cnblogs.com/lhy-dev/p/22527132",
+          "publishedOn": "2026-08-17T10:15:00.000Z",
+          "wordCount": 1080,
+          "title": "Nginx 入门使用指南 - 江鸟Dev",
+          "imageUrl": "https://img2024.cnblogs.com/blog/3788330/202608/3788330-20260817171513449-1435086373.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/rls/p/22526814",
+          "author": null,
+          "description": "经典蓝牙的媒体音量与通话音量是两套独立机制： A2DP 和 SCO/eSCO 负责承载音频； 音量控制分别由 AVRCP Absolute Volume 与 HFP Remote Audio Volume Control 完成。 1.1 机制对比 项目 媒体音量（A2DP 播放） 通话音量（SCO/",
+          "link": "https://www.cnblogs.com/rls/p/22526814",
+          "publishedOn": "2026-08-17T09:28:00.000Z",
+          "wordCount": 585,
+          "title": "经典蓝牙音量同步机制 - rls_v",
+          "imageUrl": "https://img2024.cnblogs.com/blog/1371863/202608/1371863-20260817172644131-1976843766.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/wyt1/p/22522170",
+          "author": null,
+          "description": "1.引入：树和图的关系 图：由节点和边组成的结构，边可以有方向（有向图）也可以没有方向（无向图） 树：一种特殊的图——连通且无环的无向图 换句话说，树是最简单的图。树有\\(N\\)个节点和\\(N-1\\)条边，任意两个节点之间有且仅有一条简单路径。 正因为树的这种特殊性质，很多图上的问题在树上会变得简单",
+          "link": "https://www.cnblogs.com/wyt1/p/22522170",
+          "publishedOn": "2026-08-17T07:24:00.000Z",
+          "wordCount": 842,
+          "title": "从图到树：9道洛谷基础题带你入门树形结构 - _wyt001",
+          "imageUrl": "https://img2024.cnblogs.com/blog/3799445/202608/3799445-20260817141655726-285286037.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/Qiniu-developer/p/22521692",
+          "author": null,
+          "description": "本期「周一上线」聚焦AI纵深演进：模型与Agent加速迈向长程任务与真实场景；资本与公司关系重构，Manus回归独立、林俊旸创立语用科技、NVIDIA联合华尔街撬动5000亿美元AI基建。开发者持续“整活”，硬核又有趣。",
+          "link": "https://www.cnblogs.com/Qiniu-developer/p/22521692",
+          "publishedOn": "2026-08-17T07:10:00.000Z",
+          "wordCount": 895,
+          "title": "Grok 4.6 连着 Bot 一起发，Manus 恢复独立，NVIDIA 拉来 5000 亿美元 - 小七-七牛开发者",
+          "imageUrl": "https://img2024.cnblogs.com/blog/3796273/202608/3796273-20260817150942516-544373998.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/12lisu/p/22521174",
+          "author": null,
+          "description": "前言 最近这几天，DeepSeek Harness火得一塌糊涂。 发布当晚GitHub仓库公开不到两小时，Star数就破万了，12小时内突破了5万星。 但很多人装上Harness之后，发现了一个问题——界面太素了。 默认的dsh web就是一个纯聊天框，没有文件树、没有终端、没有Git面板、没有任务",
+          "link": "https://www.cnblogs.com/12lisu/p/22521174",
+          "publishedOn": "2026-08-17T06:55:00.000Z",
+          "wordCount": 545,
+          "title": "DeepSeek Harness必装的10个插件 - 苏三说技术",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/zjdxr-up/p/22520803",
+          "author": null,
+          "description": "一、什么是 maxRepetitions？ maxRepetitions 是 SNMP GETBULK 操作中的一个重要参数，它指定了在单个 SNMP 请求报文中，最多可以返回多少个变量绑定（Variable Bindings）。 在 snmpwalk 中的体现 snmpwalk -v2c -c p",
+          "link": "https://www.cnblogs.com/zjdxr-up/p/22520803",
+          "publishedOn": "2026-08-17T06:44:00.000Z",
+          "wordCount": 818,
+          "title": "SNMP Walk 中的 maxRepetitions 详解 - 未来AI笔记",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/Vortex31/p/22519830",
+          "author": null,
+          "description": "WP汇总 奶龙杯，这个名字真不错哈哈哈哈 我很喜欢。。。 以下是我做的四道pwn题的WP，要是有那部分讲解不清或是存在知识错误的，欢迎各位师傅指正！ 奶龙杯 - 复仇奶龙已归来(PWN) 1. 题目概述 不愧是复仇奶龙归来！！！！！！！ 题目类型：Binary Exploitation (PWN /",
+          "link": "https://www.cnblogs.com/Vortex31/p/22519830",
+          "publishedOn": "2026-08-17T06:14:00.000Z",
+          "wordCount": 2150,
+          "title": "奶龙杯WP汇总(pwn) - Vortex31",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/IwishIcould/p/22519046",
+          "author": null,
+          "description": "str.split(&#39;/&#39;); 以正斜杠“/”为分隔符；将原字符串分割成若干子串，并以数组形式返回。 怎么记忆呢？sp就是分割；lit就是列表的意思；分割成列表转换为数组 const str = &#39;home/user/docs/file.txt&#39;; const arr = str.split(&#39;/&#39;",
+          "link": "https://www.cnblogs.com/IwishIcould/p/22519046",
+          "publishedOn": "2026-08-17T05:49:00.000Z",
+          "wordCount": 551,
+          "title": "js中arr.slice截取数组中的一段元素，组成一个新数组返回 - 南风晚来晚相识",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/lsjwq/p/22518750",
+          "author": null,
+          "description": "iNeuOS_Vision&#183;视觉分析是面向工业现场的机器视觉模型训练与应用管理平台，围绕数据标注、数据管理、模型训练、模型管理、模型测试、视觉分析和告警管理形成完整闭环。升级内容：（1）增加实例分割的SAM3自动标注。（2）数据标注工具增加AI自动标注功能。",
+          "link": "https://www.cnblogs.com/lsjwq/p/22518750",
+          "publishedOn": "2026-08-17T05:26:00.000Z",
+          "wordCount": 323,
+          "title": "iNeuOS_Vision_视觉分析，增加SAM3模型对实例分割和目标检测AI自动标注图片样本功能 - iNeuOS工业互联网系统",
+          "imageUrl": "https://img2024.cnblogs.com/blog/279374/202608/279374-20260817132307515-1191548932.png"
+        },
         {
           "id": "https://www.cnblogs.com/huangliujing/p/22512977",
           "author": null,
@@ -25864,6 +26424,26 @@
       "feedUrl": "http://h1.nobbd.de/reports_rss.xml",
       "siteUrl": "http://h1.nobbd.de/",
       "articles": [
+        {
+          "id": "https://hackerone.com/reports/3620006",
+          "author": null,
+          "description": "Monero disclosed a bug submitted by usagirabbit: https://hackerone.com/reports/3620006",
+          "link": "https://hackerone.com/reports/3620006",
+          "publishedOn": "2026-08-17T09:16:13.000Z",
+          "wordCount": 25,
+          "title": "Wallet RPC Restricted-Mode Policy Bypass",
+          "imageUrl": "https://profile-photos.hackerone-user-content.com/variants/000/007/731/55634f7fcd917725c7a5771cc6e7c9b4d5fe0c22_original.png/f0e07660005686ec92c43da54c0094c1ac1b490ea8c5eac04a4081d912d6ce36"
+        },
+        {
+          "id": "https://hackerone.com/reports/3601469",
+          "author": null,
+          "description": "Monero disclosed a bug submitted by usagirabbit: https://hackerone.com/reports/3601469",
+          "link": "https://hackerone.com/reports/3601469",
+          "publishedOn": "2026-08-17T09:16:00.000Z",
+          "wordCount": 25,
+          "title": "Restricted RPC Policy Bypass on ZMQ JSON-RPC Allows Unauthenticated Remote Admin Actions",
+          "imageUrl": "https://profile-photos.hackerone-user-content.com/variants/000/007/731/55634f7fcd917725c7a5771cc6e7c9b4d5fe0c22_original.png/f0e07660005686ec92c43da54c0094c1ac1b490ea8c5eac04a4081d912d6ce36"
+        },
         {
           "id": "https://hackerone.com/reports/3799010",
           "author": null,
