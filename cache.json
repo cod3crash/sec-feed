@@ -4510,6 +4510,66 @@
       "siteUrl": "https://medium.com/tag/bugbounty/latest?source=rss------bugbounty-5",
       "articles": [
         {
+          "id": "https://medium.com/p/b56e51846ce8",
+          "author": "Hossein Zarei",
+          "description": "A while ago, I was testing a website for XSS vulnerabilities. After going through several parts of the application, I eventually reached…\nContinue reading on Medium »",
+          "link": "https://medium.com/@hossein.za68/from-a-contact-form-to-rce-how-i-found-blind-php-code-injection-b56e51846ce8?source=rss------bugbounty-5",
+          "publishedOn": "2026-08-19T21:47:04.000Z",
+          "wordCount": null,
+          "title": "From a Contact Form to RCE: How I Found Blind PHP Code Injection",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/4c6bd63aa4a8",
+          "author": "b0dj0x",
+          "description": "A real walkthrough of how IDOR bugs get found in bug bounty, plus the exact methodology, tools, and testing steps to start finding them…\nContinue reading on Medium »",
+          "link": "https://medium.com/@b0dj0x/how-to-find-idor-vulnerabilities-in-bug-bounty-4c6bd63aa4a8?source=rss------bugbounty-5",
+          "publishedOn": "2026-08-19T20:18:39.000Z",
+          "wordCount": null,
+          "title": "How to Find IDOR Vulnerabilities in Bug Bounty",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/811896c60907",
+          "author": "s0larpunk",
+          "description": "obs: este artigo foi escrito a partir de um programa de bug bounty autorizado. Todas as informações que possam identificar o alvo (domínio…\nContinue reading on Medium »",
+          "link": "https://medium.com/@s0larpunk/sql-injection-em-order-by-sem-autentica%C3%A7%C3%A3o-contornando-o-waf-com-case-when-e-subqueries-em-uma-811896c60907?source=rss------bugbounty-5",
+          "publishedOn": "2026-08-19T19:28:53.000Z",
+          "wordCount": null,
+          "title": "SQL Injection em ORDER BY sem autenticação: contornando o WAF com CASE WHEN e subqueries em uma…",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/54c743b0478e",
+          "author": "redhunter01",
+          "description": "TL;DR: An internal employee-facing platform was protected by Entra/MSAL authentication at the frontend, but several backend API endpoints…\nContinue reading on Medium »",
+          "link": "https://medium.com/@redhunter01/unauthenticated-access-to-internal-employee-content-through-unprotected-api-endpoints-54c743b0478e?source=rss------bugbounty-5",
+          "publishedOn": "2026-08-19T18:56:51.000Z",
+          "wordCount": null,
+          "title": "Unauthenticated Access to Internal Employee Content Through Unprotected API Endpoints",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/986571a9986d",
+          "author": "Abhishek meena",
+          "description": "30-second version: I let Claude test the same website two times.\nContinue reading on Medium »",
+          "link": "https://medium.com/@Aacle/i-tested-the-same-site-with-claude-twice-the-focused-prompt-found-5-xss-the-big-prompt-missed-986571a9986d?source=rss------bugbounty-5",
+          "publishedOn": "2026-08-19T18:40:28.000Z",
+          "wordCount": null,
+          "title": "I Tested the Same Site With Claude Twice. The Focused Prompt Found 5 XSS the Big Prompt Missed.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/16ba29c3c50c",
+          "author": "CypherNova1337",
+          "description": "Part 1 ended with the door identified: CVE-2008-3681, a password-reset bug in Joomla 1.5.0, proven but not yet executed. Part 2 is the…\nContinue reading on Medium »",
+          "link": "https://cyphernova1337.medium.com/this-is-how-a-hacker-hacks-part-2-through-the-admin-door-16ba29c3c50c?source=rss------bugbounty-5",
+          "publishedOn": "2026-08-19T16:43:15.000Z",
+          "wordCount": null,
+          "title": "This Is How a Hacker Hacks: Part 2 — Through the Admin Door",
+          "imageUrl": null
+        },
+        {
           "id": "https://medium.com/p/8632760ebc2a",
           "author": "4osp3l",
           "description": "Yoo, it’s been a while since I published a write-up.\nContinue reading on Medium »",
@@ -9766,6 +9826,36 @@
       "feedUrl": "https://medium.com/feed/tag/redteam",
       "siteUrl": "https://medium.com/tag/redteam/latest?source=rss------redteam-5",
       "articles": [
+        {
+          "id": "https://medium.com/p/970fe94871d3",
+          "author": "Bhanuprathap Reddy",
+          "description": "Hello! It’s Part 2 of the LLM Goat series. In this blog I’m going to walk you through the following:\nContinue reading on Medium »",
+          "link": "https://avahack.medium.com/llm-goat-prompt-injection-970fe94871d3?source=rss------redteam-5",
+          "publishedOn": "2026-08-19T06:55:22.000Z",
+          "wordCount": null,
+          "title": "LLM Goat — Prompt Injection",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/8eae2d4ea737",
+          "author": "0xtb | Tyrrell",
+          "description": "I spent the entire year reviving an abandoned Nim-based Mythic agent. This is the dev log: the architecture changes, the silent failures…\nContinue reading on Medium »",
+          "link": "https://0xtb.medium.com/nimbus-dragging-nimplant-into-mythic-3-4-8eae2d4ea737?source=rss------redteam-5",
+          "publishedOn": "2026-08-19T04:21:56.000Z",
+          "wordCount": null,
+          "title": "Nimbus: Dragging Nimplant into Mythic 3.4",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/be1ba8235660",
+          "author": "Gordon Long, aka AsaurusRex",
+          "description": "As I recently gave a talk on this topic at Red Team Village at DEFCON, and people have been asking for slides, I decided to write this…\nContinue reading on Medium »",
+          "link": "https://medium.com/@marcusthebrody/extension-hollowing-abusing-chromes-extension-trust-model-be1ba8235660?source=rss------redteam-5",
+          "publishedOn": "2026-08-19T03:47:17.000Z",
+          "wordCount": null,
+          "title": "Extension Hollowing: Abusing Chrome’s Extension Trust Model",
+          "imageUrl": null
+        },
         {
           "id": "https://medium.com/p/98061679b922",
           "author": "Md. Imran Chowdhury",
@@ -15584,6 +15674,21 @@
       "siteUrl": "https://blog.elcomsoft.com",
       "articles": [
         {
+          "id": "https://blog.elcomsoft.com/?p=13685",
+          "author": "Oleg Afonin",
+          "description": "In simple terms a write blocker sits between the original drive or device and your forensic workstation and stops any write commands from getting through, while letting you read every bit. Along with checksums, write blockers help maintaining chain of custody, ensuring that the imaging step is repeatable and verifiable. Hardware write blockers are physical […]",
+          "link": "https://blog.elcomsoft.com/2026/08/write-blockers-in-forensics-what-controls-how-you-use-them/",
+          "publishedOn": "2026-08-19T06:44:58.000Z",
+          "wordCount": 2016,
+          "title": "Write Blockers in Forensics: What Controls How You Use Them?",
+          "enclosure": {
+            "url": "https://blog.elcomsoft.com/wp-content/uploads/2024/08/sata-blocker.jpg",
+            "length": "204011",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://blog.elcomsoft.com/wp-content/uploads/2024/08/sata-blocker.jpg"
+        },
+        {
           "id": "https://blog.elcomsoft.com/?p=13631",
           "author": "Oleg Afonin",
           "description": "iOS 27 and iPadOS 27, currently in beta, add a bootable recovery menu to the iPhone and iPad. Hold the power button while the device starts up and you land in a small pre-boot environment with six options, one of which is the old “connect to computer” recovery mode. This is the same idea Apple […]",
@@ -16078,6 +16183,206 @@
       "feedUrl": "https://feed.cnblogs.com/blog/sitehome/rss",
       "siteUrl": null,
       "articles": [
+        {
+          "id": "https://www.cnblogs.com/xiexj/p/22582646",
+          "author": null,
+          "description": "上周三，我写一个功能，AI 20 分钟就写完了。我很开心。 然后我花了两个小时，检查它到底在哪儿埋了雷。 那天到家十一点。我老公问我：不是说 AI 帮你干活吗，你怎么比它没来的时候还晚？ 我张了张嘴，没答上来。 这篇就是我那天没答上来的答案——AI 到底把我省下的时间，偷到哪儿去了。 我想了很久，总",
+          "link": "https://www.cnblogs.com/xiexj/p/22582646",
+          "publishedOn": "2026-08-20T01:09:00.000Z",
+          "wordCount": 344,
+          "title": "AI 帮我省下的时间，最后全用来给它擦屁股了 - 编程一生",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/jinjiangongzuoshi/p/22582374",
+          "author": null,
+          "description": "上周 AI 圈的火药味，大家应该都闻到了。 8 月 13 号，ZCode 全面升级；紧接着，8 月 14 号，智谱发布了最新旗舰模型 GLM-5.3。 一天之隔，模型和 Agent 工具同时出手——智谱这是把&quot;组合拳&quot;直接明牌了。 其实在这之前，很多小伙伴用 GLM 模型，都是借助 Claude C",
+          "link": "https://www.cnblogs.com/jinjiangongzuoshi/p/22582374",
+          "publishedOn": "2026-08-20T00:41:00.000Z",
+          "wordCount": 648,
+          "title": "智谱GLM-5.3+ZCode Agent，真实项目第一手实测！ - 狂师",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/shenchuanchao/p/22568176/deepseek-harness-one-click-launcher-no-coding",
+          "author": null,
+          "description": "DeepSeek Harness 近期火爆，但网上教程全是命令行，劝退非技术用户。本一键启动器封装所有复杂步骤：无黑窗、无命令、自动下载 Node.js 和组件，图形界面引导，3 分钟跑起。关闭启动器界面不影响后台服务，另有专用停止快捷方式。适合不懂编程的普通用户，安全可控。",
+          "link": "https://www.cnblogs.com/shenchuanchao/p/22568176/deepseek-harness-one-click-launcher-no-coding",
+          "publishedOn": "2026-08-20T00:10:00.000Z",
+          "wordCount": 550,
+          "title": "DeepSeek Harness 爆火但安装劝退？一键启动器来了，不懂编程也能用 - 码农刚子",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/polipolu/p/22581926",
+          "author": null,
+          "description": "一句话介绍：这是一个 DSH 插件，让你在发送键旁边拥有模型 Provider 快速配置 + 截图 + 上传 + 读图 Agent + 媒体展示台 + 历史搜索的完整闭环。 项目：https://github.com/lo2589/deepseek-harness-meida.git DeepSee",
+          "link": "https://www.cnblogs.com/polipolu/p/22581926",
+          "publishedOn": "2026-08-19T23:07:00.000Z",
+          "wordCount": 543,
+          "title": "给 DeepSeek Harness 装上「多媒体工作台」：一键截图、上传、读图、管理对话中的音视频文件 - 九里九里",
+          "imageUrl": "https://img2024.cnblogs.com/blog/2025950/202608/2025950-20260820065246498-579133009.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/myvin/p/22225828",
+          "author": null,
+          "description": "网页中的装修风险如何转换成可下载、可转发的中文 PDF？解析 RenoPit 使用 ReportLab 构建评分卡、风险卡片、合同审查、增项预测、跨文档核查和设计图章节的过程。",
+          "link": "https://www.cnblogs.com/myvin/p/22225828",
+          "publishedOn": "2026-08-19T15:47:00.000Z",
+          "wordCount": 525,
+          "title": "装闭 RenoPit 源码解析（13）：生成AI装修闭坑PDF报告 - fthux",
+          "imageUrl": "https://img2024.cnblogs.com/blog/779193/202608/779193-20260804233953925-183821980.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/hnzhengfy/p/22556221/GenerativeAI_AIGC_Multimodal",
+          "author": null,
+          "description": "本文将主要介绍 生成式 AI（Generative AI）、AIGC（Artificial Intelligence Generated Content 人工智能生成内容）、多模态（Multimodal）这三个概念，供参考。",
+          "link": "https://www.cnblogs.com/hnzhengfy/p/22556221/GenerativeAI_AIGC_Multimodal",
+          "publishedOn": "2026-08-19T14:30:00.000Z",
+          "wordCount": 967,
+          "title": "生成式 AI、AIGC、多模态--AI 相关概念之（大模型与生成式 AI） - 橙子家",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/test-shirley/p/22579807",
+          "author": null,
+          "description": "在云服务器上部署 WeKnora 后无法在本地查看 Swagger 文档 1. 检查服务运行模式 WeKnora 的 Swagger UI 默认只在开发模式 (debug) 下开启，而在生产模式 (release) 下会出于安全考虑被关闭。 检查当前模式：登录到你的云服务器，在 WeKnora 项目",
+          "link": "https://www.cnblogs.com/test-shirley/p/22579807",
+          "publishedOn": "2026-08-19T14:26:00.000Z",
+          "wordCount": 857,
+          "title": "在云服务器上部署 WeKnora 后无法在本地查看 Swagger 文档-已解决 - 测试木可",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/rockey627/p/22579720",
+          "author": null,
+          "description": "一 简介 1、AScript AScript是一个开源的C#动态脚本解析执行引擎，支持自定义语法，支持扩展多种脚本语言（目前已支持C#/Python3/SQL/JavaScript/Lua五种语言），支持解释执行和编译执行两种执行模式，并且支持编译缓存，以适配不同场景下对性能的要求。 目前官方最新版",
+          "link": "https://www.cnblogs.com/rockey627/p/22579720",
+          "publishedOn": "2026-08-19T14:03:00.000Z",
+          "wordCount": 2241,
+          "title": "C#脚本引擎之AScript与Flee对比 - rockey627",
+          "imageUrl": "https://img2024.cnblogs.com/blog/417450/202608/417450-20260819214916145-1787182521.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/rossiXYZ/p/22432445",
+          "author": null,
+          "description": "【OpenClaw具身硬件】MiniClaw 阅读笔记 (4) 文件读写 目录【OpenClaw具身硬件】MiniClaw 阅读笔记 (4) 文件读写0x00 概要0x01 Read file &amp; RAG1.1 经典RAG的工作方式1.2 MimiClaw反过来：LLM是检索的发起者1.3 为什么这",
+          "link": "https://www.cnblogs.com/rossiXYZ/p/22432445",
+          "publishedOn": "2026-08-19T13:37:00.000Z",
+          "wordCount": 960,
+          "title": "【OpenClaw具身硬件】MiniClaw 阅读笔记---(4) 文件读写 - 罗西的思考",
+          "imageUrl": "https://img2024.cnblogs.com/blog/1850883/202608/1850883-20260809140833296-1106317044.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/hellojackyleon/p/22579339",
+          "author": null,
+          "description": "大家好，我是老张。 前段时间在群里看到一张 vibe coding 的工作流图（10 步从想法到上线），看完特别受启发——能把&quot;做产品&quot;这件事提炼成 10 步可执行的流程，本身就很厉害。 感谢分享这张图的朋友，给了我们一个很好的行动框架。 我最近做的 4 个 AI 项目——博客、国学板块、博客后台、",
+          "link": "https://www.cnblogs.com/hellojackyleon/p/22579339",
+          "publishedOn": "2026-08-19T12:52:00.000Z",
+          "wordCount": 1058,
+          "title": "别再瞎写提示词了：一个运维老哥的 Vibe Coding 10 步实战流 - 厚德载物_VIP",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/jyzhao/p/22579144",
+          "author": null,
+          "description": "Skill 可以理解为一套可复用的工作说明，用来告诉 AI 在特定任务中该如何行动、遵循哪些规则。 例如，gstack/office-hours/SKILL.md 表示一个位于 gstack 项目中、名为 office-hours 的 Skill 说明文件。SKILL.md 通常用于定义该能力的用途",
+          "link": "https://www.cnblogs.com/jyzhao/p/22579144",
+          "publishedOn": "2026-08-19T12:29:00.000Z",
+          "wordCount": 439,
+          "title": "Skill 的使用：从路径到能力边界 - AlfredZhao",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/jilodream/p/22574172",
+          "author": null,
+          "description": "k8s服务是什么？ 在了解本块内容之前，你需要对k8s由一个前期的了解包括pod/标签/副本集 不了解的同学可以参考前文： k8s 实战 1 初识 （https://www.cnblogs.com/jilodream/p/18245222）k8s 实战 2 pod 基础 (https://www.c",
+          "link": "https://www.cnblogs.com/jilodream/p/22574172",
+          "publishedOn": "2026-08-19T08:39:00.000Z",
+          "wordCount": 1070,
+          "title": "k8s 实战5----服务service （svc） - 王若伊_恩赐解脱",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/JuiceData/p/22574140",
+          "author": null,
+          "description": "在大规模 AI 推理服务中，当集群扩容时，新增推理实例从创建到承接请求，需要经历容器镜像准备、文件系统挂载、运行环境与推理框架初始化、模型权重加载等一系列冷启动过程。随着镜像体积和模型权重规模不断增长，数据准备的耗时日益突出；大规模扩容时，大量实例同时启动，还会进一步增加 Registry、网络和后",
+          "link": "https://www.cnblogs.com/JuiceData/p/22574140",
+          "publishedOn": "2026-08-19T08:38:00.000Z",
+          "wordCount": 849,
+          "title": "Nydus + JuiceFS：AI 推理容器镜像加载从 116 秒降至 1.4 秒 - JuiceFS",
+          "imageUrl": "https://img2024.cnblogs.com/blog/2544292/202608/2544292-20260819163725878-648983701.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/mengyingblog/p/22572062",
+          "author": null,
+          "description": "@目录前言一、数据类型(1) 数值类型1、tinyint类型2、bit类型(2) 小数类型1、float2、decimal(3) 字符串类型1、char2、varchar3、char与varchar区别(4) 日期类型(5) enum和set二、表的约束(1) 空属性(2) 默认值 default(",
+          "link": "https://www.cnblogs.com/mengyingblog/p/22572062",
+          "publishedOn": "2026-08-19T07:44:00.000Z",
+          "wordCount": 460,
+          "title": "MySQL基础教程——数据类型与表的约束 - _梦影",
+          "imageUrl": "https://img2024.cnblogs.com/blog/3677342/202608/3677342-20260819154142429-1853116460.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/LyShark/p/22549291",
+          "author": null,
+          "description": "为解决大模型外部工具调用、上下文传递标准不统一、适配混乱的痛点，本文基于 MCP 模型上下文协议，使用轻量化 FastMCP 构建 MCP 服务端，借助 langchain‑mcp‑adapters 完成与 LangChain 生态集成。文章介绍 Streamable HTTP 传输模式的适配场景，...",
+          "link": "https://www.cnblogs.com/LyShark/p/22549291",
+          "publishedOn": "2026-08-19T07:43:00.000Z",
+          "wordCount": 2495,
+          "title": "LangChain+FastMCP 搭建大模型工具调用服务 - lyshark",
+          "imageUrl": "https://img2024.cnblogs.com/blog/1379525/202608/1379525-20260819110534339-656030605.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/didispace/p/22569863",
+          "author": null,
+          "description": "OctaFuse Gateway 2.6.0 重点完善项目级 Vertex AI 的服务账号鉴权与文生图计费，让供应商接入、分时定价和异常请求扣费更明确、更容易核验。 管理后台同步优化了路由编辑、Playground 和 Simulator，并新增 BytePlus、阿里云百炼国际站、Meta Mo",
+          "link": "https://www.cnblogs.com/didispace/p/22569863",
+          "publishedOn": "2026-08-19T06:39:00.000Z",
+          "wordCount": 499,
+          "title": "OctaFuse Gateway 2.6.0：完善 Vertex AI 鉴权、图片计费与日常调试 - 程序猿DD",
+          "imageUrl": "https://img2024.cnblogs.com/blog/626506/202608/626506-20260819143742010-783946381.webp"
+        },
+        {
+          "id": "https://www.cnblogs.com/ShoreKiten/p/22569533",
+          "author": null,
+          "description": "本文探讨了路由投毒攻击的原理与实践案例，重点分析了应用层场景下的Spring Cloud Gateway攻击路径。文章首先定义了路由相关基础概念，包括路由表、动态更新机制和信任边界等核心要素，随后详细阐述了路由投毒的两种类型及其攻击原理（网络层与应用层）。通过一个实际案例复盘，展示了如何利用未授权的...",
+          "link": "https://www.cnblogs.com/ShoreKiten/p/22569533",
+          "publishedOn": "2026-08-19T06:29:00.000Z",
+          "wordCount": 1529,
+          "title": "从 Actuator 未授权到应用层路由投毒：记一次 Spring Cloud Gateway 动态路由渗透实录 - ShoreKiten",
+          "imageUrl": "https://img2024.cnblogs.com/blog/3768710/202608/3768710-20260819142314814-1510901111.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/Qiniu-developer/p/22568396",
+          "author": null,
+          "description": "DeepSeek Harness 是一款“一切皆插件”的开源Agent执行框架，聚焦长任务可靠运行：通过可替换的Loop机制、按需暴露的工具Schema、动态管理的上下文、事件驱动的持久状态、分层权限控制及多维验证体系，解决任务中断、约束丢失、上下文污染与验收失真等核心痛点。",
+          "link": "https://www.cnblogs.com/Qiniu-developer/p/22568396",
+          "publishedOn": "2026-08-19T05:54:00.000Z",
+          "wordCount": 770,
+          "title": "DeepSeek Harness 设计解析：从 Agent Harness 的六个关键决策讲起 - 小七-七牛开发者",
+          "imageUrl": "https://img2024.cnblogs.com/blog/3796273/202608/3796273-20260819135340817-1497806946.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/zhhhanry/p/22567522",
+          "author": null,
+          "description": "1.牧场行走 题目： 有\\(N(2≤N≤1000)\\)头奶牛.编号为1到N.它们正在同样编号为I到N的牧场上行走。为了方便.我们假设编号为i的牛恰好在第i号牧场上。有一些牧场间每两个牧场用一条双向道路相连，道路总共有N-1条。 奶牛可以在这些道路上行走，第i条道路把第\\(A_i\\)个牧场和第\\(B_",
+          "link": "https://www.cnblogs.com/zhhhanry/p/22567522",
+          "publishedOn": "2026-08-19T04:36:00.000Z",
+          "wordCount": 520,
+          "title": "图论最短路径题目题解 - zhhhanry",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/xiexj/p/22567518",
+          "author": null,
+          "description": "评审会上有一幕，做过复杂需求的人都见过。方案推到墙角了，谁都没有更好的法子，我们把用户某些操作可能引起的问题摆上桌，得到的回复是五个字： &quot;用户不会这么用。&quot; 会议室一般会安静两秒。不是被说服了，是这话没法反驳。它不是论点，是预言，而预言只能等开奖。 《程序员应知的 97 件事》里有一篇，标题就是答",
+          "link": "https://www.cnblogs.com/xiexj/p/22567518",
+          "publishedOn": "2026-08-19T04:35:00.000Z",
+          "wordCount": 288,
+          "title": "产品说\"用户不会这么用\"，我的告警群先笑了 - 编程一生",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
         {
           "id": "https://www.cnblogs.com/jazz-z/p/22561516",
           "author": null,
