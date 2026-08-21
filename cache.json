@@ -6,6 +6,86 @@
       "siteUrl": "http://h1.nobbd.de/",
       "articles": [
         {
+          "id": "https://hackerone.com/reports/3819475",
+          "author": null,
+          "description": "Monero disclosed a bug submitted by lilpeko: https://hackerone.com/reports/3819475",
+          "link": "https://hackerone.com/reports/3819475",
+          "publishedOn": "2026-08-20T23:51:18.000Z",
+          "wordCount": 25,
+          "title": "Monero GUI OpenAlias DNSSEC-invalid resolution still writes spoofable address into recipient field",
+          "imageUrl": "https://profile-photos.hackerone-user-content.com/variants/000/007/731/55634f7fcd917725c7a5771cc6e7c9b4d5fe0c22_original.png/f0e07660005686ec92c43da54c0094c1ac1b490ea8c5eac04a4081d912d6ce36"
+        },
+        {
+          "id": "https://hackerone.com/reports/3686283",
+          "author": null,
+          "description": "Monero disclosed a bug submitted by qttps: https://hackerone.com/reports/3686283",
+          "link": "https://hackerone.com/reports/3686283",
+          "publishedOn": "2026-08-20T23:49:45.000Z",
+          "wordCount": 25,
+          "title": "View-only offline transaction creation bypasses the long-payment-ID privacy block",
+          "imageUrl": "https://profile-photos.hackerone-user-content.com/variants/000/007/731/55634f7fcd917725c7a5771cc6e7c9b4d5fe0c22_original.png/f0e07660005686ec92c43da54c0094c1ac1b490ea8c5eac04a4081d912d6ce36"
+        },
+        {
+          "id": "https://hackerone.com/reports/3679471",
+          "author": null,
+          "description": "Monero disclosed a bug submitted by fg0x0: https://hackerone.com/reports/3679471",
+          "link": "https://hackerone.com/reports/3679471",
+          "publishedOn": "2026-08-20T23:49:03.000Z",
+          "wordCount": 25,
+          "title": "HTML Injection in Transaction Confirmation Dialog via Address Book Description Enables UI Spoofing Before Fund Transfer",
+          "imageUrl": "https://profile-photos.hackerone-user-content.com/variants/000/007/731/55634f7fcd917725c7a5771cc6e7c9b4d5fe0c22_original.png/f0e07660005686ec92c43da54c0094c1ac1b490ea8c5eac04a4081d912d6ce36"
+        },
+        {
+          "id": "https://hackerone.com/reports/3619409",
+          "author": null,
+          "description": "Monero disclosed a bug submitted by qttps: https://hackerone.com/reports/3619409",
+          "link": "https://hackerone.com/reports/3619409",
+          "publishedOn": "2026-08-20T23:47:52.000Z",
+          "wordCount": 25,
+          "title": "Windows installer grants low-privileged users write access to executable P2Pool directory, enabling local code execution",
+          "imageUrl": "https://profile-photos.hackerone-user-content.com/variants/000/007/731/55634f7fcd917725c7a5771cc6e7c9b4d5fe0c22_original.png/f0e07660005686ec92c43da54c0094c1ac1b490ea8c5eac04a4081d912d6ce36"
+        },
+        {
+          "id": "https://hackerone.com/reports/3648638",
+          "author": null,
+          "description": "Monero disclosed a bug submitted by qttps: https://hackerone.com/reports/3648638",
+          "link": "https://hackerone.com/reports/3648638",
+          "publishedOn": "2026-08-20T23:47:45.000Z",
+          "wordCount": 25,
+          "title": "monero:// deeplink parsing accepts tx_amount=(all) and can trigger send-all transaction mode",
+          "imageUrl": "https://profile-photos.hackerone-user-content.com/variants/000/007/731/55634f7fcd917725c7a5771cc6e7c9b4d5fe0c22_original.png/f0e07660005686ec92c43da54c0094c1ac1b490ea8c5eac04a4081d912d6ce36"
+        },
+        {
+          "id": "https://hackerone.com/reports/3515557",
+          "author": null,
+          "description": "Monero disclosed a bug submitted by k-privacy-enjoyer: https://hackerone.com/reports/3515557",
+          "link": "https://hackerone.com/reports/3515557",
+          "publishedOn": "2026-08-20T23:47:36.000Z",
+          "wordCount": 25,
+          "title": "Loss of multisig funds through single malicious participant's deliberate deception",
+          "imageUrl": "https://profile-photos.hackerone-user-content.com/variants/000/007/731/55634f7fcd917725c7a5771cc6e7c9b4d5fe0c22_original.png/f0e07660005686ec92c43da54c0094c1ac1b490ea8c5eac04a4081d912d6ce36"
+        },
+        {
+          "id": "https://hackerone.com/reports/3852135",
+          "author": null,
+          "description": "Rocket.Chat disclosed a bug submitted by iamaangx028: https://hackerone.com/reports/3852135",
+          "link": "https://hackerone.com/reports/3852135",
+          "publishedOn": "2026-08-20T19:54:20.000Z",
+          "wordCount": 25,
+          "title": "DDP methods getThreadsList / getThreadMessages leaks private thread content to any authenticated low privilege user (unpatched sibling of #1446767)",
+          "imageUrl": "https://profile-photos.hackerone-user-content.com/variants/000/019/858/ada6c92a338715afad123af214dd6e22fd8dc6ff_original.png/f0e07660005686ec92c43da54c0094c1ac1b490ea8c5eac04a4081d912d6ce36"
+        },
+        {
+          "id": "https://hackerone.com/reports/3872858",
+          "author": null,
+          "description": "Rocket.Chat disclosed a bug submitted by hillng: https://hackerone.com/reports/3872858",
+          "link": "https://hackerone.com/reports/3872858",
+          "publishedOn": "2026-08-20T19:18:46.000Z",
+          "wordCount": 25,
+          "title": "Stored HTML Injection (CWE-79) via Livechat Visitor Name",
+          "imageUrl": "https://profile-photos.hackerone-user-content.com/variants/000/019/858/ada6c92a338715afad123af214dd6e22fd8dc6ff_original.png/f0e07660005686ec92c43da54c0094c1ac1b490ea8c5eac04a4081d912d6ce36"
+        },
+        {
           "id": "https://hackerone.com/reports/3620006",
           "author": null,
           "description": "Monero disclosed a bug submitted by usagirabbit: https://hackerone.com/reports/3620006",
@@ -4509,6 +4589,106 @@
       "feedUrl": "https://medium.com/feed/tag/bugbounty",
       "siteUrl": "https://medium.com/tag/bugbounty/latest?source=rss------bugbounty-5",
       "articles": [
+        {
+          "id": "https://medium.com/p/7aea054aee4c",
+          "author": "mehvetero",
+          "description": "We weren’t strangers, really. Just two people who kept running into each other in the same Discord channels, complaining about contests…\nContinue reading on Medium »",
+          "link": "https://medium.com/@mehvetero/what-bug-bounty-entry-fees-really-filter-noise-or-the-broke-7aea054aee4c?source=rss------bugbounty-5",
+          "publishedOn": "2026-08-20T23:34:49.000Z",
+          "wordCount": null,
+          "title": "What Bug Bounty Entry Fees Really Filter: Noise, or the Broke?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/af97b2ca5901",
+          "author": "0xrphy",
+          "description": "How I used GLM 5.2 multi-agent orchestration, contextual framing, and pressure prompting to produce 40+ structured vulnerability reports…\nContinue reading on Medium »",
+          "link": "https://0xrphy.medium.com/orchestrating-ai-agents-for-large-scale-vulnerability-assessment-how-i-won-1st-place-at-bmkg-bug-af97b2ca5901?source=rss------bugbounty-5",
+          "publishedOn": "2026-08-20T22:03:17.000Z",
+          "wordCount": null,
+          "title": "Orchestrating AI Agents for Large-Scale Vulnerability Assessment: How I Won 1st Place at BMKG Bug…",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/ca585c920407",
+          "author": "redhunter01",
+          "description": "Introduction\nContinue reading on Medium »",
+          "link": "https://medium.com/@redhunter01/from-unauthenticated-upload-to-stored-xss-breaking-a-production-s3-upload-flow-ca585c920407?source=rss------bugbounty-5",
+          "publishedOn": "2026-08-20T19:30:06.000Z",
+          "wordCount": null,
+          "title": "From Unauthenticated Upload to Stored XSS: Breaking a Production S3 Upload Flow",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/cb50fd769df9",
+          "author": "Muneebahmedkhan",
+          "description": "Spoof a Host header at a site you’re authorized to test, read the routing error a hardened edge returns, and run the reflection check that…\nContinue reading on Medium »",
+          "link": "https://medium.com/@muneebahmedkhan0903/testing-for-host-header-injection-with-curl-cb50fd769df9?source=rss------bugbounty-5",
+          "publishedOn": "2026-08-20T19:07:12.000Z",
+          "wordCount": null,
+          "title": "Testing for Host Header Injection With curl",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/c3109a285e70",
+          "author": "Shivam Bathla",
+          "description": "A tale of a a twisted Arbitrary File Read I encountered during one of my client engagements and how I went about exploiting it.\nContinue reading on Medium »",
+          "link": "https://medium.com/@shivam_bathla/a-tale-of-twisted-arbitrary-file-read-c3109a285e70?source=rss------bugbounty-5",
+          "publishedOn": "2026-08-20T19:04:55.000Z",
+          "wordCount": null,
+          "title": "A tale of twisted Arbitrary File Read",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/8ca7a601dc84",
+          "author": "0xvar",
+          "description": "“قَالَ اللَّهُ تَعَالَى: “يَرْفَعِ اللَّهُ الَّذِينَ آمَنُوا مِنكُمْ وَالَّذِينَ أُوتُوا الْعِلْمَ دَرَجَاتٍ ۚ وَاللَّهُ بِمَا تَعْمَلُونَ…\nContinue reading on Medium »",
+          "link": "https://medium.com/@0xvar/how-i-got-rce-through-a-simple-collaboration-invitation-in-a-desktop-application-8ca7a601dc84?source=rss------bugbounty-5",
+          "publishedOn": "2026-08-20T18:51:36.000Z",
+          "wordCount": null,
+          "title": "How I Got RCE Through a Simple Collaboration Invitation in a Desktop Application",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/d44fbdb854b5",
+          "author": "Divyanshu Chaudhary",
+          "description": "Continue reading on Medium »",
+          "link": "https://medium.com/@divyanshukr4246/best-books-for-bug-hunting-and-penetration-testing-d44fbdb854b5?source=rss------bugbounty-5",
+          "publishedOn": "2026-08-20T17:50:59.000Z",
+          "wordCount": null,
+          "title": "Best Books for Bug Hunting and Penetration Testing",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/e51036c6043c",
+          "author": "CypherNova1337",
+          "description": "Continue reading on Medium »",
+          "link": "https://cyphernova1337.medium.com/how-an-unsecured-api-endpoint-exposed-5-200-global-bank-records-e51036c6043c?source=rss------bugbounty-5",
+          "publishedOn": "2026-08-20T16:49:15.000Z",
+          "wordCount": null,
+          "title": "How an Unsecured API Endpoint Exposed 5,200+ Global Bank Records",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/73881458563b",
+          "author": "Richie A Herreria",
+          "description": "What a pre-submission question revealed about the gap between responsible disclosure, testing authorization, and reward eligibility\nContinue reading on Medium »",
+          "link": "https://medium.com/@richieaherreria/when-a-telecom-finding-falls-outside-a-bug-bountys-listed-scope-73881458563b?source=rss------bugbounty-5",
+          "publishedOn": "2026-08-20T13:33:36.000Z",
+          "wordCount": null,
+          "title": "When a Telecom Finding Falls Outside a Bug Bounty’s Listed Scope",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/b14d1c0d402a",
+          "author": "Priyansh",
+          "description": "When you look at a bug bounty scope with massive enterprise root domains, it’s easy to get overwhelmed. Most hunters will fire off their…\nContinue reading on Medium »",
+          "link": "https://medium.com/@priyanshbhadoria5/authentication-vs-authorization-how-a-misconfigured-oauth-chain-led-to-an-auth-bypass-b14d1c0d402a?source=rss------bugbounty-5",
+          "publishedOn": "2026-08-20T12:59:22.000Z",
+          "wordCount": null,
+          "title": "Authentication vs. Authorization: How a Misconfigured OAuth Chain Led to an Auth Bypass",
+          "imageUrl": null
+        },
         {
           "id": "https://medium.com/p/b56e51846ce8",
           "author": "Hossein Zarei",
@@ -9826,6 +10006,86 @@
       "feedUrl": "https://medium.com/feed/tag/redteam",
       "siteUrl": "https://medium.com/tag/redteam/latest?source=rss------redteam-5",
       "articles": [
+        {
+          "id": "https://medium.com/p/256b2b3db4bd",
+          "author": "Safiullah Khan",
+          "description": "Part 2 of 9 — AI Security Series Part 1: I Red-Teamed an AI Banking Chatbot on AWS\nContinue reading on Medium »",
+          "link": "https://securitywithblue.medium.com/how-i-broke-a-rag-pipeline-through-its-own-documents-256b2b3db4bd?source=rss------redteam-5",
+          "publishedOn": "2026-08-20T23:52:11.000Z",
+          "wordCount": null,
+          "title": "How I Broke a RAG Pipeline Through Its Own Documents",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/8602b1fc583b",
+          "author": "Mayank Sahu",
+          "description": "A few years back, on a pentest engagement, I stumbled into one of those moments every pentester lives for. You know the one — where a…\nContinue reading on Medium »",
+          "link": "https://medium.com/@mayanksahu_22156/from-an-ssrf-to-oh-no-i-own-your-whole-cloud-how-i-built-cloudmeta-bof-8602b1fc583b?source=rss------redteam-5",
+          "publishedOn": "2026-08-20T22:18:14.000Z",
+          "wordCount": null,
+          "title": "From an SSRF to “Oh no, I own your whole cloud” — How I Built CloudMeta BOF",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/eaec4a2bd58a",
+          "author": "5kullk3r",
+          "description": "Disclaimer: The reflections, personal meltdowns, and thoughts shared in this article belong strictly to me. Your mileage, preparation…\nContinue reading on System Weakness »",
+          "link": "https://systemweakness.com/trekking-the-red-team-path-my-experience-with-cwls-certified-red-team-specialist-v2-exam-eaec4a2bd58a?source=rss------redteam-5",
+          "publishedOn": "2026-08-20T21:01:01.000Z",
+          "wordCount": null,
+          "title": "Trekking the Red Team Path: My Experience with CWL’s Certified Red Team Specialist v2 Exam",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/016b35d1175d",
+          "author": "Ryan Bentz",
+          "description": "The scarce resource in AI-assisted security isn’t generation. It’s verification. Whether you’re red or blue.\nContinue reading on Medium »",
+          "link": "https://medium.com/@rtyp3/faster-not-smarter-the-defenders-half-016b35d1175d?source=rss------redteam-5",
+          "publishedOn": "2026-08-20T19:57:23.000Z",
+          "wordCount": null,
+          "title": "Faster, Not Smarter: The Defender’s Half",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/2eeac0f7c32c",
+          "author": "Safiullah Khan",
+          "description": "Part 1 of 9 — AI Security Series\nContinue reading on Medium »",
+          "link": "https://securitywithblue.medium.com/i-red-teamed-an-ai-banking-chatbot-on-aws-heres-what-i-found-2eeac0f7c32c?source=rss------redteam-5",
+          "publishedOn": "2026-08-20T18:55:36.000Z",
+          "wordCount": null,
+          "title": "I Red-Teamed an AI Banking Chatbot on AWS — Here’s What I Found",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/8ca7a601dc84",
+          "author": "0xvar",
+          "description": "“قَالَ اللَّهُ تَعَالَى: “يَرْفَعِ اللَّهُ الَّذِينَ آمَنُوا مِنكُمْ وَالَّذِينَ أُوتُوا الْعِلْمَ دَرَجَاتٍ ۚ وَاللَّهُ بِمَا تَعْمَلُونَ…\nContinue reading on Medium »",
+          "link": "https://medium.com/@0xvar/how-i-got-rce-through-a-simple-collaboration-invitation-in-a-desktop-application-8ca7a601dc84?source=rss------redteam-5",
+          "publishedOn": "2026-08-20T18:51:36.000Z",
+          "wordCount": null,
+          "title": "How I Got RCE Through a Simple Collaboration Invitation in a Desktop Application",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/7313e0b77a97",
+          "author": "Eazer Infra",
+          "description": "A prospect database tells you who a company is.\nContinue reading on Medium »",
+          "link": "https://medium.com/@eazer.emp.ai/why-real-time-intent-changes-the-economics-of-ai-prospecting-7313e0b77a97?source=rss------redteam-5",
+          "publishedOn": "2026-08-20T11:02:06.000Z",
+          "wordCount": null,
+          "title": "Why Real-Time Intent Changes the Economics of AI Prospecting",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/76921bee7281",
+          "author": "Md. Imran Chowdhury",
+          "description": "In this installment of the “🔒 Mastering Modern Red Teaming Infrastructure” series, we explore setting up and securing mail services for…\nContinue reading on Medium »",
+          "link": "https://imrantheexploithunter.medium.com/%EF%B8%8Fsecuring-mail-services-with-dns-records-and-opsec-for-bypassing-mail-security-gateways-red-76921bee7281?source=rss------redteam-5",
+          "publishedOn": "2026-08-20T03:51:32.000Z",
+          "wordCount": null,
+          "title": "️Securing Mail Services with DNS Records and OPSEC for Bypassing Mail Security Gateways Red…",
+          "imageUrl": null
+        },
         {
           "id": "https://medium.com/p/970fe94871d3",
           "author": "Bhanuprathap Reddy",
@@ -16183,6 +16443,206 @@
       "feedUrl": "https://feed.cnblogs.com/blog/sitehome/rss",
       "siteUrl": null,
       "articles": [
+        {
+          "id": "https://www.cnblogs.com/simanL/p/22607817",
+          "author": null,
+          "description": "在現代大型商業空間、建材展廳與賣場運維中，傳統照明系統面臨著佈線複雜、手動運維成本高以及缺乏動態節能機制等痛點。本文從物聯網（IoT）系統架構的角度出發，探討如何利用無線通訊協議、前端傳感網絡與後端分組調光算法，構建一套穩定、高效且具備無損升級能力的商用智能照明控制系統。 一、 引言與傳統照明系統的",
+          "link": "https://www.cnblogs.com/simanL/p/22607817",
+          "publishedOn": "2026-08-21T01:28:00.000Z",
+          "wordCount": 301,
+          "title": "基於物聯網與無線通訊的商用照明智能控制系統架構設計與實現 - simanL",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/jyzhao/p/22605952",
+          "author": null,
+          "description": "处理文本长度时，很多人最常见的困惑就是：听说中文要占 3 个字节？那英文单词怎么算的？Oracle 的 VARCHAR2 好像给的挺大，但貌似还没存那么多就报错长度不够存了？ 其实，关键就在于要先区分清楚三种不同的“长度”代表的含义。 01 | Unicode 码位数 三种长度，含义有所不同，其中",
+          "link": "https://www.cnblogs.com/jyzhao/p/22605952",
+          "publishedOn": "2026-08-20T22:37:00.000Z",
+          "wordCount": 583,
+          "title": "Unicode 码位数、UTF-8 字节数、中英文差异和 Oracle 长度别再混淆了 - AlfredZhao",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/donpangpang/p/22605216",
+          "author": null,
+          "description": "Clasp：一个带插件系统的 .NET 10 命令行工具箱 本文基于开源项目 Clasp（MIT License）撰写，介绍其架构设计、插件系统与工程实践。 引言 在开发工作中，我们常常需要一堆散落的小工具：查 DNS、看端口、转 Base64、解 JWT、算哈希……每个都去装一个独立的命令行工具，",
+          "link": "https://www.cnblogs.com/donpangpang/p/22605216",
+          "publishedOn": "2026-08-20T19:49:00.000Z",
+          "wordCount": 663,
+          "title": "Clasp：一个带插件系统的 .NET 10 命令行工具箱 - 胖纸不争",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/mianmaner/p/22604686",
+          "author": null,
+          "description": "同济 + 上海 AI Lab + 港中文 + 南大 + 上交的工作，目前挂在 Arxiv 26.03 上。当前多智能体系统（MAS）的记忆设计普遍存在两个瓶颈：记忆同质化（缺乏角色感知的定制）和信息过载（记忆条目过于细碎冗长）。本文提出 LatentMem，一个可学习的隐空间多智能体记忆框架：用一个",
+          "link": "https://www.cnblogs.com/mianmaner/p/22604686",
+          "publishedOn": "2026-08-20T18:20:00.000Z",
+          "wordCount": 785,
+          "title": "\"LatentMem: Customizing Latent Memory for Multi-Agent Systems\" 论文笔记 - 绵满",
+          "imageUrl": "https://img2024.cnblogs.com/blog/3614753/202608/3614753-20260821021308770-1568641605.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/shanyou/p/22602322",
+          "author": null,
+          "description": "从 7 月 31 日的 DSV4（284B）到 8 月 19 日的 GLM-5.2（744B），TensorSharp 在三周内把纯 .NET 推理栈的承载上限抬高了 2.6 倍，且保持了对 llama.cpp 的逐 token 对齐传统",
+          "link": "https://www.cnblogs.com/shanyou/p/22602322",
+          "publishedOn": "2026-08-20T13:52:00.000Z",
+          "wordCount": 1410,
+          "title": "TensorSharp 最新进展研究报告：从 DeepSeek V4 Flash 到 GLM-5.2，以及等待中的 GLM-5.3 - 张善友",
+          "imageUrl": "https://img2024.cnblogs.com/blog/510/202608/510-20260820214914490-150835459.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/kkkk11/p/22601957",
+          "author": null,
+          "description": "同一个任务，要求 Agent 搜索某个 API 的最新用法并写成摘要，可能跑出三条轨迹： search -&gt; summarize search -&gt; read -&gt; summarize webfetch -&gt; summarize 哪一条才算对？ 答案可能是，三条都对。只要 Agent 读取了权威来源",
+          "link": "https://www.cnblogs.com/kkkk11/p/22601957",
+          "publishedOn": "2026-08-20T13:13:00.000Z",
+          "wordCount": 529,
+          "title": "Agent 评测到底测什么：任务、结果、轨迹与工具调用 - 程序员龙叔",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/qq21497936/p/22601743",
+          "author": null,
+          "description": "前言 本篇主要是Qt5.15.2+VS2019x64+VTK9.1.0源码编译流程。 这里注意我们走的是C++技术流，对内存、性能和交互实时性是我们承担研制开发项目和产品所追求的。 版本区分 根据网上搜索的，整理一下：根据网上搜索的，整理一下： Qt5.9.2 + VS2017 x64 + VTK8",
+          "link": "https://www.cnblogs.com/qq21497936/p/22601743",
+          "publishedOn": "2026-08-20T12:55:00.000Z",
+          "wordCount": 655,
+          "title": "VTK开发笔记（十）：VTK介绍，Qt5.15.2+VS2019x64+VTK9.1编译 - 长沙红胖子Qt·西安",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/hegezhou_hot/p/22601595",
+          "author": null,
+          "description": "RAG（检索增强生成）是NL2SQL准确率从60%跃升到95%的核心技术。但&quot;RAG&quot;不是一个单一技术，而是一个多维度的知识注入体系。本文深度拆解鲲溟智能的四维RAG架构——Schema RAG、Knowledge RAG、Few-shot RAG、Context RAG，从原理、数据结构、检索策略",
+          "link": "https://www.cnblogs.com/hegezhou_hot/p/22601595",
+          "publishedOn": "2026-08-20T12:31:00.000Z",
+          "wordCount": 807,
+          "title": "【AI问数·技术】四维RAG体系深度拆解：Schema/Knowledge/Few-shot/Context - KM_Albert",
+          "imageUrl": "https://img2024.cnblogs.com/blog/46256/202608/46256-20260820203123020-393321799.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/myvin/p/22225871",
+          "author": null,
+          "description": "没有后端也能体验 RenoPit，部署后还能实时诊断数据库、Redis、Celery 和 LLM。拆解 Mock API、健康检查仪表盘、Docker Compose、Nginx 代理与 SSE 生产配置。",
+          "link": "https://www.cnblogs.com/myvin/p/22225871",
+          "publishedOn": "2026-08-20T11:11:00.000Z",
+          "wordCount": 537,
+          "title": "装闭 RenoPit 源码解析（14）：Demo模式、健康检查与Docker部署 - fthux",
+          "imageUrl": "https://img2024.cnblogs.com/blog/779193/202608/779193-20260804234124472-1069326104.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/LyShark/p/22585260",
+          "author": null,
+          "description": "本文基于LangGraph会话记忆管理相关内容，聚焦对话持久化存储方案，以LangChain官方推荐的PostgreSQL数据库为载体，拆解Checkpointer检查点存储与Store通用长期存储两大核心体系。通过对比两套存储机制的底层逻辑、差异特点与适用场景，结合可运行实战代码，实现会话重启续聊...",
+          "link": "https://www.cnblogs.com/LyShark/p/22585260",
+          "publishedOn": "2026-08-20T10:17:00.000Z",
+          "wordCount": 1673,
+          "title": "LangGraph+PostgreSQL 会话记忆持久化存储 - lyshark",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/szbnl/p/22599192",
+          "author": null,
+          "description": "我的 A 股行情插件开源了，还带老板模式 写代码的时候总想瞄一眼行情。切浏览器、掏手机，都麻烦，还容易被误会成摸鱼。于是干脆给 VS Code 写了个插件，把自选股行情直接塞进侧边栏，工作界面里顺手就能看。 插件叫「A股速览」，完全开源，MIT 协议，零闭源组件，商用都没问题。 能干什么 实时行情：",
+          "link": "https://www.cnblogs.com/szbnl/p/22599192",
+          "publishedOn": "2026-08-20T09:43:00.000Z",
+          "wordCount": 362,
+          "title": "A 股行情插件开源了，还带老板模式 - 越千年",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/SheepDog/p/22598109",
+          "author": null,
+          "description": "Java 并发编程：ReentrantLock 公平锁与非公平锁深度解析 前言 在 Java 并发编程中，ReentrantLock 是 synchronized 关键字之外最常用的互斥锁实现。 相比 synchronized，它更加灵活：可以手动加锁解锁、尝试加锁、响应中断， 还可以选择公平模式或",
+          "link": "https://www.cnblogs.com/SheepDog/p/22598109",
+          "publishedOn": "2026-08-20T09:16:00.000Z",
+          "wordCount": 1334,
+          "title": "Java 并发编程：ReentrantLock 公平锁与非公平锁深度解析 - SheepDog1998",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/znlgis/p/22593954",
+          "author": null,
+          "description": "最近对我的 OpenCode &#215; DeepSeek 配置仓库做了一轮深度重构，核心目标只有一个：用最小的上下文成本维持最好的开发效率。这篇文章记录这次重构的思路、决策和落地细节。 背景：为什么需要重构 这套配置把 OpenCode Agent 框架与 DeepSeek V4 双模型（Pro + Fl",
+          "link": "https://www.cnblogs.com/znlgis/p/22593954",
+          "publishedOn": "2026-08-20T07:19:00.000Z",
+          "wordCount": 493,
+          "title": "OpenCode × DeepSeek 配置优化实战：一次「费用 和 Token 效率优先」的深度重构 - 我才是银古",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/Qiniu-developer/p/22592700",
+          "author": null,
+          "description": "Agent环境是其执行动作的外部世界，涵盖代码仓库、数据库、网页等动态对象。它决定Agent能观察什么、改变什么，并需持续验证状态变化是否符合预期，是任务落地的关键支撑。",
+          "link": "https://www.cnblogs.com/Qiniu-developer/p/22592700",
+          "publishedOn": "2026-08-20T06:54:00.000Z",
+          "wordCount": 622,
+          "title": "Agent 小知识｜Agent 环境工程：部分可观测性、状态转移与执行隔离 - 小七-七牛开发者",
+          "imageUrl": "https://img2024.cnblogs.com/blog/3796273/202608/3796273-20260820145344848-763021533.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/cnsharp/p/22590258",
+          "author": null,
+          "description": "YOLO: AI Agents Extender 一款 IntelliJ IDEA 插件,将本机安装的AI Agent CLI都嵌入到你的IDE中。 为你提供一个独立的 YOLO 面板 —— 一个专门的工具窗口(右侧,y 图标), 它列出你的 AI Agent CLI工具,并只需一次点击就在 IDE",
+          "link": "https://www.cnblogs.com/cnsharp/p/22590258",
+          "publishedOn": "2026-08-20T05:33:00.000Z",
+          "wordCount": 687,
+          "title": "YOLO：将AI Agents嵌入到IntelliJ IDEA - Cn#工作室",
+          "imageUrl": "https://img2024.cnblogs.com/blog/101187/202608/101187-20260820132943527-1125938940.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/shengzhang/p/22590111",
+          "author": null,
+          "description": "Sa-Token v1.46.0 版本更新发布。本版新增 Fory JSON、RestClient、独立 Redisson 等插件，并加固 SSO/OAuth2 重定向与 JSON 反序列化。完整变更见文内更新日志，升级前请核对不向下兼容项",
+          "link": "https://www.cnblogs.com/shengzhang/p/22590111",
+          "publishedOn": "2026-08-20T05:14:00.000Z",
+          "wordCount": 1445,
+          "title": "Sa-Token v1.46.0 发布 ，来看看有没有令你心动的功能！ - 程序员小风筝",
+          "imageUrl": "https://img2024.cnblogs.com/blog/1728223/202608/1728223-20260820131316377-1948945154.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/cpp-lin/p/22589741/FitCV",
+          "author": null,
+          "description": "上一篇推文介绍我通过vibe coding做了一个个人简历微调工具，这次我把它升级为开源的项目，面向广大求职者。 一、求职海投痛点 每投一个岗位都要改一遍简历：不同公司、不同 JD，侧重点完全不一样，手工改既慢又容易漏。 通用简历 vs 岗位 JD 不匹配：很多简历过不了初筛，不是因为能力不行，而是",
+          "link": "https://www.cnblogs.com/cpp-lin/p/22589741/FitCV",
+          "publishedOn": "2026-08-20T04:20:00.000Z",
+          "wordCount": 457,
+          "title": "FitCV：一个「只改文字、不动排版」的简历智能微调工具 - 郊游",
+          "imageUrl": "https://img2024.cnblogs.com/blog/3811618/202608/3811618-20260820133614997-1956764820.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/bbqq1314/p/22589098",
+          "author": null,
+          "description": "如果你最近关注国产 Coding Agent，一定绕不开 DSH（DeepSeek Harness） 这个名字。 它不是一个 App，而是一个类似 Claude Code 的官方 CLI + 运行时框架，核心特点是「一切皆插件」——基于 Cordis 插件系统 + profile 机制，官方能力和第",
+          "link": "https://www.cnblogs.com/bbqq1314/p/22589098",
+          "publishedOn": "2026-08-20T03:49:00.000Z",
+          "wordCount": 950,
+          "title": "DSH 插件第二弹生态全景：11 个插件，把 DeepSeek 变成一个完整的 Coding Agent 平台 - AI架构师",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/vivotech/p/22588067",
+          "author": null,
+          "description": "Octopus提出了一种基于无历史数据的梯度正交化（HiFGO）的两阶段持续学习框架，通过梯度层面的正交约束有效缓解了任务间的干扰，同时提出两阶段训练策略实现可塑性与稳定性的良好平衡。Octopus在UCIT基准上实现了当前最优性能（SOTA），Avg和Last指标分别超越现有最优方法 2.14% ...",
+          "link": "https://www.cnblogs.com/vivotech/p/22588067",
+          "publishedOn": "2026-08-20T03:17:00.000Z",
+          "wordCount": 475,
+          "title": "Octopus：基于无历史数据的梯度正交化的学习框架｜CVPR 2026 - vivo互联网技术",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/zrui-xyu/p/22587689",
+          "author": null,
+          "description": "订单重复提交本质是接口幂等问题，会由重复点击、网络重试、MQ 重投等场景触发。文章拆解前端 + 分布式 Token + 数据库唯一索引 + 定时对账四层防护，实战 AOP + 注解实现低侵入防重组件，借助 Redis 原子操作、Lua 脚本解决高并发竞态。覆盖分布式锁、状态机等方案选型，同时附带高频...",
+          "link": "https://www.cnblogs.com/zrui-xyu/p/22587689",
+          "publishedOn": "2026-08-20T03:08:00.000Z",
+          "wordCount": 1612,
+          "title": "如何避免订单重复提交 - Rain的Java大神实战圈",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
         {
           "id": "https://www.cnblogs.com/xiexj/p/22582646",
           "author": null,
@@ -27099,6 +27559,86 @@
       "feedUrl": "http://h1.nobbd.de/reports_rss.xml",
       "siteUrl": "http://h1.nobbd.de/",
       "articles": [
+        {
+          "id": "https://hackerone.com/reports/3819475",
+          "author": null,
+          "description": "Monero disclosed a bug submitted by lilpeko: https://hackerone.com/reports/3819475",
+          "link": "https://hackerone.com/reports/3819475",
+          "publishedOn": "2026-08-20T23:51:18.000Z",
+          "wordCount": 25,
+          "title": "Monero GUI OpenAlias DNSSEC-invalid resolution still writes spoofable address into recipient field",
+          "imageUrl": "https://profile-photos.hackerone-user-content.com/variants/000/007/731/55634f7fcd917725c7a5771cc6e7c9b4d5fe0c22_original.png/f0e07660005686ec92c43da54c0094c1ac1b490ea8c5eac04a4081d912d6ce36"
+        },
+        {
+          "id": "https://hackerone.com/reports/3686283",
+          "author": null,
+          "description": "Monero disclosed a bug submitted by qttps: https://hackerone.com/reports/3686283",
+          "link": "https://hackerone.com/reports/3686283",
+          "publishedOn": "2026-08-20T23:49:45.000Z",
+          "wordCount": 25,
+          "title": "View-only offline transaction creation bypasses the long-payment-ID privacy block",
+          "imageUrl": "https://profile-photos.hackerone-user-content.com/variants/000/007/731/55634f7fcd917725c7a5771cc6e7c9b4d5fe0c22_original.png/f0e07660005686ec92c43da54c0094c1ac1b490ea8c5eac04a4081d912d6ce36"
+        },
+        {
+          "id": "https://hackerone.com/reports/3679471",
+          "author": null,
+          "description": "Monero disclosed a bug submitted by fg0x0: https://hackerone.com/reports/3679471",
+          "link": "https://hackerone.com/reports/3679471",
+          "publishedOn": "2026-08-20T23:49:03.000Z",
+          "wordCount": 25,
+          "title": "HTML Injection in Transaction Confirmation Dialog via Address Book Description Enables UI Spoofing Before Fund Transfer",
+          "imageUrl": "https://profile-photos.hackerone-user-content.com/variants/000/007/731/55634f7fcd917725c7a5771cc6e7c9b4d5fe0c22_original.png/f0e07660005686ec92c43da54c0094c1ac1b490ea8c5eac04a4081d912d6ce36"
+        },
+        {
+          "id": "https://hackerone.com/reports/3619409",
+          "author": null,
+          "description": "Monero disclosed a bug submitted by qttps: https://hackerone.com/reports/3619409",
+          "link": "https://hackerone.com/reports/3619409",
+          "publishedOn": "2026-08-20T23:47:52.000Z",
+          "wordCount": 25,
+          "title": "Windows installer grants low-privileged users write access to executable P2Pool directory, enabling local code execution",
+          "imageUrl": "https://profile-photos.hackerone-user-content.com/variants/000/007/731/55634f7fcd917725c7a5771cc6e7c9b4d5fe0c22_original.png/f0e07660005686ec92c43da54c0094c1ac1b490ea8c5eac04a4081d912d6ce36"
+        },
+        {
+          "id": "https://hackerone.com/reports/3648638",
+          "author": null,
+          "description": "Monero disclosed a bug submitted by qttps: https://hackerone.com/reports/3648638",
+          "link": "https://hackerone.com/reports/3648638",
+          "publishedOn": "2026-08-20T23:47:45.000Z",
+          "wordCount": 25,
+          "title": "monero:// deeplink parsing accepts tx_amount=(all) and can trigger send-all transaction mode",
+          "imageUrl": "https://profile-photos.hackerone-user-content.com/variants/000/007/731/55634f7fcd917725c7a5771cc6e7c9b4d5fe0c22_original.png/f0e07660005686ec92c43da54c0094c1ac1b490ea8c5eac04a4081d912d6ce36"
+        },
+        {
+          "id": "https://hackerone.com/reports/3515557",
+          "author": null,
+          "description": "Monero disclosed a bug submitted by k-privacy-enjoyer: https://hackerone.com/reports/3515557",
+          "link": "https://hackerone.com/reports/3515557",
+          "publishedOn": "2026-08-20T23:47:36.000Z",
+          "wordCount": 25,
+          "title": "Loss of multisig funds through single malicious participant's deliberate deception",
+          "imageUrl": "https://profile-photos.hackerone-user-content.com/variants/000/007/731/55634f7fcd917725c7a5771cc6e7c9b4d5fe0c22_original.png/f0e07660005686ec92c43da54c0094c1ac1b490ea8c5eac04a4081d912d6ce36"
+        },
+        {
+          "id": "https://hackerone.com/reports/3852135",
+          "author": null,
+          "description": "Rocket.Chat disclosed a bug submitted by iamaangx028: https://hackerone.com/reports/3852135",
+          "link": "https://hackerone.com/reports/3852135",
+          "publishedOn": "2026-08-20T19:54:20.000Z",
+          "wordCount": 25,
+          "title": "DDP methods getThreadsList / getThreadMessages leaks private thread content to any authenticated low privilege user (unpatched sibling of #1446767)",
+          "imageUrl": "https://profile-photos.hackerone-user-content.com/variants/000/019/858/ada6c92a338715afad123af214dd6e22fd8dc6ff_original.png/f0e07660005686ec92c43da54c0094c1ac1b490ea8c5eac04a4081d912d6ce36"
+        },
+        {
+          "id": "https://hackerone.com/reports/3872858",
+          "author": null,
+          "description": "Rocket.Chat disclosed a bug submitted by hillng: https://hackerone.com/reports/3872858",
+          "link": "https://hackerone.com/reports/3872858",
+          "publishedOn": "2026-08-20T19:18:46.000Z",
+          "wordCount": 25,
+          "title": "Stored HTML Injection (CWE-79) via Livechat Visitor Name",
+          "imageUrl": "https://profile-photos.hackerone-user-content.com/variants/000/019/858/ada6c92a338715afad123af214dd6e22fd8dc6ff_original.png/f0e07660005686ec92c43da54c0094c1ac1b490ea8c5eac04a4081d912d6ce36"
+        },
         {
           "id": "https://hackerone.com/reports/3620006",
           "author": null,
