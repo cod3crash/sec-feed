@@ -6,6 +6,16 @@
       "siteUrl": "http://h1.nobbd.de/",
       "articles": [
         {
+          "id": "https://hackerone.com/reports/3952619",
+          "author": null,
+          "description": "curl disclosed a bug submitted by accl: https://hackerone.com/reports/3952619",
+          "link": "https://hackerone.com/reports/3952619",
+          "publishedOn": "2026-08-21T06:32:14.000Z",
+          "wordCount": 25,
+          "title": "Domainless COOKIEFILE cookie leaks to unrelated IP-literal hosts",
+          "imageUrl": "https://profile-photos.hackerone-user-content.com/variants/000/035/663/2faf4c279d437d64bfda6d23d62ce1833813a4d9_original.png/f0e07660005686ec92c43da54c0094c1ac1b490ea8c5eac04a4081d912d6ce36"
+        },
+        {
           "id": "https://hackerone.com/reports/3819475",
           "author": null,
           "description": "Monero disclosed a bug submitted by lilpeko: https://hackerone.com/reports/3819475",
@@ -4589,6 +4599,106 @@
       "feedUrl": "https://medium.com/feed/tag/bugbounty",
       "siteUrl": "https://medium.com/tag/bugbounty/latest?source=rss------bugbounty-5",
       "articles": [
+        {
+          "id": "https://medium.com/p/192948981ed6",
+          "author": "Un9nplayer",
+          "description": "While testing web applications, I kept running into the same small problem.\nContinue reading on Medium »",
+          "link": "https://medium.com/@jr.mayank1999/i-built-a-burp-suite-extension-because-i-was-tired-of-leaving-burp-192948981ed6?source=rss------bugbounty-5",
+          "publishedOn": "2026-08-21T23:01:45.000Z",
+          "wordCount": null,
+          "title": "I Built a Burp Suite Extension Because I Was Tired of Leaving Burp",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/cb9ff3d5b13a",
+          "author": "Taher",
+          "description": "So, after that “single quote + space + <b>” bug on this same AI chatbot platform (still can’t name them because of their policy), I kept…\nContinue reading on Medium »",
+          "link": "https://medium.com/@shabutaher0/breaking-the-free-tier-how-i-bypassed-an-ai-chat-limit-with-just-a-share-link-and-a-vpn-cb9ff3d5b13a?source=rss------bugbounty-5",
+          "publishedOn": "2026-08-21T17:59:36.000Z",
+          "wordCount": null,
+          "title": "Breaking The Free Tier: How I Bypassed An AI Chat Limit With Just A Share Link And A VPN",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/60354e4b2667",
+          "author": "Nitish Mukhiya",
+          "description": "How I approached 13 real-world access control vulnerabilities using nothing but Burp Suite, curiosity, and a habit of checking things…\nContinue reading on Medium »",
+          "link": "https://medium.com/@nitishmukhiya/broken-access-control-a-practical-walkthrough-of-13-portswigger-labs-60354e4b2667?source=rss------bugbounty-5",
+          "publishedOn": "2026-08-21T17:55:04.000Z",
+          "wordCount": null,
+          "title": "Broken Access Control: A Practical Walkthrough of 13 PortSwigger Labs",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/d7ab00e139c9",
+          "author": "Abhishek meena",
+          "description": "The biggest payout in HackerOne’s recorded history for disclosed report didn’t come from an exploit chain. No fuzzing farm, no months of…\nContinue reading on Medium »",
+          "link": "https://medium.com/@Aacle/i-analyzed-hackerones-100-biggest-payouts-ever-d7ab00e139c9?source=rss------bugbounty-5",
+          "publishedOn": "2026-08-21T17:22:12.000Z",
+          "wordCount": null,
+          "title": "I Analyzed HackerOne’s 100 Biggest Payouts Ever.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/f847412de4a4",
+          "author": "CypherNova1337",
+          "description": "Part 3 was four walls. This is the door that opened anyway — and the pivot that turned one compromised host into the university’s entire…\nContinue reading on Medium »",
+          "link": "https://cyphernova1337.medium.com/this-is-how-a-hacker-hacks-part-4-root-and-the-backup-server-that-gave-up-everything-f847412de4a4?source=rss------bugbounty-5",
+          "publishedOn": "2026-08-21T14:52:41.000Z",
+          "wordCount": null,
+          "title": "This Is How a Hacker Hacks: Part 4 — Root, and the Backup Server That Gave Up Everything",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/62efb5538e83",
+          "author": "N0aziXss",
+          "description": "Subtitle:\nContinue reading on Medium »",
+          "link": "https://medium.com/@N0aziXss/the-complete-bug-bounty-roadmap-from-zero-to-professional-62efb5538e83?source=rss------bugbounty-5",
+          "publishedOn": "2026-08-21T14:31:43.000Z",
+          "wordCount": null,
+          "title": "The Complete Bug Bounty Roadmap: From Zero to Professional",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/2e4b8e0fe242",
+          "author": "Ph",
+          "description": "Discover how web application reconnaissance helps identify attack surfaces through URLs, parameters, and application behavior.\nContinue reading on Medium »",
+          "link": "https://medium.com/@ph620095/web-app-reconnaissance-mapping-the-attack-surface-2e4b8e0fe242?source=rss------bugbounty-5",
+          "publishedOn": "2026-08-21T13:02:47.000Z",
+          "wordCount": null,
+          "title": "Web App Reconnaissance: Mapping the Attack Surface",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/0e3173ab3173",
+          "author": "Nitin yadav",
+          "description": "What’s up everyone! Nitin here 👋\nContinue reading on Medium »",
+          "link": "https://kd-200.medium.com/make-the-server-read-its-own-cloud-credentials-ssrf-0e3173ab3173?source=rss------bugbounty-5",
+          "publishedOn": "2026-08-21T11:31:01.000Z",
+          "wordCount": null,
+          "title": "Make the Server Read Its Own Cloud Credentials (SSRF)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/0934949d0888",
+          "author": "Very Lazy Tech",
+          "description": "Ever seen a job post for “Entry-Level Cybersecurity Analyst” demanding three years of experience, five certifications, and “expert”…\nContinue reading on Medium »",
+          "link": "https://medium.com/@verylazytech/15-entry-level-cybersecurity-jobs-and-the-skills-they-actually-require-0934949d0888?source=rss------bugbounty-5",
+          "publishedOn": "2026-08-21T10:25:46.000Z",
+          "wordCount": null,
+          "title": "15 Entry-Level Cybersecurity Jobs and the Skills They Actually Require",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/f4d35c5b7073",
+          "author": "wann4beSh3rl0ck",
+          "description": "A bug that allows sso silent login and loads an auth callback inside a hidden iframe rather than a full-page redirect. Normal login flows…\nContinue reading on Medium »",
+          "link": "https://medium.com/@koushaniot7/single-sign-on-sso-login-vulnerabilities-f4d35c5b7073?source=rss------bugbounty-5",
+          "publishedOn": "2026-08-21T10:25:18.000Z",
+          "wordCount": null,
+          "title": "Single Sign On (SSO) Login vulnerabilities",
+          "imageUrl": null
+        },
         {
           "id": "https://medium.com/p/7aea054aee4c",
           "author": "mehvetero",
@@ -10006,6 +10116,36 @@
       "feedUrl": "https://medium.com/feed/tag/redteam",
       "siteUrl": "https://medium.com/tag/redteam/latest?source=rss------redteam-5",
       "articles": [
+        {
+          "id": "https://medium.com/p/39f3351d9141",
+          "author": "Ryan  Ryan",
+          "description": "In this post, let’s go through managing scan results using Metasploit’s database. Covering everything from setup, workspaces, importing…\nContinue reading on FMI Cyber Security Consulting Services »",
+          "link": "https://medium.com/fmisec/managing-scan-results-in-metasploit-39f3351d9141?source=rss------redteam-5",
+          "publishedOn": "2026-08-21T10:55:32.000Z",
+          "wordCount": null,
+          "title": "Managing Scan Results in Metasploit",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/c8fb71cbb705",
+          "author": "Qasimov Davud",
+          "description": "​🕸️Active Directory (AD) remains the beating heart of most enterprise networks worldwide.\nContinue reading on Medium »",
+          "link": "https://medium.com/@qasimovdavud39/why-modern-active-directory-red-teaming-demands-a-shift-from-theory-to-execution-c8fb71cbb705?source=rss------redteam-5",
+          "publishedOn": "2026-08-21T09:41:30.000Z",
+          "wordCount": null,
+          "title": "Why Modern Active Directory Red Teaming Demands a Shift from Theory to Execution",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/a45bc0fe598f",
+          "author": "zeyneppcelikk",
+          "description": "Attacking Google Cloud — Part 3/ 7\nContinue reading on Medium »",
+          "link": "https://medium.com/@zeyneppcelikk/who-am-i-recon-enumeration-credential-hunting-a45bc0fe598f?source=rss------redteam-5",
+          "publishedOn": "2026-08-21T09:39:47.000Z",
+          "wordCount": null,
+          "title": "Who Am I? Recon, Enumeration & Credential Hunting",
+          "imageUrl": null
+        },
         {
           "id": "https://medium.com/p/256b2b3db4bd",
           "author": "Safiullah Khan",
@@ -15624,6 +15764,16 @@
       "siteUrl": "https://addxorrol.blogspot.com/",
       "articles": [
         {
+          "id": "https://addxorrol.blogspot.com/2026/08/three-important-steps-in-my-maturation.html",
+          "author": null,
+          "description": "My father passed recently, and he was twice my age. I am approximately the same age that he was when I was born, and I am now \"the old generation\" - there's no one left in the generation above me.\nAt the same time, I recently joined a company that skews younger-than-me. When I joined Google in 2011, I had just turned 30, and was in the mainstream demographics of Google in 2011. There were a bunch of more senior folks, with the very senior ones being in their 50s and having completed stints at Bell Labs. I admired a lot of these \"greybeards\" (even though this is a sexist term - what's the right female equivalent? There were a few very senior female engineers that I would love to include).\nSo perhaps it is natural that I am reflecting on \"what were the important realizations that I made sinc…",
+          "link": "https://addxorrol.blogspot.com/2026/08/three-important-steps-in-my-maturation.html",
+          "publishedOn": "2026-08-21T22:20:41.388Z",
+          "wordCount": 3923,
+          "title": "Three important steps in my maturation process",
+          "imageUrl": null
+        },
+        {
           "id": "https://addxorrol.blogspot.com/2026/06/rl-economics-morally-charged-terms-and.html",
           "author": null,
           "description": "After a number of Twitter discussions, and repeating myself a lot in these discussions, it is time to write a short note on the economics of advancing LLM capabilities through RL, about principles of propaganda and coining new words, and about my stubborn refusal to use the term \"distillation\" except in a specific narrow sense.\nHow do models advance when human-curated data has run out?\nIt's been a while since we ran out of human data to train LLMs on. We are training on copies of the internet, large piles of (originally pirated, then purchased-and-scanned-and-wholesale ingested) books, and whatever other data sources we can obtain. This leads to a certain performance plateau, as we haven't quite figured out how to make the models more data-efficient in training.\n\n\nThe advancements we have …",
@@ -15666,6 +15816,16 @@
       "feedUrl": "https://blog.sucuri.net/feed",
       "siteUrl": "https://blog.sucuri.net/",
       "articles": [
+        {
+          "id": "https://blog.sucuri.net/?p=36224",
+          "author": "Sucuri",
+          "description": "Each feature that you add to a website results in a new element that has to be managed.\nThe credentials are accepted by a login page, the data by a contact form, new code is introduced by a plugin, and an API is used to connect your website to another service. It is also possible that an old staging site or a forgotten backup may still be accessible from the internet.\nThe collection of these exposed components constitutes your website attack surface.\nContinue reading What Is a Website Attack Surface? A Beginner’s Guide to Reducing Risk at Sucuri Blog.",
+          "link": "https://blog.sucuri.net/2026/08/what-is-a-website-attack-surface-a-beginners-guide-to-reducing-risk.html",
+          "publishedOn": "2026-08-19T20:06:49.000Z",
+          "wordCount": 2720,
+          "title": "What Is a Website Attack Surface? A Beginner’s Guide to Reducing Risk",
+          "imageUrl": "https://blog.sucuri.net/wp-content/uploads/2026/08/What-Is-a-Website-Attack-Surface.png"
+        },
         {
           "id": "https://blog.sucuri.net/?p=36212",
           "author": "Luke Herbrandson",
@@ -16443,6 +16603,206 @@
       "feedUrl": "https://feed.cnblogs.com/blog/sitehome/rss",
       "siteUrl": null,
       "articles": [
+        {
+          "id": "https://www.cnblogs.com/k-hengzhou/p/22627986",
+          "author": null,
+          "description": "面向数学建模新手的入门第一课：以经典鸡兔同笼问题为引，用流程图直观拆解问题分析、模型假设、符号说明、建立模型、求解分析与验证的完整闭环，帮你快速建立数学建模的整体思维框架，为后续建模与参赛打下基础",
+          "link": "https://www.cnblogs.com/k-hengzhou/p/22627986",
+          "publishedOn": "2026-08-22T01:28:00.000Z",
+          "wordCount": 678,
+          "title": "数学建模第一课：从鸡兔同笼问题谈数学建模的基本流程 - majorArcs",
+          "imageUrl": "https://img2024.cnblogs.com/blog/3840373/202608/3840373-20260822092532567-424508077.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/xiexj/p/22627413",
+          "author": null,
+          "description": "上个月带学员做 Agent 项目，验收前一晚，一个学员来找我：AI 把功能全写完了，可现在改一处崩一处，不敢动了。 我没看代码，先问了三个问题：评测集呢？bad case 错题本呢？这周删过代码吗？ 三连否。 我说行，这不是工程问题，是负责方式的问题——不是打击谁，是先把地图摊开。然后我从书架上抽出",
+          "link": "https://www.cnblogs.com/xiexj/p/22627413",
+          "publishedOn": "2026-08-22T00:47:00.000Z",
+          "wordCount": 476,
+          "title": "AI 都会写代码了，我为什么还逼学员读一本 2010 年的旧书？ - 编程一生",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/rockey627/p/22627381",
+          "author": null,
+          "description": "一 简介 1、AScript AScript是一个开源的C#动态脚本解析执行引擎，支持自定义语法，支持扩展多种脚本语言（目前已支持C#/Python3/SQL/JavaScript/Lua五种语言），支持解释执行和编译执行两种执行模式，并且支持编译缓存，以适配不同场景下对性能的要求。 目前官方最新版",
+          "link": "https://www.cnblogs.com/rockey627/p/22627381",
+          "publishedOn": "2026-08-22T00:41:00.000Z",
+          "wordCount": 1144,
+          "title": "C#脚本引擎之AScript与DynamicExpresso对比 - rockey627",
+          "imageUrl": "https://img2024.cnblogs.com/blog/417450/202608/417450-20260822083314215-1949210662.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/noear/p/22626471",
+          "author": null,
+          "description": "SolonCode Web 聊天界面的&quot;Re-run&quot;和&quot;Continue&quot;按钮功能对比。&quot;Re-run&quot;会删除旧回复并用相同输入重新生成回答，适用于AI回答错误时；&quot;Continue&quot;保留旧回复并追加新内容，适用于回答中断的情况。两者通过runId机制保持对话连贯性，在Web、CLI和IM平台均可...",
+          "link": "https://www.cnblogs.com/noear/p/22626471",
+          "publishedOn": "2026-08-21T23:42:00.000Z",
+          "wordCount": 617,
+          "title": "SolonCode 的两个\"后悔药\"：重新运行 vs 继续运行 - 带刺的坐椅",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/jyzhao/p/21385620",
+          "author": null,
+          "description": "知识库上传文件后，解析流程不一定失败在文件本身。有时日志只暴露出“保存分块失败”，真正的问题却在数据库对象状态上。笔者环境中，这次问题最终定位到 Oracle 表上的 Domain Index 处于 failed 状态。 01 | 先用小文件复现问题 为了快速验证，笔者先用一个小文件复现。上传后，解",
+          "link": "https://www.cnblogs.com/jyzhao/p/21385620",
+          "publishedOn": "2026-08-21T22:19:00.000Z",
+          "wordCount": 624,
+          "title": "知识库文件解析失败：一次由 Domain Index 引发的定位记录 - AlfredZhao",
+          "imageUrl": "https://img2024.cnblogs.com/blog/635610/202607/635610-20260712174811122-1984939206.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/myvin/p/22357387",
+          "author": null,
+          "description": "GitZip Pro 是一款开源的 GitHub 选择性下载浏览器扩展。它允许用户直接在 GitHub 仓库页面勾选需要的文件或文件夹，将所选内容打包为 ZIP，并保留原有目录结构。无需学习 Git 命令，也不用为了少量资料下载整个仓库，特别适合学生获取课程示例、设计师收集素材、内容创作者整理文档，...",
+          "link": "https://www.cnblogs.com/myvin/p/22357387",
+          "publishedOn": "2026-08-21T16:50:00.000Z",
+          "wordCount": 526,
+          "title": "只想下载 GitHub 的一个文件夹？GitZip Pro 让选择性下载像勾选文件一样简单 - fthux",
+          "imageUrl": "https://img2024.cnblogs.com/blog/779193/202608/779193-20260810003714894-878599352.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/wuhuacong/p/22623668",
+          "author": null,
+          "description": "最近根据一些界面设计心得，Winform+WebView2+HTML的技术，构建了一套非常弹性化、样式自定义化的管理系统界面，包含我们常规管理系统的一些场景，通过结合WInForm的强大功能，以及HTML弹性化设计，以WebView2为媒介载体，发挥各自的优势，设计了一些界面效果，包含我们常规用到的...",
+          "link": "https://www.cnblogs.com/wuhuacong/p/22623668",
+          "publishedOn": "2026-08-21T14:41:00.000Z",
+          "wordCount": 267,
+          "title": "使用Winform+WebView2+HTML构建弹性化、样式自定义化的管理系统界面 - 伍华聪",
+          "imageUrl": "https://img2024.cnblogs.com/blog/8867/202608/8867-20260821222810070-401590541.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/znlgis/p/22623655",
+          "author": null,
+          "description": "今天在自己的 opencode 多代理配置仓库里做了几轮迭代：给代理集群接入多模态视觉能力、根据真实会话日志修复编排器的几个坑、再补上配置校验工具。都是纯工程问题，把过程和踩坑点分享出来。 一、给代理集群接入视觉能力 opencode 支持自定义 subagent，每个代理可以绑定不同模型、不同权限",
+          "link": "https://www.cnblogs.com/znlgis/p/22623655",
+          "publishedOn": "2026-08-21T14:12:00.000Z",
+          "wordCount": 475,
+          "title": "给 AI 编程代理集群加\"眼睛\"：一次真实的多模态接入与健壮性加固实录 - 我才是银古",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/cqbzYangyihao/p/22623458",
+          "author": null,
+          "description": "**项目编号：** ~~[数据删除]~~\n\n**项目等级：** Euclid\n\n**保密等级**：** 本档案仅限持有至少初中数学水平权限的人员查阅。==任何试图从0开始阅读本文档的行为将被记录并上报。==",
+          "link": "https://www.cnblogs.com/cqbzYangyihao/p/22623458",
+          "publishedOn": "2026-08-21T13:37:00.000Z",
+          "wordCount": 4226,
+          "title": "Re : 从 [ 数据删除 ] 开始的计数 - Yangyihao",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/s0611163/p/22623013",
+          "author": null,
+          "description": "视频弹窗「关闭重开黑屏」排查复盘 背景：某视频监控类 Web 项目中的球机播放弹窗（演示模式：下拉选择摄像机播放），功能上线后发现「刷新后首次打开能播、关闭面板再打开黑屏、下拉切换能播」，前后排查数十轮，最终定位为前端播放触发逻辑缺陷。本文为三个问题的诚实复盘。 问题 1：当初写代码时犯了什么错 核",
+          "link": "https://www.cnblogs.com/s0611163/p/22623013",
+          "publishedOn": "2026-08-21T12:51:00.000Z",
+          "wordCount": 443,
+          "title": "AI 写了一个BUG，排查了几十轮才解决！ - 0611163",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/hellojackyleon/p/22622907",
+          "author": null,
+          "description": "大家好，我是老张。 这两天翻 GitHub Trending，看到一个离谱的数字——DeepSeek Harness 这项目，从 0 到 17 万 Star，只用了 8 天。上线当天 9.5 万，三天后涨到 17 万，fork 1.8 万。一周跑完 Claude Code 半年的路。 更让我这个老运",
+          "link": "https://www.cnblogs.com/hellojackyleon/p/22622907",
+          "publishedOn": "2026-08-21T11:55:00.000Z",
+          "wordCount": 688,
+          "title": "3天连发两版，DeepSeek Harness 把 Claude Code 和 Codex 变成了插件 - 厚德载物_VIP",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/tangzhangjia/p/22621334",
+          "author": null,
+          "description": "DeepSeek Harness 本地插件开发完全指南 从零开始，4 步创建并部署你的第一个 DSH 本地插件 前言 DeepSeek Harness (DSH) 提供了强大的工具系统，但有时候我们需要集成特定的第三方 API 或实现自定义功能。DSH 的插件系统允许我们创建本地插件，无需发布到 n",
+          "link": "https://www.cnblogs.com/tangzhangjia/p/22621334",
+          "publishedOn": "2026-08-21T09:59:00.000Z",
+          "wordCount": 890,
+          "title": "DeepSeek Harness 本地插件开发完全指南（附 GitHub 示例项目） - 探长78",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/Qiniu-developer/p/22621114",
+          "author": null,
+          "description": "DeepSeek Harness（dsh）是DeepSeek开源的Agent运行时框架，秉持“一切皆插件”理念，将模型适配器、工具、会话、主循环等全部解耦为可配置、可替换、可卸载的插件，基于Cordis元框架实现时空可组合性。当前v0.1.0-rc.7为开发者预览版，MIT协议，强调工程可扩展性而非...",
+          "link": "https://www.cnblogs.com/Qiniu-developer/p/22621114",
+          "publishedOn": "2026-08-21T09:50:00.000Z",
+          "wordCount": 605,
+          "title": "dsh 拆解系列 Vol.01：没有特权内核的 Agent 运行时 - 小七-七牛开发者",
+          "imageUrl": "https://img2024.cnblogs.com/blog/3796273/202608/3796273-20260821175015751-331589250.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/Jackeyzhe/p/22620403",
+          "author": null,
+          "description": "8 月 17 日晚，无数开发者像往常一样打开 GitHub，准备提 PR、跑流水线、找代码。结果等来的，不是页面，是超时、报错、转不完的圈。 Issues 打不开，PR 提不上，Actions 卡住不动，连 Copilot 都开始罢工。微博上有人调侃：&quot;今天全世界的程序员都在摸鱼。&quot; 但真相，比摸鱼",
+          "link": "https://www.cnblogs.com/Jackeyzhe/p/22620403",
+          "publishedOn": "2026-08-21T09:30:00.000Z",
+          "wordCount": 454,
+          "title": "GitHub 宕机近 8 小时！一次 sidecar 配置失误，如何放倒全球最大代码平台 - Jackeyzhe",
+          "imageUrl": "https://img2024.cnblogs.com/blog/1828322/202608/1828322-20260821172954532-1124418678.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/abinzhao/p/22617501",
+          "author": null,
+          "description": "引言：会写代码，和能交付软件，是两回事 过去三年，研发团队讨论 AI 的方式变了三次。 最早问的是：“它能不能补全代码？”后来变成：“它能不能独立修 Bug、写测试、提 Pull Request？”到了 2026 年，真正值得问的问题已经是： 当 AI 能持续干活时，我们有没有能力让它稳定地做对、及",
+          "link": "https://www.cnblogs.com/abinzhao/p/22617501",
+          "publishedOn": "2026-08-21T07:57:00.000Z",
+          "wordCount": 659,
+          "title": "从 Agent 到 Harness：AI 进入研发流程，真正缺的是什么？ - 纯爱掌门人",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/HarmonyOSSDK/p/22617070",
+          "author": null,
+          "description": "今年ChinaJoy现场，移动游戏“重载化”与“大世界”的趋势仍旧不减。随之而来的，是玩家对高画质、稳帧率以及跨端等体验越来越苛刻的要求。面对移动端算力与功耗的天然矛盾，HarmonyOS SDK在HarmonyOS游戏展区带来了一套全栈式的底层技术方案。它没有停留在单纯的参数比拼上，而是沿着玩家从",
+          "link": "https://www.cnblogs.com/HarmonyOSSDK/p/22617070",
+          "publishedOn": "2026-08-21T07:41:00.000Z",
+          "wordCount": 285,
+          "title": "从启动到畅玩：HarmonyOS SDK如何重塑一场连续的游戏体验 - HarmonyOS_SDK",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/ahfuzhang/p/22611060",
+          "author": null,
+          "description": "作者:张富春(ahfuzhang)，转载时请注明作者和引用链接，谢谢！ cnblogs博客 zhihu Github 公众号:一本正经的瞎扯 背景 为了更方便地在云环境中测试和调试 CSharp 的后端服务，我制作了 CSharp Debug Container All-in-one。 请看：htt",
+          "link": "https://www.cnblogs.com/ahfuzhang/p/22611060",
+          "publishedOn": "2026-08-21T07:00:00.000Z",
+          "wordCount": 636,
+          "title": "【CSharp在线代码覆盖率报表】请求一条接口后，如何精确看到覆盖率哪一行 - ahfuzhang",
+          "imageUrl": "https://img2022.cnblogs.com/blog/1457949/202202/1457949-20220216153819145-1193738712.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/KBin/p/22614217",
+          "author": null,
+          "description": "背景介绍 事情发生在24年的6月初的时候，笔者一直在Linux客户端开发组，一个中控组的同事过来说中控服务在某台基于国产化ARM64芯片的系统中频繁崩溃，故障现象非常稳定，问我有没有遇到过类似情况，我说没遇到过，由于笔者手头也有着急的项目问题需要处理，后面一段时间也就不了了之了，只是看到这位同事频繁",
+          "link": "https://www.cnblogs.com/KBin/p/22614217",
+          "publishedOn": "2026-08-21T06:10:00.000Z",
+          "wordCount": 2514,
+          "title": "记录一个由浮点运算引起的崩溃 - 书生执笔画浮沉",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/zrui-xyu/p/22612063",
+          "author": null,
+          "description": "线上短信接口遭遇恶意刷量如何处置？本文围绕紧急止损‑多层防护‑业务优化‑监控复盘四步落地立体防刷方案。技术亮点：Redis+Lua 实现分布式令牌桶限流，布隆过滤器过滤风险手机号，AOP 注解多维限流、内存滑动窗口熔断。覆盖 Nginx、网关、业务层全链路防护，剖析代理 IP 池、Redis 宕机等...",
+          "link": "https://www.cnblogs.com/zrui-xyu/p/22612063",
+          "publishedOn": "2026-08-21T03:38:00.000Z",
+          "wordCount": 1748,
+          "title": "短信接口被狂刷怎么处理 - Rain的Java大神实战圈",
+          "imageUrl": "https://img2024.cnblogs.com/blog/739056/202608/739056-20260821113315969-312789532.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/xiexj/p/22611728",
+          "author": null,
+          "description": "一、自助查数，为什么一直这么难？ 做过数据的人都知道，「让业务自己查数」听起来很美，落地却很痛。 常见有两条路： 第一条：把表做得又宽又全。 一张大宽表、一堆反规范化视图，非技术同事至少能点一点。但业务一长大，同名不同义、同义不同表就越来越多。「收入」「活跃用户」到底指什么，十个人可能有八个答案。",
+          "link": "https://www.cnblogs.com/xiexj/p/22611728",
+          "publishedOn": "2026-08-21T03:28:00.000Z",
+          "wordCount": 609,
+          "title": "95% 的业务分析交给 AI 后，Anthropic 数据团队做对了什么？ - 编程一生",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
         {
           "id": "https://www.cnblogs.com/simanL/p/22607817",
           "author": null,
@@ -27560,6 +27920,16 @@
       "siteUrl": "http://h1.nobbd.de/",
       "articles": [
         {
+          "id": "https://hackerone.com/reports/3952619",
+          "author": null,
+          "description": "curl disclosed a bug submitted by accl: https://hackerone.com/reports/3952619",
+          "link": "https://hackerone.com/reports/3952619",
+          "publishedOn": "2026-08-21T06:32:14.000Z",
+          "wordCount": 25,
+          "title": "Domainless COOKIEFILE cookie leaks to unrelated IP-literal hosts",
+          "imageUrl": "https://profile-photos.hackerone-user-content.com/variants/000/035/663/2faf4c279d437d64bfda6d23d62ce1833813a4d9_original.png/f0e07660005686ec92c43da54c0094c1ac1b490ea8c5eac04a4081d912d6ce36"
+        },
+        {
           "id": "https://hackerone.com/reports/3819475",
           "author": null,
           "description": "Monero disclosed a bug submitted by lilpeko: https://hackerone.com/reports/3819475",
@@ -30337,6 +30707,16 @@
       "siteUrl": "https://www.malware-traffic-analysis.net/index.html",
       "articles": [
         {
+          "id": "https://www.malware-traffic-analysis.net/2026/08/21/index.html",
+          "author": null,
+          "description": "",
+          "link": "https://www.malware-traffic-analysis.net/2026/08/21/index.html",
+          "publishedOn": "2026-08-21T17:49:00.000Z",
+          "wordCount": 320,
+          "title": "2026-08-21: SmartApeSG ClickFix campaign leads to two RATs",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.malware-traffic-analysis.net/2026/08/12/index.html",
           "author": null,
           "description": "",
@@ -30617,16 +30997,6 @@
           "wordCount": 864,
           "title": "【漏洞分析】CVE-2025-55182 React2shell远程代码执行解析",
           "imageUrl": "https://keenlab.tencent.com/zh/img/2025-CVE-2025-55182/CVE-2025-55182.png"
-        },
-        {
-          "id": "https://keenlab.tencent.com/zh/2025/08/22/2025-CVE-2025-9132/",
-          "author": null,
-          "description": "<p><img src=\"/zh/img/2025-CVE-2025-9132/cve-2025-9132.png\"></p>\n<p>既然这是Project Zero的BigSleep发现的第一个V8漏洞，Buff这么多，那就很难不来一窥究竟了。</p>",
-          "link": "https://keenlab.tencent.com/zh/2025/08/22/2025-CVE-2025-9132/",
-          "publishedOn": "2025-08-22T11:00:00.000Z",
-          "wordCount": 1008,
-          "title": "【漏洞分析】CVE-2025-9132 \"Await Using\" Can't Wait",
-          "imageUrl": "https://keenlab.tencent.com/zh/img/2025-CVE-2025-9132/cve-2025-9132.png"
         }
       ]
     },
