@@ -2,10 +2,397 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cod3crash.github.io/sec-feed/index.html</id>
     <title>security feed</title>
-    <updated>2026-08-23T01:49:12.913Z</updated>
+    <updated>2026-08-24T01:46:58.476Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://cod3crash.github.io/sec-feed/index.html"/>
     <link rel="self" href="https://cod3crash.github.io/sec-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Docker搭建Redis集群完全指南 - Rain的Java大神实战圈]]></title>
+        <id>https://www.cnblogs.com/zrui-xyu/p/22648318</id>
+        <link href="https://www.cnblogs.com/zrui-xyu/p/22648318"/>
+        <updated>2026-08-24T01:29:00.000Z</updated>
+        <summary type="html"><![CDATA[本文带来 Docker Compose 部署 3 主 3 从 Redis Cluster 完整实战，覆盖架构设计、配置模板、自动化部署脚本与 Spring Boot Lettuce 接入方案。重点解析`cluster‑announce‑ip`、总线端口映射等核心配置，解决 MOVED 重定向、容器重...]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[数学建模第四课：参加数学建模比赛应该注意什么 - majorArcs]]></title>
+        <id>https://www.cnblogs.com/k-hengzhou/p/22648194</id>
+        <link href="https://www.cnblogs.com/k-hengzhou/p/22648194"/>
+        <updated>2026-08-24T01:24:00.000Z</updated>
+        <summary type="html"><![CDATA[面向数学建模参赛者的备赛全攻略：详解组队铁三角分工（建模手、编程手、写作手）、AI 工具使用规范与声明要求、论文写作与表达技巧、如何描述模型与结果，并剖析建模误区与常见问题，帮你少走弯路、全方位备战国赛美赛]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Path Traversal in Nextcloud Talk Android Exposes User Credentials and Private Data via FileProvider]]></title>
+        <id>https://hackerone.com/reports/3696266</id>
+        <link href="https://hackerone.com/reports/3696266"/>
+        <updated>2026-08-24T01:23:22.000Z</updated>
+        <summary type="html"><![CDATA[Nextcloud disclosed a bug submitted by mirachael: https://hackerone.com/reports/3696266]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Path Traversal in Nextcloud Talk Android Exposes User Credentials and Private Data via FileProvider]]></title>
+        <id>https://hackerone.com/reports/3696266</id>
+        <link href="https://hackerone.com/reports/3696266"/>
+        <updated>2026-08-24T01:23:22.000Z</updated>
+        <summary type="html"><![CDATA[Nextcloud disclosed a bug submitted by mirachael: https://hackerone.com/reports/3696266]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI 测试 ｜ 把 UI 自动化测试执行固化成五步流程，这套 AI Skill 思路可以直接抄 - 狂师]]></title>
+        <id>https://www.cnblogs.com/jinjiangongzuoshi/p/22647564</id>
+        <link href="https://www.cnblogs.com/jinjiangongzuoshi/p/22647564"/>
+        <updated>2026-08-24T00:43:00.000Z</updated>
+        <summary type="html"><![CDATA[本文介绍`ui-test-executor`——一款专为UI自动化测试打造的智能执行调度引擎。它以自然语言指令驱动，自动完成环境检测、用例筛选、并发执行、六类失败证据采集（截图/录屏/Trace/日志/源码/网络）及多格式报告生成，彻底解决环境不稳定、时序难控、脏数据干扰、现场不可追溯等执行痛点，让...]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用 .NET 8 + uni-app 做一套多租户畜牧 SaaS：我们在秦巴牧云踩过的 6 个坑 - 码农刚子]]></title>
+        <id>https://www.cnblogs.com/shenchuanchao/p/22631108/dotnet-8-uni-app-multi-tenant-livestock-saas-6-pitfalls</id>
+        <link href="https://www.cnblogs.com/shenchuanchao/p/22631108/dotnet-8-uni-app-multi-tenant-livestock-saas-6-pitfalls"/>
+        <updated>2026-08-24T00:07:00.000Z</updated>
+        <summary type="html"><![CDATA[基于.NET 8 + uni-app构建多租户畜牧SaaS“秦巴牧云”的实战踩坑总结，涵盖租户隔离、前后端枚举契约、record字段序列化、EF Core迁移不一致、Razor语法冲突及微信AI Skill三层返回等6个关键问题与解决方案。]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NativePHP v4 让 Blade 构建原生 iOS 与 Android 界面 - JaguarJack]]></title>
+        <id>https://www.cnblogs.com/catchadmin/p/22647004</id>
+        <link href="https://www.cnblogs.com/catchadmin/p/22647004"/>
+        <updated>2026-08-23T23:56:00.000Z</updated>
+        <summary type="html"><![CDATA[NativePHP v4 让 Blade 构建原生 iOS 与 Android 界面 NativePHP 现在可以将 Blade 组件渲染为 iOS 上真正的 SwiftUI 视图和 Android 上的 Jetpack Compose 视图，整个过程无需 WebView 或 HTML。Native]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[从 PostgreSQL 到 Kubernetes：开源的护城河，从来不写在代码里 - 张善友]]></title>
+        <id>https://www.cnblogs.com/shanyou/p/22646851</id>
+        <link href="https://www.cnblogs.com/shanyou/p/22646851"/>
+        <updated>2026-08-23T23:17:00.000Z</updated>
+        <summary type="html"><![CDATA[引子：一场「功劳归谁」的争执 2026 年 8 月，The Register 刊出了一篇对 Michael Stonebraker 的采访。这位图灵奖得主、伯克利 Postgres 项目的发起者，被问到 PostgreSQL 为什么会赢，给出的答案颇为意外： 我们得感谢 Oracle。因为他们买下]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A guide to the MANSEF]]></title>
+        <id>https://medium.com/p/a23a1db1cf2a</id>
+        <link href="https://medium.com/@wpnowlan/a-guide-to-the-mansef-a23a1db1cf2a?source=rss------redteam-5"/>
+        <updated>2026-08-23T21:25:26.000Z</updated>
+        <summary type="html"><![CDATA[I want to provide an explanation for the Manipulation and Social Engineering Framework (“MANSEF” for short) and what it was created for…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Skele.Tor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[One .contains() Away From a Full JavaScript Bridge Takeover]]></title>
+        <id>https://medium.com/p/e0c05eb066f8</id>
+        <link href="https://medium.com/@husein.ayoub/one-contains-away-from-a-full-javascript-bridge-takeover-e0c05eb066f8?source=rss------bugbounty-5"/>
+        <updated>2026-08-23T20:48:15.000Z</updated>
+        <summary type="html"><![CDATA[How a lazy host check in an Android WebView let any app on the device steal GPS coordinates, wipe local data, no permissions, no user…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Hussein Ayoub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Testing Process Injection with Atomic Red Team: How Dirty Vanity (T1055.004) Slips Past EDR]]></title>
+        <id>https://medium.com/p/445e6114dccc</id>
+        <link href="https://medium.com/@kasimiseni251/testing-process-injection-with-atomic-red-team-how-dirty-vanity-t1055-004-slips-past-edr-445e6114dccc?source=rss------redteam-5"/>
+        <updated>2026-08-23T18:20:22.000Z</updated>
+        <summary type="html"><![CDATA[Why This Technique?
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>berke bodur</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AD Enumeration & Attacks — Skills Assessment Part II]]></title>
+        <id>https://medium.com/p/a0409bc028e0</id>
+        <link href="https://medium.com/@Psychopath-Traveler/ad-enumeration-attacks-skills-assessment-part-ii-a0409bc028e0?source=rss------redteam-5"/>
+        <updated>2026-08-23T17:44:39.000Z</updated>
+        <summary type="html"><![CDATA[Our client Inlanefreight has contracted us again to perform a full-scope internal penetration test. The client is looking to find and…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Psychopath-Traveler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hijacking Web3 Extensions: Unvalidated Storage & TOCTOU Patch Bypass in Coin98]]></title>
+        <id>https://medium.com/p/b8a655f793d4</id>
+        <link href="https://infosecwriteups.com/hijacking-web3-extensions-unvalidated-storage-toctou-patch-bypass-in-coin98-b8a655f793d4?source=rss------bugbounty-5"/>
+        <updated>2026-08-23T15:37:59.000Z</updated>
+        <summary type="html"><![CDATA[Vulnerabilities: Unvalidated LocalStorage Context Poisoning (coin98-161) & TOCTOU Patch Bypass (coin98-193)
+Continue reading on InfoSec Write-ups »]]></summary>
+        <author>
+            <name>raz-uh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Burp Repeater, Decoder, and Comparer: Resend, Re-encode, and Diff Requests]]></title>
+        <id>https://medium.com/p/2ee34d992aa8</id>
+        <link href="https://medium.com/@muneebahmedkhan0903/burp-repeater-decoder-and-comparer-resend-re-encode-and-diff-requests-2ee34d992aa8?source=rss------bugbounty-5"/>
+        <updated>2026-08-23T15:24:26.000Z</updated>
+        <summary type="html"><![CDATA[Launch Burp, resend a request without touching the browser, decode a Basic Auth header and a URL-encoded string, and let Burp highlight…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Muneebahmedkhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Broken OAuth Flows Turn Into One-Click Account Takeovers]]></title>
+        <id>https://medium.com/p/a13a67aa36c0</id>
+        <link href="https://medium.com/@tanvir.infosec/how-broken-oauth-flows-turn-into-one-click-account-takeovers-a13a67aa36c0?source=rss------bugbounty-5"/>
+        <updated>2026-08-23T14:41:29.000Z</updated>
+        <summary type="html"><![CDATA[A practical guide to the missing relationship that causes most real-world OAuth vulnerabilities.
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>cyber security</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Is It Possible to Get an $850 Subscription Plan With Only $0?]]></title>
+        <id>https://medium.com/p/e175200b6549</id>
+        <link href="https://medium.com/@0xMo7areb/is-it-possible-to-get-an-850-subscription-plan-with-only-0-e175200b6549?source=rss------bugbounty-5"/>
+        <updated>2026-08-23T14:01:02.000Z</updated>
+        <summary type="html"><![CDATA[الحمد لله الذي عَلَّمَ بالقلم، عَلَّمَ الإنسان ما لم يعلم، والصلاة والسلام على سيدنا محمد ﷺ وبعد
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>0xMo7areb</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI Supply Chain Attacks: Achieving RCE via Unsafe Model Deserialization]]></title>
+        <id>https://medium.com/p/fa5ed0a2f34e</id>
+        <link href="https://medium.com/@osmanisiktas/ai-supply-chain-attacks-achieving-rce-via-unsafe-model-deserialization-fa5ed0a2f34e?source=rss------redteam-5"/>
+        <updated>2026-08-23T13:42:54.000Z</updated>
+        <summary type="html"><![CDATA[A practical demonstration of deserialization vulnerabilities in ML model weights using Python pickle and safe format mitigations.
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Osmanisiktas</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Server Had No Secrets — A Complete Guide to Path Traversal]]></title>
+        <id>https://medium.com/p/fcf5c1377f72</id>
+        <link href="https://medium.com/@l1m1nal_3ntr0py/the-server-had-no-secrets-a-complete-guide-to-path-traversal-fcf5c1377f72?source=rss------bugbounty-5"/>
+        <updated>2026-08-23T13:33:12.000Z</updated>
+        <summary type="html"><![CDATA[By // l1m1nal_3ntr0py
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>// l1m1nal_3ntr0py</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[codex windows平台中elevated sandbox机制学习 - 三国梦回]]></title>
+        <id>https://www.cnblogs.com/grey-wolf/p/22643567</id>
+        <link href="https://www.cnblogs.com/grey-wolf/p/22643567"/>
+        <updated>2026-08-23T13:31:00.000Z</updated>
+        <summary type="html"><![CDATA[背景 大家好啊，我是逐日。本篇继续梳理下我对codex desktop中沙箱（elevated sandbox）的理解（windows平台，非使用windows上wsl2）。 本文主要学习了：https://openai.com/zh-Hans-CN/index/building-codex-win]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How an Unsanitized Header Generated a $6,000 Bounty via Cache Poisoning]]></title>
+        <id>https://medium.com/p/da7757cc6f18</id>
+        <link href="https://medium.com/@t4nv1/how-an-unsanitized-header-generated-a-6-000-bounty-via-cache-poisoning-da7757cc6f18?source=rss------bugbounty-5"/>
+        <updated>2026-08-23T13:01:02.000Z</updated>
+        <summary type="html"><![CDATA[When auditing web applications, developers often assume that caching layers are purely transparent infrastructure — mechanisms designed to…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>T4nv1</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How I Hacked A Telecom Company]]></title>
+        <id>https://medium.com/p/edc5455e4443</id>
+        <link href="https://medium.com/@the_phreak/how-i-hacked-a-telecom-company-edc5455e4443?source=rss------bugbounty-5"/>
+        <updated>2026-08-23T12:37:44.000Z</updated>
+        <summary type="html"><![CDATA[short story:
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>the_phreak</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Bug You Exploit by Clicking “Create”]]></title>
+        <id>https://medium.com/p/390cf3e86abb</id>
+        <link href="https://kd-200.medium.com/the-bug-you-exploit-by-clicking-create-390cf3e86abb?source=rss------bugbounty-5"/>
+        <updated>2026-08-23T11:31:01.000Z</updated>
+        <summary type="html"><![CDATA[What’s up everyone! Nitin here 👋
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Nitin yadav</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From Phishing Email to Data Destruction: Anatomy of a Full Attack Chain, Seen From Both Sides of…]]></title>
+        <id>https://medium.com/p/d0e43d5d932e</id>
+        <link href="https://medium.com/@karimroshdyyy22/from-phishing-email-to-data-destruction-anatomy-of-a-full-attack-chain-seen-from-both-sides-of-d0e43d5d932e?source=rss------redteam-5"/>
+        <updated>2026-08-23T11:22:53.000Z</updated>
+        <summary type="html"><![CDATA[A red team operator breaches a small Windows domain end-to-end — and a blue team, watching every move through PowerShell logs, Sysmon…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Karim roshdy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【小记】上手 Pi，记录一下我的 AI 编码实践 - SomeBottle]]></title>
+        <id>https://www.cnblogs.com/somebottle/p/22642570/harness_with_pi_and_agent_practices</id>
+        <link href="https://www.cnblogs.com/somebottle/p/22642570/harness_with_pi_and_agent_practices"/>
+        <updated>2026-08-23T10:55:00.000Z</updated>
+        <summary type="html"><![CDATA[多个月以后，面对满屏的代码无从下手时，些瓶将会回想起，他第一次接触 Coding Agent 的那个遥远的下午。这篇笔记主要记录了咱在 AI 编码方面的一些实践体会，以及配置 Pi Coding Agent 的一些小想法。]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A GeoServer Zero-Day That Went From Private Report to Public Exploit]]></title>
+        <id>https://medium.com/p/0fc3724f22d7</id>
+        <link href="https://infosecwriteups.com/a-geoserver-zero-day-that-went-from-private-report-to-public-exploit-in-six-weeks-0fc3724f22d7?source=rss------bugbounty-5"/>
+        <updated>2026-08-23T10:02:37.000Z</updated>
+        <summary type="html"><![CDATA[What GeoServer is, and why a bug in it matters
+Continue reading on InfoSec Write-ups »]]></summary>
+        <author>
+            <name>Philip Garabandic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我把Redis双活塞进Spring，业务代码零改动 - 码哥字节]]></title>
+        <id>https://www.cnblogs.com/uniqueDong/p/22642386</id>
+        <link href="https://www.cnblogs.com/uniqueDong/p/22642386"/>
+        <updated>2026-08-23T09:55:00.000Z</updated>
+        <summary type="html"><![CDATA[你有没有过这种经历。半夜两点告警炸了，A 机房 Redis 主节点磁盘满了被摘除，流量切到 B 机房，用户购物车全空了，因为 B 机房的 Redis 里根本没有这几分钟的写入。主从复制救不了你，它天生就是单向异步的。 更要命的是，你翻遍社区，搜到的双活方案全是 Redis-Shake、CloudCa]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LangChain 实现AdvancedRAG增强向量检索生成 - lyshark]]></title>
+        <id>https://www.cnblogs.com/LyShark/p/22631549</id>
+        <link href="https://www.cnblogs.com/LyShark/p/22631549"/>
+        <updated>2026-08-23T09:33:00.000Z</updated>
+        <summary type="html"><![CDATA[Advanced‑RAG 是基于 Naive RAG 演化而来的高级检索增强生成方案，针对朴素RAG检索不准、上下文相关性差、召回噪声多等缺陷进行多层优化。该方案完全沿用朴素RAG的基础流水线模式、不改动核心架构，仅在各流程节点嵌入预处理、后处理增强模块，精细化优化检索环节。通过引入查询改写、重排序...]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我十年 Office 开发的终极大招：一个 Skill，让 AI 帮你做出最专业的 Excel 插件 - Excel催化剂]]></title>
+        <id>https://www.cnblogs.com/ExcelCuiHuaJi/p/22642226</id>
+        <link href="https://www.cnblogs.com/ExcelCuiHuaJi/p/22642226"/>
+        <updated>2026-08-23T09:27:00.000Z</updated>
+        <summary type="html"><![CDATA[不是写 VBA 宏，不是画 Ribbon 菜单。是一口气搞定：自定义函数、现代化功能区、WebView2 网页面板、媲美前端界面的 WPF 任务窗格——全程一行代码不用写。这就是我刚做完的 Excel-DNA 插件开发 Skill。 一、为什么我一直在做 Office 和浏览器周边的工具？ 回看过去]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[人工智能最先替代的，是人工智能学院自己 - 张善友]]></title>
+        <id>https://www.cnblogs.com/shanyou/p/22641879</id>
+        <link href="https://www.cnblogs.com/shanyou/p/22641879"/>
+        <updated>2026-08-23T08:41:00.000Z</updated>
+        <summary type="html"><![CDATA[大学从来不只是一栋教学楼。在知识生产的链条里，它同时扮演着四种角色：生产资料的配置者、知识流通的枢纽、人才的培养者与认证者、长周期研究的承担者。而这页PPT的真正含义是：这四个功能，正在被逐一替代。]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[题解：CF1765C Card Guessing - qwertim]]></title>
+        <id>https://www.cnblogs.com/qwertim/p/22641765</id>
+        <link href="https://www.cnblogs.com/qwertim/p/22641765"/>
+        <updated>2026-08-23T08:24:00.000Z</updated>
+        <summary type="html"><![CDATA[神秘 noip 模拟赛 T3，但是 \(n\le2000\)，1s。 也是终于能在模拟赛里做出数学题了，开心。 似乎没看到几个跟我一样的做法？ 题解 由于期望的线性性，我们可以把期望拆分到每一位上，那么答案即为能猜对 \(c_i\) 的概率之和。 考虑如何求出猜对第 \(i\) 位的概率。下文设 \]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一起关于龙芯MIPS64el的“数据泄露”排查纪实 - 书生执笔画浮沉]]></title>
+        <id>https://www.cnblogs.com/KBin/p/22636347</id>
+        <link href="https://www.cnblogs.com/KBin/p/22636347"/>
+        <updated>2026-08-23T07:47:00.000Z</updated>
+        <summary type="html"><![CDATA[0x00 关于龙芯数据泄露漏洞 这两天刷到一则消息《安全内参：龙芯处理器存在架构层漏洞，应尽快更新修复》，仔细阅读了文章内容后，这让我想起来很久以前在龙芯早期MIPS64el架构中排查过的一个问题，所以也赶紧来蹭一波热度。当然，虽然同样是数据泄露，但诱因和严重程度是不一样的，切勿混淆…… 0x01]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[被主流遮住的世界：那些不常见却值得认识的编程语言 - fthux]]></title>
+        <id>https://www.cnblogs.com/myvin/p/22357596</id>
+        <link href="https://www.cnblogs.com/myvin/p/22357596"/>
+        <updated>2026-08-23T05:57:00.000Z</updated>
+        <summary type="html"><![CDATA[截至2026年，全球编程语言数量难以准确统计，HOPL百科收录8945种语言。主流语言如Python、C、Java等因成熟生态占据主导，但小众语言在特定领域更具价值。Fortran、COBOL等&quot;古老&quot;语言仍应用于关键系统；函数式语言如Haskell、Lisp家族提供了不同编程范式；数组语言APL和...]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Post-Compromise Active Directory Attacks]]></title>
+        <id>https://medium.com/p/4fc91c41d59b</id>
+        <link href="https://medium.com/@neeleshpandey0121/post-compromise-active-directory-attacks-4fc91c41d59b?source=rss------redteam-5"/>
+        <updated>2026-08-23T05:05:20.000Z</updated>
+        <summary type="html"><![CDATA[Overview
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Neelesh Pandey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI时代，程序员拼的到底是什么 - 编程一生]]></title>
+        <id>https://www.cnblogs.com/xiexj/p/22640199</id>
+        <link href="https://www.cnblogs.com/xiexj/p/22640199"/>
+        <updated>2026-08-23T04:25:00.000Z</updated>
+        <summary type="html"><![CDATA[（图） 一个反常的现象 最近跟几个做技术管理的朋友聊招聘，听到一个共同的说法：面试里&quot;手写算法&quot;&quot;默写API&quot;这类环节，权重在明显下降。 不是不考了，是考了也测不出太多东西——Vibe Coding 普及之后，一个初级工程师借助 AI，也能在半小时内写出过去需要三五年经验才能写顺手的代码。语法熟练度]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DeepSeek 多模态 API 调用完全指南：从调用到效果，一篇讲透 - 小白跃升坊]]></title>
+        <id>https://www.cnblogs.com/xiaobaiysf/p/22639321</id>
+        <link href="https://www.cnblogs.com/xiaobaiysf/p/22639321"/>
+        <updated>2026-08-23T03:09:00.000Z</updated>
+        <summary type="html"><![CDATA[2026年8月21日，DeepSeek 正式上线 V4 系列首款视觉模型 DeepSeek-V4-Flash-Vision-Exp，开放多模态 API 服务。这是 DeepSeek 从纯文本大模型正式迈入多模态 Agent 赛道的重要一步。本文将从 API 调用、实际效果、中间层架构三个维度，帮你一...]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Easiest Way to Pivot in 2026: Why Rosemary Changes Network Pivoting]]></title>
+        <id>https://medium.com/p/5a433088f208</id>
+        <link href="https://medium.com/@chokrihammedi/the-easiest-way-to-pivot-in-2026-why-rosemary-changes-network-pivoting-5a433088f208?source=rss------redteam-5"/>
+        <updated>2026-08-23T02:07:25.000Z</updated>
+        <summary type="html"><![CDATA[Network pivoting has always involved too much operational friction.
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>chokri hammedi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OctaFuse Gateway 2.7.0：按星期计价、用户级模型折扣、百炼ASR模型支持优化 - 程序猿DD]]></title>
+        <id>https://www.cnblogs.com/didispace/p/22638820</id>
+        <link href="https://www.cnblogs.com/didispace/p/22638820"/>
+        <updated>2026-08-23T02:06:00.000Z</updated>
+        <summary type="html"><![CDATA[OctaFuse Gateway 2.7.0 重点解决三个实际问题：如何让工作日和周末使用不同价格，如何为不同用户设置专属模型价格，以及如何通过统一网关调用阿里云百炼的同步多模态语音识别。 这意味着，当模型供应商调整峰谷计费规则时，你可以直接在路由中跟进；面对签约客户、内部账号或不同服务套餐，也可以]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【译】Visual Studio 管理员？快来参与我们的私有市场预览版体验！ - MeteorSeed]]></title>
         <id>https://www.cnblogs.com/MeteorSeed/p/22632263</id>
