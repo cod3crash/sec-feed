@@ -6,6 +6,36 @@
       "siteUrl": "http://h1.nobbd.de/",
       "articles": [
         {
+          "id": "https://hackerone.com/reports/3963494",
+          "author": null,
+          "description": "curl disclosed a bug submitted by subadevan: https://hackerone.com/reports/3963494",
+          "link": "https://hackerone.com/reports/3963494",
+          "publishedOn": "2026-08-24T21:51:15.000Z",
+          "wordCount": 25,
+          "title": "RTSP CRLF injection in libcurl allows CURLOPT_RTSP_* values to inject commands into independent sessions",
+          "imageUrl": "https://profile-photos.hackerone-user-content.com/variants/000/035/663/2faf4c279d437d64bfda6d23d62ce1833813a4d9_original.png/f0e07660005686ec92c43da54c0094c1ac1b490ea8c5eac04a4081d912d6ce36"
+        },
+        {
+          "id": "https://hackerone.com/reports/3963725",
+          "author": null,
+          "description": "curl disclosed a bug submitted by subadevan: https://hackerone.com/reports/3963725",
+          "link": "https://hackerone.com/reports/3963725",
+          "publishedOn": "2026-08-24T21:51:05.000Z",
+          "wordCount": 25,
+          "title": "wolfSSL backend disables hostname verification when CURLOPT_SSL_VERIFYPEER is 0",
+          "imageUrl": "https://profile-photos.hackerone-user-content.com/variants/000/035/663/2faf4c279d437d64bfda6d23d62ce1833813a4d9_original.png/f0e07660005686ec92c43da54c0094c1ac1b490ea8c5eac04a4081d912d6ce36"
+        },
+        {
+          "id": "https://hackerone.com/reports/3727743",
+          "author": null,
+          "description": "Ruby on Rails disclosed a bug submitted by offsetmd: https://hackerone.com/reports/3727743",
+          "link": "https://hackerone.com/reports/3727743",
+          "publishedOn": "2026-08-24T16:21:36.000Z",
+          "wordCount": 25,
+          "title": "URI scheme validation bypass in ActionText `to_markdown` via user-supplied `<action-text-markdown>` marker tag",
+          "imageUrl": "https://profile-photos.hackerone-user-content.com/variants/000/000/022/5e2b46658c8b86bed62f574d8e1793f353cbbc63_original.png/f0e07660005686ec92c43da54c0094c1ac1b490ea8c5eac04a4081d912d6ce36"
+        },
+        {
           "id": "https://hackerone.com/reports/3696266",
           "author": null,
           "description": "Nextcloud disclosed a bug submitted by mirachael: https://hackerone.com/reports/3696266",
@@ -2773,6 +2803,26 @@
       "siteUrl": "https://infosecwriteups.com?source=rss----7b722bfd1b8d---4",
       "articles": [
         {
+          "id": "https://medium.com/p/9d4d4e15e022",
+          "author": "Rajdip Chavan",
+          "description": "",
+          "link": "https://infosecwriteups.com/i-changed-one-user-id-and-the-api-said-sure-from-password-reset-to-mass-account-takeover-9d4d4e15e022?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2026-08-24T05:23:42.000Z",
+          "wordCount": null,
+          "title": "I Changed One “User_Id” and the API Said “Sure” — From Password Reset to Mass Account Takeover",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/5f99a48c6c69",
+          "author": "Nilo_ofar",
+          "description": "",
+          "link": "https://infosecwriteups.com/lakeras-break-the-agent-challenge-solace-ai-write-up-5f99a48c6c69?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2026-08-24T05:23:26.000Z",
+          "wordCount": null,
+          "title": "Lakera’s Break The Agent Challenge— Solace AI Write-up",
+          "imageUrl": null
+        },
+        {
           "id": "https://medium.com/p/99df009baf37",
           "author": "Dhanush N",
           "description": "A file upload accepted ZIP archives but never validated the paths inside. We used Zip Slip to plant a reverse shell in the server’s hooks…\nContinue reading on InfoSec Write-ups »",
@@ -4609,6 +4659,106 @@
       "feedUrl": "https://medium.com/feed/tag/bugbounty",
       "siteUrl": "https://medium.com/tag/bugbounty/latest?source=rss------bugbounty-5",
       "articles": [
+        {
+          "id": "https://medium.com/p/918c587cf5d8",
+          "author": "Zyadatef",
+          "description": "## Overview\nContinue reading on Medium »",
+          "link": "https://medium.com/@zyadatef2462003/forced-team-membership-via-invitation-token-leakage-and-missing-email-ownership-verification-918c587cf5d8?source=rss------bugbounty-5",
+          "publishedOn": "2026-08-24T23:40:30.000Z",
+          "wordCount": null,
+          "title": "# Forced Team Membership via Invitation Token Leakage and Missing Email Ownership Verification",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/341cfade1e8f",
+          "author": "Rakesh Joshi",
+          "description": "Scope: Use this workflow only against assets you own or targets explicitly authorized by a bug-bounty/security-testing program. Respect…\nContinue reading on Medium »",
+          "link": "https://medium.com/@Rakeshjoshi7/basic-intermediate-advanced-authorized-bug-bounty-security-testing-341cfade1e8f?source=rss------bugbounty-5",
+          "publishedOn": "2026-08-24T17:27:04.000Z",
+          "wordCount": null,
+          "title": "Basic → Intermediate → Advanced | Authorized Bug Bounty & Security Testing",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/5a2da7978813",
+          "author": "Bearded Viking",
+          "description": "You can read the original article here.\nContinue reading on Medium »",
+          "link": "https://beardedviking.medium.com/getting-started-in-bug-bounty-hunting-5a2da7978813?source=rss------bugbounty-5",
+          "publishedOn": "2026-08-24T17:01:39.000Z",
+          "wordCount": null,
+          "title": "Getting Started in Bug Bounty Hunting",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/f02157210897",
+          "author": "Tomahawk",
+          "description": "when i was do some bug bounty on a web application target, I decided to move to the Password Reset / Forgot Password function and deeg…\nContinue reading on Medium »",
+          "link": "https://medium.com/@tomahawk0ctf/the-art-of-race-condition-how-a-simple-race-condition-can-leads-to-ato-f02157210897?source=rss------bugbounty-5",
+          "publishedOn": "2026-08-24T15:31:24.000Z",
+          "wordCount": null,
+          "title": "The art of Race Condition:how a simple race condition can leads to ATO!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/9ba86004e1a3",
+          "author": "Pentester Club",
+          "description": "PDF files are everywhere.\nContinue reading on Medium »",
+          "link": "https://medium.com/@pentesterclubpvtltd/pdf-exploit-scanner-patcher-detect-malicious-pdfs-block-threats-9ba86004e1a3?source=rss------bugbounty-5",
+          "publishedOn": "2026-08-24T15:02:12.000Z",
+          "wordCount": null,
+          "title": "PDF Exploit Scanner & Patcher | Detect Malicious PDFs + Block Threats",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/573152971547",
+          "author": "mayhack",
+          "description": "Challenge Description\nContinue reading on Medium »",
+          "link": "https://medium.com/@may.hack/introtoburp-picoctf-writeup-573152971547?source=rss------bugbounty-5",
+          "publishedOn": "2026-08-24T14:54:00.000Z",
+          "wordCount": null,
+          "title": "IntroToBurp — picoCTF Writeup",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/ba84332bbb9d",
+          "author": "Divakarvasani",
+          "description": "A step-by-step breakdown of how I discovered Cross-User Chat Read & Write access, with full PoC, responses, and lessons for bug hunters.\nContinue reading on Medium »",
+          "link": "https://medium.com/@divakarvasani3938/i-found-a-critical-bola-vulnerability-in-a-cybersecurity-ai-platform-heres-exactly-how-ba84332bbb9d?source=rss------bugbounty-5",
+          "publishedOn": "2026-08-24T14:45:02.000Z",
+          "wordCount": null,
+          "title": "I Found a Critical BOLA Vulnerability in a Cybersecurity AI Platform — Here’s Exactly How",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/2eb36ee2a4b0",
+          "author": "Very Lazy Tech",
+          "description": "Ever sat at your desk, coffee in hand, staring at a mountain of data, wondering, “How do I even begin to connect these dots?” If you’re…\nContinue reading on Medium »",
+          "link": "https://medium.com/@verylazytech/12-open-apis-every-osint-researcher-should-know-a-practical-guide-to-powerful-cyber-investigations-2eb36ee2a4b0?source=rss------bugbounty-5",
+          "publishedOn": "2026-08-24T14:19:15.000Z",
+          "wordCount": null,
+          "title": "12 Open APIs Every OSINT Researcher Should Know: A Practical Guide to Powerful Cyber Investigations",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/2c366feedc7a",
+          "author": "CypherNova1337",
+          "description": "It was 2 a.m. and the payment request was right there on my screen, captured byte for byte:\nContinue reading on Medium »",
+          "link": "https://cyphernova1337.medium.com/i-watched-an-app-lie-to-me-and-found-the-bug-no-scanner-would-ever-see-2c366feedc7a?source=rss------bugbounty-5",
+          "publishedOn": "2026-08-24T13:59:42.000Z",
+          "wordCount": null,
+          "title": "I WATCHED AN APP LIE TO ME — AND FOUND THE BUG NO SCANNER WOULD EVER SEE",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/0845dde48dd3",
+          "author": "T4nv1",
+          "description": "When testing e-commerce platforms and payment integrations, security auditors often spend significant time examining the user interface…\nContinue reading on Medium »",
+          "link": "https://medium.com/@t4nv1/how-a-12-000-bounty-was-earned-via-broken-logic-in-payment-webhooks-0845dde48dd3?source=rss------bugbounty-5",
+          "publishedOn": "2026-08-24T13:06:01.000Z",
+          "wordCount": null,
+          "title": "How a $12,000 Bounty Was Earned via Broken Logic in Payment Webhooks",
+          "imageUrl": null
+        },
         {
           "id": "https://medium.com/p/e0c05eb066f8",
           "author": "Hussein Ayoub",
@@ -10327,6 +10477,66 @@
       "siteUrl": "https://medium.com/tag/redteam/latest?source=rss------redteam-5",
       "articles": [
         {
+          "id": "https://medium.com/p/be7cd2c1fb21",
+          "author": "Youssef Fathelbab",
+          "description": "I’ve done a fair number of Windows AD boxes at this point, but Absolute is the first one that made me actually laugh out loud at 1 AM —…\nContinue reading on Medium »",
+          "link": "https://medium.com/@youssef_31875/absolute-how-a-church-photos-metadata-led-me-to-domain-admin-htp-be7cd2c1fb21?source=rss------redteam-5",
+          "publishedOn": "2026-08-24T23:38:02.000Z",
+          "wordCount": null,
+          "title": "Absolute: How a Church Photo’s Metadata Led Me to Domain Admin HTP",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/84bc78c84e7d",
+          "author": "berke bodur",
+          "description": "This is the third post in a series where I test MITRE ATT&CK techniques using Atomic Red Team in an isolated lab. The first post covered…\nContinue reading on Medium »",
+          "link": "https://medium.com/@kasimiseni251/testing-persistence-with-atomic-red-team-the-qakbot-scheduled-task-trick-t1053-005-84bc78c84e7d?source=rss------redteam-5",
+          "publishedOn": "2026-08-24T21:20:29.000Z",
+          "wordCount": null,
+          "title": "Testing Persistence with Atomic Red Team: The Qakbot Scheduled Task Trick (T1053.005)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/63f0dd646970",
+          "author": "R. Bullmann",
+          "description": "Você acabou de conseguir uma shell de baixo privilégio em um servidor Linux. A primeira reação costuma ser rodar um script automatizado e…\nContinue reading on Medium »",
+          "link": "https://medium.com/@Daluna_/al%C3%A9m-dos-scripts-de-eleva%C3%A7%C3%A3o-de-privil%C3%A9gios-63f0dd646970?source=rss------redteam-5",
+          "publishedOn": "2026-08-24T20:08:16.000Z",
+          "wordCount": null,
+          "title": "Além dos scripts de elevação de privilégios",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/6039eff312f1",
+          "author": "DarkLightSec",
+          "description": "Part of the “Attack → Detect → Govern” series. Read the intro here, Chapter 1 here, Chapter 2 here, and Chapter 3 here.\nContinue reading on InfoSec Write-ups »",
+          "link": "https://infosecwriteups.com/chapter-4-azure-fundamentals-for-red-teams-6039eff312f1?source=rss------redteam-5",
+          "publishedOn": "2026-08-24T19:06:12.000Z",
+          "wordCount": null,
+          "title": "Chapter 4 Azure Fundamentals for Red Teams",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/a8e90d1b974f",
+          "author": "Karim roshdy",
+          "description": "This document merges the Offensive (Attack) Side and the Detection (Defensive) Side of the same cybersecurity lab into a single reference…\nContinue reading on Medium »",
+          "link": "https://medium.com/@karimroshdyyy22/bank-attack-scenario-attack-detection-lab-a8e90d1b974f?source=rss------redteam-5",
+          "publishedOn": "2026-08-24T08:00:05.000Z",
+          "wordCount": null,
+          "title": "Bank Attack Scenario — Attack & Detection Lab",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/723134d03265",
+          "author": "Bryan RB",
+          "description": "A forgotten CNAME record is sometimes all it takes to hijack part of a domain. Subdomain takeover doesn’t need a zero-day. It only needs…\nContinue reading on FMI Cyber Security Consulting Services »",
+          "link": "https://medium.com/fmisec/subdomain-takeover-when-a-dead-dns-record-becomes-your-entry-point-723134d03265?source=rss------redteam-5",
+          "publishedOn": "2026-08-24T03:01:03.000Z",
+          "wordCount": null,
+          "title": "Subdomain Takeover: When a Dead DNS Record Becomes Your Entry Point",
+          "imageUrl": null
+        },
+        {
           "id": "https://medium.com/p/a23a1db1cf2a",
           "author": "Skele.Tor",
           "description": "I want to provide an explanation for the Manipulation and Social Engineering Framework (“MANSEF” for short) and what it was created for…\nContinue reading on Medium »",
@@ -13624,6 +13834,26 @@
       "siteUrl": "https://infosecwriteups.com?source=rss----7b722bfd1b8d---4",
       "articles": [
         {
+          "id": "https://medium.com/p/9d4d4e15e022",
+          "author": "Rajdip Chavan",
+          "description": "",
+          "link": "https://infosecwriteups.com/i-changed-one-user-id-and-the-api-said-sure-from-password-reset-to-mass-account-takeover-9d4d4e15e022?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2026-08-24T05:23:42.000Z",
+          "wordCount": null,
+          "title": "I Changed One “User_Id” and the API Said “Sure” — From Password Reset to Mass Account Takeover",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/5f99a48c6c69",
+          "author": "Nilo_ofar",
+          "description": "",
+          "link": "https://infosecwriteups.com/lakeras-break-the-agent-challenge-solace-ai-write-up-5f99a48c6c69?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2026-08-24T05:23:26.000Z",
+          "wordCount": null,
+          "title": "Lakera’s Break The Agent Challenge— Solace AI Write-up",
+          "imageUrl": null
+        },
+        {
           "id": "https://medium.com/p/99df009baf37",
           "author": "Dhanush N",
           "description": "A file upload accepted ZIP archives but never validated the paths inside. We used Zip Slip to plant a reverse shell in the server’s hooks…\nContinue reading on InfoSec Write-ups »",
@@ -16127,6 +16357,16 @@
       "siteUrl": "https://blog.sucuri.net/",
       "articles": [
         {
+          "id": "https://blog.sucuri.net/?p=36235",
+          "author": "Sucuri",
+          "description": "Third-party scripts are common on websites. They help with analytics, ads, live chat, social media, video, payments, and many other features. While not all are risky, every external tag, pixel, widget, or embed adds to your website’s vulnerability. These tools can read page content, collect visitor data, change what users see, and connect with outside services. If a vendor, account, or setup is compromised, it can impact every page that uses the script.\nWebsite owners shouldn’t aim to get rid of useful integrations, but to understand which scripts run, why they are necessary, who controls them, and how to detect unexpected changes.\nContinue reading Third-Party Script Security: How Tags, Pixels, and Embeds Can Put Websites at Risk at Sucuri Blog.",
+          "link": "https://blog.sucuri.net/2026/08/third-party-script-security-how-tags-pixels-and-embeds-can-put-websites-at-risk.html",
+          "publishedOn": "2026-08-24T22:31:01.000Z",
+          "wordCount": 2646,
+          "title": "Third-Party Script Security: How Tags, Pixels, and Embeds Can Put Websites at Risk",
+          "imageUrl": "https://blog.sucuri.net/wp-content/uploads/2026/08/How-to-Build-WordPress-Campaign-Pages-Without-Creating-Content-Debt.png"
+        },
+        {
           "id": "https://blog.sucuri.net/?p=36224",
           "author": "Sucuri",
           "description": "Each feature that you add to a website results in a new element that has to be managed.\nThe credentials are accepted by a login page, the data by a contact form, new code is introduced by a plugin, and an API is used to connect your website to another service. It is also possible that an old staging site or a forgotten backup may still be accessible from the internet.\nThe collection of these exposed components constitutes your website attack surface.\nContinue reading What Is a Website Attack Surface? A Beginner’s Guide to Reducing Risk at Sucuri Blog.",
@@ -16403,6 +16643,21 @@
       "feedUrl": "https://blog.elcomsoft.com/feed/",
       "siteUrl": "https://blog.elcomsoft.com",
       "articles": [
+        {
+          "id": "https://blog.elcomsoft.com/?p=13705",
+          "author": "Oleg Afonin",
+          "description": "In law enforcement use a “consent extraction” means the examiner knows the passcode. It rarely signals owner agreement. That would be a vocabulary issue if the passcode remained the whole key. Since iOS 26.4 it does not. Stolen Device Protection is on by default, and away from familiar locations it requires Face ID or Touch […]",
+          "link": "https://blog.elcomsoft.com/2026/08/the-true-meaning-of-consent-in-consent-extractions/",
+          "publishedOn": "2026-08-24T09:12:57.000Z",
+          "wordCount": 3954,
+          "title": "The True Meaning of Consent in ‘Consent Extractions’",
+          "enclosure": {
+            "url": "https://blog.elcomsoft.com/wp-content/uploads/2026/03/law-4-1200x630-1.png",
+            "length": "1274783",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://blog.elcomsoft.com/wp-content/uploads/2026/03/law-4-1200x630-1.png"
+        },
         {
           "id": "https://blog.elcomsoft.com/?p=13685",
           "author": "Oleg Afonin",
@@ -16913,6 +17168,206 @@
       "feedUrl": "https://feed.cnblogs.com/blog/sitehome/rss",
       "siteUrl": null,
       "articles": [
+        {
+          "id": "https://www.cnblogs.com/lsjwq/p/22668674",
+          "author": null,
+          "description": "《末日突围》是一名初一学生在AI编程助手辅助下独立开发的3D第一人称战术射击游戏。游戏基于WebGL技术，以末日废土为背景，玩家在废弃封锁区中抵御僵尸围攻或与AI雇佣兵混战。游戏可在浏览器中直接运行，也可通过Windows桌面程序运行。",
+          "link": "https://www.cnblogs.com/lsjwq/p/22668674",
+          "publishedOn": "2026-08-25T01:07:00.000Z",
+          "wordCount": 593,
+          "title": "一名初一学生用AI开发《末日突围》3D游戏的实践过程，Visual Studio Code+DeepSeek+GPT - iNeuOS工业互联网系统",
+          "imageUrl": "https://img2024.cnblogs.com/blog/279374/202608/279374-20260825090346395-546772042.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/jinjiangongzuoshi/p/22668285",
+          "author": null,
+          "description": "大家好，我是狂师。 上一篇我们把「跑测试」交给了 AI。环境自动检测、失败证据自动保全、报告自动产出，执行这一环确实痛快了。 但打开报告，几十条脚本用例红着，耗时费力的事这才真正开始。 这条为什么挂？是环境、是脚本、是数据，还是真有 bug？ 我见过太多人面对一片红条的反应，先重跑一遍。过了就当无事",
+          "link": "https://www.cnblogs.com/jinjiangongzuoshi/p/22668285",
+          "publishedOn": "2026-08-25T00:41:00.000Z",
+          "wordCount": 814,
+          "title": "AI 测试提效丨从失败排查到自动修复，分享我的Playwright+Skill UI自动化测试失败诊断提效方案！ - 狂师",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/zhangs1986/p/22555832",
+          "author": null,
+          "description": "用户反馈请求生产网关springcloud gateway突然偶发性返回500异常，赶紧上线检查服务，发现有个别实例日志里开始零星出现 OutOfDirectMemoryError，频率还有逐渐升高的趋势，过不了一会服务基本不可用了，出现健康检测异常。完整报错信息是这样的： io.netty.uti",
+          "link": "https://www.cnblogs.com/zhangs1986/p/22555832",
+          "publishedOn": "2026-08-24T23:42:00.000Z",
+          "wordCount": 562,
+          "title": "干货分享Gateway踩坑实录：Netty直接内存把网关吃垮了OutOfDirectMemoryError - 欢醉",
+          "imageUrl": "https://img2024.cnblogs.com/blog/273387/202608/273387-20260818214141418-1823787421.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/lsksp/p/22664279",
+          "author": null,
+          "description": "USB深度解析（一）：低速、全速电气特性与通信协议 在当今的计算机外设接口中，USB（Universal Serial Bus）无疑占据着统治地位。虽然USB标准已经迭代到了高速的USB 3.x甚至USB4，但低速和全速模式作为USB架构的基石，定义了USB最初也是最底层的连接逻辑。高速的USB协议",
+          "link": "https://www.cnblogs.com/lsksp/p/22664279",
+          "publishedOn": "2026-08-24T15:17:00.000Z",
+          "wordCount": 496,
+          "title": "USB深度解析（一）：低速、全速电气特性与通信协议 - 比特向阳",
+          "imageUrl": "https://img2024.cnblogs.com/blog/2921660/202608/2921660-20260824230614386-495496076.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/kkkk11/p/22663857",
+          "author": null,
+          "description": "最近，AI Agent Skills 简直火到出圈，说一句 “全网刷屏” 都毫不夸张！ 如今，越来越多 AI 产品都已接入 Skills 功能 —— 从 Claude Code、OpenCode 到 CodeX、Antigravity，再到最近刚升级的 Coze 2.0，几乎成了主流 AI 工具的",
+          "link": "https://www.cnblogs.com/kkkk11/p/22663857",
+          "publishedOn": "2026-08-24T13:30:00.000Z",
+          "wordCount": 518,
+          "title": "火爆全网的 Agent Skills，普通人到底该怎么用？-- 详细教程 - 程序员龙叔",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/shanyou/p/22663603",
+          "author": null,
+          "description": "GitHub 的危机证明：为人类设计的开发基础设施已到极限，下一个平台层将围绕 agent 的流量形态、上下文治理和审计需求重建。",
+          "link": "https://www.cnblogs.com/shanyou/p/22663603",
+          "publishedOn": "2026-08-24T13:05:00.000Z",
+          "wordCount": 1065,
+          "title": "Vibe Coding 月提交量 29 亿次之后：GitHub 的危机、Azure 迁移，以及 .NET 的机会 - 张善友",
+          "imageUrl": "https://img2024.cnblogs.com/blog/510/202608/510-20260824210611686-1860358465.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/rossiXYZ/p/22121453",
+          "author": null,
+          "description": "【Agentic RL / 强化学习框架 / VERL】Uni-Agent Gateway 深度解析 目录【Agentic RL / 强化学习框架 / VERL】Uni-Agent Gateway 深度解析0x00 概要0x01. Gateway 是为了解决什么问题？1.1 VERL 原有架构的困境",
+          "link": "https://www.cnblogs.com/rossiXYZ/p/22121453",
+          "publishedOn": "2026-08-24T12:44:00.000Z",
+          "wordCount": 6830,
+          "title": "【Agentic RL / 强化学习框架 / VERL】Uni-Agent Gateway 深度解析 - 罗西的思考",
+          "imageUrl": "https://img2024.cnblogs.com/blog/1850883/202608/1850883-20260801075802440-1585775323.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/hyly-mark/p/22662278",
+          "author": null,
+          "description": "现状 传统微服务下的IAM（SSO）方案，要么是使用开源的IAM系统，然后各子系统进行轻量/重量级改造来进行适配，要么是自主研发使用spring security、shiro等权限框架实现统一认证/授权。其中以Sa-Token框架较为优秀，大部分关于认证、鉴权等操作均有封装较好的函数，可以实现一行代",
+          "link": "https://www.cnblogs.com/hyly-mark/p/22662278",
+          "publishedOn": "2026-08-24T10:30:00.000Z",
+          "wordCount": 1802,
+          "title": "云原生场景下中心多级IAM（SSO）方案 - Markk",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/LyShark/p/22655620",
+          "author": null,
+          "description": "本文讲解基于 LangGraph Server 服务搭建本地离线 AI Agent 的完整部署流程，适配 Windows 开发环境，全程无需调用公有大模型接口，实现纯本地化 AI 推理与工作流编排，帮助开发者快速搭建可调试、可复用的本地私有化 AI Agent 服务，适用于个人开发、本地功能调试、轻...",
+          "link": "https://www.cnblogs.com/LyShark/p/22655620",
+          "publishedOn": "2026-08-24T10:29:00.000Z",
+          "wordCount": 845,
+          "title": "LangGraph Server Agent 框架本地部署指南 - lyshark",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/Alkaid2077/p/22658618",
+          "author": null,
+          "description": "本篇聚焦 Agent 核心智能特性，重构工具异常处理逻辑，将所有工具报错统一封装为标准对话信息喂给模型，同时实现动态工具武器库、故障熔断、权限回收机制。",
+          "link": "https://www.cnblogs.com/Alkaid2077/p/22658618",
+          "publishedOn": "2026-08-24T08:31:00.000Z",
+          "wordCount": 674,
+          "title": "【手搓 Agent 第2.2关】搭建 Agent 进阶能力：网络搜索工具（中） - Alkaid2077",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/apachecn/p/22658524",
+          "author": null,
+          "description": "工具调用是大模型重要的能力之一，能够抑制大模型胡说八道，增加模型输出真实性可靠性。有些大模型在接口上不支持工具调用，但其实任何大模型本质上都是词语接龙，我们可以把工具调用指令拼接到提示词里面来实现。 添加必要的导入： import re import os import json import op",
+          "link": "https://www.cnblogs.com/apachecn/p/22658524",
+          "publishedOn": "2026-08-24T08:26:00.000Z",
+          "wordCount": 712,
+          "title": "在不支持工具调用接口的大模型上实现工具调用 - 绝不原创的飞龙",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/cpp-lin/p/22656522",
+          "author": null,
+          "description": "一个可安装到 Edge / Chrome 的浏览器扩展：存好你的简历资料库，打开网申页面一键自动填写。 为什么做这个 相信投过简历的人都懂这种感觉： 打开 A 公司的网申系统，填一遍「姓名、手机号、邮箱、出生日期、民族、政治面貌……」 打开 B 公司的网申系统，一模一样的字段，再填一遍。 然后还有「",
+          "link": "https://www.cnblogs.com/cpp-lin/p/22656522",
+          "publishedOn": "2026-08-24T07:26:00.000Z",
+          "wordCount": 431,
+          "title": "用DSH做了一个求职网申智能代填插件：AutoFill - 郊游",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/SheepDog/p/22653740",
+          "author": null,
+          "description": "Java反射实战：彻底读懂SuperMap资源释放的反射写法（为什么必须用、原理、优劣、最佳实践） 从事GIS后端开发的同学，几乎人人都写过/见过一段 通过反射批量调用 dispose() 释放SuperMap资源 的工具方法。 很多人一直处于“会用但不懂”的状态： 明明可以直接调用 obj.dis",
+          "link": "https://www.cnblogs.com/SheepDog/p/22653740",
+          "publishedOn": "2026-08-24T05:58:00.000Z",
+          "wordCount": 575,
+          "title": "Java反射实战：彻底读懂SuperMap资源释放的反射写法（为什么必须用、原理、优劣、最佳实践） - SheepDog1998",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/amosli/p/22652811",
+          "author": null,
+          "description": "记一次 yfinance 源码调试：SOCKS5 代理下 Chart API 正常，历史数据却一直超时 环境：Linux / Python 3.12 / yfinance 1.6.0（源码仓库）/ curl_cffi 最终成果：定位并修复 yfinance 的 4 处问题，补丁已提交官方 PR：ht",
+          "link": "https://www.cnblogs.com/amosli/p/22652811",
+          "publishedOn": "2026-08-24T04:36:00.000Z",
+          "wordCount": 1018,
+          "title": "记一次 yfinance 源码调试：SOCKS5 代理下 Chart API 正常，历史数据却一直超时 - Hi_Amos",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/uniqueDong/p/22652699",
+          "author": null,
+          "description": "上周我让 Claude Code 给项目加个权限控制，它啪一下甩出 200 行代码，跑起来直接 500。我盯着报错看了三分钟，才意识到问题不在模型，是我没跟它讲清楚「权限」到底指什么。 这个场景你熟不熟。AI 编程 agent 写不出好代码，根因往往不是模型笨，是我们没把需求讲清楚。TypeScri",
+          "link": "https://www.cnblogs.com/uniqueDong/p/22652699",
+          "publishedOn": "2026-08-24T04:16:00.000Z",
+          "wordCount": 999,
+          "title": "Matt Pocock 的 agent skills 好用，但国产 spec-superflow 更狠 - 码哥字节",
+          "imageUrl": "https://img2024.cnblogs.com/blog/735767/202605/735767-20260526114014236-744639895.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/Doyoung/p/22651935",
+          "author": null,
+          "description": "【开源】《QuickTodo》一个终端里的 Todo CLI QuickTodo 是一个用 Go 编写的终端 Todo 工具，默认命令名是 qtd。它的用途很直接：在命令行里快速添加、查看、修改、完成和删除待办事项。 如果你的日常工作主要在终端里完成，qtd 可以把临时任务记录、任务状态更新和待办列",
+          "link": "https://www.cnblogs.com/Doyoung/p/22651935",
+          "publishedOn": "2026-08-24T03:42:00.000Z",
+          "wordCount": 492,
+          "title": "【开源】《QuickTodo》一个终端里的 Todo CLI - 咸鱼Doyoung",
+          "imageUrl": "https://img2024.cnblogs.com/blog/1896114/202608/1896114-20260824114146652-2086576365.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/mrpan0920/p/22650754",
+          "author": null,
+          "description": "Rocky‑Linux‑10.2‑x86_64 Stratis 完整部署教程 Stratis 是 RHEL 系新一代存储管理器，基于 XFS，支持精简配置、自动扩容、快照、多磁盘组成存储池，替代部分 LVM 场景。 ⚠️重要限 不支持 root 根文件系统，仅用于数据盘；池创建后不能加密，加密只能创",
+          "link": "https://www.cnblogs.com/mrpan0920/p/22650754",
+          "publishedOn": "2026-08-24T02:57:00.000Z",
+          "wordCount": 426,
+          "title": "Rocky‑Linux‑10.2‑x86_64 Stratis 完整部署教程 - 九幽提刑官",
+          "imageUrl": "https://img2024.cnblogs.com/blog/3633685/202608/3633685-20260824101428902-271404733.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/cmt/p/22650728",
+          "author": null,
+          "description": "热点随笔： &#183; 从 0 到 1，DeepSeek Harness 保姆级安装与使用教程！ (狂师) &#183; DeepSeek Harness必装的10个插件 (苏三说技术) &#183; 开源两天 9.5 万 Star！DeepSeek Harness 到底是个啥？小白安装到实战一篇讲透 (程序员晓凡) &#183; De",
+          "link": "https://www.cnblogs.com/cmt/p/22650728",
+          "publishedOn": "2026-08-24T02:56:00.000Z",
+          "wordCount": 363,
+          "title": "上周热点回顾（8.17-8.23） - 博客园团队",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/ai-old-six/p/22650543",
+          "author": null,
+          "description": "强模型不需要被过期步骤牵着走，提示词更该定义目标、边界、验收证据和需要确认的歧义。 新模型上线后，很多团队会遇到一个反直觉的问题：模型更强了，任务结果却没有明显变好。 原因有时不在模型，而在提示词。旧提示词为了照顾弱模型，往往把任务拆成固定路线：先查哪个模块、再改哪个函数、哪些文件不要碰、最后补什么",
+          "link": "https://www.cnblogs.com/ai-old-six/p/22650543",
+          "publishedOn": "2026-08-24T02:49:00.000Z",
+          "wordCount": 435,
+          "title": "强模型时代，提示词要从步骤清单改成任务契约 - AI小老六",
+          "imageUrl": "https://img2024.cnblogs.com/blog/3798513/202608/3798513-20260824104715843-1724349683.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/xiexj/p/22648941",
+          "author": null,
+          "description": "公司实习生小哥哥来找我：AI 把功能全写完了，可现在改一处崩一处，不敢动了。 我没看代码，先问了三个问题：评测集呢？bad case 错题本呢？这周删过代码吗？ 三连否。 我说行，这不是工程问题，是负责方式的问题——不是打击谁，是先把地图摊开。然后我从书架上抽出一本 2010 年的旧书：《97 Th",
+          "link": "https://www.cnblogs.com/xiexj/p/22648941",
+          "publishedOn": "2026-08-24T01:53:00.000Z",
+          "wordCount": 468,
+          "title": "AI 都会写代码了，我为什么还逼小伙伴们读一本 2010 年的旧书？ - 编程一生",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
         {
           "id": "https://www.cnblogs.com/zrui-xyu/p/22648318",
           "author": null,
@@ -28590,6 +29045,36 @@
       "siteUrl": "http://h1.nobbd.de/",
       "articles": [
         {
+          "id": "https://hackerone.com/reports/3963494",
+          "author": null,
+          "description": "curl disclosed a bug submitted by subadevan: https://hackerone.com/reports/3963494",
+          "link": "https://hackerone.com/reports/3963494",
+          "publishedOn": "2026-08-24T21:51:15.000Z",
+          "wordCount": 25,
+          "title": "RTSP CRLF injection in libcurl allows CURLOPT_RTSP_* values to inject commands into independent sessions",
+          "imageUrl": "https://profile-photos.hackerone-user-content.com/variants/000/035/663/2faf4c279d437d64bfda6d23d62ce1833813a4d9_original.png/f0e07660005686ec92c43da54c0094c1ac1b490ea8c5eac04a4081d912d6ce36"
+        },
+        {
+          "id": "https://hackerone.com/reports/3963725",
+          "author": null,
+          "description": "curl disclosed a bug submitted by subadevan: https://hackerone.com/reports/3963725",
+          "link": "https://hackerone.com/reports/3963725",
+          "publishedOn": "2026-08-24T21:51:05.000Z",
+          "wordCount": 25,
+          "title": "wolfSSL backend disables hostname verification when CURLOPT_SSL_VERIFYPEER is 0",
+          "imageUrl": "https://profile-photos.hackerone-user-content.com/variants/000/035/663/2faf4c279d437d64bfda6d23d62ce1833813a4d9_original.png/f0e07660005686ec92c43da54c0094c1ac1b490ea8c5eac04a4081d912d6ce36"
+        },
+        {
+          "id": "https://hackerone.com/reports/3727743",
+          "author": null,
+          "description": "Ruby on Rails disclosed a bug submitted by offsetmd: https://hackerone.com/reports/3727743",
+          "link": "https://hackerone.com/reports/3727743",
+          "publishedOn": "2026-08-24T16:21:36.000Z",
+          "wordCount": 25,
+          "title": "URI scheme validation bypass in ActionText `to_markdown` via user-supplied `<action-text-markdown>` marker tag",
+          "imageUrl": "https://profile-photos.hackerone-user-content.com/variants/000/000/022/5e2b46658c8b86bed62f574d8e1793f353cbbc63_original.png/f0e07660005686ec92c43da54c0094c1ac1b490ea8c5eac04a4081d912d6ce36"
+        },
+        {
           "id": "https://hackerone.com/reports/3696266",
           "author": null,
           "description": "Nextcloud disclosed a bug submitted by mirachael: https://hackerone.com/reports/3696266",
@@ -32020,16 +32505,6 @@
           "wordCount": 24484,
           "title": "Credential Dumping In Linux",
           "imageUrl": "https://payatu.com/wp-content/uploads/2025/09/Credential-Dumping-in-Linux-2.jpg"
-        },
-        {
-          "id": "https://payatu.com/?p=14240",
-          "author": "Tanvi",
-          "description": "Introduction  AI is revolutionising healthcare. From diagnostics to patient interaction, Large Language Models (LLMs) are helping MedTech companies enhance outcomes and efficiency. But with this innovation comes a host of hidden risks, ones that can jeopardise patient safety, data privacy, and regulatory compliance. In this article, we explore how a security assessment of an AI-powered […]\nThe post The Hidden Risks of AI in MedTech And How to Fix Them  appeared first on Payatu.",
-          "link": "https://payatu.com/blog/the-hidden-risks-of-ai-in-medtech-and-how-to-fix-them/",
-          "publishedOn": "2025-08-25T09:02:40.000Z",
-          "wordCount": 20805,
-          "title": "The Hidden Risks of AI in MedTech And How to Fix Them",
-          "imageUrl": "https://payatu.com/wp-content/uploads/2025/08/The-Hidden-Risks-of-AI-in-Medtech-1.jpg"
         }
       ]
     },
