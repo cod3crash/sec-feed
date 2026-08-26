@@ -6,6 +6,46 @@
       "siteUrl": "http://h1.nobbd.de/",
       "articles": [
         {
+          "id": "https://hackerone.com/reports/3527788",
+          "author": null,
+          "description": "GitHub disclosed a bug submitted by ahacker1: https://hackerone.com/reports/3527788",
+          "link": "https://hackerone.com/reports/3527788",
+          "publishedOn": "2026-08-25T21:22:31.000Z",
+          "wordCount": 25,
+          "title": "Add labels to arbitrary issues/prs via Memex Bulk Update to compromise github actions label gating",
+          "imageUrl": "https://profile-photos.hackerone-user-content.com/variants/000/001/894/1de36b69ee85cb77397b0ee01ddbabd7ed47a3dd_original.jpg/5d27521e1b671a8e8bc4f016cace6a876120e5addf7dcc35ae4a5eac091669a9"
+        },
+        {
+          "id": "https://hackerone.com/reports/3966955",
+          "author": null,
+          "description": "curl disclosed a bug submitted by 1rhino2: https://hackerone.com/reports/3966955",
+          "link": "https://hackerone.com/reports/3966955",
+          "publishedOn": "2026-08-25T17:21:35.000Z",
+          "wordCount": 25,
+          "title": "TLS session cache case-folds CA paths and bypasses the active trust profile",
+          "imageUrl": "https://profile-photos.hackerone-user-content.com/variants/000/035/663/2faf4c279d437d64bfda6d23d62ce1833813a4d9_original.png/f0e07660005686ec92c43da54c0094c1ac1b490ea8c5eac04a4081d912d6ce36"
+        },
+        {
+          "id": "https://hackerone.com/reports/3963330",
+          "author": null,
+          "description": "curl disclosed a bug submitted by subadevan: https://hackerone.com/reports/3963330",
+          "link": "https://hackerone.com/reports/3963330",
+          "publishedOn": "2026-08-25T13:26:49.000Z",
+          "wordCount": 25,
+          "title": "libcurl Digest/NTLM authentication ignores an explicit Authorization header",
+          "imageUrl": "https://profile-photos.hackerone-user-content.com/variants/000/035/663/2faf4c279d437d64bfda6d23d62ce1833813a4d9_original.png/f0e07660005686ec92c43da54c0094c1ac1b490ea8c5eac04a4081d912d6ce36"
+        },
+        {
+          "id": "https://hackerone.com/reports/3889473",
+          "author": null,
+          "description": "8x8 disclosed a bug submitted by a3z4km3: https://hackerone.com/reports/3889473",
+          "link": "https://hackerone.com/reports/3889473",
+          "publishedOn": "2026-08-25T02:09:50.000Z",
+          "wordCount": 25,
+          "title": "@jitsi/docker-jitsi-meet: `/colibri-relay-ws/` unsafe nginx regex (OCTO relay configuration)",
+          "imageUrl": "https://profile-photos.hackerone-user-content.com/variants/3y22a5r49ryw4d4454msmh3frrgn/eab7e558a2bc3ec841c51b96524419e712978d371ddb665048a3154ab05197fc"
+        },
+        {
           "id": "https://hackerone.com/reports/3963494",
           "author": null,
           "description": "curl disclosed a bug submitted by subadevan: https://hackerone.com/reports/3963494",
@@ -4659,6 +4699,106 @@
       "feedUrl": "https://medium.com/feed/tag/bugbounty",
       "siteUrl": "https://medium.com/tag/bugbounty/latest?source=rss------bugbounty-5",
       "articles": [
+        {
+          "id": "https://medium.com/p/2068d19c964f",
+          "author": "ghostyjoe",
+          "description": "A practical beginner-to-intermediate guide to ethical hacking, vulnerability research, recon, target selection, methodology, reporting…\nContinue reading on Bug Bounty Hunting: A Comprehensive Guide in English and french »",
+          "link": "https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/bug-bounty-hunting-how-to-start-finding-real-vulnerabilities-and-get-paid-2068d19c964f?source=rss------bugbounty-5",
+          "publishedOn": "2026-08-25T23:21:22.000Z",
+          "wordCount": null,
+          "title": "Bug Bounty Hunting: How to Start Finding Real Vulnerabilities (and Get Paid)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/818991ee02e0",
+          "author": "julichaan",
+          "description": "Not every security finding is an RCE. Sometimes the interesting bugs are hidden in the assumptions developers make about the environment…\nContinue reading on Medium »",
+          "link": "https://medium.com/@espadar.julian/when-a-777-directory-becomes-a-security-issue-a-bug-bounty-story-about-state-tampering-818991ee02e0?source=rss------bugbounty-5",
+          "publishedOn": "2026-08-25T22:02:00.000Z",
+          "wordCount": null,
+          "title": "When a 777 Directory Becomes a Security Issue: A Bug Bounty Story About State Tampering",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/72f82ad2c27b",
+          "author": "Ananya Rathod",
+          "description": "While testing a web application, I was looking at its GraphQL endpoint and started checking how it handled invalid queries.\nContinue reading on Medium »",
+          "link": "https://medium.com/@ananya.itims/finding-sensitive-backend-information-through-graphql-errors-72f82ad2c27b?source=rss------bugbounty-5",
+          "publishedOn": "2026-08-25T19:22:57.000Z",
+          "wordCount": null,
+          "title": "Finding Sensitive Backend Information Through GraphQL Errors",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/8b8ae68e1737",
+          "author": "Mahmoud Elkhaligy",
+          "description": "CISA Advisory: VA-26-232-02\nContinue reading on Medium »",
+          "link": "https://medium.com/@melkhaligy77/cve-2026-75932-cve-2026-75933-jet-admin-tenant-isolation-failure-and-stored-xss-8b8ae68e1737?source=rss------bugbounty-5",
+          "publishedOn": "2026-08-25T18:40:05.000Z",
+          "wordCount": null,
+          "title": "CVE-2026-75932 & CVE-2026-75933: Jet Admin Tenant Isolation Failure and Stored XSS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/6489cbbbeedb",
+          "author": "Khaja Masthan Shaik",
+          "description": "One day I looked at my Linux setup and asked myself a simple question: How many tools do I actually have installed, and how many of them…\nContinue reading on Medium »",
+          "link": "https://medium.com/@khajamasthan45/stop-blindly-trusting-your-path-meet-53lf-audit-6489cbbbeedb?source=rss------bugbounty-5",
+          "publishedOn": "2026-08-25T15:56:39.000Z",
+          "wordCount": null,
+          "title": "Stop Blindly Trusting Your PATH: Meet 53LF AUDIT",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/0da0be6764fe",
+          "author": "lukewago",
+          "description": "Continue reading on Medium »",
+          "link": "https://medium.com/@lukewago/injection-vulnerabilities-the-incursion-0da0be6764fe?source=rss------bugbounty-5",
+          "publishedOn": "2026-08-25T14:39:53.000Z",
+          "wordCount": null,
+          "title": "Injection Vulnerabilities: The Incursion",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/c5811efe7b9c",
+          "author": "Pentester Club",
+          "description": "Cybersecurity is becoming increasingly complex.\nContinue reading on Medium »",
+          "link": "https://medium.com/@pentesterclubpvtltd/numasec-the-ai-agent-for-cybersecurity-c5811efe7b9c?source=rss------bugbounty-5",
+          "publishedOn": "2026-08-25T13:48:00.000Z",
+          "wordCount": null,
+          "title": "Numasec | The AI Agent for Cybersecurity",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/8f1e4f8633d1",
+          "author": "T4nv1",
+          "description": "When security engineers audit web applications, template rendering engines are often treated as low-risk utilities. Developers assume…\nContinue reading on Medium »",
+          "link": "https://medium.com/@t4nv1/how-a-blind-ssti-in-an-email-template-engine-led-to-remote-code-execution-and-a-25-000-bounty-8f1e4f8633d1?source=rss------bugbounty-5",
+          "publishedOn": "2026-08-25T13:11:01.000Z",
+          "wordCount": null,
+          "title": "How a Blind SSTI in an Email Template Engine Led to Remote Code Execution and a $25,000 Bounty",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/f13dca8d6207",
+          "author": "Very Lazy Tech",
+          "description": "Ever seen a CEO “announce” a major merger in a video, only to discover it was entirely fake — and the damage is already done? Deepfakes…\nContinue reading on Medium »",
+          "link": "https://medium.com/@verylazytech/15-deepfake-security-threats-every-organization-should-prepare-for-master-critical-defenses-f13dca8d6207?source=rss------bugbounty-5",
+          "publishedOn": "2026-08-25T12:10:58.000Z",
+          "wordCount": null,
+          "title": "15 Deepfake Security Threats Every Organization Should Prepare For: Master Critical Defenses",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/0bcfb6a5f43f",
+          "author": "Hangga Aji Sayekti",
+          "description": "A simple client-side bypass allowed a Loom Starter user to download video transcriptions that were supposed to be available only to…\nContinue reading on OSINT Team »",
+          "link": "https://osintteam.blog/loom-subscription-bypass-let-starter-users-download-premium-transcriptions-0bcfb6a5f43f?source=rss------bugbounty-5",
+          "publishedOn": "2026-08-25T11:48:09.000Z",
+          "wordCount": null,
+          "title": "Loom Subscription Bypass Let Starter Users Download Premium Transcriptions",
+          "imageUrl": null
+        },
         {
           "id": "https://medium.com/p/918c587cf5d8",
           "author": "Zyadatef",
@@ -10476,6 +10616,36 @@
       "feedUrl": "https://medium.com/feed/tag/redteam",
       "siteUrl": "https://medium.com/tag/redteam/latest?source=rss------redteam-5",
       "articles": [
+        {
+          "id": "https://medium.com/p/b4ef4eacca54",
+          "author": "berke bodur",
+          "description": "Part 4 of an ongoing series testing MITRE ATT&CK techniques with Atomic Red Team and validating detection coverage in an isolated Windows…\nContinue reading on Medium »",
+          "link": "https://medium.com/@kasimiseni251/when-the-atomic-test-says-success-but-the-evidence-says-otherwise-testing-t1070-003-b4ef4eacca54?source=rss------redteam-5",
+          "publishedOn": "2026-08-25T20:10:22.000Z",
+          "wordCount": null,
+          "title": "When the Atomic Test Says “Success” But the Evidence Says Otherwise: Testing T1070.003",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/6ae70dfafdc9",
+          "author": "Osmanisiktas",
+          "description": "Demonstrating indirect prompt injection vulnerabilities in LLM tool-calling architectures and enforcing scope-based guardrails\nContinue reading on Medium »",
+          "link": "https://medium.com/@osmanisiktas/hands-on-ai-red-teaming-autonomous-agent-hijacking-and-ssrf-attacks-6ae70dfafdc9?source=rss------redteam-5",
+          "publishedOn": "2026-08-25T14:09:49.000Z",
+          "wordCount": null,
+          "title": "Hands-On AI Red Teaming: Autonomous Agent Hijacking and SSRF Attacks",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/bdd4e9275331",
+          "author": "yamish marshall",
+          "description": "Introduction\nContinue reading on Medium »",
+          "link": "https://medium.com/@yamishalpha/casino-hacksmarter-challenge-lab-medium-write-up-bdd4e9275331?source=rss------redteam-5",
+          "publishedOn": "2026-08-25T10:09:17.000Z",
+          "wordCount": null,
+          "title": "Casino— HackSmarter Challenge Lab (Medium) Write-up",
+          "imageUrl": null
+        },
         {
           "id": "https://medium.com/p/be7cd2c1fb21",
           "author": "Youssef Fathelbab",
@@ -17168,6 +17338,206 @@
       "feedUrl": "https://feed.cnblogs.com/blog/sitehome/rss",
       "siteUrl": null,
       "articles": [
+        {
+          "id": "https://www.cnblogs.com/simanL/p/22691142",
+          "author": null,
+          "description": "一、 全屋智能照明的架構需求與痛點 傳統住宅電氣佈局在面對現代無主燈設計時，往往暴露出控制點位繁多、雙控/多控接線複雜以及無法動態調節色溫與亮度的侷限性。全屋智能照明系統則透過分散式控制與無線通訊技術解決了這些問題。 二、 核心技術實現模組 通訊協定選型：多採用低功耗藍牙 Mesh（Bluetoot",
+          "link": "https://www.cnblogs.com/simanL/p/22691142",
+          "publishedOn": "2026-08-26T01:33:00.000Z",
+          "wordCount": 270,
+          "title": "物聯網生態的全屋智能照明系統設計與架構實現 - simanL",
+          "imageUrl": "https://img2024.cnblogs.com/blog/3837241/202608/3837241-20260826093236213-616582596.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/jinjiangongzuoshi/p/22690327",
+          "author": null,
+          "description": "大家好，我是狂师。 前两篇，我们把「跑测试」和「修脚本」都交给了 AI。执行有证据，失败有结论，修复有验证，测试这条链算是跑顺了。 但每到版本发布前，还是有一件事让人头疼，写测试报告。 明明活都干完了，最后还要从 XML 里找数字、往 Word 里贴截图、在 Excel 里算通过率。折腾一下午，发到",
+          "link": "https://www.cnblogs.com/jinjiangongzuoshi/p/22690327",
+          "publishedOn": "2026-08-26T01:01:00.000Z",
+          "wordCount": 681,
+          "title": "AI 测试丨一句指令生成测试报告，带失败截图、操作录屏、Trace、日志，这套 Skill 思路可以直接抄... - 狂师",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/cicada-smile/p/22689631",
+          "author": null,
+          "description": "AI技术不停往前迭代，人的缓慢脚步注定跟不上。趋势何时才能停下，暂时没有浮现答案，似乎只能寄希望于历史进程。",
+          "link": "https://www.cnblogs.com/cicada-smile/p/22689631",
+          "publishedOn": "2026-08-26T00:12:00.000Z",
+          "wordCount": 302,
+          "title": "项目管理，被AI困在2026年 - 三范式",
+          "imageUrl": "https://img2024.cnblogs.com/blog/1691717/202608/1691717-20260826081129848-324129739.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/jyzhao/p/22688854",
+          "author": null,
+          "description": "复制网址很简单：⌘ + A、⌘ + C。但面对超长链接，若只想保留站点地址，鼠标拖选既慢又容易选不准。 例如： https://example.com/article/2026/08/mac-shortcuts-guide?utm_source=wechat&amp;utm_medium=article&amp;u",
+          "link": "https://www.cnblogs.com/jyzhao/p/22688854",
+          "publishedOn": "2026-08-25T23:07:00.000Z",
+          "wordCount": 509,
+          "title": "Mac 小技巧：用方向键优雅处理超长网址 - AlfredZhao",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/yyfh/p/22685032",
+          "author": null,
+          "description": "导出时要把 .NET 值写成合法的 OOXML 单元格；导入时要从不同的单元格表示恢复逻辑列和文本。本文把 XML 转义、UTF-8、Inline String、稀疏列、富文本和日期系统放在一条读写链路里说明。 单元格读写的共同难点是：业务上看到的是“一个值”，OOXML 里却有很多表示方式。 写入",
+          "link": "https://www.cnblogs.com/yyfh/p/22685032",
+          "publishedOn": "2026-08-25T13:46:00.000Z",
+          "wordCount": 527,
+          "title": "Magicodes.IE.IO： XML 单元格读写：转义、稀疏列与日期 - HueiFeng",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/ICollection/p/22685017",
+          "author": null,
+          "description": "使用一台安装了RTX4060显卡8G显存的笔记本用ComfyUI绘图。笔记本安装了Ubuntu26.04操作系统，使用Docker部署服务，已经安装好了显卡驱动和cuda-13对Dockers的支持包，远程操作ComfyUI绘图。文中用到的一些软件或者模型需要梯子才能下载到。",
+          "link": "https://www.cnblogs.com/ICollection/p/22685017",
+          "publishedOn": "2026-08-25T13:43:00.000Z",
+          "wordCount": 602,
+          "title": "4060笔记本用Docker部署ComfyUI绘图 - ICollection",
+          "imageUrl": "https://img2024.cnblogs.com/blog/3671549/202608/3671549-20260825214107193-1851249797.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/aaronia/p/22685008",
+          "author": null,
+          "description": "频谱分析仪的架构演进，是&quot;采集能力&quot;与&quot;处理能力&quot;这对矛盾的持续解法。从扫频到步进 FFT，再到实时架构，每一步都在扩大&quot;无盲区观测&quot;的边界。本文以学习笔记的形式，梳理三类架构的技术脉络。一、扫频架构：顺序测量的经典方案；二、步进 FFT 架构：段内加速；三、实时架构：连续数字化 + 并行 FFT。",
+          "link": "https://www.cnblogs.com/aaronia/p/22685008",
+          "publishedOn": "2026-08-25T13:42:00.000Z",
+          "wordCount": 381,
+          "title": "频谱分析架构演进笔记：扫频、步进 FFT 与实时架构 - AARONIA",
+          "imageUrl": "https://img2024.cnblogs.com/blog/2365187/202608/2365187-20260825213828627-32294959.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/rossiXYZ/p/22643564",
+          "author": null,
+          "description": "【OpenClaw具身硬件】ZeroClaw 源码阅读笔记（1） 总体 目录【OpenClaw具身硬件】ZeroClaw 源码阅读笔记（1） 总体0x00 概要0x01 基础知识1.1 主要功能1.2 系统架构1.2.1 层级关系1.2.2 模块图1.2.3 依赖关系1.3 CLI1.4 消息流程1",
+          "link": "https://www.cnblogs.com/rossiXYZ/p/22643564",
+          "publishedOn": "2026-08-25T12:56:00.000Z",
+          "wordCount": 1670,
+          "title": "【OpenClaw具身硬件】ZeroClaw 源码阅读笔记（1）--- 总体 - 罗西的思考",
+          "imageUrl": "https://img2024.cnblogs.com/blog/1850883/202608/1850883-20260823212345850-58068574.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/curtain-haha/p/22684136",
+          "author": null,
+          "description": "OceanBase 常用 SQL 语句及分区和分片介绍 有一段时间没有更新 OceanBase 相关文章了。前段时间一方面忙着其他事情，另一方面兴致来了，又连续写了一周的 GaussDB 博客。从今天开始，重新回到 OceanBase，这篇文章先把之前学习和实践过程中常用到的 SQL 语句做一次汇总",
+          "link": "https://www.cnblogs.com/curtain-haha/p/22684136",
+          "publishedOn": "2026-08-25T11:20:00.000Z",
+          "wordCount": 2929,
+          "title": "OceanBase 常用 SQL 语句及分区和分片介绍 - 圣彼得堡的村长",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/zgzf/p/22683583/pdf-bank-statement-converter",
+          "author": null,
+          "description": "一、前言：PDF表格转换的行业痛点 在企业办公、财务统计、数据分析、科研调研等场景中，PDF是最主流的文件归档格式，但PDF表格无法直接编辑、结构化提取困难的问题，长期困扰着数据处理人员。传统PDF转Excel方案存在诸多短板：常规在线转换工具对扫描版PDF、错乱排版表格、合并单元格表格识别率极低；",
+          "link": "https://www.cnblogs.com/zgzf/p/22683583/pdf-bank-statement-converter",
+          "publishedOn": "2026-08-25T10:28:00.000Z",
+          "wordCount": 331,
+          "title": "基于deepseek-v4-flash-vision-exp实现银行对账单高效转Excel表格方案 - 诸葛子房",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/CENSORED1145146/p/22649865",
+          "author": null,
+          "description": "动态DP（居然是毒瘤DP，那就不学了（bushi）） 1.引子 让我们从一个常见的问题入手吧： 给定一棵 \\(n\\) 个点的树，点带点权，\\(u\\)点的点权为\\(a[u]\\)，求出这棵树的最大权独立集的权值大小。 $Tip$ 树上最大独立集问题是指在给定的树中，找到一个具有最大节点数量的独立集。独立",
+          "link": "https://www.cnblogs.com/CENSORED1145146/p/22649865",
+          "publishedOn": "2026-08-25T09:30:00.000Z",
+          "wordCount": 585,
+          "title": "动态DP学习笔记 - _CENSORED",
+          "imageUrl": "https://img2024.cnblogs.com/blog/3694811/202608/3694811-20260824091012689-849823587.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/grey-wolf/p/22681409",
+          "author": null,
+          "description": "背景 大家好，我是逐日。最近运维反馈有个项目的内存有点高，怀疑是不是内存泄漏，我就让他给我dump了一下内存，准备用EclipseMemoryAnalyzer（MAT）分析下。 dump命令： jmap -dump:live,format=b,file=heap.bin 进程pid mat下载 ht",
+          "link": "https://www.cnblogs.com/grey-wolf/p/22681409",
+          "publishedOn": "2026-08-25T09:10:00.000Z",
+          "wordCount": 338,
+          "title": "廉颇老矣，装个EclipseMemoryAnalyzer都能卡一小时 - 三国梦回",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/catuncle/p/22681240",
+          "author": null,
+          "description": "大家好，我是猫叔。这篇是一篇工程笔记，也是一次项目推荐：我维护的开源项目&#160;OpenWorkBuddy——一个跑在自己电脑上的桌面端通用 AI Agent，同时是一份完整可读的 Agent Harness 参考实现。如果你最近在研究 Agent 开发、想找值得读的开源项目，或者想搞清楚 Agent H",
+          "link": "https://www.cnblogs.com/catuncle/p/22681240",
+          "publishedOn": "2026-08-25T09:06:00.000Z",
+          "wordCount": 996,
+          "title": "学习 Agent Harness，强烈推荐读这个开源项目：腾讯 WorkBuddy 的开源复刻版 OpenWorkBuddy - 大道无形1998",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/shengzhang/p/22681086",
+          "author": null,
+          "description": "微服务子服务通常不能被外网直连，需经网关转发才算合法请求。若有人绕过网关直调资源服务会怎样？本文用 Sa-Token 讲清网关转发鉴权与 RPC 调用鉴权，堵住「绕过网关」缺口，加固内网服务边界安全，适合已有网关但仍担心直连风险的团队，文内含示例，可直接对照实践。",
+          "link": "https://www.cnblogs.com/shengzhang/p/22681086",
+          "publishedOn": "2026-08-25T09:02:00.000Z",
+          "wordCount": 1070,
+          "title": "别人绕过我的网关直接调用资源服务怎么办？使用 Sa-Token 解决：网关转发鉴权、RPC调用鉴权 - 程序员小风筝",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/LyShark/p/22674531",
+          "author": null,
+          "description": "本文以通义千问Qwen量化GGUF模型为案例，基于Llama.cpp框架展示本地大模型调用与功能开发的完整实现原理及流程。全文采用原生Python编写代码案例，无需依赖重型AI框架，依次实现模型元数据解析、本地接口单次对话调用、多轮对话持久化记忆、自定义工具调用拓展等功能实现逻辑，针对直接调用大模型...",
+          "link": "https://www.cnblogs.com/LyShark/p/22674531",
+          "publishedOn": "2026-08-25T08:57:00.000Z",
+          "wordCount": 2054,
+          "title": "Python 原生封装 Llama.cpp 大模型推理接口 - lyshark",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/Goblinscholar/p/22665405",
+          "author": null,
+          "description": "时间过的还是挺快的，我在 25 年的 9 月 26 号开通这个账号，到现在已经快一年了，总计 发表了 141 篇博客，累计字数已经超 100 万了。 而距离上次更新已经快一个半月了，可以说是创号以来最长的更新间隔了，但其实只是毕业后犯懒了，下个月初去深圳读研，简单总结一下关于账号本身和之后的内容方向",
+          "link": "https://www.cnblogs.com/Goblinscholar/p/22665405",
+          "publishedOn": "2026-08-25T07:54:00.000Z",
+          "wordCount": 551,
+          "title": "创号一年，我和我的一百万字博客。 - 哥布林学者",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/lsksp/p/22678265",
+          "author": null,
+          "description": "USB协议定义了一套标准化的设备描述符体系和主机标准请求指令，并通过固定的设备枚举流程，完成主机与设备的握手、信息交互、地址分配、功能配置。这是USB设备从“硬件接入”到“系统可用”的核心逻辑，也是USB即插即用特性的底层实现原理。",
+          "link": "https://www.cnblogs.com/lsksp/p/22678265",
+          "publishedOn": "2026-08-25T07:37:00.000Z",
+          "wordCount": 1265,
+          "title": "USB深度解析（二）：设备枚举 - 比特向阳",
+          "imageUrl": "https://img2024.cnblogs.com/blog/2921660/202608/2921660-20260825153122597-2065191006.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/bytehidden/p/22677308",
+          "author": null,
+          "description": "一直想做一次几家加固的静态强度横评，一直嫌手撸 readelf、strings、数类表太琐碎。这次干脆让 AI 上：四个真实上线的包（起点读书/360、123云盘/爱加密、汽车街/梆梆、凤凰视频/乐固）交给它，解包、解 manifest、遍历 dex、算熵值、扫 ELF，基础数据它出，我做复核和判断",
+          "link": "https://www.cnblogs.com/bytehidden/p/22677308",
+          "publishedOn": "2026-08-25T07:08:00.000Z",
+          "wordCount": 400,
+          "title": "四款 APP 加固强度测评：让 AI 拆了四个包，结果有点出乎意料 - 字节暗面",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/Qiniu-developer/p/22676127",
+          "author": null,
+          "description": "本文基于CompanyX一年61.2亿次真实LLM请求Trace，揭示Serving工作负载动态演化规律：长输入/短输出趋势凸显、Prefix Cache复用呈强时间局部性（99%在15分钟内），并首次系统论证多节点下“缓存复用”与“负载均衡”的本质权衡——Cache-aware路由可提升效率，仅牺...",
+          "link": "https://www.cnblogs.com/Qiniu-developer/p/22676127",
+          "publishedOn": "2026-08-25T06:27:00.000Z",
+          "wordCount": 694,
+          "title": "61 亿次请求背后：LLM Serving 的 Cache 与调度难题 - 小七-七牛开发者",
+          "imageUrl": "https://img2024.cnblogs.com/blog/3796273/202608/3796273-20260825142720287-1298244419.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/DolphinDB/p/22674833",
+          "author": null,
+          "description": "本文以分钟频股票因子预测未来 30 分钟收益率为例，结合 DolphinDB 完成股票池筛选、因子宽表转换、价格数据合并和回测验证，再在 Python 中使用 TabPFN 进行建模和预测，最终基于预测结果构建行业内 TopN 选股策略。",
+          "link": "https://www.cnblogs.com/DolphinDB/p/22674833",
+          "publishedOn": "2026-08-25T05:30:00.000Z",
+          "wordCount": 862,
+          "title": "TabPFN 模型实践：分钟频选股与收益率预测 - DolphinDB",
+          "imageUrl": "https://img2024.cnblogs.com/blog/2232255/202608/2232255-20260825132945235-1943631161.png"
+        },
         {
           "id": "https://www.cnblogs.com/lsjwq/p/22668674",
           "author": null,
@@ -29044,6 +29414,46 @@
       "feedUrl": "http://h1.nobbd.de/reports_rss.xml",
       "siteUrl": "http://h1.nobbd.de/",
       "articles": [
+        {
+          "id": "https://hackerone.com/reports/3527788",
+          "author": null,
+          "description": "GitHub disclosed a bug submitted by ahacker1: https://hackerone.com/reports/3527788",
+          "link": "https://hackerone.com/reports/3527788",
+          "publishedOn": "2026-08-25T21:22:31.000Z",
+          "wordCount": 25,
+          "title": "Add labels to arbitrary issues/prs via Memex Bulk Update to compromise github actions label gating",
+          "imageUrl": "https://profile-photos.hackerone-user-content.com/variants/000/001/894/1de36b69ee85cb77397b0ee01ddbabd7ed47a3dd_original.jpg/5d27521e1b671a8e8bc4f016cace6a876120e5addf7dcc35ae4a5eac091669a9"
+        },
+        {
+          "id": "https://hackerone.com/reports/3966955",
+          "author": null,
+          "description": "curl disclosed a bug submitted by 1rhino2: https://hackerone.com/reports/3966955",
+          "link": "https://hackerone.com/reports/3966955",
+          "publishedOn": "2026-08-25T17:21:35.000Z",
+          "wordCount": 25,
+          "title": "TLS session cache case-folds CA paths and bypasses the active trust profile",
+          "imageUrl": "https://profile-photos.hackerone-user-content.com/variants/000/035/663/2faf4c279d437d64bfda6d23d62ce1833813a4d9_original.png/f0e07660005686ec92c43da54c0094c1ac1b490ea8c5eac04a4081d912d6ce36"
+        },
+        {
+          "id": "https://hackerone.com/reports/3963330",
+          "author": null,
+          "description": "curl disclosed a bug submitted by subadevan: https://hackerone.com/reports/3963330",
+          "link": "https://hackerone.com/reports/3963330",
+          "publishedOn": "2026-08-25T13:26:49.000Z",
+          "wordCount": 25,
+          "title": "libcurl Digest/NTLM authentication ignores an explicit Authorization header",
+          "imageUrl": "https://profile-photos.hackerone-user-content.com/variants/000/035/663/2faf4c279d437d64bfda6d23d62ce1833813a4d9_original.png/f0e07660005686ec92c43da54c0094c1ac1b490ea8c5eac04a4081d912d6ce36"
+        },
+        {
+          "id": "https://hackerone.com/reports/3889473",
+          "author": null,
+          "description": "8x8 disclosed a bug submitted by a3z4km3: https://hackerone.com/reports/3889473",
+          "link": "https://hackerone.com/reports/3889473",
+          "publishedOn": "2026-08-25T02:09:50.000Z",
+          "wordCount": 25,
+          "title": "@jitsi/docker-jitsi-meet: `/colibri-relay-ws/` unsafe nginx regex (OCTO relay configuration)",
+          "imageUrl": "https://profile-photos.hackerone-user-content.com/variants/3y22a5r49ryw4d4454msmh3frrgn/eab7e558a2bc3ec841c51b96524419e712978d371ddb665048a3154ab05197fc"
+        },
         {
           "id": "https://hackerone.com/reports/3963494",
           "author": null,
