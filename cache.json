@@ -6,6 +6,106 @@
       "siteUrl": "http://h1.nobbd.de/",
       "articles": [
         {
+          "id": "https://hackerone.com/reports/3909372",
+          "author": null,
+          "description": "IBM disclosed a bug submitted by inventor0x01: https://hackerone.com/reports/3909372",
+          "link": "https://hackerone.com/reports/3909372",
+          "publishedOn": "2026-08-28T18:20:00.000Z",
+          "wordCount": 25,
+          "title": "Unauthorized vertical privilege escalation vulnerability found on ibm.com endpoint",
+          "imageUrl": "https://profile-photos.hackerone-user-content.com/variants/000/002/060/c9c3633edc1081446038c76237344b51696334da_original.jpg/5d27521e1b671a8e8bc4f016cace6a876120e5addf7dcc35ae4a5eac091669a9"
+        },
+        {
+          "id": "https://hackerone.com/reports/3931777",
+          "author": null,
+          "description": "WordPress disclosed a bug submitted by jakubk: https://hackerone.com/reports/3931777",
+          "link": "https://hackerone.com/reports/3931777",
+          "publishedOn": "2026-08-28T16:39:48.000Z",
+          "wordCount": 25,
+          "title": "Author  arbitrary file deletion anywhere on disk (site takeover) via `POST /wp/v2/media/<id>/finalize` poisoning `_wp_attachment_metadata`",
+          "imageUrl": "https://profile-photos.hackerone-user-content.com/variants/000/000/055/f114d1d31f904e3b903cd99a6cf566bb531f8401_original.jpg/5d27521e1b671a8e8bc4f016cace6a876120e5addf7dcc35ae4a5eac091669a9"
+        },
+        {
+          "id": "https://hackerone.com/reports/3931771",
+          "author": null,
+          "description": "WordPress disclosed a bug submitted by jakubk: https://hackerone.com/reports/3931771",
+          "link": "https://hackerone.com/reports/3931771",
+          "publishedOn": "2026-08-28T16:38:57.000Z",
+          "wordCount": 25,
+          "title": "Author  stored XSS in wp-admin: unescaped sub-size filename from attachment metadata breaks out of the `src` attribute in `get_media_item()`",
+          "imageUrl": "https://profile-photos.hackerone-user-content.com/variants/000/000/055/f114d1d31f904e3b903cd99a6cf566bb531f8401_original.jpg/5d27521e1b671a8e8bc4f016cace6a876120e5addf7dcc35ae4a5eac091669a9"
+        },
+        {
+          "id": "https://hackerone.com/reports/3564941",
+          "author": null,
+          "description": "Node.js disclosed a bug submitted by yushengchen: https://hackerone.com/reports/3564941",
+          "link": "https://hackerone.com/reports/3564941",
+          "publishedOn": "2026-08-28T14:16:19.000Z",
+          "wordCount": 25,
+          "title": "HTTP Request Smuggling via Silent Header Truncation in Node.js HTTP Parser",
+          "imageUrl": "https://profile-photos.hackerone-user-content.com/variants/000/022/984/e600648ace4a8553247bce967d461a030aa81d49_original.png/f0e07660005686ec92c43da54c0094c1ac1b490ea8c5eac04a4081d912d6ce36"
+        },
+        {
+          "id": "https://hackerone.com/reports/3857258",
+          "author": null,
+          "description": "Node.js disclosed a bug submitted by byvini: https://hackerone.com/reports/3857258",
+          "link": "https://hackerone.com/reports/3857258",
+          "publishedOn": "2026-08-28T14:16:19.000Z",
+          "wordCount": 25,
+          "title": "Reachable assertion in node:zlib sync API crashes the entire process via spoofed TypedArray byteLength (all 11 *Sync functions affected)",
+          "imageUrl": "https://profile-photos.hackerone-user-content.com/variants/000/022/984/e600648ace4a8553247bce967d461a030aa81d49_original.png/f0e07660005686ec92c43da54c0094c1ac1b490ea8c5eac04a4081d912d6ce36"
+        },
+        {
+          "id": "https://hackerone.com/reports/3795657",
+          "author": null,
+          "description": "Node.js disclosed a bug submitted by cantina-security: https://hackerone.com/reports/3795657",
+          "link": "https://hackerone.com/reports/3795657",
+          "publishedOn": "2026-08-28T14:16:02.000Z",
+          "wordCount": 25,
+          "title": "dns.resolveAny() Aborts the Node.js Process When a DNS Response Contains More Than 256 A Records",
+          "imageUrl": "https://profile-photos.hackerone-user-content.com/variants/000/022/984/e600648ace4a8553247bce967d461a030aa81d49_original.png/f0e07660005686ec92c43da54c0094c1ac1b490ea8c5eac04a4081d912d6ce36"
+        },
+        {
+          "id": "https://hackerone.com/reports/3795900",
+          "author": null,
+          "description": "Node.js disclosed a bug submitted by cantina-security: https://hackerone.com/reports/3795900",
+          "link": "https://hackerone.com/reports/3795900",
+          "publishedOn": "2026-08-28T14:15:57.000Z",
+          "wordCount": 25,
+          "title": "node:sqlite SQLTagStore Iterator Replay Lets Attacker Re-Execute Victim-Bound Writes Indefinitely",
+          "imageUrl": "https://profile-photos.hackerone-user-content.com/variants/000/022/984/e600648ace4a8553247bce967d461a030aa81d49_original.png/f0e07660005686ec92c43da54c0094c1ac1b490ea8c5eac04a4081d912d6ce36"
+        },
+        {
+          "id": "https://hackerone.com/reports/3833629",
+          "author": null,
+          "description": "Node.js disclosed a bug submitted by hahahkim: https://hackerone.com/reports/3833629",
+          "link": "https://hackerone.com/reports/3833629",
+          "publishedOn": "2026-08-28T14:15:35.000Z",
+          "wordCount": 25,
+          "title": "Re-entrant `nghttp2_session_mem_send()` during `nghttp2_session_mem_recv()` causes heap-use-after-free in Node.js HTTP/2",
+          "imageUrl": "https://profile-photos.hackerone-user-content.com/variants/000/022/984/e600648ace4a8553247bce967d461a030aa81d49_original.png/f0e07660005686ec92c43da54c0094c1ac1b490ea8c5eac04a4081d912d6ce36"
+        },
+        {
+          "id": "https://hackerone.com/reports/3846922",
+          "author": null,
+          "description": "Node.js disclosed a bug submitted by leduckhuong: https://hackerone.com/reports/3846922",
+          "link": "https://hackerone.com/reports/3846922",
+          "publishedOn": "2026-08-28T14:15:33.000Z",
+          "wordCount": 25,
+          "title": "HTTP/2 retained header blocks evade maxSessionMemory and enable remote memory exhaustion",
+          "imageUrl": "https://profile-photos.hackerone-user-content.com/variants/000/022/984/e600648ace4a8553247bce967d461a030aa81d49_original.png/f0e07660005686ec92c43da54c0094c1ac1b490ea8c5eac04a4081d912d6ce36"
+        },
+        {
+          "id": "https://hackerone.com/reports/3972316",
+          "author": null,
+          "description": "curl disclosed a bug submitted by giant_anteater: https://hackerone.com/reports/3972316",
+          "link": "https://hackerone.com/reports/3972316",
+          "publishedOn": "2026-08-28T13:43:06.000Z",
+          "wordCount": 25,
+          "title": "46: `--libcurl` output carries `--insecure` across `--next` boundaries",
+          "imageUrl": "https://profile-photos.hackerone-user-content.com/variants/000/035/663/2faf4c279d437d64bfda6d23d62ce1833813a4d9_original.png/f0e07660005686ec92c43da54c0094c1ac1b490ea8c5eac04a4081d912d6ce36"
+        },
+        {
           "id": "https://hackerone.com/reports/3971496",
           "author": null,
           "description": "curl disclosed a bug submitted by giant_anteater: https://hackerone.com/reports/3971496",
@@ -2943,6 +3043,106 @@
       "siteUrl": "https://infosecwriteups.com?source=rss----7b722bfd1b8d---4",
       "articles": [
         {
+          "id": "https://medium.com/p/dad8110b74e9",
+          "author": "PriOFF",
+          "description": "",
+          "link": "https://infosecwriteups.com/hunting-down-hackers-incident-response-with-wireshark-dad8110b74e9?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2026-08-29T06:14:21.000Z",
+          "wordCount": null,
+          "title": "Hunting Down Hackers: Incident Response with Wireshark",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/022749c6f241",
+          "author": "aw0ken",
+          "description": "",
+          "link": "https://infosecwriteups.com/hs-dark-writeup-022749c6f241?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2026-08-29T06:14:02.000Z",
+          "wordCount": null,
+          "title": "[HS] Dark Writeup",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/85a5dd6fa01e",
+          "author": "Avyukt Security",
+          "description": "",
+          "link": "https://infosecwriteups.com/operation-repoghost-exposing-a-russian-linked-malware-campaign-hiding-in-githubs-open-source-85a5dd6fa01e?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2026-08-29T06:12:53.000Z",
+          "wordCount": null,
+          "title": "Operation RepoGhost: Exposing a Russian-Linked Malware Campaign Hiding in GitHub’s Open-Source…",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/0bad84ae465b",
+          "author": "Prince Lassey",
+          "description": "",
+          "link": "https://infosecwriteups.com/letsdefend-kerbroasting-challenge-walkthrough-0bad84ae465b?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2026-08-29T06:12:32.000Z",
+          "wordCount": null,
+          "title": "LetsDefend: Kerberoasting Challenge (Walkthrough)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/fa655886d56d",
+          "author": "Dhanush N",
+          "description": "She encrypted her secrets inside a VeraCrypt container. The container password was in Chrome. Chrome was locked by DPAPI. DPAPI needed her…\nContinue reading on InfoSec Write-ups »",
+          "link": "https://infosecwriteups.com/hacker-holidays-2026-day-14-walkthrough-management-wants-a-word-fa655886d56d?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2026-08-29T06:11:13.000Z",
+          "wordCount": null,
+          "title": "Hacker Holidays 2026: Day 14 Walkthrough (Management Wants a Word)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/31011e460277",
+          "author": "Dhanush N",
+          "description": "An AI concierge read every guestbook entry as an instruction. We disguised shell commands as hotel reviews. When the output was redacted…\nContinue reading on InfoSec Write-ups »",
+          "link": "https://infosecwriteups.com/hacker-holidays-2026-day-13-walkthrough-the-guestbook-31011e460277?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2026-08-29T06:11:08.000Z",
+          "wordCount": null,
+          "title": "Hacker Holidays 2026: Day 13 Walkthrough (The Guestbook)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/582f6bded460",
+          "author": "Dhanush N",
+          "description": "Malware was hiding inside the Windows Management database. We extracted it string by string, decompressed it layer by layer and decompiled…\nContinue reading on InfoSec Write-ups »",
+          "link": "https://infosecwriteups.com/hacker-holidays-2026-day-12-walkthrough-after-hours-582f6bded460?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2026-08-29T06:11:06.000Z",
+          "wordCount": null,
+          "title": "Hacker Holidays 2026: Day 12 Walkthrough (After Hours)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/76267e802804",
+          "author": "Dhanush N",
+          "description": "A status page had command injection. That gave us a shell. Three internal services chained together gave us root. Here is every step…\nContinue reading on InfoSec Write-ups »",
+          "link": "https://infosecwriteups.com/hacker-holidays-2026-day-11-walkthrough-infinity-pool-76267e802804?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2026-08-29T06:10:56.000Z",
+          "wordCount": null,
+          "title": "Hacker Holidays 2026: Day 11 Walkthrough (Infinity Pool)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/d7e5f4600a0a",
+          "author": "aw0ken",
+          "description": "",
+          "link": "https://infosecwriteups.com/offsec-stapler-writeup-d7e5f4600a0a?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2026-08-29T06:08:51.000Z",
+          "wordCount": null,
+          "title": "[OFFSEC] Stapler Writeup",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/466213a1cb47",
+          "author": "Adhamkhairy",
+          "description": "",
+          "link": "https://infosecwriteups.com/how-i-got-my-highest-payout-466213a1cb47?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2026-08-29T06:08:41.000Z",
+          "wordCount": null,
+          "title": "How I Got My Highest Payout",
+          "imageUrl": null
+        },
+        {
           "id": "https://medium.com/p/be0679241940",
           "author": "Andrey Pautov",
           "description": "",
@@ -4899,6 +5099,106 @@
       "feedUrl": "https://medium.com/feed/tag/bugbounty",
       "siteUrl": "https://medium.com/tag/bugbounty/latest?source=rss------bugbounty-5",
       "articles": [
+        {
+          "id": "https://medium.com/p/6814d192510c",
+          "author": "redhunter01",
+          "description": "A payment-processor IDOR, a timing oracle, and how a hunting harness turned one weak signal into a critical\nContinue reading on Medium »",
+          "link": "https://medium.com/@redhunter01/the-authorization-check-that-only-fired-when-you-asked-it-to-6814d192510c?source=rss------bugbounty-5",
+          "publishedOn": "2026-08-29T06:22:43.000Z",
+          "wordCount": null,
+          "title": "The Authorization Check That Only Fired When You Asked It To",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/b74f7499b9c9",
+          "author": "bithowl",
+          "description": "(“The Memory and Machinery Inside Every Android Class”)\nContinue reading on Medium »",
+          "link": "https://medium.com/@bithowl/smali-by-bithowl-chapter-8-methods-and-fields-b74f7499b9c9?source=rss------bugbounty-5",
+          "publishedOn": "2026-08-29T05:31:01.000Z",
+          "wordCount": null,
+          "title": "Smali By bithowl: Chapter 8 Methods and Fields",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/902e37a199a6",
+          "author": "Bugitrix",
+          "description": "Every few months someone posts a screenshot of an AI tool finding an XSS in thirty seconds, and the bug bounty community has a small panic…\nContinue reading on Medium »",
+          "link": "https://medium.com/@bugitrix/the-bugs-ai-still-cant-find-what-will-make-you-a-valuable-bug-hunter-in-2026-902e37a199a6?source=rss------bugbounty-5",
+          "publishedOn": "2026-08-29T04:16:32.000Z",
+          "wordCount": null,
+          "title": "The Bugs AI Still Can’t Find: What Will Make You a Valuable Bug Hunter in 2026",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/898628c62438",
+          "author": "Raj Namdev",
+          "description": "The stuck-at-zero year is common, documented, and mostly misdiagnosed. The evidence points at where you hunt — not how well.\nContinue reading on Medium »",
+          "link": "https://medium.com/@rajnamdev/8-months-of-learning-4-months-of-hunting-0-bugs-heres-what-actually-went-wrong-898628c62438?source=rss------bugbounty-5",
+          "publishedOn": "2026-08-29T03:01:02.000Z",
+          "wordCount": null,
+          "title": "8 Months of Learning, 4 Months of Hunting, 0 Bugs — Here’s What Actually Went Wrong",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/8e24320e612a",
+          "author": "Md Tanjimul Islam Sifat",
+          "description": "By Md Tanjimul Islam Sifat (TI Sifat) Cybersecurity Researcher | Bug Bounty Hunter | Founder of SftSec Tim\nContinue reading on Medium »",
+          "link": "https://medium.com/@tanjimul_islam/i-found-a-fully-misconfigured-s3-bucket-exposing-private-images-and-lead-complete-takeover-8e24320e612a?source=rss------bugbounty-5",
+          "publishedOn": "2026-08-29T00:01:01.000Z",
+          "wordCount": null,
+          "title": "I Found a Fully Misconfigured S3 Bucket Exposing Private Images and Lead Complete Takeover",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/4d4862194323",
+          "author": "Reza",
+          "description": "There’s a specific kind of quiet that happens when you’re scrolling through a minified JavaScript bundle and a string catches your eye…\nContinue reading on Medium »",
+          "link": "https://medium.com/@rs67iran/the-oauth2-secret-that-was-never-supposed-to-leave-the-server-but-did-4d4862194323?source=rss------bugbounty-5",
+          "publishedOn": "2026-08-28T23:42:03.000Z",
+          "wordCount": null,
+          "title": "The OAuth2 Secret That Was Never Supposed to Leave the Server — But Did",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/70dd6b9aa743",
+          "author": "Monika",
+          "description": "How I use httpx to identify live hosts, collect valuable HTTP information, and streamline my bug bounty reconnaissance with practical…\nContinue reading on MeetCyber »",
+          "link": "https://meetcyber.net/httpx-explained-with-practical-examples-70dd6b9aa743?source=rss------bugbounty-5",
+          "publishedOn": "2026-08-28T20:42:56.000Z",
+          "wordCount": null,
+          "title": "Httpx Explained with Practical Examples",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/21680c6506b1",
+          "author": "Vivek Yadav",
+          "description": "Difficulty: Apprentice Category: Access Control Vulnerabilities Lab: User ID controlled by request parameter with data leakage in redirect\nContinue reading on Medium »",
+          "link": "https://vivek0x.medium.com/portswigger-lab-walkthrough-user-id-controlled-by-request-parameter-with-data-leakage-in-redirect-21680c6506b1?source=rss------bugbounty-5",
+          "publishedOn": "2026-08-28T18:20:58.000Z",
+          "wordCount": null,
+          "title": "PortSwigger Lab Walkthrough — User ID Controlled by Request Parameter with Data Leakage in Redirect",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/ab1e6cacb544",
+          "author": "Pentester Club",
+          "description": "Artificial intelligence is rapidly changing the way security professionals approach reconnaissance, vulnerability research, penetration…\nContinue reading on Medium »",
+          "link": "https://medium.com/@pentesterclubpvtltd/agent-zero-ai-the-autonomous-ai-framework-for-cybersecurity-pentesting-ab1e6cacb544?source=rss------bugbounty-5",
+          "publishedOn": "2026-08-28T14:25:14.000Z",
+          "wordCount": null,
+          "title": "Agent Zero AI | The Autonomous AI Framework for Cybersecurity & Pentesting",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/f403496e1ff3",
+          "author": "5um1t0x",
+          "description": "Cherry Blossom is a fun, multi-stage room that keeps you on your toes.\nContinue reading on Medium »",
+          "link": "https://medium.com/@5um1t0x/cherry-blossom-tryhackme-walkthrough-f403496e1ff3?source=rss------bugbounty-5",
+          "publishedOn": "2026-08-28T13:31:01.000Z",
+          "wordCount": null,
+          "title": "Cherry Blossom — TryHackMe Walkthrough",
+          "imageUrl": null
+        },
         {
           "id": "https://medium.com/p/e2401948ebaa",
           "author": "Afi0pchik",
@@ -11017,6 +11317,26 @@
       "siteUrl": "https://medium.com/tag/redteam/latest?source=rss------redteam-5",
       "articles": [
         {
+          "id": "https://medium.com/p/5d58fb89a0d8",
+          "author": "Ashbalshaikh",
+          "description": "How I connected Claude Desktop to Mythic C2 through MCP and ran a full red team operation without touching a single command-line tool…\nContinue reading on Medium »",
+          "link": "https://medium.com/@ashbalshaikh555/i-controlled-a-windows-machine-using-plain-english-no-commands-just-ai-5d58fb89a0d8?source=rss------redteam-5",
+          "publishedOn": "2026-08-28T17:30:21.000Z",
+          "wordCount": null,
+          "title": "I Controlled a Windows Machine Using Plain English. No Commands, Just AI",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/20d5ad34b92a",
+          "author": "Paweł Sumiński",
+          "description": "TryHackMe: Pickle Rick CTF Walkthrough\nContinue reading on Medium »",
+          "link": "https://medium.com/@p.suminski/tryhackme-pickle-rick-ctf-walkthrough-20d5ad34b92a?source=rss------redteam-5",
+          "publishedOn": "2026-08-28T12:47:51.000Z",
+          "wordCount": null,
+          "title": "TryHackMe: Pickle Rick CTF Walkthrough",
+          "imageUrl": null
+        },
+        {
           "id": "https://medium.com/p/4fa2eff444c1",
           "author": "Paweł Sumiński",
           "description": "All in One — TryHackMe Write-up\nContinue reading on Medium »",
@@ -14514,6 +14834,106 @@
       "siteUrl": "https://infosecwriteups.com?source=rss----7b722bfd1b8d---4",
       "articles": [
         {
+          "id": "https://medium.com/p/dad8110b74e9",
+          "author": "PriOFF",
+          "description": "",
+          "link": "https://infosecwriteups.com/hunting-down-hackers-incident-response-with-wireshark-dad8110b74e9?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2026-08-29T06:14:21.000Z",
+          "wordCount": null,
+          "title": "Hunting Down Hackers: Incident Response with Wireshark",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/022749c6f241",
+          "author": "aw0ken",
+          "description": "",
+          "link": "https://infosecwriteups.com/hs-dark-writeup-022749c6f241?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2026-08-29T06:14:02.000Z",
+          "wordCount": null,
+          "title": "[HS] Dark Writeup",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/85a5dd6fa01e",
+          "author": "Avyukt Security",
+          "description": "",
+          "link": "https://infosecwriteups.com/operation-repoghost-exposing-a-russian-linked-malware-campaign-hiding-in-githubs-open-source-85a5dd6fa01e?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2026-08-29T06:12:53.000Z",
+          "wordCount": null,
+          "title": "Operation RepoGhost: Exposing a Russian-Linked Malware Campaign Hiding in GitHub’s Open-Source…",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/0bad84ae465b",
+          "author": "Prince Lassey",
+          "description": "",
+          "link": "https://infosecwriteups.com/letsdefend-kerbroasting-challenge-walkthrough-0bad84ae465b?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2026-08-29T06:12:32.000Z",
+          "wordCount": null,
+          "title": "LetsDefend: Kerberoasting Challenge (Walkthrough)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/fa655886d56d",
+          "author": "Dhanush N",
+          "description": "She encrypted her secrets inside a VeraCrypt container. The container password was in Chrome. Chrome was locked by DPAPI. DPAPI needed her…\nContinue reading on InfoSec Write-ups »",
+          "link": "https://infosecwriteups.com/hacker-holidays-2026-day-14-walkthrough-management-wants-a-word-fa655886d56d?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2026-08-29T06:11:13.000Z",
+          "wordCount": null,
+          "title": "Hacker Holidays 2026: Day 14 Walkthrough (Management Wants a Word)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/31011e460277",
+          "author": "Dhanush N",
+          "description": "An AI concierge read every guestbook entry as an instruction. We disguised shell commands as hotel reviews. When the output was redacted…\nContinue reading on InfoSec Write-ups »",
+          "link": "https://infosecwriteups.com/hacker-holidays-2026-day-13-walkthrough-the-guestbook-31011e460277?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2026-08-29T06:11:08.000Z",
+          "wordCount": null,
+          "title": "Hacker Holidays 2026: Day 13 Walkthrough (The Guestbook)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/582f6bded460",
+          "author": "Dhanush N",
+          "description": "Malware was hiding inside the Windows Management database. We extracted it string by string, decompressed it layer by layer and decompiled…\nContinue reading on InfoSec Write-ups »",
+          "link": "https://infosecwriteups.com/hacker-holidays-2026-day-12-walkthrough-after-hours-582f6bded460?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2026-08-29T06:11:06.000Z",
+          "wordCount": null,
+          "title": "Hacker Holidays 2026: Day 12 Walkthrough (After Hours)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/76267e802804",
+          "author": "Dhanush N",
+          "description": "A status page had command injection. That gave us a shell. Three internal services chained together gave us root. Here is every step…\nContinue reading on InfoSec Write-ups »",
+          "link": "https://infosecwriteups.com/hacker-holidays-2026-day-11-walkthrough-infinity-pool-76267e802804?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2026-08-29T06:10:56.000Z",
+          "wordCount": null,
+          "title": "Hacker Holidays 2026: Day 11 Walkthrough (Infinity Pool)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/d7e5f4600a0a",
+          "author": "aw0ken",
+          "description": "",
+          "link": "https://infosecwriteups.com/offsec-stapler-writeup-d7e5f4600a0a?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2026-08-29T06:08:51.000Z",
+          "wordCount": null,
+          "title": "[OFFSEC] Stapler Writeup",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/466213a1cb47",
+          "author": "Adhamkhairy",
+          "description": "",
+          "link": "https://infosecwriteups.com/how-i-got-my-highest-payout-466213a1cb47?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2026-08-29T06:08:41.000Z",
+          "wordCount": null,
+          "title": "How I Got My Highest Payout",
+          "imageUrl": null
+        },
+        {
           "id": "https://medium.com/p/be0679241940",
           "author": "Andrey Pautov",
           "description": "",
@@ -17948,6 +18368,116 @@
       "feedUrl": "https://feed.cnblogs.com/blog/sitehome/rss",
       "siteUrl": null,
       "articles": [
+        {
+          "id": "https://www.cnblogs.com/k-hengzhou/p/22753215",
+          "author": null,
+          "description": "面向大学生与数学建模爱好者的优化模型入门课：讲解优化问题建模的通用格式与三要素，以矩形面积最大问题完整演示「问题提出→问题分析→建立模型→模型求解→结果分析」的建模主要流程，并介绍敏感性分析与稳健性分析的基本概念，以及优化模型的多维度五层分类体系。",
+          "link": "https://www.cnblogs.com/k-hengzhou/p/22753215",
+          "publishedOn": "2026-08-29T06:26:00.000Z",
+          "wordCount": 862,
+          "title": "数学建模第五课：从矩形面积最大问题学会建立优化模型 - majorArcs",
+          "imageUrl": "https://img2024.cnblogs.com/blog/3840373/202608/3840373-20260829142423712-1690016609.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/xiexj/p/22750126",
+          "author": null,
+          "description": "同事小李用 AI 半小时拼完周报，会议室里老板只问了一句： 「第三段数据从哪来的？错了你负责吗？」 小李愣住——他只点了发送，从没点开过链接。 这不是 AI 不行，是人把「会用 AI」和「能扛事」混成了一件事。 今天聊的，不是 Prompt 咒语，也不是又一款新模型，而是：AI 时代到底该练什么，才",
+          "link": "https://www.cnblogs.com/xiexj/p/22750126",
+          "publishedOn": "2026-08-29T01:35:00.000Z",
+          "wordCount": 411,
+          "title": "AI 不会淘汰你，但会淘汰「只会点发送」的那类人 - 编程一生",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/grey-wolf/p/22749811",
+          "author": null,
+          "description": "背景 发现家里电脑的codex版本有点旧了，想着更新下： 尝试 应用内更新 直接尝试更新会报错，因为这台电脑改注册表啥的，把各种自动更新都禁用了的： 本地Microsoft store Microsoft store网页 https://apps.microsoft.com/detail/9plm9",
+          "link": "https://www.cnblogs.com/grey-wolf/p/22749811",
+          "publishedOn": "2026-08-29T01:03:00.000Z",
+          "wordCount": 329,
+          "title": "windows codex更新失败如何处理 - 三国梦回",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/shanyou/p/22748953",
+          "author": null,
+          "description": "如果你所在的团队是 .NET 技术栈，又想把大模型推理收进自己的进程里，这篇文章值得你花五分钟。 8 月 26 日，智谱 GLM-5.3-Flash（MIT 许可，首日开源）和阿里 Qwen3.8-Flash-Next 同日发布。三天后，纯 .NET 推理引擎 TensorSharp 把两者都接进了",
+          "link": "https://www.cnblogs.com/shanyou/p/22748953",
+          "publishedOn": "2026-08-28T23:54:00.000Z",
+          "wordCount": 757,
+          "title": "纯 .NET 手写 CUDA kernel，GLM-5.3-Flash decode 跑出 llama.cpp 的 2 倍 - 张善友",
+          "imageUrl": "https://img2024.cnblogs.com/blog/510/202608/510-20260820214914490-150835459.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/jyzhao/p/22748418",
+          "author": null,
+          "description": "最近，DeepSeek 有价格调整，GPT 也出现了降价。对于准备接入大模型 API 的开发者来说，价格变化值得关注，但不应只看单次调用的单价。 01 | DeepSeek 最近调价 DeepSeek 的价格调整应结合所用模型、适用日期和输入、输出的计费单位理解。实际接入前，请以官方当前价格页面为准",
+          "link": "https://www.cnblogs.com/jyzhao/p/22748418",
+          "publishedOn": "2026-08-28T22:32:00.000Z",
+          "wordCount": 436,
+          "title": "DeepSeek 与 GPT API 价格调整：该关注什么？ - AlfredZhao",
+          "imageUrl": "https://img2024.cnblogs.com/blog/635610/202608/635610-20260829063124987-364707785.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/denglei1024/p/22746493",
+          "author": null,
+          "description": "使用 rider 有五六年了，它的编辑体验很棒，可是最近升级到新版本后，经常突然卡死，不知道是公司电脑太烂还是 rider bug 太多。反正卡死多了就想换回 visual studio 试试，习惯了 rider + gittoolbox，突然回到 vs 后还有一点不适应，所以就借鉴了 gittoo",
+          "link": "https://www.cnblogs.com/denglei1024/p/22746493",
+          "publishedOn": "2026-08-28T16:13:00.000Z",
+          "wordCount": 471,
+          "title": "为了可以重新拥抱 Visual Studio， 我做了一个 vs 版的 gittoolbox - 云深见海",
+          "imageUrl": "https://img2024.cnblogs.com/blog/1033627/202608/1033627-20260829001220181-1202984210.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/fyia7788/p/22746282",
+          "author": null,
+          "description": "市场洞察：To B 最稀缺的能力 最近几年，我见过不少找创业方向的场合。 创始人、投资人、媒体、上下游伙伴坐在一起，聊海外最近融了什么项目，哪个方向可以 Copy to China，哪个模式在大洋彼岸已经跑通，哪家公司估值又涨了多少。 在座的人看过新闻、财报、行业报告，也认识很多人。 但聊到最后，经",
+          "link": "https://www.cnblogs.com/fyia7788/p/22746282",
+          "publishedOn": "2026-08-28T15:31:00.000Z",
+          "wordCount": 487,
+          "title": "市场洞察：To B 最稀缺的能力 - 付一然的ToB增长笔记",
+          "imageUrl": "https://img2024.cnblogs.com/blog/608074/202608/608074-20260828233042178-974925104.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/starksoft/p/22746210",
+          "author": null,
+          "description": "[实战] ZliangDisk：基于 Rust + Tauri 打造一款现代化、零隐私泄露的 Windows 磁盘健康管家 目录[实战] ZliangDisk：基于 Rust + Tauri 打造一款现代化、零隐私泄露的 Windows 磁盘健康管家 为什么我们还需要一款新的 Windows 磁",
+          "link": "https://www.cnblogs.com/starksoft/p/22746210",
+          "publishedOn": "2026-08-28T15:28:00.000Z",
+          "wordCount": 575,
+          "title": "ZliangDisk — 让 Windows 磁盘清理重新变得优雅 - StarkSoft",
+          "imageUrl": "https://img2024.cnblogs.com/blog/125601/202608/125601-20260828233201479-1826797056.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/InCerry/p/-/dotnet_week_26_8_1",
+          "author": null,
+          "description": "C# .NET 周刊 ｜2026 年 8 月 1 期 2026-08-02 dotnet_week_26_8_1 国内文章 Zenith.NET 1.0 RC 发布：面向 DirectX 12 / Metal 4 / Vulkan 1.4 的 C# Bindless RHI https://www.",
+          "link": "https://www.cnblogs.com/InCerry/p/-/dotnet_week_26_8_1",
+          "publishedOn": "2026-08-28T14:35:00.000Z",
+          "wordCount": 922,
+          "title": "C# .NET 周刊 ｜2026 年 8 月 1 期 - InCerry",
+          "imageUrl": "https://img2024.cnblogs.com/blog/997046/202608/997046-20260828223341964-1152645174.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/hegezhou_hot/p/22745945",
+          "author": null,
+          "description": "个人有&quot;第二大脑&quot;（Notion/Obsidian），企业也需要一个&quot;组织级第二大脑&quot;——一个所有员工都能贡献知识、获取知识、让知识自动流通和进化的AI平台。本文从平台架构、贡献激励、质量管控、跨部门流通四个维度，设计一套可落地的企业知识协作体系。  导读 过去9篇文章，我们讨论了知识库、RAG",
+          "link": "https://www.cnblogs.com/hegezhou_hot/p/22745945",
+          "publishedOn": "2026-08-28T14:22:00.000Z",
+          "wordCount": 491,
+          "title": "【知识中枢】企业内部\"第二大脑\"：全员知识协作的AI平台设计 - KM_Albert",
+          "imageUrl": "https://img2024.cnblogs.com/blog/46256/202608/46256-20260828222217897-1842964514.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/Alkaid2077/p/22745474",
+          "author": null,
+          "description": "本篇优化了之前编写 Agent 时的杂乱硬编码，使用工具注册中心统一调度，促使后期增添工具更加容易。顺便优化了 RAG 知识库的懒加载，使 Agent 启动更快。",
+          "link": "https://www.cnblogs.com/Alkaid2077/p/22745474",
+          "publishedOn": "2026-08-28T12:34:00.000Z",
+          "wordCount": 698,
+          "title": "【手搓 Agent 第2.3关】搭建 Agent 进阶能力：工具注册中心架构重构 - Alkaid2077",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
         {
           "id": "https://www.cnblogs.com/SilverGo/p/22744175",
           "author": null,
@@ -30424,6 +30954,106 @@
       "feedUrl": "http://h1.nobbd.de/reports_rss.xml",
       "siteUrl": "http://h1.nobbd.de/",
       "articles": [
+        {
+          "id": "https://hackerone.com/reports/3909372",
+          "author": null,
+          "description": "IBM disclosed a bug submitted by inventor0x01: https://hackerone.com/reports/3909372",
+          "link": "https://hackerone.com/reports/3909372",
+          "publishedOn": "2026-08-28T18:20:00.000Z",
+          "wordCount": 25,
+          "title": "Unauthorized vertical privilege escalation vulnerability found on ibm.com endpoint",
+          "imageUrl": "https://profile-photos.hackerone-user-content.com/variants/000/002/060/c9c3633edc1081446038c76237344b51696334da_original.jpg/5d27521e1b671a8e8bc4f016cace6a876120e5addf7dcc35ae4a5eac091669a9"
+        },
+        {
+          "id": "https://hackerone.com/reports/3931777",
+          "author": null,
+          "description": "WordPress disclosed a bug submitted by jakubk: https://hackerone.com/reports/3931777",
+          "link": "https://hackerone.com/reports/3931777",
+          "publishedOn": "2026-08-28T16:39:48.000Z",
+          "wordCount": 25,
+          "title": "Author  arbitrary file deletion anywhere on disk (site takeover) via `POST /wp/v2/media/<id>/finalize` poisoning `_wp_attachment_metadata`",
+          "imageUrl": "https://profile-photos.hackerone-user-content.com/variants/000/000/055/f114d1d31f904e3b903cd99a6cf566bb531f8401_original.jpg/5d27521e1b671a8e8bc4f016cace6a876120e5addf7dcc35ae4a5eac091669a9"
+        },
+        {
+          "id": "https://hackerone.com/reports/3931771",
+          "author": null,
+          "description": "WordPress disclosed a bug submitted by jakubk: https://hackerone.com/reports/3931771",
+          "link": "https://hackerone.com/reports/3931771",
+          "publishedOn": "2026-08-28T16:38:57.000Z",
+          "wordCount": 25,
+          "title": "Author  stored XSS in wp-admin: unescaped sub-size filename from attachment metadata breaks out of the `src` attribute in `get_media_item()`",
+          "imageUrl": "https://profile-photos.hackerone-user-content.com/variants/000/000/055/f114d1d31f904e3b903cd99a6cf566bb531f8401_original.jpg/5d27521e1b671a8e8bc4f016cace6a876120e5addf7dcc35ae4a5eac091669a9"
+        },
+        {
+          "id": "https://hackerone.com/reports/3564941",
+          "author": null,
+          "description": "Node.js disclosed a bug submitted by yushengchen: https://hackerone.com/reports/3564941",
+          "link": "https://hackerone.com/reports/3564941",
+          "publishedOn": "2026-08-28T14:16:19.000Z",
+          "wordCount": 25,
+          "title": "HTTP Request Smuggling via Silent Header Truncation in Node.js HTTP Parser",
+          "imageUrl": "https://profile-photos.hackerone-user-content.com/variants/000/022/984/e600648ace4a8553247bce967d461a030aa81d49_original.png/f0e07660005686ec92c43da54c0094c1ac1b490ea8c5eac04a4081d912d6ce36"
+        },
+        {
+          "id": "https://hackerone.com/reports/3857258",
+          "author": null,
+          "description": "Node.js disclosed a bug submitted by byvini: https://hackerone.com/reports/3857258",
+          "link": "https://hackerone.com/reports/3857258",
+          "publishedOn": "2026-08-28T14:16:19.000Z",
+          "wordCount": 25,
+          "title": "Reachable assertion in node:zlib sync API crashes the entire process via spoofed TypedArray byteLength (all 11 *Sync functions affected)",
+          "imageUrl": "https://profile-photos.hackerone-user-content.com/variants/000/022/984/e600648ace4a8553247bce967d461a030aa81d49_original.png/f0e07660005686ec92c43da54c0094c1ac1b490ea8c5eac04a4081d912d6ce36"
+        },
+        {
+          "id": "https://hackerone.com/reports/3795657",
+          "author": null,
+          "description": "Node.js disclosed a bug submitted by cantina-security: https://hackerone.com/reports/3795657",
+          "link": "https://hackerone.com/reports/3795657",
+          "publishedOn": "2026-08-28T14:16:02.000Z",
+          "wordCount": 25,
+          "title": "dns.resolveAny() Aborts the Node.js Process When a DNS Response Contains More Than 256 A Records",
+          "imageUrl": "https://profile-photos.hackerone-user-content.com/variants/000/022/984/e600648ace4a8553247bce967d461a030aa81d49_original.png/f0e07660005686ec92c43da54c0094c1ac1b490ea8c5eac04a4081d912d6ce36"
+        },
+        {
+          "id": "https://hackerone.com/reports/3795900",
+          "author": null,
+          "description": "Node.js disclosed a bug submitted by cantina-security: https://hackerone.com/reports/3795900",
+          "link": "https://hackerone.com/reports/3795900",
+          "publishedOn": "2026-08-28T14:15:57.000Z",
+          "wordCount": 25,
+          "title": "node:sqlite SQLTagStore Iterator Replay Lets Attacker Re-Execute Victim-Bound Writes Indefinitely",
+          "imageUrl": "https://profile-photos.hackerone-user-content.com/variants/000/022/984/e600648ace4a8553247bce967d461a030aa81d49_original.png/f0e07660005686ec92c43da54c0094c1ac1b490ea8c5eac04a4081d912d6ce36"
+        },
+        {
+          "id": "https://hackerone.com/reports/3833629",
+          "author": null,
+          "description": "Node.js disclosed a bug submitted by hahahkim: https://hackerone.com/reports/3833629",
+          "link": "https://hackerone.com/reports/3833629",
+          "publishedOn": "2026-08-28T14:15:35.000Z",
+          "wordCount": 25,
+          "title": "Re-entrant `nghttp2_session_mem_send()` during `nghttp2_session_mem_recv()` causes heap-use-after-free in Node.js HTTP/2",
+          "imageUrl": "https://profile-photos.hackerone-user-content.com/variants/000/022/984/e600648ace4a8553247bce967d461a030aa81d49_original.png/f0e07660005686ec92c43da54c0094c1ac1b490ea8c5eac04a4081d912d6ce36"
+        },
+        {
+          "id": "https://hackerone.com/reports/3846922",
+          "author": null,
+          "description": "Node.js disclosed a bug submitted by leduckhuong: https://hackerone.com/reports/3846922",
+          "link": "https://hackerone.com/reports/3846922",
+          "publishedOn": "2026-08-28T14:15:33.000Z",
+          "wordCount": 25,
+          "title": "HTTP/2 retained header blocks evade maxSessionMemory and enable remote memory exhaustion",
+          "imageUrl": "https://profile-photos.hackerone-user-content.com/variants/000/022/984/e600648ace4a8553247bce967d461a030aa81d49_original.png/f0e07660005686ec92c43da54c0094c1ac1b490ea8c5eac04a4081d912d6ce36"
+        },
+        {
+          "id": "https://hackerone.com/reports/3972316",
+          "author": null,
+          "description": "curl disclosed a bug submitted by giant_anteater: https://hackerone.com/reports/3972316",
+          "link": "https://hackerone.com/reports/3972316",
+          "publishedOn": "2026-08-28T13:43:06.000Z",
+          "wordCount": 25,
+          "title": "46: `--libcurl` output carries `--insecure` across `--next` boundaries",
+          "imageUrl": "https://profile-photos.hackerone-user-content.com/variants/000/035/663/2faf4c279d437d64bfda6d23d62ce1833813a4d9_original.png/f0e07660005686ec92c43da54c0094c1ac1b490ea8c5eac04a4081d912d6ce36"
+        },
         {
           "id": "https://hackerone.com/reports/3971496",
           "author": null,
