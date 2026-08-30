@@ -6,6 +6,26 @@
       "siteUrl": "http://h1.nobbd.de/",
       "articles": [
         {
+          "id": "https://hackerone.com/reports/3973228",
+          "author": null,
+          "description": "curl disclosed a bug submitted by giant_anteater: https://hackerone.com/reports/3973228",
+          "link": "https://hackerone.com/reports/3973228",
+          "publishedOn": "2026-08-29T12:51:05.000Z",
+          "wordCount": 25,
+          "title": "50: CMake `HTTP_ONLY` does not disable SSH backends  SCP and SFTP remain usable",
+          "imageUrl": "https://profile-photos.hackerone-user-content.com/variants/000/035/663/2faf4c279d437d64bfda6d23d62ce1833813a4d9_original.png/f0e07660005686ec92c43da54c0094c1ac1b490ea8c5eac04a4081d912d6ce36"
+        },
+        {
+          "id": "https://hackerone.com/reports/3973169",
+          "author": null,
+          "description": "curl disclosed a bug submitted by giant_anteater: https://hackerone.com/reports/3973169",
+          "link": "https://hackerone.com/reports/3973169",
+          "publishedOn": "2026-08-29T12:48:44.000Z",
+          "wordCount": 25,
+          "title": "42: `VMS_STS` macro typo (`< 3` vs `<< 3`) turns curl failures into successful OpenVMS conditions",
+          "imageUrl": "https://profile-photos.hackerone-user-content.com/variants/000/035/663/2faf4c279d437d64bfda6d23d62ce1833813a4d9_original.png/f0e07660005686ec92c43da54c0094c1ac1b490ea8c5eac04a4081d912d6ce36"
+        },
+        {
           "id": "https://hackerone.com/reports/3909372",
           "author": null,
           "description": "IBM disclosed a bug submitted by inventor0x01: https://hackerone.com/reports/3909372",
@@ -5099,6 +5119,96 @@
       "feedUrl": "https://medium.com/feed/tag/bugbounty",
       "siteUrl": "https://medium.com/tag/bugbounty/latest?source=rss------bugbounty-5",
       "articles": [
+        {
+          "id": "https://medium.com/p/1f2d04de4d1b",
+          "author": "BugWraith (Lokesh)",
+          "description": "A single “redirect” parameter, an attacker-controlled Collaborator domain, and a full account takeover. Welcome to another password reset…\nContinue reading on Medium »",
+          "link": "https://bugwraith.medium.com/i-sent-one-http-request-and-hijacked-a-password-reset-link-ato-1f2d04de4d1b?source=rss------bugbounty-5",
+          "publishedOn": "2026-08-30T04:06:17.000Z",
+          "wordCount": null,
+          "title": "I sent one HTTP request and hijacked a password reset link → ATO",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/602bf0fa26fa",
+          "author": "Manoj",
+          "description": "A missing ownership check let any logged-in user read and write another user’s private AI conversations — turning a simple IDOR into…\nContinue reading on Medium »",
+          "link": "https://medium.com/@manojxshrestha/from-idor-to-ai-manipulation-how-i-poisoned-another-users-persistent-chat-context-602bf0fa26fa?source=rss------bugbounty-5",
+          "publishedOn": "2026-08-30T03:35:29.000Z",
+          "wordCount": null,
+          "title": "From IDOR to AI Manipulation: How I Poisoned Another User’s Persistent Chat Context",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/1b8af99a8ad0",
+          "author": "Bugitrix",
+          "description": "Nmap Isn’t Just a Scanner — It’s a Mindset\nContinue reading on Medium »",
+          "link": "https://medium.com/@bugitrix/15-hidden-nmap-techniques-every-hacker-should-know-1b8af99a8ad0?source=rss------bugbounty-5",
+          "publishedOn": "2026-08-30T02:56:24.000Z",
+          "wordCount": null,
+          "title": "15 Hidden Nmap Techniques Every Hacker Should Know",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/555b86cc8027",
+          "author": "Raj Namdev",
+          "description": "Elastic published the internals of its AI bug bounty triage pipeline — 1,390 reports in six months, 85% agreement with humans, 70% dead…\nContinue reading on Medium »",
+          "link": "https://medium.com/@rajnamdev/your-next-triager-is-a-2-api-call-and-its-trained-to-distrust-you-555b86cc8027?source=rss------bugbounty-5",
+          "publishedOn": "2026-08-30T02:01:01.000Z",
+          "wordCount": null,
+          "title": "Your Next Triager Is a $2 API Call — and It’s Trained to Distrust You",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/02a8ee624d4d",
+          "author": "belo (@belo)",
+          "description": "Hey hackers, this one’s a special write-up. It’s the first program I ever hunted on, my first critical bug, and my first write-up ever —…\nContinue reading on Medium »",
+          "link": "https://medium.com/@belalmohamed3690/how-i-chained-4-simple-bugs-into-a-mass-compromise-of-every-organization-on-a-platform-02a8ee624d4d?source=rss------bugbounty-5",
+          "publishedOn": "2026-08-29T22:36:45.000Z",
+          "wordCount": null,
+          "title": "How I Chained 4 Simple Bugs Into a Mass Compromise of Every Organization on a Platform",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/868496710521",
+          "author": "Darshanmesper",
+          "description": "I found a full unauthenticated Account Takeover on a live booking/CRM platform (referred to here as xyz.com to keep the still-open part of…\nContinue reading on Medium »",
+          "link": "https://medium.com/@darshanmesper13/password-reset-vulnerability-how-i-found-a-full-account-takeover-868496710521?source=rss------bugbounty-5",
+          "publishedOn": "2026-08-29T19:54:26.000Z",
+          "wordCount": null,
+          "title": "Password Reset Vulnerability: How I Found a Full Account Takeover.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/4b3a71209344",
+          "author": "swanawett",
+          "description": "Recentemente, durante alguns testes em um daqueles sites de “moggar os outros”, onde duas pessoas aparecem na câmera e recebem uma…\nContinue reading on Medium »",
+          "link": "https://medium.com/@swanawett/never-trust-the-client-como-consegui-manipular-o-ranking-de-uma-aplica%C3%A7%C3%A3o-com-sistema-antifraude-4b3a71209344?source=rss------bugbounty-5",
+          "publishedOn": "2026-08-29T19:01:05.000Z",
+          "wordCount": null,
+          "title": "Never Trust the Client: como consegui manipular uma aplicação com sistema antifraude",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/ce362eccd975",
+          "author": "Mohammed Hmeidat",
+          "description": "Target: Private bug bounty program — livestream auction platform (anonymized) Severity: High Vulnerability class: Improper Authorization /…\nContinue reading on Medium »",
+          "link": "https://medium.com/@mohammed.hmeidat/buyer-verification-gate-not-enforced-server-side-unverified-buyer-wins-live-auction-high-ce362eccd975?source=rss------bugbounty-5",
+          "publishedOn": "2026-08-29T15:55:02.000Z",
+          "wordCount": null,
+          "title": "Buyer Verification Gate Not Enforced Server-Side: Unverified Buyer Wins Live Auction (High)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/fe4818dcab4d",
+          "author": "Mohammed Hmeidat",
+          "description": "How a client-side payment check on a livestream auction platform turned into a High-severity business logic bug (CVSS 8.5) — found on a…\nContinue reading on Medium »",
+          "link": "https://medium.com/@mohammed.hmeidat/the-bid-button-was-disabled-so-i-sent-the-bid-anyway-fe4818dcab4d?source=rss------bugbounty-5",
+          "publishedOn": "2026-08-29T15:28:05.000Z",
+          "wordCount": null,
+          "title": "The Bid Button Was Disabled — So I Sent the Bid Anyway",
+          "imageUrl": null
+        },
         {
           "id": "https://medium.com/p/6814d192510c",
           "author": "redhunter01",
@@ -11316,6 +11426,36 @@
       "feedUrl": "https://medium.com/feed/tag/redteam",
       "siteUrl": "https://medium.com/tag/redteam/latest?source=rss------redteam-5",
       "articles": [
+        {
+          "id": "https://medium.com/p/4b3a71209344",
+          "author": "swanawett",
+          "description": "Recentemente, durante alguns testes em um daqueles sites de “moggar os outros”, onde duas pessoas aparecem na câmera e recebem uma…\nContinue reading on Medium »",
+          "link": "https://medium.com/@swanawett/never-trust-the-client-como-consegui-manipular-o-ranking-de-uma-aplica%C3%A7%C3%A3o-com-sistema-antifraude-4b3a71209344?source=rss------redteam-5",
+          "publishedOn": "2026-08-29T19:01:05.000Z",
+          "wordCount": null,
+          "title": "Never Trust the Client: como consegui manipular uma aplicação com sistema antifraude",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/49d546d18fa4",
+          "author": "Cyber_j0ker",
+          "description": "Cloud-Hosted Godmod3: Build a Private, Mobile-Friendly AI Command Centre in 5 Minutes\nContinue reading on Medium »",
+          "link": "https://medium.com/@Cyber_j0ker/advanced-hack-forcing-unfiltered-answers-out-of-ai-using-openrouter-godmod3-part-2-49d546d18fa4?source=rss------redteam-5",
+          "publishedOn": "2026-08-29T10:45:01.000Z",
+          "wordCount": null,
+          "title": "Advanced Hack: Forcing “Unfiltered” Answers Out of AI Using OpenRouter + godmod3 -> Part 2",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/ac7b066156fc",
+          "author": "Razzle Mouse",
+          "description": "Platform: Cybr — Hands-On Labs\nContinue reading on Medium »",
+          "link": "https://razzlemouse.medium.com/introduction-to-aws-iam-enumeration-cybr-lab-walkthrough-ac7b066156fc?source=rss------redteam-5",
+          "publishedOn": "2026-08-29T08:53:55.000Z",
+          "wordCount": null,
+          "title": "Introduction to AWS IAM Enumeration — Cybr Lab Walkthrough",
+          "imageUrl": null
+        },
         {
           "id": "https://medium.com/p/5d58fb89a0d8",
           "author": "Ashbalshaikh",
@@ -18368,6 +18508,106 @@
       "feedUrl": "https://feed.cnblogs.com/blog/sitehome/rss",
       "siteUrl": null,
       "articles": [
+        {
+          "id": "https://www.cnblogs.com/gdutxiaoxu/p/22761146",
+          "author": null,
+          "description": "让 Codex 少走弯路：一份全局 AGENTS.md 的取舍 Codex GPT-5.6、Claude Fable 这一代模型变强后，我反而开始删 Prompt。 以前总怕 AI 理解错。 恨不得把“先看什么、再搜什么、怎么改、最后怎么回复”，一条条写进全局 AGENTS.md。 结果呢？ 规则越",
+          "link": "https://www.cnblogs.com/gdutxiaoxu/p/22761146",
+          "publishedOn": "2026-08-30T03:50:00.000Z",
+          "wordCount": 546,
+          "title": "经常用 Codex 后，我发现 AGENTS.md 只该管一件事 - 程序员徐公",
+          "imageUrl": "https://img2024.cnblogs.com/blog/1001668/202608/1001668-20260830114848294-1139249921.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/luohenyueji/p/22760720",
+          "author": null,
+          "description": "当业务系统没有API、命令行接口或可直接集成的数据通道时，桌面自动化往往是打通业务流程的最后一公里。pywinauto库通过Win32 API与Microsoft UI Automation（UIA）访问Windows窗口及控件，使Python脚本能够驱动桌面应用。本文聚焦于pywinauto的基础",
+          "link": "https://www.cnblogs.com/luohenyueji/p/22760720",
+          "publishedOn": "2026-08-30T03:02:00.000Z",
+          "wordCount": 1575,
+          "title": "[python] pywinauto使用指北 - 落痕的寒假",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/FreakEmbedded/p/22760492",
+          "author": null,
+          "description": "在以下例程中，我们通过 Signal 类控制两个不同电路连接的 LED 灯，其中 `GP17` 连接的 LED 灯负极连接到了地，对应 GPIO 输出高电平点亮；而 `GP16` 连接的 LED 灯正极连接到了 `+3V3`，对应 GPIO 输出低电平点亮。我们通过 `Signal` 类来包装现有的...",
+          "link": "https://www.cnblogs.com/FreakEmbedded/p/22760492",
+          "publishedOn": "2026-08-30T02:31:00.000Z",
+          "wordCount": 525,
+          "title": "MicroPython 开发避坑：用 Signal 类解决不同电路的电平兼容问题 - FreakStudio",
+          "imageUrl": "https://img2024.cnblogs.com/blog/2591203/202608/2591203-20260830103103687-400533905.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/xiexj/p/22759763",
+          "author": null,
+          "description": "近期工作安排包括自动化测试、自动化运维、自动化运营和安全等一些工作。自己做产品、自己做设计、自己做开发、自己验收上线还是挺爽滴。 这其中工作简单的就是自动化运维。但我今天真正要讲的不是做了什么，或者用了什么技术，这些都不是核心问题。核心是面对一句话需求，要怎样去思考。 我拿到的需求就是 做全公司的自",
+          "link": "https://www.cnblogs.com/xiexj/p/22759763",
+          "publishedOn": "2026-08-30T00:29:00.000Z",
+          "wordCount": 275,
+          "title": "AI加持后2天时间将公司的运维自动化提高了一个层次 - 编程一生",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/toplist/p/22645282",
+          "author": null,
+          "description": "大家好，我是Java烘焙师。最近利用业余时间，完成了博客建站+RAG知识库的搭建，分享一下过程中遇到的选型问题、实现步骤。 搭建博客站点和RAG知识库的初衷，是因为日积月累写了几十篇技术文章，希望有一个独立的站点，并且能用自然语言问答、查找知识点。 下面是用到的技术栈： 静态页面构建：docmd 网",
+          "link": "https://www.cnblogs.com/toplist/p/22645282",
+          "publishedOn": "2026-08-30T00:28:00.000Z",
+          "wordCount": 762,
+          "title": "AI编程实战：博客建站+RAG知识库 - Java烘焙师",
+          "imageUrl": "https://img2024.cnblogs.com/blog/1247698/202608/1247698-20260829115308559-547026660.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/shanyou/p/22759360",
+          "author": null,
+          "description": "不必要求每个开发者都成为证明专家，而是把验证、内存安全、类型纪律，一层层织进语言和平台的基础设施里，让正确的代码成为默认路径",
+          "link": "https://www.cnblogs.com/shanyou/p/22759360",
+          "publishedOn": "2026-08-30T00:00:00.000Z",
+          "wordCount": 750,
+          "title": "编程语言的「第三条道路」上，走得最远的其实是 C# - 张善友",
+          "imageUrl": "https://img2024.cnblogs.com/blog/510/202608/510-20260830081613420-742582120.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/jyzhao/p/22757555",
+          "author": null,
+          "description": "在把大模型接入日常工作流之后，笔者很快遇到了一个新问题：模型到底被用了多少次？每天的高峰时段是什么时候？周末是不是真的没人调用？如果对这些数据一无所知，就谈不上优化成本、排查异常，更谈不上为后续扩容做规划。 于是，笔者为 LLM 使用量加了一层可观测性，做法很简单——用 Linux 自带的 cron",
+          "link": "https://www.cnblogs.com/jyzhao/p/22757555",
+          "publishedOn": "2026-08-29T17:36:00.000Z",
+          "wordCount": 581,
+          "title": "用 crontab 给 LLM 使用量装上“监控眼” - AlfredZhao",
+          "imageUrl": "https://img2024.cnblogs.com/blog/635610/202608/635610-20260830013552425-1810240964.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/pastespider/p/22755681",
+          "author": null,
+          "description": "在AI代码生成工具大行其道的今天，一个大胆的论断正在开发者社区流传：有一个WEB框架，其开发效率可以超越AI。这听起来像是天方夜谭，但PasteApeart（即升级版PasteForm）正将这一设想变为现实。它并非又一个功能堆砌的框架，而是一套从源头解决“代码该写在哪”这一核心痛点的思想与约定体系。",
+          "link": "https://www.cnblogs.com/pastespider/p/22755681",
+          "publishedOn": "2026-08-29T10:20:00.000Z",
+          "wordCount": 560,
+          "title": "为什么说WEB框架PasteApeart是AI Coding时代的黄金搭档，从此开启敏捷开发新思路 - PasteSpider",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/cicada-smile/p/22754898",
+          "author": null,
+          "description": "复杂的流程，在产品设计阶段就需要综合考虑多方面的建议，前期业务和技术的介入，避免产品层面出现合理但不合适的设计，过繁或者过简都不利于整体的迭代节奏。",
+          "link": "https://www.cnblogs.com/cicada-smile/p/22754898",
+          "publishedOn": "2026-08-29T08:37:00.000Z",
+          "wordCount": 319,
+          "title": "订单的含金量在分化 - 三范式",
+          "imageUrl": "https://img2024.cnblogs.com/blog/1691717/202608/1691717-20260829163620415-415130795.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/FreakEmbedded/p/22753811",
+          "author": null,
+          "description": "我们可以利用多个远程控制终端通过 USB 线和树莓派 Pico 进行连接通信，常见的远程控制终端包括 MobaXterm、Putty、mpremote、Xshell 等。",
+          "link": "https://www.cnblogs.com/FreakEmbedded/p/22753811",
+          "publishedOn": "2026-08-29T07:09:00.000Z",
+          "wordCount": 442,
+          "title": "实战对比：用 mpremote/Putty/MobaXterm 连接树莓派 Pico REPL，谁更省心？ - FreakStudio",
+          "imageUrl": "https://img2024.cnblogs.com/blog/2591203/202608/2591203-20260829150657216-849561837.png"
+        },
         {
           "id": "https://www.cnblogs.com/k-hengzhou/p/22753215",
           "author": null,
@@ -30954,6 +31194,26 @@
       "feedUrl": "http://h1.nobbd.de/reports_rss.xml",
       "siteUrl": "http://h1.nobbd.de/",
       "articles": [
+        {
+          "id": "https://hackerone.com/reports/3973228",
+          "author": null,
+          "description": "curl disclosed a bug submitted by giant_anteater: https://hackerone.com/reports/3973228",
+          "link": "https://hackerone.com/reports/3973228",
+          "publishedOn": "2026-08-29T12:51:05.000Z",
+          "wordCount": 25,
+          "title": "50: CMake `HTTP_ONLY` does not disable SSH backends  SCP and SFTP remain usable",
+          "imageUrl": "https://profile-photos.hackerone-user-content.com/variants/000/035/663/2faf4c279d437d64bfda6d23d62ce1833813a4d9_original.png/f0e07660005686ec92c43da54c0094c1ac1b490ea8c5eac04a4081d912d6ce36"
+        },
+        {
+          "id": "https://hackerone.com/reports/3973169",
+          "author": null,
+          "description": "curl disclosed a bug submitted by giant_anteater: https://hackerone.com/reports/3973169",
+          "link": "https://hackerone.com/reports/3973169",
+          "publishedOn": "2026-08-29T12:48:44.000Z",
+          "wordCount": 25,
+          "title": "42: `VMS_STS` macro typo (`< 3` vs `<< 3`) turns curl failures into successful OpenVMS conditions",
+          "imageUrl": "https://profile-photos.hackerone-user-content.com/variants/000/035/663/2faf4c279d437d64bfda6d23d62ce1833813a4d9_original.png/f0e07660005686ec92c43da54c0094c1ac1b490ea8c5eac04a4081d912d6ce36"
+        },
         {
           "id": "https://hackerone.com/reports/3909372",
           "author": null,
