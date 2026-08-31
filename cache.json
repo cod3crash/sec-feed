@@ -6,6 +6,16 @@
       "siteUrl": "http://h1.nobbd.de/",
       "articles": [
         {
+          "id": "https://hackerone.com/reports/3869124",
+          "author": null,
+          "description": "Weblate disclosed a bug submitted by visionx7: https://hackerone.com/reports/3869124",
+          "link": "https://hackerone.com/reports/3869124",
+          "publishedOn": "2026-08-30T04:54:37.000Z",
+          "wordCount": 25,
+          "title": "**Unauthenticated IDOR allows modification of payment customer billing information**",
+          "imageUrl": "https://profile-photos.hackerone-user-content.com/variants/000/019/468/71eb3827ae9f2a388f27bd4b7eefd20bc3ac813c_original.png/f0e07660005686ec92c43da54c0094c1ac1b490ea8c5eac04a4081d912d6ce36"
+        },
+        {
           "id": "https://hackerone.com/reports/3973228",
           "author": null,
           "description": "curl disclosed a bug submitted by giant_anteater: https://hackerone.com/reports/3973228",
@@ -3063,6 +3073,76 @@
       "siteUrl": "https://infosecwriteups.com?source=rss----7b722bfd1b8d---4",
       "articles": [
         {
+          "id": "https://medium.com/p/0afd2bcaa3b2",
+          "author": "Vivek PS",
+          "description": "Quick note — I built HackThrough . It turns real bug bounty writeups into interactive step-by-step challenges. This bug is on there. Go…\nContinue reading on InfoSec Write-ups »",
+          "link": "https://infosecwriteups.com/he-sent-200-000-reset-codes-to-instagram-in-10-minutes-instagram-paid-him-30-000-0afd2bcaa3b2?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2026-08-30T14:31:54.000Z",
+          "wordCount": null,
+          "title": "He Sent 200,000 Reset Codes to Instagram in 10 Minutes. Instagram Paid Him $30,000.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/ad939ff17af9",
+          "author": "Jatin Banga",
+          "description": "",
+          "link": "https://infosecwriteups.com/how-i-scraped-most-dark-stores-in-india-blinkit-zepto-swiggy-instamart-ad939ff17af9?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2026-08-30T14:31:45.000Z",
+          "wordCount": null,
+          "title": "How I Scraped Most Dark Stores in India — Blinkit, Zepto & Swiggy Instamart",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/1ee952e9f69b",
+          "author": "Loay Salah",
+          "description": "",
+          "link": "https://infosecwriteups.com/egctf-2025-qualifications-tnkr-1-forensics-challenge-1ee952e9f69b?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2026-08-30T14:14:20.000Z",
+          "wordCount": null,
+          "title": "EGCTF 2025 Qualifications — “TNKR.1” Forensics Challenge",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/c5eb87ea6dd0",
+          "author": "Loay Salah",
+          "description": "",
+          "link": "https://infosecwriteups.com/webstrike-blue-team-lab-cyberdefenders-c5eb87ea6dd0?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2026-08-30T14:14:11.000Z",
+          "wordCount": null,
+          "title": "WebStrike Blue Team Lab (CyberDefenders)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/79bf6b5e6635",
+          "author": "Zyad Waleed Elzyat",
+          "description": "",
+          "link": "https://infosecwriteups.com/i-built-an-azure-detection-engineering-lab-with-microsoft-sentinel-79bf6b5e6635?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2026-08-30T14:12:39.000Z",
+          "wordCount": null,
+          "title": "A KQL Query Is Not a Detection: What My Microsoft Sentinel Lab Actually Validated",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/e38e4fa4716f",
+          "author": "X1NON",
+          "description": "",
+          "link": "https://infosecwriteups.com/i-made-claude-believe-i-was-an-anthropic-verified-researcher-e38e4fa4716f?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2026-08-30T14:11:55.000Z",
+          "wordCount": null,
+          "title": "I Made Claude Believe I Was an Anthropic-Verified \nResearcher.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/824c1e2dc9f0",
+          "author": "julichaan",
+          "description": "",
+          "link": "https://infosecwriteups.com/when-a-single-text-file-breaks-a-trust-boundary-bug-bounty-writeup-824c1e2dc9f0?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2026-08-30T14:08:06.000Z",
+          "wordCount": null,
+          "title": "When a Single Text File Breaks a Trust Boundary (Bug Bounty writeup)",
+          "imageUrl": null
+        },
+        {
           "id": "https://medium.com/p/dad8110b74e9",
           "author": "PriOFF",
           "description": "",
@@ -5119,6 +5199,96 @@
       "feedUrl": "https://medium.com/feed/tag/bugbounty",
       "siteUrl": "https://medium.com/tag/bugbounty/latest?source=rss------bugbounty-5",
       "articles": [
+        {
+          "id": "https://medium.com/p/076b7611272f",
+          "author": "Paritosh",
+          "description": "In cyber threat intelligence (CTI), understanding who gets targeted, why they are targeted, and how attackers select their victims is just…\nContinue reading on Medium »",
+          "link": "https://medium.com/@paritoshblogs/victimology-targeting-patterns-in-threat-intelligence-076b7611272f?source=rss------bugbounty-5",
+          "publishedOn": "2026-08-31T04:00:38.000Z",
+          "wordCount": null,
+          "title": "Victimology & Targeting Patterns in Threat Intelligence",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/d98fd8e894bf",
+          "author": "ATNO For Cybersecurity | Hacking",
+          "description": "What Bug Bounty Hunting Actually Is 🎯\nContinue reading on Medium »",
+          "link": "https://medium.com/@atnoforcybersecurity/how-to-start-bug-bounty-hunting-in-2026-a-complete-beginners-guide-d98fd8e894bf?source=rss------bugbounty-5",
+          "publishedOn": "2026-08-30T23:41:01.000Z",
+          "wordCount": null,
+          "title": "How to Start Bug Bounty Hunting in 2026: A Complete Beginner’s Guide",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/910b8420d8f7",
+          "author": "Hossein Zarei",
+          "description": "Hello everyone 👋\nContinue reading on Medium »",
+          "link": "https://medium.com/@hossein.za68/5-real-world-xss-bypasses-i-discovered-in-2026-910b8420d8f7?source=rss------bugbounty-5",
+          "publishedOn": "2026-08-30T20:48:05.000Z",
+          "wordCount": null,
+          "title": "5 Real World XSS Bypasses I Discovered in 2026",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/3cc30fc3d75b",
+          "author": "Isv0x1",
+          "description": "Super Calculator looks like a simple arithmetic tool, but a flaw in how it processes user input exposes a Server-Side Template Injection…\nContinue reading on Medium »",
+          "link": "https://isv0x1.medium.com/super-calculator-calculate-your-way-in-3cc30fc3d75b?source=rss------bugbounty-5",
+          "publishedOn": "2026-08-30T20:43:37.000Z",
+          "wordCount": null,
+          "title": "Super Calculator: Calculate Your Way In",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/30fc7828357c",
+          "author": "Fabio Luis @scanpt",
+          "description": "How differential authentication errors in Apple’s escrowproxy service exposed Apple ID existence and account state\nContinue reading on Medium »",
+          "link": "https://medium.com/@scanpt/i-found-an-apple-id-enumeration-oracle-in-icloud-keychain-escrow-30fc7828357c?source=rss------bugbounty-5",
+          "publishedOn": "2026-08-30T20:25:45.000Z",
+          "wordCount": null,
+          "title": "I found an Apple ID Enumeration Oracle in iCloud Keychain Escrow",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/2e895520dc12",
+          "author": "Vutoghano",
+          "description": "Every mainstream scanner asks “is this code vulnerable right now?” Chainwatch asks a different question — and builds a live, provable…\nContinue reading on Medium »",
+          "link": "https://medium.com/@vutoghano/i-built-an-ai-agent-to-prove-smart-contract-bugs-are-real-then-live-it-found-three-bugs-in-2e895520dc12?source=rss------bugbounty-5",
+          "publishedOn": "2026-08-30T19:06:19.000Z",
+          "wordCount": null,
+          "title": "Chainwatch: The Discovery Engine That Finds the Exact Moment a Smart Contract Became Unsafe",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/0eeac92c15c3",
+          "author": "Yamini Yadav_369",
+          "description": "Imagine you have just started learning bug bounty or VAPT.\nContinue reading on OSINT Team »",
+          "link": "https://osintteam.blog/github-dorks-for-security-researchers-a-beginners-complete-guide-0eeac92c15c3?source=rss------bugbounty-5",
+          "publishedOn": "2026-08-30T19:05:00.000Z",
+          "wordCount": null,
+          "title": "GitHub Dorks for Security Researchers: A Beginner’s Complete Guide",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/56ebbbb8e8bd",
+          "author": "Vivek Yadav",
+          "description": "I’ve been working through PortSwigger’s Web Security Academy labs lately, and this one was a fun follow-up to a similar lab I solved a few…\nContinue reading on Medium »",
+          "link": "https://vivek0x.medium.com/user-id-controlled-by-request-parameter-with-password-disclosure-portswigger-lab-walkthrough-56ebbbb8e8bd?source=rss------bugbounty-5",
+          "publishedOn": "2026-08-30T17:40:51.000Z",
+          "wordCount": null,
+          "title": "User ID Controlled by Request Parameter with Password Disclosure — PortSwigger Lab Walkthrough",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/ac771e3ac04c",
+          "author": "Muneebahmedkhan",
+          "description": "Turn a root domain into a short list of live hosts worth testing. subfinder finds candidate hosts, httpx keeps the ones answering on HTTP…\nContinue reading on Medium »",
+          "link": "https://medium.com/@muneebahmedkhan0903/the-subdomain-recon-chain-subfinder-httpx-dnsx-ac771e3ac04c?source=rss------bugbounty-5",
+          "publishedOn": "2026-08-30T15:25:58.000Z",
+          "wordCount": null,
+          "title": "The Subdomain Recon Chain: subfinder → httpx → dnsx",
+          "imageUrl": null
+        },
         {
           "id": "https://medium.com/p/1f2d04de4d1b",
           "author": "BugWraith (Lokesh)",
@@ -11427,6 +11597,36 @@
       "siteUrl": "https://medium.com/tag/redteam/latest?source=rss------redteam-5",
       "articles": [
         {
+          "id": "https://medium.com/p/c40e0f5dbe60",
+          "author": "Razzle Mouse",
+          "description": "Platform: Pwned Labs Lab: AWS S3 Enumeration Basics Difficulty: Beginner Focus: Red Team / Cloud Target: dev.huge-logistics.com\nContinue reading on Medium »",
+          "link": "https://razzlemouse.medium.com/aws-s3-enumeration-basics-pwned-labs-walkthrough-c40e0f5dbe60?source=rss------redteam-5",
+          "publishedOn": "2026-08-31T02:49:58.000Z",
+          "wordCount": null,
+          "title": "AWS S3 Enumeration Basics — Pwned Labs Walkthrough",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/3cc30fc3d75b",
+          "author": "Isv0x1",
+          "description": "Super Calculator looks like a simple arithmetic tool, but a flaw in how it processes user input exposes a Server-Side Template Injection…\nContinue reading on Medium »",
+          "link": "https://isv0x1.medium.com/super-calculator-calculate-your-way-in-3cc30fc3d75b?source=rss------redteam-5",
+          "publishedOn": "2026-08-30T20:43:37.000Z",
+          "wordCount": null,
+          "title": "Super Calculator: Calculate Your Way In",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/68615f658937",
+          "author": "Yamen Idriss",
+          "description": "Introduction\nContinue reading on Medium »",
+          "link": "https://medium.com/@yhamenite/deploying-and-configuring-adaptixc2-68615f658937?source=rss------redteam-5",
+          "publishedOn": "2026-08-30T13:02:45.000Z",
+          "wordCount": null,
+          "title": "Deploying and Configuring AdaptixC2",
+          "imageUrl": null
+        },
+        {
           "id": "https://medium.com/p/4b3a71209344",
           "author": "swanawett",
           "description": "Recentemente, durante alguns testes em um daqueles sites de “moggar os outros”, onde duas pessoas aparecem na câmera e recebem uma…\nContinue reading on Medium »",
@@ -14974,6 +15174,76 @@
       "siteUrl": "https://infosecwriteups.com?source=rss----7b722bfd1b8d---4",
       "articles": [
         {
+          "id": "https://medium.com/p/0afd2bcaa3b2",
+          "author": "Vivek PS",
+          "description": "Quick note — I built HackThrough . It turns real bug bounty writeups into interactive step-by-step challenges. This bug is on there. Go…\nContinue reading on InfoSec Write-ups »",
+          "link": "https://infosecwriteups.com/he-sent-200-000-reset-codes-to-instagram-in-10-minutes-instagram-paid-him-30-000-0afd2bcaa3b2?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2026-08-30T14:31:54.000Z",
+          "wordCount": null,
+          "title": "He Sent 200,000 Reset Codes to Instagram in 10 Minutes. Instagram Paid Him $30,000.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/ad939ff17af9",
+          "author": "Jatin Banga",
+          "description": "",
+          "link": "https://infosecwriteups.com/how-i-scraped-most-dark-stores-in-india-blinkit-zepto-swiggy-instamart-ad939ff17af9?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2026-08-30T14:31:45.000Z",
+          "wordCount": null,
+          "title": "How I Scraped Most Dark Stores in India — Blinkit, Zepto & Swiggy Instamart",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/1ee952e9f69b",
+          "author": "Loay Salah",
+          "description": "",
+          "link": "https://infosecwriteups.com/egctf-2025-qualifications-tnkr-1-forensics-challenge-1ee952e9f69b?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2026-08-30T14:14:20.000Z",
+          "wordCount": null,
+          "title": "EGCTF 2025 Qualifications — “TNKR.1” Forensics Challenge",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/c5eb87ea6dd0",
+          "author": "Loay Salah",
+          "description": "",
+          "link": "https://infosecwriteups.com/webstrike-blue-team-lab-cyberdefenders-c5eb87ea6dd0?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2026-08-30T14:14:11.000Z",
+          "wordCount": null,
+          "title": "WebStrike Blue Team Lab (CyberDefenders)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/79bf6b5e6635",
+          "author": "Zyad Waleed Elzyat",
+          "description": "",
+          "link": "https://infosecwriteups.com/i-built-an-azure-detection-engineering-lab-with-microsoft-sentinel-79bf6b5e6635?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2026-08-30T14:12:39.000Z",
+          "wordCount": null,
+          "title": "A KQL Query Is Not a Detection: What My Microsoft Sentinel Lab Actually Validated",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/e38e4fa4716f",
+          "author": "X1NON",
+          "description": "",
+          "link": "https://infosecwriteups.com/i-made-claude-believe-i-was-an-anthropic-verified-researcher-e38e4fa4716f?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2026-08-30T14:11:55.000Z",
+          "wordCount": null,
+          "title": "I Made Claude Believe I Was an Anthropic-Verified \nResearcher.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/824c1e2dc9f0",
+          "author": "julichaan",
+          "description": "",
+          "link": "https://infosecwriteups.com/when-a-single-text-file-breaks-a-trust-boundary-bug-bounty-writeup-824c1e2dc9f0?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2026-08-30T14:08:06.000Z",
+          "wordCount": null,
+          "title": "When a Single Text File Breaks a Trust Boundary (Bug Bounty writeup)",
+          "imageUrl": null
+        },
+        {
           "id": "https://medium.com/p/dad8110b74e9",
           "author": "PriOFF",
           "description": "",
@@ -18508,6 +18778,206 @@
       "feedUrl": "https://feed.cnblogs.com/blog/sitehome/rss",
       "siteUrl": null,
       "articles": [
+        {
+          "id": "https://www.cnblogs.com/ai-old-six/p/22772381",
+          "author": null,
+          "description": "DeepSeek Harness 值得研究的重点，是把 Agent 的组合关系做成运行时系统。Cordis 管当前能力拓扑，Session Log 管已发生事实，Agent Loop 在两者之间执行推理和工具调用。",
+          "link": "https://www.cnblogs.com/ai-old-six/p/22772381",
+          "publishedOn": "2026-08-31T04:44:00.000Z",
+          "wordCount": 672,
+          "title": "DeepSeek Harness 的价值不在 Loop，而在运行时组合 - AI小老六",
+          "imageUrl": "https://img2024.cnblogs.com/blog/3798513/202608/3798513-20260831124206658-704588582.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/hutie1980/p/22770486",
+          "author": null,
+          "description": "U9 是用友 U9 Cloud，基于BEAS 开发平台，底层 C# + .NET Framework，服务端是 IIS+WCF，数据库 SqlServer；二次开发分：插件扩展、WebService 接口、单据扩展、自定义页面、外部程序调用 U9 接口。 ⚠️ U9 二次开发不建议直接修改 U9 原",
+          "link": "https://www.cnblogs.com/hutie1980/p/22770486",
+          "publishedOn": "2026-08-31T02:52:00.000Z",
+          "wordCount": 692,
+          "title": "C# U9 二次开发 - 追逐苦痛",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/jilodream/p/22770136",
+          "author": null,
+          "description": "线程的协作多种多样，这次主要说说wait和notify两种Object的方法。这也是java早期原生的重要的协作机制之一。先说下这两个英文单词：wait [weɪt] v.等待;等候;(尤指长期地)希望，盼望，期待notify [ˈnəʊtɪfaɪ] vt.通知;(正式)通报;也就是一个等待，一个通",
+          "link": "https://www.cnblogs.com/jilodream/p/22770136",
+          "publishedOn": "2026-08-31T02:35:00.000Z",
+          "wordCount": 855,
+          "title": "java 多线程开发系列之七：玩转多线程（线程的协作） - 王若伊_恩赐解脱",
+          "imageUrl": "https://img2024.cnblogs.com/blog/704073/202608/704073-20260831103138251-1707185366.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/xiexj/p/22770034",
+          "author": null,
+          "description": "上周闺蜜小美给我发来一张她公司的架构图,问了个特别朴素的问题:你帮我看看,我们这套算什么架构? 我看了十秒,回她两个字:SOA。 她愣住了。这个词她听过,但印象里它和 ESB、SOAP 埋在同一层土里,属于十年前的技术杂志。一套 2026 年还在生产上跑的系统,怎么会是一个「过时」的架构? 这个问题",
+          "link": "https://www.cnblogs.com/xiexj/p/22770034",
+          "publishedOn": "2026-08-31T02:30:00.000Z",
+          "wordCount": 430,
+          "title": "SOA 架构科普(闺蜜小美架构图设定,业务已虚构为连锁餐饮) - 编程一生",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/gocodinginmyway/p/22769816",
+          "author": null,
+          "description": "准备环境 dsh 从源码运行，见 dsh 说明。或见之前分享的 DeepSeek Harness 开始。 开发插件 依照 dsh 文档，动手做一遍： 第一个插件: https://deepseek-harness.github.io/deepseek-harness/develop/basic/ 第",
+          "link": "https://www.cnblogs.com/gocodinginmyway/p/22769816",
+          "publishedOn": "2026-08-31T02:20:00.000Z",
+          "wordCount": 702,
+          "title": "DeepSeek Harness 插件 - GoCodingInMyWay",
+          "imageUrl": "https://img2024.cnblogs.com/blog/2049757/202608/2049757-20260816080919374-1896999439.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/wackysoft/p/22760673",
+          "author": null,
+          "description": "前言 大家好，我是 wacky。 今天聊个具体的坑——字节序和大小端。这坑我刚入行那会儿踩过，盯着采集上来的温度显示 1.347e-38，一度怀疑人生。 很多上位机新手有个错觉：从 PLC 把寄存器读上来，转换一下不就是个数了吗？实际上真没那么简单。一个 32 位浮点数跨两个寄存器，中间隔着&quot;大小端",
+          "link": "https://www.cnblogs.com/wackysoft/p/22760673",
+          "publishedOn": "2026-08-31T02:17:00.000Z",
+          "wordCount": 565,
+          "title": ".NET上位机踩坑：大小端和字节序 - Wackysoft",
+          "imageUrl": "https://img2024.cnblogs.com/blog/443744/202608/443744-20260830105555606-2120157615.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/FreakEmbedded/p/22769558",
+          "author": null,
+          "description": "​**串行通信**​：设备间通过​**少量数据信号线（一般 8 根以下）** ​，按 “数据位形式一位一位” 传输数据（类似 “单个车道的公路，同一时刻只能传 1 个数据位”）。\n* ​**并行通信**​：使用​**8、16、32 或 64 根及更多数据线**​，同时传输多个数据位（类似 “多车道公...",
+          "link": "https://www.cnblogs.com/FreakEmbedded/p/22769558",
+          "publishedOn": "2026-08-31T02:08:00.000Z",
+          "wordCount": 523,
+          "title": "嵌入式通信底层逻辑：从传输方式到协议规则，新手也能看懂的科普 - FreakStudio",
+          "imageUrl": "https://img2024.cnblogs.com/blog/2591203/202608/2591203-20260831100731140-2070196432.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/cmt/p/22769289",
+          "author": null,
+          "description": "热点随笔： &#183; 从 PostgreSQL 到 Kubernetes：开源的护城河，从来不写在代码里 (张善友) &#183; 代码都能让AI写了，我还学个屁？ (佛祖让我来巡山) &#183; Vibe Coding 月提交量 29 亿次之后：GitHub 的危机、Azure 迁移，以及 .NET 的机会 (张善友)",
+          "link": "https://www.cnblogs.com/cmt/p/22769289",
+          "publishedOn": "2026-08-31T01:57:00.000Z",
+          "wordCount": 358,
+          "title": "上周热点回顾（8.24-8.30） - 博客园团队",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/jinjiangongzuoshi/p/22767953",
+          "author": null,
+          "description": "8 月 14 号 DeepSeek Harness 刚发布那几天，我写过一篇保姆级安装教程。 那时候它刚出来不久。能聊天，能干活，但界面基本等于毛坯房。 半个多月过去，情况完全变了。 社区插件生态起来了，还有许多博主做了实测横评，把市面上的插件排了个名。我对照榜单把前 10 名挨个用了一遍，整理成这",
+          "link": "https://www.cnblogs.com/jinjiangongzuoshi/p/22767953",
+          "publishedOn": "2026-08-31T00:44:00.000Z",
+          "wordCount": 584,
+          "title": "整理了一份 DeepSeek Harness 必备插件清单！ - 狂师",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/shanyou/p/22763639",
+          "author": null,
+          "description": "三周半、40 个 PR、两条新模型产品线、一套投机解码体系、一轮安全加固——TensorSharp 的迭代节奏堪称凶猛",
+          "link": "https://www.cnblogs.com/shanyou/p/22763639",
+          "publishedOn": "2026-08-31T00:42:00.000Z",
+          "wordCount": 787,
+          "title": "TensorSharp 3.3.0.0 发布，视频生成、DFlash2 投机解码、安全加固一起来了 - 张善友",
+          "imageUrl": "https://img2024.cnblogs.com/blog/510/202608/510-20260830182449749-129498343.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/cicada-smile/p/22767478",
+          "author": null,
+          "description": "计划里的目标，不想走的老路，都很难轻易做到。生活的一粒沙，不知不觉地落下来，有的落在肩膀上，有的落在脚底下。",
+          "link": "https://www.cnblogs.com/cicada-smile/p/22767478",
+          "publishedOn": "2026-08-31T00:07:00.000Z",
+          "wordCount": 328,
+          "title": "2016已经是十年前了 - 三范式",
+          "imageUrl": "https://img2024.cnblogs.com/blog/1691717/202608/1691717-20260831074124903-1219876925.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/jyzhao/p/22767155",
+          "author": null,
+          "description": "UUID（Universally Unique Identifier）是 128 位的全局唯一标识符。它的价值在于：不依赖数据库自增列、不依赖中心化 ID 服务，应用或多个分布式节点都可以自行生成 ID。 但 UUID 不是只有一种生成方式。对于数据库主键、唯一索引和持续写入场景，最常见也最值得理解",
+          "link": "https://www.cnblogs.com/jyzhao/p/22767155",
+          "publishedOn": "2026-08-30T23:23:00.000Z",
+          "wordCount": 519,
+          "title": "UUID v4 与 v7：同样是唯一 ID，为什么数据库表现可能完全不同？ - AlfredZhao",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/xuxueli/p/22764818",
+          "author": null,
+          "description": "AI 范式越迁：使用 XXL-BOOT SKILL 实现一句话直生业务 从「一行 SQL 生成代码」到「一句需求直生业务」——业务开发正式进入 AI 范式新时代。 随着大模型编程助手的成熟，业务交付范式正在被重塑。XXL-BOOT v2.1.0 内置 xxl-boot-monolith / xxl-",
+          "link": "https://www.cnblogs.com/xuxueli/p/22764818",
+          "publishedOn": "2026-08-30T15:37:00.000Z",
+          "wordCount": 830,
+          "title": "AI 范式越迁：使用 XXL-BOOT SKILL 实现一句话直生业务 - 许雪里",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/InCerry/p/-/dotnet_week_26_8_2",
+          "author": null,
+          "description": "C# .NET 周刊 ｜2026 年 8 月 2 期 2026-08-09 dotnet_week_26_8_2 国内文章 用 Inno Setup 把 .NET 程序打包成安装包：从零到发布的完整指南 https://www.cnblogs.com/shenchuanchao/p/22236345",
+          "link": "https://www.cnblogs.com/InCerry/p/-/dotnet_week_26_8_2",
+          "publishedOn": "2026-08-30T14:43:00.000Z",
+          "wordCount": 776,
+          "title": "C# .NET 周刊 ｜2026 年 8 月 2 期 - InCerry",
+          "imageUrl": "https://img2024.cnblogs.com/blog/997046/202608/997046-20260830224212818-1800980326.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/shanyou/p/22762250",
+          "author": null,
+          "description": "MHS 的本质不是&quot;AI 控制硬件&quot;，而是三件事的组合：窄腰接口（read/write）降低接入门槛，设备语义（状态/操作/标签）让机器能自我介绍，分层执行让模型待在该待的位置——实时控制环之外。",
+          "link": "https://www.cnblogs.com/shanyou/p/22762250",
+          "publishedOn": "2026-08-30T12:28:00.000Z",
+          "wordCount": 661,
+          "title": "MHS 三部曲（上）：别急着叫它「物理 MCP」——Anthropic 到底发布了什么 - 张善友",
+          "imageUrl": "https://img2024.cnblogs.com/blog/510/202608/510-20260830153745229-1536981088.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/eventhorizon/p/22763851",
+          "author": null,
+          "description": "目录前言Remoting 客户端职责一次请求的闭环Producer 发送流程消费模型的两个层次应用接口：Push 或 LitePull从 Pull 到 POPPull：Queue 与 OffsetOffset 水位Push：客户端负责接收与调度缓存与背压LitePull：后台预取与应用主动读取预取与",
+          "link": "https://www.cnblogs.com/eventhorizon/p/22763851",
+          "publishedOn": "2026-08-30T11:25:00.000Z",
+          "wordCount": 4472,
+          "title": "面向 .NET 开发者的 RocketMQ 入门指南（四）：classic Remoting 客户端 - 黑洞视界",
+          "imageUrl": "https://img2024.cnblogs.com/blog/1201123/202608/1201123-20260830192359276-1598561466.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/fqxy/p/22763744",
+          "author": null,
+          "description": "背景：有监控node节点pod的CPU等资源，实现自动扩缩容的需要下，需要安装metrics-server k8s版本：1.30.14（kubadm安装） 对应metrics-server版本：0.8x（本文使用0.8.1） 1、下载部署清单 wget https://github.com/kube",
+          "link": "https://www.cnblogs.com/fqxy/p/22763744",
+          "publishedOn": "2026-08-30T11:00:00.000Z",
+          "wordCount": 591,
+          "title": "k8s安装metrics-server，以及相关报错排查 - 枫晴雪缘",
+          "imageUrl": "https://img2024.cnblogs.com/blog/1384371/202608/1384371-20260830185204348-546969162.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/mianmaner/p/22761984",
+          "author": null,
+          "description": "北航的工作 Mem2Evolve 发表于 ACL 2026，提出了一种全新的智能体自我进化范式，把&quot;能力扩展&quot;与&quot;经验蒸馏&quot;两个过程耦合起来，实现更稳定、更高效的智能体持续进化 背景 LLM 智能体在各类应用中已取得显著成功，研究者们不再满足于静态的任务特定系统，而是开始追求能够自我进化的智能体。然",
+          "link": "https://www.cnblogs.com/mianmaner/p/22761984",
+          "publishedOn": "2026-08-30T07:44:00.000Z",
+          "wordCount": 542,
+          "title": "\"Mem2Evolve: Towards Self-Evolving Agents via Co-Evolutionary Capability Expansion and Experience Distillation\" 论文笔记 - 绵满",
+          "imageUrl": "https://img2024.cnblogs.com/blog/3614753/202608/3614753-20260830145307727-30102612.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/grey-wolf/p/22761748",
+          "author": null,
+          "description": "背景 大家好，我是逐日。周末在家里电脑折腾，本来还是按惯例在弄codex--》cc switch--》智谱，翻官方文档的过程中，发现智谱好像已经原生支持了openai的response接口。 试了试，连cc swtich也省了，感兴趣的可以试试。 智谱官方提供的产品 产品形态，我现在理解有3种： a",
+          "link": "https://www.cnblogs.com/grey-wolf/p/22761748",
+          "publishedOn": "2026-08-30T06:25:00.000Z",
+          "wordCount": 433,
+          "title": "codex对接智谱coding plan，我发现连cc switch也不用了 - 三国梦回",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/smartloli/p/22761429",
+          "author": null,
+          "description": "1. 概述 过去五年，开发者与 AI 的关系被「Tab 键」定义：模型猜下一行，人决定接不接受。GitHub Copilot 把这件事做到了极致，也把很多人锁在一个错误心智模型里——以为 AI 写代码的上限，就是更准的补全、更长的提示词、更大的上下文窗口。 2024 到 2026 年真正发生的变化，",
+          "link": "https://www.cnblogs.com/smartloli/p/22761429",
+          "publishedOn": "2026-08-30T05:11:00.000Z",
+          "wordCount": 3413,
+          "title": "AI 编码 Agent 从原理到可运行代码 - 哥不是小萝莉",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
         {
           "id": "https://www.cnblogs.com/gdutxiaoxu/p/22761146",
           "author": null,
@@ -31194,6 +31664,16 @@
       "feedUrl": "http://h1.nobbd.de/reports_rss.xml",
       "siteUrl": "http://h1.nobbd.de/",
       "articles": [
+        {
+          "id": "https://hackerone.com/reports/3869124",
+          "author": null,
+          "description": "Weblate disclosed a bug submitted by visionx7: https://hackerone.com/reports/3869124",
+          "link": "https://hackerone.com/reports/3869124",
+          "publishedOn": "2026-08-30T04:54:37.000Z",
+          "wordCount": 25,
+          "title": "**Unauthenticated IDOR allows modification of payment customer billing information**",
+          "imageUrl": "https://profile-photos.hackerone-user-content.com/variants/000/019/468/71eb3827ae9f2a388f27bd4b7eefd20bc3ac813c_original.png/f0e07660005686ec92c43da54c0094c1ac1b490ea8c5eac04a4081d912d6ce36"
+        },
         {
           "id": "https://hackerone.com/reports/3973228",
           "author": null,
