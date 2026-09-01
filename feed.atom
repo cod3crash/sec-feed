@@ -2,10 +2,478 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cod3crash.github.io/sec-feed/index.html</id>
     <title>security feed</title>
-    <updated>2026-08-31T05:07:49.486Z</updated>
+    <updated>2026-09-01T04:45:03.354Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://cod3crash.github.io/sec-feed/index.html"/>
     <link rel="self" href="https://cod3crash.github.io/sec-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[RAG Security: How Attackers Manipulate AI Knowledge Bases]]></title>
+        <id>https://medium.com/p/a001d1fe1434</id>
+        <link href="https://medium.com/@paritoshblogs/rag-security-how-attackers-manipulate-ai-knowledge-bases-a001d1fe1434?source=rss------bugbounty-5"/>
+        <updated>2026-09-01T03:37:58.000Z</updated>
+        <summary type="html"><![CDATA[RAG, or Retrieval-Augmented Generation, has quickly become one of the most practical ways to build AI applications that can work with…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Paritosh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Graph RAG，不一定要图数据库 - royalrover]]></title>
+        <id>https://www.cnblogs.com/accordion/p/22787957</id>
+        <link href="https://www.cnblogs.com/accordion/p/22787957"/>
+        <updated>2026-09-01T03:32:00.000Z</updated>
+        <summary type="html"><![CDATA[常规路径和它的代价 Graph RAG 的主流做法大致分三步：部署图数据库，写 ETL pipeline 把文档灌进去，跑实体抽取和关系挖掘，建出知识图谱，再做图检索。HippoRAG 的知识图谱就是这么来的，Graphiti 和 Zep 维护的 temporal graph 走的也是这条路。 对一]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[别急着翻译 SKILL.md：我做了一个专门拆解 Skill 设计的工具 - Raiden_xin]]></title>
+        <id>https://www.cnblogs.com/Raiden-xin/p/22787689</id>
+        <link href="https://www.cnblogs.com/Raiden-xin/p/22787689"/>
+        <updated>2026-09-01T03:20:00.000Z</updated>
+        <summary type="html"><![CDATA[别急着翻译 SKILL.md：我做了一个专门拆解 Skill 设计的工具 第一次打开一份复杂的 SKILL.md，很多人的反应都是从头往下读。 每句话似乎都认识，连在一起却不一定明白：为什么这里用了 MUST？为什么执行前要读取这些文件？状态由谁维护？AI 做到什么程度才算完成？如果两条指令发生冲突]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[当 360° 全景遇上真实地图：Vue 3 实现全景-地图双向联动的工程实践 - 我才是银古]]></title>
+        <id>https://www.cnblogs.com/znlgis/p/22787316</id>
+        <link href="https://www.cnblogs.com/znlgis/p/22787316"/>
+        <updated>2026-09-01T03:04:00.000Z</updated>
+        <summary type="html"><![CDATA[一、要解决的问题 虚拟漫游（街景、景区导览、看房）里常见一个需求：用户既能在 360&#176; 全景里环顾四周，又能在小地图上知道&quot;我现在朝哪、标记在哪个方位&quot;。两个视图还要双向联动——点地图上的热点，全景自动转过去；点全景里的标记，地图高亮对应位置。 本文以一个纯前端实现为例，拆解其中的数学原理、第三方库]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenSpace：Agent 真正该进化的是 Skill 层 - AI小老六]]></title>
+        <id>https://www.cnblogs.com/ai-old-six/p/22787013</id>
+        <link href="https://www.cnblogs.com/ai-old-six/p/22787013"/>
+        <updated>2026-09-01T02:53:00.000Z</updated>
+        <summary type="html"><![CDATA[Agent 的能力不只来自模型，也来自外部 Skill 层。OpenSpace 的价值在于把 Skill 做成可记录、可验证、可分级、可回滚的系统，让任务经验能在下一次执行中被复用。]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Java并发锁与缓存实战核心总结 - SheepDog1998]]></title>
+        <id>https://www.cnblogs.com/SheepDog/p/22786770</id>
+        <link href="https://www.cnblogs.com/SheepDog/p/22786770"/>
+        <updated>2026-09-01T02:40:00.000Z</updated>
+        <summary type="html"><![CDATA[Java并发锁与缓存实战核心总结 本文整合日常开发、面试高频的Java锁机制、本地/分布式缓存选型、缓存经典问题、布隆过滤器核心知识点，剔除冗余内容，只保留实战可用、面试必背的干货，适合收藏复习。 一、Java核心锁机制（开发高频） 1. synchronized（内置锁，优先使用） JVM层面实现]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[高并发下的抢红包设计：微信红包背后的算法与温情 - Rain的Java大神实战圈]]></title>
+        <id>https://www.cnblogs.com/zrui-xyu/p/22785779</id>
+        <link href="https://www.cnblogs.com/zrui-xyu/p/22785779"/>
+        <updated>2026-09-01T01:57:00.000Z</updated>
+        <summary type="html"><![CDATA[本文拆解微信拼手气红包高并发实现，详解核心**二倍均值算法**，解决红包分配公平性问题。架构上依靠 Redis+Lua 脚本实现原子抢红包，规避超发与重复抢夺；结合 MQ 异步落库、热点 key 拆分、多层限流、定时对账兜底，支撑百万 QPS。给出 Java、Lua 核心源码，梳理超发、缓存一致性、...]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RSA 密码传输加密通用接入方案 - 南国以南i]]></title>
+        <id>https://www.cnblogs.com/bgyb/p/22777418</id>
+        <link href="https://www.cnblogs.com/bgyb/p/22777418"/>
+        <updated>2026-09-01T01:56:00.000Z</updated>
+        <summary type="html"><![CDATA[@目录前言一、介绍二、RSA 在本方案中的角色三、密文协议格式四、密钥生成与 Apollo 配置4.1 编译工具类4.2 执行生成密钥4.3 执行输出示例4.4 Apollo 配置示例五、后端接入方式AOP 注解示例六、后端解密流程七、前端接入方式7.1 获取公钥和 nonce7.2 使用 RSA-]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[每次开工先付的那笔钱，你知道有多少吗：省 token 故事 · 叠床架屋 - 编程一生]]></title>
+        <id>https://www.cnblogs.com/xiexj/p/22785462</id>
+        <link href="https://www.cnblogs.com/xiexj/p/22785462"/>
+        <updated>2026-09-01T01:39:00.000Z</updated>
+        <summary type="html"><![CDATA[叠床架屋，说的是床上再叠一张床，屋顶上再架一间屋。 不是不能用。 是白搭一层。 上一篇那句判据在这儿正好用得上：这一步是不是每次都要发生？ 写在常驻位的东西，每次开工都要付一遍。一份两千字的规矩挂在那儿，跟你每次提问前先朗诵一遍是一回事。所以该按需加载的东西放进了常驻位，这是确定在浪费，不用测。 那]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[When a Toast Notification Becomes an Attacker-Controlled UI — $$$ Bug Bounty]]></title>
+        <id>https://medium.com/p/48d3554d15a7</id>
+        <link href="https://medium.com/@abdelfattahelsabagh/when-a-toast-notification-becomes-an-attacker-controlled-ui-bug-bounty-48d3554d15a7?source=rss------bugbounty-5"/>
+        <updated>2026-09-01T01:03:18.000Z</updated>
+        <summary type="html"><![CDATA[بسم الله والصلاة والسلام على رسول الله سيدنا محمد صلي الله عليه وعلي اله وصحبه وسلم
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Abdelfattah Elsabagh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bugforge Vaultly-012]]></title>
+        <id>https://medium.com/p/0167ebc65d40</id>
+        <link href="https://0z3x.medium.com/bugforge-vaultly-012-0167ebc65d40?source=rss------redteam-5"/>
+        <updated>2026-09-01T00:56:50.000Z</updated>
+        <summary type="html"><![CDATA[lab write-up
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>0zex</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vulnerability & Patch Roundup — August 2026]]></title>
+        <id>https://blog.sucuri.net/?p=36248</id>
+        <link href="https://blog.sucuri.net/2026/08/vulnerability-patch-roundup-august-2026.html"/>
+        <updated>2026-09-01T00:00:18.000Z</updated>
+        <summary type="html"><![CDATA[If you operate a website, you’re already aware that a single unpatched vulnerability can render your site inaccessible, compromise your reputation, or necessitate extensive remediation following an attack. Most security breaches we observe originate from automated attacks that exploit known software vulnerabilities, often the same ones that have been previously reported and disclosed.
+To assist in maintaining your security posture, we have compiled this month’s summary of essential security updates and vulnerability patches pertinent to the WordPress ecosystem.
+Continue reading Vulnerability & Patch Roundup — August 2026 at Sucuri Blog.]]></summary>
+        <author>
+            <name>Sucuri Malware Research Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MHS 三部曲（中）：8 小时集成、六种被拦截的故障，和一次教科书级的翻车 - 张善友]]></title>
+        <id>https://www.cnblogs.com/shanyou/p/22763045</id>
+        <link href="https://www.cnblogs.com/shanyou/p/22763045"/>
+        <updated>2026-08-31T22:58:00.000Z</updated>
+        <summary type="html"><![CDATA[四个案例合起来说明三件事：接入与编排成本可以数量级下降（CMU/Janelia），闭环试错和跨设备补救是真的（CMU/Tetsuwan），但物理直觉仍是硬伤（Genentech），安全必须长在模型之外。]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[从一条订单消息到 Bronze、Silver、Gold：我的第一次 Kafka + Lakehouse 实验 - AlfredZhao]]></title>
+        <id>https://www.cnblogs.com/jyzhao/p/22783086</id>
+        <link href="https://www.cnblogs.com/jyzhao/p/22783086"/>
+        <updated>2026-08-31T22:54:00.000Z</updated>
+        <summary type="html"><![CDATA[作为 Oracle DBA，笔者熟悉表、事务、Redo、SCN 和数据仓库；但第一次面对 Kafka、Topic、Partition、Offset 与 Bronze、Silver、Gold 时，仍觉得概念很多、关系不清。于是笔者用 6 条订单事件跑通了一条最小链路。 graph TD Oracle(]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Beacon Object Files: From COFF Parsing to Dynamic Resolution]]></title>
+        <id>https://medium.com/p/63aecdcc593e</id>
+        <link href="https://0ord.medium.com/beacon-object-files-from-coff-parsing-to-dynamic-resolution-63aecdcc593e?source=rss------redteam-5"/>
+        <updated>2026-08-31T22:22:20.000Z</updated>
+        <summary type="html"><![CDATA[Red team ops
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Z0rd</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mnemonics in Assembly Part1]]></title>
+        <id>https://medium.com/p/1e93c605f8ac</id>
+        <link href="https://isv0x1.medium.com/mnemonics-in-assembly-part1-1e93c605f8ac?source=rss------redteam-5"/>
+        <updated>2026-08-31T22:17:47.000Z</updated>
+        <summary type="html"><![CDATA[Introduction
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Isv0x1</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[My Autonomous Bug Hunting Harness Found an SSRF Filter Bypass Hidden Behind a Redirect]]></title>
+        <id>https://medium.com/p/affb4ecc8cc6</id>
+        <link href="https://medium.com/@redhunter01/my-autonomous-bug-hunting-harness-found-an-ssrf-filter-bypass-hidden-behind-a-redirect-affb4ecc8cc6?source=rss------bugbounty-5"/>
+        <updated>2026-08-31T21:40:18.000Z</updated>
+        <summary type="html"><![CDATA[Introduction
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>redhunter01</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WebSockets: The Hidden Door Behind Real-Time Web Apps]]></title>
+        <id>https://medium.com/p/f13b1f60aaad</id>
+        <link href="https://medium.com/@y_shivkumar/websockets-the-hidden-door-behind-real-time-web-apps-f13b1f60aaad?source=rss------bugbounty-5"/>
+        <updated>2026-08-31T21:09:11.000Z</updated>
+        <summary type="html"><![CDATA[Imagine you’re chatting with someone on a website.
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>ShivKumar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Thought I Found a Critical IDOR. I Was Wrong.]]></title>
+        <id>https://medium.com/p/36fb7ad6bc03</id>
+        <link href="https://medium.com/@Lh1l0v3/i-thought-i-found-a-critical-idor-i-was-wrong-36fb7ad6bc03?source=rss------bugbounty-5"/>
+        <updated>2026-08-31T19:51:02.000Z</updated>
+        <summary type="html"><![CDATA[I have been spending more time doing vulnerability research lately, and one of the things I have started doing differently is looking at…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Lh1l0v3</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Django Pickle RCE Explained | Understanding Remote Code Execution Risks]]></title>
+        <id>https://medium.com/p/d4e8e3dc35bf</id>
+        <link href="https://medium.com/@pentesterclubpvtltd/django-pickle-rce-explained-understanding-remote-code-execution-risks-d4e8e3dc35bf?source=rss------bugbounty-5"/>
+        <updated>2026-08-31T15:48:17.000Z</updated>
+        <summary type="html"><![CDATA[Python is one of the most popular programming languages for building modern web applications, and Django is one of its most widely used…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Pentester Club</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Securing LLMs in Production: Building an Enterprise AI Security Gateway]]></title>
+        <id>https://medium.com/p/fc2994c9153a</id>
+        <link href="https://medium.com/@osmanisiktas/securing-llms-in-production-building-an-enterprise-ai-security-gateway-fc2994c9153a?source=rss------redteam-5"/>
+        <updated>2026-08-31T15:40:41.000Z</updated>
+        <summary type="html"><![CDATA[How to build a proactive, MITRE ATLAS-compliant defense layer against Prompt Injections, RAG Poisoning, and AI supply chain…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Osmanisiktas</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[One Open Endpoint, 1,760 Files: How I Exposed MTN’s Staff Directory and Entire RBAC Blueprint]]></title>
+        <id>https://medium.com/p/2ee0e5c134a0</id>
+        <link href="https://nowisar.medium.com/one-open-endpoint-1-760-files-how-i-exposed-mtns-staff-directory-and-entire-rbac-blueprint-2ee0e5c134a0?source=rss------bugbounty-5"/>
+        <updated>2026-08-31T15:24:25.000Z</updated>
+        <summary type="html"><![CDATA[الحمد لله الذي عَلَّمَ بالقلم.. عَلَّمَ الإنسانَ ما لم يَعْلَم والصلاةُ والسلامُ على خيرِ مُعَلِّمي الناسِ الخير محمد أما بعد
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Mohamed Nowisar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OSS 文件上传的几个风险点和解决方案 - 橙子家]]></title>
+        <id>https://www.cnblogs.com/hnzhengfy/p/22716119/oss</id>
+        <link href="https://www.cnblogs.com/hnzhengfy/p/22716119/oss"/>
+        <updated>2026-08-31T15:02:00.000Z</updated>
+        <summary type="html"><![CDATA[〇、前言 OSS 作为海量数据的承载平台，一旦配置不当，可能引发敏感数据泄露、恶意文件上传、巨额流量盗刷甚至数据被勒索加密等严重后果。 了解这些风险并非杞人忧天，而是帮助开发者和运维人员在使用 OSS 时建立正确的安全思维——从凭证管理、权限控制、访问策略到上传校验，每一个环节都可能在疏忽中成为攻击]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[轻量化小模型MiniMind从训练到落地指南 - lyshark]]></title>
+        <id>https://www.cnblogs.com/LyShark/p/22755972</id>
+        <link href="https://www.cnblogs.com/LyShark/p/22755972"/>
+        <updated>2026-08-31T14:11:00.000Z</updated>
+        <summary type="html"><![CDATA[本文基于 Ubuntu 22.04 服务器环境，依托 NVIDIA RTX 家用高性能显卡，手把手讲解 MiniMind 轻量大语言模型从零搭建、数据集部署、全流程训练、可视化Web服务搭建及GGUF格式量化的完整实操方案。全程摒弃复杂高阶封装，基于原生 PyTorch 实现，适配个人开发者、人工智...]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一文入门 Apache Cassandra - daidaidaiyu]]></title>
+        <id>https://www.cnblogs.com/dddy/p/22779980</id>
+        <link href="https://www.cnblogs.com/dddy/p/22779980"/>
+        <updated>2026-08-31T13:59:00.000Z</updated>
+        <summary type="html"><![CDATA[Apache Cassandra 官页 - https://cassandra.apache.org/_/index.html 官中文档- https://cassandra.apache.ac.cn/doc/latest/cassandra/getting-started/index.html W]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Land Your First Penetration Testing Job: A Practical Certification Roadmap]]></title>
+        <id>https://medium.com/p/cb93f7a4cadf</id>
+        <link href="https://medium.com/@ara81443/how-to-land-your-first-penetration-testing-job-a-practical-certification-roadmap-cb93f7a4cadf?source=rss------redteam-5"/>
+        <updated>2026-08-31T13:41:43.000Z</updated>
+        <summary type="html"><![CDATA[Breaking into penetration testing feels overwhelming when you look at job postings — they ask for OSCP, three years of experience, and a…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Ara</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How a Simple GraphQL Scope Bypass Led to an Account Takeover ($4,500 Bounty)]]></title>
+        <id>https://medium.com/p/abb6e7f4f1b4</id>
+        <link href="https://medium.com/@t4nv1/how-a-simple-graphql-scope-bypass-led-to-an-account-takeover-4-500-bounty-abb6e7f4f1b4?source=rss------bugbounty-5"/>
+        <updated>2026-08-31T13:41:01.000Z</updated>
+        <summary type="html"><![CDATA[Discover how analyzing GraphQL schema mutations and nested query parameters revealed a critical access control failure on a major target.
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>T4nv1</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Agentic RL / 强化学习框架】Molt 设计解读 - 罗西的思考]]></title>
+        <id>https://www.cnblogs.com/rossiXYZ/p/22123324</id>
+        <link href="https://www.cnblogs.com/rossiXYZ/p/22123324"/>
+        <updated>2026-08-31T12:56:00.000Z</updated>
+        <summary type="html"><![CDATA[【Agentic RL / 强化学习框架】Molt 设计解读 目录【Agentic RL / 强化学习框架】Molt 设计解读0x00 概要0x01 从 RL 流程到 Molt 代码：一次完整映射1.1 第一层：标准 RL 训练流程1.2 第二层：Molt 模块对应关系1.3 第三层：类定义 + 角]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI Red Teaming Is the Next Frontier of Offensive Security — Here’s How to Actually Learn It]]></title>
+        <id>https://medium.com/p/8e1d53e4b8b4</id>
+        <link href="https://infosecwriteups.com/ai-red-teaming-is-the-next-frontier-of-offensive-security-heres-how-to-actually-learn-it-8e1d53e4b8b4?source=rss------redteam-5"/>
+        <updated>2026-08-31T12:33:49.000Z</updated>
+        <summary type="html"><![CDATA[Why Traditional Security Testing No Longer Covers the Full Picture
+Continue reading on InfoSec Write-ups »]]></summary>
+        <author>
+            <name>Davud Qasimov</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Senior Pentester’ Approach to IDOR and Authorization Testing]]></title>
+        <id>https://medium.com/p/9b40f7dca9f3</id>
+        <link href="https://medium.com/@clipp3r/a-senior-pentester-approach-to-idor-and-authorization-testing-9b40f7dca9f3?source=rss------bugbounty-5"/>
+        <updated>2026-08-31T12:33:36.000Z</updated>
+        <summary type="html"><![CDATA[When I see an id parameter during an application security assessment, I don't immediately start changing 100 to 101.
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>clipper</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Azure Redis】中国区创建和连接 Azure Managed Redis 的两个注意事项 - 编码者卢布]]></title>
+        <id>https://www.cnblogs.com/lulight/p/22779991</id>
+        <link href="https://www.cnblogs.com/lulight/p/22779991"/>
+        <updated>2026-08-31T12:04:00.000Z</updated>
+        <summary type="html"><![CDATA[Azure Managed Redis 介绍 Azure Managed Redis 是微软新一代全托管 Redis 服务，基于 Redis Enterprise 构建，为现代云应用提供低延迟、高吞吐的数据访问能力。相比传统 Azure Cache for Redis，它采用更高效的多分片架构，并提]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenClaw 2.0 发布：史上最大更新，8 大新功能 + 2 个破坏性变更必看 - 厚德载物_VIP]]></title>
+        <id>https://www.cnblogs.com/hellojackyleon/p/22779326</id>
+        <link href="https://www.cnblogs.com/hellojackyleon/p/22779326"/>
+        <updated>2026-08-31T10:17:00.000Z</updated>
+        <summary type="html"><![CDATA[38 万 star 的个人 AI 助理 OpenClaw 今天发布 2026.8.1——也就是官方口径的 OpenClaw 2.0，史上最大更新：933 位贡献者、16000+ 个 PR，会话搜索、云端工作节点、私密凭据请求等 8 大更新落地，但有 2 个破坏性变更——升级前必须先备份，再跑 ope]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【手搓 Agent 第2.3关-上】搭建 Agent 进阶能力：File I/O 文件读写工具 - Alkaid2077]]></title>
+        <id>https://www.cnblogs.com/Alkaid2077/p/22778780</id>
+        <link href="https://www.cnblogs.com/Alkaid2077/p/22778780"/>
+        <updated>2026-08-31T09:55:00.000Z</updated>
+        <summary type="html"><![CDATA[本篇依托新的工具注册中心，从零实现一套高安全、多格式适配的 File I/O 文件读写工具，让 Agent 拥有专属“书写能力”，补齐智能体内容落地的关键短板。]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[开源] LogCrate：免解压、支持筛选和 AI 分析的 PC 端桌面日志工具 - strive-sun]]></title>
+        <id>https://www.cnblogs.com/strive-sun/p/22778852</id>
+        <link href="https://www.cnblogs.com/strive-sun/p/22778852"/>
+        <updated>2026-08-31T09:54:00.000Z</updated>
+        <summary type="html"><![CDATA[日常排查客户软件运行问题时，经常需要反复下载日志、解压缩，再从一堆文件里慢慢翻找，过程比较麻烦；而且很多日志工具也不支持针对具体字段进行筛选。 对比了一些市面上的日志分析工具后，发现能够同时兼容归档阅读、目录监控、到达通知、结构化筛选和 AI 分析的工具并不多，于是就自己动手做了一款。 PS：自己做]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows Active Directory + self-service-password(SSP)域控密码自助修改方案 - M1927]]></title>
+        <id>https://www.cnblogs.com/max27149/p/22778652</id>
+        <link href="https://www.cnblogs.com/max27149/p/22778652"/>
+        <updated>2026-08-31T09:46:00.000Z</updated>
+        <summary type="html"><![CDATA[目录环境准备安装 self-service-password修改SSP配置从AD域控服务器导出根证书将根证书上传到SSP服务器测试验证结果附：命令行验证工具 环境准备 CentOS7.8（优化过Selinux和Firewalld） php-7.3.33-14.el7.remi.x86_64 self]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[K8S接入NFS存储 - 避凉闲庭]]></title>
+        <id>https://www.cnblogs.com/blxt/p/22776709</id>
+        <link href="https://www.cnblogs.com/blxt/p/22776709"/>
+        <updated>2026-08-31T08:29:00.000Z</updated>
+        <summary type="html"><![CDATA[本文详细演示了在Kubernetes集群中接入NFS作为默认持久化存储的完整流程。针对容器数据易失问题，文章介绍了如何部署NFS Provisioner，并配置StorageClass将其设为集群默认（default）。通过此方案，实现了PVC的动态自动供给，开发者无需手动创建PV即可为Pod分配存...]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web Uygulaması Çözümleme ve FFUF — Bir Teknik Yazı]]></title>
+        <id>https://medium.com/p/6325fd831cf9</id>
+        <link href="https://berk-yalcin33.medium.com/web-uygulamas%C4%B1-%C3%A7%C3%B6z%C3%BCmleme-ve-ffuf-bir-teknik-yaz%C4%B1-6325fd831cf9?source=rss------redteam-5"/>
+        <updated>2026-08-31T07:56:54.000Z</updated>
+        <summary type="html"><![CDATA[Giriş ve Yasal Uyarı
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Berk Yalçın</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[18:  Explicit IPv6 proxy zone ID silently ignored  proxy credentials sent to wrong interface]]></title>
+        <id>https://hackerone.com/reports/3973127</id>
+        <link href="https://hackerone.com/reports/3973127"/>
+        <updated>2026-08-31T07:02:42.000Z</updated>
+        <summary type="html"><![CDATA[curl disclosed a bug submitted by giant_anteater: https://hackerone.com/reports/3973127]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[18:  Explicit IPv6 proxy zone ID silently ignored  proxy credentials sent to wrong interface]]></title>
+        <id>https://hackerone.com/reports/3973127</id>
+        <link href="https://hackerone.com/reports/3973127"/>
+        <updated>2026-08-31T07:02:42.000Z</updated>
+        <summary type="html"><![CDATA[curl disclosed a bug submitted by giant_anteater: https://hackerone.com/reports/3973127]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[33: CONNECT_ONLY raw I/O selects wrong connection after CURLOPT_SHARE detach (incomplete fix for CVE-2020-8231)]]></title>
+        <id>https://hackerone.com/reports/3971585</id>
+        <link href="https://hackerone.com/reports/3971585"/>
+        <updated>2026-08-31T07:02:30.000Z</updated>
+        <summary type="html"><![CDATA[curl disclosed a bug submitted by giant_anteater: https://hackerone.com/reports/3971585]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[33: CONNECT_ONLY raw I/O selects wrong connection after CURLOPT_SHARE detach (incomplete fix for CVE-2020-8231)]]></title>
+        <id>https://hackerone.com/reports/3971585</id>
+        <link href="https://hackerone.com/reports/3971585"/>
+        <updated>2026-08-31T07:02:30.000Z</updated>
+        <summary type="html"><![CDATA[curl disclosed a bug submitted by giant_anteater: https://hackerone.com/reports/3971585]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[41: `main_checkfds()` pipe reuse leaks proxy credentials into HTTPS upload body]]></title>
+        <id>https://hackerone.com/reports/3973158</id>
+        <link href="https://hackerone.com/reports/3973158"/>
+        <updated>2026-08-31T07:02:21.000Z</updated>
+        <summary type="html"><![CDATA[curl disclosed a bug submitted by giant_anteater: https://hackerone.com/reports/3973158]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[41: `main_checkfds()` pipe reuse leaks proxy credentials into HTTPS upload body]]></title>
+        <id>https://hackerone.com/reports/3973158</id>
+        <link href="https://hackerone.com/reports/3973158"/>
+        <updated>2026-08-31T07:02:21.000Z</updated>
+        <summary type="html"><![CDATA[curl disclosed a bug submitted by giant_anteater: https://hackerone.com/reports/3973158]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[06: Incomplete fix for CVE-2026-7009: GCC/SecTrust builds silently discard stapled OCSP responses]]></title>
+        <id>https://hackerone.com/reports/3973093</id>
+        <link href="https://hackerone.com/reports/3973093"/>
+        <updated>2026-08-31T07:02:12.000Z</updated>
+        <summary type="html"><![CDATA[curl disclosed a bug submitted by giant_anteater: https://hackerone.com/reports/3973093]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[06: Incomplete fix for CVE-2026-7009: GCC/SecTrust builds silently discard stapled OCSP responses]]></title>
+        <id>https://hackerone.com/reports/3973093</id>
+        <link href="https://hackerone.com/reports/3973093"/>
+        <updated>2026-08-31T07:02:12.000Z</updated>
+        <summary type="html"><![CDATA[curl disclosed a bug submitted by giant_anteater: https://hackerone.com/reports/3973093]]></summary>
+        <author>
+            <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DeepSeek Harness 的价值不在 Loop，而在运行时组合 - AI小老六]]></title>
         <id>https://www.cnblogs.com/ai-old-six/p/22772381</id>
@@ -36338,16 +36806,6 @@ The Bitter Lesson
 Often structure includes inductive biases abo…]]></summary>
         <author>
             <name>ArthurChiao's Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Three Lazarus RATs coming for your cheese]]></title>
-        <id>http://atomic-temporary-13954993.wpcomstaging.com/?p=5352</id>
-        <link href="https://blog.fox-it.com/2025/09/01/three-lazarus-rats-coming-for-your-cheese/"/>
-        <updated>2025-09-01T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Authors: Yun Zheng Hu and Mick Koomen Introduction In the past few years, Fox-IT and NCC Group have conducted multiple incident response cases involving a Lazarus subgroup that specifically targets organizations in the financial and cryptocurrency sector. This Lazarus subgroup overlaps with activity linked to AppleJeus, Citrine Sleet, UNC4736, and Gleaming Pisces. This actor uses … Continue reading Three Lazarus RATs coming for your cheese →]]></summary>
-        <author>
-            <name>Fox-IT International blog</name>
         </author>
     </entry>
 </feed>
