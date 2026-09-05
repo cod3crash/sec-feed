@@ -2,10 +2,269 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cod3crash.github.io/sec-feed/index.html</id>
     <title>security feed</title>
-    <updated>2026-09-04T04:15:58.620Z</updated>
+    <updated>2026-09-05T04:04:45.036Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://cod3crash.github.io/sec-feed/index.html"/>
     <link rel="self" href="https://cod3crash.github.io/sec-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[1. System.setProperty 的正确姿势：Spring Boot 启动类里的"缺省值"魔法 - kaizi1992]]></title>
+        <id>https://www.cnblogs.com/kaigejava/p/22852577</id>
+        <link href="https://www.cnblogs.com/kaigejava/p/22852577"/>
+        <updated>2026-09-05T03:16:00.000Z</updated>
+        <summary type="html"><![CDATA[大家好，我是凯哥 Java 本文标签：springBoot 启动参数 上周调本地模拟数据中台，IDE 的 Program arguments 配了三回都没生效。换台机器、换个启动方式，又得从头来一遍。后来我把三个参数写进启动类，用一个小方法兜底：命令行给了就用命令行的，没给就用代码里的。从此任何机器]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ten Years of SSTI Disclosures. $4,300 in Public Bounties.]]></title>
+        <id>https://medium.com/p/8d93a8ddc2ff</id>
+        <link href="https://rajnamdev.medium.com/ten-years-of-ssti-disclosures-4-300-in-public-bounties-8d93a8ddc2ff?source=rss------bugbounty-5"/>
+        <updated>2026-09-05T03:01:02.000Z</updated>
+        <summary type="html"><![CDATA[30-Second Version: I pulled every disclosed server-side template injection report on HackerOne — twelve, total, across a decade of…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Raj Namdev</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[省 token 故事 · 各自为政 - 编程一生]]></title>
+        <id>https://www.cnblogs.com/xiexj/p/22851982</id>
+        <link href="https://www.cnblogs.com/xiexj/p/22851982"/>
+        <updated>2026-09-05T02:31:00.000Z</updated>
+        <summary type="html"><![CDATA[《左传》里说各自为政，讲的是同一场仗，各打各的。 不是不出力。 是没有一个人知道旁边那个在干什么。 派多个 agent 干活是真爽，一句话下去，一排小窗口同时开工。但账要算清楚。 每个 agent 都是一份独立上下文。仓库结构、任务背景、代码风格，每个都要从头理解一遍。派十个，同一份介绍费付十遍。]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[写给 Python 工程师的 OpenClaw.NET 上手指南：用你熟悉的 Python 思维，跑起一个生产级 AI Agent - 张善友]]></title>
+        <id>https://www.cnblogs.com/shanyou/p/22850435</id>
+        <link href="https://www.cnblogs.com/shanyou/p/22850435"/>
+        <updated>2026-09-04T23:09:00.000Z</updated>
+        <summary type="html"><![CDATA[对 Python 工程师来说，这套系统的学习曲线比想象中平：async/await 写法几乎照搬、异步队列、信号量、中间件链、显式依赖组装——你在 asyncio + FastAPI 里练出的那套直觉，在这里基本全部成立。真正要适应的只有三件事：类型是编译期铁板一块（不是提示，是纪律）、接口要显式声...]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Belajar dari Celah RCE di NASA VDP: Dokumentasi dan Analisis Teknis]]></title>
+        <id>https://medium.com/p/0a61473cab43</id>
+        <link href="https://medium.com/@radith614/belajar-dari-celah-rce-di-nasa-vdp-dokumentasi-dan-analisis-teknis-0a61473cab43?source=rss------bugbounty-5"/>
+        <updated>2026-09-04T22:59:18.000Z</updated>
+        <summary type="html"><![CDATA[Oleh: Adiel Radithya Putra Irwana
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Radith</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[使用快捷键快速切换 Mac 外接显示器模式 - AlfredZhao]]></title>
+        <id>https://www.cnblogs.com/jyzhao/p/22850381</id>
+        <link href="https://www.cnblogs.com/jyzhao/p/22850381"/>
+        <updated>2026-09-04T22:34:00.000Z</updated>
+        <summary type="html"><![CDATA[连接外接显示器后，笔者最常遇到的操作，就是在“扩展显示”和“镜像显示”之间切换。熟悉快捷键后，可以更快完成这一操作；若快捷键无效，也能通过系统设置手动调整。 01 | 一键切换镜像与扩展 按下 Command + F1，即可在镜像与扩展模式之间循环切换。 部分带 Touch Bar 的设备或部分 M]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How I Passed CRTP on My First Attempt: Why Methodology and Reconnaissance Are Everything]]></title>
+        <id>https://medium.com/p/8ead54ebff65</id>
+        <link href="https://medium.com/@r3dbrothers1/how-i-passed-crtp-on-my-first-attempt-why-methodology-and-reconnaissance-are-everything-8ead54ebff65?source=rss------redteam-5"/>
+        <updated>2026-09-04T19:59:45.000Z</updated>
+        <summary type="html"><![CDATA[The CRTP (Certified Red Team Professional) exam doesn’t waste time with multiple-choice questions or theoretical scenarios. Altered…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>R3dBrothers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2026-09-01: Essential macOS Stealer infection]]></title>
+        <id>https://www.malware-traffic-analysis.net/2026/09/01/index.html</id>
+        <link href="https://www.malware-traffic-analysis.net/2026/09/01/index.html"/>
+        <updated>2026-09-04T19:29:00.000Z</updated>
+        <author>
+            <name>Malware-Traffic-Analysis.net - Blog Entries</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PentestCode: The Multi-Agent AI That Automates Penetration Testing]]></title>
+        <id>https://medium.com/p/8223a8e73446</id>
+        <link href="https://medium.com/@pentesterclubpvtltd/pentestcode-the-multi-agent-ai-that-automates-penetration-testing-8223a8e73446?source=rss------bugbounty-5"/>
+        <updated>2026-09-04T16:53:41.000Z</updated>
+        <summary type="html"><![CDATA[What if your penetration-testing workflow could have an AI team instead of a single AI assistant?
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Pentester Club</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2026-08-31: Files for an ISC diary (Guildma/Astaroth infection)]]></title>
+        <id>https://www.malware-traffic-analysis.net/2026/08/31/index.html</id>
+        <link href="https://www.malware-traffic-analysis.net/2026/08/31/index.html"/>
+        <updated>2026-09-04T16:51:00.000Z</updated>
+        <author>
+            <name>Malware-Traffic-Analysis.net - Blog Entries</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[️The Organization Had Users… But Nobody Could Own It]]></title>
+        <id>https://medium.com/p/ae9e7513a969</id>
+        <link href="https://medium.com/@0xMo7areb/%EF%B8%8Fthe-organization-had-users-but-nobody-could-own-it-ae9e7513a969?source=rss------bugbounty-5"/>
+        <updated>2026-09-04T13:56:01.000Z</updated>
+        <summary type="html"><![CDATA[الحمد لله الذي عَلَّمَ بالقلم، عَلَّمَ الإنسان ما لم يعلم، والصلاة والسلام على سيدنا محمد ﷺ وبعد
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>0xMo7areb</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[面向 .NET 开发者的 RocketMQ 入门指南（五）：RocketMQ 5 gRPC 客户端 - 黑洞视界]]></title>
+        <id>https://www.cnblogs.com/eventhorizon/p/22848050</id>
+        <link href="https://www.cnblogs.com/eventhorizon/p/22848050"/>
+        <updated>2026-09-04T13:46:00.000Z</updated>
+        <summary type="html"><![CDATA[目录前言接入架构classic Remoting：客户端直连 Brokercluster mode：Proxy 独立部署local mode：Proxy 与 Broker 同进程网络要求路由地址：Broker.Endpoints四个不同概念Producer 与 Consumer 的数据边界Broke]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Bug Bounty Recon Cheat Sheet: A Practical Workflow From Domain to Attack Surface]]></title>
+        <id>https://medium.com/p/6ff3b44a00d0</id>
+        <link href="https://infosecwriteups.com/the-bug-bounty-recon-cheat-sheet-a-practical-workflow-from-domain-to-attack-surface-6ff3b44a00d0?source=rss------bugbounty-5"/>
+        <updated>2026-09-04T13:33:41.000Z</updated>
+        <summary type="html"><![CDATA[Reconnaissance is the part of bug bounty hunting that separates the people who find bugs consistently from the people who get lucky once…
+Continue reading on InfoSec Write-ups »]]></summary>
+        <author>
+            <name>T4nv1</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[300$ ETag Bounty]]></title>
+        <id>https://medium.com/p/9f6e9aecc12e</id>
+        <link href="https://medium.com/@sari.mmusab/300-etag-bounty-9f6e9aecc12e?source=rss------bugbounty-5"/>
+        <updated>2026-09-04T13:15:49.000Z</updated>
+        <summary type="html"><![CDATA[I was participating a new private program at h1 and I was desperately discovering site to see anything unusual. As all expert says “do not…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Musab Sarı</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[P7668 [JOI 2018 Final] 团子制作 / Dango Maker 题解 - lvwangshu]]></title>
+        <id>https://www.cnblogs.com/lvwangshuOI/p/22846934</id>
+        <link href="https://www.cnblogs.com/lvwangshuOI/p/22846934"/>
+        <updated>2026-09-04T13:08:00.000Z</updated>
+        <summary type="html"><![CDATA[P7668 [JOI 2018 Final] 团子制作 / Dango Maker 题解 复盘 赛时写的二维DP，转移非常复杂，而且正确性得不到保证 赛后发现题解非常短小，对于这个贪心的性质分析感到十分巧秒，特此记录 题意简述 在 \(N \times M\) 的字符网格上，每个格子放着一个颜色为]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TCM — Practical BUG BOUNTY : Part 1 Walkthrough]]></title>
+        <id>https://medium.com/p/f2cb8cba5ac4</id>
+        <link href="https://medium.com/@shendepiyush2006/tcm-practical-bug-bounty-part-1-walkthrough-f2cb8cba5ac4?source=rss------bugbounty-5"/>
+        <updated>2026-09-04T12:43:07.000Z</updated>
+        <summary type="html"><![CDATA[Practical Bug Bounty — Notes & Lab Walkthroughs
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Shendepiyush</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From Auth Bypass to IDOR to Stored XSS: Completing the Attack Chain (PART 3)]]></title>
+        <id>https://medium.com/p/5e679b299fd7</id>
+        <link href="https://medium.com/@viralecho/from-auth-bypass-to-idor-to-stored-xss-completing-the-attack-chain-part-3-5e679b299fd7?source=rss------bugbounty-5"/>
+        <updated>2026-09-04T12:12:36.000Z</updated>
+        <summary type="html"><![CDATA[In Part 1, I discovered how the “Forgot Password” feature could be used to bypass the admin verification process and grant access to an…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Muhammad Rizqi Ramadhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Inside the Script Block: JavaScript String, Template Literal, and JSON Breakouts]]></title>
+        <id>https://medium.com/p/5370cf607fe0</id>
+        <link href="https://kd-200.medium.com/inside-the-script-block-javascript-string-template-literal-and-json-breakouts-5370cf607fe0?source=rss------bugbounty-5"/>
+        <updated>2026-09-04T11:31:00.000Z</updated>
+        <summary type="html"><![CDATA[Hello, I am Nitin.
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Nitin yadav</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【知识中枢】多模态知识处理：让AI读懂PDF、表格、图片和视频 - KM_Albert]]></title>
+        <id>https://www.cnblogs.com/hegezhou_hot/p/22846560</id>
+        <link href="https://www.cnblogs.com/hegezhou_hot/p/22846560"/>
+        <updated>2026-09-04T11:27:00.000Z</updated>
+        <summary type="html"><![CDATA[企业80%的知识以PDF、Excel、图片、视频等非结构化形式存在。如果知识中枢只能处理纯文本，就等于放弃了80%的知识资产。本文系统讲解多模态知识处理的完整技术栈：从文档解析到表格结构化，从OCR到视频理解，最终实现跨模态统一检索。  导读 一个真实的场景：某制造企业的设备维修手册是300页的]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI Agents Terminal：在 VS Code 状态栏一键启动你所有的 AI 编程 Agent - Cn#工作室]]></title>
+        <id>https://www.cnblogs.com/cnsharp/p/22846543</id>
+        <link href="https://www.cnblogs.com/cnsharp/p/22846543"/>
+        <updated>2026-09-04T11:25:00.000Z</updated>
+        <summary type="html"><![CDATA[一个 VS Code 扩展，把你本机装好的 AI CLI 编程助手（Claude Code / Codex / Cursor / …）收进状态栏的一个按钮里。 我们到底在解决什么问题 如果你同时用着好几个 AI 编程 agent，一定熟悉这套动作： 打开终端； 想起来某个 agent 的命令到底是]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[实战对比：用 mpremote/Putty/MobaXterm 连接树莓派 Pico REPL，谁更省心？ - FreakStudio]]></title>
+        <id>https://www.cnblogs.com/FreakEmbedded/p/22843132</id>
+        <link href="https://www.cnblogs.com/FreakEmbedded/p/22843132"/>
+        <updated>2026-09-04T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[我们可以利用多个远程控制终端通过 USB 线和树莓派 Pico 进行连接通信，常见的远程控制终端包括 MobaXterm、Putty、mpremote、Xshell 等。]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MTP2101在挂轨式巡检机器人中的滑触线载波组网实践 - Maiwe迈威]]></title>
+        <id>https://www.cnblogs.com/maiwe/p/22842330</id>
+        <link href="https://www.cnblogs.com/maiwe/p/22842330"/>
+        <updated>2026-09-04T07:14:00.000Z</updated>
+        <summary type="html"><![CDATA[迈威通信推出基于MTP2101工业级双绞线以太网延长器的滑触线共缆传输方案，采用HomePlug AV2.1宽带载波技术，复用挂轨巡检机器人既有供电滑触线同步传输高清视频与控制指令，支持最远2km传输、-40℃~+75℃宽温、即插即用免配置，替代拖链网线与光纤滑环，显著降低布线施工与后期运维成本。]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[让大模型"看懂"工程图纸：SVG + MD 双载体记录方法论 - 我才是银古]]></title>
+        <id>https://www.cnblogs.com/znlgis/p/22842238</id>
+        <link href="https://www.cnblogs.com/znlgis/p/22842238"/>
+        <updated>2026-09-04T07:09:00.000Z</updated>
+        <summary type="html"><![CDATA[问题：为什么大模型读不懂工程图纸 工程图纸（尤其是 A0 钢结构施工图）常以矢量线画 + 无文字层的 PDF 形式存在。这意味着图上的尺寸数字、标题栏文字、技术要求，在文件层面只是 glyph 轮廓路径——渲染出来人眼能看，但没有任何可提取的文本层。 把这样的 PDF 直接丢给大模型，会陷入一个尴尬]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[When verified: false Still Got a Valid JWT]]></title>
+        <id>https://medium.com/p/b91770294dc6</id>
+        <link href="https://medium.com/@sanjivanidobhal05/when-verified-false-still-got-a-valid-jwt-b91770294dc6?source=rss------redteam-5"/>
+        <updated>2026-09-04T06:04:18.000Z</updated>
+        <summary type="html"><![CDATA[Testing Whether Email Verification Was Actually Enforced
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Sanjivani Dobhal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MySQL把字段从 TIMESTAMP 改成 DATETIME，线上直接炸了！ - 暮色之狐]]></title>
+        <id>https://www.cnblogs.com/gloamfox/p/22839644</id>
+        <link href="https://www.cnblogs.com/gloamfox/p/22839644"/>
+        <updated>2026-09-04T05:31:00.000Z</updated>
+        <summary type="html"><![CDATA[事发：一个莫名其妙的空指针 周五下午，我正准备摸鱼等下班，测试同学找过来：库存保存接口报错了，你赶紧看看！ 我打开日志一看，好家伙，一片红色： java.sql.SQLException: Field &#39;create_time&#39; doesn&#39;t have a default value at com]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[9 Hands-On OSINT Investigations You Can Practice Today]]></title>
         <id>https://medium.com/p/95d038bfbadb</id>
