@@ -2,10 +2,360 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cod3crash.github.io/sec-feed/index.html</id>
     <title>security feed</title>
-    <updated>2026-09-09T04:18:55.810Z</updated>
+    <updated>2026-09-10T04:15:57.647Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://cod3crash.github.io/sec-feed/index.html"/>
     <link rel="self" href="https://cod3crash.github.io/sec-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Part 2 — Wireshark: Understanding Packets, Protocols & Network Layers]]></title>
+        <id>https://medium.com/p/6e003d13d121</id>
+        <link href="https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/part-2-wireshark-understanding-packets-protocols-network-layers-6e003d13d121?source=rss------bugbounty-5"/>
+        <updated>2026-09-10T04:06:53.000Z</updated>
+        <summary type="html"><![CDATA[A Beginner’s Guide to Reading Network Traffic Like a Security Analyst
+Continue reading on Bug Bounty Hunting: A Comprehensive Guide in English and french »]]></summary>
+        <author>
+            <name>ghostyjoe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Claude Code 为什么用随机动词缓解等待焦虑 - AI小老六]]></title>
+        <id>https://www.cnblogs.com/ai-old-six/p/22917955</id>
+        <link href="https://www.cnblogs.com/ai-old-six/p/22917955"/>
+        <updated>2026-09-10T03:02:00.000Z</updated>
+        <summary type="html"><![CDATA[Claude Code 的 Spinner Verbs 不是模型状态码，而是一个轻量等待设计：用随机动词降低长任务等待时的死屏感。]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LLama-Factory 实现大模型LoRA-SFT微调指南 - lyshark]]></title>
+        <id>https://www.cnblogs.com/LyShark/p/22917812</id>
+        <link href="https://www.cnblogs.com/LyShark/p/22917812"/>
+        <updated>2026-09-10T02:57:00.000Z</updated>
+        <summary type="html"><![CDATA[LLaMA Factory 是一款开源、低代码、一站式大语言与多模态模型微调框架，用于降低大模型的微调落地门槛。框架兼容 Qwen、LLaMA、ChatGLM、LLaVA 等上百款主流开源模型，支持增量预训练、SFT 监督微调、DPO、KTO、ORPO 等多种训练对齐方案，原生集成 LoRA、QLo...]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[软件不是从数据开始，而是从现实开始 | KDC 系列 01 - vivo互联网技术]]></title>
+        <id>https://www.cnblogs.com/vivotech/p/22917615</id>
+        <link href="https://www.cnblogs.com/vivotech/p/22917615"/>
+        <updated>2026-09-10T02:47:00.000Z</updated>
+        <summary type="html"><![CDATA[当 AI 应用开始在运行时解释数据、选择工具并影响业务状态时，数据表示中的遗漏和歧义可能直接转化为行动风险。本文从退款案例出发，提出 Reality First 的观察顺序：先明确系统面对的领域现实，再讨论现实模型、数字表示以及验证反馈如何共同支撑软件的判断与行动。]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CURD系统怎样做出技术含量：微内核改造 - 编程一生]]></title>
+        <id>https://www.cnblogs.com/xiexj/p/22917411</id>
+        <link href="https://www.cnblogs.com/xiexj/p/22917411"/>
+        <updated>2026-09-10T02:39:00.000Z</updated>
+        <summary type="html"><![CDATA[建「中心」还是「平台」？ 10年前在一个公司，公司里经常需要做线上活动。对开发来说，就是通过不同的活动页面进行注册、登录，之后会有一些个性化的小活动：领取小礼物、领取红包或者参加抽奖。 前端和后端疲于天天做各种换汤不换药的注册、登录。开发方式基本是把上次的代码拷贝一份，在此基础上做修改，来支撑新活动]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Spring事务失效的场景有哪些 - Rain的Java大神实战圈]]></title>
+        <id>https://www.cnblogs.com/zrui-xyu/p/22917075</id>
+        <link href="https://www.cnblogs.com/zrui-xyu/p/22917075"/>
+        <updated>2026-09-10T02:27:00.000Z</updated>
+        <summary type="html"><![CDATA[本文拆解 Spring 事务 8 大类 12 个失效场景，底层根源来自 AOP 动态代理机制。覆盖高频坑点：方法自调用、非 public 方法、异常捕获不当、受检异常不回滚、多线程事务隔离等，附带完整 Java 示例与 3 种自调用修复方案。包含事务执行流程图、记忆口诀，还有面试模拟问答，剖析传播行...]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Text-to-SQL 已过时？DolphinX 正在重新定义 AI 问数 - DolphinDB]]></title>
+        <id>https://www.cnblogs.com/DolphinDB/p/22916454</id>
+        <link href="https://www.cnblogs.com/DolphinDB/p/22916454"/>
+        <updated>2026-09-10T02:03:00.000Z</updated>
+        <summary type="html"><![CDATA[在推动工业场景 AI Agent 能力落地过程中，DolphinDB 选择智能问数作为具体切入点，基于 DolphinX 做了一个智能问数 Agent，尝试探索一套面向企业数据的智能问数链路应该如何构建。]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How I Found My First $5,000 Bug With Zero CS Degree]]></title>
+        <id>https://medium.com/p/f43e87f67177</id>
+        <link href="https://medium.com/@bugitrix/how-i-found-my-first-5-000-bug-with-zero-cs-degree-f43e87f67177?source=rss------bugbounty-5"/>
+        <updated>2026-09-10T02:01:05.000Z</updated>
+        <summary type="html"><![CDATA[I didn’t study computer science. I didn’t come from a coding bootcamp with a shiny certificate either.
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Bugitrix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[使用 C# 轻松管理 PDF 文件的用户权限 - LAYONTHEGROUND]]></title>
+        <id>https://www.cnblogs.com/jazz-z/p/22915588</id>
+        <link href="https://www.cnblogs.com/jazz-z/p/22915588"/>
+        <updated>2026-09-10T01:26:00.000Z</updated>
+        <summary type="html"><![CDATA[在文档安全管理中，通过编程控制 PDF 的访问权限（如禁止打印、禁止复制等）是常见需求。本文使用 Free Spire.PDF for .NET 免费库，基于其 PdfSecurityPolicy 类，介绍如何用简洁的 C# 代码完成权限设置。 两种密码的角色 用户密码（User Password）]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为什么都说要做自动化测试，落地却这么难！（附自动化测试的四种死法） - 狂师]]></title>
+        <id>https://www.cnblogs.com/jinjiangongzuoshi/p/22915037</id>
+        <link href="https://www.cnblogs.com/jinjiangongzuoshi/p/22915037"/>
+        <updated>2026-09-10T00:45:00.000Z</updated>
+        <summary type="html"><![CDATA[我相信，绝大多数测试团队都被领导要求过搞自动化测试。 现在这几乎成了标配。年初规划要提，季度汇报要提，招聘 JD 里也得写上一条。一个测试团队要是说自己在纯手工，都不好意思往外讲。 但你会发现一个挺扎心的现象。 讲自动化的团队遍地都是，真正落了地、还跑出效果的，少得可怜。 为什么落地这么难？ 行业里]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[和AI一起搞事情#8. 分析1000+对话得到：技能炼金术 - 风雨中的小七]]></title>
+        <id>https://www.cnblogs.com/gogoSandy/p/22883013</id>
+        <link href="https://www.cnblogs.com/gogoSandy/p/22883013"/>
+        <updated>2026-09-10T00:20:00.000Z</updated>
+        <summary type="html"><![CDATA[是否也发现有时AGENTS.md中明明有规则，但AI依旧我行我素？你是否也烦恼随着开发AGENTS.md越来越长但效果却没越来越好？不妨试试技能炼金术，把用户自己的历史对话压缩成技能，把冗长的AGENTS.md变成技能触发命令。]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[每天白嫖 WorkBuddy 100 积分，我让WorkBuddy自己领 - 程序员晓凡]]></title>
+        <id>https://www.cnblogs.com/xiezhr/p/22914931</id>
+        <link href="https://www.cnblogs.com/xiezhr/p/22914931"/>
+        <updated>2026-09-10T00:09:00.000Z</updated>
+        <summary type="html"><![CDATA[有没有小伙伴跟我一样，每天都去白嫖 WorkBuddy 的 100 积分，每天都怕忘记领。 其实我早就开了会员，但还是会有积分焦虑，天天惦记着今天的积分领没领。后来我发现 WorkBuddy 可以自己领积分，今天把这个技能分享给小伙伴们。 Buddy 加油站每天签到领 100 积分，连续签满 7 天]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI知识库，是捷径吗？ - 三范式]]></title>
+        <id>https://www.cnblogs.com/cicada-smile/p/22914903</id>
+        <link href="https://www.cnblogs.com/cicada-smile/p/22914903"/>
+        <updated>2026-09-10T00:02:00.000Z</updated>
+        <summary type="html"><![CDATA[从信息化到数字化，再到当下的智能化，技术进步带来的效率提升，如果往好处想应该是：节省更多的时间和成本，用来做更多的事情。但从现实的角度看，节流比开源来得容易。]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Critical IDOR in Order Tracking: Sequential IDs + Zero Authentication = Anyone’s Orders (and PII)]]></title>
+        <id>https://medium.com/p/789247650c89</id>
+        <link href="https://medium.com/@donghcoder/critical-idor-in-order-tracking-sequential-ids-zero-authentication-anyones-orders-and-pii-789247650c89?source=rss------bugbounty-5"/>
+        <updated>2026-09-09T23:55:07.000Z</updated>
+        <summary type="html"><![CDATA[durante um bug bounty eu sempre procuro achar rotas que pode ser sujeita a IDOR, essa eu encontrei um site **rastreio de pedidos** que…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Guilhermegh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blind SQL Injection Behind a WAF: Bypassing Filters with a NOT IN + CASE WHEN SLEEP Oracle]]></title>
+        <id>https://medium.com/p/081b7eb48d50</id>
+        <link href="https://medium.com/@donghcoder/blind-sql-injection-behind-a-waf-bypassing-filters-with-a-not-in-case-when-sleep-oracle-081b7eb48d50?source=rss------bugbounty-5"/>
+        <updated>2026-09-09T23:46:21.000Z</updated>
+        <summary type="html"><![CDATA[durante programa de bug bounty, encontrei um parâmetro numérico refletido em uma query SQL **sem aspas e sem prepared statement**. Um WAF…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Guilhermegh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Oracle 排除非业务表：一份能直接抄的“全量过滤”SQL - AlfredZhao]]></title>
+        <id>https://www.cnblogs.com/jyzhao/p/22914729</id>
+        <link href="https://www.cnblogs.com/jyzhao/p/22914729"/>
+        <updated>2026-09-09T23:20:00.000Z</updated>
+        <summary type="html"><![CDATA[在日常的 Oracle 开发与运维中，我们经常需要列出某个 Schema 下的“真实业务表”。但现实往往很骨感：只要库里启用过全文索引、物化视图、高级队列，甚至只是删过几张表，USER_TABLES 里就会混入一堆系统自动生成的辅助表。 笔者在整理清单时发现，仅靠过滤常见的 BIN$%（回收站）和]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[.NET 11 RC1 发布：拿到"准生证"，生产环境可以上了！ - 张善友]]></title>
+        <id>https://www.cnblogs.com/shanyou/p/22904825</id>
+        <link href="https://www.cnblogs.com/shanyou/p/22904825"/>
+        <updated>2026-09-09T23:14:00.000Z</updated>
+        <summary type="html"><![CDATA[从 Preview 1 到 RC1，.NET 11 的拼图基本完整了：Runtime Async 反超状态机模型、CoreCLR 登陆 WebAssembly、CLI 全面 NativeAOT 化（dotnet tool list 快 5.5 倍）、C# 15 补齐 union 和 labeled ...]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From Public Jenkins Exposure to Remote Code Execution]]></title>
+        <id>https://medium.com/p/670cd15078ed</id>
+        <link href="https://medium.com/@prasannasalunkhe19/from-public-jenkins-exposure-to-remote-code-execution-670cd15078ed?source=rss------bugbounty-5"/>
+        <updated>2026-09-09T23:10:59.000Z</updated>
+        <summary type="html"><![CDATA[While reviewing internet-exposed assets associated with an authorized bug bounty target, I used Shodan to identify publicly reachable…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Prasannasalunkhe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TryHackMe Injectics CTF Writeup: From SQL Injection to RCE]]></title>
+        <id>https://medium.com/p/8f46652e966b</id>
+        <link href="https://medium.com/@ziy4d0x/tryhackme-injectics-ctf-writeup-from-sql-injection-to-rce-8f46652e966b?source=rss------bugbounty-5"/>
+        <updated>2026-09-09T22:02:36.000Z</updated>
+        <summary type="html"><![CDATA[Step-by-step TryHackMe Injectics walkthrough: Learn to chain SQLi and SSTI to achieve full RCE, bypass controls, and retrieve all flags.
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Ziyad Walid [ziy4d0x]</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[12 Data Breach Response Steps Every Security Team Should Understand — A Practical Guide]]></title>
+        <id>https://medium.com/p/fc3df5e99d92</id>
+        <link href="https://medium.com/@verylazytech/12-data-breach-response-steps-every-security-team-should-understand-a-practical-guide-fc3df5e99d92?source=rss------bugbounty-5"/>
+        <updated>2026-09-09T19:55:41.000Z</updated>
+        <summary type="html"><![CDATA[Ever wake up to a Slack message at 3 AM: “We think something’s wrong with the prod DB”? You’re not alone. Data breaches happen. In fact…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Very Lazy Tech</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The $0 Exploit: Account Takeover via a Single HTTP Redirect]]></title>
+        <id>https://medium.com/p/2c0896c6298c</id>
+        <link href="https://medium.com/@harshchaudhari1972004/the-0-exploit-account-takeover-via-a-single-http-redirect-2c0896c6298c?source=rss------bugbounty-5"/>
+        <updated>2026-09-09T17:37:30.000Z</updated>
+        <summary type="html"><![CDATA[How a Single HTTP Redirect Let Me Hijack Any Account Without a Password
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Harshchaudhari</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Solar Debugger：一个轻量易扩展的上位机调试助手 - 比特向阳]]></title>
+        <id>https://www.cnblogs.com/lsksp/p/22907249</id>
+        <link href="https://www.cnblogs.com/lsksp/p/22907249"/>
+        <updated>2026-09-09T17:35:00.000Z</updated>
+        <summary type="html"><![CDATA[在我以往从事的项目中，一个系统可能有几十甚至几百个参数，为了便于系统调试，我制作一个可以适配多个项目、简单的、专注于数据写入和显示的上位机：Solar Debugger。]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Self-Healing WordPress Infection, and How I Cleaned It With Claude Code]]></title>
+        <id>https://medium.com/p/5d84ba20e7af</id>
+        <link href="https://medium.com/@garvsanwariya60/a-self-healing-wordpress-infection-and-how-i-cleaned-it-with-claude-code-5d84ba20e7af?source=rss------bugbounty-5"/>
+        <updated>2026-09-09T17:32:32.000Z</updated>
+        <summary type="html"><![CDATA[A Self-Healing WordPress Infection, and How I Cleaned It With Claude Code
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Garvsanwariya</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Finding an SSRF in Next.js Server Actions]]></title>
+        <id>https://medium.com/p/ad981ab216d2</id>
+        <link href="https://medium.com/@theteatoast/finding-an-ssrf-in-next-js-server-actions-ad981ab216d2?source=rss------bugbounty-5"/>
+        <updated>2026-09-09T17:19:28.000Z</updated>
+        <summary type="html"><![CDATA[I was looking through the Next.js Server Action forwarding code when I noticed that X-Forwarded-Host could influence the host used for an…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>toast</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apache Iceberg Variant 类型：v3 半结构化数据不再「二选一」 - Jackeyzhe]]></title>
+        <id>https://www.cnblogs.com/Jackeyzhe/p/22912333</id>
+        <link href="https://www.cnblogs.com/Jackeyzhe/p/22912333"/>
+        <updated>2026-09-09T15:43:00.000Z</updated>
+        <summary type="html"><![CDATA[你团队里大概率有一张这样的表：用户行为埋点、IoT 设备上报、或者某个第三方服务的 Webhook 回调。它们的共同点——schema 老变。今天上游加个 coupon_id，明天把 address 从字符串改成嵌套对象。 面对这种半结构化数据，过去你基本只有两条路： 塞进一个 STRING 列，把]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[全网 8k star 的 BuildAdmin 正式发布 Golang 版本，这次我们在CRUD赛道杀死了比赛。 - 妙码生花]]></title>
+        <id>https://www.cnblogs.com/ai-go-hub/p/22912234</id>
+        <link href="https://www.cnblogs.com/ai-go-hub/p/22912234"/>
+        <updated>2026-09-09T15:22:00.000Z</updated>
+        <summary type="html"><![CDATA[BuildAdmin 是一款开源后台系统，其高颜值和超绝的可视化 CRUD 深受广大开发者喜爱（全网 8k star），现在 BuildAdmin 正式发布了 Golang 版本。 Go 版本同样完全免费开源，无需授权即可商业使用，仓库地址：https://github.com/ai-go-hub/]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kenobi]]></title>
+        <id>https://medium.com/p/333f88b0db37</id>
+        <link href="https://medium.com/@rustmmmdov987/kenobi-333f88b0db37?source=rss------redteam-5"/>
+        <updated>2026-09-09T13:39:50.000Z</updated>
+        <summary type="html"><![CDATA[Introduction
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Rustem</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Soupedecode 01 TryHackMe CTF Writeup]]></title>
+        <id>https://medium.com/p/18bfd7294ab4</id>
+        <link href="https://infosecwriteups.com/soupedecode-01-tryhackme-ctf-writeup-18bfd7294ab4?source=rss------redteam-5"/>
+        <updated>2026-09-09T11:08:52.000Z</updated>
+        <summary type="html"><![CDATA[Room Name: Soupedecode 01
+Continue reading on InfoSec Write-ups »]]></summary>
+        <author>
+            <name>Davud Qasimov</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[由于买不起navicat，我就搓了个navicat - gui.h]]></title>
+        <id>https://www.cnblogs.com/springhgui/p/22910363</id>
+        <link href="https://www.cnblogs.com/springhgui/p/22910363"/>
+        <updated>2026-09-09T10:14:00.000Z</updated>
+        <summary type="html"><![CDATA[关于daro Flutter 构建的轻量级桌面数据库管理工具 本项目创建之初致敬了navicat界面和操作习惯，后续将按照社区反馈进行迭代完善；本项目为完全免费使用，仅作为学习和分享Flutter技术探索，不提供任何技术支持和售后行为。 ️ 支持的数据库 引擎 状态 驱动方式 MySQL ✅ 已]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新站上线别慌！我的 HTTPS 与网站安全配置自检清单 - Jin26]]></title>
+        <id>https://www.cnblogs.com/toolsbar/p/22910171</id>
+        <link href="https://www.cnblogs.com/toolsbar/p/22910171"/>
+        <updated>2026-09-09T09:57:00.000Z</updated>
+        <summary type="html"><![CDATA[很多人觉得网站安全=复杂渗透测试、漏洞扫描、安全加固，门槛高、耗时久，小站点没必要做。但实际上，绝大多数新站上线后遇到的奇葩问题：浏览器提示不安全、搜索引擎不收录、部分设备打不开页面、网站被劫持、出现基础漏洞告警，根源都不是代码 Bug，而是HTTPS、SSL证书、安全响应头配置不规范。]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RaBitQ 落地 Zvec：量化原理、索引设计与性能实测 - DashVector]]></title>
+        <id>https://www.cnblogs.com/DashVector/p/22909190</id>
+        <link href="https://www.cnblogs.com/DashVector/p/22909190"/>
+        <updated>2026-09-09T09:09:00.000Z</updated>
+        <summary type="html"><![CDATA[Zvec&#160;&#215;&#160;RaBitQ：量化不再盲目，误差有据可依。 
+
+痛点：
+传统向量量化（PQ/SQ）近似距离可能改变候选排序，影响召回率。 
+解法：
+Zvec&#160;集成&#160;HNSW-RaBitQ&#160;与&#160;IVF-RaBitQ，通过随机旋转降低量化误差，利用概率误差界辅助剪枝，减少无效计算。 
+战绩： 
+ ✅&#160;...]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux 服务常驻+开机自启实战：以 AIDBM 离线备份工具为例 - 刘子毅]]></title>
+        <id>https://www.cnblogs.com/liuziyi1/p/22908814</id>
+        <link href="https://www.cnblogs.com/liuziyi1/p/22908814"/>
+        <updated>2026-09-09T08:49:00.000Z</updated>
+        <summary type="html"><![CDATA[很多小伙伴部署自研程序、后端服务、工具程序时，都会遇到一个高频问题：程序手动能跑，重启服务器就挂、进程意外退出不会自动重启。 靠 nohup、screen 后台运行不仅不规范，还不稳定，无法实现自动保活、开机自启、统一运维管理。 今天就以 AIDBM AI Database Backup Manag]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Metasploitable 2 #1: Port 21 — Exploiting a Vulnerable FTP Service]]></title>
+        <id>https://medium.com/p/fca6f949dea0</id>
+        <link href="https://medium.com/@pauigdrm/vulnerability-assessment-and-exploitation-vsftpd-2-3-4-on-metasploitable-2-fca6f949dea0?source=rss------redteam-5"/>
+        <updated>2026-09-09T07:07:54.000Z</updated>
+        <summary type="html"><![CDATA[Introduction
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Daniel Romano M. Pauig</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GPT6 Astra 的几点小建议 - 程序员徐公]]></title>
         <id>https://www.cnblogs.com/gdutxiaoxu/p/22904269</id>
