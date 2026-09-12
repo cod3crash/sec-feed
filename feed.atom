@@ -2,10 +2,303 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cod3crash.github.io/sec-feed/index.html</id>
     <title>security feed</title>
-    <updated>2026-09-11T04:15:33.731Z</updated>
+    <updated>2026-09-12T04:14:33.572Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://cod3crash.github.io/sec-feed/index.html"/>
     <link rel="self" href="https://cod3crash.github.io/sec-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CRTA Lab Walkthrough: From Exposed Web App to Full Active Directory Domination]]></title>
+        <id>https://medium.com/p/db907816dd3b</id>
+        <link href="https://medium.com/@as_38773/crta-lab-walkthrough-from-exposed-web-app-to-full-active-directory-domination-db907816dd3b?source=rss------redteam-5"/>
+        <updated>2026-09-12T03:18:17.000Z</updated>
+        <summary type="html"><![CDATA[The CRTA lab starts simple: an e-commerce website on a public IP. It ends with a golden ticket, a fully dumped NTDS, and admin on two…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Abhijit Singh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[鸿蒙版本的JSBridge兼容与安卓配套的H5啦 - aqi00]]></title>
+        <id>https://www.cnblogs.com/aqi00/p/22883187</id>
+        <link href="https://www.cnblogs.com/aqi00/p/22883187"/>
+        <updated>2026-09-12T03:07:00.000Z</updated>
+        <summary type="html"><![CDATA[​现在主流的手机操作系统有Android、iOS和HarmonyOS（鸿蒙系统），为了减少同时维护三种客户端的工作量，一般采用APP内嵌H5页面的形式。由于H5不能直接调用客户端的原生能力，比如相机、麦克风，以及读取设备信息，因此需要在APP与H5之间搭建一种双向通信的桥梁机制。 一、JSBridg]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[领导问我，「对应需求」是什么意思 - 编程一生]]></title>
+        <id>https://www.cnblogs.com/xiexj/p/22945164</id>
+        <link href="https://www.cnblogs.com/xiexj/p/22945164"/>
+        <updated>2026-09-12T02:31:00.000Z</updated>
+        <summary type="html"><![CDATA[那天我给领导打电话，说到一半，冒出一句「对应那个需求的时候」。 领导在那头停了半秒，问我，对应需求是什么。 我一秒改口，支持需求。挂了电话我坐在那儿想，我什么时候开始这么说话的。想不起来。为什么要这么说。也想不起来。 那半秒其实是领导在帮我。他问的正好是最该问的那句。一个词，说的人自己都讲不清它跟旁]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[APEX 无法分配 SH 用户？一个存储过程轻松解决 - AlfredZhao]]></title>
+        <id>https://www.cnblogs.com/jyzhao/p/22944514</id>
+        <link href="https://www.cnblogs.com/jyzhao/p/22944514"/>
+        <updated>2026-09-12T00:47:00.000Z</updated>
+        <summary type="html"><![CDATA[在 Oracle APEX 日常开发中，笔者习惯使用 Object Browser 对不同 Schema 进行管理。最近为了测试同事开发的本体构建平台，笔者导入了 Oracle 自带的 SH 用户来模拟业务数据，却在分配 Schema 时遇到了一个“怪问题”。 01 | 问题现象：下拉列表里找不到]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI编程道心崩塌/十几年Qt开发经验一文不值 - 飞扬青云]]></title>
+        <id>https://www.cnblogs.com/feiyangqingyun/p/22944370</id>
+        <link href="https://www.cnblogs.com/feiyangqingyun/p/22944370"/>
+        <updated>2026-09-12T00:14:00.000Z</updated>
+        <summary type="html"><![CDATA[我干了十几年 Qt C++。从 Qt4 到 Qt6，从单线程到多线程池，从 GDI 绘图到 OpenGL 硬件加速，从 Windows 桌面到嵌入式 Linux 再到安卓跨平台。我熬过的夜、踩过的坑、调过的内存泄漏、追过的段错误，加起来能绕地球半圈。 我做过视频监控系统，手写 Onvif 协议解析、]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2026-09-11: Traffic analysis exercise - Kongtuke Rebuke!]]></title>
+        <id>https://www.malware-traffic-analysis.net/2026/09/11/index.html</id>
+        <link href="https://www.malware-traffic-analysis.net/2026/09/11/index.html"/>
+        <updated>2026-09-11T23:49:00.000Z</updated>
+        <author>
+            <name>Malware-Traffic-Analysis.net - Blog Entries</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A small error destroyed the protection against XSS vulnerability.]]></title>
+        <id>https://medium.com/p/f5ba2066f730</id>
+        <link href="https://medium.com/@omarelza3im44/a-small-error-destroyed-the-protection-against-xss-vulnerability-f5ba2066f730?source=rss------bugbounty-5"/>
+        <updated>2026-09-11T20:35:14.000Z</updated>
+        <summary type="html"><![CDATA[While hunting for XSS, I found an interesting case that reminded me why understanding the application is much more important than randomly…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Omar Zaky</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[thisisunsafe: o “atalho” escondido do Chrome que todo profissional de segurança deveria conhecer]]></title>
+        <id>https://medium.com/p/e9e490d759d9</id>
+        <link href="https://medium.com/@pentestweb96/thisisunsafe-o-atalho-escondido-do-chrome-que-todo-profissional-de-seguran%C3%A7a-deveria-conhecer-e9e490d759d9?source=rss------bugbounty-5"/>
+        <updated>2026-09-11T19:20:53.000Z</updated>
+        <summary type="html"><![CDATA[Durante testes de segurança e principalmente em ambientes de homologação, é comum encontrar aplicações HTTPS utilizando certificados…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>3SC0133</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A WebSocket, a Shell, and a Critical CVE: Discovering CVE-2026–39987]]></title>
+        <id>https://medium.com/p/1e97b8e46394</id>
+        <link href="https://medium.com/@espadar.julian/a-websocket-a-shell-and-a-critical-cve-discovering-cve-2026-39987-1e97b8e46394?source=rss------bugbounty-5"/>
+        <updated>2026-09-11T18:32:11.000Z</updated>
+        <summary type="html"><![CDATA[There are vulnerabilities that require chaining multiple weaknesses, bypassing filters, and spending hours building an exploitation path.
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>julichaan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[One Parameter. One Script Tag. One CVE.]]></title>
+        <id>https://medium.com/p/db67edcaea1e</id>
+        <link href="https://medium.com/@HoRRus/one-parameter-one-script-tag-one-cve-db67edcaea1e?source=rss------bugbounty-5"/>
+        <updated>2026-09-11T17:53:24.000Z</updated>
+        <summary type="html"><![CDATA[> 🧠 TL;DR — I found a reflected XSS in TechStore v1.0. One GET parameter, `id`, gets dropped straight into the page with no encoding and…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Mohammed ElKhateb</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[One Parameter. One Script Tag. One CVE.]]></title>
+        <id>https://medium.com/p/db67edcaea1e</id>
+        <link href="https://medium.com/@HoRRus/one-parameter-one-script-tag-one-cve-db67edcaea1e?source=rss------redteam-5"/>
+        <updated>2026-09-11T17:53:24.000Z</updated>
+        <summary type="html"><![CDATA[> 🧠 TL;DR — I found a reflected XSS in TechStore v1.0. One GET parameter, `id`, gets dropped straight into the page with no encoding and…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Mohammed ElKhateb</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OSAI (AI-300) and the Future of Pentesting]]></title>
+        <id>https://medium.com/p/4b9cf51448a2</id>
+        <link href="https://medium.com/@r._.a._a._d_../osai-ai-300-and-the-future-of-pentesting-4b9cf51448a2?source=rss------redteam-5"/>
+        <updated>2026-09-11T17:02:48.000Z</updated>
+        <summary type="html"><![CDATA[I recently completed the OSAI certification, and for me, this was one of those certifications that immediately felt relevant to where…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Raad Haddad</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Process Injections are most stealthy attacks if you know how to get them work.]]></title>
+        <id>https://medium.com/p/abc7ae87198f</id>
+        <link href="https://aghaasfandyarkhan.medium.com/process-injections-are-most-stealthy-attacks-if-you-know-how-to-get-them-work-abc7ae87198f?source=rss------redteam-5"/>
+        <updated>2026-09-11T16:28:30.000Z</updated>
+        <summary type="html"><![CDATA[There are more fun and informative ways in Red Team Operations to compromise a Windows System but when it comes to evasion and stealth…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Agha Asfandyar Khan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[One .svg and a CDN: How a File Extension Leaked Strangers' PII]]></title>
+        <id>https://medium.com/p/c8ca95ba5ddf</id>
+        <link href="https://medium.com/@abhinabshrestha9/one-svg-and-a-cdn-how-a-file-extension-leaked-strangers-pii-c8ca95ba5ddf?source=rss------bugbounty-5"/>
+        <updated>2026-09-11T16:20:50.000Z</updated>
+        <summary type="html"><![CDATA[A walkthrough of a Web Cache Deception bug that turned a private profile API into a public one — and the story of how it got closed as a…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Abhinabshrestha</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[⚡ BugScanner Explained | Automated Web Recon & Vulnerability Scanning for Bug Bounty]]></title>
+        <id>https://medium.com/p/e035d71b6796</id>
+        <link href="https://medium.com/@pentesterclubpvtltd/bugscanner-explained-automated-web-recon-vulnerability-scanning-for-bug-bounty-e035d71b6796?source=rss------bugbounty-5"/>
+        <updated>2026-09-11T15:47:09.000Z</updated>
+        <summary type="html"><![CDATA[What if your web security reconnaissance workflow could automatically discover the attack surface, fingerprint technologies, identify…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Pentester Club</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From N/A to $$$: How a 4-Month Dead Report Became My First Bug Bounty Win]]></title>
+        <id>https://medium.com/p/3b2338c86a31</id>
+        <link href="https://medium.com/@Brian_Bange/from-n-a-to-how-a-4-month-dead-report-became-my-first-bug-bounty-win-3b2338c86a31?source=rss------bugbounty-5"/>
+        <updated>2026-09-11T14:00:02.000Z</updated>
+        <summary type="html"><![CDATA[If you’re grinding your first year in bug bounty, you know the feeling. You spend hours hunting, finally submit what looks like a great…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Brian Bange</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Breaking Semantica: From Unchecked Graph Imports to Stored Header Injection & Memory DoS]]></title>
+        <id>https://medium.com/p/4f3e1293bd37</id>
+        <link href="https://medium.com/@Sunil56224972/breaking-semantica-from-unchecked-graph-imports-to-stored-header-injection-memory-dos-4f3e1293bd37?source=rss------bugbounty-5"/>
+        <updated>2026-09-11T13:29:13.000Z</updated>
+        <summary type="html"><![CDATA[Modern AI & Graph systems often focus heavily on model logic while standard web security slip-throughs create devastating attack surfaces.
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Sunil</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【知识中枢】向量检索引擎：从Embedding到相似度匹配的工程实践 - KM_Albert]]></title>
+        <id>https://www.cnblogs.com/hegezhou_hot/p/22940649</id>
+        <link href="https://www.cnblogs.com/hegezhou_hot/p/22940649"/>
+        <updated>2026-09-11T12:14:00.000Z</updated>
+        <summary type="html"><![CDATA[向量检索是RAG系统的&quot;心脏&quot;——检索质量直接决定了AI回答的上限。本文从Embedding模型选型、向量索引算法、混合检索策略到性能优化，给出企业级向量检索引擎的完整工程实践指南。  导读 &quot;为什么我们的RAG系统总是检索不到正确的知识？&quot;——这是企业落地知识中枢时最高频的技术问题。答案往往不]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The GraphQL Loophole Hiding in Airline Booking Systems]]></title>
+        <id>https://medium.com/p/75b1b6d47248</id>
+        <link href="https://medium.com/@lpaccella/the-graphql-loophole-hiding-in-airline-booking-systems-75b1b6d47248?source=rss------bugbounty-5"/>
+        <updated>2026-09-11T11:51:03.000Z</updated>
+        <summary type="html"><![CDATA[An anonymized case study of alias-based query batching, response oracles, and why request-level rate limits may not measure the real work.
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Luciano Paccella</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DOM Clobbering: Turning Plain HTML Into JavaScript Variables]]></title>
+        <id>https://medium.com/p/3054d0c489f5</id>
+        <link href="https://kd-200.medium.com/dom-clobbering-turning-plain-html-into-javascript-variables-3054d0c489f5?source=rss------bugbounty-5"/>
+        <updated>2026-09-11T11:31:01.000Z</updated>
+        <summary type="html"><![CDATA[Sanitizers strip event handlers and keep id and name. Those two attributes are enough to overwrite the page’s own variables.
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Nitin yadav</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI一天出百本书，写不出我被Redis坑的那三天三夜 - 码哥字节]]></title>
+        <id>https://www.cnblogs.com/uniqueDong/p/22940181</id>
+        <link href="https://www.cnblogs.com/uniqueDong/p/22940181"/>
+        <updated>2026-09-11T10:41:00.000Z</updated>
+        <summary type="html"><![CDATA[上周有个读者在我知识星球发私信，问了一个让我愣了半天的问题。 他说，码哥，我在亚马逊搜 Redis，出来一堆书名跟你那本差不多的，定价两三美元，简介写得有模有样，这些是不是 AI 写的，你的书会不会也被替代？ 我去搜了一下。确实，一排书名看着都挺像那么回事，《Redis 从入门到精通》《Redis]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[异常值检测与处理方法总结 - wang_yb]]></title>
+        <id>https://www.cnblogs.com/wang_yb/p/22939379</id>
+        <link href="https://www.cnblogs.com/wang_yb/p/22939379"/>
+        <updated>2026-09-11T09:45:00.000Z</updated>
+        <summary type="html"><![CDATA[先别被“数据科学”这几个字吓到。异常值 其实天天出现在我们身边： 你平时电费300块，这个月突然变成1500块； 你每天走8000步，某天微信运动显示50000步（而你那天明明在家躺平）； 班里同学考60~80分，突然冒出个100分和20分。 这些“画风突变”的数据点，就是我们今天要抓的“显眼包”—]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[智能合约 Fuzz 实践案例：Balancer 精度舍入漏洞 - ACai_sec]]></title>
+        <id>https://www.cnblogs.com/ACaiGarden/p/22939203</id>
+        <link href="https://www.cnblogs.com/ACaiGarden/p/22939203"/>
+        <updated>2026-09-11T09:40:00.000Z</updated>
+        <summary type="html"><![CDATA[背景 20260831-Balancer 攻击事件 20260831，Balancer v1 合约遭受了黑客攻击，损失约 234k 美元。该次攻击事件的 rootcause 是协议在舍入方向上采用了“四舍五入”的方式，而不是采用“对协议有利”的舍入方式，使得攻击者可以利用舍入的精度丢失进行获利。 本]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OctaFuse Gateway 2.10.0：路由参数强制覆盖、模型入口发现与额度审计升级 - 程序猿DD]]></title>
+        <id>https://www.cnblogs.com/didispace/p/22936847</id>
+        <link href="https://www.cnblogs.com/didispace/p/22936847"/>
+        <updated>2026-09-11T07:32:00.000Z</updated>
+        <summary type="html"><![CDATA[不同模型和供应商对请求格式的要求并不相同。有些参数可以交给客户端决定，有些请求头或请求体字段则必须固定；一旦客户端缺少或覆盖这些值，请求就可能失败。 OctaFuse Gateway 2.10.0 为路由请求体和上游请求头增加独立的强制覆盖开关，同时让客户端从模型列表中识别可用请求入口，并完善永久额]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Skill 机制解析：从定义、触发到调用外部工具 - 未来AI笔记]]></title>
+        <id>https://www.cnblogs.com/zjdxr-up/p/22936825</id>
+        <link href="https://www.cnblogs.com/zjdxr-up/p/22936825"/>
+        <updated>2026-09-11T07:31:00.000Z</updated>
+        <summary type="html"><![CDATA[转发请注明出处： 一、什么是 Skill Skill 是一套 “AI 调度 + 脚本执行”的分工协作机制。它的核心思想是关注点分离：AI 大模型擅长理解意图、做判断和调度，但不擅长精确计算和复杂文件操作；因此，Skill 让 AI 专注于“什么时候调用什么工具”的决策，而把“重型”的实际执行工作交给]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HelloCrab - 短视频开源爬虫，仅供学习参考 - 猫叔Vincent]]></title>
+        <id>https://www.cnblogs.com/hupo376787/p/22934908</id>
+        <link href="https://www.cnblogs.com/hupo376787/p/22934908"/>
+        <updated>2026-09-11T05:49:00.000Z</updated>
+        <summary type="html"><![CDATA[HelloCrab 基于 Avalonia、Playwright、AI与 FFmpeg 的跨平台桌面采集器，支持9大平台，以及 Android、iOS、Browser 远程控制端。 Made By ChatGPT &amp; Vincent with ❤ 平台 是否接入 哔哩哔哩 ✅ 抖音 ✅ 快手 ✅ 微]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[.NET 异常处理的"暗门"：代码里写满 catch，你依然能抓住它——从一个 AI Agent 运行时的源码说起 - 张善友]]></title>
+        <id>https://www.cnblogs.com/shanyou/p/22814535</id>
+        <link href="https://www.cnblogs.com/shanyou/p/22814535"/>
+        <updated>2026-09-11T05:40:00.000Z</updated>
+        <summary type="html"><![CDATA[一个健壮的系统，必然到处都是有意的 catch；异常被消化不等于问题不存在。 观测与韧性，是一个硬币的两面——降级逻辑保证系统不崩，FirstChance 保证你能看见它为什么降级。]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[架构师化繁为简，执行者化简为繁 - orange-C]]></title>
+        <id>https://www.cnblogs.com/orange-CC/p/22934179</id>
+        <link href="https://www.cnblogs.com/orange-CC/p/22934179"/>
+        <updated>2026-09-11T04:33:00.000Z</updated>
+        <summary type="html"><![CDATA[新手改三天，你改三行——反而是你显得更不重要。因为化繁为简做得越纯熟，产出看起来越小。这篇聊聊两种能力的辩证关系，以及为什么&quot;看不见&quot;的那部分工作，恰恰是最难的部分。]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hacksmarter Aftermath-CTF Writeup]]></title>
         <id>https://medium.com/p/e41ea4c96acc</id>
