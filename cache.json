@@ -21404,6 +21404,16 @@
       "siteUrl": null,
       "articles": [
         {
+          "id": "https://www.cnblogs.com/uniqueDong/p/22964159",
+          "author": null,
+          "description": "上周我让 Claude Code 干一个重构活，跑到一半发现它在偷偷开 subagent，一层套一层，等我反应过来 token 已经烧穿了三层上下文。 我盯着屏幕上那个我根本没授权的子任务，第一反应不是「模型真聪明」，而是「这玩意到底是谁派出去的，它派了几层，我怎么知道它还能不能再派」。 说实话，这",
+          "link": "https://www.cnblogs.com/uniqueDong/p/22964159",
+          "publishedOn": "2026-09-14T04:11:00.000Z",
+          "wordCount": 1314,
+          "title": "DeepSeek Harness 最狠的不是免费，是把 spawn 子 Agent 做成了协议 - 码哥字节",
+          "imageUrl": "https://img2024.cnblogs.com/blog/735767/202609/735767-20260914121039702-973124206.png"
+        },
+        {
           "id": "https://www.cnblogs.com/orihard/p/22963561",
           "author": null,
           "description": "一、板卡简介 基于3U PXIe的ZU11EG/ZU7EG/ZU7EV的通用 ，实现FMC的数据接口和主控计算，北京比量科技板卡广泛应用于工业控制，检测，视觉处理。支持工业级温度工作。 二、主要功能 1、 板卡核心芯片使用ZU7EV/11EG-2FFVC1156I MPSOC处理器，PL端一路DDR",
@@ -21602,6 +21612,16 @@
           "wordCount": 3540,
           "title": "[嵌入式数据库/RDBMS] SQLite 3.x: 全球部署最广泛的零配置、单文件、嵌入式 ACID 关系型数据库引擎 - 千千寰宇",
           "imageUrl": "https://img2024.cnblogs.com/blog/1173617/202609/1173617-20260913133331484-2117005132.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/mengyingblog/p/22955360",
+          "author": null,
+          "description": "本文介绍 LangChain 聊天模型的流式传输，涵盖 stream() 同步与 astream() 异步两种方式，并讲解协程、事件循环等异步概念，最后演示如何用生成器函数自定义流式输出解析器，实现按句输出。",
+          "link": "https://www.cnblogs.com/mengyingblog/p/22955360",
+          "publishedOn": "2026-09-13T04:39:00.000Z",
+          "wordCount": 564,
+          "title": "Langchain简单快速上手教程（五）——聊天模型之流式传输 - _梦影",
+          "imageUrl": "https://img2024.cnblogs.com/blog/3677342/202609/3677342-20260907100127333-1231407438.png"
         },
         {
           "id": "https://www.cnblogs.com/aqi00/p/22883187",

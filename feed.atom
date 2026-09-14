@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cod3crash.github.io/sec-feed/index.html</id>
     <title>security feed</title>
-    <updated>2026-09-14T04:07:21.648Z</updated>
+    <updated>2026-09-14T04:33:24.845Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://cod3crash.github.io/sec-feed/index.html"/>
     <link rel="self" href="https://cod3crash.github.io/sec-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[DeepSeek Harness 最狠的不是免费，是把 spawn 子 Agent 做成了协议 - 码哥字节]]></title>
+        <id>https://www.cnblogs.com/uniqueDong/p/22964159</id>
+        <link href="https://www.cnblogs.com/uniqueDong/p/22964159"/>
+        <updated>2026-09-14T04:11:00.000Z</updated>
+        <summary type="html"><![CDATA[上周我让 Claude Code 干一个重构活，跑到一半发现它在偷偷开 subagent，一层套一层，等我反应过来 token 已经烧穿了三层上下文。 我盯着屏幕上那个我根本没授权的子任务，第一反应不是「模型真聪明」，而是「这玩意到底是谁派出去的，它派了几层，我怎么知道它还能不能再派」。 说实话，这]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[图像信号处理板设计原理图：531-基于3U PXIe 的ZU7EV的通用主控板 - hexiaoyan]]></title>
         <id>https://www.cnblogs.com/orihard/p/22963561</id>
@@ -355,6 +365,16 @@ Continue reading on Medium »]]></summary>
         <link href="https://www.cnblogs.com/johnnyzen/p/22955495"/>
         <updated>2026-09-13T05:30:00.000Z</updated>
         <summary type="html"><![CDATA[0 序 缘起 Chroma、Weixin 、Windows、Android 等都在使用 SQL Lite 两年前开始、至近期多次使用、研究 DB-GPT 这个 Data-Agent 开源项目。 DB-GPT 项目基于 Chroma 向量数据库做 Data-Agents Chroma 向量数据库自 0]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Langchain简单快速上手教程（五）——聊天模型之流式传输 - _梦影]]></title>
+        <id>https://www.cnblogs.com/mengyingblog/p/22955360</id>
+        <link href="https://www.cnblogs.com/mengyingblog/p/22955360"/>
+        <updated>2026-09-13T04:39:00.000Z</updated>
+        <summary type="html"><![CDATA[本文介绍 LangChain 聊天模型的流式传输，涵盖 stream() 同步与 astream() 异步两种方式，并讲解协程、事件循环等异步概念，最后演示如何用生成器函数自定义流式输出解析器，实现按句输出。]]></summary>
         <author>
             <name>博客园_首页</name>
         </author>
