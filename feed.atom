@@ -2,10 +2,396 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cod3crash.github.io/sec-feed/index.html</id>
     <title>security feed</title>
-    <updated>2026-09-14T04:33:24.845Z</updated>
+    <updated>2026-09-15T04:33:36.860Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://cod3crash.github.io/sec-feed/index.html"/>
     <link rel="self" href="https://cod3crash.github.io/sec-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How I Found an Unauthenticated IDOR That Exposed Every User’s PII and Access Roles]]></title>
+        <id>https://medium.com/p/35ab2c3c84f9</id>
+        <link href="https://cybersecuritywriteups.com/how-i-found-an-unauthenticated-idor-that-exposed-every-users-pii-and-access-roles-35ab2c3c84f9?source=rss------bugbounty-5"/>
+        <updated>2026-09-15T03:57:06.000Z</updated>
+        <summary type="html"><![CDATA[Everyone’s out here chasing live targets. Meanwhile I’m digging through an archived repo nobody’s touched in months, because why not. So…
+Continue reading on Cyber Security Write-ups »]]></summary>
+        <author>
+            <name>Ishbarna Kafle</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Telegram Asked Us to Stay Silent About an XSS. We Published It Anyway.]]></title>
+        <id>https://medium.com/p/7bee8d2027a1</id>
+        <link href="https://medium.com/@expatch/telegram-asked-us-to-stay-silent-about-an-xss-we-published-it-anyway-7bee8d2027a1?source=rss------bugbounty-5"/>
+        <updated>2026-09-15T03:26:51.000Z</updated>
+        <summary type="html"><![CDATA[A bot that was never in your group could hide code in a message, wait months, and fire when someone exports the chat. Telegram fixed the…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>ExPatch Security</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中医竟是AI Harness祖师爷？ - 东风微鸣]]></title>
+        <id>https://www.cnblogs.com/east4ming/p/22979442</id>
+        <link href="https://www.cnblogs.com/east4ming/p/22979442"/>
+        <updated>2026-09-15T03:20:00.000Z</updated>
+        <summary type="html"><![CDATA[传统软件工程处理的是可规定、可复现、可验证的确定性逻辑；现代 AI 处理的是从数据中归纳出来的概率性泛化。中医辨证论治，与 AI 有结构上的相似：知识不是明文规则，而是隐式经验模式；输出不是逻辑必然，而是条件分布下的高概率选择。AI Harness 最该学的，不是让模型变确定，而是用确定性外壳包住概...]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Agent 记忆系统难在取舍 - AI小老六]]></title>
+        <id>https://www.cnblogs.com/ai-old-six/p/22978984</id>
+        <link href="https://www.cnblogs.com/ai-old-six/p/22978984"/>
+        <updated>2026-09-15T03:01:00.000Z</updated>
+        <summary type="html"><![CDATA[Agent 记忆的难点不是存储，而是判断什么值得写、什么时候合并、召回多少，以及团队资产如何治理。 ​阅读时间​：约 7 分钟 很多 Agent Memory 方案看起来都差不多：分层记忆、向量召回、长期画像、少用 token。 真正拉开差距的地方，不在这些名词，而在边界条件。 拆这类系统，最好先问]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CodeReview的本质分析 - 编程一生]]></title>
+        <id>https://www.cnblogs.com/xiexj/p/22978503</id>
+        <link href="https://www.cnblogs.com/xiexj/p/22978503"/>
+        <updated>2026-09-15T02:42:00.000Z</updated>
+        <summary type="html"><![CDATA[背景 代码评审（CodeReview，简称CR）作为很多研发团队的标准化部分被广泛使用。听到有很多工程师在代码评审时有这样一些疑问： 1、代码评审要达到哪些目标？ 2、哪些方面是我应该评审的？哪些不是？ 3、别人有没有认真的评审我的代码？如何让别人评审代码更容易？ 今天咱们一起使用3W方法来透过问题]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PHP Trait 为何可能成为语言的关键特性 - JaguarJack]]></title>
+        <id>https://www.cnblogs.com/catchadmin/p/22977112</id>
+        <link href="https://www.cnblogs.com/catchadmin/p/22977112"/>
+        <updated>2026-09-15T01:58:00.000Z</updated>
+        <summary type="html"><![CDATA[PHP Trait 为何可能成为语言的关键特性 PHP 社区对 Trait 一向谈不上偏爱。它们常被视为隐式行为的来源。既然如此，Trait 为何依然值得重视？ Trait 大概是 PHP 中唯一可以被归入元编程工具集的特性。它允许在程序真正开始使用某个类之前改变该类的结构，实际上就是把方法、属性和]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何自定义一个MyBatis插件 - Rain的Java大神实战圈]]></title>
+        <id>https://www.cnblogs.com/zrui-xyu/p/22976656</id>
+        <link href="https://www.cnblogs.com/zrui-xyu/p/22976656"/>
+        <updated>2026-09-15T01:39:00.000Z</updated>
+        <summary type="html"><![CDATA[详解 MyBatis 自定义插件底层原理，基于 JDK 动态代理 + 责任链，可拦截四大核心对象。提供数据权限插件实战代码，亮点：@Order 控制插件执行顺序，借助 MetaObject 安全反射，使用 JSqlParser AST 语法树修改 SQL，规避字符串替换 BUG。附带慢 SQL 监控...]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【译】借助 Visual Studio 订阅权益 Cloud Academy 更快掌握 Azure 技能 - MeteorSeed]]></title>
+        <id>https://www.cnblogs.com/MeteorSeed/p/22902120</id>
+        <link href="https://www.cnblogs.com/MeteorSeed/p/22902120"/>
+        <updated>2026-09-15T01:33:00.000Z</updated>
+        <summary type="html"><![CDATA[如果您一直在寻找掌握 Azure 技能的实用途径，QA 旗下的 Cloud Academy 可为 Visual Studio 订阅用户提供适配繁忙日程的实操学习课程。 无论您是刚接触 Azure、想要拓展云技术专业能力、备考相关认证，还是为更复杂的高级项目做准备，这项权益都能帮助您在实践中学习。 您]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2026 性能测试工具大盘点：13 款主流压测工具，测试工程师必备！ - 狂师]]></title>
+        <id>https://www.cnblogs.com/jinjiangongzuoshi/p/22975900</id>
+        <link href="https://www.cnblogs.com/jinjiangongzuoshi/p/22975900"/>
+        <updated>2026-09-15T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[先聊一个做过压测的人多半踩过的坑。 压测压到一半，被测的系统还活得好好的，发起压测的那台机器先扛不住了。这时候报告上的数字看着挺像回事，其实测出来的不是系统的上限，是压测工具自己的上限，结论从根上就是错的。 所以工具的资源占用和并发能力，直接决定压测结论可不可信，选型这事真不能随便。 今天给大家推荐]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[开源：基于.Net开发的数据库自治诊断平台——DBPilot - 陈珙]]></title>
+        <id>https://www.cnblogs.com/skychen1218/p/22961976</id>
+        <link href="https://www.cnblogs.com/skychen1218/p/22961976"/>
+        <updated>2026-09-15T00:57:00.000Z</updated>
+        <summary type="html"><![CDATA[GitHub：https://github.com/SkyChenSky/DBPilot NuGet：https://www.nuget.org/packages/DBPilot 如果对你有帮助，欢迎 Star，这是对开源作者最直接的支持。 这篇文章连代码大概 8000 字，可能花您 15 分钟阅读]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AVX性能暴涨135%，吊打OpenVINO.NET——SimdPaddleOCR 1.3发布！ - .NET骚操作]]></title>
+        <id>https://www.cnblogs.com/sdcb/p/22973218/20260914-simdpaddleocr-1-3</id>
+        <link href="https://www.cnblogs.com/sdcb/p/22973218/20260914-simdpaddleocr-1-3"/>
+        <updated>2026-09-15T00:50:00.000Z</updated>
+        <summary type="html"><![CDATA[先看性能跑分，机器是我自己的主力开发机 Ryzen 7 5800X（16 逻辑核，AVX2），Windows 11，PP-OCRv6，4 个行级 worker，仓库里会生成 100 张合成图，去掉第一张预热，统计 99 张，长这个样子： 耗时是每张图的平均毫秒。C 引擎换成了较新的 lw.PPOCR]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[重新理解企业的内部协作 - 三范式]]></title>
+        <id>https://www.cnblogs.com/cicada-smile/p/22975556</id>
+        <link href="https://www.cnblogs.com/cicada-smile/p/22975556"/>
+        <updated>2026-09-15T00:15:00.000Z</updated>
+        <summary type="html"><![CDATA[从当时去分析：什么样的决策，才能穿越周期的影响？曾经入职过的一家公司，当时的老板经常说：看问题要尊重常识，做决策要敬畏因果。]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web Cache Deception via URL Parsing Discrepancy — PII Disclosure & Cache Poisoning]]></title>
+        <id>https://medium.com/p/29ccf97be42f</id>
+        <link href="https://medium.com/@ferhatsara/web-cache-deception-via-url-parsing-discrepancy-pii-disclosure-cache-poisoning-29ccf97be42f?source=rss------bugbounty-5"/>
+        <updated>2026-09-15T00:14:38.000Z</updated>
+        <summary type="html"><![CDATA[Merhaba, global ölçekte faaliyet gösteren bir kuruluşta tespit etmiş olduğum Web Cache Deception (WCD) zafiyetini teknik açıdan paylaşmak…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Ferhat SARA</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一次RabbitMQ重启引发的网关雪崩复盘 - 一个码农的日常]]></title>
+        <id>https://www.cnblogs.com/zhangs1986/p/22947591</id>
+        <link href="https://www.cnblogs.com/zhangs1986/p/22947591"/>
+        <updated>2026-09-15T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[晚上生产告警群里突然开始刷屏。网关 Pod 不断重启，有客户反馈操作页面时好时坏，K8s 事件里清一色的： Readiness probe failed: Get &quot;http://192.168.5.1:7888/actuator/health&quot;: read tcp 192.168.5.90:530]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[向量相似度、混合相似度、关键词相似度的理解 - 未来AI笔记]]></title>
+        <id>https://www.cnblogs.com/zjdxr-up/p/22965538</id>
+        <link href="https://www.cnblogs.com/zjdxr-up/p/22965538"/>
+        <updated>2026-09-14T23:25:00.000Z</updated>
+        <summary type="html"><![CDATA[这三个概念是知识库检索和 RAG 系统里最核心的匹配策略。理解它们，关键要抓住一个核心问题：怎么判断两段文字“像不像”？  一句话理解三者 关键词相似度：看两段文字有没有相同的词。像查字典，按字面匹配。 向量相似度：看两段文字意思像不像。像理解语义，按含义匹配。 混合相似度：把上面两种结合起来，]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux 日志神器 journalctl 完全指南：彻底替代传统日志查看方式 - Swizard]]></title>
+        <id>https://www.cnblogs.com/swizard/p/22974770</id>
+        <link href="https://www.cnblogs.com/swizard/p/22974770"/>
+        <updated>2026-09-14T22:25:00.000Z</updated>
+        <summary type="html"><![CDATA[在 CentOS 7+、Ubuntu 16.04+ 现代 Linux 系统中，systemd 接管了系统和服务的所有管理工作，同时带来了全新的日志管理工具 journalctl。 以往我们排查问题，需要挨个查看/var/log/messages、/var/log/nginx、/var/log/sec]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[lethargic_sleep]]></title>
+        <id>https://medium.com/p/7eca41e4f71c</id>
+        <link href="https://medium.com/@q3alique/lethargic-sleep-7eca41e4f71c?source=rss------redteam-5"/>
+        <updated>2026-09-14T21:42:20.000Z</updated>
+        <summary type="html"><![CDATA[Lessons from building sleep masking for a managed C2 agent
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Qalique</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Agentic Bug Hunter]]></title>
+        <id>https://medium.com/p/0dc6f644c48b</id>
+        <link href="https://medium.com/@molapomanuel709/agentic-bug-hunter-0dc6f644c48b?source=rss------bugbounty-5"/>
+        <updated>2026-09-14T21:09:17.000Z</updated>
+        <summary type="html"><![CDATA[Agentic Bug Hunter: A Practical Guide for Bug Hunters
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Molapo Manuel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zero Permissions, Full DDL: How I Broke Table Authorization in AT&T’s Snowflake Backend]]></title>
+        <id>https://medium.com/p/09ac349b88e1</id>
+        <link href="https://medium.com/@Tyrion404/zero-permissions-full-ddl-how-i-broke-table-authorization-in-at-ts-snowflake-backend-09ac349b88e1?source=rss------redteam-5"/>
+        <updated>2026-09-14T19:40:14.000Z</updated>
+        <summary type="html"><![CDATA[A Tyrion404 writeup — on the difference between authentication and authorization, and why confusing the two is a very expensive mistake.
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Tyrion404</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Claude Code Landed Me a $500 Supabase Bug Bounty]]></title>
+        <id>https://medium.com/p/91f7455f6bfe</id>
+        <link href="https://yaseenzubair.medium.com/how-claude-code-landed-me-a-500-supabase-bug-bounty-91f7455f6bfe?source=rss------bugbounty-5"/>
+        <updated>2026-09-14T17:55:19.000Z</updated>
+        <summary type="html"><![CDATA[As more applications are being developed, I’ve noticed a clear rise in Supabase usage. More and more teams are using it to handle…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Yaseen Zubair</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[My CRTP Journey: What It Really Takes to Think Like an AD Red Teamer]]></title>
+        <id>https://medium.com/p/b2df37c587e0</id>
+        <link href="https://alfazhossain0.medium.com/my-crtp-journey-what-it-really-takes-to-think-like-an-ad-red-teamer-b2df37c587e0?source=rss------redteam-5"/>
+        <updated>2026-09-14T14:23:06.000Z</updated>
+        <summary type="html"><![CDATA[A few weeks ago I sat down for my CRTP exam, and I am happy to say I passed and I am now a Certified Red Teaming Professional. I wanted to…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Alfaz Hossain</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[基于Blazor实现的项目管理系统 - known]]></title>
+        <id>https://www.cnblogs.com/known/p/22972193</id>
+        <link href="https://www.cnblogs.com/known/p/22972193"/>
+        <updated>2026-09-14T14:10:00.000Z</updated>
+        <summary type="html"><![CDATA[一套面向工程建设领域的全流程项目管理平台，覆盖项目立项、合同履约、物资采购、库存盘点、财务结算与数据分析，帮助企业实现项目全生命周期的数字化管控。 一、项目背景与概述 在工程建设行业，项目管理往往涉及多参与方（建设单位、施工单位、监理单位、设计单位）、多业务环节（合同、采购、库存、财务）以及大量文档]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cybersecurity Blog CTF | Full Penetration Testing Challenge]]></title>
+        <id>https://medium.com/p/e1c7afd6031f</id>
+        <link href="https://medium.com/@pentesterclubpvtltd/cybersecurity-blog-ctf-full-penetration-testing-challenge-e1c7afd6031f?source=rss------bugbounty-5"/>
+        <updated>2026-09-14T14:06:32.000Z</updated>
+        <summary type="html"><![CDATA[A website. A few hidden clues. A vulnerable application. One objective: find the attack path.
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Pentester Club</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Attempting to set up my bug bounty foundation]]></title>
+        <id>https://medium.com/p/7cae2b154a41</id>
+        <link href="https://medium.com/@gabriellakyy14/attempting-to-set-up-my-bug-bounty-foundation-7cae2b154a41?source=rss------bugbounty-5"/>
+        <updated>2026-09-14T13:59:12.000Z</updated>
+        <summary type="html"><![CDATA[Continue reading on Medium »]]></summary>
+        <author>
+            <name>Gabriella Kwok</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[机器人模型（WM / WAM / VLA）综合分析与对比：从「看」到「想」再到「做」 - 罗西的思考]]></title>
+        <id>https://www.cnblogs.com/rossiXYZ/p/22957370</id>
+        <link href="https://www.cnblogs.com/rossiXYZ/p/22957370"/>
+        <updated>2026-09-14T12:52:00.000Z</updated>
+        <summary type="html"><![CDATA[机器人模型（WM / WAM / VLA）综合分析与对比：从「看」到「想」再到「做」 目录机器人模型（WM / WAM / VLA）综合分析与对比：从「看」到「想」再到「做」0x00 概要0x01 面对的难点与核心冲突1.1 核心冲突的一句话版本1.2 深挖：难点的四个层次0x02 这些模型如何解决]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[标准输入输出与 MicroLIB：C 语言的终端去了哪里 - Zw-awa]]></title>
+        <id>https://www.cnblogs.com/zw-awa/p/22971849</id>
+        <link href="https://www.cnblogs.com/zw-awa/p/22971849"/>
+        <updated>2026-09-14T12:45:00.000Z</updated>
+        <summary type="html"><![CDATA[在电脑上顺手写下的一行输出，到了单片机里为什么突然没有回应？终端、程序和那条看不见的通道之间，究竟少了哪一环？]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Framework Escape Hatches: One Grep, Your Whole Attack Surface]]></title>
+        <id>https://medium.com/p/e382637fb66d</id>
+        <link href="https://kd-200.medium.com/framework-escape-hatches-one-grep-your-whole-attack-surface-e382637fb66d?source=rss------bugbounty-5"/>
+        <updated>2026-09-14T11:31:01.000Z</updated>
+        <summary type="html"><![CDATA[Frameworks made interpolation safe by default. Every one of them ships a hatch, and developers use it every day.
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Nitin yadav</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3 Zero-Days, 1 Week: Why September 2026 Is a Wake-Up Call for Every IT Team]]></title>
+        <id>https://medium.com/p/5f166f64dc0c</id>
+        <link href="https://medium.com/@bugitrix/3-zero-days-1-week-why-september-2026-is-a-wake-up-call-for-every-it-team-5f166f64dc0c?source=rss------bugbounty-5"/>
+        <updated>2026-09-14T10:56:07.000Z</updated>
+        <summary type="html"><![CDATA[Chrome, VMware, and Magento all got hit in the same seven days. If you think your patch cycle is “fast enough,” this week just proved you…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Bugitrix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PowerShell: An Active Directory Red Teaming Overview]]></title>
+        <id>https://medium.com/p/5070a2d2f334</id>
+        <link href="https://systemweakness.com/powershell-an-active-directory-red-teaming-overview-5070a2d2f334?source=rss------redteam-5"/>
+        <updated>2026-09-14T10:39:16.000Z</updated>
+        <summary type="html"><![CDATA[PowerShell is a foundational pillar in managing and automating Active Directory (AD).
+Continue reading on System Weakness »]]></summary>
+        <author>
+            <name>Toshith</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How many tests to run?Sampling Settings and Sample Size in LLM Safety Evaluations.]]></title>
+        <id>https://medium.com/p/53c14ad78823</id>
+        <link href="https://medium.com/@lana.hampicke_36832/lana-hampicke-co-founder-and-managing-partner-ai-safety-and-governance-t3-t-3-ai-53c14ad78823?source=rss------redteam-5"/>
+        <updated>2026-09-14T10:33:21.000Z</updated>
+        <summary type="html"><![CDATA[T3 Adversarial Testing Methodology
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Mrs Lana Hampicke</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[并发编程（一）：先谈硬件——从 count++ 到原子性、可见性与有序性 - ThinkerQAQ]]></title>
+        <id>https://www.cnblogs.com/ThinkerQAQ/p/22969810</id>
+        <link href="https://www.cnblogs.com/ThinkerQAQ/p/22969810"/>
+        <updated>2026-09-14T09:52:00.000Z</updated>
+        <summary type="html"><![CDATA[目录 1. 从冯诺依曼体系结构说起 2. count++ 最终会变成什么？ 3. 为什么需要 Cache？ 4. 单核下的并发问题：为什么 count++ 会丢失更新？ 5. 从单核走向多核：可见性问题 6. 多个内存操作之间的顺序又怎么办？ 6.1 Store Buffer 6.2 Out-of-]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Install Kali Linux on VirtualBox: A Beginner’s Guide to Ethical Hacking]]></title>
+        <id>https://medium.com/p/902246567861</id>
+        <link href="https://medium.com/@arfatkhan3708/how-to-install-kali-linux-on-virtualbox-a-beginners-guide-to-ethical-hacking-902246567861?source=rss------bugbounty-5"/>
+        <updated>2026-09-14T09:30:44.000Z</updated>
+        <summary type="html"><![CDATA[If you’re planning to start your journey into Ethical Hacking, Penetration Testing, Bug Bounty, or Cybersecurity, one of the first things…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Arfat Khan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[智能体化检索增强生成：关于智能体化 RAG 的综述 - AI-Frontiers]]></title>
+        <id>https://www.cnblogs.com/aifrontiers/p/22969123</id>
+        <link href="https://www.cnblogs.com/aifrontiers/p/22969123"/>
+        <updated>2026-09-14T09:19:00.000Z</updated>
+        <summary type="html"><![CDATA[原文: https://mp.weixin.qq.com/s/0iZbROEfeHA470l4zM1mAg RAG往期文章推荐 RAG效果差？7个指标让你的准确率大幅提升 RAG评测完整指南：指标、测试和最佳实践 收藏！RAG核心工具大全: 7大解析工具+向量模型+数据库+检索排序 GraphRAG]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[编程农场——入坑游玩第二天 - reasa]]></title>
+        <id>https://www.cnblogs.com/reasa/p/22968643</id>
+        <link href="https://www.cnblogs.com/reasa/p/22968643"/>
+        <updated>2026-09-14T08:54:00.000Z</updated>
+        <summary type="html"><![CDATA[书接上回 显然，我们可以知道，如果仅初始化图为线性规划的图，显然在模拟退火随机扰动时，会使其不同种类计数扰动，而这一扰动会导致后面完成退火后，得到的计数并不同初始图一样保证最优，我们选择第二种方案，我们可以将cnt1、cnt2、cnt3设为固定的，扰动的只有分布，但是我太菜了，没有想到这一扰动应该怎]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用 WorkBuddy 做了一个述职神器，老板直呼好有感觉 - AI架构师汤师爷]]></title>
+        <id>https://www.cnblogs.com/tangshiye/p/22968082</id>
+        <link href="https://www.cnblogs.com/tangshiye/p/22968082"/>
+        <updated>2026-09-14T08:29:00.000Z</updated>
+        <summary type="html"><![CDATA[大家好，我是汤师爷。 一到述职，你是不是慌的要死？ 方案在 Word 里，数据在 Excel 里，会议结论躺在邮件里。 文件夹里还有几个版本的表格数据，到底哪个算数，得挨个打开看。 材料找齐了，还得想怎么讲。 做了哪些事，带来了什么结果，哪些是自己负责的，总不能把三个月的周报拼起来，从第一周看到最后]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Muddy Water APT Adversary Simulation]]></title>
+        <id>https://medium.com/p/fa6257b42811</id>
+        <link href="https://medium.com/@S3N4T0R/charming-kitten-apt-adversary-simulation-fa6257b42811?source=rss------redteam-5"/>
+        <updated>2026-09-14T07:27:49.000Z</updated>
+        <summary type="html"><![CDATA[This is a simulation of an attack by the APT group Muddy Water, targeting multiple sectors including government, military, and critical…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>S3N4T0R</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building a Python Reverse Shell-Part 2: Encryption, Resilience & Detection]]></title>
+        <id>https://medium.com/p/001209ce6e92</id>
+        <link href="https://medium.com/@stavinfernandes2098/building-a-python-reverse-shell-part-2-encryption-resilience-detection-001209ce6e92?source=rss------redteam-5"/>
+        <updated>2026-09-14T05:23:28.000Z</updated>
+        <summary type="html"><![CDATA[Make the implant survive network drops, hide its traffic from signature-based detection, then flip the lens and hunt it with lsof, strace…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Stavinfernandes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DeepSeek Harness 最狠的不是免费，是把 spawn 子 Agent 做成了协议 - 码哥字节]]></title>
         <id>https://www.cnblogs.com/uniqueDong/p/22964159</id>
@@ -223,6 +609,17 @@ Continue reading on Medium »]]></summary>
 Continue reading on Medium »]]></summary>
         <author>
             <name>Ali Essam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HTB COAE Review: What All 12 Modules will Teach You about AI Red Teaming]]></title>
+        <id>https://medium.com/p/283b721959ed</id>
+        <link href="https://medium.com/@Infosec-Arsenal-Diaries/htb-coae-review-what-all-12-modules-will-teach-you-about-ai-red-teaming-283b721959ed?source=rss------redteam-5"/>
+        <updated>2026-09-13T19:27:08.000Z</updated>
+        <summary type="html"><![CDATA[A module-by-module HTB COAE review, where to slow down, where the maths gets heavy, and what to expect from the path.
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Antariksha Akhilesh Sharma</name>
         </author>
     </entry>
     <entry>
