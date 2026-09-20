@@ -2,10 +2,324 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cod3crash.github.io/sec-feed/index.html</id>
     <title>security feed</title>
-    <updated>2026-09-19T04:16:51.750Z</updated>
+    <updated>2026-09-20T04:35:38.795Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://cod3crash.github.io/sec-feed/index.html"/>
     <link rel="self" href="https://cod3crash.github.io/sec-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[使用 DuckDB 分析 Parquet 文件 - wang_yb]]></title>
+        <id>https://www.cnblogs.com/wang_yb/p/23046497</id>
+        <link href="https://www.cnblogs.com/wang_yb/p/23046497"/>
+        <updated>2026-09-20T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[上周朋友发我一个小餐馆的订单文件：restaurant_orders.parquet。 他说是外卖平台导出的，想看看总共多少单、赚了多少钱、哪个菜卖得好、大家怎么付款。 文件几百 MB，不算大，但也不想为了看几个数去折腾数据库。 我直接用了 DuckDB，它有几个好处： 不用建表，不用导入，直接 r]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Digital Brick Wall: Breaking Through AD with Kerberos]]></title>
+        <id>https://medium.com/p/ad3195a0cd0f</id>
+        <link href="https://medium.com/@Mal3vAntCtrl/the-digital-brick-wall-breaking-through-ad-with-kerberos-ad3195a0cd0f?source=rss------redteam-5"/>
+        <updated>2026-09-20T03:58:03.000Z</updated>
+        <summary type="html"><![CDATA[Deep inside, somewhere on the domain, an attacker has come to a point where privilege escalation opportunities have stopped. A digital…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Mal3vAntCtrl</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一次游戏安全SO静态分析记录：腾讯ACE与FairGuard加固强度对比 - 字节暗面]]></title>
+        <id>https://www.cnblogs.com/bytehidden/p/23046349</id>
+        <link href="https://www.cnblogs.com/bytehidden/p/23046349"/>
+        <updated>2026-09-20T03:50:00.000Z</updated>
+        <summary type="html"><![CDATA[最近用GPT-5.6 Sol分析了几份Android SO，感受比较明显：AI已经可以承担不少二进制静态分析中的重复工作。把ELF头、节区、符号、字符串、重定位和函数展开信息交给它批量整理，再回到工具输出逐项核对，效率比手工来回翻结果高很多。 这次我选择了两款手游中的安全模块，分别来自FairGua]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Agent 平台的两种哲学：从 WeKnora 和 Molio 聊起 - AI闲人]]></title>
+        <id>https://www.cnblogs.com/xianxh/p/23045625</id>
+        <link href="https://www.cnblogs.com/xianxh/p/23045625"/>
+        <updated>2026-09-20T03:14:00.000Z</updated>
+        <summary type="html"><![CDATA[Agent 平台的两种哲学：从 WeKnora 和 Molio 聊起 WeKnora 最近开源了，也加入了 Wiki 这条路。 这个事让我重新开始想一个问题：我们到底需要一个什么样的 Agent 平台？ 过去聊 AI 平台，习惯从模型、RAG、知识库、Workflow、MCP 这些能力出发。但 Ag]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[数据库主从复制扩展(一) - 讲文张字]]></title>
+        <id>https://www.cnblogs.com/zhangwencheng/p/21331027</id>
+        <link href="https://www.cnblogs.com/zhangwencheng/p/21331027"/>
+        <updated>2026-09-20T02:01:00.000Z</updated>
+        <summary type="html"><![CDATA[主从复制扩展应用：延时从库 概念介绍说明： 表示人为主动方式将一个从库进行配置，使从库可以按照指定的时间延时后，再进行和主库完成相应数据信息同步； 功能作用说明： 通常对于数据库服务中的数据信息产生损坏，可能有两方面因素造成： 物理损坏：主机故障、磁盘异常、数据文件损坏...，可以利用传统主从复制方]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何快速上传10G文件 - Rain的Java大神实战圈]]></title>
+        <id>https://www.cnblogs.com/zrui-xyu/p/23043556</id>
+        <link href="https://www.cnblogs.com/zrui-xyu/p/23043556"/>
+        <updated>2026-09-20T01:39:00.000Z</updated>
+        <summary type="html"><![CDATA[详解 10G 大文件上传完整落地方案，采用分片并发、断点续传、秒传能力。前端 WebWorker 增量哈希 + Promise 并发池；后端基于 MinIO+Redis+RabbitMQ，搭配零拷贝合并、分布式锁。附带 Java/JS 核心代码与面试问答，覆盖性能优化、异常兜底，可直接用于生产。]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[又是一年了，那个“不务正业“的央企程序员 - 李玉宝]]></title>
+        <id>https://www.cnblogs.com/yubaolee/p/23042984/starganttdev</id>
+        <link href="https://www.cnblogs.com/yubaolee/p/23042984/starganttdev"/>
+        <updated>2026-09-20T00:45:00.000Z</updated>
+        <summary type="html"><![CDATA[一年前的十月份，我写了一篇[《央企程序员AI创业一个月感受》](https://www.cnblogs.com/yubaolee/p/19150334/gantt)，那时[星甘StarGantt](https://stargantt.cn)第一次与大家见面，注册用户从零开始。弹指一挥一年间。它还顽强...]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[STM32F103C8T6 最小系统板：从型号差异到启动方式 - Zw-awa]]></title>
+        <id>https://www.cnblogs.com/zw-awa/p/23037818</id>
+        <link href="https://www.cnblogs.com/zw-awa/p/23037818"/>
+        <updated>2026-09-20T00:44:00.000Z</updated>
+        <summary type="html"><![CDATA[同一个系列的芯片，型号后面几个字母和数字为什么会影响实际使用？一块看似简单的最小系统板，启动时还要先确认哪些事情？]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Docker 删除 none 镜像：一次真实的清理记录 - AlfredZhao]]></title>
+        <id>https://www.cnblogs.com/jyzhao/p/23042208</id>
+        <link href="https://www.cnblogs.com/jyzhao/p/23042208"/>
+        <updated>2026-09-19T23:21:00.000Z</updated>
+        <summary type="html"><![CDATA[笔者在服务器上执行 docker images 时，发现列表里堆了一排 &lt;none&gt; 镜像，占用从 511 MB 到 826 MB 不等。它们既没有仓库名，也没有标签，看起来像“幽灵”。这篇文章记录笔者如何定位根源并清理掉它们。 01 | none 镜像从哪来 &lt;none&gt;:&lt;none&gt; 常见于以下]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[My First Bug Bounty Finding Was Critical: Exploiting a Weak JWT Secret for Account Takeover]]></title>
+        <id>https://medium.com/p/dd56a07b5c92</id>
+        <link href="https://medium.com/@yOnly_/my-first-bug-bounty-finding-was-critical-exploiting-a-weak-jwt-secret-for-account-takeover-dd56a07b5c92?source=rss------bugbounty-5"/>
+        <updated>2026-09-19T23:16:39.000Z</updated>
+        <summary type="html"><![CDATA[This was my first real bug bounty finding, and somehow, it turned into a Critical vulnerability with a $1,500 bounty.
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>yOnly</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[.NET 11 来了！ASP.NET Core 新特性全解析，HTTP/2/HTTP/3 这次真的变了 - 张善友]]></title>
+        <id>https://www.cnblogs.com/shanyou/p/23042166</id>
+        <link href="https://www.cnblogs.com/shanyou/p/23042166"/>
+        <updated>2026-09-19T22:52:00.000Z</updated>
+        <summary type="html"><![CDATA[如果你维护着跑在 Kestrel 上的高并发服务，HTTP/2/3 相关的三项改进值得在升级后第一时间压测验证；如果你在探索 AI 应用，MCP + Blazor AI 组件的组合值得现在就开始尝鲜]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Read The Policies So You Don’t Have To; Bugcrowd (Vulnerability Reporting Platform)]]></title>
+        <id>https://medium.com/p/9d804fae79dc</id>
+        <link href="https://medium.com/@ItsNotNicole/i-read-the-policies-so-you-dont-have-to-bugcrowd-vulnerability-reporting-platform-9d804fae79dc?source=rss------bugbounty-5"/>
+        <updated>2026-09-19T20:48:50.000Z</updated>
+        <summary type="html"><![CDATA[A privately owned company formed in 2012, Bugcrowd don’t post their financial information publicly, and any estimates for annual recurring…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Its Not Nicole</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SQL Injection: Time-Based Blind Detection Payload]]></title>
+        <id>https://medium.com/p/953657dd542b</id>
+        <link href="https://medium.com/@cybersecplayground/sql-injection-time-based-blind-detection-payload-953657dd542b?source=rss------bugbounty-5"/>
+        <updated>2026-09-19T19:20:12.000Z</updated>
+        <summary type="html"><![CDATA[Time-based blind SQL injection is one of the most reliable techniques when no data is reflected in the response. Instead of seeing output…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Cybersecplayground</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ipspoof: An Open Source Tool for Automated Testing of HTTP Header-Based Access Controls]]></title>
+        <id>https://medium.com/p/15fe11b9cace</id>
+        <link href="https://exript.medium.com/ipspoof-an-open-source-tool-for-automated-testing-of-http-header-based-access-controls-15fe11b9cace?source=rss------bugbounty-5"/>
+        <updated>2026-09-19T19:09:01.000Z</updated>
+        <summary type="html"><![CDATA[Discover a commonly overlooked vulnerability class in seconds during pentests and bug bounties
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Exript</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Dorking for Bug Hunters: Real-World Case Studies]]></title>
+        <id>https://medium.com/p/3e24ac06b6b0</id>
+        <link href="https://medium.com/@raissiamir797/google-dorking-for-bug-hunters-real-world-case-studies-3e24ac06b6b0?source=rss------bugbounty-5"/>
+        <updated>2026-09-19T19:06:37.000Z</updated>
+        <summary type="html"><![CDATA[In this writeup, I will not teach you how to write Google Dorks.
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>default</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What you do right and wrong when using AI to write an article.]]></title>
+        <id>https://medium.com/p/a1f6844682b5</id>
+        <link href="https://medium.com/@Z5_Hunter/what-you-do-right-and-wrong-when-using-ai-to-write-an-article-a1f6844682b5?source=rss------bugbounty-5"/>
+        <updated>2026-09-19T19:01:01.000Z</updated>
+        <summary type="html"><![CDATA[This article was translated and proofread by an AI — but not conceived or written by one. That’s the fundamental difference.
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Th3 4rt 0f H4ck1ng</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bug bounty platforms in 2026: HackerOne, Bugcrowd, YesWeHack, Intigriti, Immunefi, Cantina…]]></title>
+        <id>https://medium.com/p/0185966dc6ee</id>
+        <link href="https://medium.com/@nyko.ai/bug-bounty-platforms-in-2026-hackerone-bugcrowd-yeswehack-intigriti-immunefi-cantina-0185966dc6ee?source=rss------bugbounty-5"/>
+        <updated>2026-09-19T18:54:07.000Z</updated>
+        <summary type="html"><![CDATA[First this is the link for non member …
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Nyko</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Critical Account Takeover via JWT Public Key Injection (JKU Hijacking) & Algoritmo Null Alignment]]></title>
+        <id>https://medium.com/p/bcbbf051dc67</id>
+        <link href="https://medium.com/@t4nv1/critical-account-takeover-via-jwt-public-key-injection-jku-hijacking-algoritmo-null-alignment-bcbbf051dc67?source=rss------bugbounty-5"/>
+        <updated>2026-09-19T18:51:01.000Z</updated>
+        <summary type="html"><![CDATA[A deep dive into broken cryptographic verification in custom OAuth/OIDC JWT middleware.
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>T4nv1</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Claude AI: A Practical Guide for Bug Hunters]]></title>
+        <id>https://medium.com/p/9ac94985e496</id>
+        <link href="https://osintteam.blog/claude-ai-a-practical-guide-for-bug-hunters-9ac94985e496?source=rss------bugbounty-5"/>
+        <updated>2026-09-19T18:29:53.000Z</updated>
+        <summary type="html"><![CDATA[What Claude AI is, how to use it, and why it has become one of my favorite AI tools for learning cybersecurity, bug bounty, and everyday…
+Continue reading on OSINT Team »]]></summary>
+        <author>
+            <name>Monika</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chaining API Bugs: How Low-Severity Findings Become Critical]]></title>
+        <id>https://medium.com/p/2184adabe30f</id>
+        <link href="https://osintteam.blog/chaining-api-bugs-how-low-severity-findings-become-critical-2184adabe30f?source=rss------bugbounty-5"/>
+        <updated>2026-09-19T18:29:39.000Z</updated>
+        <summary type="html"><![CDATA[API Vulnerability Hunter, Part 5 of 5 (Series Finale)
+Continue reading on OSINT Team »]]></summary>
+        <author>
+            <name>Yamini Yadav_369</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cloudflare 这个老功能，被 AI Coding 重新带火了 - 开发指南]]></title>
+        <id>https://www.cnblogs.com/kaifazhinan/p/23040147/cloudflare-tunnels</id>
+        <link href="https://www.cnblogs.com/kaifazhinan/p/23040147/cloudflare-tunnels"/>
+        <updated>2026-09-19T14:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Cloudflare 有个存在多年的小功能：一条命令，就能把电脑上的 localhost 变成公网 HTTPS 地址。以前它只是方便开发者临时分享网站，到了 AI Coding 时代，却突然有了新的价值。]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Gemini Cybersecurity Test Reaches Real Companies: What It Reveals About AI Agent Security]]></title>
+        <id>https://medium.com/p/d4ad22c2f077</id>
+        <link href="https://medium.com/@jasmitharouthu_58441/google-gemini-cybersecurity-test-reaches-real-companies-what-it-reveals-about-ai-agent-security-d4ad22c2f077?source=rss------redteam-5"/>
+        <updated>2026-09-19T14:28:42.000Z</updated>
+        <summary type="html"><![CDATA[Artificial intelligence is rapidly moving from systems that generate information to systems that can investigate environments, interact…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Jas</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[长对话先收口：用“工作记忆 vs 长期记忆“管理 AI 上下文 - Jessica_留学中]]></title>
+        <id>https://www.cnblogs.com/jessica837488/p/23040016</id>
+        <link href="https://www.cnblogs.com/jessica837488/p/23040016"/>
+        <updated>2026-09-19T13:52:00.000Z</updated>
+        <summary type="html"><![CDATA[发布日期： 2026年09月19日 阅读时间： 约 12-15 分钟 分类：技术杂谈 专栏：主流AI工具指南 关键词：上下文工程 收口 中间迷失 LLM 长期记忆 AI 你有没有过这种体验：跟 AI 聊了四五十轮，从&quot;帮我写个函数&quot;一路拐到&quot;顺便把数据库也调一下&quot;，又或者“这个项目有什么思路”直到“]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[并发编程（三）：互斥锁——语言层的原子性、可见性与有序性 · ThinkerQAQ - ThinkerQAQ]]></title>
+        <id>https://www.cnblogs.com/ThinkerQAQ/p/23039631</id>
+        <link href="https://www.cnblogs.com/ThinkerQAQ/p/23039631"/>
+        <updated>2026-09-19T12:08:00.000Z</updated>
+        <summary type="html"><![CDATA[目录 0. 从上一篇继续 1. 三种语言的锁规则分别保证什么？ 2. 下一篇：互斥锁是怎么实现的？ 本文首发于 ThinkerQAQ 的个人博客，由作者本人同步发布。 0. 从上一篇继续 这一篇直接从语言内存模型层的规则讨论 Mutex。 1. 三种语言的锁规则分别保证什么？ 1.1 Java：sy]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何查看codex与后端大模型交互细节 - 三国梦回]]></title>
+        <id>https://www.cnblogs.com/grey-wolf/p/23039479</id>
+        <link href="https://www.cnblogs.com/grey-wolf/p/23039479"/>
+        <updated>2026-09-19T11:15:00.000Z</updated>
+        <summary type="html"><![CDATA[背景 我这边总结两种方法，主要的思路都是让电脑上的chatgpt（codex）将与后端大模型的流量通过一个正向代理或反向代理软件，然后在这个代理软件上就能查看到经过的流量。 charles 开启代理端口 charles/fiddler/mitmproxy这类软件属于正向代理，当然，像charles/]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jev 工程实践：在 Agent Harness 里放一个"快思考层" - 艾特玖]]></title>
+        <id>https://www.cnblogs.com/aitejiu/p/23039318</id>
+        <link href="https://www.cnblogs.com/aitejiu/p/23039318"/>
+        <updated>2026-09-19T10:34:00.000Z</updated>
+        <summary type="html"><![CDATA[22,500 次 API 调用、$2.19、10 个公开数据集。本文先讲 Jev 是什么、怎么用，再讲我们对它的理解和想落地的场景，最后用测试数据说说我们对它的&quot;再认知&quot;。 一、Jev 是什么：一个&quot;决策模型&quot;，不是聊天模型 Jev 是 TypeSafe AI 发布的第一个 System One 模]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[.net10+winform+Antdui 制作 LOL 小助手三 - 辛丑知此名]]></title>
+        <id>https://www.cnblogs.com/sc-Free-Die/p/23038354</id>
+        <link href="https://www.cnblogs.com/sc-Free-Die/p/23038354"/>
+        <updated>2026-09-19T07:28:00.000Z</updated>
+        <summary type="html"><![CDATA[:::info  断断续续又写了一版。上一版结尾留的那几个坑基本都填上了——轮询换成了 WebSocket，自动禁选能正常用，战绩查询也从&quot;待完善&quot;熬成了现在最厚的一个页面。这版把新东西一起补上。 ::: 功能 1. 各个功能模块 现在是七个标签页：首页、好友、对局、战绩查询、关于、设置、日志。]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Robotics-机器人建模中的坐标系建立 - lvdongjie-avatarx]]></title>
+        <id>https://www.cnblogs.com/ai-ldj/p/23037776</id>
+        <link href="https://www.cnblogs.com/ai-ldj/p/23037776"/>
+        <updated>2026-09-19T06:25:00.000Z</updated>
+        <summary type="html"><![CDATA[机器人建模中的坐标系建立 在机器人建模中，坐标系建立和原点选取看起来像是“画图时的约定”，但它们会直接影响后续的运动学建模、动力学建模、控制算法和程序实现。 同一台机器人，如果坐标系建得清晰，后面的变换矩阵、雅可比矩阵、运动学方程会自然很多；如果坐标系建得混乱，公式会变长，符号容易出错，调试时也很难]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[点亮第一盏 LED：STM32 的 GPIO 到底在控制什么 - Zw-awa]]></title>
+        <id>https://www.cnblogs.com/zw-awa/p/23025590</id>
+        <link href="https://www.cnblogs.com/zw-awa/p/23025590"/>
+        <updated>2026-09-19T05:28:00.000Z</updated>
+        <summary type="html"><![CDATA[经典三问 Q: GPIO 是什么？ A: GPIO 是可以由程序配置为输入或输出的通用数字引脚，芯片通过它读取或驱动外部电平。 Q: 为什么需要先学习 GPIO？ A: LED、按键、传感器使能和电机方向等大量外设，最终都要通过 GPIO 完成最基本的输入输出。 Q: GPIO 常见使用场景？ A:]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[年薪128万美元：FDE 究竟是 AI 落地的船票，还是一张更贵的外包工牌？ - 小白跃升坊]]></title>
+        <id>https://www.cnblogs.com/xiaobaiysf/p/23037239</id>
+        <link href="https://www.cnblogs.com/xiaobaiysf/p/23037239"/>
+        <updated>2026-09-19T05:16:00.000Z</updated>
+        <summary type="html"><![CDATA[一个残酷的对照：2025 年 4 月，Indeed 上&quot;forward deployed engineering&quot;相关岗位 643 个；一年后，5330 个。
+同一时间，某公司给这个岗位的顶级从业者开出了接近 128 万美元的年包——折合人民币约 870 万。
+但一份覆盖 1500 名 FDE 的调...]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[微信和 VS Code 强强联合！WeChat AHP 来了 - formulahendry]]></title>
         <id>https://www.cnblogs.com/formulahendry/p/23036505</id>
