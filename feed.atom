@@ -2,10 +2,387 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cod3crash.github.io/sec-feed/index.html</id>
     <title>security feed</title>
-    <updated>2026-09-21T04:33:30.047Z</updated>
+    <updated>2026-09-22T04:29:31.258Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://cod3crash.github.io/sec-feed/index.html"/>
     <link rel="self" href="https://cod3crash.github.io/sec-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[什么是关系型数据库：一次库存超卖事故的内核复盘 - 底层玩家老张]]></title>
+        <id>https://www.cnblogs.com/dicengwanjialaozhang/p/23076598</id>
+        <link href="https://www.cnblogs.com/dicengwanjialaozhang/p/23076598"/>
+        <updated>2026-09-22T03:39:00.000Z</updated>
+        <summary type="html"><![CDATA[关系型数据库不只是&quot;二维表+SQL+ACID&quot;。从一次秒杀超卖事故出发，拆开WAL、MVCC、B+Tree，讲清它在磁盘上到底怎么跑，以及信创选型该怎么挑。]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Robotics-从笛卡尔坐标到齐次变换，一次理清位置、姿态与位姿 - lvdongjie-avatarx]]></title>
+        <id>https://www.cnblogs.com/ai-ldj/p/23076443</id>
+        <link href="https://www.cnblogs.com/ai-ldj/p/23076443"/>
+        <updated>2026-09-22T03:32:00.000Z</updated>
+        <summary type="html"><![CDATA[机器人学基础：从笛卡尔坐标到齐次变换，一次理清位置、姿态与位姿 学习机器人运动学时，我们经常遇到几组看似相近、又不能互相替代的概念：笛卡尔坐标、欧拉角、旋转矩阵、齐次变换和四元数。 它们之间到底是什么关系？为什么一个三维空间中的刚体，会用到一个 4&#215;4 矩阵？矩阵里有 16 个数，是否意味着机器人有]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python coverage 进阶：从跑命令到“构造“覆盖率报告 - EXIORAN]]></title>
+        <id>https://www.cnblogs.com/exioran/p/23075327</id>
+        <link href="https://www.cnblogs.com/exioran/p/23075327"/>
+        <updated>2026-09-22T02:46:00.000Z</updated>
+        <summary type="html"><![CDATA[大多数人对 coverage 的认知停留在 coverage run + coverage html，但它在测试工程里还有更硬核的一面：多进程数据合并、代码内 API 采集、读懂并手工构造 .coverage 文件、脚本化批量生成报告。这篇文章沿着&quot;命令行 → 代码级 → 数据级&quot;三层递进，把这套能]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Agent 记忆系统的分层设计 - AI小老六]]></title>
+        <id>https://www.cnblogs.com/ai-old-six/p/23075259</id>
+        <link href="https://www.cnblogs.com/ai-old-six/p/23075259"/>
+        <updated>2026-09-22T02:42:00.000Z</updated>
+        <summary type="html"><![CDATA[Agent 记忆不该只是聊天记录压缩，而要分清任务、用户、历史事实和可复用能力的权威层级。 从 L0 到 L4 拆解工作记忆、长期记忆和 Skill 治理边界 Agent 没有记忆时，每个新任务都像重新认识用户。 它不知道你之前定过什么规则，不知道哪些方案已经试过，也不知道上一个线程里留下了什么结论]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我用 AI 做完整项目后，总结出一套把需求钉死的工作流 - codigger]]></title>
+        <id>https://www.cnblogs.com/codigger/p/23074289</id>
+        <link href="https://www.cnblogs.com/codigger/p/23074289"/>
+        <updated>2026-09-22T02:11:00.000Z</updated>
+        <summary type="html"><![CDATA[做了十几年开发，今年最大的变化是把 Codex、Claude Code 这类 Agent 真正用进项目里，而不是只在 demo 阶段玩玩。最近用它们做完一个本地 epub 阅读器，踩的坑和攒的经验，值得记一笔。 先说我的核心主张：用 AI 写代码不能只甩一条指令，必须建立一套&quot;把预期逐步固化&quot;的工作]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RuoYi-Cloud-Plus一些坑 - 没有烦恼的猫猫]]></title>
+        <id>https://www.cnblogs.com/maomao777/p/23074288</id>
+        <link href="https://www.cnblogs.com/maomao777/p/23074288"/>
+        <updated>2026-09-22T02:11:00.000Z</updated>
+        <summary type="html"><![CDATA[1、RedisUtils工具类 在 RuoYi-Cloud-Plus 的多租户模式下，RedisUtils.getClient().set 和 RedisUtils.setCacheObject 对 key 的处理确实不一样，前者不会自动拼接租户 ID。  两者的区别 RedisUtils.ge]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python 如何提取 PDF 表格数据并写入 SQLite？ - LAYONTHEGROUND]]></title>
+        <id>https://www.cnblogs.com/jazz-z/p/23073564</id>
+        <link href="https://www.cnblogs.com/jazz-z/p/23073564"/>
+        <updated>2026-09-22T01:38:00.000Z</updated>
+        <summary type="html"><![CDATA[处理 PDF 表格数据的场景很常见：季度报表、对账单、业务台账，业务方给一份 PDF 过来，需要结构化后进数据库做后续分析。本文分享一个完整的 Python 实现，覆盖从表格提取、字段清洗、动态建表到批量入库的全流程。代码依赖免费库 Free Spire.PDF 完成 PDF 解析，其余全部基于标准]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DTO、VO、PO 到底要不要拆？一篇讲透 Java 实体分层的底层逻辑 - Rain的Java大神实战圈]]></title>
+        <id>https://www.cnblogs.com/zrui-xyu/p/23073247</id>
+        <link href="https://www.cnblogs.com/zrui-xyu/p/23073247"/>
+        <updated>2026-09-22T01:24:00.000Z</updated>
+        <summary type="html"><![CDATA[Java 开发常纠结 PO、DTO、VO 是否拆分。本文拆解分层实体职责与完整数据流转链路，核心亮点：采用 MapStruct 编译期对象转换，对比反射工具性能与类型安全；结合实战代码演示分层脱敏；给出落地避坑方案，用 ArchUnit 做架构校验防止 PO 外泄。附带决策树，拒绝八股式硬套，按项目...]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[cloudflared，不需要服务器和公网 IP 的免费内网穿透，一条命令上手 - 狂师]]></title>
+        <id>https://www.cnblogs.com/jinjiangongzuoshi/p/23073018</id>
+        <link href="https://www.cnblogs.com/jinjiangongzuoshi/p/23073018"/>
+        <updated>2026-09-22T01:13:00.000Z</updated>
+        <summary type="html"><![CDATA[大家好，我是狂师。 前阵子 Hacker News 首页挂了个老工具，Cloudflare 的隧道服务，页面上一句口号挺扎眼。 Your agent needs a URL, not a laptop. 意思很直白，Agent 要干活，先得有一个公网能访问的地址，光在自己那台笔记本本地跑没用。 现在]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[按键接到 STM32 后：GPIO 输入到底读到了什么 - Zw-awa]]></title>
+        <id>https://www.cnblogs.com/zw-awa/p/23068637</id>
+        <link href="https://www.cnblogs.com/zw-awa/p/23068637"/>
+        <updated>2026-09-22T00:45:00.000Z</updated>
+        <summary type="html"><![CDATA[按键的一端接在引脚上，另一端接到哪里，芯片看到的并不一样。同一颗按键、同一段程序，只是换一种输入模式，松手之后的读数为什么就没了定论？]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ligolo-ng: Cómo Romper el Aislamiento de una Red Interna]]></title>
+        <id>https://medium.com/p/0a1a17b184b4</id>
+        <link href="https://medium.com/@therealciscoo/ligolo-ng-c%C3%B3mo-romper-el-aislamiento-de-una-red-interna-0a1a17b184b4?source=rss------redteam-5"/>
+        <updated>2026-09-22T00:44:45.000Z</updated>
+        <summary type="html"><![CDATA[Aprende a pivotar desde un host comprometido, acceder a redes aisladas y obtener una reverse shell cuando el routing tradicional falla.
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>TheRealCiscoo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一切都会回潮-写在一个职业周期的低处 - 余一思]]></title>
+        <id>https://www.cnblogs.com/yuyisi/p/23058239</id>
+        <link href="https://www.cnblogs.com/yuyisi/p/23058239"/>
+        <updated>2026-09-22T00:38:00.000Z</updated>
+        <summary type="html"><![CDATA[我第一次真正意识到“周期”的存在，是在一堆旧代码面前。 几年前，我参与过一个核心系统的重构。它承载着很高的流量，代码库却已经年久失修。许多逻辑层层叠叠地缠在一起，一处看似简单的改动，常常会在另一个看起来毫不相干的地方引发问题。团队里几乎没有人愿意碰它。 我们花了几个月拆解、重写、迁移，像在飞行途中更]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How a single broken button got me £150 from a bug bounty program]]></title>
+        <id>https://medium.com/p/81f203d7f733</id>
+        <link href="https://medium.com/@sairajthorat077/how-a-single-broken-button-got-me-150-from-a-bug-bounty-program-81f203d7f733?source=rss------bugbounty-5"/>
+        <updated>2026-09-21T23:00:36.000Z</updated>
+        <summary type="html"><![CDATA[Continue reading on Medium »]]></summary>
+        <author>
+            <name>Sairaj Thorat</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[npm 源切换：一条命令搞定 - AlfredZhao]]></title>
+        <id>https://www.cnblogs.com/jyzhao/p/23071778</id>
+        <link href="https://www.cnblogs.com/jyzhao/p/23071778"/>
+        <updated>2026-09-21T22:56:00.000Z</updated>
+        <summary type="html"><![CDATA[在国内做前端开发，npm install 慢到让人怀疑人生是常事。问题往往不在网络本身，而在默认的 npm 源。本文用最少的命令，把这件事讲清楚。 01 | 先看看当前用的是哪个源 打开终端，输入： npm config get registry 笔者环境里执行后返回： https://regist]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kerberos Fundamentals]]></title>
+        <id>https://medium.com/p/b627819a07e2</id>
+        <link href="https://medium.com/@toneillcodes/kerberos-fundamentals-b627819a07e2?source=rss------redteam-5"/>
+        <updated>2026-09-21T20:30:44.000Z</updated>
+        <summary type="html"><![CDATA[An Introduction to the Kerberos Protocol
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Tom O'Neill</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BOLA in the Wild: Reading Another User’s Full Profile by Changing One UUID]]></title>
+        <id>https://medium.com/p/e05ee078aa0e</id>
+        <link href="https://medium.com/@neel.chauhan09/bola-in-the-wild-reading-another-users-full-profile-by-changing-one-uuid-e05ee078aa0e?source=rss------bugbounty-5"/>
+        <updated>2026-09-21T20:11:48.000Z</updated>
+        <summary type="html"><![CDATA[CWE-639: Authorization Bypass Through User-Controlled Key CWE-284: Improper Access Control CVSS 3.1: 6.5 (Medium) —…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Neel Chauhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unauthenticated Account Takeover: When the Password Reset API Hands You the Token]]></title>
+        <id>https://medium.com/p/11a62b9d4cf8</id>
+        <link href="https://medium.com/@neel.chauhan09/unauthenticated-account-takeover-when-the-password-reset-api-hands-you-the-token-11a62b9d4cf8?source=rss------bugbounty-5"/>
+        <updated>2026-09-21T20:11:21.000Z</updated>
+        <summary type="html"><![CDATA[CWE-640: Weak Password Recovery Mechanism CWE-200: Exposure of Sensitive Information to an Unauthorized Actor CWE-204: Observable Response…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Neel Chauhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[$11,500 : Account Takeover via Race Condition in OAuth2 State Verification & Single-Use…]]></title>
+        <id>https://medium.com/p/54cd5d544e10</id>
+        <link href="https://medium.com/@t4nv1/11-500-account-takeover-via-race-condition-in-oauth2-state-verification-single-use-54cd5d544e10?source=rss------bugbounty-5"/>
+        <updated>2026-09-21T19:01:01.000Z</updated>
+        <summary type="html"><![CDATA[Executive Summary
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>T4nv1</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How I found an internal compliance document in client-side code]]></title>
+        <id>https://medium.com/p/056f2f88382b</id>
+        <link href="https://meetcyber.net/how-i-found-an-internal-compliance-document-in-client-side-code-056f2f88382b?source=rss------bugbounty-5"/>
+        <updated>2026-09-21T15:35:56.000Z</updated>
+        <summary type="html"><![CDATA[Lynko VDP Writeup
+Continue reading on MeetCyber »]]></summary>
+        <author>
+            <name>Atindra Girish</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ESP32-WROOM-32 设备管理页从零到上线 - daonidedie]]></title>
+        <id>https://www.cnblogs.com/skybot/p/23069801</id>
+        <link href="https://www.cnblogs.com/skybot/p/23069801"/>
+        <updated>2026-09-21T15:26:00.000Z</updated>
+        <summary type="html"><![CDATA[一、背景 玩园子这么多年了一直是在看园子的文章，但我自己没怎么发过。这两天突然发现了我几年前买的esp32 开发板。几年之前准备用nanoFramework 做的,试了几次没成功后来就吃灰了。但是呢，现有有AI了。于是我想到了一个点子，用AI做一下我之前没搞过的嵌入式开发。我准备做一个跑在 ESP3]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Redis 数据结构：从五种基础到四种高级 - 烟沙九洲]]></title>
+        <id>https://www.cnblogs.com/yanshajiuzhou/p/23069770</id>
+        <link href="https://www.cnblogs.com/yanshajiuzhou/p/23069770"/>
+        <updated>2026-09-21T15:14:00.000Z</updated>
+        <summary type="html"><![CDATA[Redis 表面上是九种数据类型，底层实际由更少的编码结构组合而成。Redis 会根据数据量和元素大小自动选择编码，小数据用紧凑结构省内存，大数据切换到高效结构保性能。]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows 本地部署 PrismML Ternary-Bonsai-2-27B：RTX 5070 + CUDA 13.3 + llama.cpp Web UI 完整教程 - DaenMax]]></title>
+        <id>https://www.cnblogs.com/daen/p/23069577</id>
+        <link href="https://www.cnblogs.com/daen/p/23069577"/>
+        <updated>2026-09-21T14:52:00.000Z</updated>
+        <summary type="html"><![CDATA[一、前言 最近尝试在 Windows 本地部署 PrismML 发布的 Ternary-Bonsai-2-27B 大语言模型。 这个模型比较特殊，它并不是普通的 GGUF 模型。PrismML 针对三值权重（Ternary）和 Hybrid Attention 做了专门的 llama.cpp 内核优]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bypassing Access Control by Simply Changing the HTTP Method — A PortSwigger Lab Walkthrough]]></title>
+        <id>https://medium.com/p/55084d92fa70</id>
+        <link href="https://vivek0x.medium.com/bypassing-access-control-by-simply-changing-the-http-method-a-portswigger-lab-walkthrough-55084d92fa70?source=rss------bugbounty-5"/>
+        <updated>2026-09-21T14:39:03.000Z</updated>
+        <summary type="html"><![CDATA[Lab: Method-based access control can be circumvented
+Difficulty: Practitioner
+Category: Access Control Vulnerabilities
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Vivek Yadav</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Map2Doc: The Swiss Army Knife for SMB/AD Enumeration (And Why I Built It)]]></title>
+        <id>https://medium.com/p/a62d14f71737</id>
+        <link href="https://infosecwriteups.com/map2doc-the-swiss-army-knife-for-smb-ad-enumeration-and-why-i-built-it-a62d14f71737?source=rss------redteam-5"/>
+        <updated>2026-09-21T13:18:27.000Z</updated>
+        <summary type="html"><![CDATA[🎯 The Problem
+Continue reading on InfoSec Write-ups »]]></summary>
+        <author>
+            <name>Davud Qasimov</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bug Bounty Penetration Testing | Real-World Security Testing by Pentester Club]]></title>
+        <id>https://medium.com/p/1cc596d7fa9d</id>
+        <link href="https://medium.com/@pentesterclubpvtltd/bug-bounty-penetration-testing-real-world-security-testing-by-pentester-club-1cc596d7fa9d?source=rss------bugbounty-5"/>
+        <updated>2026-09-21T13:02:13.000Z</updated>
+        <summary type="html"><![CDATA[Cybersecurity isn’t just about running a scanner and waiting for vulnerabilities to appear.
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Pentester Club</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How I Discovered Multiple Vulnerabilities on a vu.nl Subdomain]]></title>
+        <id>https://medium.com/p/cf512c8abeaa</id>
+        <link href="https://medium.com/@adtynll/how-i-discovered-multiple-vulnerabilities-on-a-vu-nl-subdomain-cf512c8abeaa?source=rss------bugbounty-5"/>
+        <updated>2026-09-21T12:51:10.000Z</updated>
+        <summary type="html"><![CDATA[Hello everyone! My name is Aditya Nail Emery
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Aditya Nail Emery</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[External Recon Master Methodology]]></title>
+        <id>https://medium.com/p/9fcdabaa9338</id>
+        <link href="https://huntbyabhix.medium.com/external-recon-master-methodology-9fcdabaa9338?source=rss------bugbounty-5"/>
+        <updated>2026-09-21T11:58:18.000Z</updated>
+        <summary type="html"><![CDATA[Which Phase, For Which Target Type
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Abhishek Kumar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python Web Penetration Testing — Day 12: Post-Exploitation — What Happens After You Get RCE]]></title>
+        <id>https://medium.com/p/2d76332e696e</id>
+        <link href="https://osintteam.blog/python-web-penetration-testing-day-12-post-exploitation-what-happens-after-you-get-rce-2d76332e696e?source=rss------bugbounty-5"/>
+        <updated>2026-09-21T11:41:50.000Z</updated>
+        <summary type="html"><![CDATA[I got my first reverse shell. I was ecstatic. Then I realized I had no idea what to do next. Here’s how to turn a simple shell into full…
+Continue reading on OSINT Team »]]></summary>
+        <author>
+            <name>Aman Sharma</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LangGraph 基于状态图构建工作流入门 - lyshark]]></title>
+        <id>https://www.cnblogs.com/LyShark/p/23067721</id>
+        <link href="https://www.cnblogs.com/LyShark/p/23067721"/>
+        <updated>2026-09-21T10:17:00.000Z</updated>
+        <summary type="html"><![CDATA[传统LangChain是LLM应用的组件工具箱，以Chain与Runnable为核心抽象，提供提示词模板、文档处理、向量检索、工具调用、记忆能力等标准化组件，目的是快速构建简单线性的LLM任务。而LangGraph是面向复杂场景的状态图编排运行时，专注于有状态、可动态迭代的智能体工作流精细管控。它基...]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TryHackMe — Red A classic battle for the ages — write-up]]></title>
+        <id>https://medium.com/p/ecc3e7937385</id>
+        <link href="https://medium.com/@pritiranjanmohanta6371/tryhackme-red-a-classic-battle-for-the-ages-write-up-ecc3e7937385?source=rss------redteam-5"/>
+        <updated>2026-09-21T09:16:29.000Z</updated>
+        <summary type="html"><![CDATA[What happens when you’re the Blue team, but the attacker keeps changing passwords, killing your sessions, and fighting back? In this…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>PRiTi.EX</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[央国企大模型安全合规应用新标杆！中国电信天翼云推出央企可信Token专区！ - 天翼云开发者社区]]></title>
+        <id>https://www.cnblogs.com/developer-tianyiyun/p/23065762</id>
+        <link href="https://www.cnblogs.com/developer-tianyiyun/p/23065762"/>
+        <updated>2026-09-21T09:08:00.000Z</updated>
+        <summary type="html"><![CDATA[中国电信天翼云积极践行国家云使命担当，率先推出面向央国企的可信Token专区，从专属隔离、安全合规、性能保障、自主可控、专业服务五个维度构建完整能力体系，全方位保障“原始数据不出域、数据可用不可见”，系统性化解央国企调用外部大模型服务的安全合规之忧，为央国企大模型规模化落地提供安全可信的技术能力支撑...]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[geo-toolbox 插件算法解析：RUSLE 与 MUSLE 的工程化落地 - mikuyyds]]></title>
+        <id>https://www.cnblogs.com/miku196/p/23064342</id>
+        <link href="https://www.cnblogs.com/miku196/p/23064342"/>
+        <updated>2026-09-21T08:52:00.000Z</updated>
+        <summary type="html"><![CDATA[基于 geo-toolbox 分层结构的 RUSLE / MUSLE 参考实现 本文以 Miku196/geo-toolbox 的分层架构为背景，讨论如何在 geo-plugin-ecology 这一层实现 RUSLE / MUSLE 土壤侵蚀模型，并给出可复现的参考实现。 代码性质说明：文中 Ru]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Perform an AI Red Team Assessment: A Practical, Step-by-Step Guide]]></title>
+        <id>https://medium.com/p/2cd783f75e3b</id>
+        <link href="https://bevijaygupta.medium.com/how-to-perform-an-ai-red-team-assessment-a-practical-step-by-step-guide-2cd783f75e3b?source=rss------redteam-5"/>
+        <updated>2026-09-21T08:21:28.000Z</updated>
+        <summary type="html"><![CDATA[Most teams ship an AI feature the same way. Someone builds a prototype, it works in the demo, a few colleagues try it, and everyone agrees…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Vijay Kumar Gupta</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[踩坑]电源设计没算功耗，LDO差点烧了 - 自私的兔子]]></title>
+        <id>https://www.cnblogs.com/strongestrabbit/p/23064569</id>
+        <link href="https://www.cnblogs.com/strongestrabbit/p/23064569"/>
+        <updated>2026-09-21T08:15:00.000Z</updated>
+        <summary type="html"><![CDATA[最近我在一个项目上就犯了错，这个项目其实难度不大，但是我确实也没动脑。事情是这样的，该电路板需要多个电源给外设进行供电，有24V，12V,5V,还有3.3V。输入电源是24V/3A的适配器供电，进入电路板后我首先用了24V转12V的buck电路，第二级则是直接使用LDO将12V转为5V，第三级则是把]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to run an LLM security red team before launch: seven steps and one table]]></title>
+        <id>https://medium.com/p/eacb20ea2eb8</id>
+        <link href="https://medium.com/@ModelUnderAttack/how-to-run-an-llm-security-red-team-before-launch-seven-steps-and-one-table-eacb20ea2eb8?source=rss------redteam-5"/>
+        <updated>2026-09-21T05:47:09.000Z</updated>
+        <summary type="html"><![CDATA[An LLM security red team before launch is a seven-step measurement: a threat model drawn on the application graph, a 600 to 700 row…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Model Under Attack</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anthropic 把 SOC 误报率从 33% 砍到 7%，真正在干活的不是 Claude - 码哥字节]]></title>
+        <id>https://www.cnblogs.com/uniqueDong/p/23061618</id>
+        <link href="https://www.cnblogs.com/uniqueDong/p/23061618"/>
+        <updated>2026-09-21T05:19:00.000Z</updated>
+        <summary type="html"><![CDATA[凌晨两点，告警炸响。 你打开监控面板，看到 1200 条 P2 级告警在排队。按你们 SOC 团队过去三年的经验，里面大概有 33% 是误报——但你不能直接 dismiss，每条都得点进去看上下文：这个 IP 之前有没有出现过、这个用户有没有相关 Slack 讨论、这个文件 hash 在威胁库里是不]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AI 视频生成进阶：Prompt 之外的镜头语言、构图与运镜方法 - AI产品观察]]></title>
         <id>https://www.cnblogs.com/jacklu/p/23061028</id>
