@@ -2,10 +2,353 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cod3crash.github.io/sec-feed/index.html</id>
     <title>security feed</title>
-    <updated>2026-09-29T05:24:44.468Z</updated>
+    <updated>2026-09-30T05:12:27.326Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://cod3crash.github.io/sec-feed/index.html"/>
     <link rel="self" href="https://cod3crash.github.io/sec-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Common Ports Are Not Common: Why Port Numbers Matter More Than You Think]]></title>
+        <id>https://medium.com/p/5447f3d33078</id>
+        <link href="https://sukhveersingh97997.medium.com/common-ports-are-not-common-why-port-numbers-matter-more-than-you-think-5447f3d33078?source=rss------bugbounty-5"/>
+        <updated>2026-09-30T04:16:52.000Z</updated>
+        <summary type="html"><![CDATA[You see port 22 open. You think SSH.
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Sukhveer Singh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《从统计方法到大语言模型：NLP 的问题与方法演进》 - 石头开会]]></title>
+        <id>https://www.cnblogs.com/GlenTt/p/23168478</id>
+        <link href="https://www.cnblogs.com/GlenTt/p/23168478"/>
+        <updated>2026-09-30T03:53:00.000Z</updated>
+        <summary type="html"><![CDATA[《从统计方法到大语言模型：NLP 的问题与方法演进》 导言 今天的语言模型可以续写、翻译、摘要、回答问题，也可以根据少量示例改变输出形式。回看这段历史，容易把各项研究排成一条通向大模型的直线。然而，早期论文通常只解决一个具体困难：离散词串难以泛化，循环网络难以训练，固定向量难以承载长句，或者预训练模]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Java的强引用、软引用、弱引用、虚引用 - 编程一生]]></title>
+        <id>https://www.cnblogs.com/xiexj/p/23167911</id>
+        <link href="https://www.cnblogs.com/xiexj/p/23167911"/>
+        <updated>2026-09-30T03:17:00.000Z</updated>
+        <summary type="html"><![CDATA[背景 工程中用到guava的本地缓存。它底层实现和API接口上使用了强引用、软引用、弱引用。所以温故知新下，也夯实下基础。 预备知识 先来看下GC日志每个字段的含义 Young GC示例解释 [GC (Allocation Failure) [PSYoungGen: 273405K-&gt;20968K(]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CreaLens 告别AI塑料感：补齐150个影视底层逻辑，让你的作品一秒入戏 - AI产品观察]]></title>
+        <id>https://www.cnblogs.com/jacklu/p/23167934</id>
+        <link href="https://www.cnblogs.com/jacklu/p/23167934"/>
+        <updated>2026-09-30T03:17:00.000Z</updated>
+        <summary type="html"><![CDATA[为什么别人做的AI短片电影质感拉满，而你的AI作品却总是甩不掉那股廉价的“塑料感”？ 很多AI视频领域的创作者都陷入了一个巨大的误区：以为做视频就是修改提示词，然后把剩下的工作交给AI。但实际上，你和专业创作者之间差的影视导演专业基础。 真正的高级感，源于对画面的掌控力 当普通玩家还在纠结画面里的人]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用 Python 给非接触电压传感器做自动标定：Modbus 读取、二乘（least squares）拟合与误差报表 - 化凡蜕变]]></title>
+        <id>https://www.cnblogs.com/sset-sz/p/23167852</id>
+        <link href="https://www.cnblogs.com/sset-sz/p/23167852"/>
+        <updated>2026-09-30T03:14:00.000Z</updated>
+        <summary type="html"><![CDATA[现场做完非接触电压测量改造，投运前总要跟标准表比对一次。人工抄表比对的问题是不好复现、不好留档，也不好看出误差随量程的分布规律。这篇笔记给一套可运行的自动标定方案：用 Python 经 Modbus RTU 读传感器读数，同时读取标准表（或手动录入标准值），做二乘（least squares）拟合得]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[提示词（Prompt）、提示词工程（Prompt Engineering）-AI 相关概念之（应用与交互概念） - 橙子家]]></title>
+        <id>https://www.cnblogs.com/hnzhengfy/p/22053188/ai_PromptEngineering</id>
+        <link href="https://www.cnblogs.com/hnzhengfy/p/22053188/ai_PromptEngineering"/>
+        <updated>2026-09-30T01:59:00.000Z</updated>
+        <summary type="html"><![CDATA[本文系统介绍了 Prompt 与 Prompt Engineering 的核心概念、方法论及实践价值，以及它们之间的关系，供参考。]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[When a Production Backend Has No Authentication: Internal Disclosure and Unauthenticated State…]]></title>
+        <id>https://medium.com/p/2a8d5a68c2c6</id>
+        <link href="https://medium.com/@redhunter01/when-a-production-backend-has-no-authentication-internal-disclosure-and-unauthenticated-state-2a8d5a68c2c6?source=rss------bugbounty-5"/>
+        <updated>2026-09-30T01:45:30.000Z</updated>
+        <summary type="html"><![CDATA[Sometimes the most interesting API vulnerabilities aren’t hidden behind complicated authorization logic.
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>redhunter01</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RabbitMQ、Kafka、RocketMQ 三选一？这篇把消息队列选型彻底讲透了 - Rain的Java大神实战圈]]></title>
+        <id>https://www.cnblogs.com/zrui-xyu/p/23166084</id>
+        <link href="https://www.cnblogs.com/zrui-xyu/p/23166084"/>
+        <updated>2026-09-30T01:40:00.000Z</updated>
+        <summary type="html"><![CDATA[MQ 面试高频干货！RabbitMQ、Kafka、RocketMQ 选型深度解析，摒弃单纯参数背诵，基于业务场景推导选型方案。横向对比三大 MQ 核心能力，附带事务消息、幂等消费、消息零丢失可直接落地 Java 代码。拆解消息丢失、积压、重复消费等生产难题，附面试应答模板，掌握完整 MQ 选型方法论...]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jev 爆火之后，给企业应用配一个 AI 决策模型 - 葡萄城技术团队]]></title>
+        <id>https://www.cnblogs.com/powertoolsteam/p/23166078</id>
+        <link href="https://www.cnblogs.com/powertoolsteam/p/23166078"/>
+        <updated>2026-09-30T01:39:00.000Z</updated>
+        <summary type="html"><![CDATA[9 月 15 日，旧金山公司 TypeSafe AI 结束两年隐匿期，开放了一个叫 Jev 的模型。发布当天，它冲上 Hacker News 千分级热度；24 小时内，近 13% 的 Vercel 付费团队用上了它，Vercel 称这是其 AI Gateway 历史上被采纳最快的模型，超过了此前所有]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python 批量导入多个 CSV 至单个 Excel 文件 - LAYONTHEGROUND]]></title>
+        <id>https://www.cnblogs.com/jazz-z/p/23166043</id>
+        <link href="https://www.cnblogs.com/jazz-z/p/23166043"/>
+        <updated>2026-09-30T01:34:00.000Z</updated>
+        <summary type="html"><![CDATA[日常数据处理中，经常遇到需要把一批 CSV 文件汇总到一个 Excel 工作簿的场景——每个 CSV 对应一个工作表，方便统一查看和分发。Python 原生 csv 模块可以读取数据，但要逐个写入 Excel 的不同工作表，还需要额外的写入逻辑。使用 Free Spire.XLS for Pytho]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【FHE 同态加密】我们如何实现同态加密推理（十四）：为什么 `RESULT=PASS` 不是判据（纯 C11 · 零依赖） - haliu]]></title>
+        <id>https://www.cnblogs.com/haliuhome/p/23165445</id>
+        <link href="https://www.cnblogs.com/haliuhome/p/23165445"/>
+        <updated>2026-09-30T00:58:00.000Z</updated>
+        <summary type="html"><![CDATA[【FHE 同态加密】我们如何实现同态加密推理（十四）：为什么 RESULT=PASS 不是判据（纯 C11 &#183; 零依赖） 关键词：同态加密 ｜ FHE ｜ 验证 ｜ 可复现性 ｜ RESULT=PASS ｜ max|err| ｜ SHA256 ｜ 密文验收 ｜ 大模型推理 导读：在同态加密推理这条链]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web自动化测试全景图：20个主流AI自动化工具如何选？（强烈安利） - 狂师]]></title>
+        <id>https://www.cnblogs.com/jinjiangongzuoshi/p/23165431</id>
+        <link href="https://www.cnblogs.com/jinjiangongzuoshi/p/23165431"/>
+        <updated>2026-09-30T00:57:00.000Z</updated>
+        <summary type="html"><![CDATA[这两年想给 Web 自动化挑个工具，比以前要难了。 以前好办，无非在几个老框架里挑，挑来挑去最后无非也就 Playwright 和 Selenium 两派。现在打开任何一份工具清单，一半以上是带 AI 特性的新面孔，腾讯、微软、亚马逊都在往里挤，开源的工具，star 涨得一个比一个快，比如，腾讯 6]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[解决 brew install 慢：换用清华镜像源 - AlfredZhao]]></title>
+        <id>https://www.cnblogs.com/jyzhao/p/23164615</id>
+        <link href="https://www.cnblogs.com/jyzhao/p/23164615"/>
+        <updated>2026-09-29T23:10:00.000Z</updated>
+        <summary type="html"><![CDATA[用 Homebrew 装软件时，下载卡住、速度极慢是常见问题。原因通常是默认源在国外，国内访问不稳定。笔者这里记录一个简单做法：把 Homebrew 的下载地址换成清华镜像，速度会明显改善。 01 | 为什么要换镜像 Homebrew 安装软件时，需要先访问 API 获取软件信息，再去下载对应的 B]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Breaking the Trust Boundary: A Mobile Security Assessment of a Healthcare Application]]></title>
+        <id>https://medium.com/p/7adbdd2b7508</id>
+        <link href="https://medium.com/@romene.mohtadi.it/breaking-the-trust-boundary-a-mobile-security-assessment-of-a-healthcare-application-7adbdd2b7508?source=rss------bugbounty-5"/>
+        <updated>2026-09-29T21:12:14.000Z</updated>
+        <summary type="html"><![CDATA[How a mobile security assessment uncovered authorization flaws, insecure authentication token storage, and sensitive medical data…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Mohtadi Romene</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[$5,800 for a Negative Number: Manipulating Checkout Totals Through Business Logic Alone]]></title>
+        <id>https://medium.com/p/8d95bc737287</id>
+        <link href="https://medium.com/@t4nv1/5-800-for-a-negative-number-manipulating-checkout-totals-through-business-logic-alone-8d95bc737287?source=rss------bugbounty-5"/>
+        <updated>2026-09-29T19:31:01.000Z</updated>
+        <summary type="html"><![CDATA[No injection. No broken authentication. No parser doing something it shouldn’t. This bug lived entirely in a spreadsheet-simple arithmetic…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>T4nv1</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2026 年大模型热门教程盘点：从 Prompt、RAG 到 Agent，到底该先学什么 - badhope33834]]></title>
+        <id>https://www.cnblogs.com/badhope/p/23164078/ai-hot-tutorials-2026</id>
+        <link href="https://www.cnblogs.com/badhope/p/23164078/ai-hot-tutorials-2026"/>
+        <updated>2026-09-29T18:39:00.000Z</updated>
+        <summary type="html"><![CDATA[2026年大模型教程热到发烫，但热度不等于学得对。本文用真实岗位数据盘点当前最值得跟的三个方向（工程地基、RAG、Agent+MCP），拆解提示词工程师为何缩水，并给出「值不值得跟」的三个判断标准，帮你从收藏吃灰里走出来。]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How a Simple Business Logic Flaw Allowed Arbitrary Price Manipulation]]></title>
+        <id>https://medium.com/p/c40d554cdca0</id>
+        <link href="https://medium.com/@elahefahimi2004/how-a-simple-business-logic-flaw-allowed-arbitrary-price-manipulation-c40d554cdca0?source=rss------bugbounty-5"/>
+        <updated>2026-09-29T17:26:04.000Z</updated>
+        <summary type="html"><![CDATA[A technical breakdown of parameter tampering during checkout and why client-side trust leads to critical financial risks.
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>V ForVendetta</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Broken Access Control OWASP Top 10 (2025): The #1 Web Security Risk]]></title>
+        <id>https://medium.com/p/d843bd36ef5e</id>
+        <link href="https://medium.com/@shrutishinde1319/broken-access-control-owasp-top-10-2025-the-1-web-security-risk-d843bd36ef5e?source=rss------bugbounty-5"/>
+        <updated>2026-09-29T16:43:53.000Z</updated>
+        <summary type="html"><![CDATA[Hey everyone! 👋
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Shruti Vijay Shinde</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Asked “What is OAST?” and Fell Down a Rabbit Hole — Here’s What I Learned]]></title>
+        <id>https://medium.com/p/c2d20129857e</id>
+        <link href="https://medium.com/@sivanesa2016/i-asked-what-is-oast-and-fell-down-a-rabbit-hole-heres-what-i-learned-c2d20129857e?source=rss------bugbounty-5"/>
+        <updated>2026-09-29T16:23:24.000Z</updated>
+        <summary type="html"><![CDATA[A few days ago, I stumbled across a term in a bug bounty write-up: OAST payload.
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Sivanesan M</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FreeRADIUS + 华为AC/AP + 802.1X/WPA2-Enterprise 无线认证对接部署完整指南 - Johny_Zhao]]></title>
+        <id>https://www.cnblogs.com/Johny-zhao/p/23162864</id>
+        <link href="https://www.cnblogs.com/Johny-zhao/p/23162864"/>
+        <updated>2026-09-29T15:37:00.000Z</updated>
+        <summary type="html"><![CDATA[本指南部署方案，按“规划 → FreeRADIUS部署 → 华为AC/AP配置 → 终端接入 → AP纳管 → 验证排错 → 生产进阶”的顺序展开。华为AP通过CAPWAP上联AC，由AC作为RADIUS客户端（NAS）与FreeRADIUS交互，AP本身不直接与RADIUS服务器通信。 一、方案架]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[go语言中结构体匿名字段和嵌套结构体(继承) - 何人陪我共长生]]></title>
+        <id>https://www.cnblogs.com/ishoulgodo/p/23148807</id>
+        <link href="https://www.cnblogs.com/ishoulgodo/p/23148807"/>
+        <updated>2026-09-29T15:04:00.000Z</updated>
+        <summary type="html"><![CDATA[结构体的匿名字段: 结构体允许其成员字段在声明时没有字段名而只有类型，这种没有名字的字段就称为名匿名字段。 匿名字段默认采用类型名作为字段名，结构体要求类型必须唯一 结构体中匿名字段的简单使用 package main import (&quot;fmt&quot;) // 结构体匿名 type Person stru]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[XSS in pdf upload]]></title>
+        <id>https://medium.com/p/d0e795c161f5</id>
+        <link href="https://medium.com/@belalmohamed3690/xss-in-pdf-upload-d0e795c161f5?source=rss------bugbounty-5"/>
+        <updated>2026-09-29T14:42:09.000Z</updated>
+        <summary type="html"><![CDATA[“الحمد لله الذي أنشأ وبرا وخلق الماء والثرى وأبدع كل شيء وذرى”
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>belo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Found an Internal VNC Viewer! | Chisel Pivoting CTF Penetration Testing]]></title>
+        <id>https://medium.com/p/fc2153f4afdf</id>
+        <link href="https://medium.com/@pentesterclubpvtltd/i-found-an-internal-vnc-viewer-chisel-pivoting-ctf-penetration-testing-fc2153f4afdf?source=rss------bugbounty-5"/>
+        <updated>2026-09-29T14:29:50.000Z</updated>
+        <summary type="html"><![CDATA[What happens when you discover a VNC service — but the VNC server isn’t directly reachable from your attacking machine?
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Pentester Club</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Tried to Crack My Own Password with 1.1 Billion Guesses — Here’s What Happened]]></title>
+        <id>https://medium.com/p/221a5e7f7e90</id>
+        <link href="https://medium.com/@adesinat045/i-tried-to-crack-my-own-password-with-1-1-billion-guesses-heres-what-happened-221a5e7f7e90?source=rss------bugbounty-5"/>
+        <updated>2026-09-29T14:16:03.000Z</updated>
+        <summary type="html"><![CDATA[The Setup
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>N30n</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows 下 CLI 参数的引号陷阱：为什么 --resume 'uuid' 会失败 - fox_charon]]></title>
+        <id>https://www.cnblogs.com/foxcharon/p/23162504</id>
+        <link href="https://www.cnblogs.com/foxcharon/p/23162504"/>
+        <updated>2026-09-29T13:38:00.000Z</updated>
+        <summary type="html"><![CDATA[问题现象 在 Windows 终端执行： qoderclicn --resume &#39;0691d0aa-e732-47ee-8261-f13ad7202fa4&#39; 报错：找不到对应的 session。 去掉引号后一切正常： qoderclicn --resume 0691d0aa-e732-47ee-8]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Delay_us 与 Delay_ms：用 SysTick 做一把可靠的时间尺 - Zw-awa]]></title>
+        <id>https://www.cnblogs.com/zw-awa/p/23161857</id>
+        <link href="https://www.cnblogs.com/zw-awa/p/23161857"/>
+        <updated>2026-09-29T12:05:00.000Z</updated>
+        <summary type="html"><![CDATA[用空循环让程序等一会儿，是最省事的办法，却没人保证这一会儿有多准。要让微秒和毫秒都靠得住，得先给程序找到一把什么样的尺子？]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Spring Integration + Paho MQTT 麒麟 Linux 收到 QoS>0 消息后客户端主动断连问题排查复盘 - SheepDog1998]]></title>
+        <id>https://www.cnblogs.com/SheepDog/p/23160844</id>
+        <link href="https://www.cnblogs.com/SheepDog/p/23160844"/>
+        <updated>2026-09-29T10:14:00.000Z</updated>
+        <summary type="html"><![CDATA[Spring Integration + Paho MQTT 麒麟 Linux 收到 QoS&gt;0 消息后客户端主动断连问题排查复盘 场景：地震预警 MQTT 消费服务，Windows 开发环境一切正常；部署麒麟 Linux 后，Broker 推送 MQTT 消息，消费完成客户端主动关闭 TCP 连接]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[并发编程（六）：Atomic 的实现——从 Runtime 到 CPU - ThinkerQAQ]]></title>
+        <id>https://www.cnblogs.com/ThinkerQAQ/p/23160403</id>
+        <link href="https://www.cnblogs.com/ThinkerQAQ/p/23160403"/>
+        <updated>2026-09-29T09:42:00.000Z</updated>
+        <summary type="html"><![CDATA[沿着 Java AtomicInteger、Go sync/atomic 和 CPython 内部 Atomic 的真实实现路径，理解 Atomic RMW、CAS、内存顺序以及它与 Mutex 的区别。]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[关于 AI Agent，为什么我的想法可能不靠谱？——重读〈The Bitter Lesson〉 - ahfuzhang]]></title>
+        <id>https://www.cnblogs.com/ahfuzhang/p/23160145</id>
+        <link href="https://www.cnblogs.com/ahfuzhang/p/23160145"/>
+        <updated>2026-09-29T09:28:00.000Z</updated>
+        <summary type="html"><![CDATA[作者:张富春(ahfuzhang)，转载时请注明作者和引用链接，谢谢！ cnblogs博客 zhihu Github 公众号:一本正经的瞎扯 《关于 AI Agent，为什么我的想法可能不靠谱？——重读〈The Bitter Lesson〉》 引子 我觉得我发现了一个现实世界的矛盾： 理论上而言，商]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cherry Red Is Gorgeously Replacing Burgundy as Fall 2026’s Ultimate Color]]></title>
+        <id>https://medium.com/p/28ebc7a1adf6</id>
+        <link href="https://medium.com/@sandhya.goswami969/cherry-red-is-gorgeously-replacing-burgundy-as-fall-2026s-ultimate-color-28ebc7a1adf6?source=rss------redteam-5"/>
+        <updated>2026-09-29T09:23:17.000Z</updated>
+        <summary type="html"><![CDATA[For the past few fall seasons, burgundy has held its place as the go-to deep red of the season. This year, that’s shifting. Cherry red — a…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Sandhya Goswami</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How I Passed the CRTA Certification— Exam Writeups]]></title>
+        <id>https://medium.com/p/96bbef51fa28</id>
+        <link href="https://cybersecuritywriteups.com/how-i-passed-the-crta-certification-exam-writeups-96bbef51fa28?source=rss------redteam-5"/>
+        <updated>2026-09-29T09:17:35.000Z</updated>
+        <summary type="html"><![CDATA[A full black-box attack chain of Certified Red Team Analyst 
+Continue reading on Cyber Security Write-ups »]]></summary>
+        <author>
+            <name>Pritam Kolay</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[VS2019 for mac里用c#开发Mac OS应用 重要过程 - 鑫_源]]></title>
+        <id>https://www.cnblogs.com/canbloom/p/23158971</id>
+        <link href="https://www.cnblogs.com/canbloom/p/23158971"/>
+        <updated>2026-09-29T08:59:00.000Z</updated>
+        <summary type="html"><![CDATA[首先 Visual Studio 2019 for mac 有很多版本，必须一对一和Xcode的版本对应才能正确开发！！ 否则编译都报错 本人xcode11.1&#160;、13.2.1、12.5.1 轮着配 VS2019 for Mac 8.4、8.10 ，编译都报错。提醒大家，不要以为是自己问题，就是两者]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Understanding Windows Offensive Development: From WinAPI to EDR Evasion]]></title>
+        <id>https://medium.com/p/296388c05f62</id>
+        <link href="https://medium.com/@sameerimr384/understanding-windows-offensive-development-from-winapi-to-edr-evasion-296388c05f62?source=rss------redteam-5"/>
+        <updated>2026-09-29T07:18:07.000Z</updated>
+        <summary type="html"><![CDATA[Windows is one of the most interesting platforms to study from an offensive security perspective.
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Muhammad Sameer</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How I Started Bug Bounty Hunting During My BCA Degree (With No Coding Background)]]></title>
         <id>https://medium.com/p/2e05b7d179f4</id>
@@ -6524,6 +6867,16 @@ Continue reading on Medium »]]></summary>
         <summary type="html"><![CDATA[大家对&quot;本地 Agent&quot;这词儿应该不陌生, 用过 Claude Code、Codex或者其他类似的工具。DSH (DeepSeek Harness) 是同一个赛道的新玩家，但它的野心很直白：Everything is a Plugin，一切皆插件。工具、模型、界面、权限，几乎全挂在插件体系上——意]]></summary>
         <author>
             <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Book Your CYBR.SEC.CON Video Segment with JJ & Drew @ Packet Protector]]></title>
+        <id>https://securityuncorked.com/?p=2743</id>
+        <link href="https://securityuncorked.com/2026/09/book-your-cybr-sec-con-video-segment-with-jj-drew-packet-protector/"/>
+        <updated>2026-09-09T03:41:39.000Z</updated>
+        <summary type="html"><![CDATA[CYBR.SEC.CON Sep 14-16, 2026 - record with us in Broadcast Alley, we share with our audience of 25k. Book online in two minutes.]]></summary>
+        <author>
+            <name>jj</name>
         </author>
     </entry>
     <entry>
@@ -31672,6 +32025,16 @@ Continue reading on Medium »]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[eBook: Wi-Fi Security Sample Architectures]]></title>
+        <id>https://securityuncorked.com/?p=2687</id>
+        <link href="https://securityuncorked.com/2026/07/ebook-wi-fi-security-sample-architectures/"/>
+        <updated>2026-07-08T22:29:04.000Z</updated>
+        <summary type="html"><![CDATA[The quick reference guide for designing secure enterprise Wi-Fi for internal, IoT, and guests. Excerpt from "Wireless Security Architecture".]]></summary>
+        <author>
+            <name>jj</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Parser-Schwachstellen in Mobilfunk-Protokollen]]></title>
         <id>https://smartphone-attack-vector.de/parser-schwachstellen-mobilfunk-protokolle/</id>
         <link href="https://smartphone-attack-vector.de/parser-schwachstellen-mobilfunk-protokolle/"/>
@@ -32238,6 +32601,16 @@ Continue reading Vulnerability & Patch Roundup — June 2026 at Sucuri Blog.]]><
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[The AI Identity Gap Nobody in My CISO Groups Is Solving Yet]]></title>
+        <id>https://securityuncorked.com/?p=2659</id>
+        <link href="https://securityuncorked.com/2026/06/the-ai-identity-gap-nobody-in-my-ciso-groups-is-solving-yet/"/>
+        <updated>2026-06-30T17:56:29.000Z</updated>
+        <summary type="html"><![CDATA[Machine identities now outnumber human identities in the enterprise 109 to 1. That was one in a long list of surprising things I recently learned. Here we look at machine IDs, the secret zero conundrum, SPIFFE, and more.]]></summary>
+        <author>
+            <name>jj</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[heap-use-after-free in curl_easy_cleanup() called from callback]]></title>
         <id>https://hackerone.com/reports/3833577</id>
         <link href="https://hackerone.com/reports/3833577"/>
@@ -32486,6 +32859,16 @@ The post Improving Transparency and Assurance in the Web PKI: Mozilla Root Store
         <summary type="html"><![CDATA[curl disclosed a bug submitted by tneelc: https://hackerone.com/reports/3823932]]></summary>
         <author>
             <name>The unofficial HackerOne disclosure timeline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[High, Medium, or Low? The Cheat Sheet for Scoring Your Wi-Fi Security]]></title>
+        <id>https://securityuncorked.com/?p=2678</id>
+        <link href="https://securityuncorked.com/2026/06/high-medium-or-low-the-cheat-sheet-for-scoring-your-wi-fi-security/"/>
+        <updated>2026-06-26T11:49:00.000Z</updated>
+        <summary type="html"><![CDATA[3-minute tour of Wi-Fi security posture (and recommended configs) for the most common case — managed users on managed devices.]]></summary>
+        <author>
+            <name>jj</name>
         </author>
     </entry>
     <entry>
@@ -44948,6 +45331,16 @@ The post The Chrome Extension That Stole the CEO’s Cookies: A Confession on AI
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[eBook: WiFi Security: Mastering 802.1X, RADIUS, and EAP Authentication]]></title>
+        <id>https://securityuncorked.com/?p=2722</id>
+        <link href="https://securityuncorked.com/2026/05/ebook-wifi-security-mastering-802-1x-radius-and-eap-authentication/"/>
+        <updated>2026-05-06T01:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Get under the hood with IEEE 802.1X, the Extensible Authentication Protocol (EAP), and everything you need to know about RADIUS including standard and vendor-specific attributes, configuring policy, and troubleshooting]]></summary>
+        <author>
+            <name>jj</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Out of scope: Improper Input Validation Order on /api-internal/login via password field leads to unnecessary resource consumption]]></title>
         <id>https://hackerone.com/reports/3625600</id>
         <link href="https://hackerone.com/reports/3625600"/>
@@ -46858,39 +47251,6 @@ Posted by Archit Agarwal, Product Manager, Chrome]]></summary>
 逻辑是最方便的知识表示语…]]></summary>
         <author>
             <name>ArthurChiao's Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft’s Family of Client IDs (FOCI): Convenience vs. Compromise]]></title>
-        <id>https://payatu.com/?p=14375</id>
-        <link href="https://payatu.com/blog/microsofts-family-of-client-ids-foci-convenience-vs-compromise/"/>
-        <updated>2025-09-30T11:22:22.000Z</updated>
-        <summary type="html"><![CDATA[Azure AD/Entra ID  Azure Active Directory (Azure AD) is Microsoft’s cloud-based identity and access management (IAM) service. It powers authentication and authorisation for Microsoft’s own cloud offerings, including Microsoft 365 and Azure Resource Manager. Azure AD is built on the OAuth 2.0 and OpenID Connect (OIDC). While the standard continues to evolve, Microsoft has expanded […]
-The post Microsoft’s Family of Client IDs (FOCI): Convenience vs. Compromise appeared first on Payatu.]]></summary>
-        <author>
-            <name>Srikanth Dudekula</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Industrial Control System Components: PLCs, HMIs, RTUs, SCADA, DCS, Sensors, Actuators & Beyond]]></title>
-        <id>https://payatu.com/?p=13989</id>
-        <link href="https://payatu.com/blog/industrial-control-system-components-plcs-hmis-rtus-scada-dcs-sensors-actuators-beyond/"/>
-        <updated>2025-09-30T10:43:08.000Z</updated>
-        <summary type="html"><![CDATA[🎯Goal of This Blog Understand the foundational components that make up modern Industrial Control Systems (ICS)—from traditional devices like sensors, actuators, PLCs, RTUs  HMIs, SCADA to Industry 4.0 elements like PLM and IIOT  systems. We’ll explore their functions, how they interact, how they can be abused by attackers, and how to protect them effectively. 🧩 […]
-The post Industrial Control System Components: PLCs, HMIs, RTUs, SCADA, DCS, Sensors, Actuators & Beyond appeared first on Payatu.]]></summary>
-        <author>
-            <name>Abhishek Pandey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Android Lock Screen Bypass Through Google Gemini]]></title>
-        <id>https://payatu.com/?p=14429</id>
-        <link href="https://payatu.com/blog/android-lock-screen-bypass-through-google-gemini/"/>
-        <updated>2025-09-30T08:05:58.000Z</updated>
-        <summary type="html"><![CDATA[Introduction Earlier this year, I discovered a critical security flaw in the Android Lock Screen that shocked even me when I first reproduced it. The vulnerability allowed lock screen bypass and unauthorised access to Google accounts, Gemini data, and even connected apps, all without requiring a PIN, password, or biometric input. In this post, I will […]
-The post Android Lock Screen Bypass Through Google Gemini appeared first on Payatu.]]></summary>
-        <author>
-            <name>Surya Rawal</name>
         </author>
     </entry>
 </feed>
