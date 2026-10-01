@@ -2,10 +2,307 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cod3crash.github.io/sec-feed/index.html</id>
     <title>security feed</title>
-    <updated>2026-09-30T05:12:27.326Z</updated>
+    <updated>2026-10-01T05:27:33.573Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://cod3crash.github.io/sec-feed/index.html"/>
     <link rel="self" href="https://cod3crash.github.io/sec-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Easy Bug Series | #05]]></title>
+        <id>https://medium.com/p/30618ca1bda1</id>
+        <link href="https://medium.com/@huntersoham/easy-bug-series-05-30618ca1bda1?source=rss------bugbounty-5"/>
+        <updated>2026-10-01T04:31:05.000Z</updated>
+        <summary type="html"><![CDATA[Did You Really Log Out?
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Soham D. Jadhav</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一行命令，解锁 Claude Code 全部权限-ClawGod - 绝不原创的飞龙]]></title>
+        <id>https://www.cnblogs.com/apachecn/p/23178662</id>
+        <link href="https://www.cnblogs.com/apachecn/p/23178662"/>
+        <updated>2026-10-01T02:17:00.000Z</updated>
+        <summary type="html"><![CDATA[ClawGod，把官方藏起来的功能全部打开 你有没有这种感觉：明明Claude Code是最强的AI编程工具，但总有些地方“差点意思”？ 用最强的Opus模型，告诉你“订阅等级不够”。让多个AI同时协作，发现功能根本没开。想问个安全相关的问题，直接被拒绝回答。 这些限制不是技术上做不到的，是官方关掉]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How a “homemade” signature can bring your entire authentication system to its knees. #1]]></title>
+        <id>https://medium.com/p/fac634d85277</id>
+        <link href="https://medium.com/@brendaawb/how-a-homemade-signature-can-bring-your-entire-authentication-system-to-its-knees-1-fac634d85277?source=rss------bugbounty-5"/>
+        <updated>2026-10-01T01:19:50.000Z</updated>
+        <summary type="html"><![CDATA[Today’s Brief:
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Brenda Wai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【FHE 同态加密】我们如何实现同态加密推理（十五）：实测账本——一跳 1.8 小时，钱花在哪（同态加密推理性能剖析） - haliu]]></title>
+        <id>https://www.cnblogs.com/haliuhome/p/23178401</id>
+        <link href="https://www.cnblogs.com/haliuhome/p/23178401"/>
+        <updated>2026-10-01T01:04:00.000Z</updated>
+        <summary type="html"><![CDATA[关键词：同态加密 ｜ FHE ｜ 性能剖析 ｜ 实测账本 ｜ 自举 ｜ 域变换 ｜ CPU 推理 ｜ 大模型密文推理 ｜ 耗时分析 导读：一次同态加密推理的一跳（lay + boot）在 8 核 CPU 上约 1.8 小时，而这个时间绝大部分不在多项式乘法上——自举的两段域变换单独就占了约 80%。]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SC WordPress Malware: A Self-Healing Mesh of Loaders, Drop-Ins, and a Blockchain-Controlled Backdoor]]></title>
+        <id>https://blog.sucuri.net/?p=36281</id>
+        <link href="https://blog.sucuri.net/2026/09/sc-wordpress-malware-a-self-healing-mesh-of-loaders-drop-ins-and-a-blockchain-controlled-backdoor.html"/>
+        <updated>2026-10-01T00:57:15.000Z</updated>
+        <summary type="html"><![CDATA[Overview
+During recent website cleanup work, we analyzed a WordPress compromise where the same backdoor kept returning within seconds of every removal, no matter how carefully the visible files were deleted. Throughout this article, we’ll refer to this family of malware as SC, named after the “SC_” markers found in the injected content.
+What makes SC worth documenting is how it survives. The payload lives in at least eight places at once, spread across files, the database, and shared memory, and every one of those places can rebuild all the others.
+Continue reading SC WordPress Malware: A Self-Healing Mesh of Loaders, Drop-Ins, and a Blockchain-Controlled Backdoor at Sucuri Blog.]]></summary>
+        <author>
+            <name>Gabriel Barbosa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[volatile 与寄存器：SysTick->VAL 到底在读什么 - Zw-awa]]></title>
+        <id>https://www.cnblogs.com/zw-awa/p/23178327</id>
+        <link href="https://www.cnblogs.com/zw-awa/p/23178327"/>
+        <updated>2026-10-01T00:50:00.000Z</updated>
+        <summary type="html"><![CDATA[程序里有些值会在它看不见的地方自己变化，而一段用来拖时间的空循环，换个优化档位就会凭空消失。哪些读写编译器不能替我们省掉，这中间又该怎么分工？]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用 Docker 简化部署与版本升级：一份可复用的实践 - AlfredZhao]]></title>
+        <id>https://www.cnblogs.com/jyzhao/p/23178110</id>
+        <link href="https://www.cnblogs.com/jyzhao/p/23178110"/>
+        <updated>2026-09-30T23:22:00.000Z</updated>
+        <summary type="html"><![CDATA[同事写了一个 app，笔者用它作为例子，聊聊 Docker 部署方式下如何简化部署和版本升级。核心思路很简单：把配置和代码分开，升级时只换代码，配置从备份里拿回来。 01 | 升级前先停服务 升级的第一步不是拉代码，而是先停掉正在运行的容器，避免文件被占用或状态错乱。下面的容器名 ontoforge]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Didn’t Find a Bug on Shodan. I Found a Lead.]]></title>
+        <id>https://medium.com/p/b5039ec43ac4</id>
+        <link href="https://medium.com/@bughunt3r1985/i-didnt-find-a-bug-on-shodan-i-found-a-lead-b5039ec43ac4?source=rss------bugbounty-5"/>
+        <updated>2026-09-30T20:05:40.000Z</updated>
+        <summary type="html"><![CDATA[Shodan didn’t give me a bug.
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Pratham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Broken Access Control: Multi-Step Admin Role Change — PortSwigger Lab Walkthrough]]></title>
+        <id>https://medium.com/p/6fa5f7672a1c</id>
+        <link href="https://vivek0x.medium.com/broken-access-control-multi-step-admin-role-change-portswigger-lab-walkthrough-6fa5f7672a1c?source=rss------bugbounty-5"/>
+        <updated>2026-09-30T18:19:06.000Z</updated>
+        <summary type="html"><![CDATA[Lab: Multi-step process with no access control on one step (Practitioner)
+Category: Broken Access Control
+Goal: Log in as wiener:peter and…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Vivek Yadav</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EvilBox C2 is a seriously interesting platform for authorized red teams, penetration testers…]]></title>
+        <id>https://medium.com/p/9ae068d4420a</id>
+        <link href="https://dbinaryghostx.medium.com/evilbox-c2-is-a-seriously-interesting-platform-for-authorized-red-teams-penetration-testers-9ae068d4420a?source=rss------redteam-5"/>
+        <updated>2026-09-30T16:01:21.000Z</updated>
+        <summary type="html"><![CDATA[What caught my attention is how much of the adversary-simulation lifecycle it brings together in one command center — from reconnaissance…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>DBinaryGhost</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[百万订单踩坑记-迷信框架 - 掸尘]]></title>
+        <id>https://www.cnblogs.com/liuzhang/p/23175661</id>
+        <link href="https://www.cnblogs.com/liuzhang/p/23175661"/>
+        <updated>2026-09-30T15:53:00.000Z</updated>
+        <summary type="html"><![CDATA[前几天写了一篇《百万订单的架构演化》，有人留言「期待更多细节」。想了一下，确实踩了不少坑，写成系列应该对大家有帮助，所以就有了这个「百万订单」系列。 背景 我们是做花店 SaaS 的，业务是把各个外卖平台的订单聚合到一起。花店这个行业很特殊，节日单量特别大，像情人节、七夕、母亲节，都是高峰；平时单量]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Perfect Phishing ⚔️]]></title>
+        <id>https://medium.com/p/610f5dea64d9</id>
+        <link href="https://medium.com/@scrutalis/the-perfect-phishing-%EF%B8%8F-610f5dea64d9?source=rss------bugbounty-5"/>
+        <updated>2026-09-30T15:26:01.000Z</updated>
+        <summary type="html"><![CDATA[First of all, hello everyone. I am a researcher with little experience, but I often find myself daydreaming about exploits and exploit…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Scrutalis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Como assinar documentos usando o gov br]]></title>
+        <id>http://acassis.wordpress.com/?p=13129</id>
+        <link href="https://acassis.wordpress.com/2026/09/30/como-assinar-documentos-usando-o-gov-br/"/>
+        <updated>2026-09-30T14:36:22.000Z</updated>
+        <summary type="html"><![CDATA[Acesse: https://www.gov.br/pt-br/servicos/assinatura-eletronica]]></summary>
+        <author>
+            <name>acassis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Think Like A Bug Hunter(Part1)]]></title>
+        <id>https://medium.com/p/c42c5c119873</id>
+        <link href="https://infosecwriteups.com/how-to-think-like-a-bug-hunter-part1-c42c5c119873?source=rss------bugbounty-5"/>
+        <updated>2026-09-30T14:27:23.000Z</updated>
+        <summary type="html"><![CDATA[How To Think Like a Bug Hunter & Expert Bug hunters And how Deep Hunting on Your target
+Continue reading on InfoSec Write-ups »]]></summary>
+        <author>
+            <name>Mado</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The API Was Never Invisible]]></title>
+        <id>https://medium.com/p/4c05042da1ce</id>
+        <link href="https://medium.com/@Lh1l0v3/the-api-was-never-invisible-4c05042da1ce?source=rss------bugbounty-5"/>
+        <updated>2026-09-30T14:00:28.000Z</updated>
+        <summary type="html"><![CDATA[How I approach reconnaissance when there is no documentation
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Lh1l0v3</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[One Month, Two Certifications: What I Learned Preparing for CWES and eWPTX]]></title>
+        <id>https://medium.com/p/f79e5d3e3756</id>
+        <link href="https://medium.com/@omaroymdm/one-month-two-certifications-what-i-learned-preparing-for-cwes-and-ewptx-f79e5d3e3756?source=rss------bugbounty-5"/>
+        <updated>2026-09-30T13:36:09.000Z</updated>
+        <summary type="html"><![CDATA[I didn’t study for two exams. I built one preparation strategy.
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Omar Mahmoud</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Payloadility: A Lightweight Payload Generator for Authorized Security Testing]]></title>
+        <id>https://medium.com/p/ec80d8c4999d</id>
+        <link href="https://infosecwriteups.com/payloadility-a-lightweight-payload-generator-for-authorized-security-testing-ec80d8c4999d?source=rss------redteam-5"/>
+        <updated>2026-09-30T13:30:53.000Z</updated>
+        <summary type="html"><![CDATA[Security testing often involves working with many different payload formats. XSS payloads, SQL injection probes, path traversal strings…
+Continue reading on InfoSec Write-ups »]]></summary>
+        <author>
+            <name>Davud Qasimov</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Road to First Bug Day 0/90]]></title>
+        <id>https://medium.com/p/46568355c121</id>
+        <link href="https://medium.com/@dakshrai9375/road-to-first-bug-day-0-90-46568355c121?source=rss------bugbounty-5"/>
+        <updated>2026-09-30T13:06:58.000Z</updated>
+        <summary type="html"><![CDATA[This is my first blog post, hello there to fellow readers!
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Dakshrai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SAP IAS Open Self-Registration: How I Accessed a Fortune 500 Production Supply Chain System in 10…]]></title>
+        <id>https://medium.com/p/62681ec50ed5</id>
+        <link href="https://medium.com/@pro.wasskouri/sap-ias-open-self-registration-how-i-accessed-a-fortune-500-production-supply-chain-system-in-10-62681ec50ed5?source=rss------bugbounty-5"/>
+        <updated>2026-09-30T12:55:12.000Z</updated>
+        <summary type="html"><![CDATA[During a bug bounty engagement on Bugcrowd, I identified an authentication bypass on the supplier portal of a major international sports…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Wassim Kouri</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PWM 为什么能调速：从 LED 亮度变化到直流电机转起来 - Zw-awa]]></title>
+        <id>https://www.cnblogs.com/zw-awa/p/23174811</id>
+        <link href="https://www.cnblogs.com/zw-awa/p/23174811"/>
+        <updated>2026-09-30T12:17:00.000Z</updated>
+        <summary type="html"><![CDATA[只有高和低两档的数字引脚，凭什么让电机转出大中小不一样的转速？同一组波形接两种驱动板、同一个占空比跑两个轮子，速度又为什么不会一样？]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[.NET 环境——从 0.05 到 0.994：一次目标检测训练器可用性的排查与复盘 - 上位机康工]]></title>
+        <id>https://www.cnblogs.com/axing/p/23174723</id>
+        <link href="https://www.cnblogs.com/axing/p/23174723"/>
+        <updated>2026-09-30T11:40:00.000Z</updated>
+        <summary type="html"><![CDATA[在 .NET 环境下构建工业视觉面单定位系统的技术记录 文中所有配图均为真实训练产物。 一、一个反直觉的现象 先看两张图。 第一张：模型在一张从未见过的照片上的表现。绿色框是模型的预测结果——可以看到它准确地框住了包裹上的面单。 第二张：同一个模型的训练精度曲线。请关注 mAP 一栏，它的值是 0.]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Go语言中结构体与JSON之间互相转换 - 何人陪我共长生]]></title>
+        <id>https://www.cnblogs.com/ishoulgodo/p/23174494</id>
+        <link href="https://www.cnblogs.com/ishoulgodo/p/23174494"/>
+        <updated>2026-09-30T11:02:00.000Z</updated>
+        <summary type="html"><![CDATA[JSON JSON是一种轻量级的数据交换格式。 易于人阅读和编写。同时也易于机器解析和生成。 restfull Api 接口中返回的数据都是json数据 结构体中的私有属性不能被json序列化 因为：结构体中的私有属性不能被json序列化，所以结构体中的属性必须是公有的。要大写。 结构体与JSON序]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何比较你不同学科成绩的好坏？ - wang_yb]]></title>
+        <id>https://www.cnblogs.com/wang_yb/p/23173873</id>
+        <link href="https://www.cnblogs.com/wang_yb/p/23173873"/>
+        <updated>2026-09-30T09:45:00.000Z</updated>
+        <summary type="html"><![CDATA[如果你看到语文78分、数学83分，第一反应可能是数学考得更好。 但不同学科的试卷难度、平均分、分数分散程度都不一样，原始分放在一起直接比，很多时候并不靠谱。 本文想聊的是：如何用描述性统计里的Z分数来比较不同学科成绩的好坏。 1. 先看问题：不同学科的原始分为什么不能直接比？ 假设某次考试里，一个学]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Skill和MCP推荐清单大全 - yiwanbin]]></title>
+        <id>https://www.cnblogs.com/ywbmaster/p/23172720</id>
+        <link href="https://www.cnblogs.com/ywbmaster/p/23172720"/>
+        <updated>2026-09-30T08:48:00.000Z</updated>
+        <summary type="html"><![CDATA[Skill &amp; MCP 推荐清单：我私藏的 AI 扩展能力工具箱 我有时候需要一些 AI 扩展能力的时候，发现让 AI 搓一个比较耗费时间和 token，网络上找半天又不知道哪个比较好用。 因此建立这个文档，欢迎大家在下面留下觉得好用的 Skill / MCP，我会基于实用性和评价更新进文档里面。废]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[aiSim拖车联调新进展：传感器视角下的拖车角度感知验证 传感器级拖车角度感知，让拖挂仿真算法真正落地 - 康谋keymotek]]></title>
+        <id>https://www.cnblogs.com/keymotek/p/23171040</id>
+        <link href="https://www.cnblogs.com/keymotek/p/23171040"/>
+        <updated>2026-09-30T07:09:00.000Z</updated>
+        <summary type="html"><![CDATA[依赖理论真值的拖挂仿真算法，迁移实车后效果往往不及预期。本文介绍传感器级拖车角度感知方案，构建接近实车的感知数据链路，解决铰接角输入难题，助力拖挂仿真算法工程落地。]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Koog(1) —— JVM 下的 Agent 框架 - SharpCJ]]></title>
+        <id>https://www.cnblogs.com/joy99/p/23170548</id>
+        <link href="https://www.cnblogs.com/joy99/p/23170548"/>
+        <updated>2026-09-30T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[写在前面 如今的 Agent 是在是太火爆了。各种 Agent 应用层出不穷，但是基本都是 Python 和 Typescript 为主，这里面的主要原因还是生态。但是接下来，我将用一个系列的文章来介绍一个 Kotlin 语言的 Agent 框架 —— Koog。 一、JVM 下的 Agent 开发]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【App Service 】WebJobs 多实例实验：谁在运行，什么时候运行？ - 编码者卢布]]></title>
+        <id>https://www.cnblogs.com/lulight/p/23169725</id>
+        <link href="https://www.cnblogs.com/lulight/p/23169725"/>
+        <updated>2026-09-30T06:44:00.000Z</updated>
+        <summary type="html"><![CDATA[问题描述 把 Azure App Service 扩展到 3 个实例后，WebJob 会不会也同时运行 3 份？ 如果每天定时生成一份报表，会不会生成 3 份？ 在门户里手动点击一次 Run，又会由哪个实例执行？ 答案取决于 WebJob 的类型，不能仅根据 App Service 的实例数量判断。]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[从零开始，带你彻底搞懂"非阻塞延迟"这个利器 - 佛祖让我来巡山]]></title>
+        <id>https://www.cnblogs.com/sun-10387834/p/23169299</id>
+        <link href="https://www.cnblogs.com/sun-10387834/p/23169299"/>
+        <updated>2026-09-30T05:35:00.000Z</updated>
+        <summary type="html"><![CDATA[CompletableFuture.delayedExecutor 完全指南 从零开始，用启发式教学带你彻底搞懂&quot;非阻塞延迟&quot;这个利器。 每个 API 先讲清功能，再上代码，注释逐行拆解。 第一章：我们遇到了什么问题？ 1.1 一个真实场景 假设你在写一个订单服务。调用第三方支付接口时，偶尔会失败。]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Common Ports Are Not Common: Why Port Numbers Matter More Than You Think]]></title>
         <id>https://medium.com/p/5447f3d33078</id>
