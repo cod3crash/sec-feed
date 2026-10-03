@@ -2,10 +2,278 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cod3crash.github.io/sec-feed/index.html</id>
     <title>security feed</title>
-    <updated>2026-10-02T05:15:28.442Z</updated>
+    <updated>2026-10-03T04:58:12.452Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://cod3crash.github.io/sec-feed/index.html"/>
     <link rel="self" href="https://cod3crash.github.io/sec-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[如何理解简单随机游走的事件域不能是样本空间的幂集 - ChillmanLee]]></title>
+        <id>https://www.cnblogs.com/ChillmanLee/p/23190913</id>
+        <link href="https://www.cnblogs.com/ChillmanLee/p/23190913"/>
+        <updated>2026-10-03T04:35:00.000Z</updated>
+        <summary type="html"><![CDATA[如何理解简单随机游走的事件域不能是样本空间的幂集 前言 事情的起因有两个。一个是前几天班里的大佬问我如何给掷无穷次硬币这个过程给一个样本空间。另一个则是国庆前一天晚课读 Probability with Martingales 时看到的一句话： We certainly wish to speak]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[nav2官方的bringup文件阅读笔记-命名空间，composition - 凪风sama]]></title>
+        <id>https://www.cnblogs.com/CrescentWind/p/23190474</id>
+        <link href="https://www.cnblogs.com/CrescentWind/p/23190474"/>
+        <updated>2026-10-03T03:29:00.000Z</updated>
+        <summary type="html"><![CDATA[nav2官方的bringup文件阅读笔记-命名空间，composition 最近开始学习nav2的源码，开始读了nav2自己提供的快速启动的bringup文件，本笔记用来记录从这个文件中学到了什么。 nav2的源码地址放在这里：GitHub链接 结构概述 nav2提供的bringup文件可以分为三个]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[世界历史时间线(可在线动态体验) - 李吉磊]]></title>
+        <id>https://www.cnblogs.com/LeoLeeTech/p/23190372</id>
+        <link href="https://www.cnblogs.com/LeoLeeTech/p/23190372"/>
+        <updated>2026-10-03T03:12:00.000Z</updated>
+        <summary type="html"><![CDATA[慈禧喝过可乐, 坐过汽车 阿基米德要翘起地球时, 秦始皇刚统一六国 孔子孟子和苏格拉底柏拉图亚里士多德一块讨论哲学 欧洲文艺复兴, 开始以人为本, 成吉思汗刚烧杀抢掠, 建立元朝 哥白尼的日心说发表时, 朱元璋的九子夺嫡刚有结果 伽利略牛顿在奠定物理基本规律时, 清朝入主中原 达尔文居里夫人马克思和]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[费马小定理 - 临夏an]]></title>
+        <id>https://www.cnblogs.com/yhy2013/p/23190131</id>
+        <link href="https://www.cnblogs.com/yhy2013/p/23190131"/>
+        <updated>2026-10-03T02:42:00.000Z</updated>
+        <summary type="html"><![CDATA[定理 若 \(p\) 是质数，且整数 \(a\) 满足 \(\boldsymbol{a \not\equiv 0 \pmod p}\)，则： \[a^{p-1} \equiv 1 \pmod p \]变形 \(a^{p-2} \equiv a^{-1} \pmod p\) \(a^b \equiv]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Actually Happens During an SSH Brute-Force Attack?]]></title>
+        <id>https://medium.com/p/7bba823ef0ec</id>
+        <link href="https://medium.com/@madebyabder/what-actually-happens-during-an-ssh-brute-force-attack-7bba823ef0ec?source=rss------redteam-5"/>
+        <updated>2026-10-03T02:23:34.000Z</updated>
+        <summary type="html"><![CDATA[SSH is one of the most common ways administrators remotely access Linux servers. It is also one of the services that attackers routinely…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>abdrx</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[客户总改测试数据？用脚本一键重生成 SQL - AlfredZhao]]></title>
+        <id>https://www.cnblogs.com/jyzhao/p/23189291</id>
+        <link href="https://www.cnblogs.com/jyzhao/p/23189291"/>
+        <updated>2026-10-02T23:41:00.000Z</updated>
+        <summary type="html"><![CDATA[客户频繁变更测试数据，是很多项目里绕不开的日常。每次拿到新的 .xlsx，如果还靠手工改 SQL，既慢又容易出错。 需要先说明一点：这里说的生成器并不是一个开箱即用的通用工具，而是针对具体项目文件需求、借助 AI 生成出来的脚本。它的定位是——把“根据客户文件生成 SQL”这件事，从每次都用 AI]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HackTheBox — Conversor walkthrough]]></title>
+        <id>https://medium.com/p/ad3132739120</id>
+        <link href="https://medium.com/@osec403/hackthebox-conversor-walkthrough-ad3132739120?source=rss------redteam-5"/>
+        <updated>2026-10-02T22:55:07.000Z</updated>
+        <summary type="html"><![CDATA[Preparing
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Osec</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[It Returned 404… But the Data Was Still There]]></title>
+        <id>https://medium.com/p/6e9bf4dd408d</id>
+        <link href="https://medium.com/@hamdyosama2995/it-returned-404-but-the-data-was-still-there-6e9bf4dd408d?source=rss------bugbounty-5"/>
+        <updated>2026-10-02T22:51:49.000Z</updated>
+        <summary type="html"><![CDATA[Hello Hacker👋
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Hamdyosama</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Support — Cookie Tampering → IDOR → LFI → Command Injection (RCE) “THM”]]></title>
+        <id>https://medium.com/p/d8bf93bcb5ce</id>
+        <link href="https://medium.com/@ahmed240102345/support-cookie-tampering-idor-lfi-command-injection-rce-thm-d8bf93bcb5ce?source=rss------bugbounty-5"/>
+        <updated>2026-10-02T22:33:27.000Z</updated>
+        <summary type="html"><![CDATA[Difficulty: Medium Category: Web Application Pentesting Techniques: Credential Brute-Forcing, Insecure Cookie Trust, Local File Inclusion…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>AHMED ASHEERY</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Recruit — SSRF → LFI → SQL Injection → Admin Takeover”THM”]]></title>
+        <id>https://medium.com/p/e31a0688b0bc</id>
+        <link href="https://medium.com/@ahmed240102345/recruit-ssrf-lfi-sql-injection-admin-takeover-thm-e31a0688b0bc?source=rss------bugbounty-5"/>
+        <updated>2026-10-02T22:32:16.000Z</updated>
+        <summary type="html"><![CDATA[Difficulty: Easy/Medium Category: Web Application Pentesting Techniques: SSRF, Local File Inclusion, SQL Injection, Vulnerability Chaining
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>AHMED ASHEERY</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web Cache Deception: Understanding the Attack and How to Prevent It]]></title>
+        <id>https://medium.com/p/f9d617af56d3</id>
+        <link href="https://medium.com/@MazenElsayed_/web-cache-deception-understanding-the-attack-and-how-to-prevent-it-f9d617af56d3?source=rss------bugbounty-5"/>
+        <updated>2026-10-02T22:18:20.000Z</updated>
+        <summary type="html"><![CDATA[Introduction
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Mazen Elsayed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The AES Key That Bypassed Every Fix: From Mass PII Exposure to 2FA Bypass]]></title>
+        <id>https://medium.com/p/8143c9326f34</id>
+        <link href="https://medium.com/@mahmoudmagdy45456/the-aes-key-that-bypassed-every-fix-from-mass-pii-exposure-to-2fa-bypass-8143c9326f34?source=rss------bugbounty-5"/>
+        <updated>2026-10-02T19:35:41.000Z</updated>
+        <summary type="html"><![CDATA[Hello Hackers 👋
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Mahmoud Magdy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unauthenticated pol_round in arc-node: From Hash Preimage Omission to State Divergence]]></title>
+        <id>https://medium.com/p/387560f71493</id>
+        <link href="https://medium.com/@mgsa112233/unauthenticated-pol-round-in-arc-node-from-hash-preimage-omission-to-state-divergence-387560f71493?source=rss------bugbounty-5"/>
+        <updated>2026-10-02T18:45:26.000Z</updated>
+        <summary type="html"><![CDATA[Introduction
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>jimmy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to find valid bug using Shodan + Nuclei Step by Step guide | by Samadhan Shimple]]></title>
+        <id>https://medium.com/p/dcd8076d89b9</id>
+        <link href="https://samadhanshimple.medium.com/how-to-find-valid-bug-using-shodan-nuclei-step-by-step-guide-by-samadhan-shimple-dcd8076d89b9?source=rss------bugbounty-5"/>
+        <updated>2026-10-02T18:01:24.000Z</updated>
+        <summary type="html"><![CDATA[Shodan for reconnaissance and Nuclei for detection. Here’s how it works, and why it’s become a staple in modern bug bounty hunting.
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Samadhan shimple</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Subdomain Enumeration in Bug Bounty]]></title>
+        <id>https://medium.com/p/1bc751f19bfc</id>
+        <link href="https://medium.com/@molapomanuel709/subdomain-enumeration-in-bug-bounty-1bc751f19bfc?source=rss------bugbounty-5"/>
+        <updated>2026-10-02T17:26:16.000Z</updated>
+        <summary type="html"><![CDATA[In this article, I will be showing my methodology for subdomain enumeration and explaining why it is an important part of the bug bounty…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Molapo Manuel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS IAM Policy Evaluation Logic: How AWS Decides Whether a Request Is Allowed]]></title>
+        <id>https://medium.com/p/8622ef58b8b6</id>
+        <link href="https://medium.com/@paraskhorwal9/aws-iam-policy-evaluation-logic-how-aws-decides-whether-a-request-is-allowed-8622ef58b8b6?source=rss------bugbounty-5"/>
+        <updated>2026-10-02T17:17:29.000Z</updated>
+        <summary type="html"><![CDATA[An IAM policy that contains Allow is only one part of the authorization decision.
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Paraskhorwal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Proof of Concept (PoC)]]></title>
+        <id>https://medium.com/p/38f9711d37bc</id>
+        <link href="https://medium.com/@Maleesha.Rathnayaka/proof-of-concept-poc-38f9711d37bc?source=rss------redteam-5"/>
+        <updated>2026-10-02T16:24:07.000Z</updated>
+        <summary type="html"><![CDATA[හැඳින්වීම
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Maleesha Rathnayaka</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lateral Movement]]></title>
+        <id>https://medium.com/p/81c0d3420eda</id>
+        <link href="https://medium.com/@Maleesha.Rathnayaka/lateral-movement-81c0d3420eda?source=rss------redteam-5"/>
+        <updated>2026-10-02T16:05:20.000Z</updated>
+        <summary type="html"><![CDATA[හැඳින්වීම
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Maleesha Rathnayaka</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Verizon Report Just Proved Something Terrifying: Attackers Are Using AI to Exploit Bugs in…]]></title>
+        <id>https://medium.com/p/f0a1a4d2ead3</id>
+        <link href="https://medium.com/@riyalimba/the-verizon-report-just-proved-something-terrifying-attackers-are-using-ai-to-exploit-bugs-in-f0a1a4d2ead3?source=rss------bugbounty-5"/>
+        <updated>2026-10-02T16:02:26.000Z</updated>
+        <summary type="html"><![CDATA[31% of breaches now involve AI-assisted exploitation. I spent 8 months learning at human speed.
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Riya Limba</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[电机家族：有的电机听“目标”，有的电机听“力气” - Zw-awa]]></title>
+        <id>https://www.cnblogs.com/zw-awa/p/23187442</id>
+        <link href="https://www.cnblogs.com/zw-awa/p/23187442"/>
+        <updated>2026-10-02T15:44:00.000Z</updated>
+        <summary type="html"><![CDATA[两种电机都能接在同一路调速信号上，也都转得起来，看上去像是一回事。可写程序之前，为什么必须先弄清楚自己该给它力气，还是给它一个目标？]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[使用 SciPy 库进行时间序列分析 - wang_yb]]></title>
+        <id>https://www.cnblogs.com/wang_yb/p/23187441</id>
+        <link href="https://www.cnblogs.com/wang_yb/p/23187441"/>
+        <updated>2026-10-02T15:43:00.000Z</updated>
+        <summary type="html"><![CDATA[时间序列分析听起来有点学术，但其实干起来挺直接的。 你有一串按时间排列的数据，想知道里面有没有趋势、有没有周期性、噪声有多大，或者两个序列之间有没有延迟关系。 SciPy 这个库在信号处理、统计检验方面提供了不少现成的工具，配合 Matplotlib 画图，基本能覆盖日常分析的大部分需求。 本文不是]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AG-UI 有了官方 .NET SDK，Blazor AI 组件同步登场：.NET 的 Agent 应用栈补齐了 - 张善友]]></title>
+        <id>https://www.cnblogs.com/shanyou/p/23187356</id>
+        <link href="https://www.cnblogs.com/shanyou/p/23187356"/>
+        <updated>2026-10-02T14:58:00.000Z</updated>
+        <summary type="html"><![CDATA[如果只看一件事：微软这次解决的不是&quot;AI 能不能做界面&quot;，而是&quot;Agent 的界面该由谁说了算&quot;。
+答案是：协议层由 AG-UI 统一，呈现层由你的应用决定。这两篇博客分别从传输和呈现两端给出了官方答案，而且都不强制你上全栈——一个标准抽象（IChatClient）打通了所有环节。]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jump Challenge — TryHackMe]]></title>
+        <id>https://medium.com/p/174b405caf99</id>
+        <link href="https://medium.com/@0xSAF/jump-challenge-tryhackme-174b405caf99?source=rss------redteam-5"/>
+        <updated>2026-10-02T14:35:21.000Z</updated>
+        <summary type="html"><![CDATA[Use of privilege escalation knowledge to jump from a normal user to root.
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>S4F4L</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Ritual]]></title>
+        <id>https://medium.com/p/41e4987569d5</id>
+        <link href="https://medium.com/aimonks/the-ritual-41e4987569d5?source=rss------redteam-5"/>
+        <updated>2026-10-02T10:25:17.000Z</updated>
+        <summary type="html"><![CDATA[A Conversational Realignment Method for AI Systems
+Continue reading on  . »]]></summary>
+        <author>
+            <name>ArtfullyPrompt - Nathan Cash</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CMWVE: When Roleplay and VFX Show a Strange Hole in GPT-5.6 Safety]]></title>
+        <id>https://medium.com/p/d65297b8fe25</id>
+        <link href="https://medium.com/@aketayaza/note-from-me-english-is-not-my-first-language-d65297b8fe25?source=rss------redteam-5"/>
+        <updated>2026-10-02T09:59:34.000Z</updated>
+        <summary type="html"><![CDATA[How one weird answer made me and Jett think about context masking, visual effects framing, and the limits of AI guardrails.
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Redzy</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GLM-5.3: The Open-Weight AI Model That’s Redefining Cybersecurity — And How to Run It]]></title>
         <id>https://medium.com/p/54d9a5299527</id>
