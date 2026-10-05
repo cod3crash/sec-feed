@@ -2,10 +2,302 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cod3crash.github.io/sec-feed/index.html</id>
     <title>security feed</title>
-    <updated>2026-10-04T05:31:01.436Z</updated>
+    <updated>2026-10-05T05:15:05.087Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://cod3crash.github.io/sec-feed/index.html"/>
     <link rel="self" href="https://cod3crash.github.io/sec-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Password reset link stays valid after requesting a new one (old token not invalidated on reissue)]]></title>
+        <id>https://medium.com/p/4af0fb651a1c</id>
+        <link href="https://medium.com/@jokodfir/password-reset-link-stays-valid-after-requesting-a-new-one-old-token-not-invalidated-on-reissue-4af0fb651a1c?source=rss------bugbounty-5"/>
+        <updated>2026-10-05T04:18:12.000Z</updated>
+        <summary type="html"><![CDATA[Assalamualaikum wr.wb.
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Joko Purwanto</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2026-10-02: Atomic macOS (AMOS) Stealer infection from malicious ad impersonating Claude Code]]></title>
+        <id>https://www.malware-traffic-analysis.net/2026/10/02/index.html</id>
+        <link href="https://www.malware-traffic-analysis.net/2026/10/02/index.html"/>
+        <updated>2026-10-05T02:55:00.000Z</updated>
+        <author>
+            <name>Malware-Traffic-Analysis.net - Blog Entries</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2026-10-01: Traffic analysis exercise - Natureforce]]></title>
+        <id>https://www.malware-traffic-analysis.net/2026/10/01/index.html</id>
+        <link href="https://www.malware-traffic-analysis.net/2026/10/01/index.html"/>
+        <updated>2026-10-05T02:54:00.000Z</updated>
+        <author>
+            <name>Malware-Traffic-Analysis.net - Blog Entries</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[别再 rm 日志了：Linux 下安全清空日志文件的正确姿势 - AlfredZhao]]></title>
+        <id>https://www.cnblogs.com/jyzhao/p/23200588</id>
+        <link href="https://www.cnblogs.com/jyzhao/p/23200588"/>
+        <updated>2026-10-05T00:03:00.000Z</updated>
+        <summary type="html"><![CDATA[日志文件越滚越大，磁盘告警一响，很多人的第一反应是 rm *.log 再 touch *.log。这个操作看起来干净利落，实际上埋着两个大坑。笔者在本文里把底层原因和两种安全做法讲清楚。 01 | 为什么 rm 加 touch 是危险操作 后台服务（比如 FastAPI、Nginx、MySQL）启动]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[.NET 面试必问的 8 道 GC 题，建议收藏 - 码农刚子]]></title>
+        <id>https://www.cnblogs.com/shenchuanchao/p/23151544/dotnet-interview-8-gc-questions</id>
+        <link href="https://www.cnblogs.com/shenchuanchao/p/23151544/dotnet-interview-8-gc-questions"/>
+        <updated>2026-10-05T00:02:00.000Z</updated>
+        <summary type="html"><![CDATA[大家好，我是码农刚子。这篇文章整理了 .NET 面试中出现频率最高的 8 道 GC 题。不是背答案——是帮你把 GC 的底层逻辑串一遍，面试时不管怎么追问都能接得住。 01 .NET GC 的分代机制是怎么回事？ 这是开胃菜，但答不好直接出局。 .NET GC 把托管堆分成三代：Gen 0、Gen]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web Cache Poisoning: Understanding, Detecting, and Exploiting Cache Vulnerabilities]]></title>
+        <id>https://medium.com/p/6d2694a84385</id>
+        <link href="https://medium.com/@MazenElsayed_/web-cache-poisoning-understanding-detecting-and-exploiting-cache-vulnerabilities-6d2694a84385?source=rss------bugbounty-5"/>
+        <updated>2026-10-04T23:05:46.000Z</updated>
+        <summary type="html"><![CDATA[Introduction
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Mazen Elsayed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JT/T 808 协议网关的设计与实现（第 2 篇 · 后端技术） - Sam Xiao]]></title>
+        <id>https://www.cnblogs.com/xcj26/p/23200517</id>
+        <link href="https://www.cnblogs.com/xcj26/p/23200517"/>
+        <updated>2026-10-04T23:05:00.000Z</updated>
+        <summary type="html"><![CDATA[1、实时定位 2、轨迹查询 3、告警管理 4、 围栏设置 5、看板与报表 Netty + RocketMQ + PostgreSQL：JT/T 808 协议网关的设计与实现（第 2 篇 &#183; 后端技术） 上篇讲了平台的五层骨架和业务闭环。这篇钻进后端核心：我们自研的两个模块——jt-gateway（8]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hijacking Your VPN with one Deep Link]]></title>
+        <id>https://medium.com/p/3ce9ca778306</id>
+        <link href="https://medium.com/@husein.ayoub/hijacking-your-vpn-with-one-deep-link-3ce9ca778306?source=rss------bugbounty-5"/>
+        <updated>2026-10-04T21:14:27.000Z</updated>
+        <summary type="html"><![CDATA[This is a write-up of a vulnerability I reported to a private bug bounty program. The target is a carrier-grade mobile VPN / secure-access…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Hussein Ayoub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CPTS — My experience with the exam]]></title>
+        <id>https://medium.com/p/a557f6a6a4e9</id>
+        <link href="https://octa-mihail.medium.com/cpts-my-experience-with-the-exam-a557f6a6a4e9?source=rss------redteam-5"/>
+        <updated>2026-10-04T20:01:59.000Z</updated>
+        <summary type="html"><![CDATA[It has been a while since I wrote something here, but I think this one deserves a post.
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Octavian Mihail Romanescu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[สำหรับใครที่อยากเริ่มต้นทำงานสาย Web3 หรือกำลังมองหาช่องทางสร้างรายได้เป็น Crypto ที่บ้าน นี่คือ 2…]]></title>
+        <id>https://medium.com/p/bbd126af46af</id>
+        <link href="https://medium.com/@phlwatlakkhsr/%E0%B8%AA%E0%B8%B3%E0%B8%AB%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B9%83%E0%B8%84%E0%B8%A3%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%AD%E0%B8%A2%E0%B8%B2%E0%B8%81%E0%B9%80%E0%B8%A3%E0%B8%B4%E0%B9%88%E0%B8%A1%E0%B8%95%E0%B9%89%E0%B8%99%E0%B8%97%E0%B8%B3%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B8%AA%E0%B8%B2%E0%B8%A2-web3-%E0%B8%AB%E0%B8%A3%E0%B8%B7%E0%B8%AD%E0%B8%81%E0%B8%B3%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%A1%E0%B8%AD%E0%B8%87%E0%B8%AB%E0%B8%B2%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B8%AA%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B8%A3%E0%B8%B2%E0%B8%A2%E0%B9%84%E0%B8%94%E0%B9%89%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99-crypto-%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%99-%E0%B8%99%E0%B8%B5%E0%B9%88%E0%B8%84%E0%B8%B7%E0%B8%AD-2-bbd126af46af?source=rss------bugbounty-5"/>
+        <updated>2026-10-04T19:06:31.000Z</updated>
+        <summary type="html"><![CDATA[Continue reading on Medium »]]></summary>
+        <author>
+            <name>Phlwatlakkhsr</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kenobi [TryHackMe]]]></title>
+        <id>https://medium.com/p/2a8b6ab6f71c</id>
+        <link href="https://medium.com/@mdmontashirmobinerifat/kenobi-tryhackme-2a8b6ab6f71c?source=rss------redteam-5"/>
+        <updated>2026-10-04T18:07:59.000Z</updated>
+        <summary type="html"><![CDATA[Walkthrough on exploiting a Linux machine. Enumerate Samba for shares, manipulate a vulnerable version of proftpd and escalate your…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Md montashir mobine rifat</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From Named Pipe to SYSTEM: How I Found a Local Privilege Escalation in a Major Windows Application]]></title>
+        <id>https://medium.com/p/6a77a179a461</id>
+        <link href="https://sneharghya.medium.com/from-named-pipe-to-system-how-i-found-a-local-privilege-escalation-in-a-major-windows-application-6a77a179a461?source=rss------bugbounty-5"/>
+        <updated>2026-10-04T15:48:13.000Z</updated>
+        <summary type="html"><![CDATA[A local privilege-escalation vulnerability in a major Windows tax and financial software product, chaining an overly permissive named pipe…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Sneharghya Roy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CARIN Explained | More Than AI Pentesting — The Future of State-Space Search]]></title>
+        <id>https://medium.com/p/24ab7530fd7f</id>
+        <link href="https://medium.com/@pentesterclubpvtltd/carin-explained-more-than-ai-pentesting-the-future-of-state-space-search-24ab7530fd7f?source=rss------bugbounty-5"/>
+        <updated>2026-10-04T15:35:30.000Z</updated>
+        <summary type="html"><![CDATA[What if AI didn’t need predefined penetration-testing roles, fixed workflows, or a traditional checklist?
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Pentester Club</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Two Factor Auntication, Multi Factor Auntication, and OTP Bypass: How Attackers Break Two-Factor…]]></title>
+        <id>https://medium.com/p/a6a5a6800ec8</id>
+        <link href="https://medium.com/@raksharoot/two-factor-auntication-multi-factor-auntication-and-otp-bypass-how-attackers-break-two-factor-a6a5a6800ec8?source=rss------bugbounty-5"/>
+        <updated>2026-10-04T15:15:19.000Z</updated>
+        <summary type="html"><![CDATA[A practical guide to finding flaws in multi-factor authentication flows.
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Raksharoot</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[编码器读到的到底是什么：从脉冲到速度 - Zw-awa]]></title>
+        <id>https://www.cnblogs.com/zw-awa/p/23198962</id>
+        <link href="https://www.cnblogs.com/zw-awa/p/23198962"/>
+        <updated>2026-10-04T15:01:00.000Z</updated>
+        <summary type="html"><![CDATA[六个引脚里，有四根并不归电机管。编码器交到程序手里的到底是什么，两根信号线为什么要分成 A、B，转一圈又会留下多少个脉冲？]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Qwen-Image2.1-本地AI漫画工作室 - 又过二十]]></title>
+        <id>https://www.cnblogs.com/wyang/p/23198892</id>
+        <link href="https://www.cnblogs.com/wyang/p/23198892"/>
+        <updated>2026-10-04T14:24:00.000Z</updated>
+        <summary type="html"><![CDATA[我在 6GB 显存的游戏本上，做了一个完全离线的 AI 漫画工作室 一段剧本进去，一本带气泡、能导出 PDF 的漫画出来。不联网、不调 API、数据不出本机。 起因 事情的开始很简单：我想让自己写的小故事变成漫画，但又不想把东西交给任何在线服务。 市面上的方案基本是两条路：要么用在线 AI 绘画平台]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Case Study: How a Simple Directory Misconfiguration Exposed Internal Database Files]]></title>
+        <id>https://medium.com/p/bb6c68f18a21</id>
+        <link href="https://medium.com/@jay_redteamer/case-study-how-a-simple-directory-misconfiguration-exposed-internal-database-files-bb6c68f18a21?source=rss------bugbounty-5"/>
+        <updated>2026-10-04T14:00:30.000Z</updated>
+        <summary type="html"><![CDATA[Author: Jay Prakash Kumawat
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Teamlegendshort</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Bug Bounty Math Nobody Shows Beginners: $6,548 vs $24,500,000]]></title>
+        <id>https://medium.com/p/6d12588900ed</id>
+        <link href="https://medium.com/@riyalimba/the-bug-bounty-math-nobody-shows-beginners-6-548-vs-24-500-000-6d12588900ed?source=rss------bugbounty-5"/>
+        <updated>2026-10-04T13:31:17.000Z</updated>
+        <summary type="html"><![CDATA[Immunefi’s data proves that finding a bug before an attacker does isn’t just ethical — it’s the most cost-effective security strategy that…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Riya Limba</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dalla Teoria al Database: Capire e Sfruttare le SQL Injections nei Penetration Test]]></title>
+        <id>https://medium.com/p/53312cbfb12d</id>
+        <link href="https://medium.com/@porcu.marcooo/dalla-teoria-al-database-capire-e-sfruttare-le-sql-injections-nei-penetration-test-53312cbfb12d?source=rss------redteam-5"/>
+        <updated>2026-10-04T13:02:42.000Z</updated>
+        <summary type="html"><![CDATA[Poche vulnerabilità nel mondo della sicurezza informatica hanno la stessa portata distruttiva di una SQL Injection (SQLi). Quando…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Porcu Marcooo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux Privilege Escalation — Part 2: Finding the Weak Links]]></title>
+        <id>https://medium.com/p/a78159ea5992</id>
+        <link href="https://medium.com/@nadana12155/linux-privilege-escalation-part-2-finding-the-weak-links-a78159ea5992?source=rss------redteam-5"/>
+        <updated>2026-10-04T12:41:14.000Z</updated>
+        <summary type="html"><![CDATA[Privilege escalation is rarely about finding a single magic command.
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>NadaAshraf</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[语言选型的新坐标：反馈确定性 - 张善友]]></title>
+        <id>https://www.cnblogs.com/shanyou/p/23198672</id>
+        <link href="https://www.cnblogs.com/shanyou/p/23198672"/>
+        <updated>2026-10-04T12:23:00.000Z</updated>
+        <summary type="html"><![CDATA[当AI 承担大部分代码产出时，语言的评价标准从表达力转向反馈确定性——所以选择那个给你的 AI 反馈最多、最便宜、最不漏的语言]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[登录日志 题解 - lvwangshu]]></title>
+        <id>https://www.cnblogs.com/lvwangshuOI/p/23198663</id>
+        <link href="https://www.cnblogs.com/lvwangshuOI/p/23198663"/>
+        <updated>2026-10-04T12:19:00.000Z</updated>
+        <summary type="html"><![CDATA[登录日志 题解 一、题意 n 条日志，第 i 条为 \((t_i, b_i)\)：\(t_i = 1\) 表示登录，\(t_i = 2\) 表示退出。对已在线者登录、对已离线者退出，均不改变账号状态。 \(q\) 个询问 \((l, r)\)：从全离线状态开始重放第 \(l\) 到第 \(r\) 条]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Recurrence and Context Window Decay]]></title>
+        <id>https://medium.com/p/2f5c73362679</id>
+        <link href="https://medium.com/aimonks/recurrence-and-context-window-decay-2f5c73362679?source=rss------redteam-5"/>
+        <updated>2026-10-04T10:47:21.000Z</updated>
+        <summary type="html"><![CDATA[Failure Mode Document 2
+Continue reading on  . »]]></summary>
+        <author>
+            <name>ArtfullyPrompt - Nathan Cash</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[10 Essential Tools for Bug Bounty Hunting and Web Application Penetration Testing]]></title>
+        <id>https://medium.com/p/896e3704befa</id>
+        <link href="https://medium.com/@mumarsaqib/10-essential-tools-for-bug-bounty-hunting-and-web-application-penetration-testing-896e3704befa?source=rss------bugbounty-5"/>
+        <updated>2026-10-04T10:46:54.000Z</updated>
+        <summary type="html"><![CDATA[From reconnaissance to vulnerability validation: a practical guide to the tools every aspiring web security researcher should understand.
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>M Umer Saqib</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[大语言模型的 Scaling：扩展方向、收益规律与训练配置 - 石头开会]]></title>
+        <id>https://www.cnblogs.com/GlenTt/p/23197545</id>
+        <link href="https://www.cnblogs.com/GlenTt/p/23197545"/>
+        <updated>2026-10-04T07:50:00.000Z</updated>
+        <summary type="html"><![CDATA[大语言模型的 Scaling：扩展方向、收益规律与训练配置 Scaling laws 的核心价值，是估计扩大模型与训练量的收益，并在计算预算内找到更好的配比。 它把“投入更多资源通常能降低损失”的经验，变成可以测量、拟合和检验的关系。这里的主要质量指标是语言建模交叉熵；具体任务是否改善，还要单独评估]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[数论小结 - Emumumu]]></title>
+        <id>https://www.cnblogs.com/MadeByEmu/p/23189934</id>
+        <link href="https://www.cnblogs.com/MadeByEmu/p/23189934"/>
+        <updated>2026-10-04T07:32:00.000Z</updated>
+        <summary type="html"><![CDATA[第一次写数学专题的笔记有点小激动欸~跪求LeTax不要炸 我的废话可能有点多 \bx 求原谅 \bx 数论真的我搁了好久没碰，因为长官这真的太抽象了！于是搁到了现在终于鼓起勇气写了一篇学习笔记以此加深印象。（不然我肯定一秒钟后又要全部忘完） part1 容斥 公式推导 首先我们的目标是推出以下这个看]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[开源：一稿多投工具（仅4M，支持9大平台） - liulun]]></title>
+        <id>https://www.cnblogs.com/liulun/p/23197056</id>
+        <link href="https://www.cnblogs.com/liulun/p/23197056"/>
+        <updated>2026-10-04T06:13:00.000Z</updated>
+        <summary type="html"><![CDATA[功能说明 DraftDepot 稿仓是一个一稿多投工具。 使用此工具写的文章可以一键发布到9大平台： 微信公众号 知乎 CSDN 开源中国 博客园 掘金 51CTO InfoQ 阿里云开发者社区 （目前多为技术平台，后续将增加更多平台） 本工具仅负责把文章灌注到目标平台，不直接发布文章（想发布文章需]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[源码共享：C# 在mac OS里 控制播放mp3 - 鑫_源]]></title>
+        <id>https://www.cnblogs.com/canbloom/p/23196928</id>
+        <link href="https://www.cnblogs.com/canbloom/p/23196928"/>
+        <updated>2026-10-04T05:45:00.000Z</updated>
+        <summary type="html"><![CDATA[项目中要用到声音提醒功能。条件是macOS，而不是windows平台。 使用VS 2019 for Mac 和 xcode . 你只要使用的这两个开发工具版本配对 就可以顺利编译运行C# 开发mac应用 using System; using AVFoundation; using Foundati]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Top Platforms to Earn From Ethical Hacking in 2026]]></title>
         <id>https://medium.com/p/925b93b5f41e</id>
