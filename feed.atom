@@ -2,10 +2,250 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cod3crash.github.io/sec-feed/index.html</id>
     <title>security feed</title>
-    <updated>2026-10-05T05:15:05.087Z</updated>
+    <updated>2026-10-06T05:59:34.988Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://cod3crash.github.io/sec-feed/index.html"/>
     <link rel="self" href="https://cod3crash.github.io/sec-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Codex解决新模型无法使用/model选择的问题 - xuhe2]]></title>
+        <id>https://www.cnblogs.com/xuhe2/p/23207730</id>
+        <link href="https://www.cnblogs.com/xuhe2/p/23207730"/>
+        <updated>2026-10-06T05:48:00.000Z</updated>
+        <summary type="html"><![CDATA[TLDR codex debug models --bundled &gt; /root/.codex/model-catalog.json python -m json.tool /root/.codex/model-catalog.json &gt; /dev/null 然后在 /root/.codex/c]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[数学笔记：泊松求和公式 - GeoFXR]]></title>
+        <id>https://www.cnblogs.com/GeophysicsWorker/p/23207887</id>
+        <link href="https://www.cnblogs.com/GeophysicsWorker/p/23207887"/>
+        <updated>2026-10-06T04:19:00.000Z</updated>
+        <summary type="html"><![CDATA[**泊松求和公式（Poisson Summation Formulation）** 由法国科学家泊松发现，是调和分析中非常重要的一个公式，在诸多数学分支中有着广泛的应用。它建立了函数在时域（或实数域）上的无限求和与其连续傅里叶变换之间的对应建立对应关系，其核心思想是**将函数$f$沿整数平移叠加，得...]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bir Siber Güvenlik Analistinin Saha Notları — 1]]></title>
+        <id>https://medium.com/p/ce95384adfd1</id>
+        <link href="https://aliekberkara.medium.com/bir-siber-g%C3%BCvenlik-analistinin-saha-notlar%C4%B1-1-ce95384adfd1?source=rss------redteam-5"/>
+        <updated>2026-10-06T04:14:07.000Z</updated>
+        <summary type="html"><![CDATA[Siber Güvenliğin Önemi
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Ali Ekber KARA</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[VeriHarness 拆解：多数投票为何会掩盖错误 - frankzch]]></title>
+        <id>https://www.cnblogs.com/frankzch/p/23207862</id>
+        <link href="https://www.cnblogs.com/frankzch/p/23207862"/>
+        <updated>2026-10-06T04:13:00.000Z</updated>
+        <summary type="html"><![CDATA[一个没有答案 key 的难题 智能体跑完一个几十步的长任务，交出一份表格、一份报告或改好的文件，谁来判定它对不对？短问答可以靠标准答案或单元测试，但长任务的交付物往往没法写成断言：一个财务比率可能取错了年份，一份报告可能引用了已失效的来源，而且这些错误通常藏在&quot;看起来很正常&quot;的成品里。 谷歌云 AI]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[go语言中管道 channel的使用 - 何人陪我共长生]]></title>
+        <id>https://www.cnblogs.com/ishoulgodo/p/23207820</id>
+        <link href="https://www.cnblogs.com/ishoulgodo/p/23207820"/>
+        <updated>2026-10-06T04:04:00.000Z</updated>
+        <summary type="html"><![CDATA[创建 channel 声明的管道后,需要使用make函数初始化之后才能使用。 创建 channel 的格式如下 ch := make(chan元素类型, 容量) 管道有发送（send）、接收(receive) 和关闭（close）三种操作。 发送和接收都使用&lt;-符号。 管道是先进先出的。 管道是一个]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI 啃 DWG图纸：从二维到三维 - 我才是银古]]></title>
+        <id>https://www.cnblogs.com/znlgis/p/23207092</id>
+        <link href="https://www.cnblogs.com/znlgis/p/23207092"/>
+        <updated>2026-10-06T02:43:00.000Z</updated>
+        <summary type="html"><![CDATA[让大模型读懂 CAD 图纸，是&quot;AI + 工程数据&quot;里最硬的一块骨头之一。本文不谈具体业务，只讲一个纯技术命题：给定一套二维 DWG 图纸，让 AI 理解它、重建三维结构，并由参数驱动重新生成二维图。把这条链路上试过的四条路线、踩过的坑和最后沉淀下来的方法论写出来，供做同类问题的人参考。 一、问题抽]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[把 AI Agent 养在自己电脑上：从本地部署到远程接管的一份完整思路 - codigger]]></title>
+        <id>https://www.cnblogs.com/codigger/p/23206844</id>
+        <link href="https://www.cnblogs.com/codigger/p/23206844"/>
+        <updated>2026-10-06T02:13:00.000Z</updated>
+        <summary type="html"><![CDATA[一、为什么越来越多人把 Agent 搬回自己电脑 这两年 AI Agent 的形态发生了实质变化：它不再只是&quot;问一句、答一句&quot;的聊天框，而是能自主规划步骤、连续调用工具、读写本地文件、执行终端命令的执行体。一个代码重构任务跑半小时、一批文档整理跑一晚上，已经是很日常的使用方式。 任务形态变了，部署位]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cross-Origin postMessage DOM XSS: From a Missing Origin Check to Authenticated Account Compromise]]></title>
+        <id>https://medium.com/p/759589196176</id>
+        <link href="https://medium.com/@redhunter01/cross-origin-postmessage-dom-xss-from-a-missing-origin-check-to-authenticated-account-compromise-759589196176?source=rss------bugbounty-5"/>
+        <updated>2026-10-06T01:26:22.000Z</updated>
+        <summary type="html"><![CDATA[Introduction
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>redhunter01</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[万级车辆实时地图 + 双模拟器：车联网前端与测试工程实践（第 3 篇 · 前端与测试） - Sam Xiao]]></title>
+        <id>https://www.cnblogs.com/xcj26/p/23206402</id>
+        <link href="https://www.cnblogs.com/xcj26/p/23206402"/>
+        <updated>2026-10-06T00:25:00.000Z</updated>
+        <summary type="html"><![CDATA[1、实时监控 2、轨迹查询 3、告警管理 4、围栏设置 5、看板与报表 万级车辆实时地图 + 双模拟器：车联网前端与测试工程实践（第 3 篇 &#183; 前端与测试） 前两篇讲了业务架构和后端链路。这篇讲数据到达前端之后的故事——也是整个系列里&quot;工程密度&quot;最高的一篇。 车联网的前端不是&quot;一个后台 + 一个小]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CF813D Two Melodies 题解 - lvwangshu]]></title>
+        <id>https://www.cnblogs.com/lvwangshuOI/p/23206388</id>
+        <link href="https://www.cnblogs.com/lvwangshuOI/p/23206388"/>
+        <updated>2026-10-06T00:21:00.000Z</updated>
+        <summary type="html"><![CDATA[CF813D Two Melodies 题解 选两个非空、互不相交的子序列，各自满足&quot;相邻音符相差 \(1\) 或模 \(7\) 同余&quot;，求长度和的最大值。\(n \le 5000\)，\(a_i \le 10^5\)。 1. 朴素 DP：\(f[i][x][y]\) 扫描到第 \(i\) 个音符，]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CVE-2024–48914_Attack]]></title>
+        <id>https://medium.com/p/abad5f01229b</id>
+        <link href="https://medium.com/@SilentExploit/cve-2024-48914-attack-abad5f01229b?source=rss------bugbounty-5"/>
+        <updated>2026-10-05T20:57:36.000Z</updated>
+        <summary type="html"><![CDATA[Box: CVE-2024–48914
+Difficulty: Easy
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>SilentExploit</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How I Found Account Enumeration Hiding Across Two Endpoints]]></title>
+        <id>https://medium.com/p/c12013a78cb6</id>
+        <link href="https://medium.com/@Rahul.Masal/how-i-found-account-enumeration-hiding-across-two-endpoints-c12013a78cb6?source=rss------bugbounty-5"/>
+        <updated>2026-10-05T20:11:16.000Z</updated>
+        <summary type="html"><![CDATA[Continue reading on Medium »]]></summary>
+        <author>
+            <name>Rahul Masal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Easy Logic Bugs: How I Bypassed Two “Unbypassable” Checks in Production Systems]]></title>
+        <id>https://medium.com/p/2cdea7d56232</id>
+        <link href="https://medium.com/@ziad22mohammad/easy-logic-bugs-how-i-bypassed-two-unbypassable-checks-in-production-systems-2cdea7d56232?source=rss------bugbounty-5"/>
+        <updated>2026-10-05T19:30:13.000Z</updated>
+        <summary type="html"><![CDATA[by Ziad Mohammad — Bug Hunter & Security Researcher
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Ziadmohammad</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Referer-based access control — A portswigger lab walkthrough]]></title>
+        <id>https://medium.com/p/6a273c21db3f</id>
+        <link href="https://vivek0x.medium.com/referer-based-access-control-a-portswigger-lab-walkthrough-6a273c21db3f?source=rss------bugbounty-5"/>
+        <updated>2026-10-05T18:33:09.000Z</updated>
+        <summary type="html"><![CDATA[Platform: Portswigger’s web security academy
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Vivek Yadav</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[403 Forbidden: Can a “Forbidden” Page Still Reveal a Security Problem?]]></title>
+        <id>https://medium.com/p/b198e50871d9</id>
+        <link href="https://medium.com/@bensec/403-forbidden-can-a-forbidden-page-still-reveal-a-security-problem-b198e50871d9?source=rss------bugbounty-5"/>
+        <updated>2026-10-05T18:21:55.000Z</updated>
+        <summary type="html"><![CDATA[When a 403 Forbidden Response Doesn’t Always Mean Access Is Truly Protected
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>BENSEC</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meet Acurist: A Terminal-Native AI Agent Built for Offensive Security]]></title>
+        <id>https://medium.com/p/cc4b6eb09376</id>
+        <link href="https://imapurbo.medium.com/meet-acurist-a-terminal-native-ai-agent-built-for-offensive-security-cc4b6eb09376?source=rss------bugbounty-5"/>
+        <updated>2026-10-05T18:13:19.000Z</updated>
+        <summary type="html"><![CDATA[An open-source, vendor-agnostic agent for bug bounty hunters, red teamers, and security researchers
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>IMApurbo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[反馈：让系统知道自己做得对不对 - Zw-awa]]></title>
+        <id>https://www.cnblogs.com/zw-awa/p/23204653</id>
+        <link href="https://www.cnblogs.com/zw-awa/p/23204653"/>
+        <updated>2026-10-05T15:36:00.000Z</updated>
+        <summary type="html"><![CDATA[给电机一个调速信号，它确实会转，可程序并不知道轮子此刻跑得有多快。系统怎么知道自己做得对不对，这条回路又为什么不必从复杂的算法开始？]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Failure Analysis]]></title>
+        <id>https://medium.com/p/20996f1bfc47</id>
+        <link href="https://medium.com/aimonks/failure-analysis-20996f1bfc47?source=rss------redteam-5"/>
+        <updated>2026-10-05T14:27:02.000Z</updated>
+        <summary type="html"><![CDATA[Alt Text Session
+Continue reading on  . »]]></summary>
+        <author>
+            <name>ArtfullyPrompt - Nathan Cash</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rust 1.99 更新了什么？一个新手视角的升级前后对比 - 付威的网络博客]]></title>
+        <id>https://www.cnblogs.com/OceanHeaven/p/23204262</id>
+        <link href="https://www.cnblogs.com/OceanHeaven/p/23204262"/>
+        <updated>2026-10-05T13:16:00.000Z</updated>
+        <summary type="html"><![CDATA[照着教程写 Rust，最容易卡住的地方不是语法，是这一行： error[E0658]: use of unstable library feature `fs_set_times` 代码抄得没错，教程也没错，只是那个 API 在当时的稳定版里还没开放。新手很难判断这是自己写错了，还是版本不对，只能一]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[进程和线程以及go语言中的协程 - 何人陪我共长生]]></title>
+        <id>https://www.cnblogs.com/ishoulgodo/p/23203446</id>
+        <link href="https://www.cnblogs.com/ishoulgodo/p/23203446"/>
+        <updated>2026-10-05T11:52:00.000Z</updated>
+        <summary type="html"><![CDATA[进程 进程(Process)就是程序在操作系统中的一次执行的过程，是系统进行资源分配和调度的基本单位。 进程是一个动态概念，是程序在执行过程中分配和管理资源的基本单位。 每一个进程都有一个自己的地址空间。一个进程至少有五种基本状态。 它们是:初始状态，执行状态，等待状态，就绪状态，终止状态。 通俗的]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Agent Loop：AI 是怎么从"一句一答"进化成"自己干活"的 - Tomorrowland_D]]></title>
+        <id>https://www.cnblogs.com/Tomorrowland/p/23203861</id>
+        <link href="https://www.cnblogs.com/Tomorrowland/p/23203861"/>
+        <updated>2026-10-05T10:48:00.000Z</updated>
+        <summary type="html"><![CDATA[Agent Loop：AI 是怎么从&quot;一句一答&quot;进化成&quot;自己干活&quot;的 如果只用一个概念来解释&quot;Agent 和普通聊天机器人到底差在哪&quot;，我的答案会是 Agent Loop。这篇文章想用最通俗的方式，把它讲清楚。 一个&quot;一句一答&quot;解决不了的问题 你跟 ChatGPT、DeepSeek 聊天的时候，交互]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[面向数据工程师的正则表达式：从日志清洗到字段提取 - wang_yb]]></title>
+        <id>https://www.cnblogs.com/wang_yb/p/23203584</id>
+        <link href="https://www.cnblogs.com/wang_yb/p/23203584"/>
+        <updated>2026-10-05T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[数据工程师每天打交道的东西，很大一部分是文本： 应用日志 Nginx access log CSV 里混着脏数据的字段 API 返回的 JSON 片段 配置文件 爬下来的 HTML 这些文本往往不是完全结构化的，或者格式五花八门，用传统的 split、replace 处理起来很累，写一堆条件判断也不]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HTB-Password Attacks-Skills Assesment]]></title>
+        <id>https://medium.com/p/054e91262c69</id>
+        <link href="https://medium.com/@hemid.zekeryayev/htb-password-attacks-skills-assesment-054e91262c69?source=rss------redteam-5"/>
+        <updated>2026-10-05T08:46:34.000Z</updated>
+        <summary type="html"><![CDATA[1. Lab Scenario
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>XameedSec</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Password reset link stays valid after requesting a new one (old token not invalidated on reissue)]]></title>
         <id>https://medium.com/p/4af0fb651a1c</id>
