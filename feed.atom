@@ -2,10 +2,342 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cod3crash.github.io/sec-feed/index.html</id>
     <title>security feed</title>
-    <updated>2026-10-07T05:33:30.480Z</updated>
+    <updated>2026-10-08T05:42:40.592Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://cod3crash.github.io/sec-feed/index.html"/>
     <link rel="self" href="https://cod3crash.github.io/sec-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[什么是范数？用 NumPy 动手算一遍就明白了 - wang_yb]]></title>
+        <id>https://www.cnblogs.com/wang_yb/p/23222493</id>
+        <link href="https://www.cnblogs.com/wang_yb/p/23222493"/>
+        <updated>2026-10-08T04:51:00.000Z</updated>
+        <summary type="html"><![CDATA[做数据科学和机器学习，范数（Norm）这个东西你迟早会碰到。 损失函数正则化、向量相似度计算、矩阵分解——这些场景背后都有范数的影子。 但很多同学对范数的理解停留在&quot;好像是个求长度的东西&quot;这个层面，具体怎么算、不同范数之间有什么区别，一问就含糊了。 其实范数没那么抽象，用 NumPy 的 linal]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux桌面端应用向鸿蒙PC迁移适配纪实 - 书生执笔画浮沉]]></title>
+        <id>https://www.cnblogs.com/KBin/p/23219928</id>
+        <link href="https://www.cnblogs.com/KBin/p/23219928"/>
+        <updated>2026-10-08T04:19:00.000Z</updated>
+        <summary type="html"><![CDATA[背景 不知不觉，向鸿蒙的迁移工作从调研开始算已经半年多了，每次总觉得提测没问题了，就会又测出新的问题 不过这次应该可能……但愿真的没问题了，故趁着提测的空档，梳理这一篇文章作为记录，内容仅供参考 我们原本是运行在 Linux 中的 C++&amp;Qt 项目，由一个用户界面和多个底层服务构成。 公司里所有人]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Oracle AI Database 26ai RAC 部署步骤、关键命令与一键脚本 - 刘子毅]]></title>
+        <id>https://www.cnblogs.com/liuziyi1/p/23221893</id>
+        <link href="https://www.cnblogs.com/liuziyi1/p/23221893"/>
+        <updated>2026-10-08T03:34:00.000Z</updated>
+        <summary type="html"><![CDATA[版本背景：Oracle AI Database 26ai 企业版以 2026 年 1 月季度 Release Update（23.26.1） 形式正式支持 Linux x86‑64 本地部署，实际版本号形如 23.26.1.0.0。安装包名为 LINUX.X64_2326100_db_home.zi]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我劝你别再无脑用 MySQL：PostgreSQL 这 5 个底层能力，正在拉开架构师差距 - Rain的Java大神实战圈]]></title>
+        <id>https://www.cnblogs.com/zrui-xyu/p/23219962</id>
+        <link href="https://www.cnblogs.com/zrui-xyu/p/23219962"/>
+        <updated>2026-10-08T01:44:00.000Z</updated>
+        <summary type="html"><![CDATA[深挖MySQL与PG核心底层差异，不盲目站队！拆解两者架构、MVCC机制、索引体系核心区别，详解PG的JSONB、GIN索引、递归CTE等独家实战能力。盘点6个MySQL迁PG生产级大坑及解决方案，搭配Java实战代码，提供可落地的数据库选型指南，适配面试、架构选型、业务迁移场景。]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Agent 天天挂在嘴边的沙箱，到底是个啥？ - 狂师]]></title>
+        <id>https://www.cnblogs.com/jinjiangongzuoshi/p/23219908</id>
+        <link href="https://www.cnblogs.com/jinjiangongzuoshi/p/23219908"/>
+        <updated>2026-10-08T01:37:00.000Z</updated>
+        <summary type="html"><![CDATA[不知道你们有没有这种感觉。 不管是翻 Claude Code 的文档，还是用 Codex、WorkBuddy，总有一个词在你眼前晃，沙箱。 Claude Code 专门拿出一整节文档，来讲沙箱。 https://code.claude.com/docs/en/sandboxing Codex 默认就]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[.NET上位机踩坑：用Pipelines替代环形缓冲区(番外篇) - Wackysoft]]></title>
+        <id>https://www.cnblogs.com/wackysoft/p/23190979</id>
+        <link href="https://www.cnblogs.com/wackysoft/p/23190979"/>
+        <updated>2026-10-08T01:24:00.000Z</updated>
+        <summary type="html"><![CDATA[前言 大家好，我是 wacky。 书接上回，我们上回探讨了如何解决TCP粘包和半包的问题，并在最后引入了环形缓冲区的概念。虽然环形缓冲区主要是通过固定数组+读写索引+模运算来实现循环，但是实际开发过程中，还存在手动管理 offset、count，数组扩容、数据移动，容易越界、内存拷贝多等一系列的问题]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DrasiWake 更新：桥不再是单点了，用 DotNext.AspNetCore.Cluster 给桥接上 Raft 集群 - 张善友]]></title>
+        <id>https://www.cnblogs.com/shanyou/p/23219306</id>
+        <link href="https://www.cnblogs.com/shanyou/p/23219306"/>
+        <updated>2026-10-08T00:29:00.000Z</updated>
+        <summary type="html"><![CDATA[DrasiWake 现在支持三节点 Raft 集群，用的是 DotNext.AspNetCore.Cluster 6.9.0。这篇写写我做了什么，以及做的时候几个绕不开的取舍]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[语音降噪模型GTCRN学习笔记（一） - davidtym]]></title>
+        <id>https://www.cnblogs.com/talkaudiodev/p/23204088</id>
+        <link href="https://www.cnblogs.com/talkaudiodev/p/23204088"/>
+        <updated>2026-10-08T00:11:00.000Z</updated>
+        <summary type="html"><![CDATA[在audio DSP这类低算力、低memory的处理器上，只有算力要求低、参数量小的模型才能部署。在语音降噪领域，以前的模型参数通常都大于500k，很难在audio DSP上落地。近两年出了一个GTCRN(Grouped Temporal Convolutional Recurrent Networ]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[vllm企业私有化大模型部署实战指南 - AI-Frontiers]]></title>
+        <id>https://www.cnblogs.com/aifrontiers/p/23167708</id>
+        <link href="https://www.cnblogs.com/aifrontiers/p/23167708"/>
+        <updated>2026-10-08T00:09:00.000Z</updated>
+        <summary type="html"><![CDATA[原文：https://mp.weixin.qq.com/s/QaJNbqA3zND2JT4H0Vn5qQ 在企业内网物理断网、禁止外网访问的安全管控下，无法在线拉取镜像、模型权重及依赖，常规云端部署方案不适用。 为了满足智能问答、知识库RAG、本地推理等业务对稳定性、低延迟、高并发和数据私密性的要求]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[基于日志的监控告警：我们是怎么用一套轻量方案把线上问题"盯"住的 - 一个码农的日常]]></title>
+        <id>https://www.cnblogs.com/zhangs1986/p/23110473</id>
+        <link href="https://www.cnblogs.com/zhangs1986/p/23110473"/>
+        <updated>2026-10-08T00:07:00.000Z</updated>
+        <summary type="html"><![CDATA[业务接口反馈慢，但从监控面板，CPU、内存、QPS 全都绿绿的，看不出哪里不对。最后查日志，发现某个下游服务调用耗时飙到了 5 秒，但因为它没报错，只是慢，所以传统的指标监控根本没捕捉到。 指标监控擅长告诉你&quot;系统是不是挂了&quot;，但对于&quot;系统是不是慢了&quot;、&quot;流程是不是卡住了&quot;这类灰度异常，往往力不从心]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How a Simple IDOR Earned $5,000 on Reddit]]></title>
+        <id>https://medium.com/p/8d1b15857b2b</id>
+        <link href="https://meetcyber.net/how-a-simple-idor-earned-5-000-on-reddit-8d1b15857b2b?source=rss------bugbounty-5"/>
+        <updated>2026-10-07T21:44:53.000Z</updated>
+        <summary type="html"><![CDATA[A beginner-friendly breakdown of a real HackerOne report, and the lessons every new bug hunter can learn from it
+Continue reading on MeetCyber »]]></summary>
+        <author>
+            <name>Monika</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Prototype Pollution | The Masterclass: Client-Side vs. Server-Side]]></title>
+        <id>https://medium.com/p/94b7ba6f27e1</id>
+        <link href="https://elusive1973.medium.com/prototype-pollution-the-masterclass-client-side-vs-server-side-94b7ba6f27e1?source=rss------bugbounty-5"/>
+        <updated>2026-10-07T21:22:27.000Z</updated>
+        <summary type="html"><![CDATA[Hi how are u ? i am sure u missed me right ..?
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Omar Ahmed Abdelslam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux Has No Hell’s Gate (Part 1)]]></title>
+        <id>https://medium.com/p/23c388c4f3d9</id>
+        <link href="https://medium.com/@q3alique/linux-has-no-hells-gate-part-1-23c388c4f3d9?source=rss------redteam-5"/>
+        <updated>2026-10-07T19:11:53.000Z</updated>
+        <summary type="html"><![CDATA[The vDSO does. And almost nobody in offensive security talks about it.
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Qalique</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How I Earned My First $$$ Bounty from Google — And What I Learned]]></title>
+        <id>https://medium.com/p/4952e25771e9</id>
+        <link href="https://medium.com/@himxch/how-i-earned-my-first-bounty-from-google-and-what-i-learned-4952e25771e9?source=rss------bugbounty-5"/>
+        <updated>2026-10-07T18:30:16.000Z</updated>
+        <summary type="html"><![CDATA[Bug Bounty | Cloud Security | Responsible Disclosure
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Himxch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PortSwigger Notes: Access Control Vulnerability Types and Analysis (Part 1)]]></title>
+        <id>https://medium.com/p/47aaf04f6188</id>
+        <link href="https://medium.com/@furkannyildiizz05/portswigger-notes-access-control-vulnerability-types-and-analysis-part-1-47aaf04f6188?source=rss------bugbounty-5"/>
+        <updated>2026-10-07T16:44:59.000Z</updated>
+        <summary type="html"><![CDATA[PortSwigger: Unprotected admin, Unpredictable URL ve User role controlled by request parameter.
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Furkannyildiizz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PortSwigger Notes: Access Control Zafiyet Türleri ve Analizi (Bölüm 1)]]></title>
+        <id>https://medium.com/p/f446c7e0d54e</id>
+        <link href="https://medium.com/@furkannyildiizz05/portswigger-notes-access-control-zafiyet-t%C3%BCrleri-ve-analizi-b%C3%B6l%C3%BCm-1-f446c7e0d54e?source=rss------bugbounty-5"/>
+        <updated>2026-10-07T16:37:59.000Z</updated>
+        <summary type="html"><![CDATA[PortSwigger: Unprotected admin, Unpredictable URL ve User role controlled by request parameter.
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Furkannyildiizz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AEGIS-DEVIN Explained | The AI Platform for Autonomous Penetration Testing]]></title>
+        <id>https://medium.com/p/f911b5289c1b</id>
+        <link href="https://medium.com/@pentesterclubpvtltd/aegis-devin-explained-the-ai-platform-for-autonomous-penetration-testing-f911b5289c1b?source=rss------bugbounty-5"/>
+        <updated>2026-10-07T14:49:21.000Z</updated>
+        <summary type="html"><![CDATA[🤖 What Happens When AI Gets a Full Penetration Testing Workflow?
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Pentester Club</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ThingsBoard 集群的核心逻辑源码分析 - daidaidaiyu]]></title>
+        <id>https://www.cnblogs.com/dddy/p/22405537</id>
+        <link href="https://www.cnblogs.com/dddy/p/22405537"/>
+        <updated>2026-10-07T14:36:00.000Z</updated>
+        <summary type="html"><![CDATA[集群的核心逻辑 ThingsBoard 微服务是Kafka + ZooKeeper + 多节点 对等集群的架构 [[N_ThingsBoard]] [[N_ThingsBoard 集群的消息处理源码分析]] [[N_ZooKeepper学习一则]] 集群角色划分 整体角色划分 flowchart T]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How I Got Paid for Turning an Image Fetcher into an Arbitrary File Read]]></title>
+        <id>https://medium.com/p/0d15679bae00</id>
+        <link href="https://medium.com/@raahil.mw/how-i-got-paid-for-turning-an-image-fetcher-into-an-arbitrary-file-read-0d15679bae00?source=rss------bugbounty-5"/>
+        <updated>2026-10-07T14:16:21.000Z</updated>
+        <summary type="html"><![CDATA[A file:// payload allowed me to read local files from a UAT application server
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Raahil Muhammad Wildan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【笔记】生成式模型的注意力计算-矩阵视角 - -银光-]]></title>
+        <id>https://www.cnblogs.com/cswuyg/p/23217280</id>
+        <link href="https://www.cnblogs.com/cswuyg/p/23217280"/>
+        <updated>2026-10-07T14:14:00.000Z</updated>
+        <summary type="html"><![CDATA[这几周处于个人调整的 GAP 期，逐渐整理过去的学习笔记。本文是我 2025 年 5 月份左右记录的散乱学习笔记，国庆假期做了整理，分享给初学者。 1 简介 注意力计算是大模型推理的关键环节，其核心矩阵运算包括三部分：计算 Q、K、V 矩阵、计算注意力、计算线性变换。本文将介绍单机、张量并行两种场景]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Just Paused Its Bug Bounty. The Reason Is Something Every Beginner Needs to Understand.]]></title>
+        <id>https://medium.com/p/fb0ee9a0a3d3</id>
+        <link href="https://medium.com/@riyalimba/google-just-paused-its-bug-bounty-the-reason-is-something-every-beginner-needs-to-understand-fb0ee9a0a3d3?source=rss------bugbounty-5"/>
+        <updated>2026-10-07T13:56:19.000Z</updated>
+        <summary type="html"><![CDATA[AI-generated fake reports didn’t just annoy maintainers. They broke the program entirely. Here’s what that means for the rest of us.
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Riya Limba</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Critical BAC: IDOR + Weak Appointment Code Enables Unauthorized Appointment Cancellation…]]></title>
+        <id>https://medium.com/p/5e145ced50ca</id>
+        <link href="https://kjulius.medium.com/critical-bac-idor-weak-appointment-code-enables-unauthorized-appointment-cancellation-5e145ced50ca?source=rss------bugbounty-5"/>
+        <updated>2026-10-07T13:17:16.000Z</updated>
+        <summary type="html"><![CDATA[While testing a public-facing pre-complaint system, I discovered a critical Broken Access Control (BAC) issue involving appointment…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>kjulius</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[从手动检查到自动监控：一个数据质量工作流的实现 - wang_yb]]></title>
+        <id>https://www.cnblogs.com/wang_yb/p/23216940</id>
+        <link href="https://www.cnblogs.com/wang_yb/p/23216940"/>
+        <updated>2026-10-07T12:30:00.000Z</updated>
+        <summary type="html"><![CDATA[做数据工程的人大概都有过这样的经历：每天到工位第一件事，打开终端敲几条 SQL，看看关键表的行数是不是正常、最新数据更新到几点了、字段空值有没有突然飙高。 这套检查做完，可能半个小时就过去了。 如果某天查出来有问题，还得翻日志、查上下游、挨个通知相关的人。 这些任务虽然不复杂，但琐碎且需每天重复。]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From a Single Quote to SQL Injection: How I Discovered a Vulnerability in a University Web…]]></title>
+        <id>https://medium.com/p/752359f93cf9</id>
+        <link href="https://medium.com/@vignesh12/from-a-single-quote-to-sql-injection-how-i-discovered-a-vulnerability-in-a-university-web-752359f93cf9?source=rss------bugbounty-5"/>
+        <updated>2026-10-07T11:46:39.000Z</updated>
+        <summary type="html"><![CDATA[Hey, hackers! In this blog, I’m going to explain how I found an SQL Injection vulnerability in a university website and how I was able to…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Vignesh T</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[并发编程（八）：读写锁——从语言规则到 CPU - ThinkerQAQ]]></title>
+        <id>https://www.cnblogs.com/ThinkerQAQ/p/23216594</id>
+        <link href="https://www.cnblogs.com/ThinkerQAQ/p/23216594"/>
+        <updated>2026-10-07T11:16:00.000Z</updated>
+        <summary type="html"><![CDATA[沿用 counter 与 counter + ready 的例子，从 Java 读写锁规则一路看到 JDK、HotSpot 与 x86-64，理解 ReadWriteLock 如何提供原子性、可见性与有序性，以及它与 Mutex 的边界。]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【开源分享】Daen 的 Windows 快捷启动工具，WinUI3原生开发 - DaenMax]]></title>
+        <id>https://www.cnblogs.com/daen/p/23216195</id>
+        <link href="https://www.cnblogs.com/daen/p/23216195"/>
+        <updated>2026-10-07T09:54:00.000Z</updated>
+        <summary type="html"><![CDATA[Daen 的 Windows 快捷启动工具 —— 一个轻量、快速、可高度自定义的 Windows 桌面启动器，基于 WinUI 3 构建，原生 Fluent 设计，支持深浅色主题和云同步。]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[计算机视觉：让板子从“看见”到“看懂” - Zw-awa]]></title>
+        <id>https://www.cnblogs.com/zw-awa/p/23216090</id>
+        <link href="https://www.cnblogs.com/zw-awa/p/23216090"/>
+        <updated>2026-10-07T09:39:00.000Z</updated>
+        <summary type="html"><![CDATA[摄像头送进来的到底是什么，机器又是怎么从里面“看见”东西的？规则能写的地方自己写、写不出来的交给神经网络，这条路要花在哪几笔账上？]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[学习NOTE番外 1——浅谈逆元 - _T_M_T]]></title>
+        <id>https://www.cnblogs.com/T-M-T/p/23215740</id>
+        <link href="https://www.cnblogs.com/T-M-T/p/23215740"/>
+        <updated>2026-10-07T08:44:00.000Z</updated>
+        <summary type="html"><![CDATA[想必 OIer 们一定对逆元很熟悉，但是总会有像本蒟蒻一样的 dalao 不太清楚，所以我来写写我的认知与感受。 我还是太菜了。 逆元是什么 定义有点难说，相当于是：逆元就是某个运算下的“撤销键”。在模运算里，逆元就是让 \(a\times x\) 变回 \(1\) 的那个 。 比如说一个数的倒数，]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[单模型执行器 与 OpenCode v2配置迁移 笔记 - 我才是银古]]></title>
+        <id>https://www.cnblogs.com/znlgis/p/23215173</id>
+        <link href="https://www.cnblogs.com/znlgis/p/23215173"/>
+        <updated>2026-10-07T07:22:00.000Z</updated>
+        <summary type="html"><![CDATA[引言：两个容易被低估的工程问题 在多 Agent 编排框架里，默认范式已经相当成熟：一个顶层路由按意图分配任务，子代理各司其职，模型按难度分级（便宜模型扛高频，贵模型啃硬骨头）。这套架构解决了成本和并行问题，但它默认了一件事：执行链路允许横跨多个模型。 于是有两个问题经常被低估： 当任务要求&quot;全程只]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[瞬维AI落地经验：AI Agent工具调用准确率怎么提 - 陆陆陆六]]></title>
+        <id>https://www.cnblogs.com/lusihui/p/23214754</id>
+        <link href="https://www.cnblogs.com/lusihui/p/23214754"/>
+        <updated>2026-10-07T06:24:00.000Z</updated>
+        <summary type="html"><![CDATA[TL;DR（太长不看）： 本文分享我们把 AI Agent 工具调用准确率从 60% 提到 95% 的四个核心方法：①工具描述写清楚「什么时候不要用」，加负向约束；②合并工具减少候选，别拆太细；③调用前加一层参数校验兜底；④持续收集错例迭代优化。四个方法叠加，准确率稳步爬升到 95%。 现在做 AI]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[go语言中的只读/只写管道,多路复用select,捕获协程异常 - 何人陪我共长生]]></title>
+        <id>https://www.cnblogs.com/ishoulgodo/p/23214734</id>
+        <link href="https://www.cnblogs.com/ishoulgodo/p/23214734"/>
+        <updated>2026-10-07T06:23:00.000Z</updated>
+        <summary type="html"><![CDATA[创建一个只写管道 只写管道只能往管道里面写数据,不能从管道里面读取数据， 通过 chan&lt;- 来创建一个只写管道 package main func main() { // 创建一个 int 类型的管道,只能写入数据 chWrite := make(chan&lt;- int, 1000) // 往管道里]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Red Team Assessments: How Simulating Advanced Persistent Threats Exposes Real Security Gaps]]></title>
+        <id>https://medium.com/p/f84b1f791213</id>
+        <link href="https://futurismcybersecure.medium.com/red-team-assessments-how-simulating-advanced-persistent-threats-exposes-real-security-gaps-f84b1f791213?source=rss------redteam-5"/>
+        <updated>2026-10-07T06:00:11.000Z</updated>
+        <summary type="html"><![CDATA[Your last audit came back clean, your vulnerability scanner is quiet, and every box on the compliance checklist is ticked. So are you…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Futurism Security</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[鸿蒙(HarmonyOS) 2012至2026年的发展历程 - 老陈说编程]]></title>
         <id>https://www.cnblogs.com/halfcode/p/23213514</id>
