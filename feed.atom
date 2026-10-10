@@ -2,10 +2,363 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cod3crash.github.io/sec-feed/index.html</id>
     <title>security feed</title>
-    <updated>2026-10-09T05:46:11.501Z</updated>
+    <updated>2026-10-10T05:29:12.692Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://cod3crash.github.io/sec-feed/index.html"/>
     <link rel="self" href="https://cod3crash.github.io/sec-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[3. 鸿蒙开发须知，务必看到最后 - 老陈说编程]]></title>
+        <id>https://www.cnblogs.com/halfcode/p/23250086</id>
+        <link href="https://www.cnblogs.com/halfcode/p/23250086"/>
+        <updated>2026-10-10T04:47:00.000Z</updated>
+        <summary type="html"><![CDATA[想要开启鸿蒙应用开发，首先要搭好基础环境。我们需要一台电脑作为开发主机，鸿蒙全套开发工具都安装在这台设备上，代码编写、项目编译、本地调试都在这里完成。 动画视频在《3. 鸿蒙开发须知，务必看到最后》。 除此之外，建议准备一台华为真机，系统版本要求为 HarmonyOS 6.0 及以上。开发完成的工程]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LLM | 论文速读：如何使用 RL 缓解 LLM 过长问题 - MoonOut]]></title>
+        <id>https://www.cnblogs.com/moonout/p/23249520</id>
+        <link href="https://www.cnblogs.com/moonout/p/23249520"/>
+        <updated>2026-10-10T04:26:00.000Z</updated>
+        <summary type="html"><![CDATA[我们探寻 RL、Behavior Reward Model 和 Agent 输出长度之间的张力：可否“反其道而行之”，探寻 Agent 输出过长的深层原因，以 BRM 的形式由 RL 加以惩罚，从而抑制 LLM 输出长度增长？]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OctaFuse Gateway 2.14.0：图像与语音接入扩展、用户分组折扣与后台配置升级 - 程序猿DD]]></title>
+        <id>https://www.cnblogs.com/didispace/p/23249869</id>
+        <link href="https://www.cnblogs.com/didispace/p/23249869"/>
+        <updated>2026-10-10T04:15:00.000Z</updated>
+        <summary type="html"><![CDATA[OctaFuse Gateway 2.14.0 新增了多平台图片与语音接入：使用 OpenAI 接口的客户端，可以通过转换路由调用 MiniMax、Seedream 和 Gemini 的相应能力，也能传入厂商特有参数。 这次还补上了按路由组设置用户折扣和价格预览。后台配置改为逐项保存，修改用户资料时]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一行代码在 .NET 项目里启用 Satori GC - hez2010]]></title>
+        <id>https://www.cnblogs.com/hez2010/p/23249814/enable-satori-gc-in-a-single-line</id>
+        <link href="https://www.cnblogs.com/hez2010/p/23249814/enable-satori-gc-in-a-single-line"/>
+        <updated>2026-10-10T04:07:00.000Z</updated>
+        <summary type="html"><![CDATA[众所周知 Satori GC 是 .NET 上兼具高吞吐、低延时和低占用的 GC。为了更方便地在项目里使用 Satori GC，我把 Satori GC 封装成了 MSBuild SDK 并传到了 nuget 上，这样就能通过仅仅一行代码在发布时启用 Satori GC 了。 对于 .NET 10，]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google 开源了啥，让 AI Agent 碰数据库不再是定时炸弹 - 码哥字节]]></title>
+        <id>https://www.cnblogs.com/uniqueDong/p/23249646</id>
+        <link href="https://www.cnblogs.com/uniqueDong/p/23249646"/>
+        <updated>2026-10-10T03:58:00.000Z</updated>
+        <summary type="html"><![CDATA[你们公司的 AI Agent 现在是怎么访问数据库的？ 如果答案是「给 LLM 一个数据库连接串，让它自己生成 SQL 执行」，这篇文章你得认真看一下。我不是在危言耸听——去年有团队在测试环境演示 AI Agent 时，LLM 生成了一条带错误 WHERE 子句的 DELETE，加上测试账号没有行级]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【UE】类GTA第三人称基础移动：Rotating | Strafing - EanoJiang]]></title>
+        <id>https://www.cnblogs.com/eanojiang/p/22875816</id>
+        <link href="https://www.cnblogs.com/eanojiang/p/22875816"/>
+        <updated>2026-10-10T03:26:00.000Z</updated>
+        <summary type="html"><![CDATA[Rotating模式下判断是否需原地转身 UFUNCTION(BlueprintCallable, Category = &quot;CharacterRotation&quot;, meta = (HideSelfPin = &quot;true&quot;)) void TurnInPlace_Rotating(); //当前为手柄输]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[8年Java老兵转型AI Agent：90%的人挂在同一个坑，根本不用学Python！（万字实战复盘，建议收藏） - Rain的Java大神实战圈]]></title>
+        <id>https://www.cnblogs.com/zrui-xyu/p/23248798</id>
+        <link href="https://www.cnblogs.com/zrui-xyu/p/23248798"/>
+        <updated>2026-10-10T03:10:00.000Z</updated>
+        <summary type="html"><![CDATA[8年Java后端老兵实战复盘！打破“转AI就是学Python调API”的误区，详解Java工程师转型AI Agent的核心认知升级与能力补全方案。聚焦确定性工程架构适配LLM概率性输出核心思路，拆解可复用Java工程能力、必备AI增量技能，附赠Spring AI、LangChain4j落地代码、生产...]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[把 AO 接回来：黑线和白底之间到底差了多少 - Zw-awa]]></title>
+        <id>https://www.cnblogs.com/zw-awa/p/23248570</id>
+        <link href="https://www.cnblogs.com/zw-awa/p/23248570"/>
+        <updated>2026-10-10T02:59:00.000Z</updated>
+        <summary type="html"><![CDATA[数字输出只回答有没有越过线，可线的黑白浓淡去哪了？十二位的读数不会凭空造出灰度，为什么把黑线从左扫到右看一遍，比盯住一个数字更有用？]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[linux命令： watch 监视命令（高逼格必备） - 王若伊_恩赐解脱]]></title>
+        <id>https://www.cnblogs.com/jilodream/p/23248541</id>
+        <link href="https://www.cnblogs.com/jilodream/p/23248541"/>
+        <updated>2026-10-10T02:58:00.000Z</updated>
+        <summary type="html"><![CDATA[我们在执行linux命令的时候，有时候需要持续查看结果，此时需要反复执行某一个命令。比如查看k8s pod 是否拉起，或者查看进程是否删除。一般就通过⬆+回车 的组合不断的点，直到具体的结果。但是这太麻烦了，而且太low，作为一个成熟的操作系统，(防盗连接：本文首发自http://www.cnblo]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Map an Organization’s IP Ranges Using ASNMap and MapCIDR | by Samadhan Shimple]]></title>
+        <id>https://medium.com/p/9d030262d20a</id>
+        <link href="https://samadhanshimple.medium.com/how-to-map-an-organizations-ip-ranges-using-asnmap-and-mapcidr-by-samadhan-shimple-9d030262d20a?source=rss------bugbounty-5"/>
+        <updated>2026-10-10T02:46:01.000Z</updated>
+        <summary type="html"><![CDATA[When I start a bug bounty program or an authorized penetration test, one of the first things I want to understand is the target’s…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Samadhan shimple</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scikit-Learn实战：5步搞定PCA降维 - wang_yb]]></title>
+        <id>https://www.cnblogs.com/wang_yb/p/23248256</id>
+        <link href="https://www.cnblogs.com/wang_yb/p/23248256"/>
+        <updated>2026-10-10T02:46:00.000Z</updated>
+        <summary type="html"><![CDATA[做机器学习的时候，你大概率会遇到这样一个场景：手头的数据集特征太多，几十甚至上百个维度，训练模型慢得要命，还容易过拟合。 你心里清楚不是所有特征都有用，但到底哪些该留、哪些该砍，一时又说不上来。 主成分分析（PCA）就是用来解决这个问题的。 它的思路很直接——与其在原始特征里挑挑拣拣，不如把数据投影]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Redis 正式接入 AI：当"最懂速度的数据库"开始解决"记忆问题" - codigger]]></title>
+        <id>https://www.cnblogs.com/codigger/p/23247650</id>
+        <link href="https://www.cnblogs.com/codigger/p/23247650"/>
+        <updated>2026-10-10T02:18:00.000Z</updated>
+        <summary type="html"><![CDATA[Redis 不再只是缓存快车道，已成 AI 应用的记忆账本 一句话概括：Redis 不再只是数据库前面那条快车道，它正在变成 AI 应用背后的那本&quot;记忆账本&quot;。 如果你写过三年以上后端，Redis 的形象大概早就定型了：跑在内存里的键值数据库，微秒级读写，挡在 MySQL 前面扛读流量。但最近两年，]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MySQL 配置参数详解（全版本 · 按用途与作用分类） - 刘子毅]]></title>
+        <id>https://www.cnblogs.com/liuziyi1/p/23246737</id>
+        <link href="https://www.cnblogs.com/liuziyi1/p/23246737"/>
+        <updated>2026-10-10T01:34:00.000Z</updated>
+        <summary type="html"><![CDATA[MySQL 的系统变量（即&quot;配置参数&quot;）数量非常庞大——5.7/8.0/8.4/9.x 各版本累计定义超过 1000 个，且随版本不断新增、弃用和改名。要把每一个都逐一列出并不现实，但可以按作用域把它们完整地归类，再逐类说明每个参数的用途、作用与版本差异。下面这份按类别组织的参考，覆盖了 MySQL]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CVE-2026–93485 Explained: How One WordPress Comment Can Hand Over the Server]]></title>
+        <id>https://medium.com/p/e3e3725e7d88</id>
+        <link href="https://medium.com/@guidancewhite/cve-2026-93485-explained-how-one-wordpress-comment-can-hand-over-the-server-e3e3725e7d88?source=rss------bugbounty-5"/>
+        <updated>2026-10-10T01:05:13.000Z</updated>
+        <summary type="html"><![CDATA[Overview
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Guidancewhite</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[开发邮箱客户端产品的技术选型（.Net） - liulun]]></title>
+        <id>https://www.cnblogs.com/liulun/p/23246090</id>
+        <link href="https://www.cnblogs.com/liulun/p/23246090"/>
+        <updated>2026-10-10T01:03:00.000Z</updated>
+        <summary type="html"><![CDATA[如果你是 C#.NET 开发者 使用 System.Net.Mail 模块是不现实的，因为它仅支持 SMTP 协议且功能有限，不支持 IMAP/POP3，不适合做完整的邮箱客户端。 使用开源的 MailKit（https://github.com/jstedfast/MailKit） 是最佳选择。]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[两个请求同时改库存，RowVersion 救了一命 - 码农刚子]]></title>
+        <id>https://www.cnblogs.com/shenchuanchao/p/23212953/two-requests-concurrent-inventory-update-rowversion-rescue</id>
+        <link href="https://www.cnblogs.com/shenchuanchao/p/23212953/two-requests-concurrent-inventory-update-rowversion-rescue"/>
+        <updated>2026-10-10T00:40:00.000Z</updated>
+        <summary type="html"><![CDATA[两个并发请求同时读取库存并各自扣减，导致超卖——这是经典的丢失更新问题。RowVersion（行版本）通过乐观锁机制解决该问题：EF Core在UPDATE语句的WHERE子句中加入原始RowVersion值，若数据库中的版本已变，则更新影响0行，抛出DbUpdateConcurrencyExcep...]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[自动数据库索引压缩合并 - 桦仔]]></title>
+        <id>https://www.cnblogs.com/lyhabc/p/23134321/automatic-index-compaction-sql-server</id>
+        <link href="https://www.cnblogs.com/lyhabc/p/23134321/automatic-index-compaction-sql-server"/>
+        <updated>2026-10-10T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[自动数据库索引压缩合并 一直以来，我们都习惯在 SQL Server数据库实例中部署一项固定任务：夜间或每周执行一次索引维护作业。我们先检查索引碎片率，碎片率介于5%～30%时执行索引重组（REORGANIZE），高于30%则执行索引重建（REBUILD），并且寄希望于该作业能够在业务日开始前执行完]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Arasaka (HackSmarter)]]></title>
+        <id>https://medium.com/p/f5775c463371</id>
+        <link href="https://medium.com/@daniel.josiah.lewis/arasaka-hacksmarter-f5775c463371?source=rss------redteam-5"/>
+        <updated>2026-10-09T23:13:50.000Z</updated>
+        <summary type="html"><![CDATA[Overview
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Daniel Lewis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mac 远程 Windows 下 SecureCRT 粘贴不生效的解决办法 - AlfredZhao]]></title>
+        <id>https://www.cnblogs.com/jyzhao/p/23245493</id>
+        <link href="https://www.cnblogs.com/jyzhao/p/23245493"/>
+        <updated>2026-10-09T23:11:00.000Z</updated>
+        <summary type="html"><![CDATA[笔者使用 Mac 通过 Windows App 远程连接 Windows 主机，再在远程主机上用 SecureCRT 连接客户环境。实际使用中遇到一个很影响效率的问题：在 Mac 上复制内容后，远程 Windows 主机里的 SecureCRT 无法直接粘贴，只能通过右键菜单选择粘贴。 给客户部署时]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[15 Bug Hunting Tips That Actually Work in 2026]]></title>
+        <id>https://medium.com/p/bc460d559e5b</id>
+        <link href="https://meetcyber.net/15-bug-hunting-tips-that-actually-work-in-2026-bc460d559e5b?source=rss------bugbounty-5"/>
+        <updated>2026-10-09T22:19:31.000Z</updated>
+        <summary type="html"><![CDATA[Simple tricks I wish I knew before my first bug bounty report
+Continue reading on MeetCyber »]]></summary>
+        <author>
+            <name>Monika</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[First Principle Insight #16]]></title>
+        <id>https://medium.com/p/b0f51084f223</id>
+        <link href="https://medium.com/@k8833448/first-principle-insight-16-b0f51084f223?source=rss------bugbounty-5"/>
+        <updated>2026-10-09T22:12:02.000Z</updated>
+        <summary type="html"><![CDATA[Department of Government Efficiency, the place that they only focus on the downstream but afraid to look upstream where the true issue is…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Kevin Hagan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Art of the Completion Frame: Extracting the AI Training Engine Directives]]></title>
+        <id>https://medium.com/p/e1c2689245e3</id>
+        <link href="https://medium.com/@mohamed10111213141516171819/the-art-of-the-completion-frame-extracting-the-ai-training-engine-directives-e1c2689245e3?source=rss------bugbounty-5"/>
+        <updated>2026-10-09T18:44:58.000Z</updated>
+        <summary type="html"><![CDATA[The Reconnaissance Phase
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Mohamed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mr. Robot CTF — From Web Enumeration to Root Access | Full Walkthrough]]></title>
+        <id>https://medium.com/p/8cdfcfb37422</id>
+        <link href="https://medium.com/@0xDarh/mr-robot-ctf-from-web-enumeration-to-root-access-full-walkthrough-8cdfcfb37422?source=rss------redteam-5"/>
+        <updated>2026-10-09T18:39:16.000Z</updated>
+        <summary type="html"><![CDATA[1. Introduction
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>0xDarsh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From CSPT to DOM XSS: Chaining an Open Redirect with Malicious JSON]]></title>
+        <id>https://medium.com/p/71a58c462c2a</id>
+        <link href="https://medium.com/@AstroKrypTech/from-cspt-to-dom-xss-chaining-an-open-redirect-with-malicious-json-71a58c462c2a?source=rss------bugbounty-5"/>
+        <updated>2026-10-09T18:07:57.000Z</updated>
+        <summary type="html"><![CDATA[Bonus: A webhook.site alternative for security testing
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>AstroKrypTech</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[All green but still broken: A Kubernetes Fake Certificate Story.]]></title>
+        <id>https://medium.com/p/e3db799edab9</id>
+        <link href="https://alexmarket.medium.com/all-green-but-still-broken-a-kubernetes-fake-certificate-story-e3db799edab9?source=rss------bugbounty-5"/>
+        <updated>2026-10-09T17:55:07.000Z</updated>
+        <summary type="html"><![CDATA[It looked like a normal morning. Then Teams started pinging me like I’d left the microwave on.
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Alex</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PortSwigger Access Control Notes: Mass Assignment and IDOR Variants]]></title>
+        <id>https://medium.com/p/c10b2a70cd50</id>
+        <link href="https://medium.com/@furkannyildiizz05/portswigger-access-control-notes-mass-assignment-and-idor-variants-c10b2a70cd50?source=rss------bugbounty-5"/>
+        <updated>2026-10-09T17:41:01.000Z</updated>
+        <summary type="html"><![CDATA[🇹🇷 Türkçe okumak için tıklayın:
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Furkannyildiizz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[TSDB] 时序数据库的技术选型与横向调研：Apache IoTDB / InfluxDB / openGemini / TDengine / kdb+ / Prometheus / TimescaleDB / DolphinDB - 千千寰宇]]></title>
+        <id>https://www.cnblogs.com/johnnyzen/p/23242603</id>
+        <link href="https://www.cnblogs.com/johnnyzen/p/23242603"/>
+        <updated>2026-10-09T17:40:00.000Z</updated>
+        <summary type="html"><![CDATA[0 序 调研声明 调研日期：2026-10-09（GitHub Star 数、版本号均以该时点为准，检索最新公开资料） 调研方式：人工（笔者有持续多年使用了多款时序数据库的背景） + AI 证据口径说明： 【已查证】：事实来自官方文档 / 官方 GitHub / 官方发布公告 / 官方 API（如]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PortSwigger Access Control Masterclass: Mass Assignment ve IDOR Çeşitleri]]></title>
+        <id>https://medium.com/p/440255ab46e4</id>
+        <link href="https://medium.com/@furkannyildiizz05/portswigger-access-control-masterclass-mass-assignment-ve-idor-%C3%A7e%C5%9Fitleri-440255ab46e4?source=rss------bugbounty-5"/>
+        <updated>2026-10-09T17:36:42.000Z</updated>
+        <summary type="html"><![CDATA[🇬🇧 Read this article in English:
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Furkannyildiizz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RCE In a Single Way]]></title>
+        <id>https://medium.com/p/49f337004ec1</id>
+        <link href="https://medium.com/@kur0bai/rce-in-a-single-way-49f337004ec1?source=rss------redteam-5"/>
+        <updated>2026-10-09T16:16:11.000Z</updated>
+        <summary type="html"><![CDATA[Think of your application like a waiter in a restaurant. A user places an order (input), and the application sends that order to the…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>kur0bai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[把 3Blue1Brown 的 manim 引擎塞进浏览器 - 又过二十]]></title>
+        <id>https://www.cnblogs.com/wyang/p/23243396</id>
+        <link href="https://www.cnblogs.com/wyang/p/23243396"/>
+        <updated>2026-10-09T15:58:00.000Z</updated>
+        <summary type="html"><![CDATA[把 3Blue1Brown 的 manim 引擎塞进浏览器 一个零依赖的本地数学可视化工具：八个模块、三十四个预设，所有参数都是滑块。 项目地址：github.com/wyfirstname/manim-ui 在 B 站或 YouTube 上看 3Blue1Brown 的视频，最抓人的往往不是结论，]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rust重写Pi编码助手，性能飙升10倍 - 付威的网络博客]]></title>
+        <id>https://www.cnblogs.com/OceanHeaven/p/23243373</id>
+        <link href="https://www.cnblogs.com/OceanHeaven/p/23243373"/>
+        <updated>2026-10-09T15:38:00.000Z</updated>
+        <summary type="html"><![CDATA[最近做了一个 Rust 项目：pi-rust。把 TypeScript 版的 Pi 编码助手用 Rust 重写，命令叫 rpi。 先把测试结果放出来。 先看数据对比 对比版本是 rpi 0.3.6 和 Pi 0.87.1 指标Rust 版 rpiTypeScript 版 Pi 打印版本号 --ver]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[XXL-JOB v3.5.0 发布｜OpenAPI增强、动态AccessToken、海量日志索引优化 - 许雪里]]></title>
+        <id>https://www.cnblogs.com/xuxueli/p/23243218</id>
+        <link href="https://www.cnblogs.com/xuxueli/p/23243218"/>
+        <updated>2026-10-09T15:13:00.000Z</updated>
+        <summary type="html"><![CDATA[Release Notes 1、【新增】OpenAPI能力增强：提供任务管理能力，包括任务新建/更新/删除、启动/停止、任务触发等； （注意：任务管理OpenAPI及操作代码示例，详见官方文档） 2、【新增】GLUE模式开关：新增GLUE模式开关（xxl.job.executor.glueenabl]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Violare l’Infrastruttura: Metodologie di Initial Access in Active Directory]]></title>
+        <id>https://medium.com/p/be575c874603</id>
+        <link href="https://medium.com/@porcu.marcooo/violare-linfrastruttura-metodologie-di-initial-access-in-active-directory-be575c874603?source=rss------redteam-5"/>
+        <updated>2026-10-09T09:45:44.000Z</updated>
+        <summary type="html"><![CDATA[Nelle reti aziendali moderne, la sicurezza del perimetro è solo metà della battaglia. Una volta che un attaccante ottiene un accesso…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Porcu Marcooo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Low-Level Extraction of the HomePod mini]]></title>
+        <id>https://blog.elcomsoft.com/?p=13784</id>
+        <link href="https://blog.elcomsoft.com/2026/10/low-level-extraction-of-the-homepod-mini/"/>
+        <updated>2026-10-09T08:00:53.000Z</updated>
+        <summary type="html"><![CDATA[iOS Forensic Toolkit 10.12 extracts the full file system image and the decrypted keychain from yet another IoT device: Apple HomePod mini. This is the first file system extraction of the device; the method uses the usbliter8 bootloader exploit and a custom adapter. This guide covers the hardware, the extraction and analysis steps. Know your […]]]></summary>
+        <author>
+            <name>Vladimir Katalov</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[PortSwigger's SQL Injection Labs: Complete Walkthrough (All 18 Labs)]]></title>
         <id>https://medium.com/p/18613e7c7aa0</id>
@@ -49830,28 +50183,6 @@ The post Glitching on STM32 Blue Pill appeared first on Payatu.]]></summary>
 The post The Purdue Model: Foundations, Evolution, and the Security Debate appeared first on Payatu.]]></summary>
         <author>
             <name>Abhishek Pandey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reducing notification overload for a quieter browsing experience in Chrome]]></title>
-        <id>https://blog.chromium.org/2025/10/automatic-notification-permission.html</id>
-        <link href="https://blog.chromium.org/2025/10/automatic-notification-permission.html"/>
-        <updated>2025-10-10T17:04:00.000Z</updated>
-        <summary type="html"><![CDATA[We're constantly working to improve your browsing experience. To help you cut through the noise and reduce notification overload, we’re launching a new feature to automatically remove notification permission for sites you haven't interacted with recently. Today, Chrome’s Safety Check already does this for other permissions such as camera and location. The feature will be launched in Chrome on Android and desktop.
-
-
-Data indicates that users frequently receive a high volume of notifications, resulting in minimal engagement and high disruption. Less than 1% of all notifications receive any interaction from users.
-
-
-But notifications can be genuinely valuable and helpful. Therefore, this feature will only revoke permissions for sites when there is very low user engagement and a high volume of notifications being sent. This feature does not revoke notifications for any installed web apps. 
-
-
-Chrome will inform you when notification permissions are removed. If you prefer to keep getting notifications from a particular website, you can easily re-grant the permission at any time through Safety Check or alternatively by visiting the site and enabling notifications again. You can also choose to turn off the auto-revocation feature entirely.
-
-
-Posted by Archit Agarwal, Product Manager, Chrome]]></summary>
-        <author>
-            <name>Chromium Blog</name>
         </author>
     </entry>
 </feed>
