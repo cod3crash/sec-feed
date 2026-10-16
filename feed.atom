@@ -2,10 +2,340 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cod3crash.github.io/sec-feed/index.html</id>
     <title>security feed</title>
-    <updated>2026-10-15T04:15:16.526Z</updated>
+    <updated>2026-10-16T04:10:57.203Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://cod3crash.github.io/sec-feed/index.html"/>
     <link rel="self" href="https://cod3crash.github.io/sec-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[瑞芯微rv1106进入Loader模式转储emmc数据 - 云中双月]]></title>
+        <id>https://www.cnblogs.com/Johness/p/23325648</id>
+        <link href="https://www.cnblogs.com/Johness/p/23325648"/>
+        <updated>2026-10-16T03:44:00.000Z</updated>
+        <summary type="html"><![CDATA[最近遇到个问题，设备在用户手里变砖了。我们把设备拿回来，接上调试串口，打印如下输出 看起来是有分区数据损坏，肯定是需要把emmc数据读取出来看看。 有条件的话可以把emmc吹下来，然后用烧录器读取。但我们嵌入式软件岗位研发没这个手艺。就只能从软件上想办法。 先进maskroom（在uboot下输入d]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI重构代码40%会悄悄改坏，我是怎么用7步SOP防住的 - 码哥字节]]></title>
+        <id>https://www.cnblogs.com/uniqueDong/p/23324820</id>
+        <link href="https://www.cnblogs.com/uniqueDong/p/23324820"/>
+        <updated>2026-10-16T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[上线第3天，监控告警群炸了。 不是新业务的问题，是我上周用 Claude Code 重构的那个订单服务。看起来一切正常，CI 全绿，单测跑过。但线上 P99 延迟翻了四倍，原因是 AI 在&quot;优化&quot;某个查询函数时，把一个 O(n) 的内存过滤替换成了每次请求都查数据库的子查询。 我当时盯着那个 dif]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CatBase 语言入门：像 Python 一样写，像 C 一样跑 - 努力，努力再努力]]></title>
+        <id>https://www.cnblogs.com/forges/p/23324190</id>
+        <link href="https://www.cnblogs.com/forges/p/23324190"/>
+        <updated>2026-10-16T02:29:00.000Z</updated>
+        <summary type="html"><![CDATA[珠海有家机器人公司，内部项目嫌 Python 太慢，嫌 C 太难写，干脆自己造了一门编程语言。 这门语言叫 CatBase。语法照抄 Python 的简洁，性能对标 C，编译出来就是本地二进制文件。源码托管在 GitHub（仓库 DoRobotAi/catbase-lang），官网 catbase-]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[10、数据通信产品的硬件架构：拆开设备，看清网络的骨骼 - 羽落·无痕(苏晗默)]]></title>
+        <id>https://www.cnblogs.com/suhanmo/p/23324065</id>
+        <link href="https://www.cnblogs.com/suhanmo/p/23324065"/>
+        <updated>2026-10-16T02:23:00.000Z</updated>
+        <summary type="html"><![CDATA[前言 上一章我们认识了华为数据通信的产品家族——路由器、交换机、WLAN 与安全产品各司其职。但产品目录只能告诉我们&quot;它是什么&quot;，却回答不了&quot;它凭什么做到这些&quot;。一台能够在骨干网上每秒转发数百&#160;Tbit 数据的设备，内部究竟由哪些部件构成？为什么有的设备高超过&#160;1.5 m、重超过&#160;500 kg，而有]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[学习NOTE——10 李超线段树 - _T_M_T]]></title>
+        <id>https://www.cnblogs.com/T-M-T/p/23324032</id>
+        <link href="https://www.cnblogs.com/T-M-T/p/23324032"/>
+        <updated>2026-10-16T02:21:00.000Z</updated>
+        <summary type="html"><![CDATA[李超真是个____。这都想得到。 引入（？） 我们要在平面直角（笛卡尔）坐标系中进行一些操作： 动态插入一条线段（或直线）； 单点查询：给定一个横坐标\(x\)，查询所有已插入线段在该点处的纵坐标最大值，并输 出对应线段编号。 但是朴素的暴力在每次查询时都是\(O(n)\)的，肥肠的不优。 但是，李]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Write-Up: How I Found a Business Logic Flaw That Permanently Orphaned Teams on a Developer Platform]]></title>
+        <id>https://medium.com/p/6be675083192</id>
+        <link href="https://medium.com/@atefm5667/write-up-how-i-found-a-business-logic-flaw-that-permanently-orphaned-teams-on-a-developer-platform-6be675083192?source=rss------bugbounty-5"/>
+        <updated>2026-10-16T02:16:57.000Z</updated>
+        <summary type="html"><![CDATA[Author: Mohamed Atef Date: October 2026 Program: Disclosed via Private Bug Bounty Program (HackerOne) — Pending Public Disclosure Severity…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Mohamed Atef</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Koog(5) —— Strategy 详解：工作流编排、并行执行与状态传递 - SharpCJ]]></title>
+        <id>https://www.cnblogs.com/joy99/p/23320228</id>
+        <link href="https://www.cnblogs.com/joy99/p/23320228"/>
+        <updated>2026-10-16T01:41:00.000Z</updated>
+        <summary type="html"><![CDATA[前面的文章介绍了不同 Agent 实现形式及其构建、配置和运行方式。本文继续讨论 Agent 的行为逻辑如何组织，重点是图式策略的组成、控制流、并行执行与数据传递。]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Java 三层架构，90% 的人只答对一半：Controller 不是瘦，Service 不是透传，Dao 不是只写 SQL - Rain的Java大神实战圈]]></title>
+        <id>https://www.cnblogs.com/zrui-xyu/p/23323227</id>
+        <link href="https://www.cnblogs.com/zrui-xyu/p/23323227"/>
+        <updated>2026-10-16T01:38:00.000Z</updated>
+        <summary type="html"><![CDATA[Java 项目三层架构面试高频题，不止背高内聚低耦合！本文从**按变化速率分层**核心原理切入，划定 Controller/Service/Dao 职责红线，结合下单实战代码演示事务、DTO/VO 对象流转。拆解事务失效、N+1 查询等真实踩坑案例，引入 ArchUnit 实现架构自动化校验。还讲解...]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UI Composition 技术在传统 Win32 窗口中绘制圆角矩形 - liulun]]></title>
+        <id>https://www.cnblogs.com/liulun/p/23323199</id>
+        <link href="https://www.cnblogs.com/liulun/p/23323199"/>
+        <updated>2026-10-16T01:36:00.000Z</updated>
+        <summary type="html"><![CDATA[本文使用 DraftDepot（稿仓 https://github.com/xland/DraftDepot）编辑并发布，DraftDepot 可以把一篇文章一键发布到多个平台。 在学习本文章之前，请先看一下本文章之前的一篇文章 圆角矩形 如果是绘制一些简单的图形 那么 UI Composition]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[先把轮子转稳，才不会烧心：编码器速度环 PID 怎么接回 PWM - Zw-awa]]></title>
+        <id>https://www.cnblogs.com/zw-awa/p/23323135</id>
+        <link href="https://www.cnblogs.com/zw-awa/p/23323135"/>
+        <updated>2026-10-16T01:34:00.000Z</updated>
+        <summary type="html"><![CDATA[电机已经接上调速信号，速度却还在飘。每 20 毫秒算一次的闭环里，那几个数字各自盯着什么，为什么第一轮要先让微分项退场？]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux nohup 命令完全指南 - EXIORAN]]></title>
+        <id>https://www.cnblogs.com/exioran/p/23314785</id>
+        <link href="https://www.cnblogs.com/exioran/p/23314785"/>
+        <updated>2026-10-16T01:09:00.000Z</updated>
+        <summary type="html"><![CDATA[前面在 《Linux Systemd 服务注册指南》 一文中介绍了linux上如何注册Systemd 服务，但真到了临时跑个脚本的时候，systemd 反而太重了。这时候就该 nohup 出场。本文从 systemd 引申到 nohup，讲透原理、标准写法、使用场景与常见坑。 一、什么是 nohup]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI时代我们要如何玩抓包测试：Reqable + AI Agent - 狂师]]></title>
+        <id>https://www.cnblogs.com/jinjiangongzuoshi/p/23322593</id>
+        <link href="https://www.cnblogs.com/jinjiangongzuoshi/p/23322593"/>
+        <updated>2026-10-16T01:03:00.000Z</updated>
+        <summary type="html"><![CDATA[抓包，测试人的看家技能之一。 查接口传参，看返回数据，定位一个 bug 到底出在前端还是后端，全都指望它。 但你回想一下，这套流程是不是十几年没变过。Charles 或者 Fiddler 把包抓下来，肉眼翻，手动筛，看中哪条，复制成 cURL，粘到 Postman 里调试。想整理接口文档，自己一条条]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI 写代码越来越快，我们的代码能力却在悄悄退化 - codigger]]></title>
+        <id>https://www.cnblogs.com/codigger/p/23322525</id>
+        <link href="https://www.cnblogs.com/codigger/p/23322525"/>
+        <updated>2026-10-16T00:58:00.000Z</updated>
+        <summary type="html"><![CDATA[先说一个反直觉的结论：用 AI 写代码，正在让一部分人变得更弱 —— 而当事人几乎察觉不到。 这不是贩卖焦虑。2026 年初，Anthropic 研究者 Shen 与 Tamkin 发布了一项随机对照实验（arXiv:2601.20245）&#185;：52 名至少有一年 Python 经验的开发者（多为初级]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[使用wireshark抓包时，如何快速根据抓包地址判断过滤哪个接口 - FutureAI-Zeng]]></title>
+        <id>https://www.cnblogs.com/zjdxr-up/p/23317606</id>
+        <link href="https://www.cnblogs.com/zjdxr-up/p/23317606"/>
+        <updated>2026-10-16T00:15:00.000Z</updated>
+        <summary type="html"><![CDATA[搞网络排查的时候，很多人打开 Wireshark 第一步就懵了——列表里十几个接口，到底点哪个？ 其实不用猜，一个命令就能精准定位。这篇把判断思路、对应命令和输出解读一次性说清楚。 为什么会纠结选哪个接口 现在的电脑网卡越来越多：有线、WiFi、蓝牙、虚拟网卡、Docker 网桥、VPN 虚拟接口…]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[技术思考问题24：QPS冲上十万，P99爆炸也算赢？ - 李福春]]></title>
+        <id>https://www.cnblogs.com/snidget/p/23322197</id>
+        <link href="https://www.cnblogs.com/snidget/p/23322197"/>
+        <updated>2026-10-16T00:06:00.000Z</updated>
+        <summary type="html"><![CDATA[临界点与安全边际：压测如何定义可用容量 峰值QPS不等于可用容量，拐点才是。 [读者] 后端工程师、架构师、容量负责人 [痛点] 压测只报峰值QPS，上线后P99先塌 [现在读] 大促或扩容前必须给出可承诺容量 [读完] 能用SLO和阶梯压测找到拐点并留安全边际 [旧方案] 一次打满，记录最高QPS]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SaveChanges 一万行？换批量操作快 10 倍 - 码农刚子]]></title>
+        <id>https://www.cnblogs.com/shenchuanchao/p/23318168/ef-core-savechanges-10000-rows-batch-operations-10x-faster</id>
+        <link href="https://www.cnblogs.com/shenchuanchao/p/23318168/ef-core-savechanges-10000-rows-batch-operations-10x-faster"/>
+        <updated>2026-10-16T00:02:00.000Z</updated>
+        <summary type="html"><![CDATA[文章对比 EF Core 传统 SaveChanges 逐条更新与批量 API ExecuteUpdate/ExecuteDelete 的性能差异。实测一万行改状态：SQL 从 10000 条降至 1 条，耗时从 3.5 秒缩至 0.2 秒，内存增长从 80MB 降至几乎为 0，强调数据量越大差距越...]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Broken Access Control in a Study Platform’s Class Materials API When “Delete My Own Stuff” Became “D]]></title>
+        <id>https://medium.com/p/89160bd2c583</id>
+        <link href="https://medium.com/@yasser0hamoda1/broken-access-control-in-a-study-platforms-class-materials-api-when-delete-my-own-stuff-became-d-89160bd2c583?source=rss------bugbounty-5"/>
+        <updated>2026-10-15T23:42:20.000Z</updated>
+        <summary type="html"><![CDATA[Continue reading on Medium »]]></summary>
+        <author>
+            <name>Yasser Hamoda</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[调试集成系统时，常用的 URL 编解码小工具 - AlfredZhao]]></title>
+        <id>https://www.cnblogs.com/jyzhao/p/23321863</id>
+        <link href="https://www.cnblogs.com/jyzhao/p/23321863"/>
+        <updated>2026-10-15T23:09:00.000Z</updated>
+        <summary type="html"><![CDATA[调试集成系统时，笔者经常遇到一个不大不小的问题：对方给的 link 有时是编码后的，有时又是没编码的。直接看那一长串字符，很难判断它到底代表什么，排查起来也容易绕弯路。 后来同事推荐了一个在线工具，帮笔者省了不少时间。 01 | 一个够用的 URL Decoder/Encoder 这个工具叫 URL]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[As a research engineer with a background in HPC and software development, and no prior experience…]]></title>
+        <id>https://medium.com/p/4d4381f61e24</id>
+        <link href="https://osmyasal.medium.com/as-a-research-engineer-with-a-background-in-hpc-and-software-development-and-no-prior-experience-4d4381f61e24?source=rss------redteam-5"/>
+        <updated>2026-10-15T22:48:14.000Z</updated>
+        <summary type="html"><![CDATA[I started with TryHackMe because it provides a structured, beginner-friendly learning experience and guides you through the fundamentals…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>MSc. Osman Yasal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stored XSS in an Admin Alert Component via an Admin-Editable Store Name]]></title>
+        <id>https://medium.com/p/2bbc910e2fe4</id>
+        <link href="https://medium.com/@zyadatef2462003/stored-xss-in-an-admin-alert-component-via-an-admin-editable-store-name-2bbc910e2fe4?source=rss------bugbounty-5"/>
+        <updated>2026-10-15T22:47:43.000Z</updated>
+        <summary type="html"><![CDATA[TL;DR: In the admin panel of a Ruby on Rails e-commerce platform, the alert component renders its message with .html_safe — i.e. without…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Zyadatef</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LLM | 投机解码：加速原理与实验结果 - MoonOut]]></title>
+        <id>https://www.cnblogs.com/moonout/p/23321317</id>
+        <link href="https://www.cnblogs.com/moonout/p/23321317"/>
+        <updated>2026-10-15T18:15:00.000Z</updated>
+        <summary type="html"><![CDATA[背景： 我们自部署了开源大模型 GLM-5.2（FP8 版，zai-org/GLM-5.2-FP8，BF16 原版 zai-org/GLM-5.2），发现请求量上来之后，生成的速度成了瓶颈，因此希望可以通过投机解码提升模型吞吐。 GLM-5.2 自带一个 MTP 层，从而可以直接开投机解码，不用另找]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Clickjacking: When the User Clicks Without Knowing]]></title>
+        <id>https://medium.com/p/d2c4ca346d4d</id>
+        <link href="https://medium.com/@raksharoot/clickjacking-when-the-user-clicks-without-knowing-d2c4ca346d4d?source=rss------bugbounty-5"/>
+        <updated>2026-10-15T16:35:15.000Z</updated>
+        <summary type="html"><![CDATA[The art of UI redressing — from basic iframes to SVG filter tricks.
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Raksharoot</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS STS AssumeRole Explained: How Temporary Credentials Work and What Security Researchers Should…]]></title>
+        <id>https://medium.com/p/4b99a49b243f</id>
+        <link href="https://medium.com/@paraskhorwal9/aws-sts-assumerole-explained-how-temporary-credentials-work-and-what-security-researchers-should-4b99a49b243f?source=rss------bugbounty-5"/>
+        <updated>2026-10-15T16:08:55.000Z</updated>
+        <summary type="html"><![CDATA[Learn how AWS Security Token Service issues temporary credentials, how AssumeRole works, how role chaining and session policies affect…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Paraskhorwal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[第三章：Details 剩余数据补读 ⭐教你读懂 Nsight Compute 报告 系列合集⭐ - _nibel]]></title>
+        <id>https://www.cnblogs.com/nibel/p/23320316</id>
+        <link href="https://www.cnblogs.com/nibel/p/23320316"/>
+        <updated>2026-10-15T15:35:00.000Z</updated>
+        <summary type="html"><![CDATA[第三章：Details 剩余数据补读 第二章从 Details 页里挑出了三个重点 section，这一章沿着 Details 页往下走，把剩下的 11 个 section 按页面顺序补齐，依次是 PM Sampling、Compute Workload Analysis、Scheduler Sta]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Your AI Coding Assistant Just Became a Hacker. Here’s the Proof.]]></title>
+        <id>https://medium.com/p/acf5dd496cd8</id>
+        <link href="https://medium.com/@CyberSunil/your-ai-coding-assistant-just-became-a-hacker-heres-the-proof-acf5dd496cd8?source=rss------bugbounty-5"/>
+        <updated>2026-10-15T15:06:32.000Z</updated>
+        <summary type="html"><![CDATA[I found a critical vulnerability in ChatGPT’s GitHub connector. I reported it. They called it out of scope. So I am publishing the proof…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Sunil</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bypass the Bypass (XSS)]]></title>
+        <id>https://medium.com/p/53c8d55a8fa8</id>
+        <link href="https://medium.com/@belalmohamed3690/bypass-the-bypass-xss-53c8d55a8fa8?source=rss------bugbounty-5"/>
+        <updated>2026-10-15T14:41:10.000Z</updated>
+        <summary type="html"><![CDATA[Without wasting your time — I found a Bypass for an XSS in a VDP program, reported it, and when its fixed i Bypassed it again.
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>belo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PortSwigger Web Security Academy Access Control Expert Labs Detailed Solution Series]]></title>
+        <id>https://medium.com/p/d5fbbbd7bdbb</id>
+        <link href="https://medium.com/@furkannyildiizz05/portswigger-web-security-academy-access-control-expert-labs-detailed-solution-series-d5fbbbd7bdbb?source=rss------bugbounty-5"/>
+        <updated>2026-10-15T14:31:33.000Z</updated>
+        <summary type="html"><![CDATA[🇹🇷 Türkçe okumak için tıklayın:
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Furkannyildiizz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PortSwigger Web Security Academy Erisim Kontrolu Uzman Lablari Detayli Cozum Serisi]]></title>
+        <id>https://medium.com/p/cb967a8d4fc9</id>
+        <link href="https://medium.com/@furkannyildiizz05/portswigger-web-security-academy-erisim-kontrolu-uzman-lablari-detayli-cozum-serisi-cb967a8d4fc9?source=rss------bugbounty-5"/>
+        <updated>2026-10-15T14:27:30.000Z</updated>
+        <summary type="html"><![CDATA[🇬🇧 Read this article in English:
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Furkannyildiizz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在 .NET 中优雅地合并并发请求（v2） - 黑洞视界]]></title>
+        <id>https://www.cnblogs.com/eventhorizon/p/23320338</id>
+        <link href="https://www.cnblogs.com/eventhorizon/p/23320338"/>
+        <updated>2026-10-15T14:27:00.000Z</updated>
+        <summary type="html"><![CDATA[目录前言简介请求如何合并：机会式合并安装与 DI 注册适用场景不适用场景API 概览无返回值 API带返回值 API无返回值批处理带返回值批处理显式批量提交单次提交与显式批量提交请求处理流程调度流程配置Partition 数量与并发数用利特尔法则（Little’s Law）估算 MaxConcurr]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[15 Programs That Actually Pay Fast (And How to Find More Like Them)]]></title>
+        <id>https://medium.com/p/1072ab51fe57</id>
+        <link href="https://medium.com/@bughuntersjournal/15-programs-that-actually-pay-fast-and-how-to-find-more-like-them-1072ab51fe57?source=rss------bugbounty-5"/>
+        <updated>2026-10-15T14:10:11.000Z</updated>
+        <summary type="html"><![CDATA[Not fast replies — fast money. 15 real bug bounty programs, ranked by how long hunters actually wait to get paid. 💸
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>BugHunter’s Journal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[李超树学习笔记 - Emumumu]]></title>
+        <id>https://www.cnblogs.com/MadeByEmu/p/23309072</id>
+        <link href="https://www.cnblogs.com/MadeByEmu/p/23309072"/>
+        <updated>2026-10-15T13:55:00.000Z</updated>
+        <summary type="html"><![CDATA[引言 哇，好怀念呀~两周前才写了斜率优化的笔记，现在就可以爆切李超树了（笑）上次斜率优化的笔记总感觉没写好，我将磕头道歉并会努力将这次的笔记写得更加简单易懂！ 虽说是引言吧，但是也要写一点有用的东西的！（确信）是不是斜率优化有一个小小的缺点，就是当 \(k\) 和 \(b\) 的单调性都不确定的时候]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bypassing AMSI & ETW: Building a Custom PowerShell Runspace in C#]]></title>
+        <id>https://medium.com/p/75b61c829b03</id>
+        <link href="https://medium.com/@0xby7e_me/bypassing-amsi-etw-building-a-custom-powershell-runspace-in-c-75b61c829b03?source=rss------redteam-5"/>
+        <updated>2026-10-15T11:52:57.000Z</updated>
+        <summary type="html"><![CDATA[Continue reading on Medium »]]></summary>
+        <author>
+            <name>0xby7eMe</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Agent 不能只记录调用了什么，还要记录为什么调用 | KDC 系列 03 - vivo互联网技术]]></title>
         <id>https://www.cnblogs.com/vivotech/p/23311559</id>
