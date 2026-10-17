@@ -2,10 +2,304 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cod3crash.github.io/sec-feed/index.html</id>
     <title>security feed</title>
-    <updated>2026-10-16T04:10:57.203Z</updated>
+    <updated>2026-10-17T04:01:15.991Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://cod3crash.github.io/sec-feed/index.html"/>
     <link rel="self" href="https://cod3crash.github.io/sec-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[js中every和some的详细介绍 - 南风晚来晚相识]]></title>
+        <id>https://www.cnblogs.com/IwishIcould/p/21466790</id>
+        <link href="https://www.cnblogs.com/IwishIcould/p/21466790"/>
+        <updated>2026-10-17T03:40:00.000Z</updated>
+        <summary type="html"><![CDATA[every 的介绍(ES6) Array.every() 数组中的所有元素都符合要求，就会返回true，否则返回false。 Array.every(callbackFn(element,index，array){ return 条件判断}) 注意：如果数组为空，返回 true（空数组满足所有条件，]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Orion (HackSmarter)]]></title>
+        <id>https://medium.com/p/3dc1b195ca26</id>
+        <link href="https://medium.com/@daniel.josiah.lewis/orion-hacksmarter-3dc1b195ca26?source=rss------redteam-5"/>
+        <updated>2026-10-17T02:04:19.000Z</updated>
+        <summary type="html"><![CDATA[Overview
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Daniel Lewis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WorkBuddy白送500积分，大家快来领 - 程序员晓凡]]></title>
+        <id>https://www.cnblogs.com/xiezhr/p/23336924</id>
+        <link href="https://www.cnblogs.com/xiezhr/p/23336924"/>
+        <updated>2026-10-17T00:33:00.000Z</updated>
+        <summary type="html"><![CDATA[大家好,我是晓凡 。 就在10月15早上8点左右，DeepSeek崩了。 DeepSeek 网页和App都显示“服务器暂时不可用”大概持续了5小时左右。 一开始我以为是我自己网络问题，一搜原来大家都一样。 然后DeepSeek 崩了就冲上了热搜，今天各种补偿政策就出来了。 下面是DeepSeek官方]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[My Complete Hunting Methodology: From First Recon to First Bounty]]></title>
+        <id>https://medium.com/p/eb5a3c5bb6e8</id>
+        <link href="https://osintteam.blog/my-complete-hunting-methodology-from-first-recon-to-first-bounty-eb5a3c5bb6e8?source=rss------bugbounty-5"/>
+        <updated>2026-10-16T23:19:11.000Z</updated>
+        <summary type="html"><![CDATA[A complete, no-fluff walkthrough of how to actually hunt for vulnerabilities written so a beginner can follow every step, and still packed…
+Continue reading on OSINT Team »]]></summary>
+        <author>
+            <name>Monika</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Smart Contract Vulnerabilities —Reentrancy Attack — Part III]]></title>
+        <id>https://medium.com/p/c14bf4c98417</id>
+        <link href="https://osintteam.blog/smart-contract-vulnerabilities-reentrancy-attack-part-iii-c14bf4c98417?source=rss------bugbounty-5"/>
+        <updated>2026-10-16T23:18:55.000Z</updated>
+        <summary type="html"><![CDATA[In the previous articles, we discussed integer overflow and access control bugs in smart contracts and tried to correlate it with…
+Continue reading on OSINT Team »]]></summary>
+        <author>
+            <name>Rahul Singh Chauhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[$1,000 in bug bounties.]]></title>
+        <id>https://medium.com/p/5b9c7929cefd</id>
+        <link href="https://medium.com/@Muhammad_Wageh/1-000-in-bug-bounties-5b9c7929cefd?source=rss------bugbounty-5"/>
+        <updated>2026-10-16T20:54:17.000Z</updated>
+        <summary type="html"><![CDATA[One year ago, I was working as a barista in a cafe for 9 hours a day, 270 hours a month, for 4,000 pounds. It’s like $80 a month, but…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Muhammad Wageh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux Fileless Execution Without the /proc Artifact (Part2)]]></title>
+        <id>https://medium.com/p/454a058f5c18</id>
+        <link href="https://medium.com/@q3alique/linux-fileless-execution-without-the-proc-artifact-part2-454a058f5c18?source=rss------redteam-5"/>
+        <updated>2026-10-16T19:14:25.000Z</updated>
+        <summary type="html"><![CDATA[The common fileless execution approach leaves a path in /proc. One flag removes it. Most detection rules stop at the path.
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Qalique</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IDOR + RBAC Vulnerability: Finding the Attack Scenario That Earned Me $100]]></title>
+        <id>https://medium.com/p/b4bcb20c3223</id>
+        <link href="https://medium.com/@Muhammad_Wageh/idor-rbac-vulnerability-finding-the-attack-scenario-that-earned-me-100-b4bcb20c3223?source=rss------bugbounty-5"/>
+        <updated>2026-10-16T17:02:52.000Z</updated>
+        <summary type="html"><![CDATA[It’s been a long day since I wrote my last bug! I’m busy these days! Alright, so let’s get started.
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Muhammad Wageh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Just Learned a Term That Changed How I Think About Every Report I Submit.]]></title>
+        <id>https://medium.com/p/f465971c6400</id>
+        <link href="https://medium.com/@riyalimba/i-just-learned-a-term-that-changed-how-i-think-about-every-report-i-submit-f465971c6400?source=rss------bugbounty-5"/>
+        <updated>2026-10-16T16:31:35.000Z</updated>
+        <summary type="html"><![CDATA[HackerOne calls it “exposure debt.” It grew 131% in two years. And I’ve been contributing to it without knowing.
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Riya Limba</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How a 56KB PNG Brought Down a Library with Millions of Downloads (CVE-2026–109398)]]></title>
+        <id>https://medium.com/p/b7826d4f38a0</id>
+        <link href="https://medium.com/@shaikikram2005/how-a-56kb-png-brought-down-a-library-with-millions-of-downloads-cve-2026-109398-b7826d4f38a0?source=rss------bugbounty-5"/>
+        <updated>2026-10-16T16:24:54.000Z</updated>
+        <summary type="html"><![CDATA[By Ikram (@Ikram-4)
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Shaikikram</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Exposed MCP Server: From Recon to OAuth Security Flaws]]></title>
+        <id>https://medium.com/p/8c40084e0e6d</id>
+        <link href="https://scriptjacker.medium.com/exposed-mcp-server-from-recon-to-oauth-security-flaws-8c40084e0e6d?source=rss------bugbounty-5"/>
+        <updated>2026-10-16T16:20:05.000Z</updated>
+        <summary type="html"><![CDATA[Hey Hackers, I am Parth Narula. A penetration tester, bug hunter, red teamer and overall a security researcher. I live for those moments…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Parth Narula</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[File Inclusion Explained | Find LFI & RFI Bugs in Bug Bounty]]></title>
+        <id>https://medium.com/p/705466c5b97e</id>
+        <link href="https://medium.com/@pentesterclubpvtltd/file-inclusion-explained-find-lfi-rfi-bugs-in-bug-bounty-705466c5b97e?source=rss------bugbounty-5"/>
+        <updated>2026-10-16T15:37:20.000Z</updated>
+        <summary type="html"><![CDATA[🔥 One File Parameter Could Expose an Entire Application
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Pentester Club</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Active Directory Security: Understanding Kerberos Attacks]]></title>
+        <id>https://medium.com/p/b5a9904e018d</id>
+        <link href="https://medium.com/@raissiamir797/active-directory-security-understanding-kerberos-attacks-b5a9904e018d?source=rss------redteam-5"/>
+        <updated>2026-10-16T15:32:06.000Z</updated>
+        <summary type="html"><![CDATA[In this section, we will explore some of the most well-known Kerberos attacks in Active Directory, including AS-REP Roasting…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>default</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[mobile-mcp 설치 가이드]]></title>
+        <id>https://medium.com/p/191a1855e3d5</id>
+        <link href="https://medium.com/@2jw2534/mobile-mcp-%EC%84%A4%EC%B9%98-%EA%B0%80%EC%9D%B4%EB%93%9C-191a1855e3d5?source=rss------bugbounty-5"/>
+        <updated>2026-10-16T13:17:10.000Z</updated>
+        <summary type="html"><![CDATA[Claude Code편
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>roronoa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JEB MCP 설치 가이드]]></title>
+        <id>https://medium.com/p/64e9aeb96bb2</id>
+        <link href="https://medium.com/@2jw2534/jeb-mcp-%EC%84%A4%EC%B9%98-%EA%B0%80%EC%9D%B4%EB%93%9C-64e9aeb96bb2?source=rss------bugbounty-5"/>
+        <updated>2026-10-16T13:00:23.000Z</updated>
+        <summary type="html"><![CDATA[Claude Code 편
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>roronoa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AdStrike Tutorial: How AI Is Changing Active Directory Security Testing | by Samadhan Shimple]]></title>
+        <id>https://medium.com/p/178fa5084f6f</id>
+        <link href="https://generativeai.pub/adstrike-tutorial-how-ai-is-changing-active-directory-security-testing-by-samadhan-shimple-178fa5084f6f?source=rss------redteam-5"/>
+        <updated>2026-10-16T12:28:09.000Z</updated>
+        <summary type="html"><![CDATA[Active Directory is one of the most important components of many enterprise environments. It manages user identities, computers…
+Continue reading on Generative AI »]]></summary>
+        <author>
+            <name>Samadhan shimple</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[笛卡尔树 - lvwangshu]]></title>
+        <id>https://www.cnblogs.com/lvwangshuOI/p/23332222</id>
+        <link href="https://www.cnblogs.com/lvwangshuOI/p/23332222"/>
+        <updated>2026-10-16T11:18:00.000Z</updated>
+        <summary type="html"><![CDATA[笛卡尔树 本质 笛卡尔树，就是一棵&quot;递归地用最小值去划分区间&quot;的二叉树。 给定一个序列，不断做这样一件事： 找到整个序列的最小值，把它当作根； 最小值左边的那段子序列，递归建成左子树； 最小值右边的那段子序列，递归建成右子树。 这样得到的树，就是笛卡尔树。它把&quot;区间最小值&quot;这种信息，用树的结构显式地]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【南大软件分析-学习笔记】Lecture 6-Data Flow Analysis-Foundation（下） - 乙烯酷]]></title>
+        <id>https://www.cnblogs.com/yixiku/p/23332053</id>
+        <link href="https://www.cnblogs.com/yixiku/p/23332053"/>
+        <updated>2026-10-16T11:06:00.000Z</updated>
+        <summary type="html"><![CDATA[5. Relate Iterative Algorithm to Fixed-Point Theorem 5.1 Relatation 在上节课我们证明了不动点理论，但是还遗留了三个最开始提出的问题没有解决： 这个算法一定能终止吗，也就是说它一定有不动点、有解吗？ 如果一定有不动点的话，那么它会只有]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI 越强，被它拒绝的代价就越大 - leikooo]]></title>
+        <id>https://www.cnblogs.com/leikooo/p/23331970</id>
+        <link href="https://www.cnblogs.com/leikooo/p/23331970"/>
+        <updated>2026-10-16T11:01:00.000Z</updated>
+        <summary type="html"><![CDATA[我有时候会想：AI 越来越厉害之后，有些事情，会不会反而越来越难做？ 这个想法看起来有点矛盾。AI 明明在降低门槛，让不会写代码的人做出软件，让不会画画的人生成图片，让一个人完成过去需要整支团队才能完成的工作。但今天用 Codex 的时候，AI 拒绝帮我编写 SQL 注入的请求体，而那还是我有源码、]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[wujie 微前端踩坑实录：一个子应用的 7 个生产事故现场 - 中文还在写码]]></title>
+        <id>https://www.cnblogs.com/ChineseLiao/p/23330749</id>
+        <link href="https://www.cnblogs.com/ChineseLiao/p/23330749"/>
+        <updated>2026-10-16T09:23:00.000Z</updated>
+        <summary type="html"><![CDATA[wujie 微前端踩坑实录：一个子应用的 7 个生产事故现场 token 有三种来源，window 有两个归属，同一段代码要跑三种形态——以及它带来的 7 个坑。 背景：一个「三栖」子应用 我们维护的一个企业级管理端系统，技术栈 Vue 3 + Vite + TypeScript。它不是一个普通 S]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[装了这么多年 .NET，微软终于把 rustup 那套搬过来了 - 张善友]]></title>
+        <id>https://www.cnblogs.com/shanyou/p/23330221/introducing-dotnetup</id>
+        <link href="https://www.cnblogs.com/shanyou/p/23330221/introducing-dotnetup"/>
+        <updated>2026-10-16T08:57:00.000Z</updated>
+        <summary type="html"><![CDATA[从路线图看（Windows 系统级安装支持、CI/CD 原生集成、甚至给 AI 编程助手准备的 agent skills），微软是希望它最终成为安装 .NET 的唯一官方推荐方式。如果真能做到，以后新人入职的文档可以删掉一整页了。]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[好题合集 2026.10 - a_stupid_OIer]]></title>
+        <id>https://www.cnblogs.com/xita/p/23181193</id>
+        <link href="https://www.cnblogs.com/xita/p/23181193"/>
+        <updated>2026-10-16T08:33:00.000Z</updated>
+        <summary type="html"><![CDATA[序 怎么十月了？ 感觉所有题都写进去没啥意思，就记一点有意思的题。 Problems P5355 [Ynoi Easy Round 2017] 由乃的玉米田 *Purple / 详见 Data Structures。 P5607 [Ynoi2013] 无力回天 NOI2017 *Purple $ 详]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[单日涨星2.5万！AI逆向工程REA到底强在哪？ - chingho]]></title>
+        <id>https://www.cnblogs.com/chingho/p/23329759</id>
+        <link href="https://www.cnblogs.com/chingho/p/23329759"/>
+        <updated>2026-10-16T08:27:00.000Z</updated>
+        <summary type="html"><![CDATA[过去几天，GitHub 上有一个项目几乎是以&quot;恐怖&quot;的速度在涨星：REA（Reverse Engineer Anything）。 地址：https://github.com/morluto/rea 6 天从不到 1 万星飙到 11 万+，单日峰值涨星超过 2.5 万，一度霸榜 GitHub Tren]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一款 3D 游戏全靠 AI 做出来了：完整制作流程公开了 - 梅香萦绕，佳人依偎]]></title>
+        <id>https://www.cnblogs.com/652769324qq/p/23328265</id>
+        <link href="https://www.cnblogs.com/652769324qq/p/23328265"/>
+        <updated>2026-10-16T08:19:00.000Z</updated>
+        <summary type="html"><![CDATA[一款 3D 游戏全靠 AI 做出来了：完整制作流程公开了 很多朋友都非常喜欢这个游戏。而从场景搭建、人物制作，到代码开发和调试，背后的主要制作工作，都交给了 AI 完成。 于是，作者决定把这次的制作流程公开出来，结合实际案例和可参考的提示词，手把手带大家入门 AI 3D 游戏制作，让你也能开始搭建自]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[给 REA 套一层 GUI：153 个命令的界面是怎么自动长出来的 - 又过二十]]></title>
+        <id>https://www.cnblogs.com/wyang/p/23329180</id>
+        <link href="https://www.cnblogs.com/wyang/p/23329180"/>
+        <updated>2026-10-16T08:06:00.000Z</updated>
+        <summary type="html"><![CDATA[给 REA 套一层 GUI：153 个命令的界面是怎么自动长出来的 做过一个「界面驱动」的逆向分析项目，最后卡在一个很具体的地方：一个工具要人手动配置 153 个不同的参数面板，写到手软，而且一升级就全废。 最近 REA 更新到 6.5.0，我重做了一遍，这次只写了不到 2000 行就把这事解决了。]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux 内核模块为什么不能在运行时处理兼容性问题？ - 书生执笔画浮沉]]></title>
+        <id>https://www.cnblogs.com/KBin/p/23327958</id>
+        <link href="https://www.cnblogs.com/KBin/p/23327958"/>
+        <updated>2026-10-16T08:06:00.000Z</updated>
+        <summary type="html"><![CDATA[背景 从事 Linux 内核开发的人，大概都知道从 Linux 5.7 开始，为了防止第三方模块绕过 EXPORT_SYMBOL 的限制访问内部函数， kallsyms_lookup_name() 不再被导出了。 与此同时，eBPF 也在不断发展壮大，但它目前依旧不能取代传统内核模块，例如开发硬件驱]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[千万三角面工业模型网页轻量化手动减面与AI智能减面实操 - StarTechnology]]></title>
+        <id>https://www.cnblogs.com/startechnology/p/23327684</id>
+        <link href="https://www.cnblogs.com/startechnology/p/23327684"/>
+        <updated>2026-10-16T06:30:00.000Z</updated>
+        <summary type="html"><![CDATA[千万三角面工业模型网页轻量化：手动减面与 AI 智能减面实操记录 关键词：模型减面、网格抽稀、大装配优化、GLB 一、为什么必须做轻量化 做过 Web 三维的朋友都知道，直接把 CAD 导出的原始装配塞进浏览器，结果通常是： 首次加载时间很长； 显存占用高，普通办公本风扇狂转； 鼠标旋转明显掉帧。]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[把工程流程沉淀为 Agent 资产：一套可交接的四层工作流 - 码猿手]]></title>
+        <id>https://www.cnblogs.com/huangrenhui/p/23327347</id>
+        <link href="https://www.cnblogs.com/huangrenhui/p/23327347"/>
+        <updated>2026-10-16T06:14:00.000Z</updated>
+        <summary type="html"><![CDATA[本文介绍 ai-engineering-agent——一套把软件工程全流程（需求 → PRD → 原型 → 契约 → 前后端实现 → 测试用例 → 变更日志 → 一致性核验）沉淀为文件资产的实践。 核心主张只有一句：上下文不该活在对话里，应该活在文件里。 一、起因：模型会写代码，流程却仍在靠人盯 过]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[瑞芯微rv1106进入Loader模式转储emmc数据 - 云中双月]]></title>
         <id>https://www.cnblogs.com/Johness/p/23325648</id>
