@@ -5750,6 +5750,106 @@
       "siteUrl": "https://medium.com/tag/bugbounty/latest?source=rss------bugbounty-5",
       "articles": [
         {
+          "id": "https://medium.com/p/483e24b6aa8c",
+          "author": "Raj Namdev",
+          "description": "Read-only IDORs get upvotes. Write-capable IDORs get accounts.\nContinue reading on InfoSec Write-ups »",
+          "link": "https://infosecwriteups.com/i-analyzed-12-idor-to-ato-reports-the-email-change-endpoint-wins-483e24b6aa8c?source=rss------bugbounty-5",
+          "publishedOn": "2026-10-18T03:45:39.000Z",
+          "wordCount": null,
+          "title": "I Analyzed 12 IDOR-to-ATO Reports. The Email-Change Endpoint Wins.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/626d2430f45d",
+          "author": "redhunter01",
+          "description": "How a single percent-encoded path character caused a production authentication request to bypass an edge-level anti-automation challenge…\nContinue reading on Medium »",
+          "link": "https://medium.com/@redhunter01/bypassing-an-aws-waf-challenge-through-url-encoding-an-edge-versus-origin-normalization-mismatch-626d2430f45d?source=rss------bugbounty-5",
+          "publishedOn": "2026-10-18T02:04:40.000Z",
+          "wordCount": null,
+          "title": "Bypassing an AWS WAF Challenge Through URL-Encoding: An Edge-versus-Origin Normalization Mismatch",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/9111364b7678",
+          "author": "redhunter01",
+          "description": "From a harmless-looking URL parameter to browser-confirmed JavaScript execution: a deep dive into unsafe jQuery HTML construction and…\nContinue reading on Medium »",
+          "link": "https://medium.com/@redhunter01/how-i-turned-a-language-parameter-into-dom-based-xss-across-multiple-affiliate-portals-9111364b7678?source=rss------bugbounty-5",
+          "publishedOn": "2026-10-18T00:59:36.000Z",
+          "wordCount": null,
+          "title": "How I Turned a Language Parameter Into DOM-Based XSS Across Multiple Affiliate Portals",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/9408c10f83d2",
+          "author": "seif nasr",
+          "description": "During a web application security assessment, I was testing a team management system with different roles and permission levels.\nContinue reading on Medium »",
+          "link": "https://cyghost.medium.com/one-pending-invitation-was-enough-to-restore-revoked-admin-privileges-9408c10f83d2?source=rss------bugbounty-5",
+          "publishedOn": "2026-10-17T23:59:40.000Z",
+          "wordCount": null,
+          "title": "One Pending Invitation Was Enough to Restore Revoked Admin Privileges",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/1b7c3cce9165",
+          "author": "Akarsh_¢haturvedi",
+          "description": "1.1 The Security Question\nContinue reading on Medium »",
+          "link": "https://medium.com/@Akarsh_Chaturvedi/inside-a-bug-bounty-investigation-from-reconnaissance-to-a-reproducible-security-finding-1b7c3cce9165?source=rss------bugbounty-5",
+          "publishedOn": "2026-10-17T19:25:41.000Z",
+          "wordCount": null,
+          "title": "Inside a Bug Bounty Investigation : From Reconnaissance to a Reproducible Security Finding",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/e5694396b03d",
+          "author": "Asad Mohsin",
+          "description": "1. Introduction\nContinue reading on Medium »",
+          "link": "https://medium.com/@asadmohsin760/can-your-phone-spy-on-you-even-when-you-are-not-using-it-a-cybersecurity-case-study-e5694396b03d?source=rss------bugbounty-5",
+          "publishedOn": "2026-10-17T19:20:39.000Z",
+          "wordCount": null,
+          "title": "Can Your Phone Spy on You Even When You Are Not Using It? A Cybersecurity Case Study",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/71e2688c7580",
+          "author": "Mdripon",
+          "description": "Web Reconnaissance and Enumeration: A Practical Guide to Mapping the Attack Surface Before Penetration Testing\nContinue reading on Medium »",
+          "link": "https://medium.com/@mdripon667702/web-reconnaissance-enumeration-a-practical-guide-for-penetration-testers-71e2688c7580?source=rss------bugbounty-5",
+          "publishedOn": "2026-10-17T18:27:21.000Z",
+          "wordCount": null,
+          "title": "Web Reconnaissance & Enumeration: A Practical Guide for Penetration Testers",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/04c5b66a1577",
+          "author": "BENSEC",
+          "description": "What if a single Cross-Site Scripting (XSS) vulnerability could expose much more than a pop-up message?\nContinue reading on Medium »",
+          "link": "https://medium.com/@bensec/toxssin-exploring-xss-exploitation-with-an-open-source-security-tool-04c5b66a1577?source=rss------bugbounty-5",
+          "publishedOn": "2026-10-17T18:21:51.000Z",
+          "wordCount": null,
+          "title": "Toxssin: Exploring XSS Exploitation with an Open-Source Security Tool",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/597b47534586",
+          "author": "Raksharoot",
+          "description": "AngularJS, Vue, and the frontend frameworks that trust the wrong string.\nContinue reading on Medium »",
+          "link": "https://medium.com/@raksharoot/client-side-template-injection-when-the-browser-executes-your-input-597b47534586?source=rss------bugbounty-5",
+          "publishedOn": "2026-10-17T17:06:28.000Z",
+          "wordCount": null,
+          "title": "Client-Side Template Injection: When the Browser Executes Your Input",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/1da7eff8a639",
+          "author": "Riya Limba",
+          "description": "HackerOne calls it “exposure debt.” It grew 131% while fix times got 54% faster. The math doesn’t work the way I thought it did.\nContinue reading on Medium »",
+          "link": "https://medium.com/@riyalimba/i-just-found-out-what-happens-to-the-bugs-i-report-it-changed-how-i-hunt-1da7eff8a639?source=rss------bugbounty-5",
+          "publishedOn": "2026-10-17T12:44:58.000Z",
+          "wordCount": null,
+          "title": "I Just Found Out What Happens to the Bugs I Report. It Changed How I Hunt.",
+          "imageUrl": null
+        },
+        {
           "id": "https://medium.com/p/eb5a3c5bb6e8",
           "author": "Monika",
           "description": "A complete, no-fluff walkthrough of how to actually hunt for vulnerabilities written so a beginner can follow every step, and still packed…\nContinue reading on OSINT Team »",
@@ -16607,6 +16707,36 @@
       "siteUrl": "https://medium.com/tag/redteam/latest?source=rss------redteam-5",
       "articles": [
         {
+          "id": "https://medium.com/p/d22ebf466ef0",
+          "author": "TheAbdullah",
+          "description": "Scenario\nContinue reading on Medium »",
+          "link": "https://theabdullah.medium.com/proxy-walkthrough-d22ebf466ef0?source=rss------redteam-5",
+          "publishedOn": "2026-10-17T18:05:10.000Z",
+          "wordCount": null,
+          "title": "Proxy Walkthrough | TryHackMe",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/d87e35bcccb7",
+          "author": "Nimesh nakum",
+          "description": "1. Introduction\nContinue reading on Medium »",
+          "link": "https://medium.com/@nimeshnakum3/active-directory-under-the-hood-what-actually-happens-during-domain-authentication-d87e35bcccb7?source=rss------redteam-5",
+          "publishedOn": "2026-10-17T11:39:32.000Z",
+          "wordCount": null,
+          "title": "Active Directory Under the Hood — What Actually Happens During Domain Authentication",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/10ac2f213b5a",
+          "author": "Samadhan shimple",
+          "description": "Red teaming is one of the most misunderstood areas of cybersecurity. Many people associate it with running exploit scripts, scanning ports…\nContinue reading on MeetCyber »",
+          "link": "https://meetcyber.net/red-teaming-explained-inside-real-world-cyberattacks-and-adversary-simulation-complete-guide-10ac2f213b5a?source=rss------redteam-5",
+          "publishedOn": "2026-10-17T09:49:18.000Z",
+          "wordCount": null,
+          "title": "Red Teaming Explained: Inside Real-World Cyberattacks and Adversary Simulation (Complete Guide) |…",
+          "imageUrl": null
+        },
+        {
           "id": "https://medium.com/p/3dc1b195ca26",
           "author": "Daniel Lewis",
           "description": "Overview\nContinue reading on Medium »",
@@ -24533,6 +24663,16 @@
       "siteUrl": "https://acassis.wordpress.com",
       "articles": [
         {
+          "id": "http://acassis.wordpress.com/?p=13145",
+          "author": "acassis",
+          "description": "This is how I got everything working:",
+          "link": "https://acassis.wordpress.com/2026/10/17/testing-halow-using-the-silex-ap-150ah-route/",
+          "publishedOn": "2026-10-17T20:21:54.000Z",
+          "wordCount": 3154,
+          "title": "Testing HaLow using the silex AP-150AH route",
+          "imageUrl": "https://secure.gravatar.com/blavatar/96b4e96ab15f6d879cefa55e3b925a85c71ff4a86fee7843b2e3d794a5b1efb3?s=200&ts=1792296495"
+        },
+        {
           "id": "http://acassis.wordpress.com/?p=13136",
           "author": "acassis",
           "description": "I used Claude’s help to reverse engineer the NVMPG firmware and to create an open-source firmware replacement using NuttX RTOS. If you don’t know about NVMPG is, it is a MPG (Manual Pulse Generator: https://en.wikipedia.org/wiki/Manual_pulse_generator ) used on DigitalDream EC300, EC500 and Novusun NVUM. Then I installed Mach3 version 3.043.062 on an old Windows 10 … Continue reading Testing the NVMPG using the NuttX firmware →",
@@ -26194,6 +26334,136 @@
       "feedUrl": "https://feed.cnblogs.com/blog/sitehome/rss",
       "siteUrl": null,
       "articles": [
+        {
+          "id": "https://www.cnblogs.com/halfcode/p/23345159",
+          "author": null,
+          "description": "在学习 ArkTS 语法时，日志打印是最常用的调试方式。把一段提示或一个变量写进日志，就能确认代码有没有按预期执行。ArkTS 内置了 console 对象，其中 console.log 用来按格式化方式输出日志，无需导入即可直接调用。 动画视频在《7. console.log 日志打印，ArkTS",
+          "link": "https://www.cnblogs.com/halfcode/p/23345159",
+          "publishedOn": "2026-10-18T03:04:00.000Z",
+          "wordCount": 324,
+          "title": "7. console.log 日志打印，ArkTS 代码调试必备方法 - 老陈说编程",
+          "imageUrl": "https://img2024.cnblogs.com/blog/1919157/202610/1919157-20261018105647436-1700458267.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/zhenl/p/23344681",
+          "author": null,
+          "description": "一次真实的工程迭代：当 OCR 已经能准确认字，为什么输出的文字还是没法读？ 本文记录我们在博物馆展柜照片上的完整解题过程——两种互补的段落重组方案， 以及一次差点被忽略的内存事故。所有模型均在本地离线运行，代码与数据可复现。 一、问题：认得出字，读不成文 我们的场景很典型：一张照片里有多个文物，每",
+          "link": "https://www.cnblogs.com/zhenl/p/23344681",
+          "publishedOn": "2026-10-18T01:47:00.000Z",
+          "wordCount": 745,
+          "title": "OCR认字全对，读起来稀碎？—— 从\"逐行识别\"到\"成段可读\"：照片说明文字的段落级识别实践 - 寻找无名的特质",
+          "imageUrl": "https://img2024.cnblogs.com/blog/4131/202610/4131-20261018094046089-959036828.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/SilverGo/p/23342804",
+          "author": null,
+          "description": "前言 这是本人最近一个星期思考与规划的合集，包含了在学校多天的内容。 本文也可以理解为一篇周记。 聆听《勾指起誓》的同时阅读此文体验更佳～ whk 部分 背景 十月一外培回来后这是我第一次高中的月考，本次月考我考的也是很差好吧。 年级排名 rk 270，班级排名 rk 37. 综合来看，原因是我开学",
+          "link": "https://www.cnblogs.com/SilverGo/p/23342804",
+          "publishedOn": "2026-10-17T17:13:00.000Z",
+          "wordCount": 424,
+          "title": "26-10-18周记 - Ghost-Face",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/hugogoos/p/23341432",
+          "author": null,
+          "description": "MQTT Topic设计混乱导致项目返工频发。真实案例显示，无规范的命名引发大小写不匹配、通配符滥用、设备迁移失效等问题。核心问题在于Topic未形成统一语义骨架，身份与业务数据混杂。遵循“12条军规”：",
+          "link": "https://www.cnblogs.com/hugogoos/p/23341432",
+          "publishedOn": "2026-10-17T11:59:00.000Z",
+          "wordCount": 1007,
+          "title": "MQTT实战 - Topic设计12条军规：90%的消息混乱都源于命名错误（三） - IT规划师",
+          "imageUrl": "https://img2024.cnblogs.com/blog/386841/202610/386841-20261017193856870-584979315.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/chaogex/p/23341438",
+          "author": null,
+          "description": "本文用一个真实的论坛案例，从需求讲到部署，讲4件事：需求收敛、部署验证、3层证据验收、持续纠偏与独立复验。我们不教论坛代码怎么写，只教用户怎么指挥AI把论坛做出来。这套方法换个项目一样能用。",
+          "link": "https://www.cnblogs.com/chaogex/p/23341438",
+          "publishedOn": "2026-10-17T09:42:00.000Z",
+          "wordCount": 1075,
+          "title": "使用Vibe Coding从零开发论坛（上） - 杨元超",
+          "imageUrl": "https://img2024.cnblogs.com/blog/419321/202610/419321-20261017174412247-377129614.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/east4ming/p/23341258",
+          "author": null,
+          "description": "记录在 k3s 集群中通过 kubelet drop-in 将 memorySwap.swapBehavior 从 NoSwap 调整为  LimitedSwap，并用 Ansible 固化、逐节点",
+          "link": "https://www.cnblogs.com/east4ming/p/23341258",
+          "publishedOn": "2026-10-17T09:12:00.000Z",
+          "wordCount": 784,
+          "title": "K8s 最佳实践已更新：请使用 Node Swap！ - 东风微鸣",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/xiongdy2017/p/23341228",
+          "author": null,
+          "description": "百万数据导出 Excel 实战：从 OOM 到丝滑落地的完整演进 本文面向有 Java 基础、做过业务开发的同学。我们从“为什么 100 万行导出会 OOM”讲起，逐层递进到 SXSSF、EasyExcel、CSV、游标分页、异步导出，最后给出可直接运行的完整工程代码和面试考点。 目录 先看问题：为",
+          "link": "https://www.cnblogs.com/xiongdy2017/p/23341228",
+          "publishedOn": "2026-10-17T09:08:00.000Z",
+          "wordCount": 2753,
+          "title": "百万数据导出 Excel 实战：从 OOM 到丝滑落地的完整演进 - 北风2017",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/lvwangshuOI/p/23341047",
+          "author": null,
+          "description": "川剧复演 题解 题意 有 n 场演出、m 出剧目。每场选一出剧目，同一剧目可重复选。 合法条件：任意连续 m 场演出中，都存在某剧目出现至少两次。 换句话说，不允许出现&quot;连续 m 场两两不同&quot;。 暴力 DP 状态 把&quot;全局约束&quot;翻译成&quot;局部禁止条件&quot; 合法 ⟺ 不存在长度为 m 的连续子段两两不同。",
+          "link": "https://www.cnblogs.com/lvwangshuOI/p/23341047",
+          "publishedOn": "2026-10-17T08:44:00.000Z",
+          "wordCount": 3749,
+          "title": "川剧复演 题解 - lvwangshu",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/wang_yb/p/23340695",
+          "author": null,
+          "description": "做特征工程时很多人有一套固定动作：StandardScaler 然后 fit_transform。（也就是先标准化数据，在训练模型） 这在教科书数据集上没问题，但真实数据，比如订单金额、页面停留时长、接口耗时等，几乎天然右偏，还总混着几个离谱的值。 StandardScaler 拿均值和标准差当尺子",
+          "link": "https://www.cnblogs.com/wang_yb/p/23340695",
+          "publishedOn": "2026-10-17T07:52:00.000Z",
+          "wordCount": 765,
+          "title": "MinMax vs Standard vs Robust：三种特征缩放怎么选 - wang_yb",
+          "imageUrl": "https://img2024.cnblogs.com/blog/83005/202610/83005-20261017155138755-901926095.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/ishoulgodo/p/23320544",
+          "author": null,
+          "description": "读取A文件，然后写入到B文件中 package main import ( &quot;fmt&quot; &quot;io/ioutil&quot; ) func main() { // 读取文件 byteStr, err := ioutil.ReadFile(&quot;./testFile.txt&quot;) // 如果哦 err 不为 nil，说明",
+          "link": "https://www.cnblogs.com/ishoulgodo/p/23320544",
+          "publishedOn": "2026-10-17T07:13:00.000Z",
+          "wordCount": 578,
+          "title": "go语言复制文件和操作目录 - 何人陪我共长生",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/forges/p/23339994",
+          "author": null,
+          "description": "排序是程序员的必修课，也是检验一门新语言的最好切口。 原因很实在。一个排序算法下来，列表、循环、函数、比较运算四样东西全用上了。这四样是日常编码里出现频率最高的基础设施，排序写顺了，这门语言就算摸到门了。 前三篇我们写了 Hello World、配置体检工具、性能测试。这篇换个姿势，用算法来练手。",
+          "link": "https://www.cnblogs.com/forges/p/23339994",
+          "publishedOn": "2026-10-17T07:07:00.000Z",
+          "wordCount": 904,
+          "title": "CatBase 排序算法实战，从内置 sorted 到手写冒泡 - 努力，努力再努力",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/zw-awa/p/23339843",
+          "author": null,
+          "description": "速度环稳住之后，改目标、看曲线、调系数都顺手了，PID 就够了吗？输出限幅、积分分离、微分先行这些“手术”各自在治什么病，反馈之外又为什么还要请回一路前馈？",
+          "link": "https://www.cnblogs.com/zw-awa/p/23339843",
+          "publishedOn": "2026-10-17T06:51:00.000Z",
+          "wordCount": 923,
+          "title": "PID 用顺了，然后呢：增强手术与前馈 - Zw-awa",
+          "imageUrl": "https://img2024.cnblogs.com/blog/3791643/202610/3791643-20261017142526693-1670015522.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/Johny-zhao/p/23338508",
+          "author": null,
+          "description": "⚠️ 法律与伦理声明：本文所述技术仅适用于您拥有或获得明确书面授权的系统，包括个人实验环境、CTF 比赛、TryHackMe/HackTheBox 等合法靶场。未经授权对他人系统进行密码破解属于违法行为。 一、Kali 自带字典资源：/usr/share/wordlists/ 1.1 目录结构与核心",
+          "link": "https://www.cnblogs.com/Johny-zhao/p/23338508",
+          "publishedOn": "2026-10-17T03:40:00.000Z",
+          "wordCount": 1171,
+          "title": "Kali Linux 密码破解实战：从字典生成到 GPU 暴力破解全流程 - Johny_Zhao",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
         {
           "id": "https://www.cnblogs.com/IwishIcould/p/21466790",
           "author": null,
