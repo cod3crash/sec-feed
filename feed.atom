@@ -2,10 +2,394 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cod3crash.github.io/sec-feed/index.html</id>
     <title>security feed</title>
-    <updated>2026-10-21T04:21:17.512Z</updated>
+    <updated>2026-10-22T04:20:08.170Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://cod3crash.github.io/sec-feed/index.html"/>
     <link rel="self" href="https://cod3crash.github.io/sec-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[免费帮忙看 .NET / Windows Dump（无偿、非商业） - China-Mr-zhong]]></title>
+        <id>https://www.cnblogs.com/China-Mr-zhong/p/23398587</id>
+        <link href="https://www.cnblogs.com/China-Mr-zhong/p/23398587"/>
+        <updated>2026-10-22T03:48:00.000Z</updated>
+        <summary type="html"><![CDATA[免费帮忙看 .NET / Windows Dump（无偿、非商业） 最近在做 CrashSentry：一套用来辅助分析 .NET / Windows 内存转储（.dmp / MDMP，以及部分 Linux core）的工具。 有精力的话，我可以无偿帮看 dump，给一份可读的结论方向（卡死、内存暴涨]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI 拆 PRD 不是甩手掌柜：三段 Prompt 链把任务树拆到能直接排期 - 码哥字节]]></title>
+        <id>https://www.cnblogs.com/uniqueDong/p/23398577</id>
+        <link href="https://www.cnblogs.com/uniqueDong/p/23398577"/>
+        <updated>2026-10-22T03:47:00.000Z</updated>
+        <summary type="html"><![CDATA[需求评审通过了，下周一要开 Sprint Planning。我把一份 8 页 PRD 扔给 Claude 让它「帮我拆成 Jira 任务」。五分钟后回来：38 张卡，标题整齐，估点整齐，看上去挺像样。我随手点开一条「实现登录功能」——估点 5，依赖「无」。再点开「支付网关对接」——估点 8，依赖「无]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PHP2Shell: 2 critical flaws rated 9.2 put the 75% of websites running PHP at risk]]></title>
+        <id>https://medium.com/p/a2192f1968bc</id>
+        <link href="https://nitingavhane.medium.com/php2shell-2-critical-flaws-rated-9-2-put-the-75-of-websites-running-php-at-risk-a2192f1968bc?source=rss------bugbounty-5"/>
+        <updated>2026-10-22T03:31:01.000Z</updated>
+        <summary type="html"><![CDATA[Hi everyone, I am Nitin Gavhane and in this blog I will explain what PHP2Shell is, why the PHP team warned everyone a day before shipping…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Nitin Gavhane</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何使用RDS Supabase后端BaaS能力：数据库函数（Database Function） - 华为云开发者联盟]]></title>
+        <id>https://www.cnblogs.com/huaweiyun/p/23398033</id>
+        <link href="https://www.cnblogs.com/huaweiyun/p/23398033"/>
+        <updated>2026-10-22T03:19:00.000Z</updated>
+        <summary type="html"><![CDATA[上一篇介绍了 Database Data API——建表即自动生成增删改查接口，解决单表读写，但聚合统计、跨表事务、字段自动维护等逻辑已超出其能力边界。本篇推进到数据库函数（Database Function）：把业务逻辑封装进数据库，前端通过 .rpc() 调用，由触发器自动响应数据变更。 上一篇]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[abp学习笔记 - 工作单元(UOW)基础 - 叫我安不理]]></title>
+        <id>https://www.cnblogs.com/lmy5215006/p/23388101</id>
+        <link href="https://www.cnblogs.com/lmy5215006/p/23388101"/>
+        <updated>2026-10-22T03:02:00.000Z</updated>
+        <summary type="html"><![CDATA[简介 最近在梳理项目系统架构，发现团队虽然使用了abp，但实际还是三层架构那套思想，尤其是对于dbcontext的滥用，加上对UOW(unit of work)的不了解，导致了很多奇葩写法。 而我也对ABP一知半解，导致codereview并没有发现异常。故此来系统化的学习并分享自己的踩坑经验。 工]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Found a Password Reset Token Flaw in My Bug Bounty Testing , But My Report Was Marked as a…]]></title>
+        <id>https://medium.com/p/f730ab709b12</id>
+        <link href="https://samadhanshimple.medium.com/i-found-a-password-reset-token-flaw-in-my-bug-bounty-testing-but-my-report-was-marked-as-a-f730ab709b12?source=rss------bugbounty-5"/>
+        <updated>2026-10-22T03:01:04.000Z</updated>
+        <summary type="html"><![CDATA[Continue reading on Medium »]]></summary>
+        <author>
+            <name>Samadhan shimple</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MySQL 被高并发打爆？从定位到分库分表逐层拆解（含秒杀库存实战） - Rain的Java大神实战圈]]></title>
+        <id>https://www.cnblogs.com/zrui-xyu/p/23397586</id>
+        <link href="https://www.cnblogs.com/zrui-xyu/p/23397586"/>
+        <updated>2026-10-22T02:49:00.000Z</updated>
+        <summary type="html"><![CDATA[大促MySQL高并发故障复盘：QPS突增引发CPU打满、接口超时。从瓶颈定位、SQL索引优化、锁事务治理讲起，覆盖读写分离、缓存方案，基于ShardingSphere实现分库分表，附带Redis Lua+MQ库存分桶秒杀实战，附可复用脚本与避坑经验，文末附选型思考，欢迎一起交流分库分表与冷归档落地思...]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[⚡ Winning the Race: The Single-Packet Attack on Web Race Conditions]]></title>
+        <id>https://medium.com/p/e04e8fc1dc62</id>
+        <link href="https://xalgord.medium.com/winning-the-race-the-single-packet-attack-on-web-race-conditions-e04e8fc1dc62?source=rss------bugbounty-5"/>
+        <updated>2026-10-22T02:48:01.000Z</updated>
+        <summary type="html"><![CDATA[Why “it worked once” is the only proof that matters — and how to make a race condition happen on command with a single TCP packet.
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Krishna Kumar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[两步路通过Map Kit路线信号预测，打造户外探索信号全域无忧体验 - HarmonyOS_SDK]]></title>
+        <id>https://www.cnblogs.com/HarmonyOSSDK/p/23397448</id>
+        <link href="https://www.cnblogs.com/HarmonyOSSDK/p/23397448"/>
+        <updated>2026-10-22T02:39:00.000Z</updated>
+        <summary type="html"><![CDATA[在户外探险中，信号盲区往往是潜在的安全隐患。如何提前预知路线上的通信覆盖情况，成为保障用户安全的关键。两步路与HarmonyOS SDK深度合作，率先集成Map Kit全新能力，实现对路径信号强度的智能预测。这一创新技术将如何改变户外出行体验？ 一场关于“可见信号”的安全变革，正在悄然发生。 痛点先]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PHP2Shell：AI 两天挖出 9.2 分漏洞，让全球 70% 网站连夜打补丁 - 小白跃升坊]]></title>
+        <id>https://www.cnblogs.com/xiaobaiysf/p/23397061</id>
+        <link href="https://www.cnblogs.com/xiaobaiysf/p/23397061"/>
+        <updated>2026-10-22T02:24:00.000Z</updated>
+        <summary type="html"><![CDATA[AI 两天挖出 PHP 二十多年老洞，CVSS 9.2，影响 69.3% 的网站；1Panel 已发布 PHP 安全升级说明。一句话概括：2026 年 10 月 21 日，PHP 官方深夜发布紧急安全更新，修复两个 CVSS v4.0 评分 9.2 的远程代码执行漏洞——它们不是人挖出来的，是 AI...]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[域名埋点零侵入实时校验实践：基于代理转发与规则驱动的工具设计 - vivo互联网技术]]></title>
+        <id>https://www.cnblogs.com/vivotech/p/23397024</id>
+        <link href="https://www.cnblogs.com/vivotech/p/23397024"/>
+        <updated>2026-10-22T02:23:00.000Z</updated>
+        <summary type="html"><![CDATA[埋点是数据驱动的基础，但大量无配套后台的域名埋点只能靠抓包加肉眼比对测试，自建后台侵入性强。本文介绍 Flyheart Monitor，一套零侵入的域名埋点实时校验工具：在请求必经之路拦截数据校验，不绑定抓包代理，用规则代替人工校验，并将结果沉淀为可归档图片。]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Six Open-Source Bug Bounties Went Dark in 2026. It Wasn’t the Money.]]></title>
+        <id>https://medium.com/p/f944098238a2</id>
+        <link href="https://rajnamdev.medium.com/six-open-source-bug-bounties-went-dark-in-2026-it-wasnt-the-money-f944098238a2?source=rss------bugbounty-5"/>
+        <updated>2026-10-22T02:01:07.000Z</updated>
+        <summary type="html"><![CDATA[Discovery got industrialized. Remediation didn’t.
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Raj Namdev</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[No Click, No Login: A Reflected DOM XSS in a Documentation Search Box]]></title>
+        <id>https://medium.com/p/c4471365af49</id>
+        <link href="https://medium.com/@0xforgetmenot/no-click-no-login-a-reflected-dom-xss-in-a-documentation-search-box-c4471365af49?source=rss------bugbounty-5"/>
+        <updated>2026-10-22T01:55:50.000Z</updated>
+        <summary type="html"><![CDATA[“A static docs site, a search-index tokeniser and one obscure DOM event turned a single link into arbitrary JavaScript in the target’s own…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>ForgetMeNot</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为什么越来越多人用Eino？ - 苏三说技术]]></title>
+        <id>https://www.cnblogs.com/12lisu/p/23396247</id>
+        <link href="https://www.cnblogs.com/12lisu/p/23396247"/>
+        <updated>2026-10-22T01:47:00.000Z</updated>
+        <summary type="html"><![CDATA[前言 前阵子技术群里有小伙伴反馈说，他们准备把AI能力接进现有的Go微服务里。 技术负责人跟说了一个很实际的困扰：“我们后端全是Go写的，但大模型生态里全是Python的框架。 LangChain、LlamaIndex，看着都挺好，但我们的服务没法直接跑Python。硬要接，就得在Go服务旁边再起一]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WPF 中常用的 LINQ 语句 - nap117]]></title>
+        <id>https://www.cnblogs.com/nap117/p/23396212</id>
+        <link href="https://www.cnblogs.com/nap117/p/23396212"/>
+        <updated>2026-10-22T01:45:00.000Z</updated>
+        <summary type="html"><![CDATA[WPF 中常用的 LINQ 语句 在 WPF 开发中，LINQ（Language Integrated Query）主要用于处理集合数据、实现动态过滤、排序，以及将非标准数据源（如 XML 或数据库查询结果）转换为 UI 可绑定的格式。本文汇总常用 LINQ 语句的含义对照表，并给出在 WPF /]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[技术思考问题39：技术债未清为何绕路更多？ - 李福春]]></title>
+        <id>https://www.cnblogs.com/snidget/p/23395740</id>
+        <link href="https://www.cnblogs.com/snidget/p/23395740"/>
+        <updated>2026-10-22T01:22:00.000Z</updated>
+        <summary type="html"><![CDATA[技术债先还代码，还是先拆团队的绕行小路？ 重写救不了你，救你的是先关掉那些已被默认的旁路。 [读者] 正在还技术债的后端与架构同学 [痛点] 核心模块重写完，临时脚本一条没少 [现在读] 旁路正在偷偷定义你的新系统 [读完] 能盘出旁路清单，并给每条定退出标准 [旧方案] 排期重写核心模块 | v]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[太棒了！推荐一款用真实流量自动生成 API 测试和模拟数据，不用改代码 - 狂师]]></title>
+        <id>https://www.cnblogs.com/jinjiangongzuoshi/p/23395551</id>
+        <link href="https://www.cnblogs.com/jinjiangongzuoshi/p/23395551"/>
+        <updated>2026-10-22T01:10:00.000Z</updated>
+        <summary type="html"><![CDATA[最近我在 GitHub 上翻到一个项目：keploy，把 API 测试里最磨人的两个环节直接干掉了，分享给大家。 这个项目在2022 年 就建仓了，到我写稿这天，项目已经获得18.7k star。10 月 20 号刚发了 v3.6.153，patch 版本一天能出好几个，维护更新相当频繁。 这个项目]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[按键一按程序就像死机：阻塞式写法如何毁掉小车 - Zw-awa]]></title>
+        <id>https://www.cnblogs.com/zw-awa/p/23395438</id>
+        <link href="https://www.cnblogs.com/zw-awa/p/23395438"/>
+        <updated>2026-10-22T01:01:00.000Z</updated>
+        <summary type="html"><![CDATA[按键按下去，程序像是死机了。一段看起来无害的等待，怎样让本该同时运行的事情全部停下来，而这一次又该怎么量出它冻了多久？]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CODESYS AI实践 - 单元测试 - 周永恒]]></title>
+        <id>https://www.cnblogs.com/Zhouyongh/p/23395375</id>
+        <link href="https://www.cnblogs.com/Zhouyongh/p/23395375"/>
+        <updated>2026-10-22T00:56:00.000Z</updated>
+        <summary type="html"><![CDATA[环境：CODESYS V3.5 SP17 ｜ SoftMotion Win 64 ｜ Windows + PowerShell 5.1 上一篇《CODESYS AI实践 - 在线连接》把程序下载进软 PLC，能启停、能读写变量。 这一篇让 AI 给 Codesys 写单元测试。 目标是一句话让 AI]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3MB 的 C# 程序，装下一整个宇宙：N·Body 2.0 发布 - .NET骚操作]]></title>
+        <id>https://www.cnblogs.com/sdcb/p/23392644/20261022-n-body</id>
+        <link href="https://www.cnblogs.com/sdcb/p/23392644/20261022-n-body"/>
+        <updated>2026-10-22T00:50:00.000Z</updated>
+        <summary type="html"><![CDATA[上面是 65,536 颗恒星的星系碰撞，GPU 逐对计算引力，2.25 倍速。它来自我刚发布的 N&#183;Body 2.0：从物理引擎到渲染、界面、音乐，全部用 C# 写成，最后打包成一个 3MB 的 exe。 一年前立的 flag 2025 年 8 月，我写过一篇《当物理定律与高精度计算相遇：我的新开源]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用 REA 拆了一个老游戏的图形引擎：真实感受、能与不能、以及我希望它改进的地方 - 又过二十]]></title>
+        <id>https://www.cnblogs.com/wyang/p/23395208</id>
+        <link href="https://www.cnblogs.com/wyang/p/23395208"/>
+        <updated>2026-10-22T00:25:00.000Z</updated>
+        <summary type="html"><![CDATA[用 REA 拆了一个老游戏的图形引擎：真实感受、能与不能、以及我希望它改进的地方 背景：我在复刻一个 2016 年的老回合制游戏（《回合制Ⅱ》）的战斗系统。图形引擎是闭源 DLL， 没有文档、没有源码。我用 REA（Reverse Engineer Anything，基于 Ghidra 12.1.4]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[脚本报错 ORA-01756：问题出在 NLS_LANG 字符集 - AlfredZhao]]></title>
+        <id>https://www.cnblogs.com/jyzhao/p/23394972</id>
+        <link href="https://www.cnblogs.com/jyzhao/p/23394972"/>
+        <updated>2026-10-21T22:50:00.000Z</updated>
+        <summary type="html"><![CDATA[在 sqlplus 执行脚本时，笔者遇到过一个容易误判的报错：ORA-01756: quoted string not properly terminated。表面看像 SQL 引号写错了，实际却是客户环境的变量设置有问题。下面用一次复现实验说明原因。 01 | 故障复现 先按客户环境的设置，把 N]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[i HACKED nasa in just 4 days]]></title>
+        <id>https://medium.com/p/1fb93bed2fd7</id>
+        <link href="https://medium.com/@choudharyyash127/i-hacked-nasa-in-just-4-days-1fb93bed2fd7?source=rss------bugbounty-5"/>
+        <updated>2026-10-21T22:34:59.000Z</updated>
+        <summary type="html"><![CDATA[4 days of persistence, multiple rejections, and one lesson I will never forget.
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>yash</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PHP2Shell: Dissecting the Memory Overloads Behind PHP’s Critical 9.2 RCE Vulnerabilities]]></title>
+        <id>https://medium.com/p/cfcd5b1115ab</id>
+        <link href="https://medium.com/@rj_crypt/php2shell-dissecting-the-memory-overloads-behind-phps-critical-9-2-rce-vulnerabilities-cfcd5b1115ab?source=rss------bugbounty-5"/>
+        <updated>2026-10-21T22:10:07.000Z</updated>
+        <summary type="html"><![CDATA[As security researchers and developers, we’ve often been told to trust core web frameworks and runtime environments. After all, they’ve…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Rahul Singh Choudhary</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Two clicks to bypass the entire API]]></title>
+        <id>https://medium.com/p/5034e9d935cb</id>
+        <link href="https://infosecwriteups.com/two-clicks-to-bypass-the-entire-api-5034e9d935cb?source=rss------bugbounty-5"/>
+        <updated>2026-10-21T21:49:38.000Z</updated>
+        <summary type="html"><![CDATA[How a Plain RapidAPI Test Console Exposed a Backend That Never Checked Who Was Asking (BreachDirectory.org)
+Continue reading on InfoSec Write-ups »]]></summary>
+        <author>
+            <name>X-3306</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Critical PHP Security Update: Two RCE Flaws (CVE-2026-109618, CVE-2026-109619)]]></title>
+        <id>https://blog.sucuri.net/?p=36332</id>
+        <link href="https://blog.sucuri.net/2026/10/critical-php-security-update-two-rce-flaws-cve-2026-109618-cve-2026-109619.html"/>
+        <updated>2026-10-21T21:12:28.000Z</updated>
+        <summary type="html"><![CDATA[Two critical PHP vulnerabilities (CVE-2026-109618 and CVE-2026-109619) can allow unauthenticated attackers to execute code on affected web servers. Both carry a CVSS v4.0 score of 9.2, and exploitation attempts are already being observed in the wild.
+PHP has released the following fixed versions:
+PHP branch
+Fixed version
+PHP 8.5
+PHP 8.4
+PHP 8.3
+PHP 8.2
+If you manage your own server or VPS, install the appropriate update immediately.
+Continue reading Critical PHP Security Update: Two RCE Flaws (CVE-2026-109618, CVE-2026-109619) at Sucuri Blog.]]></summary>
+        <author>
+            <name>Sucuri Malware Research Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple HOF (July 2026): A Logic Flaw in iCloud Family Sharing]]></title>
+        <id>https://medium.com/p/b2400549fe2c</id>
+        <link href="https://medium.com/@anas-nady/apple-hof-july-2026-a-logic-flaw-in-icloud-family-sharing-b2400549fe2c?source=rss------bugbounty-5"/>
+        <updated>2026-10-21T20:00:28.000Z</updated>
+        <summary type="html"><![CDATA[A step-by-step tale of identity confusion, state corruption, and a seamless resolution.
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Anas NadY</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python `regex` 库：你所不知道的正则表达式用法 - 绝不原创的飞龙]]></title>
+        <id>https://www.cnblogs.com/apachecn/p/23394650</id>
+        <link href="https://www.cnblogs.com/apachecn/p/23394650"/>
+        <updated>2026-10-21T19:28:00.000Z</updated>
+        <summary type="html"><![CDATA[定位：不是 re 的竞争者，而是补充者 Python 标准库的 re 模块稳定、够用，但它的语法和引擎能力长期停留在相对保守的范围内。第三方 regex 库的设计目标很明确：API 与 re 向后兼容，同时提供 re 缺失的大量特性。PyPI 页面的第一句话就是：“This regex implem]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一比一复刻网站前端 - 1231321312]]></title>
+        <id>https://www.cnblogs.com/fhyy/p/23394641</id>
+        <link href="https://www.cnblogs.com/fhyy/p/23394641"/>
+        <updated>2026-10-21T19:14:00.000Z</updated>
+        <summary type="html"><![CDATA[前几天闲着没事干复刻了deep的前端源码 https://wwavi.lanzouv.com/idx6P4ctl4xe 密码:2bd7 地址大家有兴趣看看 根据这个我写了一份skill name: pixel-text-motion-clone description: 当用户提供一个已授权或自有网]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[12 TCP/IP Concepts Every Hacker Should Master: The Step-by-Step Guide]]></title>
+        <id>https://medium.com/p/b46490906b3b</id>
+        <link href="https://medium.com/@verylazytech/12-tcp-ip-concepts-every-hacker-should-master-the-step-by-step-guide-b46490906b3b?source=rss------bugbounty-5"/>
+        <updated>2026-10-21T19:04:07.000Z</updated>
+        <summary type="html"><![CDATA[Ever missed a critical bug bounty because you misunderstood packet fragmentation? Or maybe you fumbled privilege escalation because ARP…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Very Lazy Tech</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[No Process, No File:
+A Linux ELF BOF Loader from Scratch (Part 3)]]></title>
+        <id>https://medium.com/p/9970ac20c23c</id>
+        <link href="https://medium.com/@q3alique/no-process-no-file-a-linux-elf-bof-loader-from-scratch-part-3-9970ac20c23c?source=rss------redteam-5"/>
+        <updated>2026-10-21T19:03:30.000Z</updated>
+        <summary type="html"><![CDATA[Spawning a new process is the loudest thing an implant can do. BOFs run inside the agent itself, from memory, without a process boundary…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Qalique</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[23 岁 DeepSeek 工程师，为什么想念“慢慢写代码”的日子？ - 贾克斯的平行世界]]></title>
+        <id>https://www.cnblogs.com/zh94/p/23394370</id>
+        <link href="https://www.cnblogs.com/zh94/p/23394370"/>
+        <updated>2026-10-21T17:34:00.000Z</updated>
+        <summary type="html"><![CDATA[DeepSeek 的工程师刘胜与，北大图灵班毕业的，当过北大未名超算队队长，毕业的时候手上有伯克利和卡内基梅隆的博士 Offer，他都给拒了。2025 年跑去DeepSeek 实习，后来就留在那了。 他最近有篇文章，《我不得不把才华埋葬在昨天》，挺火的。知乎热榜第一，公众号几十万阅读，X 上也讨论了]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Enumerating Active Directory with ldeep: a hands-on field guide]]></title>
+        <id>https://medium.com/p/c9c82a8ae00e</id>
+        <link href="https://sudor-io.medium.com/enumerating-active-directory-with-ldeep-a-hands-on-field-guide-c9c82a8ae00e?source=rss------redteam-5"/>
+        <updated>2026-10-21T15:43:41.000Z</updated>
+        <summary type="html"><![CDATA[A practical walkthrough of LDAP post-exploitation enumeration, from first bind to Domain Admin.
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Iamarbaz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SNMP : le MIB que personne ne regarde]]></title>
+        <id>https://medium.com/p/4642e7353a47</id>
+        <link href="https://medium.com/@b2soro/snmp-le-mib-que-personne-ne-regarde-4642e7353a47?source=rss------redteam-5"/>
+        <updated>2026-10-21T14:48:45.000Z</updated>
+        <summary type="html"><![CDATA[Retour d’expérience sur l’énumération SNMP en pentest interne, du snmpwalk innocent à la compromission totale via une communauté en…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>ATTE-THM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EvilBox C2 Infrastructure — Hacking with EvilBox C2: Capabilities & Full Features]]></title>
+        <id>https://medium.com/p/d1d536b21daf</id>
+        <link href="https://dbinaryghostx.medium.com/evilbox-c2-infrastructure-hacking-with-evilbox-c2-capabilities-full-features-d1d536b21daf?source=rss------redteam-5"/>
+        <updated>2026-10-21T13:14:42.000Z</updated>
+        <summary type="html"><![CDATA[How a Modern BEC Attack Can Move From Recon to Full Compromise Using EvilBox C2
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>DBinaryGhost</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build a Docker Lab for Lateral Movement: Three Containers, Two Networks, One Pivot]]></title>
+        <id>https://medium.com/p/696fdfd949f1</id>
+        <link href="https://medium.com/@ansafmattathur/build-a-docker-lab-for-lateral-movement-three-containers-two-networks-one-pivot-696fdfd949f1?source=rss------redteam-5"/>
+        <updated>2026-10-21T12:49:38.000Z</updated>
+        <summary type="html"><![CDATA[Practice SSH local, dynamic, and remote forwarding without building a fleet of virtual machines.
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>MOHAMED ANSAF TP</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[IDOR / BOLA: How to Find the #1 API Vulnerability — and Actually Prove It]]></title>
         <id>https://medium.com/p/cfb5cff0ba80</id>
