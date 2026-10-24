@@ -2,10 +2,236 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cod3crash.github.io/sec-feed/index.html</id>
     <title>security feed</title>
-    <updated>2026-10-23T04:24:23.200Z</updated>
+    <updated>2026-10-24T04:15:08.250Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://cod3crash.github.io/sec-feed/index.html"/>
     <link rel="self" href="https://cod3crash.github.io/sec-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Nutanix 超融合：从架构原理到集群部署与上线运维的完整方案 - Johny_Zhao]]></title>
+        <id>https://www.cnblogs.com/Johny-zhao/p/23423463</id>
+        <link href="https://www.cnblogs.com/Johny-zhao/p/23423463"/>
+        <updated>2026-10-24T04:01:00.000Z</updated>
+        <summary type="html"><![CDATA[按 架构原理 → 规划 → 物理安装 → Foundation 部署 → 集群创建 → Prism 初始化 → 高可用/备份/安全 → 上线运维 → 落地清单 组织，每个关键步骤都给出可操作的命令或路径。 生产部署以 Nutanix 官方文档、当前版本的 Release Notes 和 Founda]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Ultimate Guide to SSRF: Hunting, Bypassing and Exploiting in Modern Bug Bounty]]></title>
+        <id>https://medium.com/p/a43fa34ba324</id>
+        <link href="https://lostsec.medium.com/the-ultimate-guide-to-ssrf-hunting-bypassing-and-exploiting-in-modern-bug-bounty-a43fa34ba324?source=rss------bugbounty-5"/>
+        <updated>2026-10-24T02:43:32.000Z</updated>
+        <summary type="html"><![CDATA[A complete, hands-on guide to hunting hidden SSRF vulnerabilities, bypassing WAFs and filters and escalating impact from cloud metadata…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Bugbounty on Medium</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HTTP Request Smuggling: How One Ambiguous Byte Desyncs the Entire Web]]></title>
+        <id>https://medium.com/p/59e3705604f1</id>
+        <link href="https://xalgord.medium.com/http-request-smuggling-how-one-ambiguous-byte-desyncs-the-entire-web-59e3705604f1?source=rss------bugbounty-5"/>
+        <updated>2026-10-24T02:41:46.000Z</updated>
+        <summary type="html"><![CDATA[The bug class scanners love to “detect” and almost never prove — and why 2025 quietly made it deadlier than it has ever been.
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Krishna Kumar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blind SSRF Isn’t Blind If You Build the Channel Back]]></title>
+        <id>https://medium.com/p/e66d317f606a</id>
+        <link href="https://rajnamdev.medium.com/blind-ssrf-isnt-blind-if-you-build-the-channel-back-e66d317f606a?source=rss------bugbounty-5"/>
+        <updated>2026-10-24T02:31:01.000Z</updated>
+        <summary type="html"><![CDATA[It’s not the request you fire. It’s whether the response comes home.
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Raj Namdev</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Find IDOR & Broken Access Control Bugs: Using Endpoints Found From JS Files]]></title>
+        <id>https://medium.com/p/6ab11af7562a</id>
+        <link href="https://osintteam.blog/how-find-idor-broken-access-control-bugs-using-endpoints-found-from-js-files-6ab11af7562a?source=rss------bugbounty-5"/>
+        <updated>2026-10-24T01:01:53.000Z</updated>
+        <summary type="html"><![CDATA[A practical, step-by-step guide to turning “boring” endpoints into real valid bugs
+Continue reading on OSINT Team »]]></summary>
+        <author>
+            <name>Monika</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Insufficient Session Expiration leads to Account Takeover via Password Change]]></title>
+        <id>https://medium.com/p/8ba38191df52</id>
+        <link href="https://medium.com/@xlr99/insufficient-session-expiration-leads-to-account-takeover-via-password-change-8ba38191df52?source=rss------bugbounty-5"/>
+        <updated>2026-10-23T23:43:31.000Z</updated>
+        <summary type="html"><![CDATA[Howdy fellers! During my recent bug hunting in VDP programs, I was analyzing a presentation platform and came across a vulnerability. At…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>xlr9</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Breaking BigBlueButton’s API With One Query Parameter — Inside CVE-2026–46353]]></title>
+        <id>https://medium.com/p/2a166bde13e6</id>
+        <link href="https://medium.com/@0xTa7on/breaking-bigbluebuttons-api-with-one-query-parameter-inside-cve-2026-46353-2a166bde13e6?source=rss------bugbounty-5"/>
+        <updated>2026-10-23T23:30:11.000Z</updated>
+        <summary type="html"><![CDATA[A single undocumented parameter turned every call to a video-conferencing platform’s API into an unauthenticated one.
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>TAHON</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[实战｜Windows10 2016 LTSB 彻底永久关闭自动更新 - AlfredZhao]]></title>
+        <id>https://www.cnblogs.com/jyzhao/p/23422059</id>
+        <link href="https://www.cnblogs.com/jyzhao/p/23422059"/>
+        <updated>2026-10-23T22:54:00.000Z</updated>
+        <summary type="html"><![CDATA[Windows 10 Enterprise 2016 LTSB（1607 / 14393）没有应用商店和冗余功能更新，只推送月度安全补丁，很适合跑在群晖 VMM 虚拟机、内网服务机或专用工作站上。但微软已终止主流支持，系统仍会在后台自动下载更新，关机时强制配置。只关一处往往会被“复活”，笔者在 Wi]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PHP 曝出 9.2 分漏洞后，我重新想了下"不可能三角"对 C# 成不成立 - 张善友]]></title>
+        <id>https://www.cnblogs.com/shanyou/p/23422056</id>
+        <link href="https://www.cnblogs.com/shanyou/p/23422056"/>
+        <updated>2026-10-23T22:48:00.000Z</updated>
+        <summary type="html"><![CDATA[HP2Shell 真正的教训，不是&quot;PHP 不行&quot;，而是：任何语言的安全上限，最终取决于它运行时实现层的内存安全性，以及维护那层代码的资源。
+PHP 爆在了用 C 写的、历史包袱沉重的解释器上。C# 把同类风险压缩到了 CLR 这一个更小、被重兵把守的面上——这是工程投入的差异，不是语言哲学的胜负。]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PHP2Shell — Remote Code Execution Through PHP Runtime Memory Corruption]]></title>
+        <id>https://medium.com/p/e95ea3761554</id>
+        <link href="https://medium.com/@hemantrajbhati5555/php2shell-remote-code-execution-through-php-runtime-memory-corruption-e95ea3761554?source=rss------redteam-5"/>
+        <updated>2026-10-23T21:57:32.000Z</updated>
+        <summary type="html"><![CDATA[Project: Shopping Portal
+Reference: PHPGurukul
+Vulnerability Name: PHP2Shell
+CVE IDs: CVE-2026–109618, CVE-2026–109619
+Severity: Critical…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Hemant Raj Bhati</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Find File Upload Vulnerabilities: Step-by-Step Bug Bounty Guide]]></title>
+        <id>https://medium.com/p/de8b6eceb469</id>
+        <link href="https://medium.com/h7w/how-to-find-file-upload-vulnerabilities-step-by-step-bug-bounty-guide-de8b6eceb469?source=rss------bugbounty-5"/>
+        <updated>2026-10-23T21:53:24.000Z</updated>
+        <summary type="html"><![CDATA[A practical, detailed method to turn a simple upload button into RCE, XSS, or full server compromise
+Continue reading on T3CH »]]></summary>
+        <author>
+            <name>Monika</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[When One Login Works Across Multiple Customers: Understanding Cross-Tenant Authentication Bypass]]></title>
+        <id>https://medium.com/p/993b2707cc67</id>
+        <link href="https://osintteam.blog/when-one-login-works-across-multiple-customers-understanding-cross-tenant-authentication-bypass-993b2707cc67?source=rss------bugbounty-5"/>
+        <updated>2026-10-23T21:01:45.000Z</updated>
+        <summary type="html"><![CDATA[How shared sessions, authentication mechanisms, and weak tenant isolation can expose one customer’s environment to another.
+Continue reading on OSINT Team »]]></summary>
+        <author>
+            <name>Abhishek Bhujang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The frontend knew who was an admin. The server forgot to check]]></title>
+        <id>https://medium.com/p/dfde602843bf</id>
+        <link href="https://osintteam.blog/the-frontend-knew-who-was-an-admin-the-server-forgot-to-check-dfde602843bf?source=rss------bugbounty-5"/>
+        <updated>2026-10-23T20:50:30.000Z</updated>
+        <summary type="html"><![CDATA[JavaScript often contains a near-complete map of an application’s roles and routes. The bug appears when the backend mistakes a hidden…
+Continue reading on OSINT Team »]]></summary>
+        <author>
+            <name>Devansh Patel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[两天烧100亿token，如何驾驶大肥鱼进行信息收集工作？ - 粉紫系超人气月兔铃仙]]></title>
+        <id>https://www.cnblogs.com/Reisentyan/p/23395393</id>
+        <link href="https://www.cnblogs.com/Reisentyan/p/23395393"/>
+        <updated>2026-10-23T16:08:00.000Z</updated>
+        <summary type="html"><![CDATA[这篇文章比较长，大概5k字 目录 背景 第一阶段：查找信息，以及为什么蹬 DS？ 第二阶段：怎么解析文件？ 补采网页信息 提取正文与 OCR 第三阶段：如何拷打 DS 来整理信息？ 批量处理与字段提取 补全信息与多轮纠错 统一信息格式 高血压：使用体验与吐槽 最后的最后 背景 这一周的主要工作是收集]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI Found the Vulnerability. What Did It Take to Make Systems Safer?]]></title>
+        <id>https://medium.com/p/46b1d1f90083</id>
+        <link href="https://kittam888.medium.com/ai-found-the-vulnerability-what-did-it-take-to-make-systems-safer-46b1d1f90083?source=rss------redteam-5"/>
+        <updated>2026-10-23T13:50:09.000Z</updated>
+        <summary type="html"><![CDATA[Finding a flaw, demonstrating an exploit, releasing a patch, and verifying protection are different achievements.
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Gavin Tam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[树链剖分详细讲解，蒟蒻也能看懂 - Emoji-happy]]></title>
+        <id>https://www.cnblogs.com/Emoji-happy/p/23417765</id>
+        <link href="https://www.cnblogs.com/Emoji-happy/p/23417765"/>
+        <updated>2026-10-23T10:15:00.000Z</updated>
+        <summary type="html"><![CDATA[本文内容部分参考这篇博客，但图片，代码均为原创 树链剖分 定义 树链剖分是一种将树按轻重边划分成若干条链，使任意两点路径可在 \(O(log\,n)\) 条链内分解，并可用线段树等结构维护路径或子树的算法。 它通过两次 DFS 求出重儿子、链顶、DFS 序等信息，从而把树上操作转化为序列区间操作，实]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一次发布改了 2000+ 个文件：Avalonia 原生做出 3D 地球、AI 聊天和会动的 AI 原理动画（TKCode.Arc 0.3.0-preview.2） - 239573049]]></title>
+        <id>https://www.cnblogs.com/token-ai/p/23415697</id>
+        <link href="https://www.cnblogs.com/token-ai/p/23415697"/>
+        <updated>2026-10-23T08:14:00.000Z</updated>
+        <summary type="html"><![CDATA[一次发布改了 2000+ 个文件：Avalonia 原生做出 3D 地球、AI 聊天和会动的 AI 原理动画（TKCode.Arc 0.3.0-preview.2） 大家好，我是 token。TKCode.Arc 发布了 0.3.0-preview.2。 这一版是到目前为止最大的一次更新：一次发布合]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[华为云RDS Supabase AI应用已开放公测  ：30分钟搭建AI应用后端 - 华为云开发者联盟]]></title>
+        <id>https://www.cnblogs.com/huaweiyun/p/23415555</id>
+        <link href="https://www.cnblogs.com/huaweiyun/p/23415555"/>
+        <updated>2026-10-23T08:05:00.000Z</updated>
+        <summary type="html"><![CDATA[认证、存储、实时推送、数据库API——4个后端模块，传统开发需要数周。今天，你只需要30分钟。 AI创业公司的全栈开发工程师。上周老板说&quot;下周要上线的AI对话应用，后端你来搞&quot;——认证鉴权、数据库接口、文件存储、实时推送，每一个模块都需要数周搭建，而市场不会等你。 小张打开华为云RDS Supaba]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Spring AI Alibaba -- 文生图、文生音及向量化 - NE_STOP]]></title>
+        <id>https://www.cnblogs.com/alineverstop/p/23413567</id>
+        <link href="https://www.cnblogs.com/alineverstop/p/23413567"/>
+        <updated>2026-10-23T06:29:00.000Z</updated>
+        <summary type="html"><![CDATA[ChatMemory对话记忆 ChatMemory（Spring AI 里的聊天记忆接口）。 LLM 本身是无状态的，你单独发一句消息，它不知道上一轮聊了啥。ChatMemory 就是 Spring AI 提供的会话上下文管理器，用来保存当前对话的消息列表，每次请求自动把历史消息塞给大模型，实现连续]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[9. 变量，存放与修改数据 | 点杯大杯奶茶 - 老陈说编程]]></title>
+        <id>https://www.cnblogs.com/halfcode/p/23413471</id>
+        <link href="https://www.cnblogs.com/halfcode/p/23413471"/>
+        <updated>2026-10-23T06:23:00.000Z</updated>
+        <summary type="html"><![CDATA[变量是程序中一块有名字的内存空间，用来存储程序运行过程中可以变化的数据。点奶茶要记下杯型、饮品和价格，这三项都可能改，所以放在变量里。 动画视频在《9. 变量，存放与修改数据 | 点杯大杯奶茶》 声明变量的语法格式 ArkTS 声明变量写成： let 变量名: 数据类型 = 初始值; let 是关键]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Agent YOLO 三端全开：一个 YOLO 面板，在 IntelliJ、Visual Studio、VS Code 里都能跑起来 - Cn#工作室]]></title>
+        <id>https://www.cnblogs.com/cnsharp/p/23412695</id>
+        <link href="https://www.cnblogs.com/cnsharp/p/23412695"/>
+        <updated>2026-10-23T05:20:00.000Z</updated>
+        <summary type="html"><![CDATA[你用哪个 IDE 写代码？ 有人用 IntelliJ 写 Java / Kotlin，有人用 Visual Studio 写 C#，有人用 VS Code 写前端的 TS / JS，也有人拿它写 Python。IDE 不一样，但 AI 编程助手都一样——Claude Code、Codex、Curso]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[低成本本地模型能把「角色四视图」做到什么程度？ - victor.x.qu]]></title>
         <id>https://www.cnblogs.com/fs7744/p/23412320</id>
@@ -114,6 +340,17 @@
         <summary type="html"><![CDATA[刚子整理了 8 个经生产环境验证的 NuGet 包，覆盖结构化日志、参数校验、弹性重试、对象映射、轻量 ORM、后台调度、API 文档与性能基准测试，并强调“克制引入”比“盲目堆砌”更重要。]]></summary>
         <author>
             <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From Syscall to Reflective Loader: Windows Module Loading, Rebuilt from First Principles]]></title>
+        <id>https://medium.com/p/97df1f663ee9</id>
+        <link href="https://medium.com/@st4inl3s5/from-syscall-to-reflective-loader-windows-module-loading-rebuilt-from-first-principles-97df1f663ee9?source=rss------redteam-5"/>
+        <updated>2026-10-23T00:00:29.000Z</updated>
+        <summary type="html"><![CDATA[Every Windows process carries a list of the modules loaded into it — main.exe, ntdll.dll, kernel32.dll — chained together in a structure…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Yiğit Aydemir</name>
         </author>
     </entry>
     <entry>
