@@ -2,10 +2,294 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cod3crash.github.io/sec-feed/index.html</id>
     <title>security feed</title>
-    <updated>2026-10-24T04:15:08.250Z</updated>
+    <updated>2026-10-25T04:18:10.875Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://cod3crash.github.io/sec-feed/index.html"/>
     <link rel="self" href="https://cod3crash.github.io/sec-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[本地视频 → 序列帧动画精灵图 - victor.x.qu]]></title>
+        <id>https://www.cnblogs.com/fs7744/p/23431184</id>
+        <link href="https://www.cnblogs.com/fs7744/p/23431184"/>
+        <updated>2026-10-25T04:08:00.000Z</updated>
+        <summary type="html"><![CDATA[一句话：把你电脑上的一段视频 / GIF（不管是拍的、下的，还是本地 AI 模型生成的）， 变成游戏引擎里能直接用的「序列帧精灵图」——全程在你自己的机器上跑，不上云。 ⚠️ 项目性质说明：本文档所属的 fs7744/meowcute 项目仅用于个人实验与研究，不是商业产品、不提供任何保证，也不构成]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GnuWin32：让 Claude Code 在 Windows 上不再“缺工具” - 绝不原创的飞龙]]></title>
+        <id>https://www.cnblogs.com/apachecn/p/23431166</id>
+        <link href="https://www.cnblogs.com/apachecn/p/23431166"/>
+        <updated>2026-10-25T04:03:00.000Z</updated>
+        <summary type="html"><![CDATA[如果你在 Windows 上跑过 Claude Code，可能遇到过一种很隐蔽的失败：claude 命令本身装好了，也能启动，但一旦它需要执行 grep、sed、find、awk 这类操作时，就会报错或行为异常。原因不在于 Claude Code 有 bug，而在于它默认运行在一个类 Unix 的命]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Automated My Entire Bug Bounty Recon :One Script, Start to Finish]]></title>
+        <id>https://medium.com/p/d3f45a628b59</id>
+        <link href="https://osintteam.blog/i-automated-my-entire-bug-bounty-recon-one-script-start-to-finish-d3f45a628b59?source=rss------bugbounty-5"/>
+        <updated>2026-10-25T04:00:02.000Z</updated>
+        <summary type="html"><![CDATA[Stop running 15 tools manually. Here’s the exact pipeline I use to go from “a company name” to “a list of live, testable targets” in one…
+Continue reading on OSINT Team »]]></summary>
+        <author>
+            <name>Monika</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vue3的template陷阱,一个没写指令的 <template>把按钮吞了 - 南风晚来晚相识]]></title>
+        <id>https://www.cnblogs.com/IwishIcould/p/23431000</id>
+        <link href="https://www.cnblogs.com/IwishIcould/p/23431000"/>
+        <updated>2026-10-25T03:48:00.000Z</updated>
+        <summary type="html"><![CDATA[会显示出[立即开通]按钮吗？ &lt;template&gt; &lt;div&gt; &lt;el-tooltip class=&quot;box-item&quot; effect=&quot;dark&quot; content=&quot;Top Left prompts info&quot; placement=&quot;top-start&quot; &gt; &lt;template&gt; &lt;el-butt]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vite 报 504 Outdated Optimize Dep？先删 .vite 缓存 - AlfredZhao]]></title>
+        <id>https://www.cnblogs.com/jyzhao/p/23430470</id>
+        <link href="https://www.cnblogs.com/jyzhao/p/23430470"/>
+        <updated>2026-10-25T00:27:00.000Z</updated>
+        <summary type="html"><![CDATA[开发时页面突然卡住加载，控制台里请求 .vite/deps/chunk-xxx.js 返回 504 Outdated Optimize Dep，这种情况笔者遇到过几次。它通常不是代码写错了，而是 Vite 的预构建依赖缓存出了问题。 01 | 问题现象与根因 现象很直接：页面加载卡住，浏览器请求 .]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MQTT实战 - 遗嘱消息+心跳机制，让你的设备永远不会“假在线”（七） - IT规划师]]></title>
+        <id>https://www.cnblogs.com/hugogoos/p/23398696</id>
+        <link href="https://www.cnblogs.com/hugogoos/p/23398696"/>
+        <updated>2026-10-24T23:03:00.000Z</updated>
+        <summary type="html"><![CDATA[本文以“三台僵尸设备”事故为引，揭示“假在线”问题根源——系统无法有效感知设备真实状态。通过打破“TCP可靠、遗嘱秒级”等认知误区，将“假在线”拆解为四种死法，提出KeepAlive、LWT、Retain、应用层心跳四件武器，构建全覆盖防护矩阵。结合生产级代码实现与12项自检清单，实现从问题发现到落...]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PHP2Shell: Two Critical Vulnerabilities That Could Let Attackers Take Over Web Servers]]></title>
+        <id>https://medium.com/p/65fd888fdeea</id>
+        <link href="https://medium.com/@munnaza.cyber/php2shell-two-critical-vulnerabilities-that-could-let-attackers-take-over-web-servers-65fd888fdeea?source=rss------bugbounty-5"/>
+        <updated>2026-10-24T18:59:07.000Z</updated>
+        <summary type="html"><![CDATA[Recent incident of PHP Vulnerabilties which effect worldwide wordpress websites and others, here is how???
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Munaza Cyber</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reading 400 Million Git Pushes: GitHub OSINT at Full Population]]></title>
+        <id>https://medium.com/p/2fc279e0612b</id>
+        <link href="https://osintteam.blog/reading-400-million-git-pushes-github-osint-at-full-population-2fc279e0612b?source=rss------bugbounty-5"/>
+        <updated>2026-10-24T18:25:30.000Z</updated>
+        <summary type="html"><![CDATA[TL;DR
+Continue reading on OSINT Team »]]></summary>
+        <author>
+            <name>Dzianis Skliar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reading 400 Million Git Pushes: GitHub OSINT at Full Population]]></title>
+        <id>https://medium.com/p/2fc279e0612b</id>
+        <link href="https://osintteam.blog/reading-400-million-git-pushes-github-osint-at-full-population-2fc279e0612b?source=rss------redteam-5"/>
+        <updated>2026-10-24T18:25:30.000Z</updated>
+        <summary type="html"><![CDATA[TL;DR
+Continue reading on OSINT Team »]]></summary>
+        <author>
+            <name>Dzianis Skliar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[70后 90后 00后技术人，邀你一起重新出发 - 博客园团队]]></title>
+        <id>https://www.cnblogs.com/cmt/p/23427349</id>
+        <link href="https://www.cnblogs.com/cmt/p/23427349"/>
+        <updated>2026-10-24T14:29:00.000Z</updated>
+        <summary type="html"><![CDATA[你还记得上一次在技术社区里，因为别人的一条评论突然想通一个问题，是什么时候吗？现在遇到问题，我们第一反应是问 AI。它回答得很快，也常常是对的。技术博客越来越少有人看，评论区越来越安静，很多写了十几年的作者，慢慢也不写了。所以有人说，AI 时代不需要技术社区了]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cybersecurity Certification Roadmap 2026: From IT Foundations to Security Leadership]]></title>
+        <id>https://medium.com/p/8fcc850feebb</id>
+        <link href="https://medium.com/@majjipradeepkumar/cybersecurity-certification-roadmap-2026-from-it-foundations-to-security-leadership-8fcc850feebb?source=rss------redteam-5"/>
+        <updated>2026-10-24T14:12:01.000Z</updated>
+        <summary type="html"><![CDATA[Stop guessing. Start choosing the right certification for your cybersecurity career.
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Majji pradeep kumar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Tracked Down What Happened to the Bug I Reported. It Wasn’t Fixed.]]></title>
+        <id>https://medium.com/p/c20b95066af9</id>
+        <link href="https://medium.com/@riyalimba/i-tracked-down-what-happened-to-the-bug-i-reported-it-wasnt-fixed-c20b95066af9?source=rss------bugbounty-5"/>
+        <updated>2026-10-24T14:03:13.000Z</updated>
+        <summary type="html"><![CDATA[HackerOne paid a record $89 million this year. The backlog of unfixed bugs grew 131%. I think I know why.
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Riya Limba</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Breaking the Vault: Bypassing Chatbot Limits via Race Conditions & Response Manipulation]]></title>
+        <id>https://medium.com/p/e8f68ce3e354</id>
+        <link href="https://medium.com/@aazzazy772/breaking-the-vault-bypassing-chatbot-limits-via-race-conditions-response-manipulation-e8f68ce3e354?source=rss------bugbounty-5"/>
+        <updated>2026-10-24T13:34:49.000Z</updated>
+        <summary type="html"><![CDATA[In modern fintech and digital platforms, features like AI-powered chatbots aren’t just cool perks — they are massive cost drivers…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Ahmed 3zzazy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[三维大屏踩坑记：Viewer 的"二次进入"之谜、IndexedDB 拒收 DOM、跨域 ETag 告警 - 中文还在写码]]></title>
+        <id>https://www.cnblogs.com/ChineseLiao/p/23426968</id>
+        <link href="https://www.cnblogs.com/ChineseLiao/p/23426968"/>
+        <updated>2026-10-24T13:15:00.000Z</updated>
+        <summary type="html"><![CDATA[三维大屏踩坑记：Viewer 的&quot;二次进入&quot;之谜、IndexedDB 拒收 DOM、跨域 ETag 告警 项目背景：Vue 2 SPA + 基于 Cesium 二次开发的三维引擎（下文统称三维引擎）+ IndexedDB 离线缓存 + 数据大屏。最近一轮维护集中修了三个 bug，排查过程和修复方案都]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[.net core 使用枚举类而不是枚举类型及应用源生成器 - xiangji]]></title>
+        <id>https://www.cnblogs.com/xiangji/p/23426658</id>
+        <link href="https://www.cnblogs.com/xiangji/p/23426658"/>
+        <updated>2026-10-24T11:54:00.000Z</updated>
+        <summary type="html"><![CDATA[官方建议使用枚举类而不是枚举类型 原生枚举缺乏行为封装 类型安全性不足（可强制转换非法值） 违反开闭原则（需大量 switch-case）的问题 参考阅读: https://learn.microsoft.com/zh-cn/dotnet/architecture/microservices/mic]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[大杂烩：创建自己的个人数据工作台 - 哥本哈士奇(aspnetx)]]></title>
+        <id>https://www.cnblogs.com/aspnetx/p/23426638</id>
+        <link href="https://www.cnblogs.com/aspnetx/p/23426638"/>
+        <updated>2026-10-24T11:46:00.000Z</updated>
+        <summary type="html"><![CDATA[在我的职业生涯中，不得不说，数据的组织，Alteryx是真好用、数据仓库整体解决方案SQL Server是真顺手、出炫彩的报告用Power BI是真舒服。无奈这些产品都自成体系捆绑，而且卖的还真的很贵，更难受的是你即使平时只是用其5%的功能，那么你也得为那95%付费。而更关键的是，随着外资撤离的越来...]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Built A Tool Because I Was Tired Of Typing]]></title>
+        <id>https://medium.com/p/0c32e3a537cd</id>
+        <link href="https://kd-200.medium.com/i-built-a-tool-because-i-was-tired-of-typing-0c32e3a537cd?source=rss------bugbounty-5"/>
+        <updated>2026-10-24T11:31:01.000Z</updated>
+        <summary type="html"><![CDATA[Two hundred repetitions of the same command finally cost me a weekend. The interface was the small benefit. Learning the tool properly was…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Nitin yadav</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【世界模型】Nano World Models（NanoWM）分析笔记 - 罗西的思考]]></title>
+        <id>https://www.cnblogs.com/rossiXYZ/p/23426585</id>
+        <link href="https://www.cnblogs.com/rossiXYZ/p/23426585"/>
+        <updated>2026-10-24T11:30:00.000Z</updated>
+        <summary type="html"><![CDATA[【世界模型】Nano World Models（NanoWM）分析笔记 目录【世界模型】Nano World Models（NanoWM）分析笔记0x00 概要0x01 出发点0x02 什么是世界模型，世界模型的必要组成部分是什么2.1 向十二岁的孩子解释2.2 向半专业人士解释2.3 向专业人士解]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[python] Python魔法方法完全指南 - 落痕的寒假]]></title>
+        <id>https://www.cnblogs.com/luohenyueji/p/23426490</id>
+        <link href="https://www.cnblogs.com/luohenyueji/p/23426490"/>
+        <updated>2026-10-24T10:59:00.000Z</updated>
+        <summary type="html"><![CDATA[Python的字符串、列表和数字之所以好用，一半在于能保存数据，一半在于可以用熟悉的方式操作这些类型，比如用print()显示内容，用len()获取长度，用+完成相加，用for逐项遍历。定义一个类时，自然也希望这个类的对象能用上这些写法，而不必为每种操作另起一个方法名。 这些写法背后都对应着Pyth]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[把 MilkDrop 搬进 .NET：9795 个预设、ANGLE/GLES3，以及一次「AI 许愿式」移植 - 首席装逼官]]></title>
+        <id>https://www.cnblogs.com/sevencatwang/p/23426389</id>
+        <link href="https://www.cnblogs.com/sevencatwang/p/23426389"/>
+        <updated>2026-10-24T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[把 MilkDrop 搬进 .NET：9795 个预设、ANGLE/GLES3，以及一次「AI 许愿式」移植 一句话概括：把 projectM 4.1.8 和 MilkDrop3 这两套 C++ 音乐可视化引擎，用 C# 重新实现了一遍， 跑在 Windows x64 上，9795 个真实预设能跑通]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The “Bug” that is on 80% of WordPress sites but that pay only 1/2 times | Bug Bounty Story]]></title>
+        <id>https://medium.com/p/f98506a146e7</id>
+        <link href="https://medium.com/@sadinfinite/the-bug-that-is-on-80-of-wordpress-sites-but-that-pay-only-1-2-times-bug-bounty-story-f98506a146e7?source=rss------bugbounty-5"/>
+        <updated>2026-10-24T10:00:10.000Z</updated>
+        <summary type="html"><![CDATA[Hello there ! Wassup ? 
+Thanks for reading my story !
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>SadInfinite</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cybersecurity Career Evolution: An Exhaustive Guide to All INE Security Certifications (2026)]]></title>
+        <id>https://medium.com/p/afc3b5df8b8f</id>
+        <link href="https://infosecwriteups.com/cybersecurity-career-evolution-an-exhaustive-guide-to-all-ine-security-certifications-2026-afc3b5df8b8f?source=rss------redteam-5"/>
+        <updated>2026-10-24T09:11:33.000Z</updated>
+        <summary type="html"><![CDATA[Author: Davud Qasimov
+Continue reading on InfoSec Write-ups »]]></summary>
+        <author>
+            <name>Davud Qasimov</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一盏 LED 不够用了：让同一盏灯说出不同的话 - Zw-awa]]></title>
+        <id>https://www.cnblogs.com/zw-awa/p/23425820</id>
+        <link href="https://www.cnblogs.com/zw-awa/p/23425820"/>
+        <updated>2026-10-24T09:06:00.000Z</updated>
+        <summary type="html"><![CDATA[同一盏灯，怎么才能说出灭、常亮、慢闪、快闪和呼吸这好几种话？把一次等待拆成很多小步之后，这套形状为什么转头就能用在轮子和屏幕上？]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[My Bug Bounty Comeback: Two Findings, Two Lessons Learned]]></title>
+        <id>https://medium.com/p/bcf4f7f6ae39</id>
+        <link href="https://doordiefordream.medium.com/my-bug-bounty-comeback-two-findings-two-lessons-learned-bcf4f7f6ae39?source=rss------bugbounty-5"/>
+        <updated>2026-10-24T08:06:04.000Z</updated>
+        <summary type="html"><![CDATA[Hi everyone! 👋
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>DOD cyber solutions</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[gin中的中间件ctx.Next()和ctx.Abort和全局中间件 - 何人陪我共长生]]></title>
+        <id>https://www.cnblogs.com/ishoulgodo/p/23424526</id>
+        <link href="https://www.cnblogs.com/ishoulgodo/p/23424526"/>
+        <updated>2026-10-24T07:51:00.000Z</updated>
+        <summary type="html"><![CDATA[Gin 中间件 Gin框架允许开发者在处理请求的过程中，加入用户自己的钩子函数。 这个钩子函数就叫中间件。 中间件适合处理一些公共的业务逻辑， 比如登录认证、权限校验、数据分页、记录日志、耗时统计等。 通俗的讲：中间件就是匹配路由前和匹配路由完成后执行的一系列操作 package main impo]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Smali By bithowl: Chapter 16 Return Instructions]]></title>
+        <id>https://medium.com/p/150275e64872</id>
+        <link href="https://medium.com/@bithowl/smali-by-bithowl-chapter-16-return-instructions-150275e64872?source=rss------bugbounty-5"/>
+        <updated>2026-10-24T07:45:45.000Z</updated>
+        <summary type="html"><![CDATA[“Every Method Has an Exit. What It Sends Back Matters.”
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>bithowl</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[$10,200 for a Link That Opened the Wrong App’s Trust: Mobile Deep Link Hijacking to Account…]]></title>
+        <id>https://medium.com/p/b080d4f993bf</id>
+        <link href="https://medium.com/@t4nv1/10-200-for-a-link-that-opened-the-wrong-apps-trust-mobile-deep-link-hijacking-to-account-b080d4f993bf?source=rss------bugbounty-5"/>
+        <updated>2026-10-24T06:41:01.000Z</updated>
+        <summary type="html"><![CDATA[Mobile apps have their own version of the open-redirect and OAuth-callback problems I’d chased on the web, wearing a different costume…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>T4nv1</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Nutanix 超融合：从架构原理到集群部署与上线运维的完整方案 - Johny_Zhao]]></title>
         <id>https://www.cnblogs.com/Johny-zhao/p/23423463</id>
