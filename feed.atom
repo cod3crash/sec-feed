@@ -2,10 +2,374 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cod3crash.github.io/sec-feed/index.html</id>
     <title>security feed</title>
-    <updated>2026-10-25T04:18:10.875Z</updated>
+    <updated>2026-10-26T04:21:49.408Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://cod3crash.github.io/sec-feed/index.html"/>
     <link rel="self" href="https://cod3crash.github.io/sec-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[为什么AI做的汇报PPT像地摊货？3步搭出老板认可的架构汇报 - 码哥字节]]></title>
+        <id>https://www.cnblogs.com/uniqueDong/p/23439090</id>
+        <link href="https://www.cnblogs.com/uniqueDong/p/23439090"/>
+        <updated>2026-10-26T04:14:00.000Z</updated>
+        <summary type="html"><![CDATA[下午四点，技术方案评审会。 同事把电脑接上投影仪，屏幕上跳出一套极其眼熟的 PPT：深蓝底色、悬浮卡片、到处都是从 Midjourney 抠出来的发光机器人插画，大标题写着「基于云原生与 AI 驱动的新一代高可用架构体系」。 他刚翻到第二页，讲了不到一分钟，坐在长桌尽头的技术总监就敲了敲桌面打断：]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[当 Agent 接手更多工作，我们还能把好关吗？ - 小七-七牛开发者]]></title>
+        <id>https://www.cnblogs.com/Qiniu-developer/p/23438998</id>
+        <link href="https://www.cnblogs.com/Qiniu-developer/p/23438998"/>
+        <updated>2026-10-26T04:06:00.000Z</updated>
+        <summary type="html"><![CDATA[使用 Coding Agent 时，你可能遇到过这样的情况：Agent 正在修改代码，突然弹出一条权限请求。你看了一眼，觉得没什么问题，就点击批准。过了一会儿，又弹出一条请求，你再次批准。 如果任务复杂点的话，这个确认操作会重复几十次。一开始，你还会仔细检查命令和操作对象，到了后面，只要没有明显异常]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Android Native 库发布前检查：导出符号、敏感字符串与运行时保护 - 字节暗面]]></title>
+        <id>https://www.cnblogs.com/bytehidden/p/23438861</id>
+        <link href="https://www.cnblogs.com/bytehidden/p/23438861"/>
+        <updated>2026-10-26T03:53:00.000Z</updated>
+        <summary type="html"><![CDATA[Android Native 库发布前，如何确认 so 加固措施已落实到最终产物？本文结合 readelf、c++filt 和 strings 等工具，梳理符号导出、敏感字符串、JNI 调用及运行时保护的检查思路，区分静态分析与动态验证的边界，并提供可随版本留存的检查表，方便后续发版核对与回归。]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JSON Viewer: A Faster Way to Explore JSON Data for Bug Bounty Hunting]]></title>
+        <id>https://medium.com/p/53dc803e5eff</id>
+        <link href="https://medium.com/@asadmohsin760/json-viewer-a-faster-way-to-explore-json-data-for-bug-bounty-hunting-53dc803e5eff?source=rss------bugbounty-5"/>
+        <updated>2026-10-26T03:40:07.000Z</updated>
+        <summary type="html"><![CDATA[Introduction
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Asad Mohsin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[27寸屏左移后，这个小工具救了我无数次 - 开发者精选资讯]]></title>
+        <id>https://www.cnblogs.com/MrHuo/p/23438671</id>
+        <link href="https://www.cnblogs.com/MrHuo/p/23438671"/>
+        <updated>2026-10-26T03:38:00.000Z</updated>
+        <summary type="html"><![CDATA[27 寸屏放左边爆发新问题，177 行换回一个能点到的&quot;显示桌面&quot; 显示器换成 27 寸并挪到左侧当主屏之后，Windows 任务栏最右侧那条&quot;显示桌面&quot;细条跟着遭了殃：它固定在所有屏幕拼接后的最右端，如今落在笔记本屏的边缘。鼠标从 27 寸主屏划过去，快一点就冲出细条、甩到屏幕外。于是有了这个工具]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[shiro反序列化 - 你好，星]]></title>
+        <id>https://www.cnblogs.com/nihao-xing/p/23433100</id>
+        <link href="https://www.cnblogs.com/nihao-xing/p/23433100"/>
+        <updated>2026-10-26T03:33:00.000Z</updated>
+        <summary type="html"><![CDATA[今天我们将从代码审计的角度，去进行shiro反序列化的研究。 https://www.cnblogs.com/nihao-xing/p/23363379 这上篇文章我们已经大致的了解了fastjson的反序列化。没看的朋友可以去看一下。 什么是shiro反序列化，它和fastjson反序列化有什么区]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[使用 Python 修改 PDF 页面尺寸：标准纸张与自定义尺寸 - LAYONTHEGROUND]]></title>
+        <id>https://www.cnblogs.com/jazz-z/p/23438442</id>
+        <link href="https://www.cnblogs.com/jazz-z/p/23438442"/>
+        <updated>2026-10-26T03:27:00.000Z</updated>
+        <summary type="html"><![CDATA[在实际工作中，PDF 的页面尺寸往往决定了它能否顺利打印、归档或嵌入到其他系统里。比如，一份为 A3 设计的报表需要缩成 A4 分发，或者扫描件需要统一到某个自定义尺寸。手动逐页调整既耗时又容易出错，用 Python 脚本批量处理会是更稳妥的选择。 Free Spire.PDF for Python]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[代理网络环境下 Linux Pro 在线激活实操指南 - feishixin123]]></title>
+        <id>https://www.cnblogs.com/feishixin123/p/23438407</id>
+        <link href="https://www.cnblogs.com/feishixin123/p/23438407"/>
+        <updated>2026-10-26T03:26:00.000Z</updated>
+        <summary type="html"><![CDATA[本文面向在受限网络（企业防火墙 / 代理服务器环境）中部署虹软人脸识别 Linux Pro SDK 的开发与运维人员，解决在线激活连不上授权服务器的问题。全文基于虹软 SDK 在线授权机制与通用代理配置实践编写。 一、背景与适用场景 虹软 Linux Pro（ArcFace Linux Pro）人脸]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[尤雨溪 : Vue 4 已经在规划中了！ - 程序员海军]]></title>
+        <id>https://www.cnblogs.com/HaiJun-Aion/p/23438038</id>
+        <link href="https://www.cnblogs.com/HaiJun-Aion/p/23438038"/>
+        <updated>2026-10-26T03:07:00.000Z</updated>
+        <summary type="html"><![CDATA[大家好，我是程序员海军，。 说起来，我已经有两年多没有特别关注前端技术圈的动态了。 以前做前端开发的时候，Vue、React、Webpack、Vite 这些技术几乎天天接触。那时候隔三差五就有新框架、新工具冒出来，生怕自己跟不上技术更新。 这两年，随着工作重心逐渐转向 AI 应用开发，我关注更多的是]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Day03 · 虚拟环境与依赖管理入门 - 小嘉游戏]]></title>
+        <id>https://www.cnblogs.com/xiaojiaxuezhang/p/23437988</id>
+        <link href="https://www.cnblogs.com/xiaojiaxuezhang/p/23437988"/>
+        <updated>2026-10-26T03:04:00.000Z</updated>
+        <summary type="html"><![CDATA[Day03 &#183; 虚拟环境与依赖管理入门 阶段：阶段一 &#183; 核心基础　|　前置：Day02　|　技术基准：Python 3.15.0 学习目标 说清楚为什么每个 Python 项目都要有自己独立的虚拟环境，它和&quot;全局环境&quot;到底差在哪 熟练用标准库 venv 完成创建、激活、装包、退出的完整闭环 掌握]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一只按键不只“按下”：短按、长按和连按如何共存 - Zw-awa]]></title>
+        <id>https://www.cnblogs.com/zw-awa/p/23437718</id>
+        <link href="https://www.cnblogs.com/zw-awa/p/23437718"/>
+        <updated>2026-10-26T02:45:00.000Z</updated>
+        <summary type="html"><![CDATA[同一颗按键，轻点、按住、连敲，可以代表三种不同的命令。程序怎样从一段电平变化里分清这些动作，而组合键又为什么偏偏进不了那张表？]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Solving Flutter’s Proxy Issues with WireGuard]]></title>
+        <id>https://medium.com/p/e8c6aef364b9</id>
+        <link href="https://medium.com/fmisec/solving-flutters-proxy-issues-with-wireguard-e8c6aef364b9?source=rss------redteam-5"/>
+        <updated>2026-10-26T02:01:02.000Z</updated>
+        <summary type="html"><![CDATA[How to bypass Dart’s proxy restrictions and send mobile traffic straight to your Burp Suite.
+Continue reading on FMI Cyber Security Consulting Services »]]></summary>
+        <author>
+            <name>Patar Isac Pardomuan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitHub Actions 详解 - FutureAI-Zeng]]></title>
+        <id>https://www.cnblogs.com/zjdxr-up/p/23323258</id>
+        <link href="https://www.cnblogs.com/zjdxr-up/p/23323258"/>
+        <updated>2026-10-26T01:37:00.000Z</updated>
+        <summary type="html"><![CDATA[一、GitHub Actions 是什么 GitHub Actions 是 GitHub 内置的 CI/CD 自动化工具。 简单说：你在 GitHub 仓库里写一份配置文件，定义好&quot;什么时候做什么事&quot;，GitHub 就自动帮你跑。 代码 push 上去 → GitHub 自动触发 → 跑测试 → 打]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[基于规则推导的账号密码管理方案：原理、边界与实践 - EXIORAN]]></title>
+        <id>https://www.cnblogs.com/exioran/p/23436114</id>
+        <link href="https://www.cnblogs.com/exioran/p/23436114"/>
+        <updated>2026-10-26T01:29:00.000Z</updated>
+        <summary type="html"><![CDATA[摘要：本文讨论一种不存储密码明文的账号密码管理方案：由固定种子与平台特征经自定义规则推导生成密码，仅在本地保存&quot;线索&quot;。文章分析该方案的推导原理、规则设计手法、账号混淆方法，并从密码学角度界定其能力边界（与单向哈希、熵、模式暴露相关），最后给出落地建议与适用性判断。 一、问题背景 账号密码管理长期存]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为什么全世界都在 Fork 它？VS Code 官方纪录片（中字完整版）正式上线！ - formulahendry]]></title>
+        <id>https://www.cnblogs.com/formulahendry/p/23435991</id>
+        <link href="https://www.cnblogs.com/formulahendry/p/23435991"/>
+        <updated>2026-10-26T01:23:00.000Z</updated>
+        <summary type="html"><![CDATA[如果让你选一件过去十年对全球程序员影响最大的开源产品，你会选什么？ 也许，不少人的答案会是 VS Code！ 更有意思的是到了 AI Coding 爆发的今天——无论是大家每天在用的 GitHub Copilot，还是社区里讨论度极高的 Cursor、Windsurf，它们底层的编辑器躯干，全都是]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[高可用之路-观测篇-那些年遇到过的指标幻觉 - 无毁的湖光-Al]]></title>
+        <id>https://www.cnblogs.com/alchemystar/p/23432965</id>
+        <link href="https://www.cnblogs.com/alchemystar/p/23432965"/>
+        <updated>2026-10-26T01:20:00.000Z</updated>
+        <summary type="html"><![CDATA[前言 当前AI的长程链路推导已经非常强大。一旦让Codex/CC接入可观测性平台，它能够非常好的利用工具进行各种组合获取相应的数据来得到问题根因(RCA)。但笔者遇到过的很多问题往往是在一些很反直觉的地方，无法通过现有的数据直接准确的推导到下一步，尤其体现在观测指标数据本身无法表达问题的情况下，这种]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[谈谈怎样做好游戏发行中台 - Virgil-Zhou]]></title>
+        <id>https://www.cnblogs.com/VVStudy/p/23426886</id>
+        <link href="https://www.cnblogs.com/VVStudy/p/23426886"/>
+        <updated>2026-10-26T01:02:00.000Z</updated>
+        <summary type="html"><![CDATA[在游戏行业，“研发”决定了一款产品的下限，而“发行”则决定了它的上限。 随着流量红利消退、买量成本飙升、渠道合规趋严，游戏发行正从过去依赖渠道覆盖和买量规模的增长方式，转向以全链路数据打通为支撑的数据驱动与精细化运营。而发行中台，正是这一转变的基础设施。 作为连接上游研发（CP）与下游渠道、玩家的“]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2026年AI安全测试工具大全，14款大模型与Agent安全工具一次配齐 - 狂师]]></title>
+        <id>https://www.cnblogs.com/jinjiangongzuoshi/p/23435565</id>
+        <link href="https://www.cnblogs.com/jinjiangongzuoshi/p/23435565"/>
+        <updated>2026-10-26T01:01:00.000Z</updated>
+        <summary type="html"><![CDATA[前面盘完接口、性能、APP、UI、安全五篇传统工具，群里果然有人来问，那 AI 呢，测大模型用什么，测 Agent 用什么。 问得正是时候。Gartner 今年的预测说，到 2029 年七成中国企业都会实施 AI 安全测试，国家 CERT 都开始办大模型安全众测了，这已经不是论文里的东西了。 而且它]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[.NET发布最小能多小？我从86MB凹到了657字节 - .NET骚操作]]></title>
+        <id>https://www.cnblogs.com/sdcb/p/23412512/20261023-min-dotnet-poc</id>
+        <link href="https://www.cnblogs.com/sdcb/p/23412512/20261023-min-dotnet-poc"/>
+        <updated>2026-10-26T00:46:00.000Z</updated>
+        <summary type="html"><![CDATA[大家可能都喜欢大=好，但在程序发布这件事上，没人希望自己的程序大。偏偏 .NET 总给人一个印象：要么让用户先装运行时，要么把运行时一起打包带走。一个 Hello World，发布出来可能就是几十上百兆。 我先试了一下。同一个 Hello World，用自包含 + ReadyToRun 发布，打开输]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[语音降噪模型GTCRN学习笔记(二) - davidtym]]></title>
+        <id>https://www.cnblogs.com/talkaudiodev/p/23430817</id>
+        <link href="https://www.cnblogs.com/talkaudiodev/p/23430817"/>
+        <updated>2026-10-26T00:19:00.000Z</updated>
+        <summary type="html"><![CDATA[上篇文章（语音降噪模型GTCRN学习笔记（一））对GTCRN做了概述。从本篇开始，讲GTCRN里面的细节，本文先讲ERB、SFE和MASK等。 先说明一下，我主要是通过调试来理解GTCRN基本原理。GTCRN的开源代码提供了模型、推理代码以及带噪的音频文件等，在python环境下通过这些就可以来调试]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[从 .NET 8 升级到 .NET 10 实战踩坑：升级前检查、生产事故与 6 步落地清单 - 码农刚子]]></title>
+        <id>https://www.cnblogs.com/shenchuanchao/p/23422284/dotnet-8-upgrade-to-dotnet-10-production-pitfalls</id>
+        <link href="https://www.cnblogs.com/shenchuanchao/p/23422284/dotnet-8-upgrade-to-dotnet-10-production-pitfalls"/>
+        <updated>2026-10-26T00:03:00.000Z</updated>
+        <summary type="html"><![CDATA[2026 年 11 月 10 日，.NET 8 与 .NET 9 同时终止官方支持。从 .NET 8 直接跨两代升 .NET 10，breaking change 远多于 8→9。本文总结升级前 4 项必查、生产中 5 个真实踩坑、以及 6 步安全落地清单，照着走能避开绝大多数线上事故。]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vibe Coding 之前，先把这些准备工作做好 - AlfredZhao]]></title>
+        <id>https://www.cnblogs.com/jyzhao/p/23435237</id>
+        <link href="https://www.cnblogs.com/jyzhao/p/23435237"/>
+        <updated>2026-10-25T23:24:00.000Z</updated>
+        <summary type="html"><![CDATA[直接开始 Vibe Coding 也不是不可以，但过程往往会比较痛苦。为了让后续开发更顺畅，笔者通常会在动手前先做好几项准备。这些准备不涉及复杂技巧，重点是把环境、数据和版本管理的基础打牢。 整体上，这四项准备分别对应数据访问、运行环境、日常操作和版本管理四条链路，彼此独立又共同支撑后续的 Vibe]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Path Traversal Turns a Filename Into a Foothold]]></title>
+        <id>https://medium.com/p/8658c25c3fd4</id>
+        <link href="https://medium.com/@nadana12155/how-path-traversal-turns-a-filename-into-a-foothold-8658c25c3fd4?source=rss------redteam-5"/>
+        <updated>2026-10-25T21:44:30.000Z</updated>
+        <summary type="html"><![CDATA[Path traversal is one of those bugs that sounds simple until you realise what it actually means: an attacker can read your.env,
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>NadaAshraf</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Designed 5 “Unsolvable” Web Hacking Challenges. Here’s How You Can Actually Break Them.]]></title>
+        <id>https://medium.com/p/f2669fc7402e</id>
+        <link href="https://medium.com/@imaakarsh21/i-designed-5-unsolvable-web-hacking-challenges-heres-how-you-can-actually-break-them-f2669fc7402e?source=rss------bugbounty-5"/>
+        <updated>2026-10-25T21:30:48.000Z</updated>
+        <summary type="html"><![CDATA[Hi guys,
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Aakarsh Mishra</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Active Directory Security: A Practical Sliver C2 Attack Walkthrough]]></title>
+        <id>https://medium.com/p/bd9f25f2dc28</id>
+        <link href="https://medium.com/@raissiamir797/active-directory-security-a-practical-sliver-c2-attack-walkthrough-bd9f25f2dc28?source=rss------redteam-5"/>
+        <updated>2026-10-25T20:39:10.000Z</updated>
+        <summary type="html"><![CDATA[In this article, I’ll explain how to use Sliver C2 in a practical Active Directory attack scenario. I’ve already covered how Sliver works…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>default</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SSRF: A Sneaky Way to Bypass URL Filters Using HTTP Redirects]]></title>
+        <id>https://medium.com/p/046ff54ce667</id>
+        <link href="https://medium.com/@shadow_28/ssrf-a-sneaky-way-to-bypass-url-filters-using-http-redirects-046ff54ce667?source=rss------bugbounty-5"/>
+        <updated>2026-10-25T19:11:08.000Z</updated>
+        <summary type="html"><![CDATA[Recently when i was hunting for a vulnerability disclosure program, I figured out a new methodology for SSRF bypass.
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Sumit Raj</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Header Hunt: Finding a Leaked Debug Header in Production]]></title>
+        <id>https://medium.com/p/4fca4c056922</id>
+        <link href="https://oxdzubair.medium.com/header-hunt-finding-a-leaked-debug-header-in-production-4fca4c056922?source=rss------bugbounty-5"/>
+        <updated>2026-10-25T18:01:26.000Z</updated>
+        <summary type="html"><![CDATA[A WebVerse Labs writeup on how a forgotten X-Internal header exposed sensitive data through HTTP response metadata.
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>0xdzubair</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Brute Force: The Least Clever Attack That Still Wins]]></title>
+        <id>https://medium.com/p/a1353a1508cd</id>
+        <link href="https://medium.com/@raksharoot/brute-force-the-least-clever-attack-that-still-wins-a1353a1508cd?source=rss------bugbounty-5"/>
+        <updated>2026-10-25T18:01:20.000Z</updated>
+        <summary type="html"><![CDATA[Default creds, wordlist crafting, password spraying, and how mass scanners actually work.
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Raksharoot</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[12 Password Cracking Concepts Every Pentester Should Know (Step-By-Step Guide)]]></title>
+        <id>https://medium.com/p/0f1d2acc97a7</id>
+        <link href="https://medium.com/@verylazytech/12-password-cracking-concepts-every-pentester-should-know-step-by-step-guide-0f1d2acc97a7?source=rss------bugbounty-5"/>
+        <updated>2026-10-25T17:45:56.000Z</updated>
+        <summary type="html"><![CDATA[Ever wondered how many passwords are just “password123” or “qwerty”? You’d be shocked. According to Verizon’s Data Breach Investigations…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Very Lazy Tech</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How I Earned 252.60 USDC from an ENS Bug]]></title>
+        <id>https://medium.com/p/a31c8a253f5f</id>
+        <link href="https://medium.com/@anandvashishtha/how-i-earned-252-60-usdc-from-an-ens-bug-a31c8a253f5f?source=rss------bugbounty-5"/>
+        <updated>2026-10-25T16:52:26.000Z</updated>
+        <summary type="html"><![CDATA[While building AdReceipt for ETHOnline, I found a transfer flow that could fail after changing a name’s payment address.
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>ANAND VASHISHTHA</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The User Was Removed. The Access Wasn’t.]]></title>
+        <id>https://medium.com/p/5721172a6c22</id>
+        <link href="https://medium.com/@ashour2j83/i-found-an-api-endpoint-i-couldnt-explain-then-i-realized-i-could-still-access-a-private-project-5721172a6c22?source=rss------bugbounty-5"/>
+        <updated>2026-10-25T16:19:22.000Z</updated>
+        <summary type="html"><![CDATA[An unexpected API documentation discovery led me to a Broken Access Control vulnerability.
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Ashour0x</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Two AIs, One Ape, and a Firewall Before Coffee]]></title>
+        <id>https://medium.com/p/e71bb3193087</id>
+        <link href="https://projectgomad.medium.com/two-ais-one-ape-and-a-firewall-before-coffee-e71bb3193087?source=rss------redteam-5"/>
+        <updated>2026-10-25T16:14:02.000Z</updated>
+        <summary type="html"><![CDATA[An account of three artificial intelligences, one increasingly exasperated Ape, and the remarkable difficulty of explaining common sense…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>ProjectGoMad</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What 24,817 Bug Bounty Reports Reveal About Real-World Hacking]]></title>
+        <id>https://medium.com/p/cb2cfe5c3328</id>
+        <link href="https://infosecwriteups.com/what-24-817-bug-bounty-reports-reveal-about-real-world-hacking-cb2cfe5c3328?source=rss------bugbounty-5"/>
+        <updated>2026-10-25T16:08:42.000Z</updated>
+        <summary type="html"><![CDATA[Why XSS, curl, and mastering the fundamentals still matter more than collecting hundreds of hacking tools.
+Continue reading on InfoSec Write-ups »]]></summary>
+        <author>
+            <name>Asad Mohsin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Email Change Validation Issue: Old Email Remains Usable After an Email Update]]></title>
+        <id>https://medium.com/p/e2668bf374bc</id>
+        <link href="https://medium.com/@apop69166/email-change-validation-issue-old-email-remains-usable-after-an-email-update-e2668bf374bc?source=rss------bugbounty-5"/>
+        <updated>2026-10-25T14:06:28.000Z</updated>
+        <summary type="html"><![CDATA[Overview
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Ahemd ashraf</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Day 1: VAPT Foundations | Passive Reconn and Mapping]]></title>
+        <id>https://medium.com/p/b5b3f80744e9</id>
+        <link href="https://rot-ig.medium.com/day-1-vapt-foundations-passive-reconn-and-mapping-b5b3f80744e9?source=rss------redteam-5"/>
+        <updated>2026-10-25T11:31:01.000Z</updated>
+        <summary type="html"><![CDATA[Continue reading on Medium »]]></summary>
+        <author>
+            <name>Ishant</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[本地视频 → 序列帧动画精灵图 - victor.x.qu]]></title>
         <id>https://www.cnblogs.com/fs7744/p/23431184</id>
