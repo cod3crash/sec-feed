@@ -2,10 +2,388 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cod3crash.github.io/sec-feed/index.html</id>
     <title>security feed</title>
-    <updated>2026-10-27T04:40:48.274Z</updated>
+    <updated>2026-10-28T05:14:23.503Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://cod3crash.github.io/sec-feed/index.html"/>
     <link rel="self" href="https://cod3crash.github.io/sec-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Four Redirects, One URL, Full Account Takeover: An OAuth Chain Autopsy]]></title>
+        <id>https://medium.com/p/426b0f65f73f</id>
+        <link href="https://medium.com/codetodeploy/four-redirects-one-url-full-account-takeover-an-oauth-chain-autopsy-426b0f65f73f?source=rss------bugbounty-5"/>
+        <updated>2026-10-28T04:34:34.000Z</updated>
+        <summary type="html"><![CDATA[Not one sophisticated bug. Three string comparisons that were each almost right.
+Continue reading on CodeToDeploy »]]></summary>
+        <author>
+            <name>Raj Namdev</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[幻觉（Hallucination）、护栏（Guardrails）-AI 相关概念之（应用与交互概念） - 橙子家]]></title>
+        <id>https://www.cnblogs.com/hnzhengfy/p/23441090/Hallucination_Guardrails</id>
+        <link href="https://www.cnblogs.com/hnzhengfy/p/23441090/Hallucination_Guardrails"/>
+        <updated>2026-10-28T03:48:00.000Z</updated>
+        <summary type="html"><![CDATA[〇、前言 在当前这个 AI 技术大爆发的时期，各行各业都在努力发展能够提升自身工作效率的技术，学习 AI 操作之前需先了解各个重要的概念，打牢基础，要对 AI全局有一个清晰的认识，才能事半功倍。因此才有了此系列文章。 本文将主要介绍 幻觉（Hallucination）、护栏（Guardrails）这]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[VOFA+：让板子送过来的数字长成曲线 - Zw-awa]]></title>
+        <id>https://www.cnblogs.com/zw-awa/p/23465726</id>
+        <link href="https://www.cnblogs.com/zw-awa/p/23465726"/>
+        <updated>2026-10-28T03:40:00.000Z</updated>
+        <summary type="html"><![CDATA[屏幕上四个数字每 100 ms 跳一次，你看不出它是慢慢贴近目标，还是一头冲过去再退回来。这一篇不写代码，先把曲线工具装好、界面认全——同一份数据，协议选错时会变成什么样子？]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Found SSRF in 30 Minutes: Here’s My Exact Bug Bounty Workflow (Complete Guide) | by Samadhan…]]></title>
+        <id>https://medium.com/p/b205af41c420</id>
+        <link href="https://samadhanshimple.medium.com/i-found-ssrf-in-30-minutes-heres-my-exact-bug-bounty-workflow-complete-guide-by-samadhan-b205af41c420?source=rss------bugbounty-5"/>
+        <updated>2026-10-28T03:01:05.000Z</updated>
+        <summary type="html"><![CDATA[Server-Side Request Forgery (SSRF) is a web security vulnerability that occurs when an application makes a server-side request using input…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Samadhan shimple</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[前端没有被杀死，被杀死的是"只会把设计稿变成页面" - codigger]]></title>
+        <id>https://www.cnblogs.com/codigger/p/23464752</id>
+        <link href="https://www.cnblogs.com/codigger/p/23464752"/>
+        <updated>2026-10-28T02:51:00.000Z</updated>
+        <summary type="html"><![CDATA[一、先看三个正在发生的信号 聊「全栈正在杀死前端」这个话题，与其争论观点，不如先看三个可以直接验证的事实。 信号一：JD 变了。 打开招聘软件翻资深前端岗，十个里有八个写着「熟悉 Node.js/ Serverless / 全栈经验者优先」。组织架构动得更早：美团 CLC 食杂零售团队把前后端正式合]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[13. 布尔类型 boolean | 判断成绩是否及格 - 老陈说编程]]></title>
+        <id>https://www.cnblogs.com/halfcode/p/23462276</id>
+        <link href="https://www.cnblogs.com/halfcode/p/23462276"/>
+        <updated>2026-10-28T02:45:00.000Z</updated>
+        <summary type="html"><![CDATA[ArkTS 里，boolean 只有两个值：true 和 false。二选一的状态、判断出来的结果，都放在这里。 动画视频在《13. 布尔类型 boolean | 判断成绩是否及格》。 // 条件成立，及格 let isPass: boolean = true; // 条件不成立，不加糖 let a]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[100 亿条数据如何快速写入 MySQL？从 231 天到 3.5 小时，我把面试官问懵了 - Rain的Java大神实战圈]]></title>
+        <id>https://www.cnblogs.com/zrui-xyu/p/23463651</id>
+        <link href="https://www.cnblogs.com/zrui-xyu/p/23463651"/>
+        <updated>2026-10-28T01:55:00.000Z</updated>
+        <summary type="html"><![CDATA[百亿级数据写入MySQL实战方案，逐条插入耗时高达231天，通过分片并行+LOAD DATA可压到3.5小时内。拆解B+树解释单表2000万行由来，理清假批量坑、导入调参、幂等断点续传、影子表无感切换，附带可直接复用代码与面试口述模板，同时给出架构取舍思路：冷数据未必适合MySQL。]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我做了一个正刊子刊风格的科研论文图片学习库 - 疯狂学习GIS]]></title>
+        <id>https://www.cnblogs.com/fkxxgis/p/23463631</id>
+        <link href="https://www.cnblogs.com/fkxxgis/p/23463631"/>
+        <updated>2026-10-28T01:53:00.000Z</updated>
+        <summary type="html"><![CDATA[写论文时，经常发现文字写起来还好，但绘图最头疼；尤其是如果要冲顶刊，不仅图片要包含充足信息，还得画得好看，排版、配色都是问题。不过导师们经常说，谁都不是天生就会写英文论文的，都要从模仿开始学起；科研绘图也是一样。尤其是排版、布局、色调和色系这些比较抽象、又考验审美的东西，只看绘图教程，往往还是不知道]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GGUF 量化内幕：第4章 Q4_0：块量化的起点 - 绝不原创的飞龙]]></title>
+        <id>https://www.cnblogs.com/apachecn/p/23463542</id>
+        <link href="https://www.cnblogs.com/apachecn/p/23463542"/>
+        <updated>2026-10-28T01:49:00.000Z</updated>
+        <summary type="html"><![CDATA[一个 7B 参数的模型，权重以 FP32（每个权重 4 字节）存储时需要约 28 GB 磁盘和内存。即使换成 FP16（每权重 2 字节），仍需约 14 GB。这对笔记本、手机和嵌入式设备来说是一道几乎不可逾越的门槛。 Q4_0 是 llama.cpp 生态中最早出现、也最简单的量化格式之一。它做的]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[三个“位置”，三种语义：读懂 Oracle Redo Log 的 SCN、RBA 与 XID - 刘子毅]]></title>
+        <id>https://www.cnblogs.com/liuziyi1/p/23463446</id>
+        <link href="https://www.cnblogs.com/liuziyi1/p/23463446"/>
+        <updated>2026-10-28T01:43:00.000Z</updated>
+        <summary type="html"><![CDATA[第一次接触 Oracle redo log 的人，几乎都会在 SCN、RBA、XID 这三个缩写上卡一下。它们看起来都在描述“位置”，但描述的是三种完全不同的位置：一个描述时间上的先后，一个描述磁盘上的坐标，一个描述归属关系。把这三者的语义边界划清楚，redo 解析的主干逻辑基本就通了。 这篇文章不]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[自动化流水线的“最后一公里“：任务监听与报告通知服务 - EXIORAN]]></title>
+        <id>https://www.cnblogs.com/exioran/p/23463097</id>
+        <link href="https://www.cnblogs.com/exioran/p/23463097"/>
+        <updated>2026-10-28T01:22:00.000Z</updated>
+        <summary type="html"><![CDATA[摘要：自动化测试流水线跑完之后，报告往往要等人主动去看、去翻、去转述，反馈链路存在明显延迟；更严重的是，通知逻辑通常挂在主流程末尾，一旦中途异常退出，通知随之丢失。本文介绍一套任务监听与报告通知服务：将通知能力从流水线内部剥离，前置注册任务、服务端周期轮询感知终止，执行中生成动态报告、结束生成最终报]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The ANT1-R4BB1T-H0L3 CH3CKL15T]]></title>
+        <id>https://medium.com/p/db86ee59c609</id>
+        <link href="https://medium.com/@Mal3vAntCtrl/the-ant1-r4bb1t-h0l3-ch3ckl15t-db86ee59c609?source=rss------redteam-5"/>
+        <updated>2026-10-28T01:01:10.000Z</updated>
+        <summary type="html"><![CDATA[Hello all,
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Mal3vAntCtrl</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[太实用了！推荐一款 AI Agent 的浏览器 ego-lite，跑Web 自动化太爽了！ - 狂师]]></title>
+        <id>https://www.cnblogs.com/jinjiangongzuoshi/p/23462657</id>
+        <link href="https://www.cnblogs.com/jinjiangongzuoshi/p/23462657"/>
+        <updated>2026-10-28T00:48:00.000Z</updated>
+        <summary type="html"><![CDATA[前段时间我在 GitHub 上翻到一个项目：ego-lite，一款面向 AI Agent 人机协同的浏览器，专门用来解决 Claude Code / Codex / Cursor 这类 AI 智能体做网页自动化的痛点，让人和 Agent 共享同一套登录会话，互不抢占标签页， 我自己用了一段时间，觉得]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用 IP 地址搭一套自签名 HTTPS：够用、可控、不折腾域名 - AlfredZhao]]></title>
+        <id>https://www.cnblogs.com/jyzhao/p/23462475</id>
+        <link href="https://www.cnblogs.com/jyzhao/p/23462475"/>
+        <updated>2026-10-28T00:17:00.000Z</updated>
+        <summary type="html"><![CDATA[如果服务只给自己或受控用户通过 IP 访问，自签名 HTTPS 完全可行：不需要域名，也不用开放 80 端口。代价是浏览器默认会提示“证书不受信任”，要消除提示，就得在每台访问终端上信任这张证书，更好的做法是信任自己的内部 CA。它不适合面向公网陌生用户，因为自签名无法提供公共 CA 那样的身份认证]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《HelloGitHub》第 127 期 - 削微寒]]></title>
+        <id>https://www.cnblogs.com/xueweihan/p/23459802</id>
+        <link href="https://www.cnblogs.com/xueweihan/p/23459802"/>
+        <updated>2026-10-28T00:11:00.000Z</updated>
+        <summary type="html"><![CDATA[兴趣是最好的老师，HelloGitHub 让你对开源感兴趣！ 简介 HelloGitHub 分享 GitHub 上有趣、入门级的开源项目。 github.com/521xueweihan/HelloGitHub 这里有实战项目、入门教程、黑科技、开源书籍、大厂开源项目等，涵盖多种编程语言 Pytho]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Flink实时同步Oracle到StarRocks的几个踩坑经验分享 - 一个码农的日常]]></title>
+        <id>https://www.cnblogs.com/zhangs1986/p/23209171</id>
+        <link href="https://www.cnblogs.com/zhangs1986/p/23209171"/>
+        <updated>2026-10-28T00:06:00.000Z</updated>
+        <summary type="html"><![CDATA[最近在搞数据实时同步的活，把Oracle的业务数据实时同步到StarRocks给分析用。用的阿里云Flink最新版本 vvr-11.7-jdk11-flink-1.20。 选型没什么好说的，Flink CDC 读 Oracle，写 StarRocks，方案很成熟。但阿里云原生不带 Oracle CD]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一文读懂 RSI：大模型递归自进化五大技术路线全景解析 - AI-Frontiers]]></title>
+        <id>https://www.cnblogs.com/aifrontiers/p/23432044</id>
+        <link href="https://www.cnblogs.com/aifrontiers/p/23432044"/>
+        <updated>2026-10-27T23:32:00.000Z</updated>
+        <summary type="html"><![CDATA[原文：https://mp.weixin.qq.com/s/shogmWqsWOZ6XfM40CAVLw 大语言模型（LLM）正从静态预训练工具迈向动态自我演化系统。传统的模型能力提升高度依赖人工标注数据、人工编写提示词以及人工设计智能体（Agent）工作流。当人类专家的调优速度和高质量数据供给触及]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MQTT实战 - MQTT 5.0新特性实战：共享订阅、Topic Alias、流控（十） - IT规划师]]></title>
+        <id>https://www.cnblogs.com/hugogoos/p/23461845</id>
+        <link href="https://www.cnblogs.com/hugogoos/p/23461845"/>
+        <updated>2026-10-27T23:02:00.000Z</updated>
+        <summary type="html"><![CDATA[MQTT 5.0虽强大，但升级≠自动获能。真实案例揭示三大陷阱：共享订阅需显式使用$share/才实现负载均衡，否则全量重复；Topic Alias仅限单连接生命周期，重连后须重建映射，否则断连；Receive Maximum仅限QoS1/2，对QoS0无效。三者各司其职：共享订阅分发、别名压缩、流...]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[随笔] 续：关于我在机房安装Arch Linux - Ghost-Face]]></title>
+        <id>https://www.cnblogs.com/SilverGo/p/23459544</id>
+        <link href="https://www.cnblogs.com/SilverGo/p/23459544"/>
+        <updated>2026-10-27T22:22:00.000Z</updated>
+        <summary type="html"><![CDATA[背景 这是在机房安装Arch Linux系列的第三篇（可喜可贺） 随笔：关于我在机房安装Arch Linux一事 随笔：教程篇 在教程中我们不难注意到，本人提到了： 本人主要推荐两个桌面环境，KDE或者Niri+DMS，这两个在Shorin脚本都有支持。 对于有非国产显卡的用户！你可以尝试Niri。]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Didn’t Even Open Burp Suite — One URL Change Exposed Hidden WordPress Content]]></title>
+        <id>https://medium.com/p/04c2a56125d2</id>
+        <link href="https://medium.com/@The_Knower/i-didnt-even-open-burp-suite-one-url-change-exposed-hidden-wordpress-content-04c2a56125d2?source=rss------bugbounty-5"/>
+        <updated>2026-10-27T22:01:58.000Z</updated>
+        <summary type="html"><![CDATA[Introduction
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>The Knower</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Discovering and Reporting SQL Injection: A Technical Walkthrough of CAN-2026–2040978]]></title>
+        <id>https://medium.com/p/f3d52aabcdb1</id>
+        <link href="https://medium.com/@mjoker22mjoker22/discovering-and-reporting-sql-injection-a-technical-walkthrough-of-can-2026-2040978-f3d52aabcdb1?source=rss------bugbounty-5"/>
+        <updated>2026-10-27T21:40:33.000Z</updated>
+        <summary type="html"><![CDATA[Author: Mahdi Karimi
+Date: October 28, 2026
+Vulnerability Type: SQL Injection (CWE-89)
+Affected Target: Lower Niger River Basin…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Mjokermjoker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[https://www.fiverr.com/sanarasheed639]]></title>
+        <id>https://medium.com/p/74c0ea66164c</id>
+        <link href="https://medium.com/@mdshohelrana2198/https-www-fiverr-com-sanarasheed639-74c0ea66164c?source=rss------bugbounty-5"/>
+        <updated>2026-10-27T21:16:17.000Z</updated>
+        <summary type="html"><![CDATA[Continue reading on Medium »]]></summary>
+        <author>
+            <name>Shohel Rana</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Android Static Analysis Pentesting Handbook — Part 2]]></title>
+        <id>https://medium.com/p/ae588cd3f661</id>
+        <link href="https://medium.com/@apop69166/android-static-analysis-pentesting-handbook-part-2-ae588cd3f661?source=rss------bugbounty-5"/>
+        <updated>2026-10-27T20:50:03.000Z</updated>
+        <summary type="html"><![CDATA[بسم الله
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Ahemd ashraf</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chaining Discount Coupons to Get a Product for Free — Intigriti October Challenge 1026]]></title>
+        <id>https://medium.com/p/9f53c343c63a</id>
+        <link href="https://medium.com/@shadidkayes/chaining-discount-coupons-to-get-a-product-for-free-intigriti-october-challenge-1026-9f53c343c63a?source=rss------bugbounty-5"/>
+        <updated>2026-10-27T19:13:36.000Z</updated>
+        <summary type="html"><![CDATA[Target Information
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>shadid kayes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[6 of 8 SVG Sanitizers Got Broken: How a "Safe" Image Upload Can Run JavaScript (SVG XSS)]]></title>
+        <id>https://medium.com/p/82c00560441d</id>
+        <link href="https://sudor-io.medium.com/6-of-8-svg-sanitizers-got-broken-how-a-safe-image-upload-can-run-javascript-svg-xss-82c00560441d?source=rss------bugbounty-5"/>
+        <updated>2026-10-27T19:06:20.000Z</updated>
+        <summary type="html"><![CDATA[A beginner-friendly breakdown of PortSwigger's SVG XSS research: namespace tricks, XSLT, a Firefox header bug and a GIF that becomes SVG.
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Iamarbaz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pre Account Takeover via Missing Email Verification on Update Email && Missing Session Invalidation…]]></title>
+        <id>https://medium.com/p/1eeb4d4f668e</id>
+        <link href="https://medium.com/@v01d19/pre-account-takeover-via-missing-email-verification-on-update-email-missing-session-invalidation-1eeb4d4f668e?source=rss------bugbounty-5"/>
+        <updated>2026-10-27T18:03:02.000Z</updated>
+        <summary type="html"><![CDATA[Introduction
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>v01d19</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Coupon That Meant Different Things to Two Functions]]></title>
+        <id>https://medium.com/p/63b5364905eb</id>
+        <link href="https://yacyn.medium.com/the-coupon-that-meant-different-things-to-two-functions-63b5364905eb?source=rss------bugbounty-5"/>
+        <updated>2026-10-27T17:58:37.000Z</updated>
+        <summary type="html"><![CDATA[How a Unicode normalization gap took a €666 collection to €0.00
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Yacyn</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Broken Access Control in a GraphQL Book Store Slate Quarry Daily Challenge: WebVerse CTF Writeup]]></title>
+        <id>https://medium.com/p/e14abd7d23f3</id>
+        <link href="https://razzlemouse.medium.com/broken-access-control-in-a-graphql-book-store-daily-challenge-webverse-ctf-writeup-e14abd7d23f3?source=rss------redteam-5"/>
+        <updated>2026-10-27T17:08:51.000Z</updated>
+        <summary type="html"><![CDATA[A rare-book shop with a public catalogue and a private consignment ledger, and one resolver that didn’t check who was asking
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Razzle Mouse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CVE-2026–110447: Critical RCE in Nextcloud Built-in Collabora CODE Server]]></title>
+        <id>https://medium.com/p/9261aef9d94b</id>
+        <link href="https://medium.com/@bericontraster/cve-2026-110447-critical-rce-in-nextcloud-built-in-collabora-code-server-9261aef9d94b?source=rss------redteam-5"/>
+        <updated>2026-10-27T16:53:23.000Z</updated>
+        <summary type="html"><![CDATA[TL;DR
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Beri Contraster</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Is Phishing? Recognizing and Preventing Attacks]]></title>
+        <id>https://blog.sucuri.net/?p=22302</id>
+        <link href="https://blog.sucuri.net/2026/10/what-is-phishing.html"/>
+        <updated>2026-10-27T16:52:42.000Z</updated>
+        <summary type="html"><![CDATA[Phishing is an attack in which someone impersonates a person or organization you trust, like your host, registrar, bank, or colleague, in order to steal information, redirect a payment, or talk you into an action that helps them. The message is the delivery vehicle, and the goal is always the next action you take.
+If you run a website, you’re on both sides of this problem. Your hosting panel, domain registrar, WordPress admin, email, and payment accounts are all valuable targets, and if an attacker gets in through any of them, your site can quietly end up hosting phishing pages aimed at someone else’s customers.
+Continue reading What Is Phishing? Recognizing and Preventing Attacks at Sucuri Blog.]]></summary>
+        <author>
+            <name>Sucuri</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CodeForces-1461F Mathematical Expression 题解 - xiaoniu142857]]></title>
+        <id>https://www.cnblogs.com/xiaoniu142857/p/23459819</id>
+        <link href="https://www.cnblogs.com/xiaoniu142857/p/23459819"/>
+        <updated>2026-10-27T14:22:00.000Z</updated>
+        <summary type="html"><![CDATA[Solution \(s\) 的可能性不多，分类讨论。*、+、-、+-、*- 的情况都是平凡的。对于 *+-，将所有 - 替换为 + 不会使答案变差，因此等价于 *+。 下面重点分析 *+ 的情况，此时，问题等价于将原序列划分为若干个连续子段，最大化各段乘积之和。 1. 化简序列 0 会使所在段乘积]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Electroless Nickel Plating]]></title>
+        <id>http://acassis.wordpress.com/?p=13151</id>
+        <link href="https://acassis.wordpress.com/2026/10/27/electroless-nickel-plating/"/>
+        <updated>2026-10-27T14:17:03.000Z</updated>
+        <summary type="html"><![CDATA[I found this video showing a the electroless nickel plating: He is using a chemical solution from janekits in Australia, but seems like their website seen to not respond anymore. Then I asked Google for a proper formula to these chemicals and here we go: The basic chemical formula for an electroless nickel plating solution … Continue reading Electroless Nickel Plating →]]></summary>
+        <author>
+            <name>acassis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[12. 数值类型 number | 统计期末成绩 - 老陈说编程]]></title>
+        <id>https://www.cnblogs.com/halfcode/p/23459417</id>
+        <link href="https://www.cnblogs.com/halfcode/p/23459417"/>
+        <updated>2026-10-27T12:47:00.000Z</updated>
+        <summary type="html"><![CDATA[ArkTS 里，整数和小数都用 number，不再单独分 int、float、double。 动画视频在《12. 数值类型 number | 统计期末成绩》。 // 整数 let age: number = 18; // 小数 let height: number = 175.5; 期末成绩也是这个]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Azure App Service】PHP2Shell 远程代码执行漏洞(CVE-2026-109618 / CVE-2026-109619)在App Service的影响 - 编码者卢布]]></title>
+        <id>https://www.cnblogs.com/lulight/p/23458875</id>
+        <link href="https://www.cnblogs.com/lulight/p/23458875"/>
+        <updated>2026-10-27T11:10:00.000Z</updated>
+        <summary type="html"><![CDATA[问题描述 因为爆出PHP2Shell 远程代码执行漏洞（CVE-2026-109618 和 CVE-2026-109619），目前已知PHP 8.5 及以下版本均受影响。 那么在Azure App Service上部署的PHP项目受影响的情况如何呢？ CVE-2026-109618:&#160;https:/]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[闽南语讲透：台青廖昌威《等你平安归来》拿落上海国际AIGC大赛压轴大奖，阮是按怎做到的 - 辣董MarkLiao]]></title>
+        <id>https://www.cnblogs.com/MarkLiao/p/23458739</id>
+        <link href="https://www.cnblogs.com/MarkLiao/p/23458739"/>
+        <updated>2026-10-27T10:51:00.000Z</updated>
+        <summary type="html"><![CDATA[​ 一部60集竖屏方言短剧，按怎用AI引擎过7声调、声纹克隆佮母语者校准三关——技术拆解加真实踩坑记录 台青廖昌威编剧的60集竖屏短剧《等你平安归来》，伫第四届上海国际AIGC创新大赛1108件作品内底，提落AI短剧赛道压轴大奖。这篇博文毋讲剧本偌感人，专讲技术：闽南语7声调按怎建模、5-10分钟声]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bypassing Strict CSPs]]></title>
+        <id>https://medium.com/p/69a3ab5632e4</id>
+        <link href="https://medium.com/@nadana12155/bypassing-strict-csps-69a3ab5632e4?source=rss------redteam-5"/>
+        <updated>2026-10-27T07:33:41.000Z</updated>
+        <summary type="html"><![CDATA[A deep dive into CSP mechanics, bypass strategies, and two PortSwigger lab walkthroughs
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>NadaAshraf</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Intigriti October 2026 Challenge Write-Up: Exploiting Coupon Stacking]]></title>
         <id>https://medium.com/p/4b771b12ef5a</id>
