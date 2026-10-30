@@ -2,10 +2,397 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cod3crash.github.io/sec-feed/index.html</id>
     <title>security feed</title>
-    <updated>2026-10-29T05:25:33.031Z</updated>
+    <updated>2026-10-30T05:25:24.109Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://cod3crash.github.io/sec-feed/index.html"/>
     <link rel="self" href="https://cod3crash.github.io/sec-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Race Condition That Paid Its Own Bounty]]></title>
+        <id>https://medium.com/p/782e9268f08a</id>
+        <link href="https://medium.com/codetodeploy/the-race-condition-that-paid-its-own-bounty-782e9268f08a?source=rss------bugbounty-5"/>
+        <updated>2026-10-30T04:41:43.000Z</updated>
+        <summary type="html"><![CDATA[Nine years ago the window was a matter of luck. Today the client-side is solved.
+Continue reading on CodeToDeploy »]]></summary>
+        <author>
+            <name>Raj Namdev</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[面试被LeetCode 27(移除元素)问懵？别再用两层 for 循环了：一道“简单题”吃透双指针原地删除，附面试加分话术 + 11 个避坑清单 - Rain的Java大神实战圈]]></title>
+        <id>https://www.cnblogs.com/zrui-xyu/p/23493448</id>
+        <link href="https://www.cnblogs.com/zrui-xyu/p/23493448"/>
+        <updated>2026-10-30T03:45:00.000Z</updated>
+        <summary type="html"><![CDATA[LeetCode27移除元素深度剖析，带你跳出暴力O(n&#178;)误区。详解快慢双指针保序方案、首尾交换优化方案，吃透读写分离、循环不变式，对比两种解法适用场景。配套11条避坑清单、面试高频问答，一套原地压缩模板打通26、283、80等数组双指针经典题，面试刷题必备，持续更新算法面试干货。]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EnergyStarZ：让 Windows 后台进程给前台让路的能效管理器（v1.2 发布） - 胖纸不争]]></title>
+        <id>https://www.cnblogs.com/donpangpang/p/23493082</id>
+        <link href="https://www.cnblogs.com/donpangpang/p/23493082"/>
+        <updated>2026-10-30T03:24:00.000Z</updated>
+        <summary type="html"><![CDATA[EnergyStarZ：让 Windows 后台进程给前台让路的能效管理器（v1.2 发布） EnergyStarZ 是一个常驻系统托盘的 Windows 能效管理器。它监听前台窗口切换，把后台进程按需压到不同的调度档位——笔记本上更省电，台式机上更跟手。 项目刚刚更新到 v1.2.0。比起最初那个]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hermes：把学习写进文件，把知识变成技能 - AI闲人]]></title>
+        <id>https://www.cnblogs.com/xianxh/p/23491742</id>
+        <link href="https://www.cnblogs.com/xianxh/p/23491742"/>
+        <updated>2026-10-30T02:14:00.000Z</updated>
+        <summary type="html"><![CDATA[Hermes 把 Agent 的状态拆成三类并全部外置成文件：记忆存个人与任务上下文，技能存可复用的方法，wiki 存领域知识；问题不同，但都可被人检查、修改、版本管理。 引子 你有没有算过，自己每天要跟 AI 重复多少遍背景？ 项目是做什么的、文档放在哪、上次那个报错最后怎么解的、写作时不喜欢哪种]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MQTT 实战 - 放下炫技，8 年踩坑的真心话与方法论（收官） - IT规划师]]></title>
+        <id>https://www.cnblogs.com/hugogoos/p/23479286</id>
+        <link href="https://www.cnblogs.com/hugogoos/p/23479286"/>
+        <updated>2026-10-30T02:06:00.000Z</updated>
+        <summary type="html"><![CDATA[本文为《MQTT实战》系列收官之作，作者基于8年生产实践，反思“会用API”与“能扛生产”的本质差异。摒弃炫技式源码展示，转而提炼出一套五步法：选型明边界、设计定契约（Topic）、可靠防假在线、排查有清单、架构可演进。强调MQTT核心不是技术堆砌，而是工程化思维——从连接可靠性、QoS策略到故障预...]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DAST and Web Recon Explained: An End-to-End Methodology for Understanding Any Web Application]]></title>
+        <id>https://medium.com/p/33b78079603e</id>
+        <link href="https://medium.com/@vigneshkumaroffsec/dast-and-web-recon-explained-an-end-to-end-methodology-for-understanding-any-web-application-33b78079603e?source=rss------bugbounty-5"/>
+        <updated>2026-10-30T02:03:11.000Z</updated>
+        <summary type="html"><![CDATA[How to map a web application before you test it, which tools to use at each stage, and how to turn the whole process into a repeatable…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Vigneshkumaroffsec</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DAST and Web Recon Explained: An End-to-End Methodology for Understanding Any Web Application]]></title>
+        <id>https://medium.com/p/33b78079603e</id>
+        <link href="https://medium.com/@vigneshkumaroffsec/dast-and-web-recon-explained-an-end-to-end-methodology-for-understanding-any-web-application-33b78079603e?source=rss------redteam-5"/>
+        <updated>2026-10-30T02:03:11.000Z</updated>
+        <summary type="html"><![CDATA[How to map a web application before you test it, which tools to use at each stage, and how to turn the whole process into a repeatable…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Vigneshkumaroffsec</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitHub上开源真机测试工具mobile-mcp，说句话就能让AI在手机上跑用例！ - 狂师]]></title>
+        <id>https://www.cnblogs.com/jinjiangongzuoshi/p/23490370</id>
+        <link href="https://www.cnblogs.com/jinjiangongzuoshi/p/23490370"/>
+        <updated>2026-10-30T00:47:00.000Z</updated>
+        <summary type="html"><![CDATA[做移动端测试的同学应该都体会过这种割裂。安卓一套 Espresso 或者 Appium，iOS 一套 XCUITest，两套技术栈，两套选择器语法。真机往测试架上一插，驱动环境先配半天，脚本跟着版本走，界面一改版就成片飘红。大量时间没花在设计用例上，全花在维护脚本上。 最近我在 GitHub 上翻到]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SimdCodecs 开源：纯 .NET 图像编解码，比 C 原生库还快 - .NET骚操作]]></title>
+        <id>https://www.cnblogs.com/sdcb/p/23486182/20261029-simdcodecs-intro</id>
+        <link href="https://www.cnblogs.com/sdcb/p/23486182/20261029-simdcodecs-intro"/>
+        <updated>2026-10-30T00:45:00.000Z</updated>
+        <summary type="html"><![CDATA[上面这张拼图里的每一格，都是我刚开源的新项目 Sdcb.SimdCodecs 解码出来的：JPEG、PNG、WebP、TIFF、JPEG 2000、JBIG2，一个原生库都没用，纯 C#。 先说结论：在 446 张 JPEG 上，它的解码耗时是 libjpeg-turbo 的 0.82 倍，每次解码]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DeploySharp 2.0.0 正式发布：多后端、多模型，让 C# 模型部署更简单 - 椒颜皮皮虾]]></title>
+        <id>https://www.cnblogs.com/guojin-blogs/p/23490160</id>
+        <link href="https://www.cnblogs.com/guojin-blogs/p/23490160"/>
+        <updated>2026-10-30T00:05:00.000Z</updated>
+        <summary type="html"><![CDATA[使用 C# 做模型部署，除了让模型跑起来，还要处理图像缩放、归一化、输出解析、坐标还原，以及不同推理引擎的接口和运行环境。一个检测模型需要这些工作，换成 OCR，又要把检测、裁剪、方向分类和识别重新组织起来。]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[.NET 接口从 800ms 干到 60ms：生产环境这几个优化点最关键 - 码农刚子]]></title>
+        <id>https://www.cnblogs.com/shenchuanchao/p/23481724/dotnet-api-800ms-to-60ms-production-optimization</id>
+        <link href="https://www.cnblogs.com/shenchuanchao/p/23481724/dotnet-api-800ms-to-60ms-production-optimization"/>
+        <updated>2026-10-30T00:03:00.000Z</updated>
+        <summary type="html"><![CDATA[大家好，我是码农刚子。上周三下午，计划主管直接打电话过来：「订单列表打不开了，点一下转半分钟，计划文员等着投料排产。」 我打开监控看了一眼：P95 800ms，峰值 1.2 秒。再看服务器，数据库 CPU 40%，应用 CPU 20%——两边都不忙，但它就是慢。 这种「谁都不忙、接口就是慢」的情况，]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Access Control Vulnerabilities: A Practical Guide to Broken Authorization]]></title>
+        <id>https://medium.com/p/23759c8d879b</id>
+        <link href="https://medium.com/@xalpha032/access-control-vulnerabilities-a-practical-guide-to-broken-authorization-23759c8d879b?source=rss------bugbounty-5"/>
+        <updated>2026-10-29T23:56:35.000Z</updated>
+        <summary type="html"><![CDATA[Understanding vertical and horizontal privilege escalation, IDOR, and common access control weaknesses through PortSwigger Web Security…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Shadow</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[访问可信人项目时，如何信任 HTTPS 证书？ - AlfredZhao]]></title>
+        <id>https://www.cnblogs.com/jyzhao/p/23490019</id>
+        <link href="https://www.cnblogs.com/jyzhao/p/23490019"/>
+        <updated>2026-10-29T22:57:00.000Z</updated>
+        <summary type="html"><![CDATA[访问其他 IP 上可信人的项目时，对方也启用了 HTTPS。用户没有登录对方服务器的权限，无法像在自己服务器上那样导出证书。这种情况下，证书该怎么信任？其实不需要登录对方服务器：HTTPS 服务在握手时会把公钥证书发送给客户端，用户可以获取它，再导入信任库。 01 | 先区分两种情况 第一种，对方使]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GraphQL Vulnerabilities: The Bug Class Most Hunters Still Don’t Know How to Test]]></title>
+        <id>https://medium.com/p/f5291e24c721</id>
+        <link href="https://osintteam.blog/graphql-vulnerabilities-the-bug-class-most-hunters-still-dont-know-how-to-test-f5291e24c721?source=rss------bugbounty-5"/>
+        <updated>2026-10-29T22:44:33.000Z</updated>
+        <summary type="html"><![CDATA[A complete guide to finding introspection leaks, batching attacks, IDOR, and injection in GraphQL APIs — low competition, high payout
+Continue reading on OSINT Team »]]></summary>
+        <author>
+            <name>Monika</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PHP2Shell Explained: Two Critical PHP Flaws, the RCE Risk, and How to Protect Your Server]]></title>
+        <id>https://medium.com/p/44bb9efed06a</id>
+        <link href="https://osintteam.blog/php2shell-explained-two-critical-php-flaws-the-rce-risk-and-how-to-protect-your-server-44bb9efed06a?source=rss------bugbounty-5"/>
+        <updated>2026-10-29T22:44:31.000Z</updated>
+        <summary type="html"><![CDATA[What PHP2Shell is, why it works below your application code, and a practical checklist to find, patch, and investigate your PHP servers 🛡️
+Continue reading on OSINT Team »]]></summary>
+        <author>
+            <name>Vipul Sonule</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[My Second Year in Bug Bounty $$$$]]></title>
+        <id>https://medium.com/p/9a9fd009ee0d</id>
+        <link href="https://infosecwriteups.com/my-second-year-in-bug-bounty-9a9fd009ee0d?source=rss----7b722bfd1b8d---4"/>
+        <updated>2026-10-29T22:19:35.000Z</updated>
+        <summary type="html"><![CDATA[Learn from my experience and use it in yours.
+Continue reading on InfoSec Write-ups »]]></summary>
+        <author>
+            <name>RivuDon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[My Second Year in Bug Bounty $$$$]]></title>
+        <id>https://medium.com/p/9a9fd009ee0d</id>
+        <link href="https://infosecwriteups.com/my-second-year-in-bug-bounty-9a9fd009ee0d?source=rss----7b722bfd1b8d---4"/>
+        <updated>2026-10-29T22:19:35.000Z</updated>
+        <summary type="html"><![CDATA[Learn from my experience and use it in yours.
+Continue reading on InfoSec Write-ups »]]></summary>
+        <author>
+            <name>RivuDon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[My Second Year in Bug Bounty $$$$]]></title>
+        <id>https://medium.com/p/9a9fd009ee0d</id>
+        <link href="https://infosecwriteups.com/my-second-year-in-bug-bounty-9a9fd009ee0d?source=rss------bugbounty-5"/>
+        <updated>2026-10-29T22:19:34.000Z</updated>
+        <summary type="html"><![CDATA[Learn from my experience and use it in yours.
+Continue reading on InfoSec Write-ups »]]></summary>
+        <author>
+            <name>RivuDon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BOLA in Munshi: Sub-Users Could Delete the Tenant Owner’s Invoices]]></title>
+        <id>https://medium.com/p/008f4331c339</id>
+        <link href="https://medium.com/@TheWildEye/bola-in-munshi-sub-users-could-delete-the-tenant-owners-invoices-008f4331c339?source=rss------bugbounty-5"/>
+        <updated>2026-10-29T22:07:29.000Z</updated>
+        <summary type="html"><![CDATA[An object-level authorization flaw allowed authenticated sub-users to delete invoices belonging to the tenant owner, putting financial…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>TheWildEye</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CPTS (Footprinting module)]]></title>
+        <id>https://medium.com/p/3ee625ebac95</id>
+        <link href="https://medium.com/@osamahegazey605/cpts-footprinting-module-3ee625ebac95?source=rss------bugbounty-5"/>
+        <updated>2026-10-29T21:52:27.000Z</updated>
+        <summary type="html"><![CDATA[Hi everyone! I hope you’re doing well.
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>0xOGH</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CPTS (Footprinting module)]]></title>
+        <id>https://medium.com/p/3ee625ebac95</id>
+        <link href="https://medium.com/@osamahegazey605/cpts-footprinting-module-3ee625ebac95?source=rss------redteam-5"/>
+        <updated>2026-10-29T21:52:27.000Z</updated>
+        <summary type="html"><![CDATA[Hi everyone! I hope you’re doing well.
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>0xOGH</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[把 666 个会话摊开看：一份 DSH 使用经验与教训的复盘 - 我才是银古]]></title>
+        <id>https://www.cnblogs.com/znlgis/p/23489729</id>
+        <link href="https://www.cnblogs.com/znlgis/p/23489729"/>
+        <updated>2026-10-29T21:26:00.000Z</updated>
+        <summary type="html"><![CDATA[这是一篇只谈&quot;怎么用&quot;、不谈&quot;做了什么&quot;的复盘。所有案例都做了脱敏：不出现项目名、仓库名、文件路径、文件名、类名与业务专有名词，只保留可迁移的行为模式与过程统计。文中的数字来自对本机全部会话记录的离线解析，口径在第二节说明。 太长不看 如果你只读三百字，记住这八条： 首轮把口径付清。目标、事实源、验]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Payment Bypass in Munshi: Forging a PhonePe Webhook to Activate an Unpaid Subscription]]></title>
+        <id>https://medium.com/p/ce0806829fa4</id>
+        <link href="https://medium.com/@TheWildEye/payment-bypass-in-munshi-forging-a-phonepe-webhook-to-activate-an-unpaid-subscription-ce0806829fa4?source=rss------bugbounty-5"/>
+        <updated>2026-10-29T20:50:56.000Z</updated>
+        <summary type="html"><![CDATA[An unauthenticated payment webhook accepted a forged PhonePe success notification, allowing Munshi to activate a paid subscription without…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>TheWildEye</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LLM | 大模型数据公司（Scale AI、Mercor、Surge AI 等）的由来、现状与演变 - MoonOut]]></title>
+        <id>https://www.cnblogs.com/moonout/p/23488736</id>
+        <link href="https://www.cnblogs.com/moonout/p/23488736"/>
+        <updated>2026-10-29T17:25:00.000Z</updated>
+        <summary type="html"><![CDATA[这篇博客介绍“给大模型提供数据的公司”，如 Scale AI、Mercor、Surge AI 等的由来、现状与演变。 某种意义上是给自己看的“科普”，也在博客存档。 0. 一个概括：这些公司具体做什么 大模型数据公司，向大模型厂商出售&quot;人工判断&quot;。具体的，这些公司组织人类（早期是普通标注员，现在更多]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anatomy of an Attack Chain: From Container Escape to Domain Compromise]]></title>
+        <id>https://medium.com/p/c5e72d27c3ed</id>
+        <link href="https://medium.com/@akbarsp/anatomy-of-an-attack-chain-from-container-escape-to-domain-compromise-c5e72d27c3ed?source=rss------redteam-5"/>
+        <updated>2026-10-29T16:05:16.000Z</updated>
+        <summary type="html"><![CDATA[I’ve done a handful of AD labs at this point. Most of them drop you straight into a domain-joined network and say go. Enumerate users…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Akbarsp</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dubbo 接口测试,有手就行,DubboTester 一站式搞定调试、压测、MCP 和 HTTP - lulianqi15]]></title>
+        <id>https://www.cnblogs.com/lulianqi/p/23483822</id>
+        <link href="https://www.cnblogs.com/lulianqi/p/23483822"/>
+        <updated>2026-10-29T15:52:00.000Z</updated>
+        <summary type="html"><![CDATA[引言 我们在接口测试或调试中要调一个 Dubbo 接口，要先找接口 JAR、准备 Java 环境、写一段调用代码，再研究复杂对象怎么构造？临时测一下性能，还要换工具、写脚本？想让 AI 或其他语言调用现有接口，又得加一层适配服务？ DubboTester 想把这些事情变简单：选中服务方法，示例参数自]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用 Electron 做的 AI 视频切片工作台：VClip 的技术选型与踩坑实录 - 又过二十]]></title>
+        <id>https://www.cnblogs.com/wyang/p/23487396</id>
+        <link href="https://www.cnblogs.com/wyang/p/23487396"/>
+        <updated>2026-10-29T15:33:00.000Z</updated>
+        <summary type="html"><![CDATA[一句话概括：把一段 1 小时的视频丢进去，它在本机跑完语音识别，把带时间戳的字幕交给大模型挑出值得发的片段， 你在时间轴上拖两下，一键导出十几条能直接发的切片 —— 全程不传视频、不上传音频。 ↑ 真实运行截图：左侧播放器、右侧「预监画面」、中间时间轴（字幕轨 + 切片轨）、底部字幕/切片/导出面板]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【轻量化复刻大模型】Linear Attention 与 Sparse Attention 梳理 - 罗西的思考]]></title>
+        <id>https://www.cnblogs.com/rossiXYZ/p/23430544</id>
+        <link href="https://www.cnblogs.com/rossiXYZ/p/23430544"/>
+        <updated>2026-10-29T12:37:00.000Z</updated>
+        <summary type="html"><![CDATA[【轻量化复刻大模型】Linear Attention 与 Sparse Attention 梳理 目录【轻量化复刻大模型】Linear Attention 与 Sparse Attention 梳理0x00 概要0.1 新系列0.2 注意力0x01 总览：两条路线到底在压缩什么1.1 Full At]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[P15569 [COCI 2025/2026 #5] 结构 / Struktura 题解 - lvwangshu]]></title>
+        <id>https://www.cnblogs.com/lvwangshuOI/p/23485788</id>
+        <link href="https://www.cnblogs.com/lvwangshuOI/p/23485788"/>
+        <updated>2026-10-29T11:44:00.000Z</updated>
+        <summary type="html"><![CDATA[P15569 [COCI 2025/2026 #5] 结构 / Struktura 题解 tag : 矩阵快速幂 矩阵加速 DP 转移 前置知识 矩阵快速幂 线性代数基础 赛时这道题写了 \(O(n)\) DP，得了 76 分，但不太熟悉矩阵加速，没有写出正解 这道题有更简单的方法，但为了练习矩阵加]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI Agent如何通过MCP连接到华为云RDS Supabase应用平台 - 华为云开发者联盟]]></title>
+        <id>https://www.cnblogs.com/huaweiyun/p/23484548</id>
+        <link href="https://www.cnblogs.com/huaweiyun/p/23484548"/>
+        <updated>2026-10-29T09:32:00.000Z</updated>
+        <summary type="html"><![CDATA[认证、存储、实时推送、数据库操作，AI Agent想管后端，传统方式要开发接口、写SQL、用数据库客户端；今天一句话就能直驱数据库，前提是先接上MCP。 小张是AI创业公司的全栈工程师。上周老板甩来一句&quot;让AI Agent直接管数据库，别再让人写接口了&quot;。可Agent要查表、改数据、管用户，每新增一]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building METIS: Inside a Modular Exploitation Framework in Python]]></title>
+        <id>https://medium.com/p/14753b361eb4</id>
+        <link href="https://k3ystr0k3r.medium.com/building-metis-inside-a-modular-exploitation-framework-in-python-14753b361eb4?source=rss------redteam-5"/>
+        <updated>2026-10-29T09:13:13.000Z</updated>
+        <summary type="html"><![CDATA[By K3ysTr0K3R
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Jared Brits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NoSQL Injection]]></title>
+        <id>https://medium.com/p/0f976e5c1d13</id>
+        <link href="https://medium.com/@nadana12155/nosql-injection-0f976e5c1d13?source=rss------redteam-5"/>
+        <updated>2026-10-29T09:01:24.000Z</updated>
+        <summary type="html"><![CDATA[📋 Introduction
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>NadaAshraf</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Agent 支线知识：Personal Agent 如何理解个人意图？ - 小七-七牛开发者]]></title>
+        <id>https://www.cnblogs.com/Qiniu-developer/p/23483548</id>
+        <link href="https://www.cnblogs.com/Qiniu-developer/p/23483548"/>
+        <updated>2026-10-29T08:28:00.000Z</updated>
+        <summary type="html"><![CDATA[有了 Personal Agent 之后，出差安排行程就方便多了。只要对它说一句“帮我安排一下行程”，它就能帮你安排得明明白白。 但回头看看“帮我安排一下行程”这句话，其实省略了不少必要信息。什么时候出发、坐飞机还是高铁、酒店订在哪里，要不要提前一天到，这些都没说。 以前用 AI 工具安排行程，少不]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[重新理解 RankMixer：扩参为什么有效，又为什么划算？ - 石头开会]]></title>
+        <id>https://www.cnblogs.com/GlenTt/p/23483025</id>
+        <link href="https://www.cnblogs.com/GlenTt/p/23483025"/>
+        <updated>2026-10-29T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[重新理解 RankMixer：扩参为什么有效，又为什么划算？ RankMixer 的优势在于，扩大模型后能够继续提高推荐精度，同时将新增计算的资源成本控制在可接受的范围内。 它的结构使更多参数能够带来效果收益；参数扩展增加了计算需求，更大的计算任务与相应的执行设计又让 GPU 算力得到更充分利用。论]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[没有 Mac 版客户端，我拿 Windows 做了台跳板机 - 掸尘]]></title>
+        <id>https://www.cnblogs.com/liuzhang/p/23482978</id>
+        <link href="https://www.cnblogs.com/liuzhang/p/23482978"/>
+        <updated>2026-10-29T07:52:00.000Z</updated>
+        <summary type="html"><![CDATA[最近接集团的项目，要连他们的 Oracle 数据库。数据库在内网，客户端只有 Windows 版，我的 Mac 连不上。 公司有一台 Windows 电脑能正常连内网，我的想法是：把这台 Windows 变成跳板机，把内网里的数据库端口转到局域网，Mac 直接连这台 Windows 的局域网 IP，]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Agent Swarm：让组织与经验一起生长 - Florian]]></title>
+        <id>https://www.cnblogs.com/fanzhidongyzby/p/23482107/swarm</id>
+        <link href="https://www.cnblogs.com/fanzhidongyzby/p/23482107/swarm"/>
+        <updated>2026-10-29T06:57:00.000Z</updated>
+        <summary type="html"><![CDATA[问题在探索中变化，组织就应随之变化；临时团队会结束，有效经验却应进入下一次探索。把这两件事接起来，群体才有机会从一次性的多 Agent 工作流，走向一个能够持续求解和学习的系统。]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Airgraph-ng : CAPR vs CPG]]></title>
+        <id>https://medium.com/p/b06ee15f033c</id>
+        <link href="https://medium.com/@b2soro/airgraph-ng-capr-vs-cpg-b06ee15f033c?source=rss------redteam-5"/>
+        <updated>2026-10-29T06:48:52.000Z</updated>
+        <summary type="html"><![CDATA[En sécurité Wi-Fi, capturer des trames ne suffit pas.
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>ATTE-THM</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Search Source ~ CyLab Security Academy Write-up | Finding Hidden Information in Website Files]]></title>
         <id>https://medium.com/p/060b51bbeebb</id>
