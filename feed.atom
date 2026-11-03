@@ -2,10 +2,352 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cod3crash.github.io/sec-feed/index.html</id>
     <title>security feed</title>
-    <updated>2026-11-02T05:38:00.850Z</updated>
+    <updated>2026-11-03T06:17:58.054Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://cod3crash.github.io/sec-feed/index.html"/>
     <link rel="self" href="https://cod3crash.github.io/sec-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[DeepSeek 发布的新架构 Super-agent 是什么，带你认识新理念 - 程序员天天困]]></title>
+        <id>https://www.cnblogs.com/rangsh/p/23534281</id>
+        <link href="https://www.cnblogs.com/rangsh/p/23534281"/>
+        <updated>2026-11-03T06:06:00.000Z</updated>
+        <summary type="html"><![CDATA[DeepSeek Super-agent 不是新模型，而是把 Router 和 Worker 拆成两层的调度架构。讲清它解决什么、怎么转、哪里还用不上]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[哈希表详细讲解 - Emoji-happy]]></title>
+        <id>https://www.cnblogs.com/Emoji-happy/p/23533093</id>
+        <link href="https://www.cnblogs.com/Emoji-happy/p/23533093"/>
+        <updated>2026-11-03T03:36:00.000Z</updated>
+        <summary type="html"><![CDATA[内容部分引用 oi-wiki 哈希表 引入 哈希表又称散列表，一种以「key-value」形式存储数据的数据结构．所谓以「key-value」形式存储数据，是指任意的键值 key 都唯一对应到内存中的某个位置．只需要输入查找的键值，就可以快速地找到其对应的 value．可以把哈希表理解为一种高级的数]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI 写代码越快，企业越需要自己的 Harness - 贾克斯的平行世界]]></title>
+        <id>https://www.cnblogs.com/zh94/p/23532252</id>
+        <link href="https://www.cnblogs.com/zh94/p/23532252"/>
+        <updated>2026-11-03T02:35:00.000Z</updated>
+        <summary type="html"><![CDATA[周六在上海的&#160;AI Maker Summit&#160;大会上，分享了一下我们在&#160;Harness Coding&#160;上的一些实践。 这次也把分享时使用的&#160;PPT，以及我演讲前准备的完整口播稿，一起放到公众号上。 这里先多聊两句。 我个人做 PPT 的习惯，一般是先把整场 PPT 梳理出来，然后再针对每一页，单独写]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[从中间件的副本确认机制到 fsync：一条数据到底什么时候才算真正安全？ - _星河长明]]></title>
+        <id>https://www.cnblogs.com/xu214/p/23532149</id>
+        <link href="https://www.cnblogs.com/xu214/p/23532149"/>
+        <updated>2026-11-03T02:29:00.000Z</updated>
+        <summary type="html"><![CDATA[在研究 Kafka、Elasticsearch 和 MySQL 的可靠性机制时，有一个问题很容易被忽略： 一条数据写入成功，到底意味着什么？ 比如，Kafka 返回了发送成功，ES 返回了写入成功，MySQL 的事务也提交成功了。这些系统都告诉我们操作已经完成，但它们对数据可靠性的保证并不完全相同。]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[源生成与 AOT 就绪的微信生态 .NET SDK：结构、能力边界与 API 定位方法 - 玩泥巴的|mudtools.cn]]></title>
+        <id>https://www.cnblogs.com/mudtools/p/23531843</id>
+        <link href="https://www.cnblogs.com/mudtools/p/23531843"/>
+        <updated>2026-11-03T02:18:00.000Z</updated>
+        <summary type="html"><![CDATA[常见的 .NET 微信 SDK 采用静态门面 + 进程级凭据字典 + Newtonsoft.Json 反射序列化。这套结构在单体应用里够用，但有三处硬约束：静态方法没有 DI 注入点，无法替换实现，也无法在测试中打桩；全局凭据字典没有租户维度，一个进程服务多个企业时，令牌刷新与失效会互相影响；反射序]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Milvus知识库PDF导入失败怎么办？10分钟看懂异常日志排查 - 努力的小雨]]></title>
+        <id>https://www.cnblogs.com/guoxiaoyu/p/23531325</id>
+        <link href="https://www.cnblogs.com/guoxiaoyu/p/23531325"/>
+        <updated>2026-11-03T01:44:00.000Z</updated>
+        <summary type="html"><![CDATA[上一篇，我用调用链拆开了一次 RAG 问答的耗时，看清时间花在 Embedding、Milvus 检索还是模型生成。这次把视线往前移一步：回答要用的资料，得先成功进入知识库。PDF 如果卡在导入阶段，单看问答接口，还解释不了它为什么没有被检索到。 我的项目基于 Spring AI Alibaba，P]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Network Security Testing Explained: What to Look For and How to Test It End to End]]></title>
+        <id>https://medium.com/p/5cf118d50a4c</id>
+        <link href="https://medium.com/@vigneshkumaroffsec/network-security-testing-explained-what-to-look-for-and-how-to-test-it-end-to-end-5cf118d50a4c?source=rss------bugbounty-5"/>
+        <updated>2026-11-03T01:38:13.000Z</updated>
+        <summary type="html"><![CDATA[A complete methodology for assessing a network: how to map it, discover hosts and services, find weak configurations, test segmentation…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Vigneshkumaroffsec</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Redis 为什么快？把 "存内存" 这句话拆开看 - codigger]]></title>
+        <id>https://www.cnblogs.com/codigger/p/23531352</id>
+        <link href="https://www.cnblogs.com/codigger/p/23531352"/>
+        <updated>2026-11-03T01:38:00.000Z</updated>
+        <summary type="html"><![CDATA[聊 Redis 的性能，绕不开那句被说烂的话：&quot;快是因为数据放内存里。&quot; 这话不算错，但太偷懒了。同样把数据放内存的数据库不少，跑到每秒十万级 QPS 的没几个 —— 单节点 Redis 在一台普通服务器上，读能到 10 万 +，写能到 8 万 +，比 MySQL 快一到两个数量级。光靠内存解释不了]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「设计一个在线文档协同编辑系统」：从 WebSocket、OT/CRDT 到快照回放，一篇讲透这道面试顶流题 - Rain的Java大神实战圈]]></title>
+        <id>https://www.cnblogs.com/zrui-xyu/p/23531328</id>
+        <link href="https://www.cnblogs.com/zrui-xyu/p/23531328"/>
+        <updated>2026-11-03T01:36:00.000Z</updated>
+        <summary type="html"><![CDATA[一篇吃透协同编辑系统设计：围绕多人实时文档，详解 WebSocket 网关架构、OT 变换、CRDT（RGA/LSEQ）两套冲突方案，含完整 Java 实现。讲解文档级 Actor 消并发、操作合并、增量同步、快照压缩存储、断线重连、Presence 光标隔离等工程坑点，附带压测指标与 MVP 迭代...]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitHub 上最值得装的 8 个 Agent Skill 仓库，亲测好用！ - 狂师]]></title>
+        <id>https://www.cnblogs.com/jinjiangongzuoshi/p/23530628</id>
+        <link href="https://www.cnblogs.com/jinjiangongzuoshi/p/23530628"/>
+        <updated>2026-11-03T00:38:00.000Z</updated>
+        <summary type="html"><![CDATA[今天给大家整理 8 个 GitHub 上值得装的 Agent Skill 仓库，star 从 5 万到 30 万不等。这几个Skill项目也是我平常经常用的，star 数是发文当天从 GitHub API 现拉的，覆盖四类需求，管住 Agent 写代码的手、管住 Agent 的审美、帮 Agent]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[前后端Long精度丢失的踩坑 - 一个码农的日常]]></title>
+        <id>https://www.cnblogs.com/zhangs1986/p/23214703</id>
+        <link href="https://www.cnblogs.com/zhangs1986/p/23214703"/>
+        <updated>2026-11-03T00:08:00.000Z</updated>
+        <summary type="html"><![CDATA[那天前端同事跑过来跟我说，&quot;你那个接口返回的订单ID，更新数据时接口没返回异常，但数据重新查又没更新成功&quot; 我当时第一反应是：不可能，后端查出来是什么就返回什么，肯定是你前端哪里处理出了问题。 然后我打开浏览器F12一看，Network面板里接口返回的JSON里，orderId 的值是 178452]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to submit a local git repository to an empty github repo?]]></title>
+        <id>http://acassis.wordpress.com/?p=13155</id>
+        <link href="https://acassis.wordpress.com/2026/11/02/how-to-submit-a-local-git-repository-to-an-empty-github-repo/"/>
+        <updated>2026-11-02T22:30:33.000Z</updated>
+        <summary type="html"><![CDATA[$ git remote add origin $ git push origin main Username for ' username Password for ' Enumerating objects: 940, done. Counting objects: 100% (940/940), done. Delta compression using up to…]]></summary>
+        <author>
+            <name>acassis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Presidential: 1 — From Web Enumeration to Root via Linux Capabilities]]></title>
+        <id>https://medium.com/p/fab2b91d80f9</id>
+        <link href="https://medium.com/@nadana12155/presidential-1-from-web-enumeration-to-root-via-linux-capabilities-fab2b91d80f9?source=rss------redteam-5"/>
+        <updated>2026-11-02T21:46:21.000Z</updated>
+        <summary type="html"><![CDATA[A hands-on penetration-testing lab covering Nmap, virtual-host discovery, exposed backups, phpMyAdmin CVE-2018-12613, PHP session…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>NadaAshraf</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This Is How Phishing Links Slip Into Trusted Business Emails]]></title>
+        <id>https://medium.com/p/c44cb79890f8</id>
+        <link href="https://medium.com/@TheWildEye/this-is-how-phishing-links-slip-into-trusted-business-emails-c44cb79890f8?source=rss------bugbounty-5"/>
+        <updated>2026-11-02T20:13:59.000Z</updated>
+        <summary type="html"><![CDATA[How a vulnerable purchase-inquiry workflow allowed attacker-controlled links to reach recipients through legitimate business emails.
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>TheWildEye</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Code Python PoCs to Exploit Web Vulnerabilities (2026 Guide)]]></title>
+        <id>https://medium.com/p/2339ff9b00c6</id>
+        <link href="https://systemweakness.com/how-to-code-python-pocs-to-exploit-web-vulnerabilities-2026-guide-2339ff9b00c6?source=rss------bugbounty-5"/>
+        <updated>2026-11-02T18:46:01.000Z</updated>
+        <summary type="html"><![CDATA[A complete beginner-friendly guide, to understanding web vulnerabilities and how to exploit them using Python.
+Continue reading on System Weakness »]]></summary>
+        <author>
+            <name>Tommaso Bona</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Database Said No. The Disk Said Yes.]]></title>
+        <id>https://medium.com/p/fef694d74e89</id>
+        <link href="https://medium.com/@0xSpiderx/the-database-said-no-the-disk-said-yes-fef694d74e89?source=rss------bugbounty-5"/>
+        <updated>2026-11-02T18:19:57.000Z</updated>
+        <summary type="html"><![CDATA[Inside a non-atomic file upload flaw where a 500 Server Error concealed a surviving PHP shell and how MIME-polyglotting bypassed the crash…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Khaled Ebrahem</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Killed by a Browser, Revived by a Backslash]]></title>
+        <id>https://medium.com/p/8baa64c30b28</id>
+        <link href="https://medium.com/@cfmohammed24/killed-by-a-browser-revived-by-a-backslash-8baa64c30b28?source=rss------bugbounty-5"/>
+        <updated>2026-11-02T17:50:33.000Z</updated>
+        <summary type="html"><![CDATA[Single Quote Turned a Dead Bug to Full JS Control over NASA.gov
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>starkwizzer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How I Found My First Bug: Information Disclosure via Exposed Directory Listing]]></title>
+        <id>https://medium.com/p/5589bc190c5c</id>
+        <link href="https://medium.com/@atitofffff/how-i-found-my-first-bug-information-disclosure-via-exposed-directory-listing-5589bc190c5c?source=rss------bugbounty-5"/>
+        <updated>2026-11-02T17:44:01.000Z</updated>
+        <summary type="html"><![CDATA[Introduction
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>ATIT0</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Bridge Between a Web Page and the Phone Itself: Abusing an Android WebView JavaScript Interface]]></title>
+        <id>https://medium.com/p/0e50728352f2</id>
+        <link href="https://medium.com/@t4nv1/the-bridge-between-a-web-page-and-the-phone-itself-abusing-an-android-webview-javascript-interface-0e50728352f2?source=rss------bugbounty-5"/>
+        <updated>2026-11-02T17:01:03.000Z</updated>
+        <summary type="html"><![CDATA[Hybrid mobile apps occupy an unusual security position: part native application, part embedded web browser, with a deliberate bridge…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>T4nv1</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[10 Burp Suite Features Most Bug Bounty Hunters Don’t Know About]]></title>
+        <id>https://medium.com/p/78a7618ca172</id>
+        <link href="https://meetcyber.net/10-burp-suite-features-most-bug-bounty-hunters-dont-know-about-78a7618ca172?source=rss------bugbounty-5"/>
+        <updated>2026-11-02T17:00:44.000Z</updated>
+        <summary type="html"><![CDATA[I used Burp for almost a year before finding half of these — here’s everything buried in the menus that actually finds bugs
+Continue reading on MeetCyber »]]></summary>
+        <author>
+            <name>Monika</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cloud Infrastructure Security in AWS, GCP and Azure: What to Automate and What to Check by Hand]]></title>
+        <id>https://medium.com/p/533321f84ba4</id>
+        <link href="https://medium.com/@vigneshkumaroffsec/cloud-infrastructure-security-in-aws-gcp-and-azure-what-to-automate-and-what-to-check-by-hand-533321f84ba4?source=rss------bugbounty-5"/>
+        <updated>2026-11-02T16:35:15.000Z</updated>
+        <summary type="html"><![CDATA[A practical guide to securing the three major clouds: the risks they share, the services that differ, the open-source tools that scan them…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Vigneshkumaroffsec</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CORS Misconfiguration: The Bug Hiding in One Response Header]]></title>
+        <id>https://medium.com/p/3205073c9ac6</id>
+        <link href="https://osintteam.blog/cors-misconfiguration-the-bug-hiding-in-one-response-header-3205073c9ac6?source=rss------bugbounty-5"/>
+        <updated>2026-11-02T15:46:36.000Z</updated>
+        <summary type="html"><![CDATA[Why a single `Access-Control-Allow-Origin` reflection can quietly hand over someone’s entire account
+Continue reading on OSINT Team »]]></summary>
+        <author>
+            <name>Monika</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[许愿式编程：我把 Typability 改成了能日常顶替 Typora 的样子 - 树欲静·而风不止]]></title>
+        <id>https://www.cnblogs.com/towerbit/p/23527505</id>
+        <link href="https://www.cnblogs.com/towerbit/p/23527505"/>
+        <updated>2026-11-02T15:31:00.000Z</updated>
+        <summary type="html"><![CDATA[为什么要 fork 我用 Typora 挺长时间了，它确实好用，但有两个问题一直绕不过去 要花钱。网上那些&quot;激活版&quot;破解得不彻底——过一阵又弹试用提示，需要清除缓存，反复折腾。 改不动。用着用着总有些小地方不顺手（弹窗逻辑、窗口行为、菜单状态），但在闭源软件里只能忍着。 所以我找了开源基座：Typa]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【IDL】基于ENVIRaster（OPENRaster)的Himawari数据几何校正 - gaolegaoya]]></title>
+        <id>https://www.cnblogs.com/gaogao-web/p/23527137</id>
+        <link href="https://www.cnblogs.com/gaogao-web/p/23527137"/>
+        <updated>2026-11-02T14:18:00.000Z</updated>
+        <summary type="html"><![CDATA[【IDL】基于ENVIRaster（OPENRaster)的Himawari数据几何校正 [!TIP] 写在前面：ENVI桌面使用Reproject GLT with Bowtie Correction tool处理Himawari几何校正很方便，但涉及到批处理（例如ENVI MODEL或者IDL代]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[阅境｜让知识更好读 - 石头开会]]></title>
+        <id>https://www.cnblogs.com/GlenTt/p/23526962</id>
+        <link href="https://www.cnblogs.com/GlenTt/p/23526962"/>
+        <updated>2026-11-02T13:28:00.000Z</updated>
+        <summary type="html"><![CDATA[阅境｜让知识更好读 把 Markdown 与配图，变成一份可以独立打开、自由调整阅读体验的 HTML 文档。 适合知识笔记、图文教程、课程讲义与长篇学习资料。用 Markdown 维护内容，用同一套页面规则展示；也可以让 AI 按大纲写作、制作配图，再调用固定程序生成阅读版。 无需注册账号，无需运行]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【轻量化复刻大模型 / KIMI K3】KDA：按 Channel 控制遗忘 - 罗西的思考]]></title>
+        <id>https://www.cnblogs.com/rossiXYZ/p/23505056</id>
+        <link href="https://www.cnblogs.com/rossiXYZ/p/23505056"/>
+        <updated>2026-11-02T12:13:00.000Z</updated>
+        <summary type="html"><![CDATA[【轻量化复刻大模型 / KIMI K3】KDA：按 Channel 控制遗忘 目录【轻量化复刻大模型 / KIMI K3】KDA：按 Channel 控制遗忘0x00 概要0x01 演进脉络与定位1.1 前身1.2 同期竞品1.3 KDA 论文1.4 定位1.5 KimiDeltaAttention]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[gorm中为啥SQL语句是片段 - 何人陪我共长生]]></title>
+        <id>https://www.cnblogs.com/ishoulgodo/p/23526539</id>
+        <link href="https://www.cnblogs.com/ishoulgodo/p/23526539"/>
+        <updated>2026-11-02T11:39:00.000Z</updated>
+        <summary type="html"><![CDATA[查询语句 r.GET(&quot;/delete&quot;, func(c *gin.Context) { // 删除用户名称是 周末 的用户 class := modules.Class{} modules.DB.Where(&quot;name = ?&quot;, &quot;周末&quot;).Delete(&amp;class) c.JSON(200,]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[百亿数据写入 MySQL：空间降维 × IO 降维 × 工程兜底 - IT规划师]]></title>
+        <id>https://www.cnblogs.com/hugogoos/p/23522225</id>
+        <link href="https://www.cnblogs.com/hugogoos/p/23522225"/>
+        <updated>2026-11-02T11:17:00.000Z</updated>
+        <summary type="html"><![CDATA[100 亿条数据如何快速写入 MySQL？.NET 10 + SqlSugar 实战：空间降维、IO 降维与工程兜底 性能参考：逐条 INSERT 约 115~231 天（磁盘与网络更差可达数百天量级，更好约 2 个月）；整套方案（多分片、多实例并行）落地，SSD 环境下总吞吐可达 3.5 小时量级]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[百万订单踩坑记——我注释了财务流水 - 掸尘]]></title>
+        <id>https://www.cnblogs.com/liuzhang/p/23525778</id>
+        <link href="https://www.cnblogs.com/liuzhang/p/23525778"/>
+        <updated>2026-11-02T10:17:00.000Z</updated>
+        <summary type="html"><![CDATA[接上文 《百万订单踩坑记-迷信框架》 。上次是框架的坑，这两次事故是我们自己埋的：一个是财务流水，一个是脚本履约。 一张账户表，一张流水表 财务的设计很简单，一张账户表，一张流水表。 流水表核心字段 字段 说明 userId 用户 ID platformId 平台 ID ioValue 收支金额 o]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Attention 演进路线：5 大阶段，11 篇奠基论文 - AI-Frontiers]]></title>
+        <id>https://www.cnblogs.com/aifrontiers/p/23525741</id>
+        <link href="https://www.cnblogs.com/aifrontiers/p/23525741"/>
+        <updated>2026-11-02T10:14:00.000Z</updated>
+        <summary type="html"><![CDATA[原文：​https://mp.weixin.qq.com/s/UuKiNeQkoNa7RWm2Llgllw 注意力机制走过了十余年的技术迭代。它最初只是循环神经网络里的一个对齐插件，后来成长为大模型时代的算力核心。梳理这条技术脉络，可以看到一条非常清晰的演进主线。早期研究聚焦于「怎么让模型学会抓重点]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[abp学习笔记 - 工作单元保存时机 - 叫我安不理]]></title>
+        <id>https://www.cnblogs.com/lmy5215006/p/23397869</id>
+        <link href="https://www.cnblogs.com/lmy5215006/p/23397869"/>
+        <updated>2026-11-02T10:01:00.000Z</updated>
+        <summary type="html"><![CDATA[简介 我改了一个实体，它什么时候，写了哪些列，要不要调用UpdateAsync? 仓储方法自带工作单元 官方原文说到，If you call a repository method and there is no UOW started yet, it automatically begins a]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pandas 与 Polars：语法、性能和资源占用方面的对比 - wang_yb]]></title>
+        <id>https://www.cnblogs.com/wang_yb/p/23525611</id>
+        <link href="https://www.cnblogs.com/wang_yb/p/23525611"/>
+        <updated>2026-11-02T09:58:00.000Z</updated>
+        <summary type="html"><![CDATA[1. 为什么要把这两个放在一起比 pandas 在 Python 里做数据处理差不多是&quot;事实标准&quot;了，十多年积累下来的生态和社区，几乎你搜到的教程、现成代码都是它。 Polars 是这两年冒出来的新选手，主打更快、更省内存、写法更干净。 于是很多人会纠结一个问题：Polars 到底比 pandas]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Quasar: A Cross-Platform Subdomain Enumeration Framework for Modern Cybersecurity & Red Team…]]></title>
+        <id>https://medium.com/p/1b434ed02cd8</id>
+        <link href="https://execure.medium.com/quasar-a-cross-platform-subdomain-enumeration-framework-for-modern-cybersecurity-red-team-1b434ed02cd8?source=rss------redteam-5"/>
+        <updated>2026-11-02T08:54:31.000Z</updated>
+        <summary type="html"><![CDATA[Automating Subdomain Discovery, DNS Validation, Results Consolidation, and HTTP/HTTPS Service Detection with Python.
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>eXecure - Execute Securely</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[From P4 to P1: Day 10 — Server-Side Request Forgery (SSRF): Finding and Validating Server-Side…]]></title>
         <id>https://medium.com/p/c76e4c785bd2</id>
@@ -506,6 +848,18 @@ Continue reading on Medium »]]></summary>
 Continue reading on Medium »]]></summary>
         <author>
             <name>Furkan Yasin Keskin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vulnerability & Patch Roundup — October 2026]]></title>
+        <id>https://blog.sucuri.net/?p=36340</id>
+        <link href="https://blog.sucuri.net/2026/10/vulnerability-patch-roundup-october-2026.html"/>
+        <updated>2026-10-31T19:19:57.000Z</updated>
+        <summary type="html"><![CDATA[If you operate a website, you’re already aware that a single unpatched vulnerability can render your site inaccessible, compromise your reputation, or necessitate extensive remediation following an attack. Most security breaches we observe originate from automated attacks that exploit known software vulnerabilities, often the same ones that have been previously reported and disclosed.
+To assist in maintaining your security posture, we have compiled this month’s summary of essential security updates and vulnerability patches pertinent to the WordPress ecosystem.
+Continue reading Vulnerability & Patch Roundup — October 2026 at Sucuri Blog.]]></summary>
+        <author>
+            <name>Sucuri Malware Research Team</name>
         </author>
     </entry>
     <entry>
