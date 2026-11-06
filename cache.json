@@ -5760,6 +5760,106 @@
       "siteUrl": "https://medium.com/tag/bugbounty/latest?source=rss------bugbounty-5",
       "articles": [
         {
+          "id": "https://medium.com/p/bba0fa514e49",
+          "author": "Vigneshkumaroffsec",
+          "description": "How a package name your build already trusts gets claimed by someone else, how I found one in a bug bounty, and the registry settings that…\nContinue reading on Medium »",
+          "link": "https://medium.com/@vigneshkumaroffsec/dependency-confusion-explained-how-a-missing-npm-package-becomes-remote-code-execution-bba0fa514e49?source=rss------bugbounty-5",
+          "publishedOn": "2026-11-06T02:23:46.000Z",
+          "wordCount": null,
+          "title": "Dependency Confusion Explained: How a Missing NPM Package Becomes Remote Code Execution",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/525fbc4b7277",
+          "author": "Ohyunwoods",
+          "description": "A missing authorization bug in Solidus (GHSA-m8v9–2qv9-xrpj)\nContinue reading on Medium »",
+          "link": "https://medium.com/@ohyunwoods663/the-shipment-you-shouldnt-be-able-to-touch-525fbc4b7277?source=rss------bugbounty-5",
+          "publishedOn": "2026-11-05T23:58:58.000Z",
+          "wordCount": null,
+          "title": "The Shipment You Shouldn’t Be Able to Touch",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/9e5998c5d4af",
+          "author": "Muhammedmoslaam",
+          "description": "How IPv6 representations bypassed an IPv4-focused webhook URL validator, exposing a potential path to internal services.\nContinue reading on Medium »",
+          "link": "https://medium.com/@muhammedmoslaam/bypassing-url-validation-with-ipv6-an-ssrf-story-9e5998c5d4af?source=rss------bugbounty-5",
+          "publishedOn": "2026-11-05T23:19:26.000Z",
+          "wordCount": null,
+          "title": "Bypassing URL Validation with IPv6: An SSRF Story",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/db7e8eb89a9f",
+          "author": "Burrito",
+          "description": "A sandbox escape in playground.wordpress.net, one iframe attribute, and a $0 lesson in bug bounty timing.\nContinue reading on Medium »",
+          "link": "https://medium.com/@mohamed.adel.887275/the-jail-that-gave-its-prisoner-a-staff-badge-escaping-wordpress-playgrounds-sandbox-db7e8eb89a9f?source=rss------bugbounty-5",
+          "publishedOn": "2026-11-05T20:33:55.000Z",
+          "wordCount": null,
+          "title": "The Jail That Gave Its Prisoner a Staff Badge: Escaping WordPress Playground’s Sandbox",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/bcfeac7b37d3",
+          "author": "Burrito",
+          "description": "An errand-boy proxy, a split-personality hostname, and a delivery to the proxy’s own mailroom.\nContinue reading on Medium »",
+          "link": "https://medium.com/@mohamed.adel.887275/the-bouncer-who-only-read-ipv4-ssrf-in-wordpress-playgrounds-cors-proxy-bcfeac7b37d3?source=rss------bugbounty-5",
+          "publishedOn": "2026-11-05T20:03:22.000Z",
+          "wordCount": null,
+          "title": "The Bouncer Who Only Read IPv4: SSRF in WordPress Playground’s CORS Proxy",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/6bf2988c28e7",
+          "author": "Zahid Hussain Shah",
+          "description": "Part of my OWASP Top 10 series — taught from the basics up, with a live lab you can follow along at home.\nContinue reading on OSINT Team »",
+          "link": "https://osintteam.blog/broken-access-control-2-i-flipped-one-cookie-from-false-to-true-and-walked-into-the-admin-6bf2988c28e7?source=rss------bugbounty-5",
+          "publishedOn": "2026-11-05T19:15:53.000Z",
+          "wordCount": null,
+          "title": "Broken Access Control #2: I Flipped One Cookie From “false” to “true” and Walked Into the Admin…",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/5c12952970d2",
+          "author": "Burrito",
+          "description": "SCF 6.9.6 checked whether a referenced post was readable — but not whether its password-protected content was. In affected configurations…\nContinue reading on Medium »",
+          "link": "https://medium.com/@mohamed.adel.887275/the-password-was-in-the-json-a-wordpress-rest-api-access-control-bug-in-secure-custom-fields-5c12952970d2?source=rss------bugbounty-5",
+          "publishedOn": "2026-11-05T18:53:14.000Z",
+          "wordCount": null,
+          "title": "The Password Was in the JSON: A WordPress REST API Access-Control Bug in Secure Custom Fields",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/ab5dc640e5f7",
+          "author": "T4nv1",
+          "description": "Markdown-to-HTML rendering is one of the more deceptively difficult sanitization problems in web development, precisely because it looks…\nContinue reading on Medium »",
+          "link": "https://medium.com/@t4nv1/the-renderer-that-trusted-its-own-output-stored-xss-through-a-markdown-sanitization-gap-ab5dc640e5f7?source=rss------bugbounty-5",
+          "publishedOn": "2026-11-05T17:11:01.000Z",
+          "wordCount": null,
+          "title": "The Renderer That Trusted Its Own Output: Stored XSS Through a Markdown Sanitization Gap",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/324f7dc89de9",
+          "author": "Very Lazy Tech",
+          "description": "What if I told you a single misstep in your identity security routine could hand attackers the keys to your entire digital life? It’s not…\nContinue reading on Medium »",
+          "link": "https://medium.com/@verylazytech/20-identity-security-mistakes-that-lead-to-account-takeover-learn-to-master-your-defenses-324f7dc89de9?source=rss------bugbounty-5",
+          "publishedOn": "2026-11-05T14:36:12.000Z",
+          "wordCount": null,
+          "title": "20 Identity Security Mistakes That Lead to Account Takeover: Learn to Master Your Defenses",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/118f672cdc45",
+          "author": "The XSS Rat",
+          "description": "Most JSON Web Token bugs die on the first three checks. Here’s the exact order I run them, and why I never start with the clever stuff.\nContinue reading on Medium »",
+          "link": "https://thexssrat.medium.com/the-five-check-jwt-chain-how-i-break-token-auth-before-i-touch-the-business-logic-118f672cdc45?source=rss------bugbounty-5",
+          "publishedOn": "2026-11-05T13:37:42.000Z",
+          "wordCount": null,
+          "title": "The Five-Check JWT Chain: How I Break Token Auth Before I Touch the Business Logic",
+          "imageUrl": null
+        },
+        {
           "id": "https://medium.com/p/d19503d4634f",
           "author": "cyb3rD1vvy@",
           "description": "Series: From P4 to P1\nDay: 12 of 30\nTopic: Server-Side Template Injection (SSTI)\nCategory: Web Application Security\nContinue reading on Medium »",
@@ -18427,6 +18527,26 @@
       "siteUrl": "https://medium.com/tag/redteam/latest?source=rss------redteam-5",
       "articles": [
         {
+          "id": "https://medium.com/p/bba0fa514e49",
+          "author": "Vigneshkumaroffsec",
+          "description": "How a package name your build already trusts gets claimed by someone else, how I found one in a bug bounty, and the registry settings that…\nContinue reading on Medium »",
+          "link": "https://medium.com/@vigneshkumaroffsec/dependency-confusion-explained-how-a-missing-npm-package-becomes-remote-code-execution-bba0fa514e49?source=rss------redteam-5",
+          "publishedOn": "2026-11-06T02:23:46.000Z",
+          "wordCount": null,
+          "title": "Dependency Confusion Explained: How a Missing NPM Package Becomes Remote Code Execution",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/d221c1c616d7",
+          "author": "Kelvin Santos[zdk]",
+          "description": "A threat report lands. Somewhere in it are the techniques an actor used, and my job is to know whether my detections would catch them. The…\nContinue reading on Medium »",
+          "link": "https://medium.com/@kelvinzdk/agentic-goes-purple-ai-driven-detection-validation-with-the-atomic-red-team-mcp-underground-labs-d221c1c616d7?source=rss------redteam-5",
+          "publishedOn": "2026-11-05T21:25:19.000Z",
+          "wordCount": null,
+          "title": "Agentic goes purple: AI-driven detection validation with the Atomic Red Team MCP — Underground Labs…",
+          "imageUrl": null
+        },
+        {
           "id": "https://medium.com/p/db01e52b1180",
           "author": "v01d19",
           "description": "Hello friend, I hope you’re doing great. Today, I’m going to share a very simple IDOR vulnerability I found in an external bug bounty…\nContinue reading on Medium »",
@@ -18454,6 +18574,16 @@
           "publishedOn": "2026-11-03T16:47:58.000Z",
           "wordCount": null,
           "title": "TryHackMe Room: Chaining Vulnerabilities — Learn how to chain vulnerabilities!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/663d83e218d8",
+          "author": "Threat Landscape",
+          "description": "ARTEX is an open-source, multi-agent AI penetration testing framework that has moved from lab tooling to active intrusion infrastructure…\nContinue reading on Medium »",
+          "link": "https://threatlandscape-io.medium.com/artex-open-source-agentic-pentest-framework-used-in-attacks-663d83e218d8?source=rss------redteam-5",
+          "publishedOn": "2026-11-03T00:00:59.000Z",
+          "wordCount": null,
+          "title": "ARTEX: Open-Source Agentic Pentest Framework Used in Attacks",
           "imageUrl": null
         },
         {
@@ -28729,6 +28859,206 @@
       "feedUrl": "https://feed.cnblogs.com/blog/sitehome/rss",
       "siteUrl": null,
       "articles": [
+        {
+          "id": "https://www.cnblogs.com/wyang/p/23559866",
+          "author": null,
+          "description": "项目地址：https://github.com/wyfirstname/REA-Video-UI 引擎上游：JuneYaooo/rea-video 刷到一条爆款视频，想知道它到底怎么做的：哪些画面是 AI 生成的、哪些是实拍、贴纸花字加了多少、BGM 和音效怎么配的——更进一步，能不能照着它自己复刻",
+          "link": "https://www.cnblogs.com/wyang/p/23559866",
+          "publishedOn": "2026-11-06T05:03:00.000Z",
+          "wordCount": 546,
+          "title": "rea-video拆解视频测试和效果展示 - 又过二十",
+          "imageUrl": "https://img2024.cnblogs.com/blog/633005/202611/633005-20261105142928508-11330721.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/zw-awa/p/23572664",
+          "author": null,
+          "description": "两根线就能挂住一堆设备，可当它们都想开口时，这条总线凭什么维持秩序？第九拍上那个应答位，为什么是“设备真的在”的唯一证据？",
+          "link": "https://www.cnblogs.com/zw-awa/p/23572664",
+          "publishedOn": "2026-11-06T04:49:00.000Z",
+          "wordCount": 1170,
+          "title": "两根线怎么挂住一堆设备：I2C 协议原理 - Zw-awa",
+          "imageUrl": "https://img2024.cnblogs.com/blog/3791643/202611/3791643-20261106121757692-1367264059.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/wang_yb/p/23572491",
+          "author": null,
+          "description": "先说结论：透视表不是一种新的计算方法，它是一个把明细数据按你的要求重新排列的工具。 拿一张两万行的订单明细举例。 每一行是一个订单，你想知道华东卖了多少，就得把华东那几千行金额加起来；想知道九个城市各卖多少，就得分成九堆分别加；想知道每个城市每个品类各卖多少，就得分二十几堆。 这些&quot;分堆再加总&quot;的动",
+          "link": "https://www.cnblogs.com/wang_yb/p/23572491",
+          "publishedOn": "2026-11-06T04:13:00.000Z",
+          "wordCount": 805,
+          "title": "经常听到的透视表是干什么的？ - wang_yb",
+          "imageUrl": "https://img2024.cnblogs.com/blog/83005/202611/83005-20261106121309177-1010665895.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/jeff-tsai/p/23571207/day-11-three-guarantees",
+          "author": null,
+          "description": "Day 5 划过定义驱动那条路的边界：跨表关联一律单字段等值、接的一定是物理数据表。报表、统计、批量导入超出这个范围，SQL 就自己写，任何框架都得留这条路。问题出在交界处：「这一段我不做」跟「这一段你全部自己来」是两回事，而开一个可以塞任意 SQL 字符串的入口，等于把它们写成同一件事。代价不会当",
+          "link": "https://www.cnblogs.com/jeff-tsai/p/23571207/day-11-three-guarantees",
+          "publishedOn": "2026-11-06T02:43:00.000Z",
+          "wordCount": 567,
+          "title": "Day 11：数据访问层的连接、Transaction 与查询条件 - Jeff-Tsai",
+          "imageUrl": "https://img2024.cnblogs.com/blog/3864267/202611/3864267-20261106104234964-966823545.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/dawudexiaowu/p/23570680",
+          "author": null,
+          "description": "收官篇教你怎么把前8篇成果写成毕业设计：论文按七章固定骨架填内容，核心说服力在实验对比表与三段分析话术；并给出答辩高频问题与话术，抓住&quot;为什么选CWRU、残差为何有效、能否迁移&quot;三个点即稳，全系列至此打通。",
+          "link": "https://www.cnblogs.com/dawudexiaowu/p/23570680",
+          "publishedOn": "2026-11-06T02:20:00.000Z",
+          "wordCount": 504,
+          "title": "手把手教你：基于深度学习的滚动轴承故障诊断｜第 9 篇 · 从代码到毕业设计：论文框架、实验表与答辩话术 - 大雾的小屋",
+          "imageUrl": "https://img2024.cnblogs.com/blog/2824078/202611/2824078-20261106101905798-941069616.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/zjdxr-up/p/23570681",
+          "author": null,
+          "description": "一份关于日志实现方式、必备特性与落地取舍的技术分析 面向做 AIOps / RAG / Agent 平台的工程与运维同学，供借鉴、拍砖和讨论 写在前面：一次让我改设计的追问 我们做的是一个骨干网 SDN 运维知识平台：十几份设备手册和 API 文档切成 815 个片段，向量库加 BM25 混合检索，",
+          "link": "https://www.cnblogs.com/zjdxr-up/p/23570681",
+          "publishedOn": "2026-11-06T02:20:00.000Z",
+          "wordCount": 1794,
+          "title": "当系统开始自己做判断：智能运维里的日志，为什么不能照搬传统那套 - FutureAI-Zeng",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/xyyt/p/23551419",
+          "author": null,
+          "description": "uni-app 鸿蒙离线工程有三种构建形态，能力边界完全不同：CLI 只能出前端资源，出不了原生工程，更出不了 har；完整 ArkTS 工程必须由 IDE 触发；UTS 插件必须单独 assembleHar。搞混这三条线，就会出现&quot;改了源码不生效&quot;&quot;同步一次把原生代码覆盖没了&quot;。本文是一套实战打法...",
+          "link": "https://www.cnblogs.com/xyyt/p/23551419",
+          "publishedOn": "2026-11-06T01:50:00.000Z",
+          "wordCount": 1450,
+          "title": "uni-app 鸿蒙离线打包：一个改动从源码到真机要穿过几条链 - 码间留白",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/neozhu/p/23570065",
+          "author": null,
+          "description": "把 AstrBot 接入个人微信：一个基于 Native API 的插件实践 如果已经在用 AstrBot 管理模型和插件，想在微信里继续使用，通常还需要解决一层接入问题：微信消息怎么进入 AstrBot，AstrBot 生成的文本、图片和语音又怎么回到微信？ WeChat Native 做的就是这",
+          "link": "https://www.cnblogs.com/neozhu/p/23570065",
+          "publishedOn": "2026-11-06T01:33:00.000Z",
+          "wordCount": 477,
+          "title": "把 AstrBot 接入个人微信：一个基于 Native API 的插件实践 - 阿新",
+          "imageUrl": "https://img2024.cnblogs.com/blog/5997/202611/5997-20261106093254548-662958750.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/frcoder/p/-/tack-harness-guide",
+          "author": null,
+          "description": "本文面向为个人或团队设计、搭建 AI 辅助编程工作流的工程师。 文中的参考实现，取自开源项目 Tack Harness ，可按需裁剪。完整源码可见：Github 1. 设计前的评估 1.1 一个基本判断 Claude Code、Cursor、TRAE、Codex 等编程 Agent，对大模型提供了一",
+          "link": "https://www.cnblogs.com/frcoder/p/-/tack-harness-guide",
+          "publishedOn": "2026-11-06T01:32:00.000Z",
+          "wordCount": 1423,
+          "title": "【Harness编程】构建 AI 编程工作流：设计原则与实施指南 - frcoder",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/jinjiangongzuoshi/p/23569949",
+          "author": null,
+          "description": "AI 时代，Agent 正在成规模走进产品，客服机器人、编程助手、知识库问答，背后都是 Agent 在替用户干活。Agent 好不好用，光靠人拍脑袋说不清，要想准确评估 Agent 质量，就需要一套算得清的指标体系。 这篇围绕两个问题展开，Agent 测评指标具体有哪些，这些指标该怎么算。 比如拿内",
+          "link": "https://www.cnblogs.com/jinjiangongzuoshi/p/23569949",
+          "publishedOn": "2026-11-06T01:27:00.000Z",
+          "wordCount": 608,
+          "title": "Agent 测评指标怎么选、怎么算？ - 狂师",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/codigger/p/23569594",
+          "author": null,
+          "description": "线上出过一次事故：订单列表页翻到后面越来越卡，运营反馈翻到第几千页时，一个请求要跑十几秒。 DBA 查看慢查询日志，SQL 本身语法没问题： SELECT * FROM orders ORDER BY id LIMIT 100000, 10; 没有语法错误，但查询就是很慢。这就是典型的深分页问题。",
+          "link": "https://www.cnblogs.com/codigger/p/23569594",
+          "publishedOn": "2026-11-06T01:09:00.000Z",
+          "wordCount": null,
+          "title": "MySQL 深分页优化：limit 100000, 10 慢在哪，怎么救 - codigger",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cnblogs.com/hugogoos/p/23554102",
+          "author": null,
+          "description": "BITFIELD 将连续比特视为小整数，取代多个 key 以节省内存（每合并一 key 省约 77B）。核心要点：溢出默认 WRAP 静默，需显式设 SAT/FAIL；原子但非事务，失败不回滚；布局即契约。BITFIELD_RO 可读取只读副本，BITOP 8.2+ 支持 DIFF/ANDOR 等原...",
+          "link": "https://www.cnblogs.com/hugogoos/p/23554102",
+          "publishedOn": "2026-11-05T23:34:00.000Z",
+          "wordCount": 3341,
+          "title": "Redis 数据类型全解 - Bitfield：99% 开发者没用过的位域操作，把内存再砍 80%（七） - IT规划师",
+          "imageUrl": "https://img2024.cnblogs.com/blog/386841/202611/386841-20261105031441760-421773598.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/liuzhang/p/23565233",
+          "author": null,
+          "description": "近期 PHP 爆出两项高危远程代码执行漏洞（俗称 PHP2Shell 漏洞），CVSS 评分均高达 9.2 分，可谓火爆全球，甚至日本首相都发微博警示。 我们大部分是 PHP 7 版本，少部分是 8.0，基本都没有官方修复版本。下面说一下我的修复方案。 Docker 版方案 首先感谢宝塔，官方提供了",
+          "link": "https://www.cnblogs.com/liuzhang/p/23565233",
+          "publishedOn": "2026-11-05T14:28:00.000Z",
+          "wordCount": 562,
+          "title": "用 AI 协助修复 PHP 漏洞 - 掸尘",
+          "imageUrl": "https://img2024.cnblogs.com/blog/353089/202611/353089-20261105222659245-1009111677.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/myvin/p/23564904",
+          "author": null,
+          "description": "Tick Rest 是一款免费开源的 macOS 原生休息提醒应用，包体轻巧，支持护眼提醒、久坐提醒、番茄工作法及自定义休息方案，提供小窗与全屏提醒，无广告、无需账号，支持 Homebrew 安装。",
+          "link": "https://www.cnblogs.com/myvin/p/23564904",
+          "publishedOn": "2026-11-05T13:15:00.000Z",
+          "wordCount": null,
+          "title": "Tick Rest，一个休息提醒工具的自我修养 - fthux",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cnblogs.com/shanyou/p/23564852",
+          "author": null,
+          "description": "这篇文章是我把 OpenBao 从上手到生产跑通一遍的记录，覆盖安装、各类 Secret Engine、认证授权、Seal/Unseal、HA 集群和 Kubernetes 集成。内容已按 OpenBao v2.7.2（2026 年 10 月 26 日发布）核对过，2.6 和 2.7 之间的破坏性变...",
+          "link": "https://www.cnblogs.com/shanyou/p/23564852",
+          "publishedOn": "2026-11-05T13:04:00.000Z",
+          "wordCount": 3042,
+          "title": "OpenBao 实战笔记：从上手到生产部署（已更新至 v2.7.2） - 张善友",
+          "imageUrl": "https://img2024.cnblogs.com/blog/510/202611/510-20261105210226129-309616059.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/rossiXYZ/p/23505200",
+          "author": null,
+          "description": "【轻量化复刻大模型 / KIMI K3】KDA 对 AI Infra 的挑战与各家应对 目录【轻量化复刻大模型 / KIMI K3】KDA 对 AI Infra 的挑战与各家应对0x00 概要0x01. 先建立正确的心智模型1.1 混合注意力的完整执行链1.2 三种状态对比1.3 KDA 的顺序性：",
+          "link": "https://www.cnblogs.com/rossiXYZ/p/23505200",
+          "publishedOn": "2026-11-05T12:38:00.000Z",
+          "wordCount": 3935,
+          "title": "【轻量化复刻大模型 / KIMI K3】KDA 对 AI Infra 的挑战与各家应对 - 罗西的思考",
+          "imageUrl": "https://img2024.cnblogs.com/blog/1850883/202604/1850883-20260414185617215-487992862.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/QEDQEDQED/p/23564700",
+          "author": null,
+          "description": "关于 AI 仅让蓝色大肥鱼找出了所有错别字，保证人类贡献远远大于 AI。 前言 下了很大决心，决定写一篇 Top Tree 详解。 我们将从基础理论入手，一步步从入门级 Top Tree 题，直到 SATT 等。 作为一篇讲解性文章，仅会讲解 Top Tree 的用途以及注意事项，关于复杂度等证明则",
+          "link": "https://www.cnblogs.com/QEDQEDQED/p/23564700",
+          "publishedOn": "2026-11-05T12:34:00.000Z",
+          "wordCount": 4006,
+          "title": "2026.11.5 闲话：浅谈 Top Tree 的应用 - QEDQEDQED",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/Li-runqing/p/23564348",
+          "author": null,
+          "description": "摘要与核心判断 我观察到的现象——操作系统“能用盗版绝不用正版”、依赖软件“要钱就先找免费替代”、没有免费替代就“宁可自己实现也不买”——并不是某一个公司、某一个行业或某一批管理者的偶然偏好，而是经济压力、采购制度、软件定价模式、法律风险感知、组织政治与个体认知偏差共同作用的结果。它表面上是一个“版",
+          "link": "https://www.cnblogs.com/Li-runqing/p/23564348",
+          "publishedOn": "2026-11-05T11:59:00.000Z",
+          "wordCount": 704,
+          "title": "从“能盗版绝不用正版”到“能自研绝不采购”：企业软件降本增效现象的系统性研究 - 楚国的小隐士",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/Emoji-happy/p/23563869",
+          "author": null,
+          "description": "思路 按数值从大到小贪心，如果能删就将该元素删去，如果不能删就将它分裂。 注意到元素的范围（\\(1\\le a_i \\le n\\)）,开一个桶记录每个数字出现的次数，省去了排序的时间开销。 设要进行 \\(x\\) 次分裂操作，那么进行完 \\(x\\) 次分裂操作后元素数量为 \\(n+x\\)，那么总的操作次",
+          "link": "https://www.cnblogs.com/Emoji-happy/p/23563869",
+          "publishedOn": "2026-11-05T10:58:00.000Z",
+          "wordCount": 605,
+          "title": "CF2271E Array Emptying详细题解 - Emoji-happy",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/uniqueDong/p/23563274",
+          "author": null,
+          "description": "我本地躺着 71 篇 DDD 专栏 Markdown：《DDD实战课》26 篇、《手把手教你落地DDD》45 篇，geektime-dl 导出的。 下载完那一刻的感觉很像学会了。这两件事之间没有因果关系——不做加工和检索，它们就只是 71 个文件。我能验证：随时能打开，但我说不出一个订单聚合的边界该",
+          "link": "https://www.cnblogs.com/uniqueDong/p/23563274",
+          "publishedOn": "2026-11-05T10:04:00.000Z",
+          "wordCount": 1060,
+          "title": "用 AI 学新库，掌握度掉到 40%：重做输入、加工、留存 - 码哥字节",
+          "imageUrl": "https://img2024.cnblogs.com/blog/735767/202611/735767-20261105180329713-447649504.png"
+        },
         {
           "id": "https://www.cnblogs.com/dawudexiaowu/p/23558421",
           "author": null,
