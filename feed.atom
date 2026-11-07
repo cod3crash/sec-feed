@@ -2,10 +2,358 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cod3crash.github.io/sec-feed/index.html</id>
     <title>security feed</title>
-    <updated>2026-11-06T06:10:32.399Z</updated>
+    <updated>2026-11-07T05:39:08.615Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://cod3crash.github.io/sec-feed/index.html"/>
     <link rel="self" href="https://cod3crash.github.io/sec-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[API 安全三支柱：认证、防篡改、防重放的工程实践 - IT规划师]]></title>
+        <id>https://www.cnblogs.com/hugogoos/p/23578745</id>
+        <link href="https://www.cnblogs.com/hugogoos/p/23578745"/>
+        <updated>2026-11-07T05:09:00.000Z</updated>
+        <summary type="html"><![CDATA[HTTPS 与 Bearer Token 仅保障传输安全与身份认证，无法防止报文篡改与请求重放。需通过请求签名构建字节级契约：以 HMAC 保证完整性，时间戳+Nonce 确保新鲜性，三者协同形成“身份-内容-时效”三角信任。签名应基于不可变的请求契约（如单值头、特定体字段），避免歧义。密钥环须热更...]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SSTI2 ~ CyLab Security Academy Write-up | Server-Side Template Injection]]></title>
+        <id>https://medium.com/p/d333a1dfa9aa</id>
+        <link href="https://medium.com/@affanhaxor/ssti2-cylab-security-academy-write-up-server-side-template-injection-d333a1dfa9aa?source=rss------bugbounty-5"/>
+        <updated>2026-11-07T04:35:08.000Z</updated>
+        <summary type="html"><![CDATA[Author: Affanhaxor
+Platform: CyLab Security Academy
+Challenge: SSTI2
+Category: Web Security
+Topic: Server-Side Template Injection (SSTI)…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Affanhaxor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AC自动机超详细讲解，附带例题详解 - Emoji-happy]]></title>
+        <id>https://www.cnblogs.com/Emoji-happy/p/23583577</id>
+        <link href="https://www.cnblogs.com/Emoji-happy/p/23583577"/>
+        <updated>2026-11-07T03:57:00.000Z</updated>
+        <summary type="html"><![CDATA[本文极其详细，内容很多，请想学好 AC自动机 的朋友耐心看完 前置知识：KMP，Trie 引入 AC自动机是什么 Aho–Corasick automaton，简称AC自动机，著名的多模匹配算法，由Alfred V. Aho和Margaret J.Corasick于1975年在贝尔实验室发明，主要用]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[开发基于ComfyUI图片生成类应用Step by step（三）理解ComfyUI工作流的执行方式 - 寻找无名的特质]]></title>
+        <id>https://www.cnblogs.com/zhenl/p/23583463</id>
+        <link href="https://www.cnblogs.com/zhenl/p/23583463"/>
+        <updated>2026-11-07T03:37:00.000Z</updated>
+        <summary type="html"><![CDATA[在本合集第二部分，我们编写了一个极简的图像生成程序，通过这个程序了解了ComfyUI的工作过程。在这个程序中使用代码创建了工作流，我们也可以使用ComfyUI的可视化工作流编制和运行工具创建工作流，然后导出工作流的json文件，应用到程序中。 使用ComfyUI可视化编辑器创建工作流 启动Comfy]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Rate Limiting Fails Against Distributed Attacks — and How to Build One That Holds]]></title>
+        <id>https://medium.com/p/fb613546e969</id>
+        <link href="https://medium.com/@vigneshkumaroffsec/why-rate-limiting-fails-against-distributed-attacks-and-how-to-build-one-that-holds-fb613546e969?source=rss------bugbounty-5"/>
+        <updated>2026-11-07T03:36:27.000Z</updated>
+        <summary type="html"><![CDATA[You added a rate limit to your login and the brute-force didn’t stop. Here’s why per-IP limits break against rotating IPs, how to detect…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Vigneshkumaroffsec</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Rate Limiting Fails Against Distributed Attacks — and How to Build One That Holds]]></title>
+        <id>https://medium.com/p/fb613546e969</id>
+        <link href="https://medium.com/@vigneshkumaroffsec/why-rate-limiting-fails-against-distributed-attacks-and-how-to-build-one-that-holds-fb613546e969?source=rss------redteam-5"/>
+        <updated>2026-11-07T03:36:27.000Z</updated>
+        <summary type="html"><![CDATA[You added a rate limit to your login and the brute-force didn’t stop. Here’s why per-IP limits break against rotating IPs, how to detect…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Vigneshkumaroffsec</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[手把手教你：nvidia-smi 显示的 CUDA 版本到底是不是你装的那个｜AI工程师踩坑实录·第1篇 - 大雾的小屋]]></title>
+        <id>https://www.cnblogs.com/dawudexiaowu/p/23583296</id>
+        <link href="https://www.cnblogs.com/dawudexiaowu/p/23583296"/>
+        <updated>2026-11-07T03:21:00.000Z</updated>
+        <summary type="html"><![CDATA[真机踩坑实录第1篇：nvidia-smi右上角的CUDA Version只是驱动上限，不是已装版本。CPU版PyTorch调.cuda()报错，根源是PyPI默认源装的是+cpu轮子。解法很简单：换官方cu源CUDA轮子，不动驱动，实测GPU提速18.4倍。]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[macOS 录屏剪辑工具DogSC「逐文件」搬进 Windows —— DogSC Desktop 转写记 - 又过二十]]></title>
+        <id>https://www.cnblogs.com/wyang/p/23583154</id>
+        <link href="https://www.cnblogs.com/wyang/p/23583154"/>
+        <updated>2026-11-07T03:12:00.000Z</updated>
+        <summary type="html"><![CDATA[上游：laogou717/dogsc（macOS &#183; Swift + ScreenCaptureKit） 本项目：wyfirstname/dogsc-desktop（Electron 33 &#183; React 18 &#183; TypeScript 5.7 &#183; Ant Design 5） DogSC 是什么 D]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[缓存穿透、击穿、雪崩：三个概念傻傻分不清楚？ - 37.2°]]></title>
+        <id>https://www.cnblogs.com/jzp1207/p/23583046</id>
+        <link href="https://www.cnblogs.com/jzp1207/p/23583046"/>
+        <updated>2026-11-07T03:07:00.000Z</updated>
+        <summary type="html"><![CDATA[这三个概念面试必考，但很多人记混了。 一句话区分： 穿透： 查的数据根本不存在 击穿： 热点数据的缓存突然过期 雪崩： 大量缓存同时过期 缓存穿透 场景： 查询一个数据库里根本不存在的数据。 请求 id=-1 → 查缓存（没有）→ 查数据库（也没有）→ 返回null 下次再请求 id=-1 → 查缓]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[纯 C# 替换 SkiaSharp，AOT 少了 3 个 DLL：从 preview.8 到 SimdSkia 0.1.2 的进展与代价 - .NET中文开源社区]]></title>
+        <id>https://www.cnblogs.com/dotnet-org-cn/p/23582892</id>
+        <link href="https://www.cnblogs.com/dotnet-org-cn/p/23582892"/>
+        <updated>2026-11-07T03:02:00.000Z</updated>
+        <summary type="html"><![CDATA[上次在博客园写 SimdSkia，还是 《纯 C# 追上 Skia？Avalonia 绘制耗时降了 59%，CPU/GPU 与内存实测》。当时是 0.1.0-preview.8，主要讨论通用 x64 Native AOT 下的几个 Avalonia 页面，以及减少原生依赖后的发布体积。 现在 0.1]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[斜率优化DP例题：任务安排 三道题 详细讲解 - beiciqi]]></title>
+        <id>https://www.cnblogs.com/beiciqi/p/23572471</id>
+        <link href="https://www.cnblogs.com/beiciqi/p/23572471"/>
+        <updated>2026-11-07T00:30:00.000Z</updated>
+        <summary type="html"><![CDATA[这三道题难度递增，循序渐进，能更好地帮助读者学会斜率优化 DP。（公式较多，慢慢看，不要因为公式多而畏难，很好理解的。） 一、洛谷 P2365 [IOI 2002] 任务安排 题目大意 有 \(n\ (n\le 5000)\) 个任务需要被完成，你可以把这些任务全部分成任意多组，每组内的任务必须连续]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[从控制台到「会动手」的 AI：用 Semantic Kernel 搭应用(小白教程) - 码农刚子]]></title>
+        <id>https://www.cnblogs.com/shenchuanchao/p/23569344/from-console-to-agentic-ai-semantic-kernel-app</id>
+        <link href="https://www.cnblogs.com/shenchuanchao/p/23569344/from-console-to-agentic-ai-semantic-kernel-app"/>
+        <updated>2026-11-07T00:03:00.000Z</updated>
+        <summary type="html"><![CDATA[面向 C/.NET 开发者的 Semantic Kernel 实战笔记，从环境配置、Kernel 对话起步，到用 KernelFunction 将业务方法包装为 Plugin，让 AI 自动调用完成订单查询等任务，走通“会动手”的智能体雏形。]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Information Disclosure: The Bug Hunter’s Complete Guide]]></title>
+        <id>https://medium.com/p/040c94aee8ce</id>
+        <link href="https://osintteam.blog/information-disclosure-the-bug-hunters-complete-guide-040c94aee8ce?source=rss------bugbounty-5"/>
+        <updated>2026-11-06T23:54:04.000Z</updated>
+        <summary type="html"><![CDATA[A practical guide to finding exposed secrets, leaked credentials, sensitive files, and hidden data in web applications, with real-world…
+Continue reading on OSINT Team »]]></summary>
+        <author>
+            <name>Monika</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[When OAuth Works Correctly and Security Doesn’t: A Bug in OAuth Account Linking]]></title>
+        <id>https://medium.com/p/7f24bfdf91f0</id>
+        <link href="https://medium.com/@0xnexus0xfault0x/when-oauth-works-correctly-and-security-doesnt-a-bug-in-oauth-account-linking-7f24bfdf91f0?source=rss------bugbounty-5"/>
+        <updated>2026-11-06T23:42:00.000Z</updated>
+        <summary type="html"><![CDATA[How a flaw in account linking lets an attacker attach their own Microsoft account to your profile, and why having a state parameter…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Nexus0xFault</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask Oracle Select AI Chatbot 安装初体验 - AlfredZhao]]></title>
+        <id>https://www.cnblogs.com/jyzhao/p/23581639</id>
+        <link href="https://www.cnblogs.com/jyzhao/p/23581639"/>
+        <updated>2026-11-06T22:22:00.000Z</updated>
+        <summary type="html"><![CDATA[笔者在自建 Oracle AI Database 26ai 上部署了 Ask Oracle Select AI Chatbot，验证了基础自然语言问数功能可以跑通。本文记录部署过程、关键配置和踩过的坑，供想尝试的读者参考。需要说明的是，本次只验证了基础问数，其他高级功能尚未验证。 01 | 环境与前]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Emulating Nation-State Tradecraft: The Modern APT Playbook]]></title>
+        <id>https://medium.com/p/b83b51e73229</id>
+        <link href="https://medium.com/@hackerBack/emulating-nation-state-tradecraft-the-modern-apt-playbook-b83b51e73229?source=rss------redteam-5"/>
+        <updated>2026-11-06T21:40:51.000Z</updated>
+        <summary type="html"><![CDATA[Replicating the exact delivery and execution chains of APT29 and SideCopy. A practical guide to HTML Smuggling, ISO MOTW bypasses, and…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Abdelkader ELazizze</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[eWPTX Exam Review — What Actually Matters]]></title>
+        <id>https://medium.com/p/e3440aac1dc0</id>
+        <link href="https://medium.com/@mo.muwafak2001/ewptx-exam-review-what-actually-matters-e3440aac1dc0?source=rss------bugbounty-5"/>
+        <updated>2026-11-06T20:31:39.000Z</updated>
+        <summary type="html"><![CDATA[*Complete Review of My eWPTX Experience (INE Security)
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>MUWAFAK HELAL</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Red Teaming a Mock Hospital App]]></title>
+        <id>https://medium.com/p/265767b8bd5b</id>
+        <link href="https://medium.com/@daniel.dobrenz/red-teaming-a-mock-hospital-app-265767b8bd5b?source=rss------redteam-5"/>
+        <updated>2026-11-06T18:45:12.000Z</updated>
+        <summary type="html"><![CDATA[I wanted to recreate my last NuGuard red teaming project into a Jupyter Lab based environment that targets a realistic mock hospital…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Daniel Dobrenz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Permission the Consent Screen Never Mentioned: OAuth Scope Escalation Through Token Refresh]]></title>
+        <id>https://medium.com/p/53fef594a73d</id>
+        <link href="https://medium.com/@t4nv1/the-permission-the-consent-screen-never-mentioned-oauth-scope-escalation-through-token-refresh-53fef594a73d?source=rss------bugbounty-5"/>
+        <updated>2026-11-06T17:11:01.000Z</updated>
+        <summary type="html"><![CDATA[OAuth’s consent screen is supposed to be the user’s one clear moment of informed decision-making in the entire authorization flow — a…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>T4nv1</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hack Smarter: Millennium Writeup]]></title>
+        <id>https://medium.com/p/b7796bf03173</id>
+        <link href="https://razzlemouse.medium.com/hack-smarter-millennium-writeup-b7796bf03173?source=rss------redteam-5"/>
+        <updated>2026-11-06T15:59:40.000Z</updated>
+        <summary type="html"><![CDATA[Platform: HackSmarter | Difficulty: Medium | Category: Active Directory | Objectives: KRBTGT hash
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Razzle Mouse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Evolver：让探索留下策略 - Florian]]></title>
+        <id>https://www.cnblogs.com/fanzhidongyzby/p/23578742/evomap</id>
+        <link href="https://www.cnblogs.com/fanzhidongyzby/p/23578742/evomap"/>
+        <updated>2026-11-06T15:04:00.000Z</updated>
+        <summary type="html"><![CDATA[不训练基础模型，而是把执行中产生的程序性知识整理成策略资产，再送回后续任务的上下文。这里更值得关注的不是“Agent 会不会自动变聪明”，而是一个工程问题：怎样把一次性的执行记录，变成有适用条件、能被检索、也能被撤回的行动依据？]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The JWT Bugs That Survive ‘We Use OAuth, So We’re Secure’]]></title>
+        <id>https://medium.com/p/074436187cdc</id>
+        <link href="https://medium.com/@dhirenkumar/the-jwt-bugs-that-survive-we-use-oauth-so-were-secure-074436187cdc?source=rss------bugbounty-5"/>
+        <updated>2026-11-06T15:02:01.000Z</updated>
+        <summary type="html"><![CDATA[Algorithm confusion, JWKS trust failures, and the cross-tenant mistakes I keep finding in production APIs
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Dhiren Kumar Pradhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何在汇川AUTOSHOP中作为客户端实现 TCP 协议 - 不会通讯的凡果]]></title>
+        <id>https://www.cnblogs.com/FanGuo123/p/23568716</id>
+        <link href="https://www.cnblogs.com/FanGuo123/p/23568716"/>
+        <updated>2026-11-06T13:53:00.000Z</updated>
+        <summary type="html"><![CDATA[一、实验环境 AUTOSHOP小型机编程软件 2.新建一个项目，设备选择汇川小型机easy系列easy523 3.tcp协议测试工具netassistant 网页下载链接：https://netassistant.trydo.top/en/ 二、当easy523做 TCP 客户端Client 1.建]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Bug Bounty Programs Work: A Beginner’s Guide]]></title>
+        <id>https://medium.com/p/91c3bdfb398a</id>
+        <link href="https://cybrox.medium.com/how-bug-bounty-programs-work-a-beginners-guide-91c3bdfb398a?source=rss------bugbounty-5"/>
+        <updated>2026-11-06T12:21:56.000Z</updated>
+        <summary type="html"><![CDATA[Learn how bug bounty programs work, how ethical hackers find and report security vulnerabilities, and how companies reward bug hunters…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Bugbounty on Medium</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[系统架构师基础知识点概览汇总 - 佛祖让我来巡山]]></title>
+        <id>https://www.cnblogs.com/sun-10387834/p/23452990</id>
+        <link href="https://www.cnblogs.com/sun-10387834/p/23452990"/>
+        <updated>2026-11-06T11:07:00.000Z</updated>
+        <summary type="html"><![CDATA[一、计算机系统知识 1.1 计算机硬件组成（冯&#183;诺依曼） 五大部件：运算器、控制器、存储器、输入设备、输出设备 CPU：运算器+控制器集成 存储器 内存：速度快、容量小，临时存储，断电丢失 外存：速度慢、容量大，长期保存数据 外设：输入+输出设备合称 1.2 处理器 运算器 ALU算术逻辑单元：算术]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[# 一次 CRC 字段“神秘消失”的排查 -> 指针强转的UB代价 - USTHzhanglu]]></title>
+        <id>https://www.cnblogs.com/USTHzhanglu/p/23577592</id>
+        <link href="https://www.cnblogs.com/USTHzhanglu/p/23577592"/>
+        <updated>2026-11-06T10:46:00.000Z</updated>
+        <summary type="html"><![CDATA[现象 嵌入式C设备，内部 flash 上有一个键值日志：每条记录 = 8 字节头（key/len/crc）+ 数据，CRC16 覆盖 key+len+data。 某次升级编译器后(其实是同事用的编译器版本不同), 发现固件写入记录后回读校验失败； 把 flash dump 出来发现：key、len、]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[6 小时做一部 10 分钟纪录片：DeepSeek 4.1 Flash + DeepSeek Harness 的完整制片记录 - 我才是银古]]></title>
+        <id>https://www.cnblogs.com/znlgis/p/23576813</id>
+        <link href="https://www.cnblogs.com/znlgis/p/23576813"/>
+        <updated>2026-11-06T09:45:00.000Z</updated>
+        <summary type="html"><![CDATA[2026-11-06，从一个句子的需求，到一部 600 秒、1920&#215;1080、60fps 的《GIS 简史》成片。 画面、配乐、音效、旁白全部由代码生成，没用一个素材文件。 这篇文章不讲&quot;AI 多神奇&quot;，只记怎么做的、在哪卡住的、哪些判断必须人来做。 一、先说结果 项 数值 成片 600.000]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[龙芯3B6000M运行Yolov8+FastApi - silent]]></title>
+        <id>https://www.cnblogs.com/silent2012/p/23576728</id>
+        <link href="https://www.cnblogs.com/silent2012/p/23576728"/>
+        <updated>2026-11-06T09:37:00.000Z</updated>
+        <summary type="html"><![CDATA[龙芯近日发布支持自研通用GPU的龙芯加速计算平台（Loongson Accelerated Computing Platform）首个软件版本，该平台基于龙芯2K3000（3B6000M) 及9A1000内集成的自研LG200系列通用GPU核心打造，实现了对算力芯片驱动、算力编程环境、AI模型推理等]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DSH 插件开发实战：从插件加载到 Electron + Vue 桌面联动 - 林恒]]></title>
+        <id>https://www.cnblogs.com/smileZAZ/p/23576303</id>
+        <link href="https://www.cnblogs.com/smileZAZ/p/23576303"/>
+        <updated>2026-11-06T09:11:00.000Z</updated>
+        <summary type="html"><![CDATA[‍ 写在开头 点赞 + 收藏 学会 如何让自己的桌面应用使用 DSH 的模型、工具和 Skills，同时保留 DSH 原有的审批机制，又不把模型密钥复制到新应用？本文以 dsh-desktop-bridge 为例，从插件加载、连接发现、任务状态机讲到 Electron / Vue]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Four Lines of Code Could Delete Any Facebook Photo Album]]></title>
+        <id>https://medium.com/p/68626d5766b6</id>
+        <link href="https://medium.com/@l4zz3rj0d/how-four-lines-of-code-could-delete-any-facebook-photo-album-68626d5766b6?source=rss------bugbounty-5"/>
+        <updated>2026-11-06T09:09:41.000Z</updated>
+        <summary type="html"><![CDATA[Real one again, and this time it’s about as clean a textbook IDOR as you’ll ever find written up, which is exactly why it’s worth actually…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>L4ZZ3RJ0D</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《项目管理指导手册》2026版-心得（三）—— 终 - Near_wen]]></title>
+        <id>https://www.cnblogs.com/demon28/p/23556670</id>
+        <link href="https://www.cnblogs.com/demon28/p/23556670"/>
+        <updated>2026-11-06T08:38:00.000Z</updated>
+        <summary type="html"><![CDATA[背景： 前面2篇文章主要描述了我今年对项目管理在技能上的理解，包括项目如何定义角色、策略、阶段、交付等。但从【道法术器】的层面上来说，始终停留在&quot;术&quot;和&quot;器&quot;。 也就是说，主旨逻辑虽然是阐述我对预测型、适应型、混合型项目如何做的一种具象化理解。理解这些东西能把项目做好吗？远远不够，举个常见的例子：]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[100 of Your 142,515 Wordlist Entries Contain a Slash. That’s Why You Never Find /api/v1.]]></title>
+        <id>https://medium.com/p/77d62622529a</id>
+        <link href="https://meetcyber.net/100-of-your-142-515-wordlist-entries-contain-a-slash-thats-why-you-never-find-api-v1-77d62622529a?source=rss------bugbounty-5"/>
+        <updated>2026-11-06T08:01:40.000Z</updated>
+        <summary type="html"><![CDATA[The archive was never the work.
+Continue reading on MeetCyber »]]></summary>
+        <author>
+            <name>Raj Namdev</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【轻量化复刻大模型 / KIMI K3】KDA Serving 基础设施 — 设计 / 实现 - 罗西的思考]]></title>
+        <id>https://www.cnblogs.com/rossiXYZ/p/23505813</id>
+        <link href="https://www.cnblogs.com/rossiXYZ/p/23505813"/>
+        <updated>2026-11-06T06:56:00.000Z</updated>
+        <summary type="html"><![CDATA[【轻量化复刻大模型 / KIMI K3】KDA Serving 基础设施 — 设计 / 实现 目录【轻量化复刻大模型 / KIMI K3】KDA Serving 基础设施 — 设计 / 实现0x00 概要0.1 主要内容0.2 注意说明0x01 先懂 KDA：为什么它会颠覆 serving1.1 从]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[rea-video拆解视频测试和效果展示 - 又过二十]]></title>
         <id>https://www.cnblogs.com/wyang/p/23559866</id>
@@ -58975,16 +59323,6 @@ Fig.
 Call flow of the AP…]]></summary>
         <author>
             <name>ArthurChiao's Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A.S.E 2.0 正式发布 | 开放生态 · 动静协同 · 让 AI 编程安全可量化]]></title>
-        <id>https://security.tencent.com/index.php/blog/msg/217</id>
-        <link href="https://security.tencent.com/index.php/blog/msg/217"/>
-        <updated>2025-11-07T11:05:37.000Z</updated>
-        <summary type="html"><![CDATA[A.S.E (AI Code Generation Security Evaluation) - 你的 AI 鉴赏官，为你提供大模型安全实践工具，让你一眼就能选出最靠谱的 AI 队友。]]></summary>
-        <author>
-            <name>腾讯安全响应中心</name>
         </author>
     </entry>
     <entry>
