@@ -5760,6 +5760,96 @@
       "siteUrl": "https://medium.com/tag/bugbounty/latest?source=rss------bugbounty-5",
       "articles": [
         {
+          "id": "https://medium.com/p/fc105aea6765",
+          "author": "Akash motkar",
+          "description": "Severity: Medium (P3)\nVulnerability Type: Broken Object-Level Authorization (BOLA / IDOR)\nCWE: CWE-639 — Authorization Bypass Through…\nContinue reading on Medium »",
+          "link": "https://medium.com/@akashmotkar001/p3-insecure-direct-object-reference-idor-in-user-profile-api-fc105aea6765?source=rss------bugbounty-5",
+          "publishedOn": "2026-11-10T06:23:08.000Z",
+          "wordCount": null,
+          "title": "P3 — Insecure Direct Object Reference (IDOR) in User Profile API",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/95dc3d96821d",
+          "author": "Vigneshkumaroffsec",
+          "description": "Why AI agents keep reintroducing the vulnerability classes we already knew how to fix — and the one principle that stops all of them.\nContinue reading on Medium »",
+          "link": "https://medium.com/@vigneshkumaroffsec/the-confused-deputy-2026-edition-95dc3d96821d?source=rss------bugbounty-5",
+          "publishedOn": "2026-11-10T02:38:36.000Z",
+          "wordCount": null,
+          "title": "The Confused Deputy, 2026 Edition",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/e1e921251405",
+          "author": "Raj Namdev",
+          "description": "A leaderboard is not a distribution.\nContinue reading on MeetCyber »",
+          "link": "https://meetcyber.net/i-built-a-self-updating-bug-bounty-skill-from-200-reports-e1e921251405?source=rss------bugbounty-5",
+          "publishedOn": "2026-11-10T02:38:02.000Z",
+          "wordCount": null,
+          "title": "I Built a Self-Updating Bug Bounty Skill From 200 Reports.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/6b7538c1d8f1",
+          "author": "Mr3Moe",
+          "description": "Introduction\nContinue reading on Medium »",
+          "link": "https://medium.com/@Mr3Moe/secure-code-audit-01-a-login-and-avatar-upload-in-php-6b7538c1d8f1?source=rss------bugbounty-5",
+          "publishedOn": "2026-11-10T01:24:00.000Z",
+          "wordCount": null,
+          "title": "Secure Code Audit 01: A Login and Avatar Upload in PHP",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/cdf6d42a7b66",
+          "author": "Vipul Sonule",
+          "description": "A practical, lab-safe guide to npm supply chain security: typosquatting, dependency confusion, account takeover, malicious install scripts,\nContinue reading on OSINT Team »",
+          "link": "https://osintteam.blog/supply-chain-attacks-how-hackers-compromise-npm-packages-cdf6d42a7b66?source=rss------bugbounty-5",
+          "publishedOn": "2026-11-09T23:27:10.000Z",
+          "wordCount": null,
+          "title": "Supply Chain Attacks: How Hackers Compromise npm Packages",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/4512f7b31bc4",
+          "author": "The XSS Rat",
+          "description": "Six checks I run on every reset function — host-header poisoning, token leaks, and the logic bugs that hand you someone else’s account.\nContinue reading on Medium »",
+          "link": "https://thexssrat.medium.com/the-forgot-password-flow-is-where-i-take-over-accounts-my-password-reset-attack-chain-4512f7b31bc4?source=rss------bugbounty-5",
+          "publishedOn": "2026-11-09T20:14:57.000Z",
+          "wordCount": null,
+          "title": "The Forgot-Password Flow Is Where I Take Over Accounts: My Password-Reset Attack Chain",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/37bec976796f",
+          "author": "Asjad Butt",
+          "description": "When I started hunting on Tesla’s bug bounty program, I had the usual approach. I started looking for XSS, different types of injection…\nContinue reading on Medium »",
+          "link": "https://asjadbutt.medium.com/thinking-like-a-developer-my-journey-to-teslas-top-50-hall-of-fame-37bec976796f?source=rss------bugbounty-5",
+          "publishedOn": "2026-11-09T18:51:20.000Z",
+          "wordCount": null,
+          "title": "Thinking Like a Developer: My Journey to Tesla’s Top 50 Hall of Fame",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/0c1922c93b59",
+          "author": "CypherNova1337",
+          "description": "Secret scanners are famous for noise: ten thousand matches, three real secrets, and the real ones buried under CSS class names and sample…\nContinue reading on Medium »",
+          "link": "https://cyphernova1337.medium.com/the-first-run-found-a-live-key-0c1922c93b59?source=rss------bugbounty-5",
+          "publishedOn": "2026-11-09T17:36:20.000Z",
+          "wordCount": null,
+          "title": "The First Run Found a Live Key",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/5ad7e05a5ece",
+          "author": "AlexanderV_11",
+          "description": "A Case Study in Account Enumeration and OTP Email Flooding\nContinue reading on Medium »",
+          "link": "https://medium.com/@mahmoudelhadidy2003/when-different-responses-reveal-more-than-intended-5ad7e05a5ece?source=rss------bugbounty-5",
+          "publishedOn": "2026-11-09T17:21:33.000Z",
+          "wordCount": null,
+          "title": "When Different Responses Reveal More Than Intended",
+          "imageUrl": null
+        },
+        {
           "id": "https://medium.com/p/ed86c0939c7c",
           "author": "Muhammad Asim Shahzad",
           "description": "A 2017 PayPal disclosure shows why shared caches must honor freshness headers instead of guessing from a path suffix\nContinue reading on Medium »",
@@ -18827,6 +18917,26 @@
       "siteUrl": "https://medium.com/tag/redteam/latest?source=rss------redteam-5",
       "articles": [
         {
+          "id": "https://medium.com/p/b77ebd0628a9",
+          "author": "Butrint Komoni",
+          "description": "Butrint Komoni (@pwntheplanet)\nContinue reading on Medium »",
+          "link": "https://medium.com/@pwntheplanet/bmw-group-security-hall-of-fame-2026-a-few-thoughts-on-bug-bounty-strategy-b77ebd0628a9?source=rss------redteam-5",
+          "publishedOn": "2026-11-09T14:47:24.000Z",
+          "wordCount": null,
+          "title": "BMW Group Security Hall of Fame 2026: A Few Thoughts on Bug Bounty Strategy",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/718296f62716",
+          "author": "A. M. Alogo Situmorang",
+          "description": "Chaining guest JWT tokens, missing rate limits, and verbose JSON responses to land my second bug bounty reward.\nContinue reading on Medium »",
+          "link": "https://medium.com/@aekmohop/what-the-ui-hides-the-api-tells-how-i-found-mass-data-exposure-in-a-live-chat-feature-718296f62716?source=rss------redteam-5",
+          "publishedOn": "2026-11-09T12:06:29.000Z",
+          "wordCount": null,
+          "title": "What the UI Hides, the API Tells: How I Found Mass Data Exposure in a Live Chat Feature",
+          "imageUrl": null
+        },
+        {
           "id": "https://medium.com/p/390b7557ff59",
           "author": "S4m1X",
           "description": "pentest, red team, bug bounty, cadre légal dans le monde et parcours pour devenir hacker éthique.\nContinue reading on Medium »",
@@ -28119,6 +28229,16 @@
       "siteUrl": "https://0xeb.net",
       "articles": [
         {
+          "id": "https://0xeb.net/?p=477",
+          "author": "elias",
+          "description": "One local address for every AI plan you already pay for: how omp’s auth broker and gateway work, and how to run Claude Code through them. If you’re like many people, you pay for more than one AI plan: ChatGPT Plus for work, Claude Pro, Max or Ultra for writing, GitHub Copilot or Cursor through … Continue reading omp: Use the AI Subscriptions You Already Pay For, From Any App",
+          "link": "https://0xeb.net/2026/11/omp-ai-subscriptions-from-any-app/",
+          "publishedOn": "2026-11-08T20:00:00.000Z",
+          "wordCount": 3562,
+          "title": "omp: Use the AI Subscriptions You Already Pay For, From Any App",
+          "imageUrl": "https://s0.wp.com/i/blank.jpg"
+        },
+        {
           "id": "https://0xeb.net/?p=460",
           "author": "elias",
           "description": "Perplexity Computer runs on a VM. Behind the answer engine is a real Linux machine with a shell, a package manager, compilers, an office suite, and a headless X desktop. The agent can write and run code there, convert and generate documents, drive GUI applications, and keep files on disk for the length of the … Continue reading Full system inventory of the Perplexity Computer VM",
@@ -29290,6 +29410,206 @@
       "feedUrl": "https://feed.cnblogs.com/blog/sitehome/rss",
       "siteUrl": null,
       "articles": [
+        {
+          "id": "https://www.cnblogs.com/horizondeveloper/p/23615044",
+          "author": null,
+          "description": "本文系统梳理点云算法从数据本质到工程落地的全链路认知：点云是三维空间的离散几何采样，区别于规则图像，需通过结构化处理（如体素/柱状分桶）转化为可计算的BEV表示。",
+          "link": "https://www.cnblogs.com/horizondeveloper/p/23615044",
+          "publishedOn": "2026-11-10T06:12:00.000Z",
+          "wordCount": 868,
+          "title": "点云算法整理与常用计算模块：从数据到模型，再到工程与量化 - 地平线智能驾驶开发者",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/dicengwanjialaozhang/p/23614845",
+          "author": null,
+          "description": "GraphRAG 的常见做法是抽数据建独立图库，代价是同步链路和两套权限。库内知识化走的是另一条路：二维表直接图化，零搬迁零冗余。本文拆这条链路在内核里靠什么支撑，以及它的能力边界。",
+          "link": "https://www.cnblogs.com/dicengwanjialaozhang/p/23614845",
+          "publishedOn": "2026-11-10T06:00:00.000Z",
+          "wordCount": 414,
+          "title": "一次多跳查询的复盘：图不搬出库，GraphRAG 怎么落地 - 底层玩家老张",
+          "imageUrl": "https://img2024.cnblogs.com/blog/3809265/202611/3809265-20261110134803760-1008748502.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/gzjiuying/p/23614759",
+          "author": null,
+          "description": "HTML 用来搭建网页结构的标记语言。 CSS 用来控制网页外观的样式语言。 表格 标签 全称 作用 ‌ definition list ‌外层容器‌，包住整组内容 ‌ definition term ‌被解释的名词‌（术语、标题、字段名） ``‌ definition description ‌对",
+          "link": "https://www.cnblogs.com/gzjiuying/p/23614759",
+          "publishedOn": "2026-11-10T05:53:00.000Z",
+          "wordCount": 472,
+          "title": "dl dt dd标签 - gzjiuying",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/zw-awa/p/23614702",
+          "author": null,
+          "description": "只有两个按键，也能做出带子页面、还能加减参数的菜单。难点为什么不在画出文字，而在于让每一次按键都落到正确的状态上？",
+          "link": "https://www.cnblogs.com/zw-awa/p/23614702",
+          "publishedOn": "2026-11-10T05:50:00.000Z",
+          "wordCount": 1460,
+          "title": "用两个按键做一个OLED菜单：先把选择和执行分开 - Zw-awa",
+          "imageUrl": "https://img2024.cnblogs.com/blog/3791643/202611/3791643-20261110134729972-557145827.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/dawudexiaowu/p/23614706",
+          "author": null,
+          "description": "本文通过真实实验揭示AI训练中隐蔽陷阱：标签与图像顺序错位。即使代码无误、loss正常下降，仅10%标签错位即导致准确率从96%降至89.3%，模型实则在“背错答案”。实验表明，训练loss无法反映数据对齐问题，且常见于打乱数据时X/y未同步操作。作者提出“抽样可视化+哈希校验”两道防线，低成本高效...",
+          "link": "https://www.cnblogs.com/dawudexiaowu/p/23614706",
+          "publishedOn": "2026-11-10T05:50:00.000Z",
+          "wordCount": 574,
+          "title": "手把手教你：标签和图像没对齐，模型一直在学噪声｜AI工程师踩坑实录·第3篇 - 大雾的小屋",
+          "imageUrl": "https://img2024.cnblogs.com/blog/2824078/202611/2824078-20261110134945361-1929950008.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/jazz-z/p/23614621",
+          "author": null,
+          "description": "一、业务背景 在很多场景下，我们不希望接收方随意改动 Word 正文，但允许部分区域填写表单、添加批注或者只允许阅读： 对外发送的合同初稿，仅允许填写指定区域； 评审文档，他人只能添加批注，不能直接修改原文； 自动生成的报表，防止下游误改固定模板内容； 批量导出文档时统一加上保护策略，替代手动在 W",
+          "link": "https://www.cnblogs.com/jazz-z/p/23614621",
+          "publishedOn": "2026-11-10T05:44:00.000Z",
+          "wordCount": 500,
+          "title": "使用 Python 为 Word 文档设置限制编辑 - LAYONTHEGROUND",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/liulun/p/23613216",
+          "author": null,
+          "description": "本文使用 DraftDepot（稿仓） https://github.com/xland/DraftDepot 编辑发布，稿仓是一款 Windows 桌面端多平台文章编辑与发布工具，支持文章一键灌入各大平台，代码块高亮自动适配，图片自动传对方图床。 ASAR的原理 开发者都知道 Electron 应",
+          "link": "https://www.cnblogs.com/liulun/p/23613216",
+          "publishedOn": "2026-11-10T03:10:00.000Z",
+          "wordCount": 423,
+          "title": "Electron应用保护业务代码的一些尝试 - liulun",
+          "imageUrl": "https://img2024.cnblogs.com/blog/28932/202611/28932-20261110110946353-1642536564.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/kexxxfeng/p/23611435",
+          "author": null,
+          "description": "Dell 笔记本经扩展坞接网线后开机卡在 PXE over IPv6：PXE 选项删不掉的 UEFI 设计、Integrated NIC 三档选择、误设 Disabled 引发广播风暴打瘫全屋网络的恢复步骤，以及 WOL 唤醒进 PXE over IPv4 的 Deep Sleep 修法。",
+          "link": "https://www.cnblogs.com/kexxxfeng/p/23611435",
+          "publishedOn": "2026-11-10T01:37:00.000Z",
+          "wordCount": 896,
+          "title": "Dell 笔记本扩展坞场景：开机 / WOL 唤醒陷入 PXE over IPv6/IPv4 的排障笔记 - 蝌蝌",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/MrHuo/p/23611233/agent-from-scratch-02",
+          "author": null,
+          "description": "系列大纲 &#183; 手搓 AI Agent（Node.js / TypeScript） 本系列从零手搓一个通用工具型 Agent：能对话、能调用工具、能规划任务、能多 Agent 协作，并最终接入 MCP 生态。技术栈锁定 Node.js 22 + TypeScript，模型接入层用一套 OpenAI 兼",
+          "link": "https://www.cnblogs.com/MrHuo/p/23611233/agent-from-scratch-02",
+          "publishedOn": "2026-11-10T01:29:00.000Z",
+          "wordCount": 1330,
+          "title": "手搓 AI Agent 02：让模型第一次\"动手\"——Agent Loop 与 ReAct - 开发者精选资讯",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/zrui-xyu/p/23611083",
+          "author": null,
+          "description": "上个月有个读者面试被问住了：[LeetCode 37. 解数独]，暴力写法能跑，可面试官一句&quot;还能怎么优化&quot;直接卡壳。这题挂着 Hard 的名头，其实是回溯算法最好的入门题。今天就带大家从暴力穷举一路优化到毫秒级求解，连追问都给你备好了，可以直接背。",
+          "link": "https://www.cnblogs.com/zrui-xyu/p/23611083",
+          "publishedOn": "2026-11-10T01:19:00.000Z",
+          "wordCount": 2080,
+          "title": "LeetCode 37 解数独面试攻略：回溯 + 位掩码 + MRV，从暴力到毫秒级求解 - Rain的Java大神实战圈",
+          "imageUrl": "https://img2024.cnblogs.com/blog/739056/202611/739056-20261110091649869-164812534.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/codigger/p/23611044",
+          "author": null,
+          "description": "这两年 “程序员还能不能干” 成了圈内高频话题，而比这更具体、更焦虑的问题是：技术转型到底该转 Agent（智能体）开发，还是转全栈开发？本文结合当前招聘市场的真实 JD、薪资数据与多位一线工程师的观点，给出一份尽量客观的市场分析。 一、先搞清楚概念：Agent 是什么，全栈是什么 Agent（智能",
+          "link": "https://www.cnblogs.com/codigger/p/23611044",
+          "publishedOn": "2026-11-10T01:16:00.000Z",
+          "wordCount": 461,
+          "title": "程序员转型抉择：转 Agent 开发还是转全栈？一份基于招聘市场的冷静分析 - codigger",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/jeff-tsai/p/23610758/day-15-progid-registry",
+          "author": null,
+          "description": "契约接口、API 类型、BO 类型三层各自的职责与依赖方向。ProgId 作为类型注册表的键，这个模型有一部分沿用自 COM+：注册表只管 ProgId 换到哪一个类型，不管这个程序排在菜单的哪个位置。",
+          "link": "https://www.cnblogs.com/jeff-tsai/p/23610758/day-15-progid-registry",
+          "publishedOn": "2026-11-10T00:49:00.000Z",
+          "wordCount": 773,
+          "title": "Day 15：API 契约分层与类型注册表 - Jeff-Tsai",
+          "imageUrl": "https://img2024.cnblogs.com/blog/3864267/202611/3864267-20261110084853816-661089977.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/jinjiangongzuoshi/p/23610720",
+          "author": null,
+          "description": "最近半年 AI 圈最出圈的一类能力，是让 AI 自动操作软件，代表有两个： 一个是 browser use，AI 自己操控浏览器，开网页、点按钮、填表单； 另一个是 computer use，直接操控整台电脑上的应用。 这两个能力都不是凭空冒出来的，computer use 最早是 Anthropi",
+          "link": "https://www.cnblogs.com/jinjiangongzuoshi/p/23610720",
+          "publishedOn": "2026-11-10T00:45:00.000Z",
+          "wordCount": 521,
+          "title": "WorkBuddy操作浏览器Browser Use，的确很香！ - 狂师",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/sdcb/p/23606347/20261110-arithmetic-2-0",
+          "author": null,
+          "description": "上面是 sdcb.ai/arithmetic/chaos 的精度阶梯：同一个洛伦兹系统、同一个起点、同一个 RK4 积分器，每条轨迹只有舍入的位数不同。24 位的 float 在 t = 21.3 叛逃，53 位的 double 在 t = 42.7，2.0 新增的三个类型分别撑到了 83.0（Do",
+          "link": "https://www.cnblogs.com/sdcb/p/23606347/20261110-arithmetic-2-0",
+          "publishedOn": "2026-11-10T00:45:00.000Z",
+          "wordCount": 1180,
+          "title": "Sdcb.Arithmetic 2.0：纯 C# 实现四倍精度 Float128，比 MPFR 快 2 到 12 倍 - .NET骚操作",
+          "imageUrl": "https://img2024.cnblogs.com/blog/233608/202611/233608-20261109192709770-1874932277.webp"
+        },
+        {
+          "id": "https://www.cnblogs.com/jyzhao/p/23610421",
+          "author": null,
+          "description": "定期更新 Oracle 26ai 的 RU 是日常运维的一部分。笔者把这次从 23.26.2 升级到 23.26.4 的操作步骤记录下来，供有类似需求的读者参考。 01 | 找到并下载补丁 通过文档 888.1 可以快速定位需要的 RU： This was MOS Document ID: 888.",
+          "link": "https://www.cnblogs.com/jyzhao/p/23610421",
+          "publishedOn": "2026-11-09T23:39:00.000Z",
+          "wordCount": 696,
+          "title": "Oracle 26ai 应用 RU 补丁简明版 - AlfredZhao",
+          "imageUrl": "https://img2024.cnblogs.com/blog/635610/202611/635610-20261110073918607-339489308.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/zwnfdswww/p/23607115",
+          "author": null,
+          "description": "摘要：本文源于我们在设计一套“申论归纳概括题智能 RAG 解题系统”时的实战复盘。在绘制全链路数据流架构图时，两处不起眼的“数据断层”迫使我们停下脚步，重新审视了从双轨检索（BM25 + Dense）、RRF 混合重排、知识蒸馏（DeepSeek CoT）、Unsloth QLoRA 微调到受控方格",
+          "link": "https://www.cnblogs.com/zwnfdswww/p/23607115",
+          "publishedOn": "2026-11-09T13:57:00.000Z",
+          "wordCount": 1316,
+          "title": "# 从一张架构图的破绽，聊到大模型微调的数学本质：构建申论智能 RAG 系统的深度复盘 - suweiwei",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/beiciqi/p/23606434",
+          "author": null,
+          "description": "题目跳转：P3195 [HNOI2008] 玩具装箱 题目大意 共有 \\(n\\) 个玩具，每个玩具长度 \\(C_i\\)，将 \\(j\\) 至 \\(i\\) 连续的玩具放入一个容器 \\(1\\le j\\le i\\le n\\)，其长度 \\(x=i-j+\\sum_{k=j}^{i}C_k\\)。制作一个容器的费用",
+          "link": "https://www.cnblogs.com/beiciqi/p/23606434",
+          "publishedOn": "2026-11-09T13:46:00.000Z",
+          "wordCount": 1264,
+          "title": "[HNOI2008] 玩具装箱 详细讲解 - beiciqi",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/yudanqu/p/23606886",
+          "author": null,
+          "description": "聊天机器人只能告诉你“怎么订机票”；Agent 能真的去查、去比价。让 Agent 从“说”跨越到“做”的关键技术，叫工具调用。 前面两篇讲了 Agent 的循环和上下文。今天讲循环里最关键的“行动”环节——工具调用（Tool Use / Function Calling）。 它解决的是一个核心问题",
+          "link": "https://www.cnblogs.com/yudanqu/p/23606886",
+          "publishedOn": "2026-11-09T13:08:00.000Z",
+          "wordCount": 591,
+          "title": "工具调用：让 Agent 从“说”到“做” - 小田学Python",
+          "imageUrl": "https://img2024.cnblogs.com/blog/1279674/202611/1279674-20261109210251862-952749033.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/rossiXYZ/p/23593546",
+          "author": null,
+          "description": "【轻量化复刻大模型 / KIMI K3】Gated MLA 梳理 目录【轻量化复刻大模型 / KIMI K3】Gated MLA 梳理0x00 概述0.1 原始论文0.2 直接相关的图/表0.3 本文说明0x01. 演进脉络与定位1.1 脉络1.2 同期竞品1.3 定位一句话0x02. 原理讲解2.",
+          "link": "https://www.cnblogs.com/rossiXYZ/p/23593546",
+          "publishedOn": "2026-11-09T12:29:00.000Z",
+          "wordCount": 3790,
+          "title": "【轻量化复刻大模型 / KIMI K3】Gated MLA 梳理 - 罗西的思考",
+          "imageUrl": "https://img2024.cnblogs.com/blog/1850883/202611/1850883-20261108181931853-2041359035.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/duwenlong/p/23605985",
+          "author": null,
+          "description": "导读：在AI时代，多设备跨端互联，是一个基础能力。但是在构建跨地域、跨设备的端到端实时互联系统时，工程团队往往需要同时解决两大层面的挑战：控制面（Control Plane）的高可用与水平扩展，以及数据面（Data Plane）在复杂广域网（尤其是跨国高延迟、弱网丢包环境）下的吞吐量与低延迟平衡。",
+          "link": "https://www.cnblogs.com/duwenlong/p/23605985",
+          "publishedOn": "2026-11-09T10:44:00.000Z",
+          "wordCount": 1570,
+          "title": "AI时代实时互联基础系统架构设计与传输层深度拆解：无状态信令、P2P 流控及行业主流演进方案对比 - 杜文龙",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
         {
           "id": "https://www.cnblogs.com/MrHuo/p/23601370/agent-from-scratch-01",
           "author": null,
