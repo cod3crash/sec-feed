@@ -5760,6 +5760,106 @@
       "siteUrl": "https://medium.com/tag/bugbounty/latest?source=rss------bugbounty-5",
       "articles": [
         {
+          "id": "https://medium.com/p/0598b9e056cb",
+          "author": "Muhammad Asim Shahzad",
+          "description": "A 2016 Airbnb bounty shows how a convenience redirect plus login CSRF can turn strict OAuth settings into account takeover\nContinue reading on Medium »",
+          "link": "https://masimshahzad.medium.com/the-referer-header-that-redirected-oauth-tokens-0598b9e056cb?source=rss------bugbounty-5",
+          "publishedOn": "2026-11-11T04:11:34.000Z",
+          "wordCount": null,
+          "title": "The Referer Header That Redirected OAuth Tokens",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/db16e468816a",
+          "author": "Muhammad Asim Shahzad",
+          "description": "A 2014 disclosure shows why OAuth redirect checks, token storage and scope approval must be designed together\nContinue reading on Medium »",
+          "link": "https://masimshahzad.medium.com/five-low-bugs-one-github-private-repo-takeover-db16e468816a?source=rss------bugbounty-5",
+          "publishedOn": "2026-11-11T04:04:58.000Z",
+          "wordCount": null,
+          "title": "Five Low Bugs, One GitHub Private Repo Takeover",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/6c4254608a69",
+          "author": "Muhammad Asim Shahzad",
+          "description": "A 2015 Messenger.com disclosure shows that issuing anti-forgery tokens is worthless if the server never verifies them\nContinue reading on Medium »",
+          "link": "https://masimshahzad.medium.com/the-csrf-token-nobody-checked-6c4254608a69?source=rss------bugbounty-5",
+          "publishedOn": "2026-11-11T04:00:16.000Z",
+          "wordCount": null,
+          "title": "The CSRF Token Nobody Checked",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/b4718fbb61fa",
+          "author": "Muhammad Asim Shahzad",
+          "description": "A 2017 Slack disclosure shows why audience, expiry and destination checks are not optional extras\nContinue reading on Medium »",
+          "link": "https://masimshahzad.medium.com/the-saml-assertion-meant-for-someone-else-b4718fbb61fa?source=rss------bugbounty-5",
+          "publishedOn": "2026-11-11T03:57:32.000Z",
+          "wordCount": null,
+          "title": "The SAML Assertion Meant for Someone Else",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/d81971d49140",
+          "author": "Muhammad Asim Shahzad",
+          "description": "A 2016 Facebook disclosure shows why a confirmation secret must bind to one contact value under a lock\nContinue reading on Medium »",
+          "link": "https://masimshahzad.medium.com/the-race-that-confirmed-the-wrong-email-d81971d49140?source=rss------bugbounty-5",
+          "publishedOn": "2026-11-11T03:53:19.000Z",
+          "wordCount": null,
+          "title": "The Race That Confirmed the Wrong Email",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/527ab9ca1ce5",
+          "author": "Akash motkar",
+          "description": "Severity: P2 — High\nVulnerability Type: CAPTCHA Bypass, Authentication Bypass, Sensitive Information Disclosure\nBugcrowd Priority: P2\nCVSS…\nContinue reading on Medium »",
+          "link": "https://medium.com/@akashmotkar001/p2-unauthenticated-ai-agent-access-via-cloudflare-turnstile-captcha-bypass-leading-to-internal-527ab9ca1ce5?source=rss------bugbounty-5",
+          "publishedOn": "2026-11-11T03:31:02.000Z",
+          "wordCount": null,
+          "title": "P2 — Unauthenticated AI Agent Access via Cloudflare Turnstile CAPTCHA Bypass Leading to Internal…",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/c09feb6069fc",
+          "author": "Vigneshkumaroffsec",
+          "description": "A repeatable method for finding the confused-deputy bugs in LLM tools — from someone who reported one to AWS.\nContinue reading on Medium »",
+          "link": "https://medium.com/@vigneshkumaroffsec/how-i-hunt-for-bugs-in-ai-agent-tools-c09feb6069fc?source=rss------bugbounty-5",
+          "publishedOn": "2026-11-11T02:51:17.000Z",
+          "wordCount": null,
+          "title": "How I Hunt for Bugs in AI Agent Tools",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/3f52e8a52bc1",
+          "author": "The XSS Rat",
+          "description": "Most hunters test GraphQL like it’s REST and walk straight past the money bugs. Here’s how I read the schema, map the mutations, and turn…\nContinue reading on Medium »",
+          "link": "https://thexssrat.medium.com/graphql-is-a-gift-to-bug-hunters-heres-my-introspection-to-takeover-workflow-3f52e8a52bc1?source=rss------bugbounty-5",
+          "publishedOn": "2026-11-10T21:08:34.000Z",
+          "wordCount": null,
+          "title": "GraphQL Is a Gift to Bug Hunters — Here’s My Introspection-to-Takeover Workflow",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/562d1587df15",
+          "author": "Yara AlHumaidan (0xy37)",
+          "description": "One of those “wait, that’s it? no re-auth?” bugs. tested this on a VP59 sitting on our bench and walked away with domain creds on Wi-Fi in…\nContinue reading on Medium »",
+          "link": "https://0xy37.medium.com/pass-back-attack-on-wpa-enterprise-to-get-creds-562d1587df15?source=rss------bugbounty-5",
+          "publishedOn": "2026-11-10T21:05:21.000Z",
+          "wordCount": null,
+          "title": "Pass-Back Attack on WPA Enterprise to Get Creds",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/7f05b2010c29",
+          "author": "Mahan Xp",
+          "description": "Introduction\nContinue reading on Medium »",
+          "link": "https://medium.com/@MahanXp/bypassing-group-role-restrictions-through-api-manipulation-7f05b2010c29?source=rss------bugbounty-5",
+          "publishedOn": "2026-11-10T20:40:54.000Z",
+          "wordCount": null,
+          "title": "Bypassing Group Role Restrictions Through API Manipulation",
+          "imageUrl": null
+        },
+        {
           "id": "https://medium.com/p/fc105aea6765",
           "author": "Akash motkar",
           "description": "Severity: Medium (P3)\nVulnerability Type: Broken Object-Level Authorization (BOLA / IDOR)\nCWE: CWE-639 — Authorization Bypass Through…\nContinue reading on Medium »",
@@ -18917,6 +19017,96 @@
       "siteUrl": "https://medium.com/tag/redteam/latest?source=rss------redteam-5",
       "articles": [
         {
+          "id": "https://medium.com/p/724f9b668a0e",
+          "author": "WilsonNugrah",
+          "description": "If you’ve ever spent an entire afternoon wrestling with Android emulator configurations, broken SDK paths, and proxy\n misconfigs before…\nContinue reading on FMI Cyber Security Consulting Services »",
+          "link": "https://medium.com/fmisec/stop-wasting-hours-on-emulator-setup-heres-the-fast-way-to-setup-emulator-for-mobile-penetration-724f9b668a0e?source=rss------redteam-5",
+          "publishedOn": "2026-11-11T02:01:02.000Z",
+          "wordCount": null,
+          "title": "Stop Wasting Hours on Emulator Setup — Here’s the Fast Way to Setup Emulator for Mobile Penetration…",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/273b3892eb36",
+          "author": "Daniel Lewis",
+          "description": "Overview\nContinue reading on Medium »",
+          "link": "https://medium.com/@daniel.josiah.lewis/sharethepain-medium-273b3892eb36?source=rss------redteam-5",
+          "publishedOn": "2026-11-11T00:21:01.000Z",
+          "wordCount": null,
+          "title": "ShareThePain (HackSmarter)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/51502a2e3104",
+          "author": "Nukeratframework",
+          "description": "Continue reading on Medium »",
+          "link": "https://medium.com/@nukeratframework/nukerat-framework-51502a2e3104?source=rss------redteam-5",
+          "publishedOn": "2026-11-10T23:57:42.000Z",
+          "wordCount": null,
+          "title": "NukeRat Framework",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/eaeb24f0e230",
+          "author": "Daniel Lewis",
+          "description": "Overview\nContinue reading on Medium »",
+          "link": "https://medium.com/@daniel.josiah.lewis/bitstream-range-eaeb24f0e230?source=rss------redteam-5",
+          "publishedOn": "2026-11-10T22:36:34.000Z",
+          "wordCount": null,
+          "title": "Bitstream (Range)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/983251376295",
+          "author": "0xOGH",
+          "description": "Hello again! Welcome to another machine walkthrough.\nContinue reading on Medium »",
+          "link": "https://medium.com/@osamahegazey605/cohort-hackthebox-983251376295?source=rss------redteam-5",
+          "publishedOn": "2026-11-10T22:08:57.000Z",
+          "wordCount": null,
+          "title": "Cohort (HackTheBox)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/e1c5dd7fc7ae",
+          "author": "Austin BC",
+          "description": "Made and wrote by Austin BC\nContinue reading on Medium »",
+          "link": "https://xinatra.medium.com/from-a-newsletter-form-to-forest-control-cyberwarfare-labs-certified-red-team-analyst-crta-e1c5dd7fc7ae?source=rss------redteam-5",
+          "publishedOn": "2026-11-10T21:08:34.000Z",
+          "wordCount": null,
+          "title": "From a Newsletter Form to Forest Control: CyberWarFare Labs Certified Red Team Analyst (CRTA)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/97b23d464b81",
+          "author": "Sema Hasmer",
+          "description": "Nov 10, 2026 · @Sema\nContinue reading on Medium »",
+          "link": "https://medium.com/@sema_hasmer/osint-explained-how-public-information-becomes-intelligence-97b23d464b81?source=rss------redteam-5",
+          "publishedOn": "2026-11-10T19:17:51.000Z",
+          "wordCount": null,
+          "title": "OSINT Explained: How Public Information Becomes Intelligence",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/e62957807841",
+          "author": "M3H47D1",
+          "description": "A chain of seemingly minor web flaws that led to a full Active Directory takeover.\nContinue reading on Medium »",
+          "link": "https://medium.com/@M3h4ydii/rubberstamp-from-a-backup-file-to-domain-admin-e62957807841?source=rss------redteam-5",
+          "publishedOn": "2026-11-10T16:04:44.000Z",
+          "wordCount": null,
+          "title": "Rubberstamp — From a Backup File to Domain Admin",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/80c8f7694579",
+          "author": "Gowrishankar",
+          "description": "Can you exfiltrate the root flag?\nContinue reading on Medium »",
+          "link": "https://medium.com/@gowrishankar.a391/wgel-ctf-walkthrough-tryhackme-80c8f7694579?source=rss------redteam-5",
+          "publishedOn": "2026-11-10T12:56:50.000Z",
+          "wordCount": null,
+          "title": "Wgel CTF Walkthrough | TryHackMe",
+          "imageUrl": null
+        },
+        {
           "id": "https://medium.com/p/b77ebd0628a9",
           "author": "Butrint Komoni",
           "description": "Butrint Komoni (@pwntheplanet)\nContinue reading on Medium »",
@@ -28302,6 +28492,16 @@
       "siteUrl": "https://blog.mozilla.org/security/",
       "articles": [
         {
+          "id": "https://blog.mozilla.org/security/?p=2935",
+          "author": "Tom Ritter, Frederik Braun and Christoph Kerschbaumer",
+          "description": "Firefox is strengthening protection against trackers that recognize you across websites, even when they don’t use cookies. The latest fingerprinting protections shipped in Firefox reduce the extractable distinguishing details, making … Read more\nThe post Open research, stronger privacy: Making Firefox users harder to fingerprint appeared first on Mozilla Security Blog.",
+          "link": "https://blog.mozilla.org/security/2026/11/10/open-research-stronger-privacy-making-firefox-users-harder-to-fingerprint/",
+          "publishedOn": "2026-11-10T18:36:02.000Z",
+          "wordCount": 2055,
+          "title": "Open research, stronger privacy: Making Firefox users harder to fingerprint",
+          "imageUrl": null
+        },
+        {
           "id": "https://blog.mozilla.org/security/?p=2931",
           "author": "Firefox Security Team",
           "description": "On Saturday, October 17, at 20:06 UTC, Mozilla received a report that private keys associated with eight eMudhra intermediate certificates had been compromised. These keys could allow attackers to issue … Read more\nThe post Protecting Firefox users following the compromise of eMudhra intermediate certificates appeared first on Mozilla Security Blog.",
@@ -29410,6 +29610,206 @@
       "feedUrl": "https://feed.cnblogs.com/blog/sitehome/rss",
       "siteUrl": null,
       "articles": [
+        {
+          "id": "https://www.cnblogs.com/dawudexiaowu/p/23626768",
+          "author": null,
+          "description": "本文通过真实复现两个经典 loss 变 NaN 场景，揭示其根源：过大学习率导致梯度溢出，或自定义损失中 log(0) 引发 inf 传导至 NaN。借助 PyTorch forward hook 逐层监控，可精准定位首现 inf 的层与步数，实现“烟感报警式”快速诊断。结合二分法调参与数值稳定写法...",
+          "link": "https://www.cnblogs.com/dawudexiaowu/p/23626768",
+          "publishedOn": "2026-11-11T03:49:00.000Z",
+          "wordCount": 658,
+          "title": "手把手教你：loss 变 NaN 用 hook 逐层定位｜AI工程师踩坑实录·第4篇 - 大雾的小屋",
+          "imageUrl": "https://img2024.cnblogs.com/blog/2824078/202611/2824078-20261111114818206-1690378856.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/azhe921/p/23626367",
+          "author": null,
+          "description": "这份复核记录从一个报告开始，到一张签字单结束。报告的建议是给 trade_flow 加 (status, created_at) 索引；我的处理是先退回补证据，再按结果集、计划、写入副作用三步验，过了才排窗口。 记录按“报告、验证、签字、归档”四段写。文中的表名、行数、延迟、索引大小都是示例环境，只",
+          "link": "https://www.cnblogs.com/azhe921/p/23626367",
+          "publishedOn": "2026-11-11T03:21:00.000Z",
+          "wordCount": 571,
+          "title": "一次加索引建议的复核记录：从报告到签字 - 数据库急诊室_阿哲",
+          "imageUrl": "https://img2024.cnblogs.com/blog/3863146/202611/3863146-20261111112017335-1433719861.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/codigger/p/23625673",
+          "author": null,
+          "description": "规范清晰・减少冲突・协作高效 几年前我接手过一个六人小团队，代码写得不算差，但协作方式很 &quot;野生&quot;：所有人挤在一个分支上开发，上线前一周全员解冲突，一解就是一个通宵。 更糟的是有一次线上出 bug，值班同学直接在 main 上改了几行，验证没问题就发了版 —— 两周后新版本上线，同一个 bug 原地",
+          "link": "https://www.cnblogs.com/codigger/p/23625673",
+          "publishedOn": "2026-11-11T02:40:00.000Z",
+          "wordCount": 763,
+          "title": "大厂git提交规范 - codigger",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/anye1991/p/23625224",
+          "author": null,
+          "description": "第四篇：工程落地与评测——从原型到可运营的语义引擎 TL;DR 落地三件事：把冻结执行计划接入真实 WAF 链路、把规则开发流程工程化（CI + 差分测试 + 灰度）、把可观测性补齐（降级率、证据分布、证书抽样）。 评测方法论：以「判定一致性 + 证据完整度 + 时延分布」三轴评测，而非单一准确率；",
+          "link": "https://www.cnblogs.com/anye1991/p/23625224",
+          "publishedOn": "2026-11-11T02:19:00.000Z",
+          "wordCount": 861,
+          "title": "YSL语枢-盾甲WAF 总结与展望——从一套引擎到一种方法 - anye1991",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/lmy5215006/p/23576169",
+          "author": null,
+          "description": "简介 网络上关于DDD的文章很多，但我水平有限，其实很少看懂过。 借着新项目使用abp的春风，带着问题去学习/思考，效率永远是最快的。 对Navigation Properties的滥用 因为公司要求使用外键，所以代码中也自然而然的配置好了导航属性，这在我们日常开发中很爽，dbContext一拿，I",
+          "link": "https://www.cnblogs.com/lmy5215006/p/23576169",
+          "publishedOn": "2026-11-11T01:40:00.000Z",
+          "wordCount": 354,
+          "title": "abp学习笔记 - 如何判断一个对象是不是聚合 - 叫我安不理",
+          "imageUrl": "https://img2024.cnblogs.com/blog/1084317/202611/1084317-20261106171459285-700668957.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/MrHuo/p/23624224/agent-from-scratch-03",
+          "author": null,
+          "description": "系列大纲 &#183; 手搓 AI Agent（Node.js / TypeScript） 本系列从零手搓一个通用工具型 Agent：能对话、能调用工具、能规划任务、能多 Agent 协作，并最终接入 MCP 生态。技术栈锁定 Node.js 22 + TypeScript，模型接入层用一套 OpenAI 兼",
+          "link": "https://www.cnblogs.com/MrHuo/p/23624224/agent-from-scratch-03",
+          "publishedOn": "2026-11-11T01:26:00.000Z",
+          "wordCount": 1298,
+          "title": "手搓 AI Agent 03：长出手脚——Tool 系统设计 - 开发者精选资讯",
+          "imageUrl": "https://img2024.cnblogs.com/blog/316520/202611/316520-20261111092422719-1439064627.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/shanyou/p/23623908",
+          "author": null,
+          "description": ".NET 11 正式版已经放出。这版是 STS（标准期限支持）版本，官方支持两年。需要长周期支持的团队继续用 .NET 10 LTS 就行，两者质量策略一样，只是支持时长不同。",
+          "link": "https://www.cnblogs.com/shanyou/p/23623908",
+          "publishedOn": "2026-11-11T01:10:00.000Z",
+          "wordCount": 821,
+          "title": ".NET 11 发布了，聊聊这版值得关注的变化 - 张善友",
+          "imageUrl": "https://img2024.cnblogs.com/blog/510/202611/510-20261111090905778-335927767.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/jinjiangongzuoshi/p/23623797",
+          "author": null,
+          "description": "上一篇结尾说要拿下 RAG 应用评测。别急，动手之前还差最后一块拼图，工具。 前五篇你手里已经攒齐了一套完整的测评方法：测什么（测评集）、怎么量（指标）、谁来判（评分器）。 但这套东西现在还躺在文档和脑子里，要变成一份能交给老板的评测报告，中间隔着一条执行链路，题怎么批量发出去、结果怎么逐条判、分数",
+          "link": "https://www.cnblogs.com/jinjiangongzuoshi/p/23623797",
+          "publishedOn": "2026-11-11T00:59:00.000Z",
+          "wordCount": 1444,
+          "title": "Agent评测工具链大全：Promptfoo、DeepEval 与 LangSmith - 狂师",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/beiciqi/p/23623762",
+          "author": null,
+          "description": "顾名思义，即在树上进行dp，涵盖普通dp（如例题一、三）、各种背包dp（如例题二、四）等。由于树的特殊递归结构，所以与普通dp不同的是，树形dp一般都是递归进行的。 例题 一、洛谷P1352 没有上司的舞会 题目大意 有 \\(n\\) 个职员，编号 \\(1-n\\)，他们的关系就像一棵树，父亲节点是儿子",
+          "link": "https://www.cnblogs.com/beiciqi/p/23623762",
+          "publishedOn": "2026-11-11T00:54:00.000Z",
+          "wordCount": 1505,
+          "title": "树形 DP 四道例题详细讲解 - beiciqi",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/sdcb/p/23620985/20261111-simdcodecs-2-0",
+          "author": null,
+          "description": "上面是一张 3072&#215;4096 的手机 HEIC 照片，Chrome 打不开。左边的画面是 Sdcb.SimdCodecs 2.0 编译成 WebAssembly 后在浏览器里解出来的。右边的「解码选项」里，我选了 1/4 缩放，所以解码输出直接就是 768&#215;1024，中途不会先生成一张 1200",
+          "link": "https://www.cnblogs.com/sdcb/p/23620985/20261111-simdcodecs-2-0",
+          "publishedOn": "2026-11-11T00:45:00.000Z",
+          "wordCount": 987,
+          "title": "SimdCodecs 2.0 发布：一套 API 解所有图片，从 ImageSharp 迁过来只改几行 - .NET骚操作",
+          "imageUrl": "https://img2024.cnblogs.com/blog/233608/202611/233608-20261110234238457-1639239921.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/jeff-tsai/p/23623656/day-16-jsonrpc-pipeline",
+          "author": null,
+          "description": "昨天谈的是一个调用进来之后，框架怎么知道要建哪一个类型。再往前推一格的问题是：这个调用本身长什么样子。一套上千张表单的系统对外要开出的方法数以千计，而其中绝大多数是同一组动作套在不同的表单上。协议要决定的是它们怎么寻址、参数怎么带、失败怎么回报。 框架的答案是一个 POST 端点、一个 method",
+          "link": "https://www.cnblogs.com/jeff-tsai/p/23623656/day-16-jsonrpc-pipeline",
+          "publishedOn": "2026-11-11T00:36:00.000Z",
+          "wordCount": 911,
+          "title": "Day 16：JSON-RPC 2.0：协议选型与请求管道 - Jeff-Tsai",
+          "imageUrl": "https://img2024.cnblogs.com/blog/3864267/202611/3864267-20261111083509439-663332703.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/zhangs1986/p/23215584",
+          "author": null,
+          "description": "项目背景为SpringCloud多个微服务互相请求，服务里有不少 @Async 标注的异步方法，主要用来做任务完成后的记账、冲红、生成宽表这些不需要阻塞主流程的操作。这些方法内部会调 Feign 接口、查数据库，依赖请求入口处设置好的标识（flag）和 Spring 的 RequestAttribu",
+          "link": "https://www.cnblogs.com/zhangs1986/p/23215584",
+          "publishedOn": "2026-11-11T00:09:00.000Z",
+          "wordCount": 718,
+          "title": "SpringBoot中@Async异步透传问题内部分享 - 一个码农的日常",
+          "imageUrl": "https://img2024.cnblogs.com/blog/273387/202610/273387-20261007161124699-2099739414.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/shenchuanchao/p/23617141/blazor-ui-component-libraries-2026-6-open-source-how-to-choose",
+          "author": null,
+          "description": "文章盘点了2026年6个Blazor开源UI组件库（MudBlazor、Ant Design Blazor、Bootstrap Blazor、Polhem、ElementPlus-Blazor、DirectSurface），按定位差异分类，并从“写UI还是写系统、国内还是国外、常规后台还是特殊形态”...",
+          "link": "https://www.cnblogs.com/shenchuanchao/p/23617141/blazor-ui-component-libraries-2026-6-open-source-how-to-choose",
+          "publishedOn": "2026-11-11T00:01:00.000Z",
+          "wordCount": 893,
+          "title": "2026 年 Blazor UI 组件库盘点：6 个好用的开源库，怎么选不踩坑 - 码农刚子",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/hugogoos/p/23614256",
+          "author": null,
+          "description": "本文深入探讨 Redis Stream 确认后的核心机制：Pending 队列（PEL）的管理、死信处理与异常恢复。重点解析 PEL 的双层结构、状态流转、内存开销及四大硬边界（集群、副本、持久化、淘汰），强调“至少一次”需依赖业务幂等，投递次数≠失败次数，幽灵条目需主动清理。结合版本演进（7.0+...",
+          "link": "https://www.cnblogs.com/hugogoos/p/23614256",
+          "publishedOn": "2026-11-10T23:08:00.000Z",
+          "wordCount": 2612,
+          "title": "Redis 数据类型全解 - Stream 深度：Pending 回收、重试死信与消息队列选型（十一） - IT规划师",
+          "imageUrl": "https://img2024.cnblogs.com/blog/386841/202611/386841-20261110130222869-1608189634.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/jyzhao/p/23623333",
+          "author": null,
+          "description": "初学文档处理或多模态应用时，常会碰到 OCR、VLM、ASR 这几个缩写。它们都和“把信息变成文字或答案”有关，但分工完全不同。笔者用一句话先概括：OCR 负责抄字，VLM 负责看懂画面并推理，ASR 负责把声音转成文字。 flowchart LR A[&quot;声音&quot;] --&gt;|ASR| B[&quot;文字&quot;]",
+          "link": "https://www.cnblogs.com/jyzhao/p/23623333",
+          "publishedOn": "2026-11-10T22:44:00.000Z",
+          "wordCount": 645,
+          "title": "OCR、VLM、ASR 到底有什么区别？一文讲清 - AlfredZhao",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/wang_yb/p/23620146",
+          "author": null,
+          "description": "一批新数据到手，检查都会做，难在每次做得一样：想到哪几项就查哪几项，换批数据、隔段时间，顺序和阈值都变了，跑完也没留下一张能照着重来的单子。 把五步检查按固定顺序固化成一个入口，每次输出同样格式的结果单，下一批数据来了只是重跑一次。 这篇按这个顺序把五步逐个摊开：每步看哪几个数、这些数能落下什么判断",
+          "link": "https://www.cnblogs.com/wang_yb/p/23620146",
+          "publishedOn": "2026-11-10T13:11:00.000Z",
+          "wordCount": 681,
+          "title": "新数据到手，先跑哪几步检查 - wang_yb",
+          "imageUrl": "https://img2024.cnblogs.com/blog/83005/202611/83005-20261110211030741-1344761345.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/rossiXYZ/p/23593644",
+          "author": null,
+          "description": "# 【轻量化复刻大模型 / KIMI K3】Attention Residuals 完整梳理（1） 目录0x00 概要0.1 脉络0.2 论文信息0.3 关键图/表索引0.4 注意说明0x01 先懂 AttnRes：残差为什么是瓶颈1.1 标准残差的展开1.2 PreNorm 稀释与信息瓶颈1.3",
+          "link": "https://www.cnblogs.com/rossiXYZ/p/23593644",
+          "publishedOn": "2026-11-10T13:06:00.000Z",
+          "wordCount": 4841,
+          "title": "【轻量化复刻大模型 / KIMI K3】Attention Residuals 完整梳理（1） - 罗西的思考",
+          "imageUrl": "https://img2024.cnblogs.com/blog/1850883/202611/1850883-20261108185058435-1272629254.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/ishoulgodo/p/23620024",
+          "author": null,
+          "description": "go语言的设计理念 不要通过共享内存来通信，而是通过通信来共享内存 翻译为大白话就是说： 多个 goroutine 之间通过 channel 来通信，而不是通过共享内存来通信。 通过channel来通信 package main import ( &quot;fmt&quot; ) func add(a, b int,",
+          "link": "https://www.cnblogs.com/ishoulgodo/p/23620024",
+          "publishedOn": "2026-11-10T12:40:00.000Z",
+          "wordCount": 558,
+          "title": "go语言中管道channel和&内存地址和指针的讲解 - 何人陪我共长生",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/buchizicai/p/23594645",
+          "author": null,
+          "description": "上篇把图建起来，下篇讲它怎么在生产里跑：用户要中途确认、服务重启不能丢进度、前端要一个字一个字吐出来、多个 Agent 各管一摊。5 章覆盖动态中断与人在回路、ToolNode 工具接法、stream / astream / astream_events 三种流式粒度、子图嵌入与 compile(c...",
+          "link": "https://www.cnblogs.com/buchizicai/p/23594645",
+          "publishedOn": "2026-11-10T12:30:00.000Z",
+          "wordCount": 13310,
+          "title": "LangGraph 体系实战（下）：中断恢复、流式、子图与设计模式 - 不吃紫菜",
+          "imageUrl": "https://img2024.cnblogs.com/blog/2729274/202611/2729274-20261108231407677-1116797605.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/shenchuanchao/p/23618645/wuce-youxu",
+          "author": null,
+          "description": "周末找保修卡，把书房两个抽屉全倒出来，最后在第三个抽屉的文件夹底层找到了。顺手翻出三瓶过期护手霜、两盒没拆封的面膜，还有一袋不知道哪年囤的枸杞。东西一直在家，但从“放进去”那一刻起，就再也没被“看见”过。 后来跟朋友聊，发现这不是个例。很多家庭的收纳并不差——衣柜按季节分好，文件袋贴了标签，药箱也整",
+          "link": "https://www.cnblogs.com/shenchuanchao/p/23618645/wuce-youxu",
+          "publishedOn": "2026-11-10T09:42:00.000Z",
+          "wordCount": 414,
+          "title": "记一次家庭物品管理的折腾：从“收纳”到“可检索” - 码农刚子",
+          "imageUrl": "https://img2024.cnblogs.com/blog/1466017/202611/1466017-20261110174059498-1440266945.png"
+        },
         {
           "id": "https://www.cnblogs.com/horizondeveloper/p/23615044",
           "author": null,
@@ -57743,6 +58143,16 @@
       "feedUrl": "https://malware-traffic-analysis.net/blog-entries.rss",
       "siteUrl": "https://www.malware-traffic-analysis.net/index.html",
       "articles": [
+        {
+          "id": "https://www.malware-traffic-analysis.net/2026/11/10/index.html",
+          "author": null,
+          "description": "",
+          "link": "https://www.malware-traffic-analysis.net/2026/11/10/index.html",
+          "publishedOn": "2026-11-11T02:18:00.000Z",
+          "wordCount": 249,
+          "title": "2026-11-10: Traffic Analysis Exercise: The Lucky Turkey",
+          "imageUrl": null
+        },
         {
           "id": "https://www.malware-traffic-analysis.net/2026/10/22/index.html",
           "author": null,
