@@ -5760,6 +5760,106 @@
       "siteUrl": "https://medium.com/tag/bugbounty/latest?source=rss------bugbounty-5",
       "articles": [
         {
+          "id": "https://medium.com/p/c2f208f114ab",
+          "author": "Vigneshkumaroffsec",
+          "description": "Two bugs that live in the same blind spot — one makes the server send a request it shouldn’t, the other makes the browser forge one.\nContinue reading on Medium »",
+          "link": "https://medium.com/@vigneshkumaroffsec/the-requests-you-didnt-send-finding-ssrf-and-csrf-by-hand-c2f208f114ab?source=rss------bugbounty-5",
+          "publishedOn": "2026-11-13T05:02:20.000Z",
+          "wordCount": null,
+          "title": "The Requests You Didn’t Send: Finding SSRF and CSRF by Hand",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/0a1c70f5d43b",
+          "author": "Raj Namdev",
+          "description": "The insert at zend_hash.c:1122 is still there in 8.4.27. What got deleted is the longjmp that armed it.\nContinue reading on CodeToDeploy »",
+          "link": "https://medium.com/codetodeploy/a-438kb-request-killed-the-vulnerable-php-build-the-patched-one-parsed-it-in-56mb-0a1c70f5d43b?source=rss------bugbounty-5",
+          "publishedOn": "2026-11-13T04:29:24.000Z",
+          "wordCount": null,
+          "title": "A 438KB Request Killed the Vulnerable PHP Build. The Patched One Parsed It in 56MB.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/cf489246d335",
+          "author": "Muhammad Asim Shahzad",
+          "description": "A 2018 bug bounty chain shows how a skipped OTP binding and an unchecked token audience added up to account takeover\nContinue reading on Medium »",
+          "link": "https://masimshahzad.medium.com/the-phone-number-that-unlocked-any-tinder-account-cf489246d335?source=rss------bugbounty-5",
+          "publishedOn": "2026-11-13T03:54:39.000Z",
+          "wordCount": null,
+          "title": "The Phone Number That Unlocked Any Tinder Account",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/5c633acf1011",
+          "author": "Muhammad Asim Shahzad",
+          "description": "A 2013 Flickr mobile bug shows how an unanchored URL check plus CORS let an outside page inject script\nContinue reading on Medium »",
+          "link": "https://masimshahzad.medium.com/one-missing-anchor-one-flickr-xss-5c633acf1011?source=rss------bugbounty-5",
+          "publishedOn": "2026-11-13T03:48:33.000Z",
+          "wordCount": null,
+          "title": "One Missing Anchor, One Flickr XSS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/d95d6bba567d",
+          "author": "Muhammad Asim Shahzad",
+          "description": "A 2015 PayPal bounty shows why server-side state must never round-trip through the client as a raw serialized object\nContinue reading on Medium »",
+          "link": "https://masimshahzad.medium.com/the-unsigned-form-field-that-ran-code-on-paypal-d95d6bba567d?source=rss------bugbounty-5",
+          "publishedOn": "2026-11-13T03:44:19.000Z",
+          "wordCount": null,
+          "title": "The Unsigned Form Field That Ran Code on PayPal",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/6e98ea55ca32",
+          "author": "Monika",
+          "description": "A complete guide to finding, testing, and exploiting Race Condition vulnerabilities in web applications — with real bug bounty examples…\nContinue reading on OSINT Team »",
+          "link": "https://osintteam.blog/race-conditions-how-a-0-3-second-window-gave-hackers-full-account-takeover-6e98ea55ca32?source=rss------bugbounty-5",
+          "publishedOn": "2026-11-13T03:24:35.000Z",
+          "wordCount": null,
+          "title": "Race Conditions: How a 0.3 Second Window Gave Hackers Full Account Takeover",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/b75a1569013f",
+          "author": "Mahmoud_Elkholy",
+          "description": "The Member Who Could Edit the Admin\nContinue reading on Medium »",
+          "link": "https://medium.com/@silent_hunter_/broken-access-control-missing-server-side-authorization-allows-member-to-access-billing-data-and-b75a1569013f?source=rss------bugbounty-5",
+          "publishedOn": "2026-11-12T17:38:36.000Z",
+          "wordCount": null,
+          "title": "Broken Access Control Missing Server-Side Authorization Allows Member to Access Billing Data and…",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/a0a0fe38979a",
+          "author": "Charon Security",
+          "description": "A bug hunt story with no code, just the mindset behind it.\nContinue reading on Medium »",
+          "link": "https://medium.com/@Charon19d/humans-make-mistakes-thats-where-i-look-a0a0fe38979a?source=rss------bugbounty-5",
+          "publishedOn": "2026-11-12T15:22:08.000Z",
+          "wordCount": null,
+          "title": "Humans Make Mistakes. That’s Where I Look",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/1066d1a54031",
+          "author": "Asad Mohsin",
+          "description": "1. Introduction\nContinue reading on Medium »",
+          "link": "https://medium.com/@asadmohsin760/critical-barracuda-security-vulnerabilities-cve-2026-116606-and-cve-2026-111560-could-allow-1066d1a54031?source=rss------bugbounty-5",
+          "publishedOn": "2026-11-12T15:10:52.000Z",
+          "wordCount": null,
+          "title": "Critical Barracuda Security Vulnerabilities: CVE-2026-116606 and CVE-2026-111560 Could Allow…",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/e89c14b574e2",
+          "author": "Abdelatef Osama",
+          "description": "Subtitle: How DNS analysis, asset discovery, and manual security testing can uncover critical infrastructure risks.\nContinue reading on Medium »",
+          "link": "https://medium.com/@tefatefatorky/from-100k-subdomains-to-a-real-attack-surface-an-external-security-assessment-e89c14b574e2?source=rss------bugbounty-5",
+          "publishedOn": "2026-11-12T14:54:00.000Z",
+          "wordCount": null,
+          "title": "From 100K Subdomains to a Real Attack Surface: An External Security Assessment",
+          "imageUrl": null
+        },
+        {
           "id": "https://medium.com/p/ca4aa68c3c93",
           "author": "M Venkata Sasidhar Kaushik",
           "description": "Introduction\nContinue reading on Medium »",
@@ -19117,6 +19217,46 @@
       "siteUrl": "https://medium.com/tag/redteam/latest?source=rss------redteam-5",
       "articles": [
         {
+          "id": "https://medium.com/p/c2f208f114ab",
+          "author": "Vigneshkumaroffsec",
+          "description": "Two bugs that live in the same blind spot — one makes the server send a request it shouldn’t, the other makes the browser forge one.\nContinue reading on Medium »",
+          "link": "https://medium.com/@vigneshkumaroffsec/the-requests-you-didnt-send-finding-ssrf-and-csrf-by-hand-c2f208f114ab?source=rss------redteam-5",
+          "publishedOn": "2026-11-13T05:02:20.000Z",
+          "wordCount": null,
+          "title": "The Requests You Didn’t Send: Finding SSRF and CSRF by Hand",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/ac6bb4a8ca33",
+          "author": "Mohamed Algabry",
+          "description": "Complete Learning Curriculum: Network, Web/API, Mobile, Cloud & Identity\nContinue reading on Medium »",
+          "link": "https://mohamedalgabry.medium.com/rootlabs-penetration-testing-master-roadmap-ac6bb4a8ca33?source=rss------redteam-5",
+          "publishedOn": "2026-11-12T18:57:26.000Z",
+          "wordCount": null,
+          "title": "ROOTLABS — — Penetration Testing Master Roadmap",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/d0e06818b02f",
+          "author": "Razzle Mouse",
+          "description": "Platform: HackSmarter Labs\n Lab: Stacked (AWS Serverless PassRole)\n Difficulty: Hard\n Focus: Red Team / Cloud / IAM Policy Analysis…\nContinue reading on Medium »",
+          "link": "https://razzlemouse.medium.com/hack-smarter-stacked-hard-write-up-d0e06818b02f?source=rss------redteam-5",
+          "publishedOn": "2026-11-12T18:33:53.000Z",
+          "wordCount": null,
+          "title": "Hack Smarter Stacked (Hard) Write-Up",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/2635aa9ea47f",
+          "author": "Broken Hearts",
+          "description": "After eight years of polite kisses and separate sides of the bed, Meera puts on the red dress she wore on their first date — and Rohan…\nContinue reading on Medium »",
+          "link": "https://medium.com/@nawabfarooq237/she-wore-the-red-dress-again-then-he-couldnt-keep-his-hands-off-her-2635aa9ea47f?source=rss------redteam-5",
+          "publishedOn": "2026-11-12T17:01:02.000Z",
+          "wordCount": null,
+          "title": "She Wore the Red Dress Again — Then He Couldn’t Keep His Hands Off Her",
+          "imageUrl": null
+        },
+        {
           "id": "https://medium.com/p/9936bda1d653",
           "author": "Red Team HQ",
           "description": "Offensive security. Red team. The modern environments, the ugly ones.\nContinue reading on Medium »",
@@ -29740,6 +29880,206 @@
       "feedUrl": "https://feed.cnblogs.com/blog/sitehome/rss",
       "siteUrl": null,
       "articles": [
+        {
+          "id": "https://www.cnblogs.com/wang_yb/p/23653612",
+          "author": null,
+          "description": "收上来一堆报名表，合并、改格式、查重复、按学院拆回去，这些活手工做慢是一回事，更麻烦的是不可复现——同一堆文件，两个人合出来不一样，同一个人在不同时间合出来也不一样，而且谁都没留下上次改了什么的记录，出了错也倒不回去查。 把整套动作固化成脚本，让每一步都留下凭据：哪行来自哪份文件、改过哪些格、哪些行",
+          "link": "https://www.cnblogs.com/wang_yb/p/23653612",
+          "publishedOn": "2026-11-13T05:27:00.000Z",
+          "wordCount": 612,
+          "title": "收上来一堆 Excel，怎么保证没改错 - wang_yb",
+          "imageUrl": "https://img2024.cnblogs.com/blog/83005/202611/83005-20261113132626387-1918243739.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/dawudexiaowu/p/23652179",
+          "author": null,
+          "description": "装了11.8又装12.x，切了环境nvcc版本还是不对？这不是装错，是PATH排序问题。本机三场景实测证明：谁生效由PATH队列最前的那个决定，与版本新旧、安装先后无关。排查第一命令是where.exe，一条列出全部候选与真实生效者。",
+          "link": "https://www.cnblogs.com/dawudexiaowu/p/23652179",
+          "publishedOn": "2026-11-13T03:18:00.000Z",
+          "wordCount": 590,
+          "title": "手把手教你：装了两套 CUDA 还在串？PATH 与优先级的真相｜AI工程师踩坑实录·第6篇 - 大雾的小屋",
+          "imageUrl": "https://img2024.cnblogs.com/blog/2824078/202611/2824078-20261113111637345-217858501.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/yuexiliuli/p/23651985",
+          "author": null,
+          "description": "介绍 群里收到 PPT 时，仅看文件名往往判断不了内容。按常规流程要下载、打开 Office、等加载、再翻页，多个文件下来很耗时间。我做了个小工具：在 Linux 服务器上把 PPT 转成一张纵向长图，用户在聊天窗口或手机里点开就能滑动浏览，不需要安装或打开 Office。 本文记录选型过程、关键实",
+          "link": "https://www.cnblogs.com/yuexiliuli/p/23651985",
+          "publishedOn": "2026-11-13T03:09:00.000Z",
+          "wordCount": 782,
+          "title": "在 Linux 上把 PPT 转成长图：office2pdf + PyMuPDF 的选型与踩坑 - yuexiliuli",
+          "imageUrl": "https://img2024.cnblogs.com/blog/1693703/202611/1693703-20261113101840793-516672749.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/xyyt/p/23651767",
+          "author": null,
+          "description": "AI 写代码越来越强，但实测显示它的初次通过率并不高。它擅长快速生成方案、补全测试、指出冗余，却很难真正理解业务边界和团队取舍。本文结合我在实际项目中使用 AI 重构代码的经验，分享一套可落地的质量把控方法：测试交给 AI，边界由人定义；优化交给 AI，标准由人制定。AI 不是替代者，它更像一套机械...",
+          "link": "https://www.cnblogs.com/xyyt/p/23651767",
+          "publishedOn": "2026-11-13T02:53:00.000Z",
+          "wordCount": 557,
+          "title": "从怀疑到真香——AI 重构代码后，我不再追求“最合适”，而是做好这两件事：测试和优化 - 码间留白",
+          "imageUrl": "https://img2024.cnblogs.com/blog/546882/202611/546882-20261113105236402-1009050829.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/codigger/p/23650834",
+          "author": null,
+          "description": "引子 先问个问题：几百万人在同一秒打开一个 App，请求是怎么被接住的？ 为什么双十一抢购页面没崩？为什么半夜某台服务器悄悄挂了，你刷抖音刷得照样流畅？ 很多人会说，因为后端有很多台服务器嘛。 对，但只对了一半。机器多了，新的问题跟着就来了：请求给谁？某台坏了怎么办？流量涨了怎么加机器？ 干这些活的",
+          "link": "https://www.cnblogs.com/codigger/p/23650834",
+          "publishedOn": "2026-11-13T01:56:00.000Z",
+          "wordCount": 360,
+          "title": "负载均衡到底在干嘛？7 个场景给你说明白 - codigger",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/known/p/23650416",
+          "author": null,
+          "description": "ERPLITE &#183; 开源项目 中小企业要的 ERP，可能不是功能最多的那个，而是不用月底补账的那个。 中小企业上 ERP，通常栽在三件事上：功能一堆但八成用不上；账要月底手工对一遍；想改个字段得排厂商的期。 ERPLite 想解决的不是「功能不够」，而是把「单据 → 库存 → 账」这条链做顺：审核的",
+          "link": "https://www.cnblogs.com/known/p/23650416",
+          "publishedOn": "2026-11-13T01:35:00.000Z",
+          "wordCount": 618,
+          "title": "你的账，是补出来的还是做出来的 - known",
+          "imageUrl": "https://img2024.cnblogs.com/blog/21278/202611/21278-20261113092914378-1513714801.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/MrHuo/p/23649930/agent-from-scratch-05",
+          "author": null,
+          "description": "系列大纲 &#183; 手搓 AI Agent（Node.js / TypeScript） 本系列从零手搓一个通用工具型 Agent：能对话、能调用工具、能规划任务、能多 Agent 协作，并最终接入 MCP 生态。技术栈锁定 Node.js 22 + TypeScript，模型接入层用一套 OpenAI 兼",
+          "link": "https://www.cnblogs.com/MrHuo/p/23649930/agent-from-scratch-05",
+          "publishedOn": "2026-11-13T01:19:00.000Z",
+          "wordCount": 971,
+          "title": "手搓 AI Agent 05：多工具协作——让 Agent 自己决定先搜再读、还能并行抓网页 - 开发者精选资讯",
+          "imageUrl": "https://img2024.cnblogs.com/blog/316520/202611/316520-20261113091736730-1373765944.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/jinjiangongzuoshi/p/23649824",
+          "author": null,
+          "description": "前段时间有位粉丝去参加面试，回来总觉得答得不太好，找到我，想让我帮他复盘一下。题目拿过来一看，里面有几道问题挺典型的，挑几道出来，跟大家分享一下。 面试聊的是他做的测试用例 Agent 项目，面试官问得挺细，从提效数据怎么统计，一直问到方案本身有什么短板。每道题我都站在面试官的角度拆了一下，这道题面",
+          "link": "https://www.cnblogs.com/jinjiangongzuoshi/p/23649824",
+          "publishedOn": "2026-11-13T01:09:00.000Z",
+          "wordCount": 776,
+          "title": "分享一次真实面试里的6道AI测试题，逐题拆解（抓紧围观） - 狂师",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/jeff-tsai/p/23649788/day-18-error-contract",
+          "author": null,
+          "description": "一次调用失败分两种。一种是业务规则正常挡下来的，订单没有选客户、状态不允许这样转，这段消息是写给用户看的；另一种是程序没有预期到的异常，消息里可能有服务器的文件路径，那是写给开发者看的。两种回到调用端长得一模一样，都是 JSON-RPC payload 里的 error 字段。分不出来就只能一律显示",
+          "link": "https://www.cnblogs.com/jeff-tsai/p/23649788/day-18-error-contract",
+          "publishedOn": "2026-11-13T01:03:00.000Z",
+          "wordCount": 690,
+          "title": "Day 18：错误契约与用户可见消息 - Jeff-Tsai",
+          "imageUrl": "https://img2024.cnblogs.com/blog/3864267/202611/3864267-20261113090311074-109935681.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/zhenl/p/23649790",
+          "author": null,
+          "description": "前面我们已经介绍了ComfyUI的工作流原理，并搭建了运行环境。在我们创建的环境中，ComfyUI运行在后端，应用程序通过http和web socker协议与ComfyUI服务进行数据交换。本文重点介绍该架构涉及的协议和技术栈选型。 一、架构说明 下图说明了应用程序与ComfyUI服务之间的关系：",
+          "link": "https://www.cnblogs.com/zhenl/p/23649790",
+          "publishedOn": "2026-11-13T01:03:00.000Z",
+          "wordCount": 1258,
+          "title": "开发基于ComfyUI图片生成类应用Step by step （四）前后端分离架构：独立ComfyUI服务于应用技术栈选型 - 寻找无名的特质",
+          "imageUrl": "https://img2024.cnblogs.com/blog/4131/202611/4131-20261113090150687-381257932.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/yellow3gold/p/23649681",
+          "author": null,
+          "description": "在 3 节点 Docker 化的 ES 7.17 集群上给 IK 分词器导入自定义词典，踩到了插件目录与配置目录分离、容器重建丢插件、数据目录被 chown 错、scp 权限、远程 sudo 无终端、集群 red 等一连串问题。本文按「方案 → 踩坑 → 验证 → 日常维护」整理全过程。",
+          "link": "https://www.cnblogs.com/yellow3gold/p/23649681",
+          "publishedOn": "2026-11-13T00:53:00.000Z",
+          "wordCount": 1083,
+          "title": "ES 7.17 三节点 Docker 集群接入 IK 自定义词典：一次从丢插件到热更新的完整排障 - 新*",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/jyzhao/p/23649311",
+          "author": null,
+          "description": "在 Docker Compose 项目里更换环境变量文件时，如果直接改文件名再启动，旧容器可能仍带着上一次的环境变量。笔者按三个步骤操作，可以避免旧配置残留，让容器用上新文件。 01 | 先停掉并清理旧容器 切换前，先用当前的环境变量文件停止并删除正在运行的容器： docker-compose --",
+          "link": "https://www.cnblogs.com/jyzhao/p/23649311",
+          "publishedOn": "2026-11-12T23:23:00.000Z",
+          "wordCount": 488,
+          "title": "Docker Compose 平滑切换环境变量文件，容器配置不残留 - AlfredZhao",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/hugogoos/p/23644971",
+          "author": null,
+          "description": "缓存本质是数据副本，非加速器。接入缓存即签署一致性合同，需明确陈旧窗口、影响范围与责任归属。HybridCache 标准化并发合并、两级编排与批量失效，但其一致性上界由进程内 TTL 决定，架构师无权代业务决策。关键在于：是否可测量性能问题？是否为事实读？是否需强一致？能否签署暴露量？是否真需高级特...",
+          "link": "https://www.cnblogs.com/hugogoos/p/23644971",
+          "publishedOn": "2026-11-12T23:07:00.000Z",
+          "wordCount": 1674,
+          "title": "HybridCache-缓存架构决策框架落地 - IT规划师",
+          "imageUrl": "https://img2024.cnblogs.com/blog/386841/202611/386841-20261112185037530-1023607009.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/znlgis/p/23636603",
+          "author": null,
+          "description": "DEEPSEEK HARNESS &#183; ENGINEERING NOTE 把视频生产做成一条可验证的流水线 从旁白、时间轴到门禁：一支代码生成的片子，怎么被一步步验出来 一份关于确定性渲染、实测时间轴与多层门禁的工程笔记 封面示意：横向条带代表连续的帧流，顶部刻度是时间轴上的采样点。 目　录 一、问题",
+          "link": "https://www.cnblogs.com/znlgis/p/23636603",
+          "publishedOn": "2026-11-12T16:01:00.000Z",
+          "wordCount": 492,
+          "title": "把视频生产做成一条可验证的流水线 - 我才是银古",
+          "imageUrl": "https://img2024.cnblogs.com/blog/300497/202611/300497-20261112093019734-193249234.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/eventhorizon/p/23645861",
+          "author": null,
+          "description": "目录前言ExecutionContext 的作用上下文流动示例ExecutionContext 中的数据Activity.Current 与 Tracing 上下文上下文如何流动捕获当前上下文常见的传播入口线程与线程池中的上下文流动新建线程与线程池回调Thread.Start 的捕获与执行线程池回调",
+          "link": "https://www.cnblogs.com/eventhorizon/p/23645861",
+          "publishedOn": "2026-11-12T15:13:00.000Z",
+          "wordCount": 2978,
+          "title": "基于 .NET 11 深入理解 AsyncLocal 和 ExecutionContext - 黑洞视界",
+          "imageUrl": "https://img2024.cnblogs.com/blog/1201123/202611/1201123-20261112231103869-2015869446.svg"
+        },
+        {
+          "id": "https://www.cnblogs.com/rossiXYZ/p/23593758",
+          "author": null,
+          "description": "【轻量化复刻大模型 / KIMI K3】AttnRes 模块交互式演示 目录【轻量化复刻大模型 / KIMI K3】AttnRes 模块交互式演示0x00 概述0x01 核心数学1.1 Block vs Full1.2 状态机 API0x02 Tab 1: Demo 四联图2.1 目的2.2 Cop",
+          "link": "https://www.cnblogs.com/rossiXYZ/p/23593758",
+          "publishedOn": "2026-11-12T13:28:00.000Z",
+          "wordCount": 2380,
+          "title": "【轻量化复刻大模型 / KIMI K3】AttnRes 模块交互式演示 - 罗西的思考",
+          "imageUrl": "https://img2024.cnblogs.com/blog/1850883/202611/1850883-20261108191751731-1866445289.webp"
+        },
+        {
+          "id": "https://www.cnblogs.com/datacool/p/23645223",
+          "author": null,
+          "description": "大家好我是大龄程序员码农阿峰。今年47周岁，79年的。我差点失业了，我的linux技能现在好像把我保住了。我的感觉是不够强。所以还要继续学。今天展示一下我跟AI学Ubuntu server2604搭建docker环境。",
+          "link": "https://www.cnblogs.com/datacool/p/23645223",
+          "publishedOn": "2026-11-12T12:47:00.000Z",
+          "wordCount": 578,
+          "title": "AI是良师益友，跟他学Ubuntu server2604搭建docker环境 - 数据酷软件",
+          "imageUrl": "https://img2024.cnblogs.com/blog/124467/202611/124467-20261112202845720-1705808402.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/lwqing/p/23644952",
+          "author": null,
+          "description": "数据来源：TIOBE 官方榜单，2026 年 11 月版，发布于 11 月 7 日。 11 月的 TIOBE 榜单有点意思。头部四强稳如磐石，但门槛附近的位置洗了一整遍——Rust 掉出前十，Go 反超；Dart 首次闯入前 20，把上个月刚回归的 Julia 又挤了出去。 这篇不打算只把表格抄一遍",
+          "link": "https://www.cnblogs.com/lwqing/p/23644952",
+          "publishedOn": "2026-11-12T11:45:00.000Z",
+          "wordCount": 978,
+          "title": "2026 年 11 月 TIOBE 编程语言排行榜：Dart 首次闯入前 20，Rust 跌出前十 - MakingItBig",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/xiaojiaxuezhang/p/23644680",
+          "author": null,
+          "description": "Day20 &#183; 面向对象（二）继承、多态与高级特性 阶段：阶段一 &#183; 核心基础　|　前置：Day19　|　技术基准：Python 3.15.0 学习目标 掌握单继承、多继承与 MRO（方法解析顺序），会用 super() 理解多态与鸭子类型 会用 __slots__ 节省内存，用 @property",
+          "link": "https://www.cnblogs.com/xiaojiaxuezhang/p/23644680",
+          "publishedOn": "2026-11-12T11:14:00.000Z",
+          "wordCount": 4195,
+          "title": "Day20 · 面向对象（二）继承、多态与高级特性 - 小嘉游戏",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/nihao-xing/p/23642685",
+          "author": null,
+          "description": "https://www.cnblogs.com/nihao-xing/p/23459079 承接上文 本篇文章展示BookStore-jdbc的审计思路。 项目地址：https://github.com/StarryZB/BookStore 第1步：肯定是判断技术框架 BookStore 没有 po",
+          "link": "https://www.cnblogs.com/nihao-xing/p/23642685",
+          "publishedOn": "2026-11-12T10:00:00.000Z",
+          "wordCount": 981,
+          "title": "java代码审计sql注入2(jdbc) - 你好，星",
+          "imageUrl": "https://img2024.cnblogs.com/blog/3858383/202611/3858383-20261112164924978-1399671555.png"
+        },
         {
           "id": "https://www.cnblogs.com/messzh/p/23640728",
           "author": null,
@@ -58473,6 +58813,16 @@
       "feedUrl": "https://malware-traffic-analysis.net/blog-entries.rss",
       "siteUrl": "https://www.malware-traffic-analysis.net/index.html",
       "articles": [
+        {
+          "id": "https://www.malware-traffic-analysis.net/2026/11/12/index.html",
+          "author": null,
+          "description": "",
+          "link": "https://www.malware-traffic-analysis.net/2026/11/12/index.html",
+          "publishedOn": "2026-11-13T00:38:00.000Z",
+          "wordCount": 262,
+          "title": "2026-11-12: SmartApeSG ClickFix campaign pushes CNCmachineRMS RAT",
+          "imageUrl": null
+        },
         {
           "id": "https://www.malware-traffic-analysis.net/2026/11/10/index.html",
           "author": null,
