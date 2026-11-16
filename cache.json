@@ -5770,6 +5770,106 @@
       "siteUrl": "https://medium.com/tag/bugbounty/latest?source=rss------bugbounty-5",
       "articles": [
         {
+          "id": "https://medium.com/p/614a67f459ab",
+          "author": "Sebastian Vargas",
+          "description": "Cross-Supplier Privilege Escalation\nContinue reading on Medium »",
+          "link": "https://medium.com/@sebasvargas2/cross-supplier-privilege-escalation-how-i-escalated-from-operator-to-admin-on-a-leading-travel-614a67f459ab?source=rss------bugbounty-5",
+          "publishedOn": "2026-11-16T05:21:58.000Z",
+          "wordCount": null,
+          "title": "How I Escalated from Operator to Admin on a Leading Travel Platform on Hackerone Via GraphQL…",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/ae9fd2061bf6",
+          "author": "Muhammad Asim Shahzad",
+          "description": "A Sign in with Apple JWT bug let Apple sign tokens for any email, enabling account takeover in third-party apps.\nContinue reading on Medium »",
+          "link": "https://masimshahzad.medium.com/sign-in-with-apple-jwt-bug-account-takeover-case-ae9fd2061bf6?source=rss------bugbounty-5",
+          "publishedOn": "2026-11-16T04:59:39.000Z",
+          "wordCount": null,
+          "title": "Sign in with Apple JWT Bug: Account Takeover Case",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/b4f10c01c036",
+          "author": "Trent Linden",
+          "description": "Writing a plausible bug report became nearly free. Reading one didn’t. That gap is what breaks open projects.\nContinue reading on Medium »",
+          "link": "https://medium.com/@tl77/fewer-than-1-in-20-reports-was-real-the-arithmetic-that-closed-curls-bug-bounty-b4f10c01c036?source=rss------bugbounty-5",
+          "publishedOn": "2026-11-15T21:53:15.000Z",
+          "wordCount": null,
+          "title": "Fewer Than 1 in 20 Reports Was Real: The Arithmetic That Closed curl’s Bug Bounty",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/6aaac4dc5385",
+          "author": "Kamal S",
+          "description": "Stored Cross-Site Scripting (Stored XSS) is a web application vulnerability that occurs when an application accepts user provided input…\nContinue reading on Medium »",
+          "link": "https://medium.com/@Kamal_S/dvwa-vulnerability-stored-cross-site-scripting-xss-6aaac4dc5385?source=rss------bugbounty-5",
+          "publishedOn": "2026-11-15T17:34:01.000Z",
+          "wordCount": null,
+          "title": "DVWA Vulnerability: Stored Cross-Site Scripting (XSS)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/8950ddc972c4",
+          "author": "Yasin Arafat Tanim",
+          "description": "A beginner-friendly analysis of a real njRAT v0.7d sample using FLARE-VM, REMnux, INetSim, Wireshark, Process Monitor, Process Explorer…\nContinue reading on Medium »",
+          "link": "https://medium.com/@yatanim/dynamic-analysis-of-njrat-bladabindi-tracing-its-network-trafific-process-activity-and-8950ddc972c4?source=rss------bugbounty-5",
+          "publishedOn": "2026-11-15T15:37:09.000Z",
+          "wordCount": null,
+          "title": "Dynamic Analysis of njRAT malware (Bladabindi): Tracing Its Network Trafific, Process Activity, and…",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/010ce4ee0894",
+          "author": "L4ZZ3RJ0D",
+          "description": "Back to API security, and this one’s worth teaching specifically because the vulnerability class is almost embarrassingly simple compared…\nContinue reading on Medium »",
+          "link": "https://medium.com/@l4zz3rj0d/the-internal-tool-t-mobile-forgot-was-facing-the-public-internet-010ce4ee0894?source=rss------bugbounty-5",
+          "publishedOn": "2026-11-15T15:14:40.000Z",
+          "wordCount": null,
+          "title": "The Internal Tool T-Mobile Forgot Was Facing the Public Internet",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/91748175e47e",
+          "author": "Ratnadeep Dey Roy",
+          "description": "Why your report got closed as “Informative”, and how to turn low-impact findings into valid ones without breaking program rules.\nContinue reading on Medium »",
+          "link": "https://ratnadeepdeyroy.medium.com/the-out-of-scope-bugs-how-to-find-escalate-and-fix-31-commonly-rejected-bug-bounty-findings-91748175e47e?source=rss------bugbounty-5",
+          "publishedOn": "2026-11-15T14:45:43.000Z",
+          "wordCount": null,
+          "title": "The “Out of Scope” Bugs: How to Find, Escalate, and Fix 31 Commonly Rejected Bug Bounty Findings",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/1ddc7043c9f1",
+          "author": "Pentester Club",
+          "description": "What if you could give an AI penetration tester a single application URL and let it explore the application, investigate potential…\nContinue reading on Medium »",
+          "link": "https://medium.com/@pentesterclubpvtltd/verdict-ai-explained-the-autonomous-pentester-that-finds-proves-real-vulnerabilities-1ddc7043c9f1?source=rss------bugbounty-5",
+          "publishedOn": "2026-11-15T14:13:11.000Z",
+          "wordCount": null,
+          "title": "VERDICT AI Explained: The Autonomous Pentester That Finds & Proves Real Vulnerabilities",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/264da5f1d7dd",
+          "author": "Varshith Reddy",
+          "description": "A practical walkthrough of my bug bounty reconnaissance workflow, from discovering subdomains to identifying potential vulnerabilities.\nContinue reading on Medium »",
+          "link": "https://medium.com/@chilukavarshith4005/the-ultimate-guide-to-reconnaissance-for-bug-bounty-hunting-264da5f1d7dd?source=rss------bugbounty-5",
+          "publishedOn": "2026-11-15T14:13:09.000Z",
+          "wordCount": null,
+          "title": "The Ultimate Guide to Reconnaissance for Bug Bounty Hunting",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/910bba0c80d8",
+          "author": "0x4lpha",
+          "description": "Sometimes, the path you take in technology is not the path you originally imagined. And sometimes, a single experience can make you stop…\nContinue reading on Medium »",
+          "link": "https://medium.com/@0x4lpha_/finding-my-way-back-to-hardware-a-personal-journey-through-cybersecurity-910bba0c80d8?source=rss------bugbounty-5",
+          "publishedOn": "2026-11-15T12:56:56.000Z",
+          "wordCount": null,
+          "title": "Finding My Way Back to Hardware: A Personal Journey Through Cybersecurity",
+          "imageUrl": null
+        },
+        {
           "id": "https://medium.com/p/5f6d92dca0fa",
           "author": "cyb3rD1vvy@",
           "description": "Series: From P4 to P1\nDay: 17 of 30\nTopic: Advanced Server-Side Request Forgery (SSRF) Testing\nCategory: Web Application Security | API…\nContinue reading on Medium »",
@@ -19427,6 +19527,56 @@
       "siteUrl": "https://medium.com/tag/redteam/latest?source=rss------redteam-5",
       "articles": [
         {
+          "id": "https://medium.com/p/c3db675e64b2",
+          "author": "The Husky Hacker",
+          "description": "NorthStone_Walkthrough\nContinue reading on Medium »",
+          "link": "https://medium.com/@TheHuskyHacker/northstone-walkthrough-from-hack-smarter-time-for-some-red-team-labs-c3db675e64b2?source=rss------redteam-5",
+          "publishedOn": "2026-11-16T05:11:43.000Z",
+          "wordCount": null,
+          "title": "NorthStone Walkthrough From Hack Smarter, Time for Some Red Team Labs",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/530f78bd05f2",
+          "author": "Red Team HQ",
+          "description": "The best C2 tools of 2026 for red team operations. Disclaimer: this tools is for security professionals doing authorized work and study.\nContinue reading on Medium »",
+          "link": "https://medium.com/@nukeratframework/awesome-command-control-c2-2026-edition-530f78bd05f2?source=rss------redteam-5",
+          "publishedOn": "2026-11-15T20:25:17.000Z",
+          "wordCount": null,
+          "title": "Awesome Command & Control (C2) — 2026 Edition",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/f887a1bfc5d1",
+          "author": "n00",
+          "description": "What We Are Going to Achieve\nContinue reading on Medium »",
+          "link": "https://pswalia2u.medium.com/private-app-publishing-entra-id-group-rbac-phase-2-f887a1bfc5d1?source=rss------redteam-5",
+          "publishedOn": "2026-11-15T17:54:21.000Z",
+          "wordCount": null,
+          "title": "Private App Publishing & Entra ID Group RBAC (Phase 2)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/28cebf65dbc1",
+          "author": "Dani Marqus",
+          "description": "Hi all,\nContinue reading on Medium »",
+          "link": "https://medium.com/@danynoori27/sauna-machine-htb-challenge-8-walkthrough-road-to-oscp-28cebf65dbc1?source=rss------redteam-5",
+          "publishedOn": "2026-11-15T14:48:49.000Z",
+          "wordCount": null,
+          "title": "Sauna Machine | HTB Challenge #8 Walkthrough | Road To OSCP",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/f6498560cf99",
+          "author": "legitbiz",
+          "description": "Where part 1 left off\nContinue reading on Medium »",
+          "link": "https://legitbiz.medium.com/nuclei-for-people-who-actually-ship-part-2-the-red-team-field-guide-f6498560cf99?source=rss------redteam-5",
+          "publishedOn": "2026-11-15T11:58:10.000Z",
+          "wordCount": null,
+          "title": "Nuclei for People Who Actually Ship, Part 2: The Red Team Field Guide",
+          "imageUrl": null
+        },
+        {
           "id": "https://medium.com/p/7e81f1d63056",
           "author": "TR Notes",
           "description": "Everyone Is a Red Teamer: Four Years of AI Red Teaming\nContinue reading on Medium »",
@@ -28383,6 +28533,16 @@
       "siteUrl": "https://acassis.wordpress.com",
       "articles": [
         {
+          "id": "http://acassis.wordpress.com/?p=13166",
+          "author": "acassis",
+          "description": "After restart I asked Claude to analyze the root cause of the crash, here we go: I noticed that it happened when I ran gitk to see the commits of git repository and here is the explanation: Claude also gave me some ideas to get more debug info next time:",
+          "link": "https://acassis.wordpress.com/2026/11/15/my-computer-crashed-and-intel-gpu-was-the-guilt/",
+          "publishedOn": "2026-11-15T13:22:00.000Z",
+          "wordCount": 2996,
+          "title": "My computer crashed and Intel GPU was the guilt",
+          "imageUrl": "https://secure.gravatar.com/blavatar/96b4e96ab15f6d879cefa55e3b925a85c71ff4a86fee7843b2e3d794a5b1efb3?s=200&ts=1794808684"
+        },
+        {
           "id": "http://acassis.wordpress.com/?p=13159",
           "author": "acassis",
           "description": "Como o eletrodo funciona O eletrodo tem uma alma metálica (o arame que vira metal de adição) e um revestimento (fluxo). Ao queimar, o revestimento estabiliza o arco, gera gases que protegem a poça do ar, forma a escória que cobre e protege o cordão enquanto ele esfria, e pode adicionar elementos de liga ou … Continue reading Entendendo um pouco mais sobre solda eletrodo →",
@@ -30230,6 +30390,206 @@
       "feedUrl": "https://feed.cnblogs.com/blog/sitehome/rss",
       "siteUrl": null,
       "articles": [
+        {
+          "id": "https://www.cnblogs.com/leikooo/p/23680340",
+          "author": null,
+          "description": "大家今天大概已经用过几十次 hash 了，只是没注意到： git log 里那串 e3d1fbf…，是 hash； Java 里随手 new HashMap&lt;&gt;()，名字里就带着 hash； 登录网站时，服务器存的不是密码本身，而是密码的 hash； 下载一个 Linux ISO，旁边写着 SHA2",
+          "link": "https://www.cnblogs.com/leikooo/p/23680340",
+          "publishedOn": "2026-11-16T05:06:00.000Z",
+          "wordCount": 1508,
+          "title": "你每天用几十次的 hash，到底是什么？从 HashMap 到网盘秒传一次讲透 - leikooo",
+          "imageUrl": "https://img2024.cnblogs.com/blog/3674726/202611/3674726-20261116130456921-280493821.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/znlgis/p/23680323",
+          "author": null,
+          "description": "先给结论 chat-demo 是 DeepSeek 官方放出的一个静态聊天示例：没有后端、没有会话库，浏览器直接拿着你的 API Key 去请求你配置的服务。它小到可以一下午读完全部逻辑，又完整到把流式、思考、搜索、引用、附件、语音、分支、导入导出全做了一遍。 如果你的目标是“接一套对话产品”，它给",
+          "link": "https://www.cnblogs.com/znlgis/p/23680323",
+          "publishedOn": "2026-11-16T05:04:00.000Z",
+          "wordCount": 667,
+          "title": "chat-demo 源码解析与 DeepSeek 全家桶 API 能力盘点 - 我才是银古",
+          "imageUrl": "https://img2024.cnblogs.com/blog/300497/202611/300497-20261116130136925-1030298583.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/zw-awa/p/23680254",
+          "author": null,
+          "description": "桌子明明没动，角速度那条曲线却一直有值。静止时读出来的那点偏差看着不起眼，可它到了角度上就成了另一个问题——软件滤波为啥不能随便用？",
+          "link": "https://www.cnblogs.com/zw-awa/p/23680254",
+          "publishedOn": "2026-11-16T04:48:00.000Z",
+          "wordCount": 1392,
+          "title": "陀螺仪数据为什么看起来总在动：零偏、噪声和零漂 - Zw-awa",
+          "imageUrl": "https://img2024.cnblogs.com/blog/3791643/202611/3791643-20261116113647079-2062652985.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/equals/p/23679877",
+          "author": null,
+          "description": "7Shell：开源的跨平台 SSH 运维客户端，把终端、SFTP、容器和 K8s 放进一个窗口 Rust + Tauri2，Apache-2.0 开源，支持 Windows、macOS 和 Linux。（后面会有移动端app） 做它的原因： 好用的收费，不收费的不好用，既好用又便宜的又多少会缺少一些",
+          "link": "https://www.cnblogs.com/equals/p/23679877",
+          "publishedOn": "2026-11-16T03:55:00.000Z",
+          "wordCount": 479,
+          "title": "【开源自荐】7Shell：跨平台 SSH 运维客户端，把终端、SFTP、容器和 K8s 放进一个窗口 - 七维大脑",
+          "imageUrl": "https://img2024.cnblogs.com/blog/2575994/202611/2575994-20261116115332698-677737658.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/zjdxr-up/p/23673010",
+          "author": null,
+          "description": "0. 先说清楚我们要解决什么 你大概有过这种感觉：大模型 API 调起来很爽，但一让它&quot;干点实际的事&quot;就露馅—— 你问它&quot;帮我看看 218 上 Ollama 跑得动吗&quot;，它给你一段看起来对的命令，但它自己不会真的去跑； 你让它&quot;读一下这个日志文件再总结&quot;，它说&quot;我没有访问你文件的能力&quot;； 你让它&quot;连",
+          "link": "https://www.cnblogs.com/zjdxr-up/p/23673010",
+          "publishedOn": "2026-11-16T02:28:00.000Z",
+          "wordCount": 871,
+          "title": "一篇文章搞懂 Agent Harness：从概念、原理到我们该不该上 - FutureAI-Zeng",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/yellow3gold/p/23677924",
+          "author": null,
+          "description": "别名不是一个可有可无的“快捷方式”，它是索引版本迭代的抽象层。本文整理别名的基础用法、过滤别名、routing / index_routing / search_routing 的真实含义、零停机切换写法，以及“别名会自动路由吗”“删别名会不会删数据”这类高频误解。",
+          "link": "https://www.cnblogs.com/yellow3gold/p/23677924",
+          "publishedOn": "2026-11-16T02:08:00.000Z",
+          "wordCount": 687,
+          "title": "Elasticsearch 索引别名入门：创建、路由、原子切换与几个常见误解 - 新*",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/codigger/p/23677910",
+          "author": null,
+          "description": "上周跟一个朋友吃饭，他刚从某厂面完回来，一脸菜色。 我问咋了。他说被一道题打穿了。 面试官开场很随意：你说你做过支付，那用户在支付页面连点两下确认，你怎么保证同一个请求只处理一次？ 他答得也挺随意：加个防重 token 呗，请求进来先查 Redis，有就拦掉，没有就写进去。 面试官点点头，接着问：两",
+          "link": "https://www.cnblogs.com/codigger/p/23677910",
+          "publishedOn": "2026-11-16T02:07:00.000Z",
+          "wordCount": 707,
+          "title": "用户连点两次「确认支付」，你的后端凭什么只扣一次钱？ - codigger",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/cmt/p/23676903",
+          "author": null,
+          "description": "热点随笔： &#183; Agent 的经验，不该只留在聊天框里：cnblogs-publish 上线 (博客园团队) &#183; .NET 11 发布了，聊聊这版值得关注的变化 (张善友) &#183; workbuddy接管我的浏览器，帮我干活了 (程序员晓凡) &#183; AI 把代码写得飞快，然后呢？聊聊我验收生成代码的一套流",
+          "link": "https://www.cnblogs.com/cmt/p/23676903",
+          "publishedOn": "2026-11-16T01:02:00.000Z",
+          "wordCount": 351,
+          "title": "上周热点回顾（11.9-11.15） - 博客园团队",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/jinjiangongzuoshi/p/23676939",
+          "author": null,
+          "description": "前段时间在逛 GitHub 时，翻到一个项目：keploy，挺有意思，分享给大家。 它是一个开源的接口测试工具，思路跟常见的不太一样。不写用例，先跑业务，把真实流量录下来，测试和 Mock 数据自动生成。后端开发者和测试同学都能用，省掉的是两块最费时间的活，手写用例和搭环境。 这个项目，先记住几个关",
+          "link": "https://www.cnblogs.com/jinjiangongzuoshi/p/23676939",
+          "publishedOn": "2026-11-16T00:53:00.000Z",
+          "wordCount": 523,
+          "title": "太狠了！GitHub 19.8K star，真实接口流量直接录成测试 - 狂师",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/deerblog/p/23676876",
+          "author": null,
+          "description": "前言 Pixelium Design 是一套 Vue 3 像素风组件库，大量采用 canvas 绘制的方案渲染像素风格 UI。在使用这个组件库做一个小应用时发现了一个问题。 问题 Card 和自动增高的 Textarea 嵌套一起时，在 Textarea 里粘贴一段长文本撑开高度，Card 的高度跟",
+          "link": "https://www.cnblogs.com/deerblog/p/23676876",
+          "publishedOn": "2026-11-16T00:43:00.000Z",
+          "wordCount": 986,
+          "title": "布局更新后，canvas 重新绘制，出现了只持续一帧的闪烁？！ - 鹿鹿isNotDiefined",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/jeff-tsai/p/23676858/day-21-business-plugin",
+          "author": null,
+          "description": "昨天结尾停在一个情况：一家公司要的差异大到语言与布局都接不住。那类需求的形状跟前两篇不一样：保存前多一道信用额度检查、保存后把单据同步到另一套系统、删除时通知仓储。它们要的不是一份长得不一样的定义，是一段会运行的行为。 框架原本就有一条路能接：继承整张表单的 BO，在注册表里换掉绑定。但这条路对上面",
+          "link": "https://www.cnblogs.com/jeff-tsai/p/23676858/day-21-business-plugin",
+          "publishedOn": "2026-11-16T00:41:00.000Z",
+          "wordCount": 574,
+          "title": "Day 21：业务逻辑定制与 Plugin 的四个时点 - Jeff-Tsai",
+          "imageUrl": "https://img2024.cnblogs.com/blog/3864267/202611/3864267-20261116084058255-343545475.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/aifrontiers/p/23665080",
+          "author": null,
+          "description": "原文：https://mp.weixin.qq.com/s/YnSjZR8cLNvs1I_j6SCzBA 一家年营收二十多亿的精密制造企业，把企业级AI的三件套试了一遍：向量知识库、知识图谱、Agent工作流。上线不到半个月，老板收回了自动执行权限。三次故障，指向同一个空洞。 故障一：词义没有定义",
+          "link": "https://www.cnblogs.com/aifrontiers/p/23665080",
+          "publishedOn": "2026-11-16T00:22:00.000Z",
+          "wordCount": 610,
+          "title": "从RAG到知识图谱再到Agent工作流，中间还差一层本体论 - AI-Frontiers",
+          "imageUrl": "https://img2024.cnblogs.com/blog/3719074/202611/3719074-20261114144520277-1073273688.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/shanyou/p/23676652",
+          "author": null,
+          "description": "这个项目叫 ManagedCode.MCPGateway。我花了一天把它读完了，结论是：它赌的那个方向，可能是整个 MCP 网关赛道里最被低估的一个",
+          "link": "https://www.cnblogs.com/shanyou/p/23676652",
+          "publishedOn": "2026-11-15T23:39:00.000Z",
+          "wordCount": 585,
+          "title": "这个项目ManagedCode.MCPGateway，解决了 MCP 网关最被忽视的问题 - 张善友",
+          "imageUrl": "https://img2024.cnblogs.com/blog/510/202611/510-20261116073606900-495976369.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/hugogoos/p/23673995",
+          "author": null,
+          "description": "EXPIRE 存的是绝对 Unix 毫秒时刻，不是倒计时。本篇一次讲透 -1/-2 语义、TTL 取整、7.0 条件选项、从库传播与覆盖写清 TTL，并给出六组可复现验证、六问决策树、灰度回滚路线图、可编译的 .NET 10 代码与一页速查卡。",
+          "link": "https://www.cnblogs.com/hugogoos/p/23673995",
+          "publishedOn": "2026-11-15T23:17:00.000Z",
+          "wordCount": 1660,
+          "title": "Redis 核心机制 | 键生命周期与 TTL 管理 - IT规划师",
+          "imageUrl": "https://img2024.cnblogs.com/blog/386841/202611/386841-20261115225259570-1588378955.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/anye1991/p/23675877",
+          "author": null,
+          "description": "摘要： 面对公网每天的海量扫描，传统正则 WAF 显得力不从心。本文深度拆解了开源项目 YSL语枢-盾甲WAF 的底层防御机制（14层归一化、加权裁决、C2中枢与DNA零容忍），并记录了真实环境部署的压测数据与避坑指南。 正文： 做后端开发和运维的老哥都知道，只要服务器暴露在公网，每天都会被各种自动",
+          "link": "https://www.cnblogs.com/anye1991/p/23675877",
+          "publishedOn": "2026-11-15T18:52:00.000Z",
+          "wordCount": 436,
+          "title": "源码级拆解：从 C2 到 DNA，一款开源轻量级 WAF 的底层架构与避坑实战 - anye1991",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/byjs/p/23674267",
+          "author": null,
+          "description": "一条产线上，摄像头发现产品表面的划痕，厂区服务器汇总多条产线的异常，机械臂根据检测结果调整抓取动作。 这套系统里，三个词都可能成立： 摄像头在本地识别，属于端侧AI； 厂区服务器在数据产生现场附近处理信息，属于边缘AI； 机械臂根据感知结果采取动作，并继续接收新的反馈，属于物理AI。 它们描述的不是",
+          "link": "https://www.cnblogs.com/byjs/p/23674267",
+          "publishedOn": "2026-11-15T16:10:00.000Z",
+          "wordCount": 309,
+          "title": "物理AI、端侧AI、边缘AI 到底有什么区别？ - 边缘计算社区",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/ucfar/p/23674180",
+          "author": null,
+          "description": "任务栏时钟&quot;点开&quot;那件事：Tauri 2 + Rust 多窗口架构复盘 在做 Windows 桌面日历（日程 / 待办 / 提醒 / 桌面组件 + AI 秘书），技术栈 Tauri 2 + React + TypeScript + Rust + SQLite。后端 src-tauri/src 下近",
+          "link": "https://www.cnblogs.com/ucfar/p/23674180",
+          "publishedOn": "2026-11-15T15:54:00.000Z",
+          "wordCount": 1515,
+          "title": "任务栏时钟\"点开\"那件事：Tauri 2 + Rust 多窗口架构复盘 - ucfar",
+          "imageUrl": "https://img2024.cnblogs.com/blog/32765/202611/32765-20261115235332322-133065241.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/ygluu/p/23674173",
+          "author": null,
+          "description": "X3 LUA 异步分布式微服务集群框架 Lua 主控，C/C++ 辅助。 进程形态、服务身份、注册发现、协议表、业务逻辑都在 Lua；一个进程 = 一个目录 + 一个 main.lua。 C/C++ 补 Lua 做不了或做不快的那几块：I/O 多路复用、线程、网关加解密与压缩、日志、定时器。 Win",
+          "link": "https://www.cnblogs.com/ygluu/p/23674173",
+          "publishedOn": "2026-11-15T15:52:00.000Z",
+          "wordCount": 6163,
+          "title": "X3 LUA 异步分布式微服务集群框架 - 码客-ygluu",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/yeyunfei/p/23646036/threejs-3d-fire-drill-review-03",
+          "author": null,
+          "description": "three.js、WebGL 3D 消防演练第三课：演练事件记录、不可变快照、二分查找、状态回放和暂停倍速。结合五张场景设计图说明关键代码。",
+          "link": "https://www.cnblogs.com/yeyunfei/p/23646036/threejs-3d-fire-drill-review-03",
+          "publishedOn": "2026-11-15T14:31:00.000Z",
+          "wordCount": 667,
+          "title": "如何使用three.js/WebGL实现3D消防演练系统 之 事件联动与时间线复盘 - 魂断蓝桥666",
+          "imageUrl": "https://img2024.cnblogs.com/blog/800616/202611/800616-20261114083919646-1716491432.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/ayic/p/23591891",
+          "author": null,
+          "description": "前段时间项目里要接一个变电站的 RTU，主站侧是我们自己写的上位机系统，子站那边设备通信只支持 IEC 104 协议。翻了一圈资料，发现 IEC 104 的中文材料不少，但要么是标准条文翻译，要么只讲概念不给能跑的代码。这篇就把我这次从看协议到把客户端、服务端跑通的整个过程记一下。 一、IEC 10",
+          "link": "https://www.cnblogs.com/ayic/p/23591891",
+          "publishedOn": "2026-11-15T13:33:00.000Z",
+          "wordCount": 1517,
+          "title": "IEC 104 协议笔记：从报文结构到基于 lib60870.NET 客户端/服务端实现 - Y00",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
         {
           "id": "https://www.cnblogs.com/MrHuo/p/23671261/agent-from-scratch-06",
           "author": null,
@@ -60595,26 +60955,6 @@
           "wordCount": 909,
           "title": "红队基础设施自动化多云部署能力",
           "imageUrl": "https://archive1.vipread.com/covers/2025/11/topic/19688_1763564031_2d362c0e.jpg"
-        },
-        {
-          "id": "https://vipread.com/library/topic/4062",
-          "author": null,
-          "description": "本文链接\n\n《数据安全意识培训：守护数字生命线》面向产品与研发全员，重新定义数据安全是产品特性而非负担。课程围绕机密性、完整性、可用性三大基石，给出可落地的“安全左移”实践：需求阶段做威胁建模与数据分类，编码阶段用参数化查询、bcrypt 哈希和 CI/CD 自动扫描，部署阶段实施基础设施即代码安全、密钥托管与日志脱敏，运营阶段持续监控、限流防爬并闭环漏洞。通过越权访问、硬编码密钥、日志泄露三大真实案例，演示设计疏忽如何演变为百万罚款与勒索事件，并提供产品经理、研发工程师、通用办公三张速查卡，让“谁该看到什么数据”成为日常共识。培训最后发出“黄金三步法”应急号召：断网-报告-改密，强调“安全无小事，从一行代码、一个设计决策做起”，帮助团队把数据保护写进需求、融入编码、落到运维，共筑企业数字生命线。",
-          "link": "https://vipread.com/library/topic/4062",
-          "publishedOn": "2025-11-16T13:14:56.000Z",
-          "wordCount": 869,
-          "title": "数据安全意识培训：守护数字生命线",
-          "imageUrl": "https://archive1.vipread.com/covers/2025/11/topic/19688_1763298799_b826b61a.jpg"
-        },
-        {
-          "id": "https://vipread.com/library/topic/4061",
-          "author": null,
-          "description": "本文链接\n\n《数据安全，你我共筑的防火墙》以“公共卫生”作喻，用鲜活案例拆解四大“数据杀手”：钓鱼邮件、弱密码复用、公共Wi-Fi与内部泄密，指出九成泄露源于日常疏忽。课程给出 4 套可立即落地的“金钥匙”准则：12 位强密码+管理器、四步识破钓鱼、人走锁屏+加密存储、社交云盘“零分享”，并配套“断-报-改”黄金应急法，帮助员工把安全从“负担”变习惯，让每人成为企业最可靠的“人肉防火墙”。",
-          "link": "https://vipread.com/library/topic/4061",
-          "publishedOn": "2025-11-16T13:12:58.000Z",
-          "wordCount": 874,
-          "title": "数据安全，你我共筑的防火墙",
-          "imageUrl": "https://archive1.vipread.com/covers/2025/11/topic/19688_1763298380_4ca19249.jpg"
         }
       ]
     },
