@@ -5770,6 +5770,106 @@
       "siteUrl": "https://medium.com/tag/bugbounty/latest?source=rss------bugbounty-5",
       "articles": [
         {
+          "id": "https://medium.com/p/dea75b86edf1",
+          "author": "Akash motkar",
+          "description": "Severity: P2 — High\nVulnerability Type: Broken Access Control / Account Takeover\nBugcrowd VRT: Broken Access Control → Privilege…\nContinue reading on Medium »",
+          "link": "https://medium.com/@akashmotkar001/p2-broken-access-control-allowing-unauthorized-account-email-modification-and-account-takeover-dea75b86edf1?source=rss------bugbounty-5",
+          "publishedOn": "2026-11-17T06:46:13.000Z",
+          "wordCount": null,
+          "title": "P2 Broken Access Control Allowing Unauthorized Account Email Modification and Account Takeover",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/b58eb4c6e8ce",
+          "author": "Asad Mohsin",
+          "description": "A Deep Dive into Memory Corruption, Remote Code Execution, and New Opportunities for Bug Hunters\nContinue reading on Medium »",
+          "link": "https://medium.com/@asadmohsin760/node2shell-cve-2026-111497-inside-the-critical-brotli-decoder-vulnerability-every-security-b58eb4c6e8ce?source=rss------bugbounty-5",
+          "publishedOn": "2026-11-17T05:54:11.000Z",
+          "wordCount": null,
+          "title": "Node2Shell (CVE-2026-111497): Inside the Critical Brotli Decoder Vulnerability Every Security…",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/6b61f3c1e07d",
+          "author": "Akash Sundaramoorthi",
+          "description": "Hey everyone!\nContinue reading on Medium »",
+          "link": "https://medium.com/@akash.sundaramoorthi1/i-ignored-a-next-public-token-for-a-week-then-it-unlocked-blind-sqli-and-the-whole-database-6b61f3c1e07d?source=rss------bugbounty-5",
+          "publishedOn": "2026-11-17T05:48:03.000Z",
+          "wordCount": null,
+          "title": "I Ignored a NEXT_PUBLIC_ Token for a Week. Then It Unlocked Blind SQLi and the Whole Database",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/631a5e206641",
+          "author": "Muhammad Asim Shahzad",
+          "description": "A Microsoft account takeover bug let attackers outrun password-reset rate limits with concurrent code guesses. Root cause and fixes.\nContinue reading on Medium »",
+          "link": "https://masimshahzad.medium.com/microsoft-account-takeover-reset-code-race-case-631a5e206641?source=rss------bugbounty-5",
+          "publishedOn": "2026-11-17T05:09:22.000Z",
+          "wordCount": null,
+          "title": "Microsoft Account Takeover: Reset Code Race Case",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/09a82a954377",
+          "author": "Muhammad Asim Shahzad",
+          "description": "A Stripe auth bypass let a locked, timed-out dashboard still invite a new admin. Why client-side lockouts fail and the server-side fixes.\nContinue reading on Medium »",
+          "link": "https://masimshahzad.medium.com/stripe-auth-bypass-lockout-screen-case-study-09a82a954377?source=rss------bugbounty-5",
+          "publishedOn": "2026-11-17T04:56:42.000Z",
+          "wordCount": null,
+          "title": "Stripe Auth Bypass: Lockout Screen Case Study",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/40dbb2661c22",
+          "author": "Muhammad Asim Shahzad",
+          "description": "Facebook IDOR let users delete any visible album via the Graph API. How the missing ownership check worked, impact, and API fixes.\nContinue reading on Medium »",
+          "link": "https://masimshahzad.medium.com/facebook-idor-deleting-any-photo-album-case-study-40dbb2661c22?source=rss------bugbounty-5",
+          "publishedOn": "2026-11-17T04:44:37.000Z",
+          "wordCount": null,
+          "title": "Facebook IDOR: Deleting Any Photo Album (Case Study)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/1a8d81f8769a",
+          "author": "Vigneshkumaroffsec",
+          "description": "CTFs aren’t a game you play instead of real security work — they’re the fastest, safest way to build the exact muscles real work needs…\nContinue reading on Medium »",
+          "link": "https://medium.com/@vigneshkumaroffsec/why-ctf-matters-what-capture-the-flag-actually-trains-and-where-it-stops-1a8d81f8769a?source=rss------bugbounty-5",
+          "publishedOn": "2026-11-17T02:50:52.000Z",
+          "wordCount": null,
+          "title": "Why CTF Matters: What Capture-the-Flag Actually Trains (and Where It Stops)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/d9523095793a",
+          "author": "Abdelrahman Zourob",
+          "description": "بِسْمِ اللَّـهِ الرَّحْمَـٰنِ الرَّحِيمِ\nContinue reading on Medium »",
+          "link": "https://medium.com/@abdelrahmanzourob5/from-ai-prompt-injection-to-authenticated-xss-in-a-crm-platform-d9523095793a?source=rss------bugbounty-5",
+          "publishedOn": "2026-11-17T00:22:23.000Z",
+          "wordCount": null,
+          "title": "From AI Prompt Injection to Authenticated XSS in a CRM Platform",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/abf4b1d0d0fc",
+          "author": "Full Expert Developer",
+          "description": "The crash file is twenty-one bytes. Four of those bytes are 20 4b 50 56, the magic number that convinces FFmpeg it’s looking at a Sony…\nContinue reading on Medium »",
+          "link": "https://medium.com/@fullExpert/the-bug-was-twenty-one-months-old-and-nobody-was-going-to-fix-it-on-a-tuesday-abf4b1d0d0fc?source=rss------bugbounty-5",
+          "publishedOn": "2026-11-16T21:16:01.000Z",
+          "wordCount": null,
+          "title": "The bug was twenty-one months old and nobody was going to fix it on a Tuesday",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/2c7657be6476",
+          "author": "Pentester Club",
+          "description": "Explore how HexBrain AI transforms thousands of publicly disclosed bug bounty reports into an interactive cybersecurity research platform…\nContinue reading on Medium »",
+          "link": "https://medium.com/@pentesterclubpvtltd/hexbrain-ai-explained-the-future-of-ai-powered-bug-bounty-hunting-is-here-2c7657be6476?source=rss------bugbounty-5",
+          "publishedOn": "2026-11-16T15:14:56.000Z",
+          "wordCount": null,
+          "title": "HEXBRAIN AI Explained: The Future of AI-Powered Bug Bounty Hunting Is Here!",
+          "imageUrl": null
+        },
+        {
           "id": "https://medium.com/p/614a67f459ab",
           "author": "Sebastian Vargas",
           "description": "Cross-Supplier Privilege Escalation\nContinue reading on Medium »",
@@ -19527,6 +19627,106 @@
       "siteUrl": "https://medium.com/tag/redteam/latest?source=rss------redteam-5",
       "articles": [
         {
+          "id": "https://medium.com/p/ae0cb2fbda6f",
+          "author": "Engin Yoruker",
+          "description": "In Part 1 I put NeMo Guardrails in front of a self-hosted Qwen3 model on OpenShift AI, and tested every rail with a handful of prompts I…\nContinue reading on Medium »",
+          "link": "https://medium.com/@eyoruker/red-teaming-nemo-guardrails-on-openshift-ai-with-evalhub-and-garak-ae0cb2fbda6f?source=rss------redteam-5",
+          "publishedOn": "2026-11-17T07:24:15.000Z",
+          "wordCount": null,
+          "title": "Red-teaming NeMo Guardrails on OpenShift AI with EvalHub and garak",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/6ae6c231b839",
+          "author": "Red Team HQ",
+          "description": "Continue reading on Medium »",
+          "link": "https://medium.com/@nukeratframework/command-and-control-c2-the-invisible-screen-behind-almost-every-cyber-attack-6ae6c231b839?source=rss------redteam-5",
+          "publishedOn": "2026-11-17T01:59:44.000Z",
+          "wordCount": null,
+          "title": "Command and Control (C2): The Invisible Screen Behind Almost Every Cyber Attack",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/d0a99d9ce964",
+          "author": "Daniel Lewis",
+          "description": "Overview\nContinue reading on Medium »",
+          "link": "https://medium.com/@daniel.josiah.lewis/past-hacksmarter-d0a99d9ce964?source=rss------redteam-5",
+          "publishedOn": "2026-11-17T00:41:32.000Z",
+          "wordCount": null,
+          "title": "Past (HackSmarter)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/106f79b482b5",
+          "author": "Daniel Lewis",
+          "description": "Overview\nContinue reading on Medium »",
+          "link": "https://medium.com/@daniel.josiah.lewis/sysco-hacksmarter-106f79b482b5?source=rss------redteam-5",
+          "publishedOn": "2026-11-17T00:17:07.000Z",
+          "wordCount": null,
+          "title": "Sysco (HackSmarter)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/4bd05a565b8f",
+          "author": "Daniel Lewis",
+          "description": "Overview\nContinue reading on Medium »",
+          "link": "https://medium.com/@daniel.josiah.lewis/anomaly-hacksmarter-4bd05a565b8f?source=rss------redteam-5",
+          "publishedOn": "2026-11-16T23:59:36.000Z",
+          "wordCount": null,
+          "title": "Anomaly (HackSmarter)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/fc3a726867c2",
+          "author": "Daniel Lewis",
+          "description": "Overview\nContinue reading on Medium »",
+          "link": "https://medium.com/@daniel.josiah.lewis/kitsune-hacksmarter-fc3a726867c2?source=rss------redteam-5",
+          "publishedOn": "2026-11-16T23:39:43.000Z",
+          "wordCount": null,
+          "title": "Kitsune (HackSmarter)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/ebd596eaf351",
+          "author": "Daniel Lewis",
+          "description": "Overview\nContinue reading on Medium »",
+          "link": "https://medium.com/@daniel.josiah.lewis/printer-issue-hacksmarter-ebd596eaf351?source=rss------redteam-5",
+          "publishedOn": "2026-11-16T23:14:17.000Z",
+          "wordCount": null,
+          "title": "Printer Issue (HackSmarter)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/fdc538dc611e",
+          "author": "Davud Qasimov",
+          "description": "​🔥 The Youngest Holder of eJPTv2 and Now eCPPTv3 at 13 Years Old!\nContinue reading on InfoSec Write-ups »",
+          "link": "https://infosecwriteups.com/hacking-through-barriers-how-i-earned-my-ecpptv3-certification-at-13-fdc538dc611e?source=rss------redteam-5",
+          "publishedOn": "2026-11-16T20:47:53.000Z",
+          "wordCount": null,
+          "title": "Hacking Through Barriers: How I Earned My eCPPTv3 Certification at 13",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/d5316b2e86cc",
+          "author": "Broken Hearts",
+          "description": "She ran away at seventeen after one slammed door in 1994, and for thirty Christmases her family set her plate, poured her tea, and left…\nContinue reading on Medium »",
+          "link": "https://medium.com/@nawabfarooq237/for-30-years-i-set-a-place-at-christmas-for-my-sister-who-vanished-this-year-someone-sat-in-it-d5316b2e86cc?source=rss------redteam-5",
+          "publishedOn": "2026-11-16T16:01:02.000Z",
+          "wordCount": null,
+          "title": "For 30 Years I Set a Place at Christmas for My Sister Who Vanished — This Year, Someone Sat in It",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/591dff267354",
+          "author": "Vijay Kumar Gupta",
+          "description": "Most defenders have heard of BloodHound, and most of them first heard of it in a red team report. Someone ran it, found a path to Domain…\nContinue reading on Medium »",
+          "link": "https://bevijaygupta.medium.com/bloodhound-for-blue-teams-seeing-your-network-the-way-an-attacker-does-591dff267354?source=rss------redteam-5",
+          "publishedOn": "2026-11-16T09:16:41.000Z",
+          "wordCount": null,
+          "title": "BloodHound for Blue Teams: Seeing Your Network the Way an Attacker Does",
+          "imageUrl": null
+        },
+        {
           "id": "https://medium.com/p/c3db675e64b2",
           "author": "The Husky Hacker",
           "description": "NorthStone_Walkthrough\nContinue reading on Medium »",
@@ -30390,6 +30590,206 @@
       "feedUrl": "https://feed.cnblogs.com/blog/sitehome/rss",
       "siteUrl": null,
       "articles": [
+        {
+          "id": "https://www.cnblogs.com/xiaoniu142857/p/23693756",
+          "author": null,
+          "description": "Solution 不妨放宽限制总是构造 \\(n=5000\\)。 传 \\(4999\\) 条边，至少保留 \\(2500\\) 条边。我们需要让任意 \\(2500\\) 条边都能恢复出 \\(X\\)。 需要用任意若干个元素还原完整信息。我们不能要求任意保留下来的边都能独立承载完整信息，从而抵抗任意的边删除。自然",
+          "link": "https://www.cnblogs.com/xiaoniu142857/p/23693756",
+          "publishedOn": "2026-11-17T06:35:00.000Z",
+          "wordCount": 485,
+          "title": "洛谷-P10539 [APIO2024] 魔术表演 题解 - xiaoniu142857",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/Qiniu-developer/p/23693743",
+          "author": null,
+          "description": "长程 Agent 经常需要在多个步骤后，重新使用前面的代码定义或业务规则。随着会话增长，KV Cache 无法无限扩张，推理系统需要选择性地保留历史信息。可问题是即便保留了后续任务所需的 Token，模型就一定能正确使用吗？ Amazon 研究团队在「[PACE: Keeping the Right",
+          "link": "https://www.cnblogs.com/Qiniu-developer/p/23693743",
+          "publishedOn": "2026-11-17T06:34:00.000Z",
+          "wordCount": 920,
+          "title": "PACE：代码通过率从 42% 到 97%， 让长程 Agent 在有限 KV Cache 下用好历史 Token - 小七-七牛开发者",
+          "imageUrl": "https://img2024.cnblogs.com/blog/3796273/202611/3796273-20261117143152045-1394159507.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/jilodream/p/23693427",
+          "author": null,
+          "description": "线程池是一个资源调度池，我们可以将需要做的任务直接丢到线程池中，关于线程池的简介可以看前文的这篇文章： java 多线程开发系列之九：玩转线程池（线程池的简介和简单使用） https://www.cnblogs.com/jilodream/p/23471356 考虑到硬件资源以及任务的时限性，线程池",
+          "link": "https://www.cnblogs.com/jilodream/p/23693427",
+          "publishedOn": "2026-11-17T06:19:00.000Z",
+          "wordCount": 701,
+          "title": "java 多线程开发系列之十一：线程池的拒绝策略 - 王若伊_恩赐解脱",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/dawudexiaowu/p/23693203",
+          "author": null,
+          "description": "同一份代码两次跑出不同指标，根因是torch.manual_seed只是四层随机源之一。真机双跑实测：只设torch层，loss从0.002变0.0004；Python/NumPy/torch/CUDA四层全设加cudnn确定性开关，loss与权重逐位一致。第五层算法非确定性种子管不住，靠开关解决。",
+          "link": "https://www.cnblogs.com/dawudexiaowu/p/23693203",
+          "publishedOn": "2026-11-17T06:05:00.000Z",
+          "wordCount": 532,
+          "title": "手把手教你：随机种子都设了还是不可复现，四层种子与一层算法｜AI工程师踩坑实录·第9篇 - 大雾的小屋",
+          "imageUrl": "https://img2024.cnblogs.com/blog/2824078/202611/2824078-20261117140125228-13125193.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/zw-awa/p/23692957",
+          "author": null,
+          "description": "滑动平均、中位值、一阶低通——名字有一长串，选错一个，控制环就可能开始振荡。为什么&quot;平滑&quot;和&quot;滞后&quot;是同一件事？为什么有的滤波越调越玄，问题却根本不在信号里？动手之前，先回答三个问题。",
+          "link": "https://www.cnblogs.com/zw-awa/p/23692957",
+          "publishedOn": "2026-11-17T05:49:00.000Z",
+          "wordCount": 974,
+          "title": "滤波是什么：限幅、滑动平均、中位值、一阶低通怎么选？嵌入式传感器滤波算法原理与C源码 - Zw-awa",
+          "imageUrl": "https://img2024.cnblogs.com/blog/3791643/202611/3791643-20261117134221204-938286293.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/snidget/p/23692428",
+          "author": null,
+          "description": "01、现场：一句“全部切过去” 业务方的诉求很直接：新模型目录价每百万输入Token 0.5元、输出2元、缓存命中输入0.02元，既然便宜，客服和数字员工为什么不能明天就全量切？ 这个要求不能简单拒绝，也不能直接答应。价格表只描述Token单价，不描述一次业务交付的成本。 一次退款咨询要经过意图识别",
+          "link": "https://www.cnblogs.com/snidget/p/23692428",
+          "publishedOn": "2026-11-17T04:22:00.000Z",
+          "wordCount": 342,
+          "title": "101:Hy4Flash便宜20倍，哪些使用场景可以平替？ - 李福春",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/halfcode/p/23692312",
+          "author": null,
+          "description": "等号 最基本的赋值就是 =。右边算出一个值，放进左边的变量。 动画视频在《a=b=5 谁的值变了？赋值运算符实战详解》。 let name: string = &#39;Cool&#39;; let age: number = 18; console.log(name, age); 连续赋值写成 x = y = 5",
+          "link": "https://www.cnblogs.com/halfcode/p/23692312",
+          "publishedOn": "2026-11-17T04:02:00.000Z",
+          "wordCount": 486,
+          "title": "17. a=b=5 谁的值变了？赋值运算符实战详解 - 老陈说编程",
+          "imageUrl": "https://img2024.cnblogs.com/blog/1919157/202611/1919157-20261117115643468-1849917857.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/liessay/p/23692146",
+          "author": null,
+          "description": "# SnapSharp：把截图、标注、OCR、翻译和 AI 抠图放进一款 Windows 工具 写技术博客的时候，一张截图往往只是开始。 截完界面，要用箭头标出操作入口；拿到一段图片里的英文，需要先识别，再翻译；遇到表格，又希望直接导入 Excel。为了说明连续操作，还可能需要录一段 GIF。 这篇",
+          "link": "https://www.cnblogs.com/liessay/p/23692146",
+          "publishedOn": "2026-11-17T03:42:00.000Z",
+          "wordCount": 627,
+          "title": "SnapSharp：把截图、标注、OCR、翻译和 AI 抠图放进一款 Windows 工具 - liessay",
+          "imageUrl": "https://img2024.cnblogs.com/blog/911540/202611/911540-20261117111918150-569858980.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/codigger/p/23690393",
+          "author": null,
+          "description": "咱们聊个看着特别简单、实际上容易翻车的功能：群聊已读。 你在飞书发条消息，过一会儿能看到成员已读`。这个数是怎么来的？我猜大部分人第一反应都是：这还不简单，消息体上加个字段呗。 先看这个 &quot;想当然&quot; 的方案是怎么死的 直觉方案大概长这样：每条消息的 JSON 里挂个数组，比如叫 read_by，存所",
+          "link": "https://www.cnblogs.com/codigger/p/23690393",
+          "publishedOn": "2026-11-17T01:41:00.000Z",
+          "wordCount": 444,
+          "title": "飞书群聊已读，是怎么实现的？ - codigger",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/yellow3gold/p/23689542",
+          "author": null,
+          "description": "重建 ES 索引没法直接改名？本文记录一次真实迁移的全过程：MySQL 增量管道的隐藏 bug、date mapping 的 time_zone 坑、_reindex 提速三板斧、父任务进度 0/0 的假象、yellow 状态的正确解读。",
+          "link": "https://www.cnblogs.com/yellow3gold/p/23689542",
+          "publishedOn": "2026-11-17T00:57:00.000Z",
+          "wordCount": 745,
+          "title": "520 万数据迁移实战：Elasticsearch 索引重建与\"改名\"的完整踩坑记录 - 新*",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/jeff-tsai/p/23689484/day-22-three-formats",
+          "author": null,
+          "description": "昨天结尾说换一个层面。从这里开始，题目不再是定义里声明了什么，而是这些定义与数据离开内存之后怎么走。 序列化是两件事。一件是持久化：对象要存下来，下次还得原样读得回来，定义是这样存的，SessionUser 这类系统数据也是。另一件是传输：对象要送到另一端，而那一端不只一种：桌面、浏览器、iOS、A",
+          "link": "https://www.cnblogs.com/jeff-tsai/p/23689484/day-22-three-formats",
+          "publishedOn": "2026-11-17T00:49:00.000Z",
+          "wordCount": 672,
+          "title": "Day 22：XML、JSON 与 MessagePack 的分工 - Jeff-Tsai",
+          "imageUrl": "https://img2024.cnblogs.com/blog/3864267/202611/3864267-20261117084920256-2142725872.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/jinjiangongzuoshi/p/23689428",
+          "author": null,
+          "description": "上一篇把评测工具链的全部讲完了，选型有了结论，第一个上手的工具就是 Promptfoo。 Promptfoo 是一款开源、CLI 优先、声明式的 LLM/Agent/RAG 评测 &amp; 红队安全测试工具。 由TypeScript 开发，YAML 配置驱动。适合做 Prompt、模型 A/B 对比 +",
+          "link": "https://www.cnblogs.com/jinjiangongzuoshi/p/23689428",
+          "publishedOn": "2026-11-17T00:43:00.000Z",
+          "wordCount": 825,
+          "title": "一款工具搞定 LLM 评测和红队测试，Promptfoo 从安装到跑通（含实测教程） - 狂师",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/hugogoos/p/23686725",
+          "author": null,
+          "description": "Redis 的「过期」不等于「删除」。真正删键的只有三条通道加一条传播。本篇在 8.10.3 上把六个断言逐条跑了一遍：20 万键要 2~3.5 秒才清完；调高 effort 反让撞配额次数下降；只读从库根本不自删。附四个旋钮的越界行为、三条开销公式与八条常见坑。",
+          "link": "https://www.cnblogs.com/hugogoos/p/23686725",
+          "publishedOn": "2026-11-16T23:01:00.000Z",
+          "wordCount": 2690,
+          "title": "Redis 核心机制 | 过期删除策略：惰性+定期+主动（二） - IT规划师",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/joyce-peng/p/23686657",
+          "author": null,
+          "description": "獎一个华为手環——發自我的 CCPC 2026 荊州賽站游記 虽然仍是败类但体验很舒服的一场。 Day -1 看到另一支队伍已经到荆州旅游了，非常羡慕。 犹豫了很久要不要拖个箱子。想到之前在沈阳和西安背着沉重的书包拿着一手的袋子的经历，下定决心拖箱子。事后证明我的决定还是很对的，有箱子就是方便很多啊",
+          "link": "https://www.cnblogs.com/joyce-peng/p/23686657",
+          "publishedOn": "2026-11-16T16:11:00.000Z",
+          "wordCount": 925,
+          "title": "獎一个华为手環——發自我的 CCPC 2026 荊州賽站游記 - 我就是蓬蒿人",
+          "imageUrl": "https://img2024.cnblogs.com/blog/2140140/202611/2140140-20261117001057851-649786904.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/myvin/p/23686594",
+          "author": null,
+          "description": "GitZip Pro 是一款面向普通用户的开源浏览器扩展，让不熟悉 Git 和命令行的人也能轻松获取 GitHub 资源。安装后，用户可在仓库页面勾选需要的文件或文件夹，批量打包为保留目录结构的 ZIP，也可通过右键快速下载单项内容。它支持 Chrome、Edge 和 Firefox，并提供进度提示...",
+          "link": "https://www.cnblogs.com/myvin/p/23686594",
+          "publishedOn": "2026-11-16T15:01:00.000Z",
+          "wordCount": 521,
+          "title": "GitHub 不是程序员专属：用 GitZip Pro 轻松下载文件和文件夹 - fthux",
+          "imageUrl": "https://img2024.cnblogs.com/blog/779193/202611/779193-20261116230000405-600893112.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/shanyou/p/23686325",
+          "author": null,
+          "description": "这次移植里最有价值的决定不是&quot;用 .NET 复刻一个 Go 项目&quot;，而是在复刻语义的同时，用更合适的并发模型重建了它的状态面。行为等价管&quot;对外的每一步都和原版一致&quot;，台账管&quot;每一处不一致都有据可查&quot;，而 Orleans 管的是那些原版用 goroutine 和锁艰难维持、并且在多实例下根本维持不住的...",
+          "link": "https://www.cnblogs.com/shanyou/p/23686325",
+          "publishedOn": "2026-11-16T14:06:00.000Z",
+          "wordCount": 708,
+          "title": "把一个 5k star 的 Go AI 网关移植到 .NET：为什么我选择用 Orleans 重写它的并发内核 - 张善友",
+          "imageUrl": "https://img2024.cnblogs.com/blog/510/202611/510-20261116220506313-1488377933.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/rossiXYZ/p/23686026",
+          "author": null,
+          "description": "【轻量化复刻大模型 / KIMI K3】Multi-Token Prediction（MTP / EAGLE-3） 目录【轻量化复刻大模型 / KIMI K3】Multi-Token Prediction（MTP / EAGLE-3）0x00 概要0.1 主要内容0.2 注意说明0x01. 演进脉络",
+          "link": "https://www.cnblogs.com/rossiXYZ/p/23686026",
+          "publishedOn": "2026-11-16T12:52:00.000Z",
+          "wordCount": 9820,
+          "title": "【轻量化复刻大模型 / KIMI K3】Multi-Token Prediction（MTP / EAGLE-3） - 罗西的思考",
+          "imageUrl": "https://img2024.cnblogs.com/blog/1850883/202611/1850883-20261109210436540-577415552.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/Qiniu-developer/p/23685276",
+          "author": null,
+          "description": "这期的「周一上线」，Agent 不仅继续干活，还开始自己加流程。 有人用约 2.5 万次 Agent 运行造出 450 多个 3D 世界，结果中途冒出了一套官僚机构；有人用 Claude 和五台设备寻找神秘滴滴声，还有人把实体小汽车搬到了 iPad 的马路上。 模型这边，Anthropic 发布 C",
+          "link": "https://www.cnblogs.com/Qiniu-developer/p/23685276",
+          "publishedOn": "2026-11-16T10:33:00.000Z",
+          "wordCount": 762,
+          "title": "周一上线 | DSH 喜提原神进场动画，Anthropic 启动 IPO 路演；黄仁勋辞任；微软全球大宕机超 24 小时 - 小七-七牛开发者",
+          "imageUrl": "https://img2024.cnblogs.com/blog/3796273/202611/3796273-20261116182649850-1255609115.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/wang_xy/p/23684471",
+          "author": null,
+          "description": "「文本自动输入器」是一款 Windows 小工具：把需要反复输入的文字预先保存好，之后不管是在聊天窗口、表格、文档还是网页输入框里，只要把光标放到要输入的位置，就能用热键、选择窗或悬浮窗把内容整段送进去。\n它适合客服重复回复、反复填写相同表单、频繁输入网址、账号与说明文字。把重复敲键盘的部分交给工具...",
+          "link": "https://www.cnblogs.com/wang_xy/p/23684471",
+          "publishedOn": "2026-11-16T09:33:00.000Z",
+          "wordCount": 469,
+          "title": "文本自动输入器：把常用文字一键输入到光标处 - vivid2025",
+          "imageUrl": "https://img2024.cnblogs.com/blog/687256/202611/687256-20261116173042448-2075638433.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/zhenl/p/23683189",
+          "author": null,
+          "description": "根据“开发基于ComfyUI图片生成类应用Step by step （四）前后端分离架构：独立ComfyUI服务于应用技术栈选型”中介绍的架构和技术，我们开发了一款通用的图片生成工具Image Studio： GitHub地址： https://github.com/zhenl/image-stud",
+          "link": "https://www.cnblogs.com/zhenl/p/23683189",
+          "publishedOn": "2026-11-16T08:17:00.000Z",
+          "wordCount": 474,
+          "title": "开发基于ComfyUI图片生成类应用Step by step （五）AI辅助开发Image Studio - 寻找无名的特质",
+          "imageUrl": "https://img2024.cnblogs.com/blog/4131/202611/4131-20261116161530635-187467353.png"
+        },
         {
           "id": "https://www.cnblogs.com/leikooo/p/23680340",
           "author": null,
@@ -59833,6 +60233,26 @@
       "feedUrl": "https://malware-traffic-analysis.net/blog-entries.rss",
       "siteUrl": "https://www.malware-traffic-analysis.net/index.html",
       "articles": [
+        {
+          "id": "https://www.malware-traffic-analysis.net/2026/11/13/index.html",
+          "author": null,
+          "description": "",
+          "link": "https://www.malware-traffic-analysis.net/2026/11/13/index.html",
+          "publishedOn": "2026-11-17T04:05:00.000Z",
+          "wordCount": 78,
+          "title": "2026-11-13: Clearfake ClickFix pushes ACR/Amatera Stealer on Windows host",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.malware-traffic-analysis.net/2026/11/12/index2.html",
+          "author": null,
+          "description": "",
+          "link": "https://www.malware-traffic-analysis.net/2026/11/12/index2.html",
+          "publishedOn": "2026-11-17T04:00:00.000Z",
+          "wordCount": 74,
+          "title": "2026-11-12: Clearfake ClickFix pushes Essential macOS Stealer",
+          "imageUrl": null
+        },
         {
           "id": "https://www.malware-traffic-analysis.net/2026/11/12/index.html",
           "author": null,
