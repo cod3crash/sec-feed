@@ -2,10 +2,405 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cod3crash.github.io/sec-feed/index.html</id>
     <title>security feed</title>
-    <updated>2026-11-17T07:36:25.426Z</updated>
+    <updated>2026-11-18T06:59:08.172Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://cod3crash.github.io/sec-feed/index.html"/>
     <link rel="self" href="https://cod3crash.github.io/sec-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Java4Shell (CVE-2026‑114938): Critical Pre-Authentication RCE in Java 17, 21, 25 and 27]]></title>
+        <id>https://medium.com/p/d1d9e47c4674</id>
+        <link href="https://mhmmuneef.medium.com/java4shell-cve-2026-114938-critical-pre-authentication-rce-in-java-17-21-25-and-27-d1d9e47c4674?source=rss------bugbounty-5"/>
+        <updated>2026-11-18T06:34:55.000Z</updated>
+        <summary type="html"><![CDATA[What security teams need to know, how to check exposure, and how to mitigate safely
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Mohammed Muneef</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Updater Ran Five Times Before Lunch. Three of Twelve Feeds Sign Anything.]]></title>
+        <id>https://medium.com/p/6959e3e851d1</id>
+        <link href="https://meetcyber.net/the-updater-ran-five-times-before-lunch-three-of-twelve-feeds-sign-anything-6959e3e851d1?source=rss------bugbounty-5"/>
+        <updated>2026-11-18T06:33:52.000Z</updated>
+        <summary type="html"><![CDATA[The client did exactly what it was told.
+Continue reading on MeetCyber »]]></summary>
+        <author>
+            <name>Raj Namdev</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From “Just a User” to Admin: Exploiting a Mass Assignment Flaw to Take Over a Production AI…]]></title>
+        <id>https://medium.com/p/df18653ddabd</id>
+        <link href="https://medium.com/@impyhacker/from-just-a-user-to-admin-exploiting-a-mass-assignment-flaw-to-take-over-a-production-ai-df18653ddabd?source=rss------bugbounty-5"/>
+        <updated>2026-11-18T06:27:26.000Z</updated>
+        <summary type="html"><![CDATA[Intro
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>PYHACKER</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI 数据库落地复盘：外挂三件套为什么栽在约束上 - 底层玩家老张]]></title>
+        <id>https://www.cnblogs.com/dicengwanjialaozhang/p/23706159</id>
+        <link href="https://www.cnblogs.com/dicengwanjialaozhang/p/23706159"/>
+        <updated>2026-11-18T06:23:00.000Z</updated>
+        <summary type="html"><![CDATA[语义、推理、检索、图化、安全五件事一旦搬出库，就会多出搬运、脱节和权限返工三笔账。这篇按内核分层拆，讲清 AI 数据库的库内承载到底省在哪里。]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Java4Shell (CVE-2026–114938): When Java’s Base64 Decoder Forgot How Memory Works]]></title>
+        <id>https://medium.com/p/27ce32dd6421</id>
+        <link href="https://infosecwriteups.com/java4shell-cve-2026-114938-when-javas-base64-decoder-forgot-how-memory-works-27ce32dd6421?source=rss------bugbounty-5"/>
+        <updated>2026-11-18T06:13:02.000Z</updated>
+        <summary type="html"><![CDATA[By Shah Kaif | “How a simple Base64 decoding operation turned into a critical memory-corruption vulnerability — and why your CPU might…
+Continue reading on InfoSec Write-ups »]]></summary>
+        <author>
+            <name>Shah kaif</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A04: Cryptographic Failures — OWASP Top 10 (2025)]]></title>
+        <id>https://medium.com/p/22f8091303d1</id>
+        <link href="https://medium.com/@shrutishinde1319/a04-cryptographic-failures-owasp-top-10-2025-22f8091303d1?source=rss------bugbounty-5"/>
+        <updated>2026-11-18T05:55:19.000Z</updated>
+        <summary type="html"><![CDATA[Part 4 of my OWASP Top 10 (2025) series.
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Shruti Vijay Shinde</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[手搓 AI Agent 09：接外部世界——MCP 实战 - 开发者精选资讯]]></title>
+        <id>https://www.cnblogs.com/MrHuo/p/23705636/agent-from-scratch-09</id>
+        <link href="https://www.cnblogs.com/MrHuo/p/23705636/agent-from-scratch-09"/>
+        <updated>2026-11-18T05:33:00.000Z</updated>
+        <summary type="html"><![CDATA[MCP（Model Context Protocol）要解决的就是这件事：让外部服务按统一协议暴露工具，客户端按统一协议发现并调用，双方都不必为彼此写胶水代码。本篇不引入任何 MCP SDK——手写客户端与服务端，把协议到底有多薄这件事看清楚。]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Facebook OAuth Account Takeover: The $44,250 Redirect]]></title>
+        <id>https://medium.com/p/9c6fa5b235ed</id>
+        <link href="https://masimshahzad.medium.com/facebook-oauth-account-takeover-the-44-250-redirect-9c6fa5b235ed?source=rss------bugbounty-5"/>
+        <updated>2026-11-18T05:11:37.000Z</updated>
+        <summary type="html"><![CDATA[How a trusted Oculus login endpoint stopped guarding its redirects after a migration and let a first-party access token walk out the door
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Muhammad Asim Shahzad</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[ARD] RA-T2T新靶标_低炎症状态 - CPGJ888]]></title>
+        <id>https://www.cnblogs.com/T2T4RD/p/23705332</id>
+        <link href="https://www.cnblogs.com/T2T4RD/p/23705332"/>
+        <updated>2026-11-18T05:09:00.000Z</updated>
+        <summary type="html"><![CDATA[从“达标”到“低炎症达标”：RALI 为类风湿关节炎达标治疗补上的那块拼图 ——解读 Baker 等 Ann Rheum Dis 2026 年 RALI 阈值验证研究 该研究的原文全文网址&#160;Validation of rheumatoid arthritis low inflammatory act]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Twitter Privacy Bypass: Hidden Accounts Found by Email]]></title>
+        <id>https://medium.com/p/3d822e6961aa</id>
+        <link href="https://masimshahzad.medium.com/twitter-privacy-bypass-hidden-accounts-found-by-email-3d822e6961aa?source=rss------bugbounty-5"/>
+        <updated>2026-11-18T05:04:48.000Z</updated>
+        <summary type="html"><![CDATA[How a login-flow duplicate check ignored discoverability settings and mapped phone numbers and emails to accounts, for a $5,040 bounty
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Muhammad Asim Shahzad</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Starbucks Path Traversal: Nearly 100M Customer Records]]></title>
+        <id>https://medium.com/p/d64e803acab8</id>
+        <link href="https://masimshahzad.medium.com/starbucks-path-traversal-nearly-100m-customer-records-d64e803acab8?source=rss------bugbounty-5"/>
+        <updated>2026-11-18T04:56:31.000Z</updated>
+        <summary type="html"><![CDATA[How one user-controlled path segment in a backend-for-frontend proxy reached an internal search service, for a $4,000 bounty
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Muhammad Asim Shahzad</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2026-11-16: Unidentified ClickFix pushes NetSupport RAT]]></title>
+        <id>https://www.malware-traffic-analysis.net/2026/11/16/index.html</id>
+        <link href="https://www.malware-traffic-analysis.net/2026/11/16/index.html"/>
+        <updated>2026-11-18T03:55:00.000Z</updated>
+        <author>
+            <name>Malware-Traffic-Analysis.net - Blog Entries</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top 5 Command & Control (C2) With a Beacon for macOS]]></title>
+        <id>https://medium.com/p/4e6f88a6225f</id>
+        <link href="https://medium.com/@nukeratframework/top-5-command-control-c2-with-a-beacon-for-macos-4e6f88a6225f?source=rss------redteam-5"/>
+        <updated>2026-11-18T03:46:00.000Z</updated>
+        <summary type="html"><![CDATA[Five C2 tools that still ship a macOS implant. Disclaimer: this tools is for security professionals doing authorized work and study.
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Red Team HQ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python设置Excel单元格背景色：静态填充与条件格式两种方案 - LAYONTHEGROUND]]></title>
+        <id>https://www.cnblogs.com/jazz-z/p/23704828</id>
+        <link href="https://www.cnblogs.com/jazz-z/p/23704828"/>
+        <updated>2026-11-18T03:40:00.000Z</updated>
+        <summary type="html"><![CDATA[Excel 报表里，单元格背景色看似只是“美化”，实际承担着区分数据类别、提示异常值、引导阅读视线的作用。手动涂色在一次性任务中没问题，但遇到周期性报表、批量导出或数据量较大的场景，用代码来控制背景色显然更稳。下面以 Free Spire.XLS for Python 为例，整理从纯色填充到条件着色]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用 C# 撸了一个屏幕尺子：SnapSharp 新版本技术分享与功能解析 - liessay]]></title>
+        <id>https://www.cnblogs.com/liessay/p/23704641</id>
+        <link href="https://www.cnblogs.com/liessay/p/23704641"/>
+        <updated>2026-11-18T03:22:00.000Z</updated>
+        <summary type="html"><![CDATA[前言 大家好，我是 SnapSharp 的作者。作为一款基于 C# 的 Windows 截图与图像处理工具（支持区域/长截图、标注、贴图、本地 OCR、翻译、AI 抠图与录屏），我一直希望它能尽可能覆盖设计审查与前端还原的所有场景。 日常开发中，量个宽高、看个间距，总得在截图工具和独立量尺软件间反复]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我用 AI 复刻了 CodeTank，重温代码坦克 - 翼帆]]></title>
+        <id>https://www.cnblogs.com/gsyifan/p/23704361/codetank</id>
+        <link href="https://www.cnblogs.com/gsyifan/p/23704361/codetank"/>
+        <updated>2026-11-18T03:02:00.000Z</updated>
+        <summary type="html"><![CDATA[我用 AI 复刻了 CodeTank，重温代码坦克 一个周末级的&quot;考古 + 重制&quot;项目：把童年记忆里的代码坦克，用现代浏览器技术和 AI 协作重新做了一遍。 在线演示：https://codetank.escms.cn 开源仓库：https://gitee.com/escms/codetank 一、]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ThreadLocal 会内存泄露吗？ - codigger]]></title>
+        <id>https://www.cnblogs.com/codigger/p/23703546</id>
+        <link href="https://www.cnblogs.com/codigger/p/23703546"/>
+        <updated>2026-11-18T02:08:00.000Z</updated>
+        <summary type="html"><![CDATA[先说个几乎每个 Java 项目里都有的东西。用户登录态、请求链路的 traceId，要在一个请求的多个方法之间传来传去，又不想一层层传参，怎么办？老项目的标准答案就是 ThreadLocal：线程随身带的口袋，塞进去，走到哪都能掏出来。 用的人多，误会也跟着多。ThreadLocal 用完就会被 G]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[手把手教你：相似度全是 0.9？向量没归一化的量纲灾难｜AI工程师踩坑实录·第10篇 - 大雾的小屋]]></title>
+        <id>https://www.cnblogs.com/dawudexiaowu/p/23703439</id>
+        <link href="https://www.cnblogs.com/dawudexiaowu/p/23703439"/>
+        <updated>2026-11-18T02:02:00.000Z</updated>
+        <summary type="html"><![CDATA[相似度分数挤成一团或量纲爆炸，阈值没法设、排序可能失效，根因是向量没归一化：点积=语义分&#215;两个不受控范数。本机实测原始向量点积11.7~36.2，归一化后回到0.232~0.734。修法一行代码，入库与查询两侧都要做。]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Off-Grid JS Security Review: Kombinasi Local MCP dan jsluice]]></title>
+        <id>https://medium.com/p/dec830c104cd</id>
+        <link href="https://medium.com/fmisec/off-grid-js-security-review-kombinasi-local-mcp-dan-jsluice-dec830c104cd?source=rss------redteam-5"/>
+        <updated>2026-11-18T02:01:03.000Z</updated>
+        <summary type="html"><![CDATA[Pada tahun 2022, aku terkesima dengan finding yang ditemukan oleh Frans Rosén, yaitu One-click account hijack di Reddit. Lebih tepatnya…
+Continue reading on FMI Cyber Security Consulting Services »]]></summary>
+        <author>
+            <name>Rafshanzani Suhada</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[开源了一个 ASP.NET Core 的 Windows 资源管理器风格文件管理控件 - e天下小熊]]></title>
+        <id>https://www.cnblogs.com/wmlunge/p/23703316</id>
+        <link href="https://www.cnblogs.com/wmlunge/p/23703316"/>
+        <updated>2026-11-18T01:53:00.000Z</updated>
+        <summary type="html"><![CDATA[背景 手上几个内部系统都要“让用户管服务器上的文件”：上传、下载、改名、预览、打包。找了一圈，老牌商业控件贵、还停在上一个时代；前端上传组件又只管上传，目录树、预览、权限全得自己补。补着补着就写成了个完整的东西，干脆开源了，MIT。 怎么用 一个标签： &lt;file-manager id=&quot;FM1&quot;]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Redis 核心机制 | 内存淘汰策略全解：8种策略、近似LRU采样、LFU计数器 - IT规划师]]></title>
+        <id>https://www.cnblogs.com/hugogoos/p/23698671</id>
+        <link href="https://www.cnblogs.com/hugogoos/p/23698671"/>
+        <updated>2026-11-18T01:38:00.000Z</updated>
+        <summary type="html"><![CDATA[Redis 内存到顶后到底淘汰谁？本篇基于 Redis 8.10.3 实测，把 8 种淘汰策略一次讲清：allkeys 与 volatile 两类候选池，LRU、LFU、Random、TTL 四种选择依据，外加 noeviction 显式拒写。]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为什么 0.1 + 0.2 ≠ 0.3：一次讲透浮点数 - leikooo]]></title>
+        <id>https://www.cnblogs.com/leikooo/p/23702585</id>
+        <link href="https://www.cnblogs.com/leikooo/p/23702585"/>
+        <updated>2026-11-18T01:22:00.000Z</updated>
+        <summary type="html"><![CDATA[大家多半都写过这么一行 Java，然后愣了一下： System.out.println(0.1 + 0.2); // 0.30000000000000004 System.out.println(0.1 + 0.2 == 0.3); // false 类似的事情还有不少： 商品价格 19.99 乘以]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[时间序列特征，哪些当时就能算出来 - wang_yb]]></title>
+        <id>https://www.cnblogs.com/wang_yb/p/23702440</id>
+        <link href="https://www.cnblogs.com/wang_yb/p/23702440"/>
+        <updated>2026-11-18T01:12:00.000Z</updated>
+        <summary type="html"><![CDATA[给时序模型造特征，同一列数字换个标签就能从安全变越界。 预测下一小时，t 时刻的读数能用。判定 t 小时是否异常，标签本来就是拿 t 的读数算出来的，再把 t 放进特征，等于把答案掺了进去。 本文把常见特征按「依赖到哪一刻」分一遍：只用过去的滞后与滚动值、枚举出来的组合基线、含当前读数的运行均值，最]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Day 23：API Payload 安全管道：顺序、保护等级与密钥 - Jeff-Tsai]]></title>
+        <id>https://www.cnblogs.com/jeff-tsai/p/23702283/day-23-payload-pipeline</id>
+        <link href="https://www.cnblogs.com/jeff-tsai/p/23702283/day-23-payload-pipeline"/>
+        <updated>2026-11-18T01:02:00.000Z</updated>
+        <summary type="html"><![CDATA[昨天结尾说今天看 value 上的另一半。Encoded 与 Encrypted 在 API payload 上只差一个数字，底下却是三段有先后的处理，而回程走的时候，顺序不只是倒着跑一遍。 一套 ERP 的 API 要回答两个彼此独立的问题：一次调用的内容该处理成什么样子，以及谁有资格决定它可以少]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[牛逼！谷歌亲自下场开源的AI自动化神器！ - 狂师]]></title>
+        <id>https://www.cnblogs.com/jinjiangongzuoshi/p/23702241</id>
+        <link href="https://www.cnblogs.com/jinjiangongzuoshi/p/23702241"/>
+        <updated>2026-11-18T00:57:00.000Z</updated>
+        <summary type="html"><![CDATA[让 AI 像人一样操作手机，自己看屏幕，自己划，自己点，从头干到尾。这件事谷歌亲自下场做了，项目叫 ARTEMIS，8 月开源，到现在三个月，Star 攒到 1.7W+。 手机上的重复操作，装机、注册、登录、挨个点设置项，做安卓测试的人一年要点几万次。以前想省掉这些活，要么继续人肉点，要么写一摞脚本]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[从技术骨干到大家愿意追随的Leader，大家追随的从来不是技术 - 一个码农的日常]]></title>
+        <id>https://www.cnblogs.com/zhangs1986/p/23180271</id>
+        <link href="https://www.cnblogs.com/zhangs1986/p/23180271"/>
+        <updated>2026-11-18T00:13:00.000Z</updated>
+        <summary type="html"><![CDATA[有个组长一起吃饭时说了一句：&quot;我感觉每天都在赶着他们走，但没一个人真正想往前走。&quot; 他是年初被提拔上来的一个业务线的组长，带了一个上十人的团队，肉眼可见的疲惫。他说每天的工作就是排需求、盯进度、追周报，谁没按时完成就找谁谈话。团队执行力看着还行，但从来没有人主动来找他说&quot;我觉得这个事情可以这样做&quot;或]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Low Damage Abliteration: Treating Refusal Removal as a Search Problem]]></title>
+        <id>https://medium.com/p/96a7c065e04f</id>
+        <link href="https://quantumrealm.medium.com/low-damage-abliteration-treating-refusal-removal-as-a-search-problem-96a7c065e04f?source=rss------redteam-5"/>
+        <updated>2026-11-17T22:59:36.000Z</updated>
+        <summary type="html"><![CDATA[Abliteration is the technique of editing the refusal behavior out of an open weight language model directly in its weights, with no fine…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Jeremy's Research blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building an AI Red Teaming CTF for SAINTCON 2026]]></title>
+        <id>https://medium.com/p/2d4f590771fb</id>
+        <link href="https://quantumrealm.medium.com/building-an-ai-red-teaming-ctf-for-saintcon-2026-2d4f590771fb?source=rss------redteam-5"/>
+        <updated>2026-11-17T22:58:23.000Z</updated>
+        <summary type="html"><![CDATA[This October I ran an AI red teaming capture the flag at SAINTCON 2026 in Salt Lake City. I built 33 challenges for it. The full board ran…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Jeremy's Research blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[One API Request Exposed 14,000+ Email Addresses]]></title>
+        <id>https://medium.com/p/182d3a560715</id>
+        <link href="https://medium.com/@hackwithabraham/one-api-request-exposed-14-000-email-addresses-182d3a560715?source=rss------bugbounty-5"/>
+        <updated>2026-11-17T22:09:27.000Z</updated>
+        <summary type="html"><![CDATA[One API Request Exposed 14,000+ Email Addresses
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>xAbraham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[three.js/WebGL实现3D智慧温室管理 之 环境异常与种植批次追踪 - 魂断蓝桥666]]></title>
+        <id>https://www.cnblogs.com/yeyunfei/p/23665310/threejs-webgl-3d-greenhouse-environment-batches</id>
+        <link href="https://www.cnblogs.com/yeyunfei/p/23665310/threejs-webgl-3d-greenhouse-environment-batches"/>
+        <updated>2026-11-17T15:55:00.000Z</updated>
+        <summary type="html"><![CDATA[农业温室三维系列第3篇，围绕环境与批次展开 three.js / WebGL 3D 场景实现，结合五张系统视图说明业务对象、数据绑定、交互状态与异常处理，并提供关键 JavaScript 代码。]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[源码级拆解：从语义归一化到 DNA 防篡改，一款轻量级开源 WAF 的架构与避坑实战 - anye1991]]></title>
+        <id>https://www.cnblogs.com/anye1991/p/23698902</id>
+        <link href="https://www.cnblogs.com/anye1991/p/23698902"/>
+        <updated>2026-11-17T15:22:00.000Z</updated>
+        <summary type="html"><![CDATA[摘要： 面对变形绕过和高频扫描，传统正则 WAF 愈发力不从心。本文深度拆解开源项目 YSL语枢-盾甲WAF 的底层机制（14层归一化、四值证据仲裁、C2中枢、DNA零容忍），并记录了在 2核1.6G 环境下的部署避坑与性能调优实测。 正文： 做后端和运维的兄弟应该深有体会：只要服务器在公网，每天都]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[8 Ways to get Domain Admin with a C2 (Fast and Easy)]]></title>
+        <id>https://medium.com/p/df0910eb4699</id>
+        <link href="https://medium.com/@nukeratframework/8-ways-to-get-domain-admin-with-a-c2-fast-and-easy-df0910eb4699?source=rss------redteam-5"/>
+        <updated>2026-11-17T15:13:43.000Z</updated>
+        <summary type="html"><![CDATA[Getting Domain Admin often uses the same tricks that get you local admin on a box, and inside a Windows domain the domain controller is…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Red Team HQ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Does Diwali Look Like for a Bug Hunter?]]></title>
+        <id>https://medium.com/p/0031c1b67692</id>
+        <link href="https://medium.com/@hackdope420/what-does-diwali-look-like-for-a-bug-hunter-0031c1b67692?source=rss------bugbounty-5"/>
+        <updated>2026-11-17T14:18:20.000Z</updated>
+        <summary type="html"><![CDATA[Happy Diwali! This was my first bounty after a year. It was a small one, and it felt good to be back.
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Dopelife</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[07 · 给 AI 喂知识：喂什么、怎么组织、怎么保鲜 - lishen2]]></title>
+        <id>https://www.cnblogs.com/lishen2/p/23698465</id>
+        <link href="https://www.cnblogs.com/lishen2/p/23698465"/>
+        <updated>2026-11-17T13:36:00.000Z</updated>
+        <summary type="html"><![CDATA[——知识：把成熟项目经验变成流程的默认输入 这是《嵌入式 AI 落地手记》的第七篇。上一篇讲了技能怎样约束工作过程，这篇讲另一件同样重要的事：AI 做设计和编码时，怎样参考我们已经在成熟项目里验证过的架构与程序模式。 AI 不是不会写，而是不知道我们为什么这样写 知识库出现之前，我们最初那个新项目就]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[把 gqlgen 的 GraphQL 行为搬到 HotChocolate 16：一次 wire-level 对齐实录 - 张善友]]></title>
+        <id>https://www.cnblogs.com/shanyou/p/23698239</id>
+        <link href="https://www.cnblogs.com/shanyou/p/23698239"/>
+        <updated>2026-11-17T13:16:00.000Z</updated>
+        <summary type="html"><![CDATA[从 Go/gqlgen 迁到 HotChocolate 16，前端一行不改。两套 schema、四个自定义标量、错误格式复刻，Orleans Grain 接住锁与 cron，以及把 September 2026 版的 422 钉回 400 的取舍。]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【轻量化复刻大模型 / KIMI K3】MTP / EAGLE‑3 模块交互式演示 - 罗西的思考]]></title>
+        <id>https://www.cnblogs.com/rossiXYZ/p/23606919</id>
+        <link href="https://www.cnblogs.com/rossiXYZ/p/23606919"/>
+        <updated>2026-11-17T13:02:00.000Z</updated>
+        <summary type="html"><![CDATA[【轻量化复刻大模型 / KIMI K3】MTP / EAGLE‑3 模块交互式演示 目录【轻量化复刻大模型 / KIMI K3】MTP / EAGLE‑3 模块交互式演示0x00 概述0x01 核心数学1.1 MTP 层前向（&#167;4.1.4）1.2 联合损失（Table 1）1.3 EAGLE‑3 特]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Biomimicry in Cybersecurity: What Nature Teaches Us About Defence and Attack]]></title>
+        <id>https://medium.com/p/dbca0a2317c6</id>
+        <link href="https://medium.com/@caglayan4449/biomimicry-in-cybersecurity-what-nature-teaches-us-about-defence-and-attack-dbca0a2317c6?source=rss------redteam-5"/>
+        <updated>2026-11-17T11:22:18.000Z</updated>
+        <summary type="html"><![CDATA[A free interactive e-book mapping 15 survival strategies from biology to real red team / blue team techniques
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Ç.M.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iOS Forensic Toolkit 10.13: app data extraction for the full iOS 26 range]]></title>
+        <id>https://blog.elcomsoft.com/?p=13830</id>
+        <link href="https://blog.elcomsoft.com/2026/11/ios-forensic-toolkit-10-13-app-data-extraction-for-the-full-ios-26-range/"/>
+        <updated>2026-11-17T10:00:15.000Z</updated>
+        <summary type="html"><![CDATA[iOS Forensic Toolkit 10.13 extends agent-based extraction to iOS and iPadOS 26, currently from 26.0 through 26.7.3. The tool now supports all devices that can run iOS/iPadOS 26, including the iPhone 17 lineup and M5-based iPads. The method is a partial file system extraction. It returns the data of (mostly) third-party apps, while system data […]]]></summary>
+        <author>
+            <name>Oleg Afonin</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Red-teaming NeMo Guardrails on OpenShift AI with EvalHub and garak]]></title>
         <id>https://medium.com/p/ae0cb2fbda6f</id>
