@@ -2,10 +2,533 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cod3crash.github.io/sec-feed/index.html</id>
     <title>security feed</title>
-    <updated>2026-11-18T06:59:08.172Z</updated>
+    <updated>2026-11-19T06:59:44.230Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://cod3crash.github.io/sec-feed/index.html"/>
     <link rel="self" href="https://cod3crash.github.io/sec-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[手搓 AI Agent 10：让 Agent 可信——参数级权限、沙箱隔离与人工介入 - 开发者精选资讯]]></title>
+        <id>https://www.cnblogs.com/MrHuo/p/23719171/agent-from-scratch-10</id>
+        <link href="https://www.cnblogs.com/MrHuo/p/23719171/agent-from-scratch-10"/>
+        <updated>2026-11-19T06:48:00.000Z</updated>
+        <summary type="html"><![CDATA[第 10 篇）——给前九篇造出来的 Agent 装上边界。核心主张：权限不是「给不给某个工具」，而是「这次调用带着什么参数值」；沙箱是硬边界，策略是软门禁，人工介入负责两者都定不了的个案；并且所有决策都要 fail-closed（拿不到明确同意，一律视为没同意）。]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[卡尔曼到底在算什么：从一维到它的变式以及工程版卡尔曼滤波算法C语言实现 - Zw-awa]]></title>
+        <id>https://www.cnblogs.com/zw-awa/p/23719070</id>
+        <link href="https://www.cnblogs.com/zw-awa/p/23719070"/>
+        <updated>2026-11-19T06:42:00.000Z</updated>
+        <summary type="html"><![CDATA[卡尔曼滤波常被说得很神秘。可当它只估一个量的时候，结果为什么不比一条普通滤波更强——那它真正多出来的本事是什么？]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kafka 为什么快？sendfile 到底省掉了哪几次拷贝 - leikooo]]></title>
+        <id>https://www.cnblogs.com/leikooo/p/23718517</id>
+        <link href="https://www.cnblogs.com/leikooo/p/23718517"/>
+        <updated>2026-11-19T06:08:00.000Z</updated>
+        <summary type="html"><![CDATA[大家多少都和「把文件发出去」这件事打过交道： 用过 Kafka 的都知道它快，一台 Broker 同时喂好几个消费组，CPU 还不怎么高； Nginx 配置里几乎都有一行 sendfile on;，很多人照抄，却不知道它开了什么； Java 的 FileChannel 有个 transferTo 方]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[18. '10' < '9' 居然是true？比较运算符实战详解 - 老陈说编程]]></title>
+        <id>https://www.cnblogs.com/halfcode/p/23718135</id>
+        <link href="https://www.cnblogs.com/halfcode/p/23718135"/>
+        <updated>2026-11-19T05:37:00.000Z</updated>
+        <summary type="html"><![CDATA[ArkTS 声明变量没有默认值，得自己给。可以给一个具体的数，也可以写成 undefined 或 null。null 必须写在等号右边。类型里带了 undefined，可以先不赋值，它就是 undefined。 动画视频在《&#39;10&#39; &lt; &#39;9&#39; 居然是true？比较运算符实战详解》。 let n1:]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[机器学习与深度学习算法参数详解（上） - 随性岁分享]]></title>
+        <id>https://www.cnblogs.com/wangxiongbing/p/23717817</id>
+        <link href="https://www.cnblogs.com/wangxiongbing/p/23717817"/>
+        <updated>2026-11-19T05:04:00.000Z</updated>
+        <summary type="html"><![CDATA[机器学习与深度学习算法参数详解与调参实战手册 目录 第一章 阅读指南 第二章 算法全景与分类体系 第三章 数据与特征工程的参数 第四章 传统机器学习算法参数详解 第五章 深度学习通用训练参数 第六章 典型网络结构的结构参数 第七章 大模型微调参数 第八章 训练成功的判据体系 第九章 失败与病态训练图]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Slack HTTP Request Smuggling: Stealing Session Cookies]]></title>
+        <id>https://medium.com/p/c88efca5294c</id>
+        <link href="https://masimshahzad.medium.com/slack-http-request-smuggling-stealing-session-cookies-c88efca5294c?source=rss------bugbounty-5"/>
+        <updated>2026-11-19T04:49:25.000Z</updated>
+        <summary type="html"><![CDATA[How one space character in a header let two servers disagree about where a request ended, and turned that into Slack account takeover
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Muhammad Asim Shahzad</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitLab Account Takeover: One Reset Email, Two Inboxes]]></title>
+        <id>https://medium.com/p/e553d8cdac3b</id>
+        <link href="https://masimshahzad.medium.com/gitlab-account-takeover-one-reset-email-two-inboxes-e553d8cdac3b?source=rss------bugbounty-5"/>
+        <updated>2026-11-19T04:42:31.000Z</updated>
+        <summary type="html"><![CDATA[How a $35,000 bug bounty report turned GitLab’s password reset form into a CVSS 10 account takeover by accepting a list where it expected…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Muhammad Asim Shahzad</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[手把手教你：开了混合精度就 NaN，GradScaler 到底在做什么｜AI工程师踩坑实录·第11篇 - 大雾的小屋]]></title>
+        <id>https://www.cnblogs.com/dawudexiaowu/p/23717125</id>
+        <link href="https://www.cnblogs.com/dawudexiaowu/p/23717125"/>
+        <updated>2026-11-19T03:43:00.000Z</updated>
+        <summary type="html"><![CDATA[本文深入解析混合精度训练中GradScaler的必要性：fp16数值范围仅6.1e-5~65504，远小于fp32，导致梯度易发生上溢（变inf）或下溢（变0），前者显性报错，后者静默失效，模型“装死”却无预警。GradScaler作为梯度电梯，通过放大梯度防下溢、检测异常降scale、还原梯度保学...]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[华三双核心交换机IRF堆叠 - Vni]]></title>
+        <id>https://www.cnblogs.com/JuZiQi/p/23716982</id>
+        <link href="https://www.cnblogs.com/JuZiQi/p/23716982"/>
+        <updated>2026-11-19T03:33:00.000Z</updated>
+        <summary type="html"><![CDATA[之前笼统的学习过各家设备的堆叠配置，但是一直没有实际上手过，正好最近有个客户买了两台华三S10506X-G框式核心交换机做irf堆叠，于是想着记录一下。 这是官方文档对irf的优点介绍： &#183; 统一管理：IRF形成之后，用户通过IRF中的任意端口都可以登录IRF系统，对所有成员设备进行统一管理。同时，]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Time-Based Blind SQL Injection: When the Database Talks in Seconds]]></title>
+        <id>https://medium.com/p/1fa3c19c899f</id>
+        <link href="https://osintteam.blog/time-based-blind-sql-injection-when-the-database-talks-in-seconds-1fa3c19c899f?source=rss------bugbounty-5"/>
+        <updated>2026-11-19T03:26:09.000Z</updated>
+        <summary type="html"><![CDATA[A complete guide to finding, confirming, and extracting data from time-based blind SQL injection — with payloads for every database, Burp…
+Continue reading on OSINT Team »]]></summary>
+        <author>
+            <name>Monika</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SSRF Filters Bypass Using Redirects]]></title>
+        <id>https://medium.com/p/007fe0151bac</id>
+        <link href="https://osintteam.blog/ssrf-filters-bypass-using-redirects-007fe0151bac?source=rss------bugbounty-5"/>
+        <updated>2026-11-19T03:26:04.000Z</updated>
+        <summary type="html"><![CDATA[Read this and this report. What similarities do you see? Both are SSRF vulnerabilities. Both had filters in place that were bypassed using…
+Continue reading on OSINT Team »]]></summary>
+        <author>
+            <name>Rahul Singh Chauhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一张图片搞定多尺寸：CDN 图片处理 - 暮色之狐]]></title>
+        <id>https://www.cnblogs.com/gloamfox/p/23716162</id>
+        <link href="https://www.cnblogs.com/gloamfox/p/23716162"/>
+        <updated>2026-11-19T02:37:00.000Z</updated>
+        <summary type="html"><![CDATA[做前端或者后端的人，大概都经历过这种局面：用户头像要 48px、列表缩略图要 200px、详情页要 800px，移动端还要再来一套 WebP。 最原始的做法很直接：上传的时候一次性生成好四五个版本，全部丢进对象存储，数据库多存几个地址分别对应。 图片量少还好，一旦多起来，存储成本悄悄往上走，后续迁移]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[研发数字人 Agent：从 0 到 1 的架构与实践 - vivo互联网技术]]></title>
+        <id>https://www.cnblogs.com/vivotech/p/23716102</id>
+        <link href="https://www.cnblogs.com/vivotech/p/23716102"/>
+        <updated>2026-11-19T02:34:00.000Z</updated>
+        <summary type="html"><![CDATA[本文基于 OpenTask 大模型构建轻量化「研发数字人 Agent 系统」，将个人私有经验结构化沉淀、实时联动线上业务系统、并复刻本人排查思路与工作习惯，实现问题受理、信息检索、逻辑分析、方案输出的全流程自动化闭环。]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Day 24：权限的三轴：动作、行与列 - Jeff-Tsai]]></title>
+        <id>https://www.cnblogs.com/jeff-tsai/p/23715405/day-24-permission-axes</id>
+        <link href="https://www.cnblogs.com/jeff-tsai/p/23715405/day-24-permission-axes"/>
+        <updated>2026-11-19T01:50:00.000Z</updated>
+        <summary type="html"><![CDATA[昨天结尾说今天换一条轴。保护等级管的是一次调用的形式，它从头到尾没有问过这个人可以看到哪些数据。 权限是 ERP 躲不掉的题目，而它从来不是一个问题，是三个：采购员能不能删采购单、能删哪几张、以及那张单上的成本列他看不看得到、改不改得动。三个问题的答案来源不同，运行的位置也不同。 本篇说明： X-A]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[C# winform卡死问题分析1——线程池子线程创建句柄 - BruceNeter]]></title>
+        <id>https://www.cnblogs.com/qwqwQAQ/p/23715343</id>
+        <link href="https://www.cnblogs.com/qwqwQAQ/p/23715343"/>
+        <updated>2026-11-19T01:46:00.000Z</updated>
+        <summary type="html"><![CDATA[最近遇到一个winform上位机程序卡死的问题，排查了半天发现挺有趣，我们一起来分析排查下。 目录前排提示现象简化Demo代码排查观察下主线程卡在哪里查看控件所属线程框架逻辑为什么卡死排查代码卡死偶发能够恢复 前排提示 生产代码由于各种历史问题出现奇奇怪怪的代码很正常，我们不讨论这段代码该不该这么写]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Harness：把裸模型变成能用的 Agent - ZerekZhang]]></title>
+        <id>https://www.cnblogs.com/haoxiaozhang/p/23715305</id>
+        <link href="https://www.cnblogs.com/haoxiaozhang/p/23715305"/>
+        <updated>2026-11-19T01:44:00.000Z</updated>
+        <summary type="html"><![CDATA[02 &#183; Harness：把裸模型变成能用的 Agent 读完你会知道： 为什么「会聊天」和「能干活」是两件事，Harness 具体补的是哪一段； Harness 的四组配置、三个插槽分别控制什么，接口语义是什么； 一次请求的真实顺序：历史、上下文提供者、模型、工具循环各在什么位置； 工具循环的工程]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[uni-app 鸿蒙端提现点不动？我用 UTS 插件补上了微信"确认收款" - 码间留白]]></title>
+        <id>https://www.cnblogs.com/xyyt/p/23710947</id>
+        <link href="https://www.cnblogs.com/xyyt/p/23710947"/>
+        <updated>2026-11-19T01:30:00.000Z</updated>
+        <summary type="html"><![CDATA[给 uni-app 鸿蒙端（HarmonyOS NEXT）补上微信商家转账的用户确认收款：一个 UTS 插件从可行性分析、架构设计到真机验证的完整记录，含微信回跳 Want 的自动接管方案、宿主 module.json5 两项必配声明，以及六个踩坑与未闭环项。]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[太狠了！GitHub 5.6 万 Star，让 AI 直接操控 Chrome 调试 - 狂师]]></title>
+        <id>https://www.cnblogs.com/jinjiangongzuoshi/p/23714463</id>
+        <link href="https://www.cnblogs.com/jinjiangongzuoshi/p/23714463"/>
+        <updated>2026-11-19T00:54:00.000Z</updated>
+        <summary type="html"><![CDATA[今天聊一个项目：chrome-devtools-mcp，想必已经有很多人都知道这个项目了。 它出自 Google 官方的 ChromeDevTools 组织，Chrome DevTools 和 Puppeteer 都归这个团队管，2025 年 9 月开源，一年多 star 攒到 5.6 万。 它干的]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[128GB 让 “本地跑大模型” 成为日用品，但分水岭不在硬件 - codigger]]></title>
+        <id>https://www.cnblogs.com/codigger/p/23714450</id>
+        <link href="https://www.cnblogs.com/codigger/p/23714450"/>
+        <updated>2026-11-19T00:50:00.000Z</updated>
+        <summary type="html"><![CDATA[年底想在家或办公室跑大模型的人，都会撞上同一堵墙：显存。 一张 24GB 显存的显卡，装不下一个 70B 参数的模型 —— 因为除了模型本身，长上下文的 “记忆缓存”（KV cache）还要额外吃内存。想在本地跑上百亿参数、又带长上下文的模型，桌面设备里真正能开口径的，是同一类形态：128GB 统一]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NGINX 两处漏洞可导致未经身份验证的远程代码执行（CVE-2026-123633 和 CVE-2026-123007） - JaguarJack]]></title>
+        <id>https://www.cnblogs.com/catchadmin/p/23714323</id>
+        <link href="https://www.cnblogs.com/catchadmin/p/23714323"/>
+        <updated>2026-11-19T00:28:00.000Z</updated>
+        <summary type="html"><![CDATA[NGINX 两处漏洞可导致未经身份验证的远程代码执行（CVE-2026-123633 和 CVE-2026-123007） 摘要 Wiz Research、Ikotas Labs、Metnir、Rapid7 和 Xint 独立发现了 NGINX 中的两个严重远程代码执行漏洞。NGINX 用于接收流量]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Redis 核心机制 | Lazy Free：异步删除大 Key ，架构师视角的机制、代价与决策框架 - IT规划师]]></title>
+        <id>https://www.cnblogs.com/hugogoos/p/23711102</id>
+        <link href="https://www.cnblogs.com/hugogoos/p/23711102"/>
+        <updated>2026-11-18T23:05:00.000Z</updated>
+        <summary type="html"><![CDATA[Lazy Free 的核心在于将键的摘除（主线程，O(1)）与内存释放（BIO线程，O(N)）分离，实现删除操作的异步化。通过 UNLINK 命令可显著降低主线程延迟（如百万级 Hash 删除从525ms降至37μs），但内存归还存在延迟（约0.5秒）。关键机制是：仅当释放成本超过阈值时才交由后台线...]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How I Found IDOR, SQLi and XSS on NASA]]></title>
+        <id>https://medium.com/p/ac75c9bd555e</id>
+        <link href="https://infosecwriteups.com/how-i-found-idor-sqli-and-xss-on-nasa-ac75c9bd555e?source=rss----7b722bfd1b8d---4"/>
+        <updated>2026-11-18T18:34:20.000Z</updated>
+        <author>
+            <name>Aditya Nail Emery</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How I Found IDOR, SQLi and XSS on NASA]]></title>
+        <id>https://medium.com/p/ac75c9bd555e</id>
+        <link href="https://infosecwriteups.com/how-i-found-idor-sqli-and-xss-on-nasa-ac75c9bd555e?source=rss----7b722bfd1b8d---4"/>
+        <updated>2026-11-18T18:34:20.000Z</updated>
+        <author>
+            <name>Aditya Nail Emery</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Metadata Nobody Reads: How a Government Portal Leaked Internal Usernames Across 15,000…]]></title>
+        <id>https://medium.com/p/91194827019b</id>
+        <link href="https://infosecwriteups.com/the-metadata-nobody-reads-how-a-government-portal-leaked-internal-usernames-across-15-000-91194827019b?source=rss----7b722bfd1b8d---4"/>
+        <updated>2026-11-18T18:30:07.000Z</updated>
+        <author>
+            <name>kjulius</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Metadata Nobody Reads: How a Government Portal Leaked Internal Usernames Across 15,000…]]></title>
+        <id>https://medium.com/p/91194827019b</id>
+        <link href="https://infosecwriteups.com/the-metadata-nobody-reads-how-a-government-portal-leaked-internal-usernames-across-15-000-91194827019b?source=rss----7b722bfd1b8d---4"/>
+        <updated>2026-11-18T18:30:07.000Z</updated>
+        <author>
+            <name>kjulius</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Beyond the Click: Tracking Attachment Opens and Macro Execution in Anglerphish]]></title>
+        <id>https://medium.com/p/d1080a2b5ae1</id>
+        <link href="https://infosecwriteups.com/beyond-the-click-tracking-attachment-opens-and-macro-execution-in-anglerphish-d1080a2b5ae1?source=rss----7b722bfd1b8d---4"/>
+        <updated>2026-11-18T18:28:29.000Z</updated>
+        <author>
+            <name>George Petropoulos</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Beyond the Click: Tracking Attachment Opens and Macro Execution in Anglerphish]]></title>
+        <id>https://medium.com/p/d1080a2b5ae1</id>
+        <link href="https://infosecwriteups.com/beyond-the-click-tracking-attachment-opens-and-macro-execution-in-anglerphish-d1080a2b5ae1?source=rss----7b722bfd1b8d---4"/>
+        <updated>2026-11-18T18:28:29.000Z</updated>
+        <author>
+            <name>George Petropoulos</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TryHackMe: Understanding AI Supply Chains — Walkthrough]]></title>
+        <id>https://medium.com/p/dcfc8ce0124d</id>
+        <link href="https://infosecwriteups.com/tryhackme-understanding-ai-supply-chains-walkthrough-dcfc8ce0124d?source=rss----7b722bfd1b8d---4"/>
+        <updated>2026-11-18T18:24:56.000Z</updated>
+        <summary type="html"><![CDATA[How pickle files, poisoned data and stolen credentials turn AI dependencies into attack paths — with answers and a SOC perspective.
+Continue reading on InfoSec Write-ups »]]></summary>
+        <author>
+            <name>Rotimi Ishola</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TryHackMe: Understanding AI Supply Chains — Walkthrough]]></title>
+        <id>https://medium.com/p/dcfc8ce0124d</id>
+        <link href="https://infosecwriteups.com/tryhackme-understanding-ai-supply-chains-walkthrough-dcfc8ce0124d?source=rss----7b722bfd1b8d---4"/>
+        <updated>2026-11-18T18:24:56.000Z</updated>
+        <summary type="html"><![CDATA[How pickle files, poisoned data and stolen credentials turn AI dependencies into attack paths — with answers and a SOC perspective.
+Continue reading on InfoSec Write-ups »]]></summary>
+        <author>
+            <name>Rotimi Ishola</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TryHackMe Walkthrough — Dead Drop]]></title>
+        <id>https://medium.com/p/32a88d7a514b</id>
+        <link href="https://infosecwriteups.com/tryhackme-walkthrough-dead-drop-32a88d7a514b?source=rss----7b722bfd1b8d---4"/>
+        <updated>2026-11-18T18:23:32.000Z</updated>
+        <author>
+            <name>Indigo Shadow</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TryHackMe Walkthrough — Dead Drop]]></title>
+        <id>https://medium.com/p/32a88d7a514b</id>
+        <link href="https://infosecwriteups.com/tryhackme-walkthrough-dead-drop-32a88d7a514b?source=rss----7b722bfd1b8d---4"/>
+        <updated>2026-11-18T18:23:32.000Z</updated>
+        <author>
+            <name>Indigo Shadow</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blind XXE with Out-of-Band Interaction via XML Parameter Entities]]></title>
+        <id>https://medium.com/p/8f448c9b09f4</id>
+        <link href="https://infosecwriteups.com/blind-xxe-with-out-of-band-interaction-via-xml-parameter-entities-8f448c9b09f4?source=rss----7b722bfd1b8d---4"/>
+        <updated>2026-11-18T18:18:05.000Z</updated>
+        <author>
+            <name>Spoorthi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blind XXE with Out-of-Band Interaction via XML Parameter Entities]]></title>
+        <id>https://medium.com/p/8f448c9b09f4</id>
+        <link href="https://infosecwriteups.com/blind-xxe-with-out-of-band-interaction-via-xml-parameter-entities-8f448c9b09f4?source=rss----7b722bfd1b8d---4"/>
+        <updated>2026-11-18T18:18:05.000Z</updated>
+        <author>
+            <name>Spoorthi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CVE-2026-123002: How I Found a 2FA Bypass in Gitea and Wrote the Patch]]></title>
+        <id>https://medium.com/p/3cae290b9902</id>
+        <link href="https://infosecwriteups.com/cve-2026-123002-how-i-found-a-2fa-bypass-in-gitea-and-wrote-the-patch-3cae290b9902?source=rss----7b722bfd1b8d---4"/>
+        <updated>2026-11-18T18:17:26.000Z</updated>
+        <author>
+            <name>Sandiyo Christan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CVE-2026-123002: How I Found a 2FA Bypass in Gitea and Wrote the Patch]]></title>
+        <id>https://medium.com/p/3cae290b9902</id>
+        <link href="https://infosecwriteups.com/cve-2026-123002-how-i-found-a-2fa-bypass-in-gitea-and-wrote-the-patch-3cae290b9902?source=rss----7b722bfd1b8d---4"/>
+        <updated>2026-11-18T18:17:26.000Z</updated>
+        <author>
+            <name>Sandiyo Christan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Put a Comma in Your Password. Hackers Hate This One Weird Trick.]]></title>
+        <id>https://medium.com/p/a36cffeea834</id>
+        <link href="https://infosecwriteups.com/put-a-comma-in-your-password-hackers-hate-this-one-weird-trick-a36cffeea834?source=rss----7b722bfd1b8d---4"/>
+        <updated>2026-11-18T18:16:47.000Z</updated>
+        <author>
+            <name>Andrew Virya Victorio</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Put a Comma in Your Password. Hackers Hate This One Weird Trick.]]></title>
+        <id>https://medium.com/p/a36cffeea834</id>
+        <link href="https://infosecwriteups.com/put-a-comma-in-your-password-hackers-hate-this-one-weird-trick-a36cffeea834?source=rss----7b722bfd1b8d---4"/>
+        <updated>2026-11-18T18:16:47.000Z</updated>
+        <author>
+            <name>Andrew Virya Victorio</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blind XXE with Out-of-Band (OOB) Interaction: A Beginner-Friendly Walkthrough]]></title>
+        <id>https://medium.com/p/5c86c8dee9b9</id>
+        <link href="https://infosecwriteups.com/blind-xxe-with-out-of-band-oob-interaction-a-beginner-friendly-walkthrough-5c86c8dee9b9?source=rss----7b722bfd1b8d---4"/>
+        <updated>2026-11-18T18:16:19.000Z</updated>
+        <author>
+            <name>Spoorthi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blind XXE with Out-of-Band (OOB) Interaction: A Beginner-Friendly Walkthrough]]></title>
+        <id>https://medium.com/p/5c86c8dee9b9</id>
+        <link href="https://infosecwriteups.com/blind-xxe-with-out-of-band-oob-interaction-a-beginner-friendly-walkthrough-5c86c8dee9b9?source=rss----7b722bfd1b8d---4"/>
+        <updated>2026-11-18T18:16:19.000Z</updated>
+        <author>
+            <name>Spoorthi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Exploiting XXE to Perform SSRF Attacks: A Step-by-Step Walkthrough]]></title>
+        <id>https://medium.com/p/3e6ceaf5321b</id>
+        <link href="https://infosecwriteups.com/exploiting-xxe-to-perform-ssrf-attacks-a-step-by-step-walkthrough-3e6ceaf5321b?source=rss----7b722bfd1b8d---4"/>
+        <updated>2026-11-18T18:15:47.000Z</updated>
+        <author>
+            <name>Spoorthi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Exploiting XXE to Perform SSRF Attacks: A Step-by-Step Walkthrough]]></title>
+        <id>https://medium.com/p/3e6ceaf5321b</id>
+        <link href="https://infosecwriteups.com/exploiting-xxe-to-perform-ssrf-attacks-a-step-by-step-walkthrough-3e6ceaf5321b?source=rss----7b722bfd1b8d---4"/>
+        <updated>2026-11-18T18:15:47.000Z</updated>
+        <author>
+            <name>Spoorthi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WebSocket ReDoS via Subscription Path: An Undocumented Attack Vector Nobody Is Hunting]]></title>
+        <id>https://medium.com/p/b8b930755815</id>
+        <link href="https://medium.com/@vashuvats/websocket-redos-via-subscription-path-an-undocumented-attack-vector-nobody-is-hunting-b8b930755815?source=rss------bugbounty-5"/>
+        <updated>2026-11-18T18:12:21.000Z</updated>
+        <summary type="html"><![CDATA[The under-hunted technique for finding subscription-handler ReDoS that takes real-time servers down.
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Vashu Vats</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[给 PACS 数据加一道"匿名闸门"：自研 DICOM 脱敏服务器的实践 - 破曉]]></title>
+        <id>https://www.cnblogs.com/poxiao/p/23711429</id>
+        <link href="https://www.cnblogs.com/poxiao/p/23711429"/>
+        <updated>2026-11-18T15:51:00.000Z</updated>
+        <summary type="html"><![CDATA[本文介绍一套自研DICOM脱敏服务器实践，通过作为PACS代理网关，实现科研数据“可用不可见”。该系统在不改造原有PACS的前提下，统一承接查询与下载请求，按策略对患者姓名、ID、机构等敏感信息进行脱敏处理，保留科研所需模态、部位、检查描述等元数据。支持白名单、时间窗、字段级配置，确保数据出域可控、...]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在家工作，也别把一天都交给屏幕：用 Tick Rest 留住休息时间 - fthux]]></title>
+        <id>https://www.cnblogs.com/myvin/p/23711310</id>
+        <link href="https://www.cnblogs.com/myvin/p/23711310"/>
+        <updated>2026-11-18T15:16:00.000Z</updated>
+        <summary type="html"><![CDATA[在家办公省去了通勤，也可能少了许多自然起身的机会。Tick Rest 是一款免费开源的 Mac 休息提醒 App，通过可调整的休息方案、小窗或全屏提示，帮你在连续工作中记得接水、远眺和走动。它支持自定义间隔、时长与工作时段，临时有事也能延后或暂停提醒。无需注册账号，没有广告，设置和休息记录保存在本机...]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[两路信号，两种滤波：角速度走低通滤波，加速度走卡尔曼滤波 - Zw-awa]]></title>
+        <id>https://www.cnblogs.com/zw-awa/p/23711298</id>
+        <link href="https://www.cnblogs.com/zw-awa/p/23711298"/>
+        <updated>2026-11-18T15:12:00.000Z</updated>
+        <summary type="html"><![CDATA[同一块芯片里的六个数字，脾气完全不同。为什么角速度那条路配一阶低通、加速度要三个各管一轴的卡尔曼，而这两路都准备好之后，角度其实还没出来？]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CVE-2026-98432: A Critical Linux Kernel Vulnerability That Could Allow Remote Root Access]]></title>
+        <id>https://medium.com/p/9c2423a2eae3</id>
+        <link href="https://medium.com/@asadmohsin760/cve-2026-98432-a-critical-linux-kernel-vulnerability-that-could-allow-remote-root-access-9c2423a2eae3?source=rss------bugbounty-5"/>
+        <updated>2026-11-18T13:39:30.000Z</updated>
+        <summary type="html"><![CDATA[Publication Date: November 18, 2026
+Category: Cybersecurity / Vulnerability Analysis
+CVE ID: CVE-2026-98432
+Severity: Critical
+CVSS Score…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Asad Mohsin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[XSS DOM Based — Eval | Root-Me Write-up]]></title>
+        <id>https://medium.com/p/9fb9796843e3</id>
+        <link href="https://medium.com/@abdobelal069/xss-dom-based-eval-root-me-write-up-9fb9796843e3?source=rss------bugbounty-5"/>
+        <updated>2026-11-18T13:12:00.000Z</updated>
+        <summary type="html"><![CDATA[By Abdelmoneim Belal
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Abdelmoneim Belal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[XSS DOM Based — Filters Bypass | Root-Me Write-up]]></title>
+        <id>https://medium.com/p/b2c7fae24fae</id>
+        <link href="https://medium.com/@abdobelal069/xss-dom-based-filters-bypass-root-me-write-up-b2c7fae24fae?source=rss------bugbounty-5"/>
+        <updated>2026-11-18T11:31:53.000Z</updated>
+        <summary type="html"><![CDATA[Author: Abdelmoneim Belal
+Platform: Root-Me
+Category: Web-Client
+Points: 50
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Abdelmoneim Belal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blind XXE with Out-of-Band Interaction via XML Parameter Entities]]></title>
+        <id>https://medium.com/p/8f448c9b09f4</id>
+        <link href="https://infosecwriteups.com/blind-xxe-with-out-of-band-interaction-via-xml-parameter-entities-8f448c9b09f4?source=rss------bugbounty-5"/>
+        <updated>2026-11-18T10:11:41.000Z</updated>
+        <summary type="html"><![CDATA[After completing the previous Blind XXE with OOB Interaction lab, I came across a slightly more challenging variation: Blind XXE with…
+Continue reading on InfoSec Write-ups »]]></summary>
+        <author>
+            <name>Spoorthi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[When Should You Walk Away From a Bug Bounty Target ?]]></title>
+        <id>https://medium.com/p/1aa5c249e75c</id>
+        <link href="https://medium.com/@Aacle/when-should-you-walk-away-from-a-bug-bounty-target-1aa5c249e75c?source=rss------bugbounty-5"/>
+        <updated>2026-11-18T09:46:33.000Z</updated>
+        <summary type="html"><![CDATA[You reopen Burp, look through the same requests, and try a variation you probably tried yesterday. You haven’t found anything, but leaving…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Abhishek meena</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Offense Takes the Top Spot, the Veterans Return and a Tiny Model You Can Train in Two Hours, Day…]]></title>
+        <id>https://medium.com/p/089d58e54a4e</id>
+        <link href="https://medium.com/@lssmj2014/offense-takes-the-top-spot-the-veterans-return-and-a-tiny-model-you-can-train-in-two-hours-day-089d58e54a4e?source=rss------redteam-5"/>
+        <updated>2026-11-18T09:07:29.000Z</updated>
+        <summary type="html"><![CDATA[GitHub trending on November 18, 2026, day 279 of this series, is mostly yesterday’s board reshuffled, with one big change at the top…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Baozilla, Let's go!</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building a Home SOC Lab — Part 3: Brute Force. Watching an SSH Attack from Both Sides]]></title>
+        <id>https://medium.com/p/8e44da5bf906</id>
+        <link href="https://medium.com/@spapasotiropoulos/building-a-home-soc-lab-part-3-brute-force-watching-an-ssh-attack-from-both-sides-8e44da5bf906?source=rss------redteam-5"/>
+        <updated>2026-11-18T07:47:38.000Z</updated>
+        <summary type="html"><![CDATA[From a quiet lab to the first real attack
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Stavros Papasotiropoulos</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Java4Shell (CVE-2026‑114938): Critical Pre-Authentication RCE in Java 17, 21, 25 and 27]]></title>
         <id>https://medium.com/p/d1d9e47c4674</id>
@@ -63306,54 +63829,6 @@ Towards Large Generative Recommendation: A Tokenization Perspective。
         <summary type="html"><![CDATA[本文链接
 
 《攻击者视角下的业务智能体渗透》由平安Hamber团队出品，聚焦大模型与智能体在金融科技场景中的新型攻击面。报告系统梳理提示词注入、工具滥用、身份伪装、MCP越权、知识库污染、XSS/SSRF/命令执行等10+实战手法，演示如何通过一次“查薪资”诱导智能体泄露他人工资、伪造token调用未公开接口、上传恶意MCP插件横向移动并获取内网shell。作者提出“智能体应用扫描-画像-决策”闭环渗透框架，结合CVE实例与平安众测数据，输出可落地的风险矩阵及加固方案，助力企业从设计、部署到运营全生命周期守护数字员工安全。]]></summary>
-        <author>
-            <name>信息安全知识库</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fuzzing4LLM：撬动大语言模型的安全对齐机制]]></title>
-        <id>https://vipread.com/library/topic/4067</id>
-        <link href="https://vipread.com/library/topic/4067"/>
-        <updated>2025-11-19T15:01:04.000Z</updated>
-        <summary type="html"><![CDATA[本文链接
-
-《Fuzzing4LLM：撬动大语言模型的安全对齐机制》由科大讯飞梅瑞提出，发布进化式越狱框架 ForgeDAN：通过字符-词-句多级扰动、场景假设/角色扮演变异与语义适应度评估，自动生成高隐蔽性对抗提示，在 DeepSeek、Qwen 等模型上攻陷率最高达 98%；并构建双维度判别器，精准区分拒绝/顺从与安全/有害输出，显著降低假阳性。报告同步给出覆盖越狱、投毒、跨模态、智能体等 20 + 场景的 AI 安全评测体系，以及多层防护、人机协同、数据全生命周期治理的主动防御方案，为大模型安全对齐提供从攻击到评测再到治理的完整闭环。]]></summary>
-        <author>
-            <name>信息安全知识库</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VPN与红队攻防]]></title>
-        <id>https://vipread.com/library/topic/4066</id>
-        <link href="https://vipread.com/library/topic/4066"/>
-        <updated>2025-11-19T15:00:12.000Z</updated>
-        <summary type="html"><![CDATA[本文链接
-
-《VPN与红队攻防》作者10余年红蓝对抗经验，系统披露国内主流VPN设备“大网扩线-漏洞利用-后渗透”完整攻击链：从未授权下载、默认口令、P12证书泄露到任意文件读取获取运维DB，绕过双向校验植入后门key，再借客户端日志、token与数据库构造字典，实现无爆破隐蔽登录。报告给出防护清单：默认配置清零、2FA、堡垒机运维、管理口白名单、集中日志审计，帮助企业堵住VPN这一高权限横向通道。]]></summary>
-        <author>
-            <name>信息安全知识库</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[kubernetes RBAC 安全风险研究]]></title>
-        <id>https://vipread.com/library/topic/4065</id>
-        <link href="https://vipread.com/library/topic/4065"/>
-        <updated>2025-11-19T14:58:55.000Z</updated>
-        <summary type="html"><![CDATA[本文链接
-
-《Kubernetes RBAC 安全风险研究》系统梳理 K8s 授权链路，从默认服务账户、授权过度授予、身份冒用-impersonate权限、pods 资源组配置错误、 Webhook 配置错误和ServiceAccount过度授权 六大配置缺陷，演示“容器内提权→横向移动→集群接管”完整攻击链；结合微服务、OIDC-CAS、Nexus 供应链镜像投毒等真实场景，给出最小权限、GitOps 左移、PSS/PSA 基线、审计+自动化响应的闭环防御方案，帮助企业在云原生时代快速发现并修复 RBAC 滥用，提升集群安全韧性。]]></summary>
-        <author>
-            <name>信息安全知识库</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[红队基础设施自动化多云部署能力]]></title>
-        <id>https://vipread.com/library/topic/4064</id>
-        <link href="https://vipread.com/library/topic/4064"/>
-        <updated>2025-11-19T14:54:28.000Z</updated>
-        <summary type="html"><![CDATA[本文链接
-
-《红队基础设施自动化多云部署能力》基于 IaC 理念开源 RedC 引擎，实现“一条命令”分钟级拉起 C2、DNSLog、代理池、扫描节点等全套红队云设施。通过 Terraform 模板化+抢占式 Spot 实例，将单场演练成本压至 500 元以内，支持 AWS/阿里云/腾讯云多云并发、IPv6 扫描、密文存储与 IMv2 防 SSRF，自带 clash 负载均衡与 Web 控制台，已提速打点 30-40 倍。报告同时提出 SaaS 化调度、MCP 大模型自动调起攻击场景的开源路线，终结红队“重复造轮子”时代。]]></summary>
         <author>
             <name>信息安全知识库</name>
         </author>
