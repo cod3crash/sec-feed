@@ -2,10 +2,366 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cod3crash.github.io/sec-feed/index.html</id>
     <title>security feed</title>
-    <updated>2026-11-19T06:59:44.230Z</updated>
+    <updated>2026-11-20T06:51:59.639Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://cod3crash.github.io/sec-feed/index.html"/>
     <link rel="self" href="https://cod3crash.github.io/sec-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[浅谈高性能消息中间件kafka---kafka的基础结构 - 王若伊_恩赐解脱]]></title>
+        <id>https://www.cnblogs.com/jilodream/p/23731139</id>
+        <link href="https://www.cnblogs.com/jilodream/p/23731139"/>
+        <updated>2026-11-20T06:47:00.000Z</updated>
+        <summary type="html"><![CDATA[kafka是2010年由LinkedIn开发的，为了存储海量的日志数据。2011年LinkedIn将kafka开源，并捐献给apache基金会。kafka名字的来源于作家卡夫卡。没错就是我们上学时《变形记》的那个作者的名字。kafka的原作者认为kafka就是一个针对“优化写入”的系统（&quot;a sys]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[天翼云TeleDB最佳实践：某大型企业平滑去O，国产化替代一步到位 - 天翼云开发者社区]]></title>
+        <id>https://www.cnblogs.com/developer-tianyiyun/p/23730980</id>
+        <link href="https://www.cnblogs.com/developer-tianyiyun/p/23730980"/>
+        <updated>2026-11-20T06:37:00.000Z</updated>
+        <summary type="html"><![CDATA[去O的难点从来不在&quot;换一个数据库&quot;，而在&quot;如何让一个跑了多年的核心系统无痛搬家&quot;。这个项目给出的答案是：先用工具把改造工作量算清楚，再用四阶段方案把风险切碎，最后用双向同步链路给自己留好退路。当国产化替代从试点走向规模落地，这套&quot;算得清、迁得动、退得回&quot;的方法论，值得被更多正在观望的企业看到。]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[P2 Password Reset Token Not Invalidated After Successful Password Change]]></title>
+        <id>https://medium.com/p/ad251de19a39</id>
+        <link href="https://medium.com/@akashmotkar001/p2-password-reset-token-not-invalidated-after-successful-password-change-ad251de19a39?source=rss------bugbounty-5"/>
+        <updated>2026-11-20T06:20:16.000Z</updated>
+        <summary type="html"><![CDATA[Severity: P2 — High (subject to validation)
+Vulnerability Type: Authentication Weakness / Improper Session and Token Management
+CWE:
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Akash motkar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google 2FA Bug: The Login That Outlived the Password]]></title>
+        <id>https://medium.com/p/54b41453325f</id>
+        <link href="https://masimshahzad.medium.com/google-2fa-bug-the-login-that-outlived-the-password-54b41453325f?source=rss------bugbounty-5"/>
+        <updated>2026-11-20T05:08:45.000Z</updated>
+        <summary type="html"><![CDATA[AI-assisted: drafted with AI help from public sources, then reviewed and edited. This is an analytical case study of a public disclosure…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Muhammad Asim Shahzad</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Uber Account Takeover: The API That Handed Out Tokens]]></title>
+        <id>https://medium.com/p/c12f52fb14fe</id>
+        <link href="https://masimshahzad.medium.com/uber-account-takeover-the-api-that-handed-out-tokens-c12f52fb14fe?source=rss------bugbounty-5"/>
+        <updated>2026-11-20T04:58:27.000Z</updated>
+        <summary type="html"><![CDATA[A $6,500 bug bounty report: a leaked user ID plus one API call that trusted it gave up any Uber rider, driver or Eats session
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Muhammad Asim Shahzad</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Docs postMessage Bug: Hijacked Feedback Screenshots]]></title>
+        <id>https://medium.com/p/faa079e57ef7</id>
+        <link href="https://masimshahzad.medium.com/google-docs-postmessage-bug-hijacked-feedback-screenshots-faa079e57ef7?source=rss------bugbounty-5"/>
+        <updated>2026-11-20T04:34:11.000Z</updated>
+        <summary type="html"><![CDATA[How one wildcard target origin in Google’s shared Send Feedback widget let an outside page capture screenshots of private documents
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Muhammad Asim Shahzad</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[19. ArkTS逻辑运算符实战：&& || ! 一次讲透 - 老陈说编程]]></title>
+        <id>https://www.cnblogs.com/halfcode/p/23728649</id>
+        <link href="https://www.cnblogs.com/halfcode/p/23728649"/>
+        <updated>2026-11-20T03:10:00.000Z</updated>
+        <summary type="html"><![CDATA[逻辑与 &amp;&amp; 两个布尔值用 &amp;&amp;，两边都是 true，结果才是 true。有一边是 false，结果就是 false。 动画视频在《ArkTS逻辑运算符实战：&amp;&amp; || ! 一次讲透》。 console.log(&quot;true &amp;&amp; true:&quot;, true &amp;&amp; true); console.log(]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Day 25：审计轨迹与变更的前后值 - Jeff-Tsai]]></title>
+        <id>https://www.cnblogs.com/jeff-tsai/p/23728641/day-25-audit-trail</id>
+        <link href="https://www.cnblogs.com/jeff-tsai/p/23728641/day-25-audit-trail"/>
+        <updated>2026-11-20T03:09:00.000Z</updated>
+        <summary type="html"><![CDATA[有人来问「这一笔的金额上个月是谁改的」，多半已经是几个月以后的事。问的人手上没有当时的界面、没有当时的程序版本，只有当时留下来的那几行记录。谁登录、谁把哪一个字段从什么改成什么、谁看了哪一笔，审计这一层的每一个决定都得先假设这个场景，包括那些看起来只是省空间的决定。 本篇说明： 为什么名字也要抄一份]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How I Find IDOR Vulnerabilities: My Complete Bug Bounty Hunting Methodology]]></title>
+        <id>https://medium.com/p/8344cbecfde8</id>
+        <link href="https://samadhanshimple.medium.com/how-i-find-idor-vulnerabilities-my-complete-bug-bounty-hunting-methodology-8344cbecfde8?source=rss------bugbounty-5"/>
+        <updated>2026-11-20T03:01:05.000Z</updated>
+        <summary type="html"><![CDATA[IDOR (Insecure Direct Object Reference) is one of the most interesting vulnerabilities I look for during bug bounty hunting.
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Samadhan shimple</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kynvio: 新一代办公助手 - mengrennwpu]]></title>
+        <id>https://www.cnblogs.com/mengrennwpu/p/23728038</id>
+        <link href="https://www.cnblogs.com/mengrennwpu/p/23728038"/>
+        <updated>2026-11-20T02:24:00.000Z</updated>
+        <summary type="html"><![CDATA[大多数 AI 停在&quot;回答&quot;，Kynvio 直接交付成果。一个工作台，把一句话变成网站、PPT、设计、视频和带出处的深度研究——过程步步可见，产物一键分享。]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[从单点监测到数字孪生：横泉水库安全监测数字化管控平台落地 - 研YANBO]]></title>
+        <id>https://www.cnblogs.com/yanboo/p/23727998</id>
+        <link href="https://www.cnblogs.com/yanboo/p/23727998"/>
+        <updated>2026-11-20T02:21:00.000Z</updated>
+        <summary type="html"><![CDATA[横泉水库位于山西省吕梁市方山县境内北川河干流上，坝址控制流域面积 800 平方公里，总库容 8123 万立方米（其中兴利库容 4189 万立方米、防洪库容 1113 万立方米、调洪库容 2013 万立方米），是一座以城市生活及工业供水、农业灌溉为主，兼顾防洪、发电等综合利用的水利枢纽，也是吕梁市经济]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[手把手教你：loss 不降反升，先别怀疑模型结构｜AI工程师踩坑实录·第12篇 - 大雾的小屋]]></title>
+        <id>https://www.cnblogs.com/dawudexiaowu/p/23727762</id>
+        <link href="https://www.cnblogs.com/dawudexiaowu/p/23727762"/>
+        <updated>2026-11-20T02:10:00.000Z</updated>
+        <summary type="html"><![CDATA[本文通过四组严格对照实验，揭示loss持续上升的三大主因：学习率过大、数据噪声与量纲失控，模型结构实为次要因素。实验表明，损失飙升多源于优化与数据问题——前几十步上涨提示学习率过高，训练降验证升则指向脏数据或量纲失衡。正确排查顺序应为：先看上升时机，再析训练-验证分叉，最后才考虑模型结构。建议建立基...]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用 AI 从零搭一个全栈聊天应用：萤火虫 Firefly 的架构、落地与踩坑 - Tynam.Yang]]></title>
+        <id>https://www.cnblogs.com/tynam/p/23727636</id>
+        <link href="https://www.cnblogs.com/tynam/p/23727636"/>
+        <updated>2026-11-20T02:03:00.000Z</updated>
+        <summary type="html"><![CDATA[一个轻量、简洁的团队内部聊天应用，采用「夜林萤火」深色视觉并支持白昼主题切换，支持群聊、私聊、游客身份、消息回复、图片发送、问题反馈与举报，并内置一套完整的管理后台。]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI 三分钟写完的代码，你凭什么敢直接上线？ - codigger]]></title>
+        <id>https://www.cnblogs.com/codigger/p/23727385</id>
+        <link href="https://www.cnblogs.com/codigger/p/23727385"/>
+        <updated>2026-11-20T01:46:00.000Z</updated>
+        <summary type="html"><![CDATA[程序员把需求扔给 AI，按回车，几百行代码立刻顺着屏幕往下淌，光标跳得像有人在替你加班。三分钟，一个能跑的接口就躺在编辑器里了。复制，粘贴，运行，接口返回 200。上线。 接着呢？ 先讲个亲身经历的事。 某公司的后端接口是 AI 生成的，写的时候图省事，直接拿用户输入拼 SQL。功能测试全绿，全部测]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DNS Pentesting Guide for Beginners: What Port 53 Leaks and How to Test It]]></title>
+        <id>https://medium.com/p/1e0dd17aa6d9</id>
+        <link href="https://medium.com/@vigneshkumaroffsec/dns-pentesting-guide-for-beginners-what-port-53-leaks-and-how-to-test-it-1e0dd17aa6d9?source=rss------bugbounty-5"/>
+        <updated>2026-11-20T01:38:24.000Z</updated>
+        <summary type="html"><![CDATA[DNS is the internet’s phonebook — and one of the richest, most overlooked sources of information and misconfiguration. Here’s how to test…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Vigneshkumaroffsec</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为什么 MySQL 偏偏选了 B+ 树？ - leikooo]]></title>
+        <id>https://www.cnblogs.com/leikooo/p/23726844</id>
+        <link href="https://www.cnblogs.com/leikooo/p/23726844"/>
+        <updated>2026-11-20T01:21:00.000Z</updated>
+        <summary type="html"><![CDATA[大家在业务里应该都碰到过这种事： 一张两千多万行的 user 表，select * from user where id = 12345 眨眼就回来了； 同一张表，where nickname = &#39;leikooo&#39; 却慢到能感觉出来，explain 一看，type = ALL，全表扫描； 给 ni]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[糟糕，一不小心成了嵌入式的周扒皮 - 关山月之暗面]]></title>
+        <id>https://www.cnblogs.com/flyfire-cn/p/23703627</id>
+        <link href="https://www.cnblogs.com/flyfire-cn/p/23703627"/>
+        <updated>2026-11-20T01:06:00.000Z</updated>
+        <summary type="html"><![CDATA[糟糕，一不小心当了回嵌入式的周扒皮 一个 香烟盒大小的小铝合金盒子里，一颗64KB SRAM，256KB Flash的MCU里，塞进了一个中型网关的全部家当 一、起因：我只是想做台&quot;迷你小网关&quot; 当初想的是：&quot;做个数据网关，体积紧凑一点，成本低一点，物料易采，替换可控。能读 Modbus，能上云，支]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[七条语义，十六条变异：一个 Windows Job 持有者的护栏体检 - 张善友]]></title>
+        <id>https://www.cnblogs.com/shanyou/p/23726584</id>
+        <link href="https://www.cnblogs.com/shanyou/p/23726584"/>
+        <updated>2026-11-20T00:57:00.000Z</updated>
+        <summary type="html"><![CDATA[讲清变异测试在干什么，再把七条语义逐条拆开，说清每条为什么容易写错、实现长什么样、以及用什么变异去撞它的护栏]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Devil Went Down to Georgia: How I Made $60k Hacking the DHS]]></title>
+        <id>https://medium.com/p/5401fe833c58</id>
+        <link href="https://sirleeroyjenkins.medium.com/the-devil-went-down-to-georgia-how-i-made-60k-hacking-the-dhs-5401fe833c58?source=rss------bugbounty-5"/>
+        <updated>2026-11-20T00:47:43.000Z</updated>
+        <summary type="html"><![CDATA[Sometime near the end of 2023 I was invited to The Georgia Department of Human Services private bug bounty program on Hackerone through an…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>SirLeeroyJenkins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top 3 BOF Repositories for Red Teamers]]></title>
+        <id>https://medium.com/p/ba67b3c5e2d7</id>
+        <link href="https://medium.com/@nukeratframework/top-3-bof-repositories-for-red-teamers-ba67b3c5e2d7?source=rss------redteam-5"/>
+        <updated>2026-11-20T00:47:39.000Z</updated>
+        <summary type="html"><![CDATA[A Beacon Object File is a small .o the implant loads in memory, so the operator gets a command on a host that already called back and…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Red Team HQ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[太强了！三周冲到8.6k+ Star，免Root 免电脑，Mika 在后台替你操作所有App - 狂师]]></title>
+        <id>https://www.cnblogs.com/jinjiangongzuoshi/p/23726521</id>
+        <link href="https://www.cnblogs.com/jinjiangongzuoshi/p/23726521"/>
+        <updated>2026-11-20T00:44:00.000Z</updated>
+        <summary type="html"><![CDATA[前段时间在逛 GitHub 时，翻到一个项目：Mika，挺有意思，分享给大家。 这项目 10 月 29 号才开源，三周不到 star 攒到 8600 多，冲上 trendshift 的 Kotlin 仓库日榜和周榜第一，迭代也勤，写这篇的当天 v0.1.43 刚发。 它干的事很简单，一句话概括：在安]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Walnut (HackSmarter)]]></title>
+        <id>https://medium.com/p/a2ba7bd4fb8e</id>
+        <link href="https://medium.com/@daniel.josiah.lewis/walnut-hacksmarter-a2ba7bd4fb8e?source=rss------redteam-5"/>
+        <updated>2026-11-20T00:41:35.000Z</updated>
+        <summary type="html"><![CDATA[walnut.local
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Daniel Lewis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PHP 8.6 正式发布 - JaguarJack]]></title>
+        <id>https://www.cnblogs.com/catchadmin/p/23726382</id>
+        <link href="https://www.cnblogs.com/catchadmin/p/23726382"/>
+        <updated>2026-11-20T00:24:00.000Z</updated>
+        <summary type="html"><![CDATA[PHP 8.6 正式发布 PHP 8.6 已于 2026 年 11 月 19 日正式发布。本文介绍该版本的新特性、默认设置变更和弃用事项。 部分函数应用 部分函数应用（Partial Function Application，PFA）允许预先传入部分参数，得到一个接收其余参数的闭包。? 为稍后传入的]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dismay (HackSmarter)]]></title>
+        <id>https://medium.com/p/ad817a892198</id>
+        <link href="https://medium.com/@daniel.josiah.lewis/dismay-hacksmarter-ad817a892198?source=rss------redteam-5"/>
+        <updated>2026-11-20T00:17:39.000Z</updated>
+        <summary type="html"><![CDATA[Overview
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Daniel Lewis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple HOF (August 2026): Unmasking a Blind SSRF in Podcasts Connect]]></title>
+        <id>https://medium.com/p/e86689990bab</id>
+        <link href="https://medium.com/@anas-nady/apple-hof-august-2026-unmasking-a-blind-ssrf-in-podcasts-connect-e86689990bab?source=rss------bugbounty-5"/>
+        <updated>2026-11-19T23:41:04.000Z</updated>
+        <summary type="html"><![CDATA[A step-by-step story of discovery, persistence, and securing the internal network.
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Anas NadY</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How an Unverified Email Change Led to Full Account Takeover | $$$$ Bounty]]></title>
+        <id>https://medium.com/p/7a3f75aeb4b7</id>
+        <link href="https://medium.com/@marwanmedhat0001/how-an-unverified-email-change-led-to-full-account-takeover-bounty-7a3f75aeb4b7?source=rss------bugbounty-5"/>
+        <updated>2026-11-19T23:37:10.000Z</updated>
+        <summary type="html"><![CDATA[Chaining a business logic flaw with the password-reset functionality to take over another user’s account.
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Marwanmedhat</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[️ Apple HOF (May 2026): Stopping Podcast Hijacking]]></title>
+        <id>https://medium.com/p/5baf19fae4f4</id>
+        <link href="https://medium.com/@anas-nady/%EF%B8%8F-apple-hof-may-2026-stopping-podcast-hijacking-5baf19fae4f4?source=rss------bugbounty-5"/>
+        <updated>2026-11-19T23:26:31.000Z</updated>
+        <summary type="html"><![CDATA[A concise tale of missing verification, content theft, and a swift resolution.
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Anas NadY</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Redis 核心机制 | 事务：执行序列的原子性、乐观锁与 8.x 条件写 - IT规划师]]></title>
+        <id>https://www.cnblogs.com/hugogoos/p/23723004</id>
+        <link href="https://www.cnblogs.com/hugogoos/p/23723004"/>
+        <updated>2026-11-19T23:07:00.000Z</updated>
+        <summary type="html"><![CDATA[Redis事务（MULTI/EXEC）仅保证命令序列在执行期间不被外部插入，不提供回滚机制。它无法确保“全或无”原子性，运行时错误会导致部分命令生效，需应用层补偿。入队期仅做语法检查，类型错误等在EXEC时才暴露。WATCH可实现乐观锁，但仅在EXEC时验证，且不支持部分取消。高并发多键操作应优先使...]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Golden Dataset vs. Red Teaming Dataset: Why Your AI Agent Needs Both]]></title>
+        <id>https://medium.com/p/348c0a88f295</id>
+        <link href="https://medium.com/@vivekc_66846/golden-dataset-vs-red-teaming-dataset-why-your-ai-agent-needs-both-348c0a88f295?source=rss------redteam-5"/>
+        <updated>2026-11-19T20:04:04.000Z</updated>
+        <summary type="html"><![CDATA[One checks that your agent does its job. The other checks what an attacker could make it do instead. Here’s how they differ, with…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Vivekc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[本体（Ontology）是什么？在 AI 中，本体的作用到底是什么？.md - 九卷沉思录]]></title>
+        <id>https://www.cnblogs.com/jiujuan/p/23725647</id>
+        <link href="https://www.cnblogs.com/jiujuan/p/23725647"/>
+        <updated>2026-11-19T19:18:00.000Z</updated>
+        <summary type="html"><![CDATA[一、什么是本体（Ontology） 在人工智能、知识工程和企业 AI Agent 系统中，本体（Ontology）是一套对现实世界中的业务对象、概念、属性、关系、规则和约束进行结构化定义的知识模型。 简单来说： 本体就是让 AI 知道：企业里有什么东西、这些东西是什么、它们之间有什么关系、它们遵循什]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[又坐了一下午？Tick Rest，一款免费开源的 Mac 休息提醒工具 - fthux]]></title>
+        <id>https://www.cnblogs.com/myvin/p/23723655</id>
+        <link href="https://www.cnblogs.com/myvin/p/23723655"/>
+        <updated>2026-11-19T13:33:00.000Z</updated>
+        <summary type="html"><![CDATA[总想着「忙完这点就休息」，一抬头却已经坐了半天？Tick Rest 是一款免费开源的 macOS 休息提醒工具，支持定时远眺、久坐提醒和番茄工作法。你可以选择小窗或全屏提醒，按自己的作息设置工作时段，也能把休息延后到手头的事告一段落。应用无需注册，设置和休息记录保存在 Mac 本机。]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【轻量化复刻大模型 / KIMI K3】Optimizer 交互式演示 - 罗西的思考]]></title>
+        <id>https://www.cnblogs.com/rossiXYZ/p/23620357</id>
+        <link href="https://www.cnblogs.com/rossiXYZ/p/23620357"/>
+        <updated>2026-11-19T13:10:00.000Z</updated>
+        <summary type="html"><![CDATA[【轻量化复刻大模型 / KIMI K3】Optimizer 交互式演示 目录【轻量化复刻大模型 / KIMI K3】Optimizer 交互式演示0x01 实现概述1.1 做了什么1.2 如何运行1.3 图例0x02 核心数学2.1 总体公式2.2 子机制分解Newton-Schulz 正交化Per]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[二十多个轮子，先交付最吃重的那个：Vane.NET 1.0.0-preview.1 发布 - 风云]]></title>
+        <id>https://www.cnblogs.com/netcasewqs/p/23720752</id>
+        <link href="https://www.cnblogs.com/netcasewqs/p/23720752"/>
+        <updated>2026-11-19T08:32:00.000Z</updated>
+        <summary type="html"><![CDATA[二十多个轮子，先交付最吃重的那个：Vane.NET 1.0.0-preview.1 发布 上一篇交代了二十多个轮子的来历。这一篇轮到 L1，把网络层落到一个能 dotnet add package 的 DLL。 预发布版本：1.0.0-preview.1 目标框架：net10.0 / net11.0]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国自然历史博物馆 x JuiceFS：PB 级科研存储实践 - JuiceFS]]></title>
+        <id>https://www.cnblogs.com/JuiceData/p/23720628</id>
+        <link href="https://www.cnblogs.com/JuiceData/p/23720628"/>
+        <updated>2026-11-19T08:12:00.000Z</updated>
+        <summary type="html"><![CDATA[在天体物理学和基因组学等前沿科学领域，海量数据集的高吞吐量读取和对数据完整性问题的零容忍，是计算分析的生命线。美国自然历史博物馆（AMNH）科学计算团队基于 S3 协议兼容的开放存储网络（OSN），使用 JuiceFS 社区版构建了一套高可靠、低维护的存储系统。 本文总结了他们在约 3PB 研究数据]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[手搓 AI Agent 10：让 Agent 可信——参数级权限、沙箱隔离与人工介入 - 开发者精选资讯]]></title>
         <id>https://www.cnblogs.com/MrHuo/p/23719171/agent-from-scratch-10</id>
