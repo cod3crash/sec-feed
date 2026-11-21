@@ -2,10 +2,256 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cod3crash.github.io/sec-feed/index.html</id>
     <title>security feed</title>
-    <updated>2026-11-20T06:51:59.639Z</updated>
+    <updated>2026-11-21T06:46:59.934Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://cod3crash.github.io/sec-feed/index.html"/>
     <link rel="self" href="https://cod3crash.github.io/sec-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[OpenSSL Said Low. The Aggregators Said 9.8. The Kernel Said 131 KB.]]></title>
+        <id>https://medium.com/p/1e8e02aedf20</id>
+        <link href="https://medium.com/codetodeploy/openssl-said-low-the-aggregators-said-9-8-the-kernel-said-131-kb-1e8e02aedf20?source=rss------bugbounty-5"/>
+        <updated>2026-11-21T06:28:39.000Z</updated>
+        <summary type="html"><![CDATA[Correct verdict, wrong evidence, and a contested claim nobody has reconciled with the kernel.
+Continue reading on CodeToDeploy »]]></summary>
+        <author>
+            <name>Raj Namdev</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Claude Max 容易被封？两个 Claude Pro 账号实现双开 - leikooo]]></title>
+        <id>https://www.cnblogs.com/leikooo/p/23739331</id>
+        <link href="https://www.cnblogs.com/leikooo/p/23739331"/>
+        <updated>2026-11-21T05:23:00.000Z</updated>
+        <summary type="html"><![CDATA[Claude Code Cli 支持通过 CLAUDE_CONFIG_DIR 指定配置目录。 默认情况下，直接在终端输入 claude，使用的是 ~/.claude 目录。这里保存着账号登录状态、配置、历史记录、插件和会话等信息。 所以，想使用第二个 Claude Pro 账号，只需要给它指定一个独]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[My CRTA Journey]]></title>
+        <id>https://medium.com/p/aa7bcd4d59f8</id>
+        <link href="https://kr4k3nn.medium.com/my-crta-journey-aa7bcd4d59f8?source=rss------redteam-5"/>
+        <updated>2026-11-21T04:43:14.000Z</updated>
+        <summary type="html"><![CDATA[I’m Anant Awasthi, a third-semester student with a obsession for cybersecurity and I’ve been spending quite some time exploring it through…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>kr4k3n</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IDOR Explained: The Types, Where It Hides, and How to Find It]]></title>
+        <id>https://medium.com/p/4adfe01b9023</id>
+        <link href="https://medium.com/@vigneshkumaroffsec/idor-explained-the-types-where-it-hides-and-how-to-find-it-4adfe01b9023?source=rss------bugbounty-5"/>
+        <updated>2026-11-21T03:54:33.000Z</updated>
+        <summary type="html"><![CDATA[IDOR is consistently one of the most reported — and best paid — web vulnerabilities, because it’s simple, everywhere, and easy to miss…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Vigneshkumaroffsec</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How I Find Cross-Site Scripting (XSS) Vulnerabilities During Bug Bounty Hunting | By Samadhan…]]></title>
+        <id>https://medium.com/p/562278fa0872</id>
+        <link href="https://samadhanshimple.medium.com/how-i-find-cross-site-scripting-xss-vulnerabilities-during-bug-bounty-hunting-by-samadhan-562278fa0872?source=rss------bugbounty-5"/>
+        <updated>2026-11-21T03:01:03.000Z</updated>
+        <summary type="html"><![CDATA[Cross-Site Scripting (XSS) is one of the vulnerabilities I always keep in mind when testing web applications. It may look like a simple…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Samadhan shimple</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The $1000 IDOR Hiding Behind a Shared AI Chat]]></title>
+        <id>https://medium.com/p/158bf4bd0a93</id>
+        <link href="https://medium.com/@kianoosh.9944/the-1000-idor-hiding-behind-a-shared-ai-chat-158bf4bd0a93?source=rss------bugbounty-5"/>
+        <updated>2026-11-21T02:13:41.000Z</updated>
+        <summary type="html"><![CDATA[How a shared conversation exposed a private skill identifier, and an overlooked endpoint turned that identifier into confidential…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Kianoush</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Critical Linux KVM Vulnerability CVE-2026-99312 Exposes 127GB of Host Memory: Bug Bounty Researcher…]]></title>
+        <id>https://medium.com/p/0929a4584860</id>
+        <link href="https://medium.com/@asadmohsin760/critical-linux-kvm-vulnerability-cve-2026-99312-exposes-127gb-of-host-memory-bug-bounty-researcher-0929a4584860?source=rss------bugbounty-5"/>
+        <updated>2026-11-21T02:05:53.000Z</updated>
+        <summary type="html"><![CDATA[Published: November 21, 2026
+Category: Cybersecurity | CVE | Bug Bounty | Vulnerability Research
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Asad Mohsin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[20. 重新认识三元运算符，不止简单二选一 - 老陈说编程]]></title>
+        <id>https://www.cnblogs.com/halfcode/p/23738353</id>
+        <link href="https://www.cnblogs.com/halfcode/p/23738353"/>
+        <updated>2026-11-21T02:04:00.000Z</updated>
+        <summary type="html"><![CDATA[ArkTS 三元运算符的语法格式为：&#160;condition ? a : b。问号前面是条件。条件是 true，整个式子的值是问号和冒号中间那个；是 false，值是冒号后面那个。 它是表达式，算完有个结果，可以直接写在等号右边。二选一不用再另起一段。 动画视频在《重新认识三元运算符，不止简单二选一》。]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Day 26：数值语义、多币种与计量单位 - Jeff-Tsai]]></title>
+        <id>https://www.cnblogs.com/jeff-tsai/p/23738066/day-26-numeric-semantics</id>
+        <link href="https://www.cnblogs.com/jeff-tsai/p/23738066/day-26-numeric-semantics"/>
+        <updated>2026-11-21T01:07:00.000Z</updated>
+        <summary type="html"><![CDATA[前面几章问的是这个值进不进得去、传不传得到、要不要被记下来。这一篇换一个问题：进去了的那个值代表什么。 一张单据上的数量、单价、金额、折扣率、汇率，在 TableSchema 那份定义里长得几乎一样，都是一个十进制数加一组精度。真正的差别在三个地方：要显示几位、写进去的时候要不要舍、位数由谁说了算。]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mass assignment simplified]]></title>
+        <id>https://medium.com/p/c4bf5b9ca1b1</id>
+        <link href="https://tonettao.medium.com/mass-assignment-simplified-c4bf5b9ca1b1?source=rss------bugbounty-5"/>
+        <updated>2026-11-21T00:14:57.000Z</updated>
+        <summary type="html"><![CDATA[I will start this article by telling you about one of my first bounties. I was testing a change-password and username workflow on a B2B…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>João Tonetto</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Null Byte Injection in Token Name Blocks Admin From Deleting It]]></title>
+        <id>https://medium.com/p/25a4c1c24069</id>
+        <link href="https://medium.com/@islmhmdymhmed/null-byte-injection-in-token-name-blocks-admin-from-deleting-it-25a4c1c24069?source=rss------bugbounty-5"/>
+        <updated>2026-11-20T23:41:38.000Z</updated>
+        <summary type="html"><![CDATA[Always think if the input you give to the app is going to be used in another request as a fetch process
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Islam Hamdy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Breaking a Healthcare Web App: Penetration Testing & Attack Chaining on NileCare]]></title>
+        <id>https://medium.com/p/29d01fe027ec</id>
+        <link href="https://medium.com/@khaledomarabdelmoneam/breaking-a-healthcare-web-app-penetration-testing-attack-chaining-on-nilecare-29d01fe027ec?source=rss------bugbounty-5"/>
+        <updated>2026-11-20T21:59:49.000Z</updated>
+        <summary type="html"><![CDATA[Healthcare web applications sit at the intersection of sensitive personal data, clinical workflows, account privileges, and business logic…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Khaled Elserry</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How a 1 MB Image Caused a Denial of Service]]></title>
+        <id>https://medium.com/p/dce8641fed79</id>
+        <link href="https://medium.com/@clocktower011/how-a-1-mb-image-caused-a-denial-of-service-dce8641fed79?source=rss------bugbounty-5"/>
+        <updated>2026-11-20T21:12:05.000Z</updated>
+        <summary type="html"><![CDATA[A technical breakdown of image decompression, resource exhaustion, and an availability vulnerability in a ticketing application.
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Eduardo Nascimento (retr0)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[源码级拆解：开源 WAF 的底层流控与熔断机制是如何保护后端的？ - anye1991]]></title>
+        <id>https://www.cnblogs.com/anye1991/p/23735610</id>
+        <link href="https://www.cnblogs.com/anye1991/p/23735610"/>
+        <updated>2026-11-20T15:54:00.000Z</updated>
+        <summary type="html"><![CDATA[做后端和运维的老哥应该都有过这种心惊肉跳的经历：某个业务接口突然被大量恶意脚本并发请求，或者某个核心服务突然响应超时。如果没有良好的流控和熔断机制，这种单点故障很快就会引发雪崩效应，导致整个服务器宕机。 在 Web 安全防护中，很多开发者把注意力集中在“防注入”和“防木马”上，却忽略了最基础也是最重]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From Advisories to Fully functioning PoC with no Diffing, only AI]]></title>
+        <id>https://medium.com/p/bc2802b5d14a</id>
+        <link href="https://medium.com/@duncanochieng682/from-advisories-to-fully-functioning-poc-with-no-diffing-only-ai-bc2802b5d14a?source=rss------redteam-5"/>
+        <updated>2026-11-20T15:23:48.000Z</updated>
+        <summary type="html"><![CDATA[I couldn’t find a ready-made PoC or enough practical details to reproduce a Keycloak vulnerability.
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Mr. Robot.txt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[把 Windows 任务栏时钟做成自己的：UCalendar 技术拆解 - ucfar]]></title>
+        <id>https://www.cnblogs.com/ucfar/p/23735400</id>
+        <link href="https://www.cnblogs.com/ucfar/p/23735400"/>
+        <updated>2026-11-20T14:51:00.000Z</updated>
+        <summary type="html"><![CDATA[把 Windows 任务栏时钟做成自己的：UCalendar 技术拆解 任务栏时钟看起来只是一个小功能，实际却同时踩中了 Explorer 注入、Win10 原生窗口、Win11 XAML 树、DPI 适配、单文件资源分发这几块硬骨头。 UCalendar v2.8.3 的重点更新，是任务栏自定义时]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Azure Developer】.NET 10搭建登录认证示例(Identity + JWT + Refresh Token) - 编码者卢布]]></title>
+        <id>https://www.cnblogs.com/lulight/p/23734982</id>
+        <link href="https://www.cnblogs.com/lulight/p/23734982"/>
+        <updated>2026-11-20T13:10:00.000Z</updated>
+        <summary type="html"><![CDATA[本文是一个动手示例，跟随一步一步，可以把项目真正跑起来。 从创建项目开始，实现注册、登录、JWT 验证、Refresh Token 轮换、MCP 鉴权，最后补上一个能实际操作的中文页面。 最终效果：一张动态图看完整流程 动态图：未认证首页 → 注册表单 → 注册成功 → 登录成功 → 获取天气 →]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[姿态是怎么算出来的：互补解算、四元数和欧拉角 - Zw-awa]]></title>
+        <id>https://www.cnblogs.com/zw-awa/p/23735000</id>
+        <link href="https://www.cnblogs.com/zw-awa/p/23735000"/>
+        <updated>2026-11-20T12:23:00.000Z</updated>
+        <summary type="html"><![CDATA[三个角为什么不能直接累加，四元数又凭什么能替它把姿态转过去？合成出来的姿态里，偏航角为什么始终拉不回来——要补上它，还得请谁进门？]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[单模型分层与视频自动生成 - 我才是银古]]></title>
+        <id>https://www.cnblogs.com/znlgis/p/23734333</id>
+        <link href="https://www.cnblogs.com/znlgis/p/23734333"/>
+        <updated>2026-11-20T10:15:00.000Z</updated>
+        <summary type="html"><![CDATA[内容提要 一个模型、四档思考模式的分层与路由依据； 有序权限规则集的求值语义，以及配置方言静默迁移带来的风险； 从零素材到素材剪辑的两条视频生产线：八阶段管线、纯函数渲染、采样级混音、三层质检； 五类画面缺陷的判据来源与三个静默失效的现场； 门禁三档语义（pass / fail / skipped）]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TaurusDB 接入 MaaS：用 SQL 调用大模型，让数据智能融入业务 SQL - 华为云开发者联盟]]></title>
+        <id>https://www.cnblogs.com/huaweiyun/p/23733520</id>
+        <link href="https://www.cnblogs.com/huaweiyun/p/23733520"/>
+        <updated>2026-11-20T09:14:00.000Z</updated>
+        <summary type="html"><![CDATA[文本推理、文本向量化、语义检索与 RAG。 核心能力 文本推理：用 SQL 调用 MaaS，把分类、概括、依据资料回答变成可返回或可保存的文本结果。 文本向量化：原文写入时，向量由 STORED 生成列自动计算并保存，原文与向量同表。 语义检索与 RAG：查询向量取回候选原文，SQL 组料后生成带来]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[二十多个轮子，最吃重的那个凭什么扛住：两条 Pipe、五个命门，[Vane.NET](https://Vane.NET) 内核拆解 - 风云]]></title>
+        <id>https://www.cnblogs.com/netcasewqs/p/23726317</id>
+        <link href="https://www.cnblogs.com/netcasewqs/p/23726317"/>
+        <updated>2026-11-20T09:14:00.000Z</updated>
+        <summary type="html"><![CDATA[上一篇把 1.0.0-preview.1 发出去了。这一篇不写怎么用，把内核拆开：六层分工、三种入口、启动事务、两条 Pipe 的背压、线程归属，还有五条不能碰的命门。]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[办公妙招：CHM已死，但离线手册的需求还在 - tyysoft]]></title>
+        <id>https://www.cnblogs.com/tyysoft/p/23732947</id>
+        <link href="https://www.cnblogs.com/tyysoft/p/23732947"/>
+        <updated>2026-11-20T08:30:00.000Z</updated>
+        <summary type="html"><![CDATA[本文探讨了CHM格式逐渐淘汰后，离线手册在现代办公环境中的持续需求与替代方案。主要内容包括：
+
+1. **CHM的局限**：技术陈旧、兼容性差，且无法满足移动设备阅读需求。  
+2. **离线需求**：企业仍需要可本地存储、免联网查阅的专业文档。  
+3. **现代方案**：推荐使用Markdown...]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Java 后端通用监听回调模式：从 Redis PubSub 落地，看懂所有监听器代码 - SheepDog1998]]></title>
+        <id>https://www.cnblogs.com/SheepDog/p/23732720</id>
+        <link href="https://www.cnblogs.com/SheepDog/p/23732720"/>
+        <updated>2026-11-20T08:16:00.000Z</updated>
+        <summary type="html"><![CDATA[Java 后端通用监听回调模式：从 Redis PubSub 落地，看懂所有监听器代码 摘要 监听回调模式是后端开发里无处不在的基础设计模式，Redis PubSub、RabbitMQ 消费、Spring 事件、WebSocket、Netty IO 回调底层都是同一套思想。很多开发只会复制粘贴监听器]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[浅谈高性能消息中间件kafka---kafka的基础结构 - 王若伊_恩赐解脱]]></title>
         <id>https://www.cnblogs.com/jilodream/p/23731139</id>

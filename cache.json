@@ -5870,6 +5870,96 @@
       "siteUrl": "https://medium.com/tag/bugbounty/latest?source=rss------bugbounty-5",
       "articles": [
         {
+          "id": "https://medium.com/p/1e8e02aedf20",
+          "author": "Raj Namdev",
+          "description": "Correct verdict, wrong evidence, and a contested claim nobody has reconciled with the kernel.\nContinue reading on CodeToDeploy »",
+          "link": "https://medium.com/codetodeploy/openssl-said-low-the-aggregators-said-9-8-the-kernel-said-131-kb-1e8e02aedf20?source=rss------bugbounty-5",
+          "publishedOn": "2026-11-21T06:28:39.000Z",
+          "wordCount": null,
+          "title": "OpenSSL Said Low. The Aggregators Said 9.8. The Kernel Said 131 KB.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/4adfe01b9023",
+          "author": "Vigneshkumaroffsec",
+          "description": "IDOR is consistently one of the most reported — and best paid — web vulnerabilities, because it’s simple, everywhere, and easy to miss…\nContinue reading on Medium »",
+          "link": "https://medium.com/@vigneshkumaroffsec/idor-explained-the-types-where-it-hides-and-how-to-find-it-4adfe01b9023?source=rss------bugbounty-5",
+          "publishedOn": "2026-11-21T03:54:33.000Z",
+          "wordCount": null,
+          "title": "IDOR Explained: The Types, Where It Hides, and How to Find It",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/562278fa0872",
+          "author": "Samadhan shimple",
+          "description": "Cross-Site Scripting (XSS) is one of the vulnerabilities I always keep in mind when testing web applications. It may look like a simple…\nContinue reading on Medium »",
+          "link": "https://samadhanshimple.medium.com/how-i-find-cross-site-scripting-xss-vulnerabilities-during-bug-bounty-hunting-by-samadhan-562278fa0872?source=rss------bugbounty-5",
+          "publishedOn": "2026-11-21T03:01:03.000Z",
+          "wordCount": null,
+          "title": "How I Find Cross-Site Scripting (XSS) Vulnerabilities During Bug Bounty Hunting | By Samadhan…",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/158bf4bd0a93",
+          "author": "Kianoush",
+          "description": "How a shared conversation exposed a private skill identifier, and an overlooked endpoint turned that identifier into confidential…\nContinue reading on Medium »",
+          "link": "https://medium.com/@kianoosh.9944/the-1000-idor-hiding-behind-a-shared-ai-chat-158bf4bd0a93?source=rss------bugbounty-5",
+          "publishedOn": "2026-11-21T02:13:41.000Z",
+          "wordCount": null,
+          "title": "The $1000 IDOR Hiding Behind a Shared AI Chat",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/0929a4584860",
+          "author": "Asad Mohsin",
+          "description": "Published: November 21, 2026\nCategory: Cybersecurity | CVE | Bug Bounty | Vulnerability Research\nContinue reading on Medium »",
+          "link": "https://medium.com/@asadmohsin760/critical-linux-kvm-vulnerability-cve-2026-99312-exposes-127gb-of-host-memory-bug-bounty-researcher-0929a4584860?source=rss------bugbounty-5",
+          "publishedOn": "2026-11-21T02:05:53.000Z",
+          "wordCount": null,
+          "title": "Critical Linux KVM Vulnerability CVE-2026-99312 Exposes 127GB of Host Memory: Bug Bounty Researcher…",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/c4bf5b9ca1b1",
+          "author": "João Tonetto",
+          "description": "I will start this article by telling you about one of my first bounties. I was testing a change-password and username workflow on a B2B…\nContinue reading on Medium »",
+          "link": "https://tonettao.medium.com/mass-assignment-simplified-c4bf5b9ca1b1?source=rss------bugbounty-5",
+          "publishedOn": "2026-11-21T00:14:57.000Z",
+          "wordCount": null,
+          "title": "Mass assignment simplified",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/25a4c1c24069",
+          "author": "Islam Hamdy",
+          "description": "Always think if the input you give to the app is going to be used in another request as a fetch process\nContinue reading on Medium »",
+          "link": "https://medium.com/@islmhmdymhmed/null-byte-injection-in-token-name-blocks-admin-from-deleting-it-25a4c1c24069?source=rss------bugbounty-5",
+          "publishedOn": "2026-11-20T23:41:38.000Z",
+          "wordCount": null,
+          "title": "Null Byte Injection in Token Name Blocks Admin From Deleting It",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/29d01fe027ec",
+          "author": "Khaled Elserry",
+          "description": "Healthcare web applications sit at the intersection of sensitive personal data, clinical workflows, account privileges, and business logic…\nContinue reading on Medium »",
+          "link": "https://medium.com/@khaledomarabdelmoneam/breaking-a-healthcare-web-app-penetration-testing-attack-chaining-on-nilecare-29d01fe027ec?source=rss------bugbounty-5",
+          "publishedOn": "2026-11-20T21:59:49.000Z",
+          "wordCount": null,
+          "title": "Breaking a Healthcare Web App: Penetration Testing & Attack Chaining on NileCare",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/dce8641fed79",
+          "author": "Eduardo Nascimento (retr0)",
+          "description": "A technical breakdown of image decompression, resource exhaustion, and an availability vulnerability in a ticketing application.\nContinue reading on Medium »",
+          "link": "https://medium.com/@clocktower011/how-a-1-mb-image-caused-a-denial-of-service-dce8641fed79?source=rss------bugbounty-5",
+          "publishedOn": "2026-11-20T21:12:05.000Z",
+          "wordCount": null,
+          "title": "How a 1 MB Image Caused a Denial of Service",
+          "imageUrl": null
+        },
+        {
           "id": "https://medium.com/p/ad251de19a39",
           "author": "Akash motkar",
           "description": "Severity: P2 — High (subject to validation)\nVulnerability Type: Authentication Weakness / Improper Session and Token Management\nCWE:\nContinue reading on Medium »",
@@ -20027,6 +20117,26 @@
       "siteUrl": "https://medium.com/tag/redteam/latest?source=rss------redteam-5",
       "articles": [
         {
+          "id": "https://medium.com/p/aa7bcd4d59f8",
+          "author": "kr4k3n",
+          "description": "I’m Anant Awasthi, a third-semester student with a obsession for cybersecurity and I’ve been spending quite some time exploring it through…\nContinue reading on Medium »",
+          "link": "https://kr4k3nn.medium.com/my-crta-journey-aa7bcd4d59f8?source=rss------redteam-5",
+          "publishedOn": "2026-11-21T04:43:14.000Z",
+          "wordCount": null,
+          "title": "My CRTA Journey",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/bc2802b5d14a",
+          "author": "Mr. Robot.txt",
+          "description": "I couldn’t find a ready-made PoC or enough practical details to reproduce a Keycloak vulnerability.\nContinue reading on Medium »",
+          "link": "https://medium.com/@duncanochieng682/from-advisories-to-fully-functioning-poc-with-no-diffing-only-ai-bc2802b5d14a?source=rss------redteam-5",
+          "publishedOn": "2026-11-20T15:23:48.000Z",
+          "wordCount": null,
+          "title": "From Advisories to Fully functioning PoC with no Diffing, only AI",
+          "imageUrl": null
+        },
+        {
           "id": "https://medium.com/p/ba67b3c5e2d7",
           "author": "Red Team HQ",
           "description": "A Beacon Object File is a small .o the implant loads in memory, so the operator gets a command on a host that already called back and…\nContinue reading on Medium »",
@@ -31225,6 +31335,126 @@
       "feedUrl": "https://feed.cnblogs.com/blog/sitehome/rss",
       "siteUrl": null,
       "articles": [
+        {
+          "id": "https://www.cnblogs.com/leikooo/p/23739331",
+          "author": null,
+          "description": "Claude Code Cli 支持通过 CLAUDE_CONFIG_DIR 指定配置目录。 默认情况下，直接在终端输入 claude，使用的是 ~/.claude 目录。这里保存着账号登录状态、配置、历史记录、插件和会话等信息。 所以，想使用第二个 Claude Pro 账号，只需要给它指定一个独",
+          "link": "https://www.cnblogs.com/leikooo/p/23739331",
+          "publishedOn": "2026-11-21T05:23:00.000Z",
+          "wordCount": 930,
+          "title": "Claude Max 容易被封？两个 Claude Pro 账号实现双开 - leikooo",
+          "imageUrl": "https://img2024.cnblogs.com/blog/3674726/202611/3674726-20261121131829358-1689086838.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/halfcode/p/23738353",
+          "author": null,
+          "description": "ArkTS 三元运算符的语法格式为：&#160;condition ? a : b。问号前面是条件。条件是 true，整个式子的值是问号和冒号中间那个；是 false，值是冒号后面那个。 它是表达式，算完有个结果，可以直接写在等号右边。二选一不用再另起一段。 动画视频在《重新认识三元运算符，不止简单二选一》。",
+          "link": "https://www.cnblogs.com/halfcode/p/23738353",
+          "publishedOn": "2026-11-21T02:04:00.000Z",
+          "wordCount": 350,
+          "title": "20. 重新认识三元运算符，不止简单二选一 - 老陈说编程",
+          "imageUrl": "https://img2024.cnblogs.com/blog/1919157/202611/1919157-20261121100234927-1226772611.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/jeff-tsai/p/23738066/day-26-numeric-semantics",
+          "author": null,
+          "description": "前面几章问的是这个值进不进得去、传不传得到、要不要被记下来。这一篇换一个问题：进去了的那个值代表什么。 一张单据上的数量、单价、金额、折扣率、汇率，在 TableSchema 那份定义里长得几乎一样，都是一个十进制数加一组精度。真正的差别在三个地方：要显示几位、写进去的时候要不要舍、位数由谁说了算。",
+          "link": "https://www.cnblogs.com/jeff-tsai/p/23738066/day-26-numeric-semantics",
+          "publishedOn": "2026-11-21T01:07:00.000Z",
+          "wordCount": 505,
+          "title": "Day 26：数值语义、多币种与计量单位 - Jeff-Tsai",
+          "imageUrl": "https://img2024.cnblogs.com/blog/3864267/202611/3864267-20261121090701397-1017400140.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/anye1991/p/23735610",
+          "author": null,
+          "description": "做后端和运维的老哥应该都有过这种心惊肉跳的经历：某个业务接口突然被大量恶意脚本并发请求，或者某个核心服务突然响应超时。如果没有良好的流控和熔断机制，这种单点故障很快就会引发雪崩效应，导致整个服务器宕机。 在 Web 安全防护中，很多开发者把注意力集中在“防注入”和“防木马”上，却忽略了最基础也是最重",
+          "link": "https://www.cnblogs.com/anye1991/p/23735610",
+          "publishedOn": "2026-11-20T15:54:00.000Z",
+          "wordCount": 407,
+          "title": "源码级拆解：开源 WAF 的底层流控与熔断机制是如何保护后端的？ - anye1991",
+          "imageUrl": "https://img2024.cnblogs.com/blog/3862860/202611/3862860-20261120235410725-1239980518.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/ucfar/p/23735400",
+          "author": null,
+          "description": "把 Windows 任务栏时钟做成自己的：UCalendar 技术拆解 任务栏时钟看起来只是一个小功能，实际却同时踩中了 Explorer 注入、Win10 原生窗口、Win11 XAML 树、DPI 适配、单文件资源分发这几块硬骨头。 UCalendar v2.8.3 的重点更新，是任务栏自定义时",
+          "link": "https://www.cnblogs.com/ucfar/p/23735400",
+          "publishedOn": "2026-11-20T14:51:00.000Z",
+          "wordCount": 693,
+          "title": "把 Windows 任务栏时钟做成自己的：UCalendar 技术拆解 - ucfar",
+          "imageUrl": "https://img2024.cnblogs.com/blog/32765/202611/32765-20261120225049721-1657742300.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/lulight/p/23734982",
+          "author": null,
+          "description": "本文是一个动手示例，跟随一步一步，可以把项目真正跑起来。 从创建项目开始，实现注册、登录、JWT 验证、Refresh Token 轮换、MCP 鉴权，最后补上一个能实际操作的中文页面。 最终效果：一张动态图看完整流程 动态图：未认证首页 → 注册表单 → 注册成功 → 登录成功 → 获取天气 →",
+          "link": "https://www.cnblogs.com/lulight/p/23734982",
+          "publishedOn": "2026-11-20T13:10:00.000Z",
+          "wordCount": 2827,
+          "title": "【Azure Developer】.NET 10搭建登录认证示例(Identity + JWT + Refresh Token) - 编码者卢布",
+          "imageUrl": "https://img2024.cnblogs.com/blog/2127802/202611/2127802-20261120201212973-1573053826.gif"
+        },
+        {
+          "id": "https://www.cnblogs.com/zw-awa/p/23735000",
+          "author": null,
+          "description": "三个角为什么不能直接累加，四元数又凭什么能替它把姿态转过去？合成出来的姿态里，偏航角为什么始终拉不回来——要补上它，还得请谁进门？",
+          "link": "https://www.cnblogs.com/zw-awa/p/23735000",
+          "publishedOn": "2026-11-20T12:23:00.000Z",
+          "wordCount": 3716,
+          "title": "姿态是怎么算出来的：互补解算、四元数和欧拉角 - Zw-awa",
+          "imageUrl": "https://img2024.cnblogs.com/blog/3791643/202611/3791643-20261120201630660-1992663058.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/znlgis/p/23734333",
+          "author": null,
+          "description": "内容提要 一个模型、四档思考模式的分层与路由依据； 有序权限规则集的求值语义，以及配置方言静默迁移带来的风险； 从零素材到素材剪辑的两条视频生产线：八阶段管线、纯函数渲染、采样级混音、三层质检； 五类画面缺陷的判据来源与三个静默失效的现场； 门禁三档语义（pass / fail / skipped）",
+          "link": "https://www.cnblogs.com/znlgis/p/23734333",
+          "publishedOn": "2026-11-20T10:15:00.000Z",
+          "wordCount": 854,
+          "title": "单模型分层与视频自动生成 - 我才是银古",
+          "imageUrl": "https://img2024.cnblogs.com/blog/300497/202611/300497-20261120181037170-1028958535.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/huaweiyun/p/23733520",
+          "author": null,
+          "description": "文本推理、文本向量化、语义检索与 RAG。 核心能力 文本推理：用 SQL 调用 MaaS，把分类、概括、依据资料回答变成可返回或可保存的文本结果。 文本向量化：原文写入时，向量由 STORED 生成列自动计算并保存，原文与向量同表。 语义检索与 RAG：查询向量取回候选原文，SQL 组料后生成带来",
+          "link": "https://www.cnblogs.com/huaweiyun/p/23733520",
+          "publishedOn": "2026-11-20T09:14:00.000Z",
+          "wordCount": 1027,
+          "title": "TaurusDB 接入 MaaS：用 SQL 调用大模型，让数据智能融入业务 SQL - 华为云开发者联盟",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/netcasewqs/p/23726317",
+          "author": null,
+          "description": "上一篇把 1.0.0-preview.1 发出去了。这一篇不写怎么用，把内核拆开：六层分工、三种入口、启动事务、两条 Pipe 的背压、线程归属，还有五条不能碰的命门。",
+          "link": "https://www.cnblogs.com/netcasewqs/p/23726317",
+          "publishedOn": "2026-11-20T09:14:00.000Z",
+          "wordCount": 961,
+          "title": "二十多个轮子，最吃重的那个凭什么扛住：两条 Pipe、五个命门，[Vane.NET](https://Vane.NET) 内核拆解 - 风云",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/tyysoft/p/23732947",
+          "author": null,
+          "description": "本文探讨了CHM格式逐渐淘汰后，离线手册在现代办公环境中的持续需求与替代方案。主要内容包括：\n\n1. **CHM的局限**：技术陈旧、兼容性差，且无法满足移动设备阅读需求。  \n2. **离线需求**：企业仍需要可本地存储、免联网查阅的专业文档。  \n3. **现代方案**：推荐使用Markdown...",
+          "link": "https://www.cnblogs.com/tyysoft/p/23732947",
+          "publishedOn": "2026-11-20T08:30:00.000Z",
+          "wordCount": 367,
+          "title": "办公妙招：CHM已死，但离线手册的需求还在 - tyysoft",
+          "imageUrl": "https://img2024.cnblogs.com/blog/3366088/202611/3366088-20261120162706769-230048958.webp"
+        },
+        {
+          "id": "https://www.cnblogs.com/SheepDog/p/23732720",
+          "author": null,
+          "description": "Java 后端通用监听回调模式：从 Redis PubSub 落地，看懂所有监听器代码 摘要 监听回调模式是后端开发里无处不在的基础设计模式，Redis PubSub、RabbitMQ 消费、Spring 事件、WebSocket、Netty IO 回调底层都是同一套思想。很多开发只会复制粘贴监听器",
+          "link": "https://www.cnblogs.com/SheepDog/p/23732720",
+          "publishedOn": "2026-11-20T08:16:00.000Z",
+          "wordCount": 717,
+          "title": "Java 后端通用监听回调模式：从 Redis PubSub 落地，看懂所有监听器代码 - SheepDog1998",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
         {
           "id": "https://www.cnblogs.com/jilodream/p/23731139",
           "author": null,
