@@ -2,10 +2,457 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cod3crash.github.io/sec-feed/index.html</id>
     <title>security feed</title>
-    <updated>2026-11-21T06:46:59.934Z</updated>
+    <updated>2026-11-22T06:17:09.966Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://cod3crash.github.io/sec-feed/index.html"/>
     <link rel="self" href="https://cod3crash.github.io/sec-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Give Gemini 4 Neon the bug nobody has reported yet]]></title>
+        <id>https://medium.com/p/0408d05e3e20</id>
+        <link href="https://medium.com/@secops-vti/give-gemini-4-neon-the-bug-nobody-has-reported-yet-0408d05e3e20?source=rss------bugbounty-5"/>
+        <updated>2026-11-22T04:56:58.000Z</updated>
+        <summary type="html"><![CDATA[An unreachable retry limit shows what a new benchmark can reveal about where Google’s model beats Claude Opus 5.5.
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Vendor Trust Index</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI扫漏洞全是误报？这个开源项目靠"真实复现"，让AI漏洞扫描真正靠谱了 - chingho]]></title>
+        <id>https://www.cnblogs.com/chingho/p/23745237</id>
+        <link href="https://www.cnblogs.com/chingho/p/23745237"/>
+        <updated>2026-11-22T04:55:00.000Z</updated>
+        <summary type="html"><![CDATA[上周我让 AI 给一个老项目做安全自查，报告第一条就写着&quot;高危：越权访问&quot;。我点进去想看证据——哪条请求、哪个响应？什么都没有，只有一句结论。一下午挨个手工复现，最后大半是误报。 让 AI 扫自己的系统不算新鲜事。麻烦的是扫完之后——报告哗哗列了几十条，条条看着都吓人，可你不知道哪条是真的、哪条该先]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[不想改造应用、也不想装 IIS：一个 178 行的 Windows 进程守护服务 - 源动力技术栈]]></title>
+        <id>https://www.cnblogs.com/fxwap/p/23745214</id>
+        <link href="https://www.cnblogs.com/fxwap/p/23745214"/>
+        <updated>2026-11-22T04:45:00.000Z</updated>
+        <summary type="html"><![CDATA[现场工控机上的控制台程序重启就没了，改造它要动别人的源码，装 IIS 又太重。这篇复盘一个 178 行的 Worker Service 看门狗：同一个 exe 双击是控制台、注册成服务，5 秒轮询进程表，按完整路径判活，进程不在就拉回来。附配置、注册脚本与真实运行日志，也写清它在 Session 0...]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I built a free, open-source Burp Suite alternative with an AI agent inside]]></title>
+        <id>https://medium.com/p/9df89971f8c9</id>
+        <link href="https://infosecwriteups.com/i-built-a-free-open-source-burp-suite-alternative-with-an-ai-agent-inside-9df89971f8c9?source=rss------bugbounty-5"/>
+        <updated>2026-11-22T03:50:01.000Z</updated>
+        <summary type="html"><![CDATA[If you’ve done any web security testing, you’ve used Burp Suite. It’s the standard for good reason. But if you’re on the free Community…
+Continue reading on InfoSec Write-ups »]]></summary>
+        <author>
+            <name>Ajay Gautam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SSRF in AI-Powered Applications: The Bug Most Bug Hunters Should Start Understanding in 2026]]></title>
+        <id>https://medium.com/p/f218fdb69cb5</id>
+        <link href="https://osintteam.blog/ssrf-in-ai-powered-applications-the-bug-most-bug-hunters-should-start-understanding-in-2026-f218fdb69cb5?source=rss------bugbounty-5"/>
+        <updated>2026-11-22T03:13:35.000Z</updated>
+        <summary type="html"><![CDATA[AI applications are creating new attack surfaces. Here’s how to understand SSRF, identify risky features, test them safely, and write a…
+Continue reading on OSINT Team »]]></summary>
+        <author>
+            <name>Monika</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JWT Attacks Explained: How JSON Web Tokens Get Forged, and How to Secure Them]]></title>
+        <id>https://medium.com/p/b47eeb5ac00d</id>
+        <link href="https://medium.com/@vigneshkumaroffsec/jwt-attacks-explained-how-json-web-tokens-get-forged-and-how-to-secure-them-b47eeb5ac00d?source=rss------bugbounty-5"/>
+        <updated>2026-11-22T02:18:50.000Z</updated>
+        <summary type="html"><![CDATA[A JWT is only as trustworthy as its signature check — and that check is wrong more often than you’d think. Here are the ways JWTs get…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Vigneshkumaroffsec</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新增办理动词只写 Core：SailFlow 动作骨架、同事务信封与 Sync 钩子自锁治理 - sleveen]]></title>
+        <id>https://www.cnblogs.com/sleveen/p/23744475</id>
+        <link href="https://www.cnblogs.com/sleveen/p/23744475"/>
+        <updated>2026-11-22T01:53:00.000Z</updated>
+        <summary type="html"><![CDATA[面向嵌入 SailFlow、开发自定义 Hook 与流转语义的.NET 开发者。在补齐中国式 OA 全套办理动词之后，本文拆解引擎底层实现：三族群 Action 动作骨架实现新增动词仅需编写 Core 业务逻辑；依靠**同事务信封**杜绝流程 “半成功” 数据不一致残局；复盘 Sync 钩子新开连接...]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Attackers Only Knocked. We Broke the Door Ourselves.]]></title>
+        <id>https://medium.com/p/05812288c394</id>
+        <link href="https://wiiwrite.medium.com/the-attackers-only-knocked-we-broke-the-door-ourselves-05812288c394?source=rss------bugbounty-5"/>
+        <updated>2026-11-21T22:38:45.000Z</updated>
+        <summary type="html"><![CDATA[Nov 21, 2026
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>KWJ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Inside Android’s Storage]]></title>
+        <id>https://medium.com/p/24ef44b71c0f</id>
+        <link href="https://medium.com/@mohaba746/inside-androids-storage-24ef44b71c0f?source=rss------bugbounty-5"/>
+        <updated>2026-11-21T19:33:29.000Z</updated>
+        <summary type="html"><![CDATA[Private storage, public consequences.
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Muhab A.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How a Next.js CDN Proxy Turned Into a One-Click Account Takeover]]></title>
+        <id>https://medium.com/p/dd8bc8dd9fde</id>
+        <link href="https://medium.com/@r3dd404/how-a-next-js-cdn-proxy-turned-into-a-one-click-account-takeover-dd8bc8dd9fde?source=rss------bugbounty-5"/>
+        <updated>2026-11-21T18:12:52.000Z</updated>
+        <summary type="html"><![CDATA[A Next.js rewrite rule proxied decentralized storage content through the target’s origin. Since the storage network is permissionless —…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>R3DD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Indirect Prompt Injection via RAG: Poisoning the Knowledge Base]]></title>
+        <id>https://medium.com/p/7c4ef166beaa</id>
+        <link href="https://silent-root.medium.com/indirect-prompt-injection-via-rag-poisoning-the-knowledge-base-7c4ef166beaa?source=rss------redteam-5"/>
+        <updated>2026-11-21T17:43:27.000Z</updated>
+        <summary type="html"><![CDATA[One Poisoned File, Full Bot Hijack
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Silent-Root</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anatomy of an HTTP Request (Part 3): Web Application Firewalls, Parser Differentials, and Breaking…]]></title>
+        <id>https://medium.com/p/94cdfa04205c</id>
+        <link href="https://medium.com/@extraterrestrial2342/anatomy-of-an-http-request-part-3-web-application-firewalls-parser-differentials-and-breaking-94cdfa04205c?source=rss------bugbounty-5"/>
+        <updated>2026-11-21T16:03:13.000Z</updated>
+        <summary type="html"><![CDATA[In Part 1, our request resolved a domain through DNS. In Part 2, it completed TCP and TLS handshakes and passed through the CDN cache…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Sahil</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Recruit | TryHackMe]]></title>
+        <id>https://medium.com/p/2b05d9c44918</id>
+        <link href="https://medium.com/@shridharan41/recruit-tryhackme-2b05d9c44918?source=rss------redteam-5"/>
+        <updated>2026-11-21T15:30:53.000Z</updated>
+        <summary type="html"><![CDATA[Recruit has just launched its new recruitment portal, allowing HR staff to manage candidate applications and administrators to oversee…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>5hr1d</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Dark Side of AI Security | part3]]></title>
+        <id>https://medium.com/p/3eddf1edcd20</id>
+        <link href="https://medium.com/@ksreemosmar/the-dark-side-of-ai-security-part3-3eddf1edcd20?source=rss------bugbounty-5"/>
+        <updated>2026-11-21T15:28:18.000Z</updated>
+        <summary type="html"><![CDATA[Introduction to Large Language Models (LLMs)
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Z3DX</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WhatsApp Fixes 3 Security Flaws | Android Bug Suspected of Use in Scams]]></title>
+        <id>https://medium.com/p/8c1cd3aebef3</id>
+        <link href="https://medium.com/@pentesterclubpvtltd/whatsapp-fixes-3-security-flaws-android-bug-suspected-of-use-in-scams-8c1cd3aebef3?source=rss------bugbounty-5"/>
+        <updated>2026-11-21T15:23:58.000Z</updated>
+        <summary type="html"><![CDATA[Subtitle: What the November 2026 disclosures reveal about an IP-address leak, a malicious order-details message, and a…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Pentester Club</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为什么PPO难以做出顶级棋类引擎 - 戴·菲瑜]]></title>
+        <id>https://www.cnblogs.com/strawberryPudding/p/23741963</id>
+        <link href="https://www.cnblogs.com/strawberryPudding/p/23741963"/>
+        <updated>2026-11-21T15:21:00.000Z</updated>
+        <summary type="html"><![CDATA[为什么 PPO 难以做出顶级棋类引擎 一个中国象棋项目的实验复盘：从复现腾讯的「无搜索象棋 AI」，到把 PPO 模型接进 αβ、MCTS、BFMS 三种搜索，搜索全部失败。 本文只讲一条主线：PPO 优化的是&quot;最优解&quot;，而所有搜索算法需要的是&quot;全宽度排序&quot;。 文中所有数字都来自本项目的实测（等节点]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[14/14 on HTB CPTS, First Attempt: What Actually Mattered]]></title>
+        <id>https://medium.com/p/34ab2910551b</id>
+        <link href="https://infosecwriteups.com/14-14-on-htb-cpts-first-attempt-what-actually-mattered-34ab2910551b?source=rss----7b722bfd1b8d---4"/>
+        <updated>2026-11-21T14:45:24.000Z</updated>
+        <author>
+            <name>Ashish Bogati</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[14/14 on HTB CPTS, First Attempt: What Actually Mattered]]></title>
+        <id>https://medium.com/p/34ab2910551b</id>
+        <link href="https://infosecwriteups.com/14-14-on-htb-cpts-first-attempt-what-actually-mattered-34ab2910551b?source=rss----7b722bfd1b8d---4"/>
+        <updated>2026-11-21T14:45:24.000Z</updated>
+        <author>
+            <name>Ashish Bogati</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI Red Teaming: Persistent Injection]]></title>
+        <id>https://medium.com/p/f1f5c8aeffcf</id>
+        <link href="https://infosecwriteups.com/ai-red-teaming-persistent-injection-f1f5c8aeffcf?source=rss----7b722bfd1b8d---4"/>
+        <updated>2026-11-21T14:43:59.000Z</updated>
+        <author>
+            <name>hosein vita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI Red Teaming: Persistent Injection]]></title>
+        <id>https://medium.com/p/f1f5c8aeffcf</id>
+        <link href="https://infosecwriteups.com/ai-red-teaming-persistent-injection-f1f5c8aeffcf?source=rss----7b722bfd1b8d---4"/>
+        <updated>2026-11-21T14:43:59.000Z</updated>
+        <author>
+            <name>hosein vita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bypassing the Frontend Obfuscation: How I Uncovered a Company’s Entire Internal Architecture…]]></title>
+        <id>https://medium.com/p/da95e27668c9</id>
+        <link href="https://infosecwriteups.com/bypassing-the-frontend-obfuscation-how-i-uncovered-a-companys-entire-internal-architecture-da95e27668c9?source=rss----7b722bfd1b8d---4"/>
+        <updated>2026-11-21T14:43:44.000Z</updated>
+        <author>
+            <name>Priyansh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bypassing the Frontend Obfuscation: How I Uncovered a Company’s Entire Internal Architecture…]]></title>
+        <id>https://medium.com/p/da95e27668c9</id>
+        <link href="https://infosecwriteups.com/bypassing-the-frontend-obfuscation-how-i-uncovered-a-companys-entire-internal-architecture-da95e27668c9?source=rss----7b722bfd1b8d---4"/>
+        <updated>2026-11-21T14:43:44.000Z</updated>
+        <author>
+            <name>Priyansh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[admin:admin123 — How Default Keycloak Credentials on a Cargo Training Environment Exposed 766…]]></title>
+        <id>https://medium.com/p/f026dcf45023</id>
+        <link href="https://infosecwriteups.com/admin-admin123-how-default-keycloak-credentials-on-a-cargo-training-environment-exposed-766-f026dcf45023?source=rss----7b722bfd1b8d---4"/>
+        <updated>2026-11-21T14:42:12.000Z</updated>
+        <author>
+            <name>Priyansh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[admin:admin123 — How Default Keycloak Credentials on a Cargo Training Environment Exposed 766…]]></title>
+        <id>https://medium.com/p/f026dcf45023</id>
+        <link href="https://infosecwriteups.com/admin-admin123-how-default-keycloak-credentials-on-a-cargo-training-environment-exposed-766-f026dcf45023?source=rss----7b722bfd1b8d---4"/>
+        <updated>2026-11-21T14:42:12.000Z</updated>
+        <author>
+            <name>Priyansh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How a Silent Websocket Led Me to Unauthenticated Uploads on a University’s Exam Platform]]></title>
+        <id>https://medium.com/p/c34120be1492</id>
+        <link href="https://infosecwriteups.com/the-anonymous-5-gb-file-host-that-almost-wasnt-how-a-silent-websocket-led-me-to-unauthenticated-c34120be1492?source=rss----7b722bfd1b8d---4"/>
+        <updated>2026-11-21T14:41:33.000Z</updated>
+        <author>
+            <name>Priyansh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How a Silent Websocket Led Me to Unauthenticated Uploads on a University’s Exam Platform]]></title>
+        <id>https://medium.com/p/c34120be1492</id>
+        <link href="https://infosecwriteups.com/the-anonymous-5-gb-file-host-that-almost-wasnt-how-a-silent-websocket-led-me-to-unauthenticated-c34120be1492?source=rss----7b722bfd1b8d---4"/>
+        <updated>2026-11-21T14:41:33.000Z</updated>
+        <author>
+            <name>Priyansh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PHP2Shell: Practical RCE Reproduction in a Docker Lab]]></title>
+        <id>https://medium.com/p/fc00fb2a8cf8</id>
+        <link href="https://infosecwriteups.com/php2shell-practical-rce-reproduction-in-a-docker-lab-fc00fb2a8cf8?source=rss----7b722bfd1b8d---4"/>
+        <updated>2026-11-21T14:40:02.000Z</updated>
+        <author>
+            <name>Abhilash H</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PHP2Shell: Practical RCE Reproduction in a Docker Lab]]></title>
+        <id>https://medium.com/p/fc00fb2a8cf8</id>
+        <link href="https://infosecwriteups.com/php2shell-practical-rce-reproduction-in-a-docker-lab-fc00fb2a8cf8?source=rss----7b722bfd1b8d---4"/>
+        <updated>2026-11-21T14:40:02.000Z</updated>
+        <author>
+            <name>Abhilash H</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Bare LLM: Manipulating the CloudBank Chatbot (Part 2)]]></title>
+        <id>https://medium.com/p/8efbc92666a7</id>
+        <link href="https://infosecwriteups.com/inside-the-bare-llm-manipulating-the-cloudbank-chatbot-part-2-8efbc92666a7?source=rss----7b722bfd1b8d---4"/>
+        <updated>2026-11-21T14:38:17.000Z</updated>
+        <author>
+            <name>Irem Bezci</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Bare LLM: Manipulating the CloudBank Chatbot (Part 2)]]></title>
+        <id>https://medium.com/p/8efbc92666a7</id>
+        <link href="https://infosecwriteups.com/inside-the-bare-llm-manipulating-the-cloudbank-chatbot-part-2-8efbc92666a7?source=rss----7b722bfd1b8d---4"/>
+        <updated>2026-11-21T14:38:17.000Z</updated>
+        <author>
+            <name>Irem Bezci</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Bare LLM: Attacking and Securing the FruitMart Chatbot (Part 1)]]></title>
+        <id>https://medium.com/p/4eabe9ad5bbe</id>
+        <link href="https://infosecwriteups.com/inside-the-bare-llm-attacking-and-securing-the-fruitmart-chatbot-part-1-4eabe9ad5bbe?source=rss----7b722bfd1b8d---4"/>
+        <updated>2026-11-21T14:38:09.000Z</updated>
+        <author>
+            <name>Irem Bezci</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Bare LLM: Attacking and Securing the FruitMart Chatbot (Part 1)]]></title>
+        <id>https://medium.com/p/4eabe9ad5bbe</id>
+        <link href="https://infosecwriteups.com/inside-the-bare-llm-attacking-and-securing-the-fruitmart-chatbot-part-1-4eabe9ad5bbe?source=rss----7b722bfd1b8d---4"/>
+        <updated>2026-11-21T14:38:09.000Z</updated>
+        <author>
+            <name>Irem Bezci</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Passing the OSEP: Course Review and Exam Preparation tips]]></title>
+        <id>https://medium.com/p/167f987251f4</id>
+        <link href="https://infosecwriteups.com/passing-the-osep-course-review-and-exam-preparation-tips-167f987251f4?source=rss----7b722bfd1b8d---4"/>
+        <updated>2026-11-21T14:38:00.000Z</updated>
+        <author>
+            <name>vastzero</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Passing the OSEP: Course Review and Exam Preparation tips]]></title>
+        <id>https://medium.com/p/167f987251f4</id>
+        <link href="https://infosecwriteups.com/passing-the-osep-course-review-and-exam-preparation-tips-167f987251f4?source=rss----7b722bfd1b8d---4"/>
+        <updated>2026-11-21T14:38:00.000Z</updated>
+        <author>
+            <name>vastzero</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[My Journey To Conquering The OSCE3]]></title>
+        <id>https://medium.com/p/e4cb5d68467b</id>
+        <link href="https://infosecwriteups.com/my-journey-to-conquering-the-osce3-e4cb5d68467b?source=rss----7b722bfd1b8d---4"/>
+        <updated>2026-11-21T14:37:19.000Z</updated>
+        <author>
+            <name>vastzero</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[My Journey To Conquering The OSCE3]]></title>
+        <id>https://medium.com/p/e4cb5d68467b</id>
+        <link href="https://infosecwriteups.com/my-journey-to-conquering-the-osce3-e4cb5d68467b?source=rss----7b722bfd1b8d---4"/>
+        <updated>2026-11-21T14:37:19.000Z</updated>
+        <author>
+            <name>vastzero</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DarkCorp (HTB): Turning a 0-Click Roundcube XSS into an Active Directory Kerberos Relay]]></title>
+        <id>https://medium.com/p/d4d83270acee</id>
+        <link href="https://medium.com/@TheOniOne/darkcorp-htb-turning-a-0-click-roundcube-xss-into-an-active-directory-kerberos-relay-d4d83270acee?source=rss------redteam-5"/>
+        <updated>2026-11-21T14:30:31.000Z</updated>
+        <summary type="html"><![CDATA[Every step of an Insane Active Directory chain, with notes on the telemetry it leaves and a quieter way to run it.
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>x0n1</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[云台是什么？舵机、步进、无刷电机一篇讲透，从控制原理到选型避坑 - Zw-awa]]></title>
+        <id>https://www.cnblogs.com/zw-awa/p/23741503</id>
+        <link href="https://www.cnblogs.com/zw-awa/p/23741503"/>
+        <updated>2026-11-21T13:47:00.000Z</updated>
+        <summary type="html"><![CDATA[姿态算出来了，屏幕上那三个角跟着手动，可它只是三个数。从“知道现在歪成什么样”到“真的转过去”，中间还差什么，舵机、步进、无刷又该按什么来挑？]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Part 3: Every System Tells On Itself: Packages, Logs and Regex]]></title>
+        <id>https://medium.com/p/ed58001c8904</id>
+        <link href="https://medium.com/@stevenwael371/part-3-every-system-tells-on-itself-packages-logs-and-regex-ed58001c8904?source=rss------redteam-5"/>
+        <updated>2026-11-21T13:19:45.000Z</updated>
+        <summary type="html"><![CDATA[Failed logins, crashed services, midnight requests: Linux writes it all down. Here’s how to read it.
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Steven Wael</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Part 2: What’s Running on This Machine? Processes, Services and Cron]]></title>
+        <id>https://medium.com/p/32b4d8cba89f</id>
+        <link href="https://medium.com/@stevenwael371/part-2-whats-running-on-this-machine-processes-services-and-cron-32b4d8cba89f?source=rss------redteam-5"/>
+        <updated>2026-11-21T13:10:32.000Z</updated>
+        <summary type="html"><![CDATA[An idle server, a spinning fan, and a process nobody started. Here’s how to find out what’s running and who launched it.
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Steven Wael</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Changing Findings Between Retests Cost Pentest Teams More Than They Think]]></title>
+        <id>https://medium.com/p/766047779eca</id>
+        <link href="https://medium.com/@cyver/why-changing-findings-between-retests-cost-pentest-teams-more-than-they-think-766047779eca?source=rss------redteam-5"/>
+        <updated>2026-11-21T12:47:03.000Z</updated>
+        <summary type="html"><![CDATA[Findings that change between retests usually mean the process is working. A vulnerability gets fixed, a severity is revised after new…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Luis Abreu from Cyver</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Exposure Is Not Risk: Why Pentest Findings Need Exploitability Context]]></title>
+        <id>https://medium.com/p/bc551c987ad9</id>
+        <link href="https://medium.com/@cyver/exposure-is-not-risk-why-pentest-findings-need-exploitability-context-bc551c987ad9?source=rss------redteam-5"/>
+        <updated>2026-11-21T12:45:58.000Z</updated>
+        <summary type="html"><![CDATA[A pentest is meant to show how an attacker could compromise an environment.
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Luis Abreu from Cyver</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Azure Developer】.NET 10 搭建登录认证示例（续）：接入中国区 Microsoft Entra ID - 编码者卢布]]></title>
+        <id>https://www.cnblogs.com/lulight/p/23740679</id>
+        <link href="https://www.cnblogs.com/lulight/p/23740679"/>
+        <updated>2026-11-21T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[在上一篇 【Azure Developer】.NET 10搭建登录认证示例(Identity + JWT + Refresh Token) 中，使用本地账户登录。这次在同一个项目里加一个入口：用中国区 Microsoft Entra ID 中已有的组织账户登录并认证授权。 本地登录仍然可用。API]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在 Debian 13（内核 6.12）上给绿联 AX900 编译 WiFi 驱动 - oliver2001]]></title>
+        <id>https://www.cnblogs.com/Oliver2001/p/23740058</id>
+        <link href="https://www.cnblogs.com/Oliver2001/p/23740058"/>
+        <updated>2026-11-21T07:44:00.000Z</updated>
+        <summary type="html"><![CDATA[title: 在 Debian 13（内核 6.12）上给绿联 AX900 编译 WiFi 驱动 date: 2026-11-21 tags: [Linux, Debian, 驱动, WiFi, RTL8851BU] 在 Debian 13（内核 6.12）上给绿联 AX900 编译 WiFi 驱动]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【轻量化复刻大模型 / KIMI K3】训练模块梳理 & Muon P2P 优化器 - 罗西的思考]]></title>
+        <id>https://www.cnblogs.com/rossiXYZ/p/23672095</id>
+        <link href="https://www.cnblogs.com/rossiXYZ/p/23672095"/>
+        <updated>2026-11-21T07:09:00.000Z</updated>
+        <summary type="html"><![CDATA[# 【轻量化复现大模型 / KIMI K3】训练模块梳理 &amp; Muon P2P 优化器 目录0x00 论文溯源0.1 原始论文0.2 直接相关的图表0.3 完成度0.4 注意说明0x01 知识点拆解0x02 原理讲解2.1 要解决的问题2.2 思路背后的原理（三视角）2.2.1 直觉视角2.2.2]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[OpenSSL Said Low. The Aggregators Said 9.8. The Kernel Said 131 KB.]]></title>
         <id>https://medium.com/p/1e8e02aedf20</id>
