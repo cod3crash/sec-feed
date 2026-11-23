@@ -3363,6 +3363,26 @@
       "siteUrl": "https://infosecwriteups.com?source=rss----7b722bfd1b8d---4",
       "articles": [
         {
+          "id": "https://medium.com/p/90ffa87b3097",
+          "author": "Mukilan Baskaran",
+          "description": "⏱️ 4 Hours. 🌐 2 Web Applications. 🔓 6 Vulnerabilities. 📝 Zero Reports to Write.\nContinue reading on InfoSec Write-ups »",
+          "link": "https://infosecwriteups.com/how-i-cracked-the-burp-suite-certified-practitioner-bscp-exam-and-how-you-can-too-90ffa87b3097?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2026-11-22T12:13:37.000Z",
+          "wordCount": null,
+          "title": "How I Cracked the Burp Suite Certified Practitioner (BSCP) Exam — And How You Can Too!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/a43fa34ba324",
+          "author": null,
+          "description": "A complete, hands-on guide to hunting hidden SSRF vulnerabilities, bypassing WAFs and filters and escalating impact from cloud metadata…\nContinue reading on InfoSec Write-ups »",
+          "link": "https://infosecwriteups.com/the-ultimate-guide-to-ssrf-hunting-bypassing-and-exploiting-in-modern-bug-bounty-a43fa34ba324?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2026-11-22T12:12:24.000Z",
+          "wordCount": null,
+          "title": "The Ultimate Guide to SSRF: Hunting, Bypassing and Exploiting in Modern Bug Bounty",
+          "imageUrl": null
+        },
+        {
           "id": "https://medium.com/p/34ab2910551b",
           "author": "Ashish Bogati",
           "description": "",
@@ -5969,6 +5989,106 @@
       "feedUrl": "https://medium.com/feed/tag/bugbounty",
       "siteUrl": "https://medium.com/tag/bugbounty/latest?source=rss------bugbounty-5",
       "articles": [
+        {
+          "id": "https://medium.com/p/427e8091f9f3",
+          "author": "Anmol Singh",
+          "description": "A coordinated-disclosure write-up of GHSA-v7hr-xh82–79p7, a High-severity flaw in FreeRDP’s RDP Graphics pipeline.\nContinue reading on Medium »",
+          "link": "https://medium.com/@ts247091/ghosttiles-how-a-stale-frame-id-turned-freerdps-progressive-codec-into-a-resource-amplifier-427e8091f9f3?source=rss------bugbounty-5",
+          "publishedOn": "2026-11-23T06:47:00.000Z",
+          "wordCount": null,
+          "title": "GhostTiles: How a Stale Frame ID Turned FreeRDP’s Progressive Codec into a Resource Amplifier",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/f02126c74139",
+          "author": "Muhammad Asim Shahzad",
+          "description": "A 15-year-old’s Zendesk bug let spoofed replies join any support ticket, and Sign in with Apple turned that into Slack access\nContinue reading on Medium »",
+          "link": "https://masimshahzad.medium.com/zendesk-email-spoofing-from-support-ticket-to-slack-f02126c74139?source=rss------bugbounty-5",
+          "publishedOn": "2026-11-23T05:14:24.000Z",
+          "wordCount": null,
+          "title": "Zendesk Email Spoofing: From Support Ticket to Slack",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/373036855acc",
+          "author": "Muhammad Asim Shahzad",
+          "description": "Salt Labs chained a loose redirect path, an open redirect and a client-supplied URI into one-click Booking.com and Kayak takeover\nContinue reading on Medium »",
+          "link": "https://masimshahzad.medium.com/booking-com-oauth-account-takeover-in-three-small-gaps-373036855acc?source=rss------bugbounty-5",
+          "publishedOn": "2026-11-23T05:08:59.000Z",
+          "wordCount": null,
+          "title": "Booking.com OAuth Account Takeover in Three Small Gaps",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/9ba96a3f97e0",
+          "author": "Muhammad Asim Shahzad",
+          "description": "Coinbase’s largest-ever bounty, $250,000: a trading API checked that you had a balance, never which asset that balance was in\nContinue reading on Medium »",
+          "link": "https://masimshahzad.medium.com/coinbase-bug-bounty-selling-crypto-you-never-owned-9ba96a3f97e0?source=rss------bugbounty-5",
+          "publishedOn": "2026-11-23T05:02:28.000Z",
+          "wordCount": null,
+          "title": "Coinbase Bug Bounty: Selling Crypto You Never Owned",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/b0e41a325934",
+          "author": "ArXiv",
+          "description": "Continue reading on Medium »",
+          "link": "https://arxivgpt.medium.com/i-need-to-flag-a-problem-before-writing-this-article-b0e41a325934?source=rss------bugbounty-5",
+          "publishedOn": "2026-11-23T03:00:15.000Z",
+          "wordCount": null,
+          "title": "I need to flag a problem before writing this article.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/43d041655c37",
+          "author": "iamrudhh",
+          "description": "Most bug bounty wins don’t come from clever payloads. They come from finding the thing nobody else looked at. That’s what recon is for…\nContinue reading on Medium »",
+          "link": "https://iamrudhh.medium.com/day-04-bug-bounty-introduction-to-reconnaissance-43d041655c37?source=rss------bugbounty-5",
+          "publishedOn": "2026-11-23T02:52:43.000Z",
+          "wordCount": null,
+          "title": "Day 04: Bug Bounty: Introduction to Reconnaissance",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/368663c58b95",
+          "author": "Vigneshkumaroffsec",
+          "description": "Send the same request twice at exactly the same moment, and a “one-time” action can happen twice. That’s a race condition — simple…\nContinue reading on Medium »",
+          "link": "https://medium.com/@vigneshkumaroffsec/race-condition-attacks-explained-how-to-find-and-fix-them-368663c58b95?source=rss------bugbounty-5",
+          "publishedOn": "2026-11-23T02:24:14.000Z",
+          "wordCount": null,
+          "title": "Race Condition Attacks Explained: How to Find and Fix Them",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/50b372babfb6",
+          "author": "L4ZZ3RJ0D",
+          "description": "Third one in the API rotation, and this is the one worth teaching to anyone who thinks authorization bugs only happen at flashy startups…\nContinue reading on Medium »",
+          "link": "https://medium.com/@l4zz3rj0d/the-wildcard-parameter-that-exposed-60-million-usps-accounts-50b372babfb6?source=rss------bugbounty-5",
+          "publishedOn": "2026-11-23T00:01:01.000Z",
+          "wordCount": null,
+          "title": "The Wildcard Parameter That Exposed 60 Million USPS Accounts",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/16cbf55b1cd6",
+          "author": "Fady Basem Zaky",
+          "description": "Most bug bounty writeups show you the one bug that paid. This one doesn’t do that. This is the complete field manual behind a six-day…\nContinue reading on Medium »",
+          "link": "https://medium.com/@SilentN0va/six-days-one-target-thirty-six-tests-a-bug-bounty-bootcamp-from-recon-to-report-16cbf55b1cd6?source=rss------bugbounty-5",
+          "publishedOn": "2026-11-22T18:38:49.000Z",
+          "wordCount": null,
+          "title": "Six Days One Target, Thirty-Six Tests: A Bug Bounty Bootcamp From Recon to Report",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/2bf20c6974ea",
+          "author": "Sahil",
+          "description": "In Part 1, our request resolved a domain through DNS. In Part 2, it crossed TCP, TLS termination, and the CDN cache layer. In Part 3, it…\nContinue reading on Medium »",
+          "link": "https://medium.com/@extraterrestrial2342/anatomy-of-an-http-request-part-4-rate-limiters-proxy-trust-boundaries-and-business-logic-2bf20c6974ea?source=rss------bugbounty-5",
+          "publishedOn": "2026-11-22T16:39:33.000Z",
+          "wordCount": null,
+          "title": "Anatomy of an HTTP Request (Part 4): Rate Limiters, Proxy Trust Boundaries, and Business Logic…",
+          "imageUrl": null
+        },
         {
           "id": "https://medium.com/p/0408d05e3e20",
           "author": "Vendor Trust Index",
@@ -20317,6 +20437,46 @@
       "siteUrl": "https://medium.com/tag/redteam/latest?source=rss------redteam-5",
       "articles": [
         {
+          "id": "https://medium.com/p/c9cf04087345",
+          "author": "Red Team HQ",
+          "description": "Overview\nContinue reading on Medium »",
+          "link": "https://medium.com/@nukeratframework/artex-can-now-control-a-c2-and-get-admin-system-access-in-minutes-c9cf04087345?source=rss------redteam-5",
+          "publishedOn": "2026-11-23T02:24:58.000Z",
+          "wordCount": null,
+          "title": "ARTEX can now control a C2 and get ADMIN/SYSTEM access in minutes",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/3c0ebe138dd7",
+          "author": "default",
+          "description": "Domain Trusts in Active Directory\nContinue reading on Medium »",
+          "link": "https://medium.com/@raissiamir797/attacking-active-directory-trust-relationships-3c0ebe138dd7?source=rss------redteam-5",
+          "publishedOn": "2026-11-22T19:14:03.000Z",
+          "wordCount": null,
+          "title": "Attacking Active Directory Trust Relationships",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/1948ee56a52d",
+          "author": "Felipe Nascimento",
+          "description": "Continue reading on Medium »",
+          "link": "https://medium.com/@feeziinhuu/oscp-is-organization-under-a-clock-my-exam-2026-1948ee56a52d?source=rss------redteam-5",
+          "publishedOn": "2026-11-22T14:54:08.000Z",
+          "wordCount": null,
+          "title": "OSCP is organization under a clock (My exam 2026)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/63db8ee3485c",
+          "author": "BloodHound",
+          "description": "The CRTA (Certified Red Team Analyst) from CyberWarFare Labs is a six-hour, fully hands-on, black-box assessment delivered over a…\nContinue reading on Medium »",
+          "link": "https://medium.com/@shaukathamza291/crta-exam-writeup-from-a-single-ssrf-to-domain-admin-63db8ee3485c?source=rss------redteam-5",
+          "publishedOn": "2026-11-22T08:59:05.000Z",
+          "wordCount": null,
+          "title": "CRTA Exam Writeup: From a Single SSRF to Domain Admin",
+          "imageUrl": null
+        },
+        {
           "id": "https://medium.com/p/7c4ef166beaa",
           "author": "Silent-Root",
           "description": "One Poisoned File, Full Bot Hijack\nContinue reading on Medium »",
@@ -27214,6 +27374,26 @@
       "siteUrl": "https://infosecwriteups.com?source=rss----7b722bfd1b8d---4",
       "articles": [
         {
+          "id": "https://medium.com/p/90ffa87b3097",
+          "author": "Mukilan Baskaran",
+          "description": "⏱️ 4 Hours. 🌐 2 Web Applications. 🔓 6 Vulnerabilities. 📝 Zero Reports to Write.\nContinue reading on InfoSec Write-ups »",
+          "link": "https://infosecwriteups.com/how-i-cracked-the-burp-suite-certified-practitioner-bscp-exam-and-how-you-can-too-90ffa87b3097?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2026-11-22T12:13:37.000Z",
+          "wordCount": null,
+          "title": "How I Cracked the Burp Suite Certified Practitioner (BSCP) Exam — And How You Can Too!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/a43fa34ba324",
+          "author": null,
+          "description": "A complete, hands-on guide to hunting hidden SSRF vulnerabilities, bypassing WAFs and filters and escalating impact from cloud metadata…\nContinue reading on InfoSec Write-ups »",
+          "link": "https://infosecwriteups.com/the-ultimate-guide-to-ssrf-hunting-bypassing-and-exploiting-in-modern-bug-bounty-a43fa34ba324?source=rss----7b722bfd1b8d---4",
+          "publishedOn": "2026-11-22T12:12:24.000Z",
+          "wordCount": null,
+          "title": "The Ultimate Guide to SSRF: Hunting, Bypassing and Exploiting in Modern Bug Bounty",
+          "imageUrl": null
+        },
+        {
           "id": "https://medium.com/p/34ab2910551b",
           "author": "Ashish Bogati",
           "description": "",
@@ -31705,6 +31885,206 @@
       "feedUrl": "https://feed.cnblogs.com/blog/sitehome/rss",
       "siteUrl": null,
       "articles": [
+        {
+          "id": "https://www.cnblogs.com/jazz-z/p/23754557",
+          "author": null,
+          "description": "在 .NET 后台开发中，数据库查询结果通常装载在 DataSet / DataTable 中，导出 Excel 是报表、数据导出模块非常常见的需求。 市面上可选方案很多：EPPlus、NPOI、Office Interop 等各有取舍。Interop 需要服务器安装 Office，在服务端部署有较",
+          "link": "https://www.cnblogs.com/jazz-z/p/23754557",
+          "publishedOn": "2026-11-23T06:28:00.000Z",
+          "wordCount": 675,
+          "title": ".NET 数据集导出 Excel：无 Office 依赖实现方案 - LAYONTHEGROUND",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/sadival/p/23753837",
+          "author": null,
+          "description": "（经过我和d老师的不断改良,最终我们发现它的速度哪怕是全量排序他最终也能跑出六十六毫秒的好成绩,哪怕是大样例它的速度也远超sort,所以它的价值还是以比较高的,而且在询问少的时候呢那它的速度更是飞快,所以我们决定在这一版更新那个我和d老师的改良版本,见最后一份代码）。 （修缮：复杂度应为O（n）~O",
+          "link": "https://www.cnblogs.com/sadival/p/23753837",
+          "publishedOn": "2026-11-23T05:37:00.000Z",
+          "wordCount": 3518,
+          "title": "我发明了一个新的排序（二） - sadival",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/jinjiangongzuoshi/p/23753804",
+          "author": null,
+          "description": "让 AI 替人操作电脑这件事，今年想必大家都已经见得太多了，各大厂商模型，包括一些大厂，都出过类似的工具和能力。 业内公认的考场叫 OSWorld，NeurIPS 2024 上发布的基准，369 道真实任务，让 agent 在 Ubuntu 虚拟机里用 LibreOffice、Chrome、GIMP",
+          "link": "https://www.cnblogs.com/jinjiangongzuoshi/p/23753804",
+          "publishedOn": "2026-11-23T05:34:00.000Z",
+          "wordCount": 594,
+          "title": "电脑操作AI超越人类了？这款开源Agent吊打GPT、Claude全自动操控电脑 - 狂师",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/halfcode/p/23752260",
+          "author": null,
+          "description": "switch 后面跟一个表达式。大括号里写 case，每个 case 后面是一个值和冒号。这个值和表达式对上了，就执行冒号后面的代码，碰到 break 就跳出 switch。 动画视频在《ArkTS switch语句实战：case、break、default 全面掌握》。 let day: numb",
+          "link": "https://www.cnblogs.com/halfcode/p/23752260",
+          "publishedOn": "2026-11-23T03:03:00.000Z",
+          "wordCount": 397,
+          "title": "22. ArkTS switch语句实战：case、break、default 全面掌握 - 老陈说编程",
+          "imageUrl": "https://img2024.cnblogs.com/blog/1919157/202611/1919157-20261123110018685-1601841016.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/zrui-xyu/p/23752071",
+          "author": null,
+          "description": "Hive 埋点、MySQL 用户表、Excel 活动配置，老板只要一张城市 GMV 报表，你却要先搭 ETL，再祈祷 JOIN 不 OOM。Dojao 想解决的正是这类问题：一条 SQL 跨源取数，Python 函数直接进 SQL，内存不够就减量溢写。适合被数据孤岛、大查询失败和 JVM UDF 折...",
+          "link": "https://www.cnblogs.com/zrui-xyu/p/23752071",
+          "publishedOn": "2026-11-23T02:54:00.000Z",
+          "wordCount": 1963,
+          "title": "大表 JOIN 不必靠堆内存：Dojao 的跨源 SQL、减量溢写与 Python UDF 实战 - Rain的Java大神实战圈",
+          "imageUrl": "https://img2024.cnblogs.com/blog/739056/202611/739056-20261123105212487-1670817782.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/cmt/p/23751901",
+          "author": null,
+          "description": "热点随笔： &#183; 开源】当桌面图标开始打台球：我用 WinForms 做了一桌“真的”台球 (上位机康工) &#183; 被第三方库坑了二十多年，我把二十多个 .NET 轮子全造了一遍 (风云) &#183; 把一个 5k star 的 Go AI 网关移植到 .NET：为什么我选择用 Orleans 重写它的并发内核",
+          "link": "https://www.cnblogs.com/cmt/p/23751901",
+          "publishedOn": "2026-11-23T02:42:00.000Z",
+          "wordCount": 366,
+          "title": "上周热点回顾（11.16-11.22） - 博客园团队",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/Chillax-KUN/p/23751641",
+          "author": null,
+          "description": "大肥鱼项目实训平台 &#183; 功能全景 把项目镜像变成实训课，把多台服务器变成统一资源池。 多节点部署与自动编排，支持每人一台或小组共用；过程、报告与成绩留痕。 一、平台定位：项目与教学解耦 高校项目实训的难点，不只是讲课和改作业，还包括准备镜像、配置资源、分组、维护环境与保留教学成果。班级增多后，所有环",
+          "link": "https://www.cnblogs.com/Chillax-KUN/p/23751641",
+          "publishedOn": "2026-11-23T02:29:00.000Z",
+          "wordCount": 612,
+          "title": "大肥鱼项目实训平台_v2.0版 - mr_wKong",
+          "imageUrl": "https://img2024.cnblogs.com/blog/457723/202611/457723-20261123103009926-478886239.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/weipt/p/23751304",
+          "author": null,
+          "description": "一、背景：为什么要单独测&#160;DNS&#160;的&#160;53&#160;端口 排查网络问题时，很多人第一反应是&#160;ping。但&#160;ping&#160;通只能说明&#160;ICMP&#160;可达，并不代表&#160;DNS&#160;服务可用。DNS&#160;解析走的是&#160;UDP/TCP&#160;53&#160;端口，如果&#160;53&#160;端口被防火墙拦截、DNS&#160;服务未监听，或者内网&#160;DNS&#160;服务器只放通了&#160;IC",
+          "link": "https://www.cnblogs.com/weipt/p/23751304",
+          "publishedOn": "2026-11-23T02:10:00.000Z",
+          "wordCount": 593,
+          "title": "用 Test-NetConnection 测试内网与公网 DNS 解析是否正常 - weipt",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/cmt/p/23750498",
+          "author": null,
+          "description": "非常抱歉！今天凌晨至早上9点左右，一个部署在 k8s 集群上的 redis 集群出现故障，造成访问博客站点无法正常访问，由此给您带来麻烦，请您谅解。 我们会吸取教训，改进 redis 集群的部署，并改进代码，即使 redis 集群出现故障，也能维持正常访问。",
+          "link": "https://www.cnblogs.com/cmt/p/23750498",
+          "publishedOn": "2026-11-23T01:40:00.000Z",
+          "wordCount": 274,
+          "title": "【故障公告】redis 集群故障造成博客站点无法访问 - 博客园团队",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/codigger/p/23750361",
+          "author": null,
+          "description": "做后端的大概率都写过这段代码：先删缓存，再更新数据库，睡几百毫秒，再删一次。延时双删背起来顺口，真放到线上，问题一个接一个冒出来。 我写商品详情页这种读多写少的场景时，被这套方案坑过不止一次。这篇把缓存一致性从头到尾捋一遍，从怎么选型到异常怎么兜，每个环节的边界尽量说清楚。 一、先想清楚：你要的一致",
+          "link": "https://www.cnblogs.com/codigger/p/23750361",
+          "publishedOn": "2026-11-23T01:25:00.000Z",
+          "wordCount": 325,
+          "title": "如何保证缓存与数据库一致性 - codigger",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/leikooo/p/23750334",
+          "author": null,
+          "description": "每周完成一个 ARTS： 至少做一个 leetcode 的算法题、阅读并点评至少一篇英文技术文章、学习至少一个技术技巧、分享一篇有观点和思考的技术文章。（也就是 Algorithm、Review、Tips、Share 简称 ARTS） Algorithm 这周写这道题目 https://leetco",
+          "link": "https://www.cnblogs.com/leikooo/p/23750334",
+          "publishedOn": "2026-11-23T01:24:00.000Z",
+          "wordCount": 745,
+          "title": "ARTS 1122: 有序数组的双指针、AI 写代码后读懂代码成了瓶颈与路由和 ARP 如何决定下一跳 - leikooo",
+          "imageUrl": "https://img2024.cnblogs.com/blog/3674726/202611/3674726-20261123092121071-843231054.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/dawudexiaowu/p/23750356",
+          "author": null,
+          "description": "训练降验证不动，切勿盲目加正则。本文通过三组真机实验揭示：验证指标停滞的根源多为数据问题（如标签噪声），而非过拟合。加正则反而可能压垮模型真实规律，导致其“躺平”在瞎猜线（如ln(2)）附近。正确判断顺序应为：先看训练验证是否分叉，不分叉是容量不足，分叉则查数据质量；正则仅适用于“训练验证同降后验证...",
+          "link": "https://www.cnblogs.com/dawudexiaowu/p/23750356",
+          "publishedOn": "2026-11-23T01:24:00.000Z",
+          "wordCount": 530,
+          "title": "手把手教你：训练集 loss 一路降，验证集纹丝不动｜AI工程师踩坑实录·第13篇 - 大雾的小屋",
+          "imageUrl": "https://img2024.cnblogs.com/blog/2824078/202611/2824078-20261123092402558-1885710897.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/snidget/p/23750071",
+          "author": null,
+          "description": "01、现场：权重开放不等于明天停机 Hy4 flash开放的是权重，不是一张立刻替换云API的施工单。 官方仓库写明：指令模型、FP8量化指令模型、Base预训练底座三件套已放出，可从Hugging Face、ModelScope、GitCode获取，GitHub提供部署说明。 Base不是对话模型",
+          "link": "https://www.cnblogs.com/snidget/p/23750071",
+          "publishedOn": "2026-11-23T00:46:00.000Z",
+          "wordCount": 339,
+          "title": "100:Hy4 flash权重开源，企业现在就该私有化部署吗？ - 李福春",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/jeff-tsai/p/23750058/day-28-timezone-conversion",
+          "author": null,
+          "description": "数据库存的是 UTC，而且存在不带时区的字段里。换算集中在客户端的 Connector，保存的时间点由服务端决定。",
+          "link": "https://www.cnblogs.com/jeff-tsai/p/23750058/day-28-timezone-conversion",
+          "publishedOn": "2026-11-23T00:44:00.000Z",
+          "wordCount": 483,
+          "title": "Day 28：DateTime 的时区转换 - Jeff-Tsai",
+          "imageUrl": "https://img2024.cnblogs.com/blog/3864267/202611/3864267-20261123084358207-776205668.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/hugogoos/p/23748771",
+          "author": null,
+          "description": "一段脚本可使Redis实例仅响应SCRIPT KILL与SHUTDOWN NOSAVE，因脚本在主线程原子执行，阻塞其他命令。Lua沙箱禁全局变量，返回值遇nil即截断。lua-time-limit仅为告警阈值，不终止脚本；SCRIPT KILL在写入后失效，唯余丢数据一途。EVAL/EVALSHA...",
+          "link": "https://www.cnblogs.com/hugogoos/p/23748771",
+          "publishedOn": "2026-11-22T23:05:00.000Z",
+          "wordCount": 3514,
+          "title": "Redis 核心机制 | Functions 让函数库随数据持久化 - IT规划师",
+          "imageUrl": "https://img2024.cnblogs.com/blog/386841/202611/386841-20261123003805092-246291257.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/anye1991/p/23749314",
+          "author": null,
+          "description": "摘要： 在高并发场景下，嵌入式 WAF 往往因为频繁的磁盘 IO 和文件锁竞争导致业务假死。本文深度剖析开源项目 YSL语枢-盾甲WAF 的底层日志模块，探讨如何通过 atomic write（原子写）、哈希链游标修复以及 tmpfs 内存盘，彻底解决长稳运行时的延迟尖峰问题。 正文： 做后端和运维",
+          "link": "https://www.cnblogs.com/anye1991/p/23749314",
+          "publishedOn": "2026-11-22T19:09:00.000Z",
+          "wordCount": 404,
+          "title": "源码级排坑：高并发下的审计日志与原子写，兼谈 WAF 长稳性能退化修复 - anye1991",
+          "imageUrl": "https://img2024.cnblogs.com/blog/3862860/202611/3862860-20261123030846219-1389302927.png"
+        },
+        {
+          "id": "https://www.cnblogs.com/xiongdy2017/p/23747164",
+          "author": null,
+          "description": "面向 Java 进阶与面试复习，按&quot;问题 → 结构 → 读 → 写 → 迭代器 → 验证 → 边界 → 面试&quot;的顺序由浅入深展开。 目录 一、先搞清楚它解决什么问题 二、两个核心字段撑起整个设计 三、读为什么完全不加锁 四、写操作：锁 + 复制 + 替换 五、迭代器：快照 + 弱一致性 六、可运行验",
+          "link": "https://www.cnblogs.com/xiongdy2017/p/23747164",
+          "publishedOn": "2026-11-22T13:51:00.000Z",
+          "wordCount": 1017,
+          "title": "CopyOnWriteArrayList 底层原理：从\"写时复制\"到源码细节 - 北风2017",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/haoxiaozhang/p/23746624",
+          "author": null,
+          "description": "03 &#183; A2A：跨服务协作与认证授权 读完你会知道： A2A 为什么出现，它和 REST、MCP 的本质区别； 名片 / 信封 / 工单三件套分别解决什么问题； 一次真实调用长什么样，从零写一个 A2A 服务要几步； 身份到底该放在哪：SDK 的四条硬事实，以及为什么元数据到不了工具； 超时与幂等",
+          "link": "https://www.cnblogs.com/haoxiaozhang/p/23746624",
+          "publishedOn": "2026-11-22T10:02:00.000Z",
+          "wordCount": 1156,
+          "title": "A2A：跨服务协作与认证授权 - ZerekZhang",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/learnhow/p/23745932",
+          "author": null,
+          "description": "能力包管得住单个功能，管不住事与事之间：多智能体真正缺的是调度协议——上下文隔离、角色边界、通信权限、对话预算与升级、可审计的交互记录，最后把人放回判断的位置。",
+          "link": "https://www.cnblogs.com/learnhow/p/23745932",
+          "publishedOn": "2026-11-22T07:21:00.000Z",
+          "wordCount": 414,
+          "title": "协调：最后一道人工工序 - 冷豪",
+          "imageUrl": "https://assets.cnblogs.com/images/wechat-share.jpg"
+        },
+        {
+          "id": "https://www.cnblogs.com/rossiXYZ/p/23672118",
+          "author": null,
+          "description": "【轻量化复刻大模型 / KIMI K3】K3 训练模块交互式演示 目录【轻量化复刻大模型 / KIMI K3】K3 训练模块交互式演示0x00 概要0x01 功能概述1.1 本演示包含什么1.2 实现思路1.3 读者能学到什么0x02 核心数学2.1 总体公式2.2 子机制分解2.2.1 学习率调度",
+          "link": "https://www.cnblogs.com/rossiXYZ/p/23672118",
+          "publishedOn": "2026-11-22T07:10:00.000Z",
+          "wordCount": 2934,
+          "title": "【轻量化复刻大模型 / KIMI K3】K3 训练模块交互式演示 - 罗西的思考",
+          "imageUrl": "https://img2024.cnblogs.com/blog/1850883/202611/1850883-20261115153606228-490489086.webp"
+        },
         {
           "id": "https://www.cnblogs.com/chingho/p/23745237",
           "author": null,
