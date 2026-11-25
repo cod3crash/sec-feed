@@ -2,10 +2,337 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cod3crash.github.io/sec-feed/index.html</id>
     <title>security feed</title>
-    <updated>2026-11-24T09:32:35.464Z</updated>
+    <updated>2026-11-25T08:03:53.647Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://cod3crash.github.io/sec-feed/index.html"/>
     <link rel="self" href="https://cod3crash.github.io/sec-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[FastAPI中间件复盘：注册顺序换算、限流分层与SSE直通的三个设计决策 - 万有AI]]></title>
+        <id>https://www.cnblogs.com/wanyouAI/p/23774618</id>
+        <link href="https://www.cnblogs.com/wanyouAI/p/23774618"/>
+        <updated>2026-11-25T06:26:00.000Z</updated>
+        <summary type="html"><![CDATA[背景：中间件一多，顺序就是架构 FastAPI的中间件遵循洋葱模型，但有一个反直觉的机制：后注册的中间件处于外层，率先执行——注册顺序与执行顺序正好相反。 中间件只有两三个时，顺序错了顶多重打几行日志。但当栈里有WAF语义检测、AI行为守卫、双层限流、AI/人类双路访客日志、SSE流式直通时，谁包谁]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HackerOne Account Takeover: The $20K Leaked Cookie]]></title>
+        <id>https://medium.com/p/4e97e094b7e7</id>
+        <link href="https://masimshahzad.medium.com/hackerone-account-takeover-the-20k-leaked-cookie-4e97e094b7e7?source=rss------bugbounty-5"/>
+        <updated>2026-11-25T05:06:33.000Z</updated>
+        <summary type="html"><![CDATA[A HackerOne analyst pasted a live session cookie into a report reply. A hacker reused it, saw customer reports, and earned $20,000
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Muhammad Asim Shahzad</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Azure AD Misconfiguration: The $40K Bing Takeover]]></title>
+        <id>https://medium.com/p/e36d49bacfa6</id>
+        <link href="https://masimshahzad.medium.com/azure-ad-misconfiguration-the-40k-bing-takeover-e36d49bacfa6?source=rss------bugbounty-5"/>
+        <updated>2026-11-25T05:01:08.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft paid Wiz $40,000: a multi-tenant Bing CMS let any Azure account log in and edit live search results
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Muhammad Asim Shahzad</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Home Vulnerability: A $107K Speaker Backdoor]]></title>
+        <id>https://medium.com/p/0703d9b2badf</id>
+        <link href="https://masimshahzad.medium.com/google-home-vulnerability-a-107k-speaker-backdoor-0703d9b2badf?source=rss------bugbounty-5"/>
+        <updated>2026-11-25T04:55:46.000Z</updated>
+        <summary type="html"><![CDATA[Google paid $107,500 after a smart speaker let anyone with three device details link an account and gain remote control, mic included
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Muhammad Asim Shahzad</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Parolanı Kırmaya Gerek Kalmadı: Oturumunu Çaldılar]]></title>
+        <id>https://medium.com/p/42cb194b8b81</id>
+        <link href="https://medium.com/@beyzasilagokmen12/parolan%C4%B1-k%C4%B1rmaya-gerek-kalmad%C4%B1-oturumunu-%C3%A7ald%C4%B1lar-42cb194b8b81?source=rss------redteam-5"/>
+        <updated>2026-11-25T02:30:56.000Z</updated>
+        <summary type="html"><![CDATA[2026'nın sessiz kimlik salgını: infostealer ekonomisi, MFA’yı delen çerezler ve neden şirketinin zaten sızmış olabileceği.
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Beyza Sıla Gökmen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The FBI warned about an autonomous pentest agent. I build the other kind.]]></title>
+        <id>https://medium.com/p/5b7e6988c539</id>
+        <link href="https://ruslan-riskvoid.medium.com/the-fbi-warned-about-an-autonomous-pentest-agent-i-build-the-other-kind-5b7e6988c539?source=rss------redteam-5"/>
+        <updated>2026-11-25T02:23:46.000Z</updated>
+        <summary type="html"><![CDATA[Security Agent Kit 0.2.0 built by RiskVoid next to PentAGI, Shannon and Strix, including where it loses.
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Ruslan Sazonov</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Inside Havoc’s sleep obfuscation: Foliage, Ekko, and Zilean]]></title>
+        <id>https://medium.com/p/be09d18ac9f0</id>
+        <link href="https://medium.com/fmisec/inside-havocs-sleep-obfuscation-foliage-ekko-and-zilean-be09d18ac9f0?source=rss------redteam-5"/>
+        <updated>2026-11-25T02:01:02.000Z</updated>
+        <summary type="html"><![CDATA[How Havoc encrypts agent memory between check-ins, and what each method costs in practice.
+Continue reading on FMI Cyber Security Consulting Services »]]></summary>
+        <author>
+            <name>Jason - Shisones</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一首写给程序员的一首歌《留，还是走》 - Lang_Hai]]></title>
+        <id>https://www.cnblogs.com/lang/p/23775121</id>
+        <link href="https://www.cnblogs.com/lang/p/23775121"/>
+        <updated>2026-11-25T01:59:00.000Z</updated>
+        <summary type="html"><![CDATA[程序员二十年--潮起潮落。https://www.kuaishou.com/short-video/3x9iqc5ubqkjdas 它不写某一个人的具体故事，也不堆砌技术名词，而是把2000年以来那些真正改变行业走向的重要事件排成一条时间线：门户网站、Web2.0、智能手机、云计算、O2O、大数据、]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[百度地图 2.0 / 3.0 项目升级到 JSAPI 4.0：改一个参数 - map_3d_vis]]></title>
+        <id>https://www.cnblogs.com/map-3d-vis/p/23774771</id>
+        <link href="https://www.cnblogs.com/map-3d-vis/p/23774771"/>
+        <updated>2026-11-25T01:26:00.000Z</updated>
+        <summary type="html"><![CDATA[2.0 和 3.0 项目把脚本地址的 v 改成 4.0 即可升级，业务代码和 AK 不用改，BMapLib 插件换新 CDN 地址。升级后注意滚轮缩放默认开启、缩放上限变为 21 级。]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[订单超时自动关闭，7 种方案到底怎么选？ - codigger]]></title>
+        <id>https://www.cnblogs.com/codigger/p/23774706</id>
+        <link href="https://www.cnblogs.com/codigger/p/23774706"/>
+        <updated>2026-11-25T01:23:00.000Z</updated>
+        <summary type="html"><![CDATA[下单 30 分钟不付款就自动关单、释放库存，这个需求做交易系统的谁都躲不掉。外卖平台更急，15 分钟就得取消；订酒店的，房间得 1 小时内放出来。 听着不难吧？把订单状态改成 &quot;已关闭&quot;，完事。 但真到生产环境，这活儿没那么简单。关单从来不是只改一个状态 —— 库存要释放，优惠券要退回去，流水要记上]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SSTI Attacks Explained: When {{7*7}} Returns 49, You Have a Problem]]></title>
+        <id>https://medium.com/p/d8ad37d11123</id>
+        <link href="https://medium.com/@vigneshkumaroffsec/ssti-attacks-explained-when-7-7-returns-49-you-have-a-problem-d8ad37d11123?source=rss------bugbounty-5"/>
+        <updated>2026-11-25T01:12:53.000Z</updated>
+        <summary type="html"><![CDATA[If user input lands inside a server-side template, the template engine may run it as code — and that road often ends in remote code…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Vigneshkumaroffsec</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SSTI Attacks Explained: When {{7*7}} Returns 49, You Have a Problem]]></title>
+        <id>https://medium.com/p/d8ad37d11123</id>
+        <link href="https://medium.com/@vigneshkumaroffsec/ssti-attacks-explained-when-7-7-returns-49-you-have-a-problem-d8ad37d11123?source=rss------redteam-5"/>
+        <updated>2026-11-25T01:12:53.000Z</updated>
+        <summary type="html"><![CDATA[If user input lands inside a server-side template, the template engine may run it as code — and that road often ends in remote code…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Vigneshkumaroffsec</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[步进电机路径规划：梯形曲线与S型曲线 - Zw-awa]]></title>
+        <id>https://www.cnblogs.com/zw-awa/p/23774320</id>
+        <link href="https://www.cnblogs.com/zw-awa/p/23774320"/>
+        <updated>2026-11-25T01:05:00.000Z</updated>
+        <summary type="html"><![CDATA[让电机从静止直接冲到目标频率，账面上走完了，电机那边却可能只是“嗡”了一声。从静止到那个频率中间该怎么过，“剩下的步数够不够刹住”又怎样写成一条曲线？]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[写 UI 自动化的同学，这个 2.3万 Star 的自动化Agent 让浏览器自己测试！ - 狂师]]></title>
+        <id>https://www.cnblogs.com/jinjiangongzuoshi/p/23774234</id>
+        <link href="https://www.cnblogs.com/jinjiangongzuoshi/p/23774234"/>
+        <updated>2026-11-25T00:59:00.000Z</updated>
+        <summary type="html"><![CDATA[大家好，我是狂师。 今天给大家分享一个浏览器自动化 Agent开源项目：Skyvern，目前在GitHub 上已经获得了 2.3万 Star ，Y Combinator 孵化的团队做的，2024 年初开源，到现在快三年，最新版本 v1.0.58 是 2026-11-15 刚发的，仓库还在高频更新。]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Bug Between Two Clicks: How to Find Hidden Logic Flaws in Web Applications]]></title>
+        <id>https://medium.com/p/ff8e94e73bb0</id>
+        <link href="https://osintteam.blog/the-bug-between-two-clicks-how-to-find-hidden-logic-flaws-in-web-applications-ff8e94e73bb0?source=rss------bugbounty-5"/>
+        <updated>2026-11-25T00:45:14.000Z</updated>
+        <summary type="html"><![CDATA[Most bug hunters test individual endpoints. But some of the most interesting vulnerabilities appear when you change the order, repeat an…
+Continue reading on OSINT Team »]]></summary>
+        <author>
+            <name>Monika</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[php-wasm-builder 1.0 发布，让 PHP 应用在浏览器里运行 - JaguarJack]]></title>
+        <id>https://www.cnblogs.com/catchadmin/p/23773953</id>
+        <link href="https://www.cnblogs.com/catchadmin/p/23773953"/>
+        <updated>2026-11-25T00:05:00.000Z</updated>
+        <summary type="html"><![CDATA[php-wasm-builder 1.0 发布，让 PHP 应用在浏览器里运行 php-wasm-builder 1.0 发布了。选好 PHP 版本和扩展，它就能把 PHP 编译成 WebAssembly，并把应用代码一起打包进去。网页可以直接运行这个包，无需部署 PHP 服务器。Node.js 也]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DOM-Based XSS via Arbitrary Cookie Injection Across a News Site and Its Subdomains]]></title>
+        <id>https://medium.com/p/87ec5e4317c2</id>
+        <link href="https://medium.com/@Assili-yassine/dom-based-xss-via-arbitrary-cookie-injection-across-a-news-site-and-its-subdomains-87ec5e4317c2?source=rss------bugbounty-5"/>
+        <updated>2026-11-24T23:26:30.000Z</updated>
+        <summary type="html"><![CDATA[👋 Hi, I’m Yassine Assili, a web application security researcher and bug bounty hunter from Morocco. I share my findings, research process…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Assiliyassine</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How One Free Trial Became Unlimited Number Of Licenses | $$$$ Bounty]]></title>
+        <id>https://medium.com/p/c98b8a4ee7e7</id>
+        <link href="https://medium.com/@marwanmedhat0001/how-one-free-trial-became-unlimited-number-of-licenses-bounty-c98b8a4ee7e7?source=rss------bugbounty-5"/>
+        <updated>2026-11-24T22:00:51.000Z</updated>
+        <summary type="html"><![CDATA[Never Assume That What the User Interface Restricts, the Backend Enforces — Every Endpoint Must Validate Business Rules Independently.
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Marwanmedhat</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bug Bounty : What Beginners Should Do, What Should Avoid, and How to Stay Consistent]]></title>
+        <id>https://medium.com/p/b9a44a8321c5</id>
+        <link href="https://medium.com/@atifwrite/bug-bounty-what-beginners-should-do-what-should-avoid-and-how-to-stay-consistent-b9a44a8321c5?source=rss------bugbounty-5"/>
+        <updated>2026-11-24T20:28:23.000Z</updated>
+        <summary type="html"><![CDATA[Bug bounty hunting looks exciting when you see someone earning hundreds or thousands of dollars from a single vulnerability.
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Atif Waheed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SQLMap Scout — A Valuable Tui to put in your Arsenal]]></title>
+        <id>https://medium.com/p/43545a412080</id>
+        <link href="https://medium.com/@xgw40095/sqlmap-scout-a-valuable-tui-to-put-in-your-arsenal-43545a412080?source=rss------bugbounty-5"/>
+        <updated>2026-11-24T19:16:07.000Z</updated>
+        <summary type="html"><![CDATA[We All Love sqlmap — We Just Hate Doing Its Homework
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>dntaskmehow</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Metasploit RCE Exploits CLOUDFLARE BYPASS + APACHE STRUTS2 RCE (CVE-2026–7890)]]></title>
+        <id>https://medium.com/p/a25c4e564e74</id>
+        <link href="https://medium.com/@xgw40095/metasploit-rce-exploits-cloudflare-bypass-apache-struts2-rce-cve-2026-7890-a25c4e564e74?source=rss------bugbounty-5"/>
+        <updated>2026-11-24T18:27:21.000Z</updated>
+        <summary type="html"><![CDATA[How is everyone? In cybersecurity, some vulnerabilities never truly die — they just evolve.
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>dntaskmehow</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Breaking System Prompts: Why Natural Language Fails as a Security Boundary (With Real Red-Teaming…]]></title>
+        <id>https://medium.com/p/aa84c6045aba</id>
+        <link href="https://systemweakness.com/breaking-system-prompts-why-natural-language-fails-as-a-security-boundary-with-real-red-teaming-aa84c6045aba?source=rss------redteam-5"/>
+        <updated>2026-11-24T17:01:02.000Z</updated>
+        <summary type="html"><![CDATA[About the Author & Series 
+I’m Manish Rawat, an independent security researcher and SOC analyst focused on threat detection, security…
+Continue reading on System Weakness »]]></summary>
+        <author>
+            <name>Manish Rawat</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building an Intelligence-Driven Exposure Validation Pipeline]]></title>
+        <id>https://medium.com/p/8e8467b86789</id>
+        <link href="https://medium.com/@reblinecybersec/building-an-intelligence-driven-exposure-validation-pipeline-8e8467b86789?source=rss------redteam-5"/>
+        <updated>2026-11-24T16:35:26.000Z</updated>
+        <summary type="html"><![CDATA[A practical cybersecurity research walkthrough using CISA KEV intelligence, Python automation, asset inventory correlation, authorized…
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Rebline CyberSec</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[106:GLM多算一轮，交付更划算吗？ - 李福春]]></title>
+        <id>https://www.cnblogs.com/snidget/p/23771367</id>
+        <link href="https://www.cnblogs.com/snidget/p/23771367"/>
+        <updated>2026-11-24T15:25:00.000Z</updated>
+        <summary type="html"><![CDATA[01、现场：一张能打开的装配件 演示里，Agent 收到一张草图，吐出 FreeCAD 装配件。文件能打开，草图约束还在，改一个参数，下游特征跟着重算。 这比生成一张渲染图难对付。图片看完就结束，装配件要进评审：尺寸对不对，公差写没写，装配约束有没有过定义。 FreeCAD 官方仓库把它定义为开源参]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Day 30：三段开发深度与框架全图 - Jeff-Tsai]]></title>
+        <id>https://www.cnblogs.com/jeff-tsai/p/23771151/day-30-depths-and-map</id>
+        <link href="https://www.cnblogs.com/jeff-tsai/p/23771151/day-30-depths-and-map"/>
+        <updated>2026-11-24T14:18:00.000Z</updated>
+        <summary type="html"><![CDATA[昨天结尾说今天把三十天的东西收成全图。 本篇说明： 框架沿 NoCode、LowCode 与 AnyCode 这条轴线提供的三段深度 全图：一份 FormSchema 长出来的东西，与每一次调用都会经过的东西 这套设计适合与不适合什么系统，以及长期的回报落在哪里 未竟之路，以及哪些是刻意不做 一、三]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[苦 Node.js SSR 久矣：我们把技术社区从 Nuxt 3 迁回了纯 Go 架构 - HelloWorld开发者社区]]></title>
+        <id>https://www.cnblogs.com/start1225/p/23771097</id>
+        <link href="https://www.cnblogs.com/start1225/p/23771097"/>
+        <updated>2026-11-24T13:54:00.000Z</updated>
+        <summary type="html"><![CDATA[我们砍掉了 Nuxt 3，把技术社区重构成了 Go + Templ + HTMX 自从有了 vue, react 之后，前后端分离，后端通过http接口返回json，前端拿到json数据解析并渲染，几乎成了各种web应用的标准做法。 在此基于vue,react 的技术构架之后，又有了服务端渲染框架]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【轻量化复刻大模型 / KIMI K3】K3 PostTrain 后训练交互式演示 - 罗西的思考]]></title>
+        <id>https://www.cnblogs.com/rossiXYZ/p/23672229</id>
+        <link href="https://www.cnblogs.com/rossiXYZ/p/23672229"/>
+        <updated>2026-11-24T12:41:00.000Z</updated>
+        <summary type="html"><![CDATA[# 【轻量化复刻大模型 / KIMI K3】K3 PostTrain 后训练交互式演示 目录0x01 实现概述1.1 做了什么1.2 文件清单1.3 设计思路1.4 如何运行0x02 核心数学2.1 总体公式2.2. XTML 序列化（附录 F：格式定义）2.3. SFT Loss（S4.1.1：交]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为什么 Java 写的 1000，C 读出来是负 4 亿？ - leikooo]]></title>
+        <id>https://www.cnblogs.com/leikooo/p/23770750</id>
+        <link href="https://www.cnblogs.com/leikooo/p/23770750"/>
+        <updated>2026-11-24T12:30:00.000Z</updated>
+        <summary type="html"><![CDATA[大家多半碰到过下面这几件怪事： 用 hexdump 看一个存了整数 0x12345678 的二进制文件，出来的却是 78 56 34 12，像是被倒着写进去的； 写 socket 程序时忘了调 htons，明明监听的是 8080，netstat 里看到的却是 36895； Java 服务往文件里写了]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【AI】一个优秀的AI框架设计 - 徐之豪]]></title>
+        <id>https://www.cnblogs.com/xuuold/p/23770554</id>
+        <link href="https://www.cnblogs.com/xuuold/p/23770554"/>
+        <updated>2026-11-24T12:01:00.000Z</updated>
+        <summary type="html"><![CDATA[一个优秀的AI框架设计 一个好的 AI 框架需要支持： 1、策划改行为不用找程序 2、程序轻松加行为入口（节点），逻辑单一、轻度、解耦 3、框架允许同时多种AI底层实现（行为树/效用/GOAP/强化学习等） 4、线上出问题能在十分钟内定位到具体位置 零、判断标准 先说清楚&quot;优秀&quot;的标准。分为六个维度]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[七个DSH插件源码分析报告 - 我才是银古]]></title>
+        <id>https://www.cnblogs.com/znlgis/p/23770164</id>
+        <link href="https://www.cnblogs.com/znlgis/p/23770164"/>
+        <updated>2026-11-24T10:52:00.000Z</updated>
+        <summary type="html"><![CDATA[实现原理 &#183; 插件效果 &#183; 优缺点 &#183; 横向对比 从提示词到原生执行：七层表面上的七种插件形态 7 个插件仓库 8 份分项报告 10 张可视化图表 0 处源码级耦合 分析对象 D:\self\code\cj 下的七个 DSH 插件源码仓库 证据基线 各仓库 Git 工作树（以 package.jso]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[日志上了阿里云 SLS，排查直接问 AI 就行 - 掸尘]]></title>
+        <id>https://www.cnblogs.com/liuzhang/p/23769972</id>
+        <link href="https://www.cnblogs.com/liuzhang/p/23769972"/>
+        <updated>2026-11-24T10:20:00.000Z</updated>
+        <summary type="html"><![CDATA[前段时间写了一篇《百万订单的架构演化》，简单提了一下日志系统。日志系统是系统里最核心的环节之一，对于问题排查极为重要。因为服务器有多台，所以日志不可能只写在本地，得上云。我们大多数组件都是基于阿里云，所以日志系统选了阿里云的 日志服务 SLS。 日志服务 SLS 阿里云日志服务 SLS（Log Se]]></summary>
+        <author>
+            <name>博客园_首页</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【HarmonyOS API 26】端云通信加速，助力京东打造稳定流畅的购物直播体验 - HarmonyOS_SDK]]></title>
         <id>https://www.cnblogs.com/HarmonyOSSDK/p/23769350</id>
